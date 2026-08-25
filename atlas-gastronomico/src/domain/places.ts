@@ -4,6 +4,10 @@ export function getChildren(parentId: string, places: Place[]): Place[] {
   return places.filter((p) => p.parentId === parentId);
 }
 
+export function getRecipeCountForPlace(placeId: string, recipes: Recipe[]): number {
+  return recipes.filter((r) => r.placeId === placeId).length;
+}
+
 export function resolvePlacePath(slugs: string[], places: Place[]): Place | null {
   let parentId: string | null = null;
   let current: Place | null = null;
