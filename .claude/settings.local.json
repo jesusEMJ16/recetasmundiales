@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext -layout \"Atlas_Gastronomico_Mundial_Interactivo.pdf\" atlas.txt)",
+      "Bash(pdftotext -layout \"Recetario_Mundial_Plan_Estrategico.pdf\" plan.txt)"
+    ]
+  }
+}

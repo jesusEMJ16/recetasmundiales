@@ -1,0 +1,26 @@
+# Dependencies
+atlas-gastronomico/node_modules
+
+# Next.js build output
+atlas-gastronomico/.next
+atlas-gastronomico/out
+
+# Misc
+atlas-gastronomico/.DS_Store
+*.pem
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+atlas-gastronomico/.env*
+!atlas-gastronomico/.env.example
+
+# Vercel
+atlas-gastronomico/.vercel
+
+# TypeScript
+atlas-gastronomico/*.tsbuildinfo
+atlas-gastronomico/next-env.d.ts

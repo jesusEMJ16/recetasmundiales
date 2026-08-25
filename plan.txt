@@ -1,0 +1,138 @@
+BLUEPRINT DE ARQUITECTURA & MONETIZACIÓN
+
+Plataforma Global: Recetario Mundial Interactivo
+
+Proyecto: Interactive World Cookbook Portal  Enfoque: Geolocation, WebGIS & Growth Strategy            Fecha: Agosto 2026
+
+Este documento establece la hoja de ruta integral para el diseño, desarrollo, posicionamiento SEO y estrategia
+multidimensional de monetización de una plataforma web interactiva basada en cartografía culinaria global.
+
+1. Modelos de Monetización Diversificados
+
+Depender únicamente de anuncios tradicionales suele comprometer la experiencia de usuario y reducir el margen de
+ganancias. Se propone un modelo híbrido estructurado por fases de tracción:
+
+Canal                       Estrategia & Implementación                    Potencial de Ingreso & KPI
+
+1. Publicidad Programática  · Fase Inicial: Google AdSense o Setup         CPM estimado: $6 - $22 USD (según geografía
+                            de Google Ad Manager.                          del tráfico). Anuncios in-stream y ubicaciones
+                            · Fase Escala (+50k visitas/mes): Redes        nativas entre ingredientes.
+                            Premium como Raptive, Mediavine o
+                            Playwire para optimizar el eCPM.
+
+2. Afiliación & E-Commerce  · Enlaces dinámicos a Amazon Associates        Comisiones del 4% al 12% por venta directa de
+                            / tiendas locales especializadas para          productos o ingredientes vinculados a las recetas.
+                            insumos exóticos o difíciles de conseguir.
+                            · Venta cruzada de utensilios regionales (p.
+                            ej. wok tradicional, cazuelas de barro,
+                            molcajete, máquinas de pasta).
+
+3. Modelo Subscripción      · Gratis: Mapa interactivo, filtros básicos y  Recurrencia mensual estable (MRR). Permite
+(Freemium)                  recetas con anuncios.                          fidelizar usuarios recurrentes e incrementar el
+                            · Pro ($4.99/mes): Sin anuncios, "Modo         valor de vida (LTV).
+                            Cocina Paso a Paso", generador
+                            automático de listas de compras y
+                            exportador de PDFs regionales.
+
+4. Patrocinio & Marcas      Alianzas estratégicas con marcas de            Contratos fijos mensuales/anuales por ubicación
+                            alimentos o utensilios para posicionarse       patrocinada de marca en regiones gastronómicas
+                            como el "Ingrediente o Equipo                  clave.
+                            Recomendado" dentro de un país o región
+                            específica.
+
+ Innovación en Monetización: Gamificación & Cursos Localizados
+
+Integración de un "Pasaporte Culinario" donde los usuarios registran las recetas preparadas. Al desbloquear países, se
+ofrecen micro-cursos o guías detalladas en asociación con chefs nativos de cada región mediante micro-pagos.
+
+2. Arquitectura Técnica y Stack Tecnológico
+
+Para mantener altos niveles de rendimiento en renderizado de mapas sin penalizar la velocidad de carga ni el SEO, se
+define la siguiente arquitectura de software:
+
+                                                                                                       Página 1 de 3
+Frontend & SSR                                             Motor Cartográfico (GIS)
+
+· Next.js (React) / Nuxt (Vue): Generación estática e      · Mapbox GL JS: Experiencia vectorial fluida con soporte
+incremental (ISR/SSR) indispensable para indexar miles de  para transiciones 3D desde mapa mundial a región local.
+recetas dinámicas.                                         · Leaflet.js + GeoJSON: Alternativa ultraligera de código
+· Tailwind CSS / Shadcn UI: Interfaz limpia, accesible y   abierto para bajo consumo de datos móviles.
+optimizada para dispositivos móviles.
+
+Estructura Relacional de la Base de Datos (PostgreSQL / Supabase / SpatiaLite)
+Modelo relacional optimizado para consultas de geolocalización espacial y filtrado jerárquico multinivel:
+
+-- Tabla Geográfica Hierárquica
+CREATE TABLE regiones_gastronomicas (
+
+       id SERIAL PRIMARY KEY,
+       nombre VARCHAR(100) NOT NULL,
+       nivel_jerarquia VARCHAR(20) CHECK (nivel_jerarquia IN ('pais', 'estado', 'pueblo_region')),
+       padre_id INT REFERENCES regiones_gastronomicas(id),
+       coordenadas_bounds GEOMETRY(Polygon, 4326), -- LÍMITES GEOJSON
+       slug VARCHAR(120) UNIQUE NOT NULL
+);
+
+-- Tabla de Recetas Gastronómicas
+CREATE TABLE recetas (
+
+       id SERIAL PRIMARY KEY,
+       titulo VARCHAR(150) NOT NULL,
+       slug VARCHAR(180) UNIQUE NOT NULL,
+       region_id INT REFERENCES regiones_gastronomicas(id),
+       tiempo_preparacion_min INT,
+       dificultad VARCHAR(20),
+       ingredientes JSONB NOT NULL, -- Incluye enlaces de afiliados
+       instrucciones JSONB NOT NULL,
+       metadata_seo JSONB
+);
+
+3. Estrategia de SEO Culinario y Estructura Dinámica de URLs
+
+El tráfico orgánico desde motores de búsqueda es la columna vertebral del proyecto. Se deben configurar rutas
+semánticas que permitan a Google rastrear cada nivel de la jerarquía geográfica:
+
+  · /recetas/mexico Nivel 1: País Mapa interactivo nacional y catálogo de platillos emblemáticos.
+  · /recetas/mexico/oaxaca Nivel 2: Estado/Provincia Filtro enfocado en gastronomía regional específica (moles,
+
+    tlayudas, mezcales).
+  · /recetas/mexico/oaxaca/mole-negro Nivel 3: Platillo Página individual optimizada con datos estructurados.
+
+Schema.org (Microdatos para Fragmentos Enriquecidos)
+Inclusión obligatoria de marcado en JSON-LD para que los resultados de búsqueda muestren estrellas, tiempos de
+cocción, calorías y fotografías directamente en las SERPs de Google:
+
+                                                                                                           Página 2 de 3
+   {
+       "@context": "https://schema.org/",
+       "@type": "Recipe",
+       "name": "Mole Negro Oaxaqueño",
+       "image": ["https://ejemplo.com/fotos/mole-negro.jpg"],
+       "author": { "@type": "Organization", "name": "Recetario Mundial" },
+       "prepTime": "PT45M",
+       "cookTime": "PT120M",
+       "recipeYield": "6 porciones",
+       "recipeCuisine": "Mexicana",
+       "recipeCategory": "Plato Principal"
+
+   }
+
+4. Hoja de Ruta de Implementación (Roadmap)
+
+    Fase 1 (Mes 1-2): MVPA & Arquitectura Base
+
+    Creación de la base de datos de países base, diseño del frontend con Leaflet/Mapbox y publicación del primer lote de 100 recetas
+    curadas con SEO optimizado.
+
+    Fase 2 (Mes 3-4): Mapeo Regional y Afiliación
+
+    Desglose por estados/provincias en países clave. Integración de la API de Amazon Associates para enlaces de compras
+    automáticos en ingredientes.
+
+    Fase 3 (Mes 5-6): Monetización Programática & Modelo Pro
+
+    Integración de AdSense/Mediavine, lanzamiento del plan de suscripción Premium (Exportación PDF y Modo Cocina sin anuncios) y
+    módulo de comunidad para subir recetas regionales.
+
+                                                                                                                                                                              Página 3 de 3
+

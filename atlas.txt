@@ -1,0 +1,574 @@
+                                    ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+
+DOCUMENTO DE CONCEPTO Y ESTRATEGIA
+
+Atlas Gastronómico
+Mundial Interactivo
+
+Una plataforma para explorar el mundo a través de recetas, regiones,
+ingredientes y cultura culinaria.
+
+             EXPLORA > COCINA > DESBLOQUEA > COMPARTE
+
+                      Del mapa mundial a la cocina de cualquier pueblo, ciudad o región.
+
+Propuesta de valor
+Descubrir recetas auténticas según su origen geográfico, cocinarlas con ayuda práctica y convertir la
+exploración culinaria en una experiencia coleccionable mediante un pasaporte gastronómico.
+
+Pilar                               Qué aporta
+Exploración
+Utilidad                            Mapa/globo interactivo con navegación por país, estado,
+Retención                           región, ciudad o pueblo.
+Crecimiento                         Recetas accionables, filtros, sustituciones, porciones y
+Ingresos                            búsqueda por ingredientes disponibles.
+                                    Pasaporte gastronómico, progreso por regiones, logros y
+                                    colecciones.
+                                    SEO programático, contenido bilingüe y páginas geográficas
+                                    indexables.
+                                    Publicidad, afiliados, membresía, patrocinio de marcas y
+                                    experiencias culinarias.
+
+Visión: no construir "otro blog de recetas", sino el atlas interactivo de cocina mundial que la gente consulta
+para decidir qué cocinar y recordar qué partes del mundo ya ha probado.
+
+             Concepto y estrategia de producto | Agosto 2026 | 1
+                             ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+
+01 / RESUMEN EJECUTIVO
+
+La oportunidad
+
+El mercado de recetas es competitivo, pero la mayoría de productos organiza el contenido por categorías,
+ingredientes o autores. La oportunidad diferencial está en usar la geografía como interfaz principal y convertir
+cada receta en un punto de entrada a una cultura culinaria.
+
+     La diferencia no es el mapa por sí solo
+     TasteAtlas ya valida el interés por explorar alimentos geográficamente. La ventaja debe estar en unir
+     origen + receta cocinable + filtros profundos + progresión personal + comunidad.
+
+Posicionamiento recomendado
+
+"Explora el mundo cocinando."
+
+El mapa atrae. Las recetas resuelven una necesidad. El pasaporte hace que el usuario regrese. El SEO trae
+tráfico. La comunidad ayuda a expandir el catálogo.
+
+Principios del producto
+
+ Cada plato debe poder tener uno o varios orígenes, con nivel de confianza y variantes regionales.
+ Toda ubicación importante debe tener URL propia para que el contenido no viva únicamente dentro del
+
+     mapa.
+ Las recetas deben ser útiles para cocinar, no simples fichas enciclopédicas.
+ La exactitud cultural debe ser un sistema del producto: fuentes, autores, revisiones y variantes.
+ El sitio debe funcionar igual de bien desde Google, desde el mapa y desde una búsqueda de ingredientes.
+
+Nombre de trabajo
+
+Opción                       Dirección de marca
+Eat the World
+                             Emocional, fácil de compartir y compatible con el sistema de
+Atlas of Flavor              logros.
+Recipe Earth                 Más editorial/premium; ideal si se enfatiza cultura y
+WorldBite                    descubrimiento.
+                             Directo y funcional; explica rápido el concepto.
+                             Corto, moderno y orientado a producto digital.
+
+                        Concepto y estrategia de producto | Agosto 2026 | 2
+                                                                                                                   ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+02 / EXPERIENCIA DE USUARIO
+
+El bucle principal: descubrir, cocinar y volver
+
+Etapa           Experiencia                                Objetivo de producto
+1. Descubrir
+2. Filtrar      El usuario gira el globo o busca un país,  Curiosidad y exploración.
+3. Cocinar      ciudad, plato o ingrediente.               Reducir fricción.
+4. Registrar                                               Valor práctico.
+5. Desbloquear  Tiempo, presupuesto, dieta, técnica,       Crear historial personal.
+6. Compartir    picante, comida del día, ingredientes.     Recompensa y retención.
+                                                           Adquisición orgánica.
+                Receta clara, porciones, sustituciones,
+                pasos y contexto cultural.
+
+                Marca la receta como cocinada, puntúa y
+                añade una nota/foto.
+
+                La región gana progreso y se otorga un
+                sello/logro.
+
+                Tarjeta "Hoy cociné X de Y" o progreso
+                del pasaporte.
+
+Pantalla inicial recomendada
+
+     Hero
+     Globo 3D o mapa mundial + buscador universal: "Busca un plato, país, ciudad o ingrediente". Debajo:
+     Explorar por continente, Sorpresa, Cocinar con lo que tengo y Reto de la semana.
+
+Navegación geográfica
+
+Mundo > País > Estado/Provincia > Región culinaria > Ciudad/Pueblo > Plato > Receta
+
+Mejora clave: región culinaria no siempre equivale a división política
+
+La base de datos debería permitir regiones culturales que cruzan fronteras administrativas. Ejemplo: una
+cocina puede pertenecer a una zona costera, valle, comunidad indígena o corredor migratorio. Esto evita
+forzar toda tradición culinaria dentro de un estado o ciudad.
+
+     Campo sugerido: origin_confidence
+     confirmed / commonly_associated / disputed / modern_variant. Esto permite mostrar desacuerdos de
+     origen sin presentar una atribución dudosa como hecho.
+
+                Concepto y estrategia de producto | Agosto 2026 | 3
+                                                        ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+
+03 / FUNCIONES QUE VUELVEN ÚNICO AL PRODUCTO
+
+Funciones prioritarias
+
+A. Cocinar con lo que tengo
+
+El usuario selecciona los ingredientes que ya tiene. El sistema calcula coincidencia por receta y muestra:
+"Puedes cocinar 12 recetas completas y 28 con 1-2 ingredientes faltantes".
+
+Filtro                                        Ejemplos
+
+Ubicación                                     País, estado/provincia, región, ciudad, pueblo.
+Momento                                       Desayuno, comida, cena, postre, bebida, street food.
+Tiempo                                        <15 min, <30 min, <60 min, lento/fin de semana.
+Costo                                         Económico, medio, especial.
+                                              Vegetariano, vegano, sin gluten, etc. con etiquetado
+Dieta                                         responsable.
+                                              Sartén, horno, parrilla, air fryer, sin cocinar.
+Técnica                                       Picante, dulce, ahumado, ácido, reconfortante, fresco.
+Perfil
+
+B. Botón "Sorpréndeme"
+
+El globo gira y selecciona una receta al azar según restricciones del usuario. Puede convertirse en reto semanal
+y contenido viral: "Dejamos que el mapa eligiera nuestra cena".
+
+C. Food Passport
+
+     Sistema de progreso
+     Países probados, regiones completadas, platos cocinados, rachas opcionales, medallas temáticas y mapa
+     personal coloreado. Debe premiar exploración, no uso compulsivo.
+
+D. Variantes y familias culinarias
+
+En vez de afirmar que existe una sola receta "correcta", una ficha de plato puede agrupar variaciones:
+tradicional, regional, casera, moderna, vegetariana o adaptación internacional. Esto mejora precisión cultural
+y SEO.
+
+E. Contribuciones locales
+
+Los usuarios pueden proponer recetas y origen. Un flujo de moderación añade fuentes, relación geográfica y
+revisión. Más adelante, perfiles de cocineros locales, historiadores o restaurantes pueden obtener insignias de
+colaborador verificado.
+
+           Concepto y estrategia de producto | Agosto 2026 | 4
+                                                                                                                   ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+04 / MODELO DE NEGOCIO
+
+Monetizar sin depender de una sola fuente
+
+La publicidad puede financiar una parte del producto, pero el diseño debe permitir varias capas de ingresos. El
+objetivo es que una visita útil pueda monetizarse por contenido, compra, membresía o patrocinio sin dañar la
+experiencia.
+
+Canal                 Cuándo activarlo                    Cómo encaja
+
+Publicidad            Cuando exista volumen de páginas y  Anuncios en páginas de receta/guías,
+Afiliados             tráfico.                            evitando saturar el mapa y los pasos.
+Premium               Desde el MVP.
+Patrocinios           Cuando haya usuarios recurrentes.   Utensilios, ingredientes especiales,
+Turismo/experiencias                                      libros, equipos y kits relevantes.
+B2B/API               Con audiencia demostrable.
+                                                          Sin anuncios, planificador, listas, filtros
+                      Fase de expansión.                  avanzados, estadísticas y colecciones.
+                      Escala.
+                                                          Marcas de alimentos, utensilios, cadenas
+                                                          de supermercados o campañas
+                                                          regionales.
+
+                                                          Tours culinarios, clases, mercados,
+                                                          experiencias y destinos gastronómicos.
+
+                                                          Datos geográficos de platos, taxonomías,
+                                                          widgets o licencias para terceros.
+
+Secuencia recomendada
+
+1. 0-6 meses: afiliados ligeros + construcción de tráfico; priorizar calidad y SEO.
+2. 6-18 meses: publicidad con una red adecuada al volumen y calidad del sitio.
+3. 12-24 meses: premium si el Food Passport y el planificador muestran retención real.
+4. 18+ meses: patrocinios, campañas de destino, experiencias y datos B2B.
+
+     Dato actual
+     Google AdSense exige contenido propio, interesante y de calidad; Journey by Mediavine indica que
+     comienza desde 1,000 sesiones, mientras que Mediavine Official usa actualmente un umbral basado en
+     ingresos publicitarios anuales.
+
+Regla de monetización
+
+No colocar anuncios de forma que interrumpan ingredientes/pasos o hagan lenta la interacción. La velocidad,
+confianza y utilidad de la receta deben tener prioridad porque sostienen SEO, retorno y conversiones.
+
+                      Concepto y estrategia de producto | Agosto 2026 | 5
+                                                                                                                   ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+05 / SEO Y CRECIMIENTO ORGÁNICO
+
+El mapa atrae; las URLs indexables escalan
+
+La mayor oportunidad de crecimiento está en convertir la estructura geográfica y culinaria en miles de páginas
+útiles, cada una con contenido único y navegación interna coherente.
+
+Arquitectura de URL sugerida
+
+      /recipes/mexico/
+      /recipes/mexico/oaxaca/
+      /recipes/mexico/oaxaca/tlayudas/
+      /recipes/italy/campania/naples/
+      /ingredients/chickpeas/
+      /collections/30-minute-japanese-recipes/
+
+Tipos de páginas con potencial
+
+Página                                          Intención de búsqueda
+País / región
+Plato                                           "comida típica de Oaxaca", "traditional food in Sicily".
+Ingrediente                                     "birria recipe", "what is okonomiyaki".
+Restricción                                     "recipes with chickpeas", "what to cook with poblano peppers".
+                                                "Japanese recipes without fish", "Mexican vegetarian recipes".
+Tiempo / costo                                  "cheap Colombian breakfast", "Italian dinner under 30
+                                                minutes".
+Comparativa / historia                          Variantes regionales, orígenes, técnicas y diferencias.
+
+Datos estructurados
+
+Google Search admite marcado Recipe y recomienda propiedades como tiempos, imágenes, valoraciones
+y nutrición cuando corresponda. Para colecciones de recetas puede utilizarse ItemList según la
+documentación de Google.
+
+Estrategia bilingüe
+
+Lanzar con inglés y español puede ser una ventaja si el sistema de contenido se diseña con campos traducibles
+desde el inicio. Usar hreflang, slugs coherentes y evitar traducción automática sin revisión en contenido
+cultural sensible.
+
+                        Concepto y estrategia de producto | Agosto 2026 | 6
+                                                                                                                   ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+06 / MODELO DE DATOS
+
+Diseñar la base de datos para la complejidad cultural
+
+Entidad           Campos principales
+
+Place             id, type, name, parent_id, geometry, country_code, aliases.
+CulinaryRegion    name, description, geometry opcional, places relacionados.
+Dish              name, slug, summary, history, origin_confidence, status.
+DishOrigin        dish_id, place/region_id, relation_type, source_id.
+                  dish_id, author, servings, times, difficulty, instructions,
+Recipe            version_type.
+                  canonical_name, aliases, category, dietary flags.
+Ingredient        quantity, unit, preparation_note, optional/substitution.
+RecipeIngredient  title, publisher, URL, date, reliability/review status.
+Source            user_id, recipe_id, date, rating, note, photo.
+UserCook          author, claim, sources, moderation status, reviewer.
+Contribution
+
+Relaciones importantes
+
+ Un plato puede pertenecer a múltiples lugares o regiones.
+ Un plato puede tener múltiples recetas y variantes.
+ Una receta puede usar sustituciones sin alterar el registro de la versión tradicional.
+ Una ubicación puede tener jerarquía política y, aparte, pertenecer a una región culinaria.
+ Toda afirmación histórica o de origen sensible debe poder apuntar a fuentes.
+
+     Mejora importante
+
+     Evitar guardar "ciudad de origen" directamente en la tabla Dish como único campo. Usar una tabla
+     DishOrigin permite manejar historias complejas, disputas, migraciones y múltiples asociaciones sin
+     rehacer la base más adelante.
+
+                  Concepto y estrategia de producto | Agosto 2026 | 7
+                                                                                                                   ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+07 / ARQUITECTURA TÉCNICA
+
+Stack recomendado para un MVP escalable
+
+Capa           Recomendación                           Por qué
+Frontend       Next.js + TypeScript
+Mapa                                                   SEO, SSR/SSG, rutas dinámicas, buen
+Base de datos  MapLibre GL JS                          ecosistema.
+Backend                                                Open source, WebGL, mapas vectoriales
+Búsqueda       PostgreSQL + PostGIS                    y soporte de globo.
+Media                                                  Geografía, relaciones y consultas
+Analytics      Supabase o API propia                   espaciales.
+Deploy         Postgres FTS al inicio; luego           Auth, base de datos y velocidad de
+               Typesense/Meilisearch                   desarrollo.
+               Cloudflare R2 / S3 compatible
+                                                       Autocompletado, aliases y filtros rápidos.
+               GA4 + Search Console + eventos propios
+               Vercel/Cloudflare + CDN                 Imágenes optimizadas y costo
+                                                       controlable.
+                                                       Adquisición, retención y
+                                                       comportamiento.
+                                                       Despliegue simple y rendimiento global.
+
+Mapa y datos abiertos
+
+MapLibre puede renderizar mapas interactivos desde tiles vectoriales. Los datos de OpenStreetMap son
+reutilizables bajo sus condiciones, pero los servidores públicos de tiles de OSM tienen capacidad limitada y no
+deben tratarse como infraestructura gratuita ilimitada para un producto comercial de alto tráfico.
+
+Rendimiento
+
+ No cargar miles de recetas como marcadores individuales a nivel mundial: agrupar por región/cluster.
+ Servir geometrías simplificadas según zoom.
+ Generar páginas estáticas o cacheadas para destinos y recetas populares.
+ Optimizar imágenes en AVIF/WebP y usar tamaños responsivos.
+ Medir Core Web Vitals desde el MVP.
+
+               Concepto y estrategia de producto | Agosto 2026 | 8
+                                                                                                                   ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+08 / CONTENIDO, PRECISIÓN Y DERECHOS
+
+La confianza debe ser parte del producto
+
+En gastronomía, las historias de origen pueden ser disputadas y las recetas varían entre familias y regiones. El
+producto debe presentar contexto y fuentes, no fingir una certeza que no existe.
+
+Nivel             Tratamiento sugerido
+
+Confirmado        Fuentes sólidas y asociación cultural ampliamente aceptada.
+Asociado          El plato es muy representativo del lugar, aunque el origen
+                  exacto sea incierto.
+Disputado         Mostrar las principales versiones con fuentes y lenguaje
+Variante moderna  neutral.
+                  Distinguir adaptación contemporánea de receta tradicional.
+
+Política de recetas
+
+ No copiar instrucciones, historias ni fotografías de otros sitios.
+ Documentar ingredientes y técnica con redacción propia y pruebas internas cuando sea posible.
+ Citar fuentes históricas/culinarias para afirmaciones de origen.
+ Solicitar derechos claros para fotografías de colaboradores.
+ Etiquetar contenido generado o asistido por IA y someterlo a revisión humana antes de publicarlo.
+
+Moderación comunitaria
+
+Las contribuciones deberían entrar como propuestas, no publicarse automáticamente. Un panel de revisión
+puede verificar duplicados, fuentes, ubicación, idioma, derechos de imagen y coherencia de ingredientes.
+
+     Ventaja competitiva posible
+     Crear una reputación de "recetas con procedencia". Cada ficha explica no solo cómo cocinar algo, sino
+     por qué está asociada a un lugar, qué variantes existen y qué nivel de certeza tiene la atribución.
+
+                  Concepto y estrategia de producto | Agosto 2026 | 9
+                                           ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+
+09 / MVP Y ROADMAP
+
+Qué construir primero
+
+El mayor riesgo sería intentar "cargar todo el mundo" antes de validar que la experiencia retiene usuarios. El
+MVP debe demostrar tres cosas: la gente explora el mapa, abre recetas y regresa para registrar progreso.
+
+Fase                              Alcance                                    Meta
+
+MVP 0                             Prototipo visual del globo + 25 recetas.   Validar navegación y estética.
+MVP 1                                                                        Validar adquisición y utilidad.
+MVP 2                             5 países, ~100 recetas, búsqueda, filtros  Validar retención.
+MVP 3                             básicos, URLs SEO.                         Aumentar frecuencia y catálogo.
+Escala                                                                       Monetización diversificada.
+                                  Cuenta, favoritos, "cocinado", Food
+                                  Passport y Surprise Me.
+
+                                  Ingredientes disponibles, listas,
+                                  contribuciones y moderación.
+
+                                  20+ países, traducciones, afiliados, ads,
+                                  premium.
+
+Cinco países iniciales sugeridos
+
+México, Estados Unidos, Italia, Japón y Tailandia: alta familiaridad, muchas búsquedas, diversidad culinaria y
+suficiente contraste para probar la experiencia geográfica.
+
+Primeras 100 recetas
+
+ 20 por país, pero distribuidas entre varias regiones; evitar concentrarlas todas en una ciudad.
+ Mezcla de platos famosos (tráfico) y regionales (diferenciación).
+ Cada receta con 1 imagen principal, historia corta, ingredientes, pasos, tiempos, porciones, origen y
+
+     fuentes.
+ En cada país, 3-5 páginas de colección: desayunos, street food, postres, rápidos, vegetarianos, etc.
+
+Calendario orientativo de construcción
+
+Sprint                                     Entregable
+
+1                                          Modelo de datos + sistema de lugares + 10 recetas de prueba.
+
+2                                          Globo/mapa + navegación geográfica + páginas de país/región.
+
+3                                          Página de receta + búsqueda + filtros + schema Recipe.
+
+4                                          Cuenta + favoritos + "cocinado" + pasaporte básico.
+
+5                                          Analytics, performance, sitemap, QA móvil, lanzamiento beta.
+
+6+                                         Contenido, optimización SEO y prueba de monetización ligera.
+
+        Concepto y estrategia de producto | Agosto 2026 | 10
+                                          ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+
+10 / MÉTRICAS, EXPERIMENTOS Y DECISIONES
+
+Qué medir desde el día uno
+
+Métrica                                   Qué responde
+
+Mapa -> receta                            ¿El mapa realmente ayuda a descubrir contenido?
+Search -> receta                          ¿El buscador resuelve intención rápidamente?
+Recetas por sesión                        ¿La persona explora más de un plato?
+                                          ¿Las recetas son lo bastante útiles para registrarlas como
+Cooked rate                               cocinadas?
+                                          ¿El pasaporte genera retorno?
+Retención 7/30 días                       ¿La progresión produce contenido compartible?
+Share rate                                ¿La arquitectura de páginas está creciendo orgánicamente?
+SEO clicks / indexación                   ¿Los productos recomendados son relevantes?
+Afiliado CTR / revenue
+
+Experimentos de alto valor
+
+ Mapa 3D vs mapa 2D como primera pantalla.
+ Botón "Sorpréndeme" visible vs secundario.
+ Pasaporte por países vs por regiones.
+ Mostrar "qué te falta comprar" en búsqueda por ingredientes.
+ Tarjeta compartible del plato vs tarjeta de progreso del país.
+ Contenido de historia corto arriba vs expandible debajo de la receta.
+
+     North Star Metric sugerida
+
+     Número de recetas marcadas como cocinadas por usuarios activos al mes. Combina descubrimiento,
+     utilidad y retención mejor que medir solo visitas.
+
+                         Concepto y estrategia de producto | Agosto 2026 | 11
+                                     ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+
+11 / RIESGOS Y CÓMO REDUCIRLOS
+
+Los problemas más probables
+
+Riesgo                               Mitigación
+
+Catálogo enorme y lento de producir  Empezar pequeño, priorizar calidad y abrir contribuciones
+                                     moderadas.
+Atribuciones culturales incorrectas  Fuentes, origin_confidence, múltiples orígenes y revisores.
+Contenido "programático" pobre       No generar páginas vacías; cada URL necesita utilidad única.
+Mapa pesado en móviles               Progressive loading, clusters, simplificación y fallback 2D/lista.
+Dependencia de Google                Email, pasaporte, shares, direct traffic, comunidad y PWA.
+Ads dañando UX                       Ubicaciones limitadas y pruebas de velocidad/retención.
+                                     Usarla para asistencia editorial, no como fuente primaria de
+IA creando errores                   hechos culturales.
+
+Moat posible
+
+El mapa por sí solo se puede copiar. La barrera real debe ser la combinación de: grafo de platos-orígenes-
+variantes, datos culturales con fuentes, historial de usuarios, reputación comunitaria, taxonomía de
+ingredientes y una gran red de páginas SEO interconectadas.
+
+Lo que NO construiría al inicio
+
+ Una app móvil nativa separada.
+ Nutrición clínica o recomendaciones médicas complejas.
+ Reservas de restaurantes.
+ Marketplace propio de ingredientes.
+ IA conversacional costosa antes de tener catálogo sólido.
+ Los 195 países desde el primer lanzamiento.
+
+                                     Concepto y estrategia de producto | Agosto 2026 | 12
+                                                                                                                   ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+12 / BLUEPRINT FINAL
+
+Versión recomendada del proyecto
+
+Producto
+Atlas gastronómico interactivo bilingüe donde el usuario explora un mapa del mundo, encuentra recetas
+por origen, filtra por sus necesidades, cocina y desbloquea regiones en un pasaporte personal.
+
+MVP             Incluido
+
+ Componente     Globo/mapa navegable con 5 países y regiones seleccionadas.
+                100 recetas de alta calidad con fuentes y variantes básicas.
+  Mapa          País, región, plato, receta y colecciones con sitemap/schema.
+  Contenido     Plato, lugar e ingrediente; filtros de tiempo/dieta/técnica.
+  SEO           Favoritos + cocinado + progreso del Food Passport.
+  Búsqueda      Surprise Me + tarjetas compartibles + newsletter opcional.
+  Cuenta        Afiliados ligeros; publicidad cuando el tráfico lo justifique.
+  Growth
+  Monetización
+
+Orden de prioridad
+
+1) Datos y SEO -> 2) Experiencia del mapa -> 3) Recetas excelentes -> 4) Food Passport -> 5)
+Distribución -> 6) Monetización
+
+Conclusión
+
+La idea tiene sentido si se construye como producto interactivo y no como blog. El elemento más defendible no
+será "tener un mapa", sino relacionar platos, regiones, variantes, ingredientes y usuarios dentro de una
+estructura que sea útil tanto para cocinar como para explorar. La combinación de SEO programático de calidad
++ gamificación moderada + contenido cultural verificable puede crear tráfico recurrente y varias rutas de
+monetización.
+
+     Recomendación inmediata
+     Antes de programar todo, crear un prototipo navegable de 3 pantallas: Mundo, País/Región y Receta.
+     Cargar 10 recetas reales y probar si la experiencia se siente más como "explorar el mundo" que como
+     "leer un blog".
+
+                Concepto y estrategia de producto | Agosto 2026 | 13
+                                                                                                                   ATLAS GASTRONOMICO MUNDIAL INTERACTIVO
+REFERENCIAS
+
+Fuentes consultadas y notas de mercado
+
+Fuente                                 Dominio                       Uso en este documento
+                                       support.google.com
+Google AdSense - Eligibility           developers.google.com         Requisitos de contenido original,
+requirements                           mediavine.com                 interesante y de calidad para la
+Google Search Central - Recipe                                       elegibilidad.
+structured data
+                                                                     Uso de Recipe/ItemList y propiedades
+Mediavine - Requirements / Journey                                   para resultados enriquecidos de recetas.
+
+MapLibre GL JS                         maplibre.org                  Journey indica inicio desde 1,000
+                                                                     sesiones; Mediavine Official usa umbral
+OpenStreetMap Foundation - Tile Usage  operations.osmfoundation.org  de ingresos publicitarios anuales.
+Policy
+                                                                     Biblioteca open source para mapas
+TasteAtlas - About                     tasteatlas.com                vectoriales interactivos, con soporte de
+                                                                     globo.
+
+                                                                     Los datos OSM son abiertos, pero los
+                                                                     servidores públicos de tiles tienen
+                                                                     capacidad limitada y políticas de uso.
+
+                                                                     Ejemplo de mercado que valida el
+                                                                     interés por un atlas mundial de comida
+                                                                     tradicional y gastronomía local.
+
+Nota: Los umbrales, políticas y condiciones de plataformas de publicidad o mapas pueden cambiar. Verificar
+las condiciones vigentes antes de implementar o contratar servicios.
+
+Documento vivo
+
+Este documento funciona como base de producto. La siguiente versión ideal sería convertirlo en: wireframes,
+esquema SQL inicial, backlog técnico, calendario de contenido y proyección de costos/ingresos por escenario.
+
+                                    Concepto y estrategia de producto | Agosto 2026 | 14
+

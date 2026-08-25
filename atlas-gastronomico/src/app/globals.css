@@ -1,0 +1,132 @@
+@import "tailwindcss";
+
+/* ===========================================================================
+   Atlas Gastronómico — Sistema de diseño
+   Dirección: editorial gastronómico mexicano — papel crema con grano,
+   serif con carácter (Fraunces) + sans refinada (DM Sans), acentos vibrantes
+   (terracota, rosa mexicano, verde agave, dorado). Luz, elegante, vibrante.
+   =========================================================================== */
+
+@theme {
+  /* Paleta */
+  --color-paper: #faf4ea;
+  --color-paper-2: #f2e7d3;
+  --color-card: #fffdf8;
+  --color-ink: #241b16;
+  --color-ink-soft: #6f5f52;
+  --color-ink-faint: #a2937f;
+  --color-terracota: #c1440e;
+  --color-terracota-deep: #96330a;
+  --color-rosa: #e11d74;
+  --color-agave: #3f6b4c;
+  --color-agave-deep: #2c5138;
+  --color-dorado: #d99a00;
+  --color-line: #e7dac4;
+  --color-line-soft: #efe6d5;
+
+  /* Radios y sombras */
+  --radius-xl2: 1.25rem;
+  --shadow-card: 0 1px 2px rgba(36, 27, 22, 0.04), 0 8px 24px -12px rgba(36, 27, 22, 0.18);
+  --shadow-lift: 0 12px 40px -12px rgba(193, 68, 14, 0.28), 0 4px 12px -6px rgba(36, 27, 22, 0.2);
+}
+
+@theme inline {
+  --font-display: var(--font-fraunces), Georgia, "Times New Roman", serif;
+  --font-body: var(--font-dmsans), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* ---- Base ---- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-paper);
+  background-image:
+    radial-gradient(1200px 600px at 12% -8%, rgba(225, 29, 116, 0.08), transparent 60%),
+    radial-gradient(1000px 620px at 100% 0%, rgba(217, 154, 0, 0.1), transparent 55%),
+    radial-gradient(900px 700px at 50% 120%, rgba(63, 107, 76, 0.09), transparent 60%);
+  background-attachment: fixed;
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Grano de papel sutil sobre todo el sitio */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.5;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
+}
+
+::selection {
+  background: var(--color-rosa);
+  color: #fff;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-display);
+  letter-spacing: -0.02em;
+}
+
+/* ---- Animaciones de entrada (funcionan en server components vía animation-delay) ---- */
+@keyframes reveal {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes reveal-scale {
+  from { opacity: 0; transform: scale(0.96) translateY(10px); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-6px); }
+}
+@keyframes marker-pulse {
+  0%   { box-shadow: 0 0 0 0 rgba(225, 29, 116, 0.5); }
+  70%  { box-shadow: 0 0 0 14px rgba(225, 29, 116, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(225, 29, 116, 0); }
+}
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.reveal { animation: reveal 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+.reveal-scale { animation: reveal-scale 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .reveal-scale { animation: none; }
+  html { scroll-behavior: auto; }
+}
+
+/* ---- Utilidades decorativas ---- */
+.eyebrow {
+  font-family: var(--font-body);
+  text-transform: uppercase;
+  letter-spacing: 0.28em;
+  font-weight: 600;
+  font-size: 0.7rem;
+}
+
+/* Marca de agua / número editorial */
+.deco-underline {
+  background-image: linear-gradient(transparent 62%, rgba(225, 29, 116, 0.22) 0);
+  background-size: 100% 100%;
+}
+
+/* Placeholder de imagen con textura mientras no hay foto real */
+.img-placeholder {
+  background:
+    linear-gradient(135deg, var(--color-paper-2), var(--color-card)),
+    repeating-linear-gradient(45deg, rgba(193, 68, 14, 0.06) 0 10px, transparent 10px 20px);
+}
+
+/* Scrollbar cálida */
+* { scrollbar-color: var(--color-line) transparent; }
