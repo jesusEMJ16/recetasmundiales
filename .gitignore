@@ -1,26 +1,53 @@
+```
 # Dependencies
-atlas-gastronomico/node_modules
+node_modules/
 
-# Next.js build output
-atlas-gastronomico/.next
-atlas-gastronomico/out
+# Build outputs
+dist/
+build/
+.next/
+out/
 
-# Misc
-atlas-gastronomico/.DS_Store
-*.pem
+# Environment variables
+.env
+.env.local
+.env.*
 
-# Debug logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# Env files
-atlas-gastronomico/.env*
-!atlas-gastronomico/.env.example
+# Logs
+*.log
 
-# Vercel
-atlas-gastronomico/.vercel
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
 
-# TypeScript
-atlas-gastronomico/*.tsbuildinfo
-atlas-gastronomico/next-env.d.ts
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Testing
+.jest/
+.nyc_output/
+coverage/
+
+# Runtime data
+*.pid
+*.seed
+*.idx
+
+# Temporary files
+*.tmp
+*.temp
+```

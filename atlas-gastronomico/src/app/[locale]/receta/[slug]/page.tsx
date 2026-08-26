@@ -71,7 +71,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
     totalTime: iso(recipe.totalTimeMin),
     recipeYield: t.recipe.servings(recipe.servings),
     recipeIngredient: recipe.ingredients.map((i) => i.text),
-    recipeInstructions: recipe.steps.map((s) => ({ "@type": "HowToStep", text: s })),
+    recipeInstructions: recipe.steps.map((s) => ({ "@type": "HowToStep", text: typeof s === 'string' ? s : s.text })),
     aggregateRating: { "@type": "AggregateRating", ratingValue: recipe.ratingAvg, reviewCount: recipe.ratingCount },
   };
 
@@ -156,14 +156,17 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
         <div>
           <h2 className="font-display text-xl text-ink">{t.recipe.preparation}</h2>
           <ol className="mt-3 space-y-4">
-            {recipe.steps.map((s, idx) => (
-              <li key={idx} className="flex gap-3.5">
-                <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-terracota font-display text-sm font-semibold text-paper">
-                  {idx + 1}
-                </span>
-                <p className="pt-1 leading-relaxed text-ink-soft">{s}</p>
-              </li>
-            ))}
+            {recipe.steps.map((s, idx) => {
+              const stepText = typeof s === 'string' ? s : s.text;
+              return (
+                <li key={idx} className="flex gap-3.5">
+                  <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-terracota font-display text-sm font-semibold text-paper">
+                    {idx + 1}
+                  </span>
+                  <p className="pt-1 leading-relaxed text-ink-soft">{stepText}</p>
+                </li>
+              );
+            })}
           </ol>
         </div>
       </section>
