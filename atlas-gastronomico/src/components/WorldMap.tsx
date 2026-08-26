@@ -233,7 +233,12 @@ export function WorldMap() {
   }, [locale]);
 
   useEffect(() => {
-    if (!ref.current) return;
+    if (!ref.current || mapRef.current) return;
+
+    // Evitar inicialización múltiple
+    if ((ref.current as any)._leaflet_id) {
+      return;
+    }
 
     // Inicializar mapa con Leaflet
     const map = L.map(ref.current, {
