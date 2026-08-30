@@ -4,9 +4,9 @@
 [build]
   base = "atlas-gastronomico"
   command = "next build"
-  # Carpeta de salida de Next.js (ruta desde la raíz del repo).
-  # Debe ser DISTINTA del base, si no el plugin de Next.js falla.
-  publish = "atlas-gastronomico/.next"
+  # Carpeta de salida de Next.js, RELATIVA al base (atlas-gastronomico).
+  # Resultado final: atlas-gastronomico/.next
+  publish = ".next"
 
 # Plugin oficial que permite a Netlify ejecutar Next.js (rutas dinámicas /es, /en, etc.)
 [[plugins]]
