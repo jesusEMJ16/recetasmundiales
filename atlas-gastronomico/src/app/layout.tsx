@@ -1,7 +1,11 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Fraunces, DM_Sans } from "next/font/google";
 import { defaultLocale, localeMeta } from "../i18n/config";
 import "./globals.css";
+
+// ID de editor de Google AdSense
+const ADSENSE_CLIENT = "ca-pub-7181603320952752";
 
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -38,6 +42,15 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang={localeMeta[defaultLocale].htmlLang} className={`${fraunces.variable} ${dmSans.variable}`}>
+      <head>
+        <Script
+          id="adsbygoogle-init"
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+      </head>
       <body>{children}</body>
     </html>
   );
