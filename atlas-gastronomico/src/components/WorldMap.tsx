@@ -20,7 +20,10 @@ async function loadLeaflet() {
   if (L) return L;
   const leafletModule = await import("leaflet");
   L = leafletModule.default || leafletModule;
-  
+
+  // Plugin de clusters: extiende L con MarkerClusterGroup (necesita que L ya exista)
+  await import("leaflet.markercluster");
+
   // Cargar CSS
   await import("leaflet/dist/leaflet.css");
   await import("leaflet.markercluster/dist/MarkerCluster.css");
@@ -239,6 +242,13 @@ export function WorldMap() {
     if ((ref.current as any)._leaflet_id) {
       return;
     }
+
+    let cancelled = false;
+
+    // Cargar Leaflet (y el plugin de clusters) ANTES de usar L
+    loadLeaflet().then(() => {
+      if (cancelled || mapRef.current) return;
+      if (!ref.current || (ref.current as any)._leaflet_id) return;
 
     // Inicializar mapa con Leaflet
     const map = L.map(ref.current, {
@@ -493,9 +503,14 @@ export function WorldMap() {
       return div;
     };
     hint.addTo(map);
+    }); // fin de loadLeaflet().then()
 
     return () => {
-      map.remove();
+      cancelled = true;
+      if (mapRef.current) {
+        mapRef.current.remove();
+        mapRef.current = null;
+      }
     };
   }, [router, locale, generateRecipeMarkers, t.hint]);
 
