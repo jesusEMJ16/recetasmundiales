@@ -1,0 +1,10 @@
+# Configuración de Netlify para el Atlas Gastronómico (Next.js)
+# La app vive en la subcarpeta atlas-gastronomico/
+
+[build]
+  base = "atlas-gastronomico"
+  command = "next build"
+
+# Plugin oficial que permite a Netlify ejecutar Next.js (rutas dinámicas /es, /en, etc.)
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
