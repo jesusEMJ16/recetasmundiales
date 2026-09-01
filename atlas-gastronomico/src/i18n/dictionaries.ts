@@ -31,6 +31,7 @@ export interface Dictionary {
   recipe: {
     history: string; ingredients: string; preparation: string; sources: string;
     optional: string; servings: (n: number) => string;
+    nutrition: string; nutritionPerServing: string;
     confidence: Record<OriginConfidence, string>;
     relatedEyebrow: string; relatedTitle: (name: string) => string; relatedTitleGeneric: string;
     seeAll: (name: string) => string; photoCredit: string; via: string;
@@ -172,6 +173,7 @@ const en: Dictionary = {
   recipe: {
     history: "History", ingredients: "Ingredients", preparation: "Preparation", sources: "Sources & provenance",
     optional: "optional", servings: (n) => `${n} servings`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
     confidence: {
       confirmed: "Confirmed origin",
       commonly_associated: "Commonly associated",
@@ -247,6 +249,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "历史", ingredients: "食材", preparation: "制作方法", sources: "来源和出处",
       optional: "可选", servings: (n) => `${n} 人份`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "已确认起源",
         commonly_associated: "通常关联",
@@ -318,6 +321,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "इतिहास", ingredients: "सामग्री", preparation: "तैयारी", sources: "स्रोत और प्रोवेनेंस",
       optional: "वैकल्पिक", servings: (n) => `${n} सर्विंग्स`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "पुष्टि उत्पत्ति",
         commonly_associated: "आमतौर पर जुड़ा हुआ",
@@ -389,6 +393,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "Histoire", ingredients: "Ingrédients", preparation: "Préparation", sources: "Sources et provenance",
       optional: "optionnel", servings: (n) => `${n} portions`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "Origine confirmée",
         commonly_associated: "Communément associé",
@@ -460,6 +465,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "التاريخ", ingredients: "المكونات", preparation: "التحضير", sources: "المصادر والمصدر",
       optional: "اختياري", servings: (n) => `${n} حصص`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "أصل مؤكد",
         commonly_associated: "مرتبط عادة",
@@ -531,6 +537,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "ইতিহাস", ingredients: "উপকরণ", preparation: "প্রস্তুতি", sources: "উৎস এবং প্রোভেন্যান্স",
       optional: "ঐচ্ছিক", servings: (n) => `${n} পরিবেশন`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "নিশ্চিত উৎপত্তি",
         commonly_associated: "সাধারণত সম্পর্কিত",
@@ -602,6 +609,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "História", ingredients: "Ingredientes", preparation: "Preparo", sources: "Fontes e procedência",
       optional: "opcional", servings: (n) => `${n} porções`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "Origem confirmada",
         commonly_associated: "Comumente associado",
@@ -673,6 +681,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "История", ingredients: "Ингредиенты", preparation: "Приготовление", sources: "Источники и происхождение",
       optional: "по желанию", servings: (n) => `${n} порций`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "Подтвержденное происхождение",
         commonly_associated: "Обычно ассоциируется",
@@ -744,6 +753,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "تاریخ", ingredients: "اجزاء", preparation: "تیاری", sources: "ذرائع اور اصل",
       optional: "اختیاری", servings: (n) => `${n} سرونگز`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "تصدیق شدہ اصل",
         commonly_associated: "عام طور پر منسلک",
@@ -815,6 +825,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "Sejarah", ingredients: "Bahan-bahan", preparation: "Persiapan", sources: "Sumber dan asal-usul",
       optional: "opsional", servings: (n) => `${n} porsi`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "Asal dikonfirmasi",
         commonly_associated: "Biasanya terkait",
@@ -886,6 +897,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     recipe: {
       history: "歴史", ingredients: "材料", preparation: "作り方", sources: "出典と由来",
       optional: "オプション", servings: (n) => `${n}人前`,
+      nutrition: "Nutritional Information", nutritionPerServing: "Per serving",
       confidence: {
         confirmed: "確認された起源",
         commonly_associated: "一般的に関連付けられている",
