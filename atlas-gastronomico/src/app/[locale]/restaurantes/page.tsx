@@ -1,5 +1,6 @@
+import type { Metadata } from "next";
 import { getDictionary } from "@/i18n/dictionaries";
-import { Locale, locales } from "@/i18n/config";
+import { Locale, locales, localeMeta, isLocale } from "@/i18n/config";
 import { restaurants, getFeaturedRestaurants } from "@/data/restaurants";
 import RestaurantCard from "@/components/RestaurantCard";
 import AdSenseBanner, { NativeAd, InFeedAd } from "@/components/AdSenseBanner";
@@ -8,11 +9,13 @@ interface PageProps {
   params: Promise<{ locale: Locale }>;
 }
 
-export async function generateMetadata({ params }: PageProps) {
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
-  const dict = getDictionary(locale);
+  if (!isLocale(locale)) return {};
   
+  const dict = getDictionary(locale);
   const canonicalUrl = `https://worldbitesapp.com/${locale}/restaurantes`;
+  const localeInfo = localeMeta[locale];
   
   return {
     title: `${dict.restaurants.title} - World Bites`,
@@ -22,6 +25,19 @@ export async function generateMetadata({ params }: PageProps) {
       languages: Object.fromEntries(
         locales.map((l) => [l, `https://worldbitesapp.com/${l}/restaurantes`])
       ),
+    },
+    openGraph: {
+      title: dict.restaurants.title,
+      description: dict.restaurants.subtitle,
+      type: "website",
+      locale: localeInfo.htmlLang,
+      url: canonicalUrl,
+      siteName: "Atlas Gastronómico Mundial",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: dict.restaurants.title,
+      description: dict.restaurants.subtitle,
     },
   };
 }

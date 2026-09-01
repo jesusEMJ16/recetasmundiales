@@ -8,7 +8,8 @@ import { getRelatedRecipes } from "../../../../domain/related";
 import { getRecipeImage } from "../../../../data/recipe-images";
 import { StarRating } from "../../../../components/StarRating";
 import { RecipeCard } from "../../../../components/RecipeCard";
-import { isLocale, locales } from "../../../../i18n/config";
+import { isLocale, locales, localeMeta } from "../../../../i18n/config";
+import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
 import { placeHrefFromSlugs } from "../../../../i18n/routing";
 import { translateRecipe, translatePlaceName } from "../../../../i18n/content";
@@ -24,7 +25,38 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const r = isLocale(locale) ? translateRecipe(base, locale) : base;
   
   const canonicalUrl = `https://worldbitesapp.com/${locale}/receta/${slug}`;
+  const localeInfo = localeMeta[locale as Locale];
   
+  // Get place for breadcrumb
+  const place = PLACES.find((p) => p.id === r.placeId);
+  const placeName = place ? translatePlaceName(place, locale as Locale) : "Receta";
+
+  // Build breadcrumb schema
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: `https://worldbitesapp.com/${locale}`,
+      },
+      ...(place ? [{
+        "@type": "ListItem" as const,
+        position: 2,
+        name: placeName,
+        item: canonicalUrl,
+      }] : []),
+      {
+        "@type": "ListItem" as const,
+        position: place ? 3 : 2,
+        name: r.dishName,
+        item: canonicalUrl,
+      },
+    ],
+  };
+
   return {
     title: r.dishName,
     description: r.summary,
@@ -33,6 +65,19 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       languages: Object.fromEntries(
         locales.map((l) => [l, `https://worldbitesapp.com/${l}/receta/${slug}`])
       ),
+    },
+    openGraph: {
+      title: r.dishName,
+      description: r.summary,
+      type: "article",
+      locale: localeInfo?.htmlLang || "es",
+      url: canonicalUrl,
+      siteName: "Atlas Gastronómico Mundial",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: r.dishName,
+      description: r.summary,
     },
   };
 }
@@ -60,6 +105,33 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
   const credit = getRecipeImage(recipe.slug);
   const photo = credit?.url ?? (hasPhoto(recipe.image) ? recipe.image : null);
 
+  // Build breadcrumb schema
+  const placeName = place ? translatePlaceName(place, locale as Locale) : "Receta";
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem" as const,
+        position: 1,
+        name: "Home",
+        item: `https://worldbitesapp.com/${locale}`,
+      },
+      ...(place ? [{
+        "@type": "ListItem" as const,
+        position: 2,
+        name: placeName,
+        item: `https://worldbitesapp.com/${locale}/recetas/${placePathSlugs(place, PLACES).join('/')}`,
+      }] : []),
+      {
+        "@type": "ListItem" as const,
+        position: place ? 3 : 2,
+        name: recipe.dishName,
+        item: `https://worldbitesapp.com/${locale}/receta/${slug}`,
+      },
+    ],
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Recipe",
@@ -76,9 +148,15 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
     aggregateRating: { "@type": "AggregateRating", ratingValue: recipe.ratingAvg, reviewCount: recipe.ratingCount },
   };
 
+  // Combined schema with Recipe and BreadcrumbList
+  const combinedSchema = {
+    "@context": "https://schema.org",
+    "@graph": [jsonLd, breadcrumbSchema],
+  };
+
   return (
     <article className="mx-auto max-w-3xl space-y-8">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(combinedSchema) }} />
 
       <nav className="reveal flex flex-wrap items-center gap-1 text-sm text-ink-soft">
         <Link href={`/${locale}`} className="transition-colors hover:text-terracota">{t.header.navHome}</Link>

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Suspense } from "react";
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
 import { PLACES } from "../../../../data/places";
 import { RECIPES } from "../../../../data/recipes";
 import {
@@ -13,7 +14,8 @@ import { RecipeList } from "../../../../components/RecipeList";
 import { SortControls } from "../../../../components/SortControls";
 import { FilterControls } from "../../../../components/FilterControls";
 import { StatesGrid } from "../../../../components/StatesGrid";
-import { isLocale, locales } from "../../../../i18n/config";
+import { isLocale, locales, localeMeta } from "../../../../i18n/config";
+import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
 import { placeHref, placeHrefFromSlugs } from "../../../../i18n/routing";
 import { translatePlaceName } from "../../../../i18n/content";
@@ -25,6 +27,65 @@ export function generateStaticParams() {
   return locales.flatMap((locale) =>
     PLACES.map((p) => ({ locale, slug: placePathSlugs(p, PLACES) })),
   );
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string[] }> }): Promise<Metadata> {
+  const { locale, slug } = await params;
+  if (!isLocale(locale)) return {};
+  
+  const place = resolvePlacePath(slug, PLACES);
+  if (!place) return {};
+  
+  const t = getDictionary(locale);
+  const canonicalUrl = `https://worldbitesapp.com/${locale}/recetas/${slug.join('/')}`;
+  const localeInfo = localeMeta[locale as Locale];
+  const placeName = translatePlaceName(place, locale as Locale);
+  const recipes = getRecipesForPlace(place.id, PLACES, RECIPES);
+  
+  // Build breadcrumb schema for place pages
+  const breadcrumb = getBreadcrumb(place, PLACES);
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem" as const,
+        position: 1,
+        name: "Home",
+        item: `https://worldbitesapp.com/${locale}`,
+      },
+      ...breadcrumb.map((p, index) => ({
+        "@type": "ListItem" as const,
+        position: index + 2,
+        name: translatePlaceName(p, locale as Locale),
+        item: `https://worldbitesapp.com/${locale}/recetas/${placePathSlugs(p, PLACES).join('/')}`,
+      })),
+    ],
+  };
+  
+  return {
+    title: t.place.title(placeName),
+    description: `${t.place.kind[place.type]} · ${t.place.recipes(recipes.length)}. ${t.home.subtitle}`,
+    alternates: {
+      canonical: canonicalUrl,
+      languages: Object.fromEntries(
+        locales.map((l) => [l, `https://worldbitesapp.com/${l}/recetas/${slug.join('/')}`])
+      ),
+    },
+    openGraph: {
+      title: t.place.title(placeName),
+      description: `${t.place.kind[place.type]} · ${t.place.recipes(recipes.length)}`,
+      type: "website",
+      locale: localeInfo?.htmlLang || "es",
+      url: canonicalUrl,
+      siteName: "Atlas Gastronómico Mundial",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t.place.title(placeName),
+      description: `${t.place.kind[place.type]} · ${t.place.recipes(recipes.length)}`,
+    },
+  };
 }
 
 export default async function PlacePage({
@@ -60,6 +121,26 @@ export default async function PlacePage({
     count: getRecipesForPlace(c.id, PLACES, RECIPES).length,
   }));
 
+  // Build breadcrumb schema for place pages (must be inside component to access variables)
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem" as const,
+        position: 1,
+        name: "Home",
+        item: `https://worldbitesapp.com/${locale}`,
+      },
+      ...breadcrumb.map((p, index) => ({
+        "@type": "ListItem" as const,
+        position: index + 2,
+        name: translatePlaceName(p, locale as Locale),
+        item: `https://worldbitesapp.com/${locale}/recetas/${placePathSlugs(p, PLACES).join('/')}`,
+      })),
+    ],
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
@@ -69,9 +150,15 @@ export default async function PlacePage({
     })),
   };
 
+  // Combine ItemList schema with BreadcrumbList
+  const combinedSchema = {
+    "@context": "https://schema.org",
+    "@graph": [jsonLd, breadcrumbSchema],
+  };
+
   return (
     <div className="space-y-8">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(combinedSchema) }} />
 
       <nav className="reveal flex flex-wrap items-center gap-1 text-sm text-ink-soft">
         <Link href={`/${locale}`} className="transition-colors hover:text-terracota">{t.header.navHome}</Link>
