@@ -1,5 +1,5 @@
 import { getDictionary } from "@/i18n/dictionaries";
-import { Locale } from "@/i18n/config";
+import { Locale, locales } from "@/i18n/config";
 import { restaurants, getFeaturedRestaurants } from "@/data/restaurants";
 import RestaurantCard from "@/components/RestaurantCard";
 import AdSenseBanner, { NativeAd, InFeedAd } from "@/components/AdSenseBanner";
@@ -12,16 +12,15 @@ export async function generateMetadata({ params }: PageProps) {
   const { locale } = await params;
   const dict = getDictionary(locale);
   
+  const canonicalUrl = `https://worldbitesapp.com/${locale}/restaurantes`;
+  
   return {
     title: `${dict.restaurants.title} - World Bites`,
     description: dict.restaurants.subtitle,
     alternates: {
-      canonical: `https://worldbitesapp.com/${locale}/restaurantes`,
+      canonical: canonicalUrl,
       languages: Object.fromEntries(
-        ["es", "en", "zh", "hi", "fr", "ar", "bn", "pt", "ru", "ur", "id", "ja"].map(l => [
-          l,
-          `https://worldbitesapp.com/${l}/restaurantes`
-        ])
+        locales.map((l) => [l, `https://worldbitesapp.com/${l}/restaurantes`])
       ),
     },
   };

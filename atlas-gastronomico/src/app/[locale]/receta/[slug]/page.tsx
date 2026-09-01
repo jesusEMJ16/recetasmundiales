@@ -22,16 +22,17 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const base = RECIPES.find((x) => x.slug === slug);
   if (!base) return {};
   const r = isLocale(locale) ? translateRecipe(base, locale) : base;
+  
+  const canonicalUrl = `https://worldbitesapp.com/${locale}/receta/${slug}`;
+  
   return {
     title: r.dishName,
     description: r.summary,
     alternates: {
-      canonical: `/${locale}/receta/${slug}`,
-      languages: {
-        es: `/es/receta/${slug}`,
-        en: `/en/receta/${slug}`,
-        "x-default": `/es/receta/${slug}`,
-      },
+      canonical: canonicalUrl,
+      languages: Object.fromEntries(
+        locales.map((l) => [l, `https://worldbitesapp.com/${l}/receta/${slug}`])
+      ),
     },
   };
 }
