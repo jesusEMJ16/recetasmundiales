@@ -36,7 +36,7 @@ export interface Dictionary {
     relatedEyebrow: string; relatedTitle: (name: string) => string; relatedTitleGeneric: string;
     seeAll: (name: string) => string; photoCredit: string; via: string;
   };
-  search: { placeholder: string; recipe: string };
+  search: { placeholder: string; recipe: string; results?: string };
   ads: { supported: string };
   restaurants: { title: string; subtitle: string; featured: string; nearby: string; add: string };
 }
