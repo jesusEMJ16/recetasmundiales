@@ -7,10 +7,14 @@ import { LocaleSwitcher } from "./LocaleSwitcher";
 export function SiteHeader({ locale }: { locale: Locale }) {
   const t = getDictionary(locale).header;
   return (
-    <header className="sticky top-0 z-50 border-b border-line/70 bg-paper/80 backdrop-blur-md">
+    <header className="sticky top-0 z-50 border-b border-line/70 bg-paper/80 backdrop-blur-md" role="banner">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-        <Link href={homeHref(locale)} className="group flex items-center gap-2.5">
-          <span className="grid h-9 w-9 place-items-center rounded-full bg-terracota text-lg text-paper shadow-[var(--shadow-card)] transition-transform duration-300 group-hover:rotate-12">
+        <Link 
+          href={homeHref(locale)} 
+          className="group flex items-center gap-2.5"
+          aria-label={`${t.brand} - ${t.tagline}`}
+        >
+          <span className="grid h-9 w-9 place-items-center rounded-full bg-terracota text-lg text-paper shadow-[var(--shadow-card)] transition-transform duration-300 group-hover:rotate-12" aria-hidden>
             🌶️
           </span>
           <span className="flex flex-col leading-none">
@@ -18,11 +22,11 @@ export function SiteHeader({ locale }: { locale: Locale }) {
             <span className="eyebrow text-[0.6rem] text-terracota">{t.tagline}</span>
           </span>
         </Link>
-        <nav className="flex items-center gap-4 text-sm text-ink-soft sm:gap-6">
-          <Link href={homeHref(locale)} className="hidden transition-colors hover:text-terracota sm:inline">
+        <nav className="flex items-center gap-4 text-sm text-ink-soft sm:gap-6" role="navigation" aria-label={t.navHome}>
+          <Link href={homeHref(locale)} className="hidden transition-colors hover:text-terracota sm:inline" aria-label={t.navHome}>
             {t.navHome}
           </Link>
-          <Link href={placeHrefFromSlugs(locale, ["mexico"])} className="hidden transition-colors hover:text-terracota sm:inline">
+          <Link href={placeHrefFromSlugs(locale, ["mexico"])} className="hidden transition-colors hover:text-terracota sm:inline" aria-label={t.navStates}>
             {t.navStates}
           </Link>
           <LocaleSwitcher />

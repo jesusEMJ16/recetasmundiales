@@ -515,11 +515,13 @@ export function WorldMap() {
   }, [router, locale, generateRecipeMarkers, t.hint]);
 
   return (
-    <div className="relative w-full">
+    <div className="relative w-full" role="region" aria-label={"Mapa interactivo de recetas mexicanas"}>
       <div 
         ref={ref} 
         className="h-[520px] w-full overflow-hidden rounded-[var(--radius-xl2)] border border-line shadow-[var(--shadow-card)]"
         style={{ minHeight: "520px" }}
+        role="application"
+        aria-label={"Mapa de México con ubicaciones de recetas"}
       />
       <style jsx global>{`
         .leaflet-container {

@@ -17,6 +17,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const canonicalUrl = `https://worldbitesapp.com/${locale}`;
   const localeInfo = localeMeta[locale];
   
+  // Build hreflang links with x-default
+  const hreflangLinks: Record<string, string> = Object.fromEntries(
+    locales.map((l) => [l, `https://worldbitesapp.com/${l}`])
+  );
+  hreflangLinks['x-default'] = 'https://worldbitesapp.com/es';
+  
   return {
     title: {
       default: `${t.home.eyebrow} — ${t.header.tagline}`,
@@ -25,9 +31,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     description: t.home.subtitle,
     alternates: {
       canonical: canonicalUrl,
-      languages: Object.fromEntries(
-        locales.map((l) => [l, `https://worldbitesapp.com/${l}`])
-      ),
+      languages: hreflangLinks,
     },
     openGraph: {
       title: t.home.eyebrow,
