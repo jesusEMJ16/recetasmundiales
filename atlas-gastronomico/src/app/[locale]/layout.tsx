@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { SiteHeader } from "../../components/SiteHeader";
+import { Analytics } from "../../components/Analytics";
 import { isLocale, locales, localeMeta } from "../../i18n/config";
 import { getDictionary } from "../../i18n/dictionaries";
 
@@ -75,6 +76,7 @@ export default async function LocaleLayout({
   return (
     <html lang={localeMeta[locale].htmlLang}>
       <body className="min-h-screen">
+        <Analytics />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}

@@ -220,6 +220,39 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
         <p className="leading-relaxed text-ink-soft">{recipe.history}</p>
       </section>
 
+      {recipe.nutrition && (
+        <section className="rounded-[var(--radius-xl2)] border border-line bg-gradient-to-br from-agave/5 to-transparent p-5">
+          <h2 className="font-display text-xl text-ink mb-3">📊 {t.recipe.nutrition || 'Información Nutricional'}</h2>
+          <p className="text-sm text-ink-soft mb-4">{t.recipe.nutritionPerServing || 'Por porción'}</p>
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+            <div className="rounded-lg bg-paper p-3 text-center">
+              <div className="text-2xl font-bold text-terracota">{recipe.nutrition.calories}</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">Calorías</div>
+            </div>
+            <div className="rounded-lg bg-paper p-3 text-center">
+              <div className="text-2xl font-bold text-agave-deep">{recipe.nutrition.protein}g</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">Proteínas</div>
+            </div>
+            <div className="rounded-lg bg-paper p-3 text-center">
+              <div className="text-2xl font-bold text-dorado-deep">{recipe.nutrition.carbohydrates}g</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">Carbohidratos</div>
+            </div>
+            <div className="rounded-lg bg-paper p-3 text-center">
+              <div className="text-2xl font-bold text-terracota-soft">{recipe.nutrition.fat}g</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">Grasas</div>
+            </div>
+            <div className="rounded-lg bg-paper p-3 text-center">
+              <div className="text-2xl font-bold text-ink">{recipe.nutrition.fiber}g</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">Fibra</div>
+            </div>
+            <div className="rounded-lg bg-paper p-3 text-center">
+              <div className="text-2xl font-bold text-ink-soft">{recipe.nutrition.sodium}mg</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">Sodio</div>
+            </div>
+          </div>
+        </section>
+      )}
+
       <section className="grid gap-8 md:grid-cols-[0.9fr_1.1fr]">
         <div className="rounded-[var(--radius-xl2)] border border-line bg-card p-5 shadow-[var(--shadow-card)] md:sticky md:top-20 md:self-start">
           <h2 className="font-display text-xl text-ink">{t.recipe.ingredients}</h2>

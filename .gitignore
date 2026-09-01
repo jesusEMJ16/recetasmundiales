@@ -2,16 +2,16 @@
 # Dependencies
 node_modules/
 
-# Build outputs
-.next/
-out/
+# Build artifacts
 dist/
 build/
+.next/
+out/
 
 # Environment variables
+.env
 .env.local
 .env.*
-!.env.example
 
 # IDE files
 .vscode/
@@ -19,25 +19,31 @@ build/
 *.swp
 *.swo
 
-# OS files
-.DS_Store
-Thumbs.db
-
 # Logs
 *.log
 
-# Python cache
+# Python specific
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Temporary files
+*.tmp
+*.temp
 
 # Coverage reports
 coverage/
 htmlcov/
 .coverage
 
-# Temporary files
-*.tmp
-*.temp
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache directories
+.cache/
+.mypy_cache/
+.pytest_cache/
+.nyc_output/
 ```

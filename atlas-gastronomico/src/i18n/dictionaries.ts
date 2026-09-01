@@ -96,6 +96,8 @@ const es: Dictionary = {
   recipe: {
     history: "Historia", ingredients: "Ingredientes", preparation: "Preparación", sources: "Fuentes y procedencia",
     optional: "opcional", servings: (n) => `${n} porciones`,
+    nutrition: "Información Nutricional",
+    nutritionPerServing: "Por porción",
     confidence: {
       confirmed: "Origen confirmado",
       commonly_associated: "Comúnmente asociado",
