@@ -11,43 +11,38 @@ out/
 # Environment variables
 .env
 .env.local
-.env.*
+*.env.*
 
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Logs
-*.log
-
-# Coverage reports
-coverage/
-htmlcov/
-.coverage
-
-# IDE specific
+# IDE files
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS generated
-.DS_Store
-Thumbs.db
+# Logs
+*.log
 
-# Testing
-.jest/
-.nyc_output/
-coverage/
-
-# Runtime data
-*.pid
-*.seed
-*.idx
-
-# Temporary files
+# Temp files
 *.tmp
-*.temp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git/modules/
 ```

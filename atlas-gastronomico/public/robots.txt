@@ -1,0 +1,16 @@
+# robots.txt para World Bites App
+# Permitir todo el rastreo para mejor indexación
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://worldbitesapp.com/sitemap.xml
+
+# Evitar rastreo de rutas administrativas o privadas (si las hubiera)
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Crawl-delay opcional para ser amigable con servidores pequeños
+Crawl-delay: 1
