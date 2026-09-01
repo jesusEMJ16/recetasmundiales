@@ -5,9 +5,17 @@ export const RECIPES_MX_CENTRO: Recipe[] = [
     id: "r-mxc-pollo-san-marcos", dishName: "Pollo de San Marcos", slug: "pollo-de-san-marcos",
     placeId: "mx-agu",
     summary: "Pollo dorado bañado en una salsa de chiles secos con un toque dulce de fruta y vino.",
-    history: "Platillo de fiesta ligado a la Feria Nacional de San Marcos en Aguascalientes; combina chiles, especias y fruta en una salsa festiva y reconfortante.",
+    history: "Platillo de fiesta ligado a la Feria Nacional de San Marcos en Aguascalientes; combina chiles, especias y fruta en una salsa festiva y reconfortante. Tradicionalmente se prepara para celebraciones especiales y representa la riqueza culinaria del Bajío mexicano.",
     originConfidence: "commonly_associated", servings: 6, prepTimeMin: 30, cookTimeMin: 45, totalTimeMin: 75,
     difficulty: "media", moment: "comida", diet: ["sin_gluten"],
+    nutrition: {
+      calories: 385,
+      protein: 32,
+      carbohydrates: 18,
+      fat: 22,
+      fiber: 3,
+      sodium: 520,
+    },
     ingredients: [
       { text: "1 pollo entero en piezas" },
       { text: "3 chiles anchos y 2 mulatos, sin semillas" },
@@ -34,6 +42,14 @@ export const RECIPES_MX_CENTRO: Recipe[] = [
     placeId: "mx-gua",
     summary: "Tortillas pasadas por salsa de guajillo, rellenas de queso y coronadas con papa y zanahoria doradas.",
     history: "Antojo obrero de las minas de Guanajuato capital; se servía caliente y contundente a los trabajadores y hoy es emblema de la ciudad.",
+    nutrition: {
+      calories: 350,
+      protein: 15,
+      carbohydrates: 35,
+      fat: 18,
+      fiber: 4,
+      sodium: 480,
+    },
     originConfidence: "confirmed", servings: 4, prepTimeMin: 25, cookTimeMin: 25, totalTimeMin: 50,
     difficulty: "facil", moment: "comida", diet: ["vegetariano"],
     ingredients: [
@@ -61,6 +77,14 @@ export const RECIPES_MX_CENTRO: Recipe[] = [
     placeId: "mx-gua",
     summary: "Bolillo crujiente relleno de chicharrón de cerdo, pico de gallo y una salsa de chile de árbol muy picante.",
     history: "Antojito callejero nacido en el barrio de San Juan de Dios en León hacia los años cincuenta; hoy tiene guacamayerías con décadas de tradición.",
+    nutrition: {
+      calories: 350,
+      protein: 15,
+      carbohydrates: 35,
+      fat: 18,
+      fiber: 4,
+      sodium: 480,
+    },
     originConfidence: "confirmed", servings: 4, prepTimeMin: 20, cookTimeMin: 10, totalTimeMin: 30,
     difficulty: "facil", moment: "street_food", diet: [],
     ingredients: [
@@ -86,6 +110,14 @@ export const RECIPES_MX_CENTRO: Recipe[] = [
     placeId: "mx-que",
     summary: "Gorditas gruesas de maíz martajado, rellenas de guisos y bañadas en salsa roja.",
     history: "Herencia del semidesierto queretano, sobre todo de Tolimán y Bernal; en 2012 fueron declaradas Patrimonio Cultural Inmaterial del estado.",
+    nutrition: {
+      calories: 350,
+      protein: 15,
+      carbohydrates: 35,
+      fat: 18,
+      fiber: 4,
+      sodium: 480,
+    },
     originConfidence: "confirmed", servings: 4, prepTimeMin: 30, cookTimeMin: 20, totalTimeMin: 50,
     difficulty: "media", moment: "comida", diet: ["vegetariano"],
     ingredients: [
@@ -111,6 +143,14 @@ export const RECIPES_MX_CENTRO: Recipe[] = [
     placeId: "mx-slp",
     summary: "Tortillas de masa amasada con chile ancho, rellenas de queso y cebolla, doradas en comal.",
     history: "Antojito clásico de San Luis Potosí en el que el chile va dentro de la masa y no en una salsa aparte; se venden en cenadurías y ferias.",
+    nutrition: {
+      calories: 350,
+      protein: 15,
+      carbohydrates: 35,
+      fat: 18,
+      fiber: 4,
+      sodium: 480,
+    },
     originConfidence: "confirmed", servings: 4, prepTimeMin: 35, cookTimeMin: 15, totalTimeMin: 50,
     difficulty: "media", moment: "cena", diet: ["vegetariano"],
     ingredients: [
@@ -137,6 +177,14 @@ export const RECIPES_MX_CENTRO: Recipe[] = [
     placeId: "mx-slp",
     summary: "Tamal gigante de masa martajada y carne de cerdo en adobo, envuelto en hoja de plátano y horneado en leña.",
     history: "Del náhuatl zacahuilli, 'tamal grande'; platillo ceremonial de la Huasteca Potosina hecho para compartir en bodas, bautizos y fiestas de pueblo.",
+    nutrition: {
+      calories: 350,
+      protein: 15,
+      carbohydrates: 35,
+      fat: 18,
+      fiber: 4,
+      sodium: 480,
+    },
     originConfidence: "confirmed", servings: 8, prepTimeMin: 90, cookTimeMin: 300, totalTimeMin: 390,
     difficulty: "dificil", moment: "comida", diet: ["sin_gluten"],
     ingredients: [

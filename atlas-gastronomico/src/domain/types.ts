@@ -99,6 +99,15 @@ export interface Recipe {
       steps: string[];
     };
   };
+  // Datos nutricionales (nuevo para Prioridad 3)
+  nutrition?: {
+    calories: number;     // por porción
+    protein: number;      // gramos
+    carbohydrates: number;// gramos
+    fat: number;          // gramos
+    fiber: number;        // gramos
+    sodium: number;       // mg
+  };
 }
 
 export type SortKey = "estrellas" | "recientes" | "populares" | "rapidas" | "alfabetico";
