@@ -39,24 +39,33 @@ export function UniversalSearch() {
   const showList = focused && hits.length > 0;
 
   return (
-    <div className="relative">
+    <div className="relative" role="search">
       <div className="relative">
-        <span className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-ink-faint">⌕</span>
+        <span className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-ink-faint" aria-hidden>⌕</span>
         <input
           value={q}
           onChange={(e) => setQ(e.target.value)}
           onFocus={() => setFocused(true)}
           onBlur={() => setTimeout(() => setFocused(false), 150)}
           placeholder={t.search.placeholder}
+          aria-label={t.search.placeholder}
+          aria-expanded={showList}
+          aria-controls="search-results"
+          role="searchbox"
           className="w-full rounded-full border border-line bg-card py-3.5 pl-11 pr-4 text-base text-ink shadow-[var(--shadow-card)] outline-none transition-colors placeholder:text-ink-faint focus:border-terracota"
         />
       </div>
       {showList && (
-        <ul className="absolute z-30 mt-2 w-full overflow-hidden rounded-2xl border border-line bg-card text-left shadow-[var(--shadow-lift)]">
+        <ul 
+          id="search-results"
+          className="absolute z-30 mt-2 w-full overflow-hidden rounded-2xl border border-line bg-card text-left shadow-[var(--shadow-lift)]"
+          role="listbox"
+          aria-label={t.search.results || "Resultados de búsqueda"}
+        >
           {hits.map((h) => (
-            <li key={h.key}>
+            <li key={h.key} role="option">
               <Link href={h.href} className="flex items-center justify-between gap-3 px-4 py-2.5 transition-colors hover:bg-paper-2">
-                <span className="flex items-center gap-2.5 text-ink"><span>{h.icon}</span>{h.label}</span>
+                <span className="flex items-center gap-2.5 text-ink"><span aria-hidden>{h.icon}</span>{h.label}</span>
                 <span className="text-xs capitalize text-ink-faint">{h.sub}</span>
               </Link>
             </li>
