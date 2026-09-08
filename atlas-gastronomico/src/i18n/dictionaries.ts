@@ -6,9 +6,12 @@ export interface Dictionary {
   header: { brand: string; tagline: string; navHome: string; navStates: string; navRestaurants: string };
   home: {
     eyebrow: string; titleLead: string; titleAccent: string; subtitle: string;
-    searchPlaceholder: string; startingWith: string;
-    mapEyebrow: string; mapTitle: string; mapDirect: string;
-    mxEyebrow: string; mxBody: (recipes: number, states: number) => string; mxCta: string;
+    searchPlaceholder: string;
+    mapEyebrow: string; mapTitle: string;
+    countriesEyebrow: string; countriesTitle: string;
+    countryCardWithRecipes: (recipes: number, states: number) => string;
+    countryCardComingSoon: (states: number) => string;
+    exploreCountry: string; notifyMe: string;
     upcomingEyebrow: string; upcomingTitle: string;
   };
   map: { reset: string; hint: string; emptyClick: string };
@@ -50,14 +53,14 @@ const es: Dictionary = {
     subtitle:
       "Del mapa a la cocina de cualquier país, estado, pueblo o ciudad. Recetas con procedencia, ordenadas por estrellas, novedad o tiempo.",
     searchPlaceholder: "Busca un platillo, estado o ciudad…",
-    startingWith: "Comenzamos por 🇲🇽 México — más países en camino.",
     mapEyebrow: "El mapa",
-    mapTitle: "Toca un estado para explorar",
-    mapDirect: "Ir directo a México →",
-    mxEyebrow: "Empezamos aquí",
-    mxBody: (r, s) =>
-      `${r} recetas con procedencia en los ${s} estados. De las tlayudas de Oaxaca a la machaca del norte.`,
-    mxCta: "Explorar México →",
+    mapTitle: "Explora el mundo",
+    countriesEyebrow: "Destinos",
+    countriesTitle: "Países y regiones",
+    countryCardWithRecipes: (r, s) => `${r} recetas en ${s} regiones. Sabores auténticos listos para cocinar.`,
+    countryCardComingSoon: (s) => `Próximamente · ${s} regiones disponibles`,
+    exploreCountry: "Explorar",
+    notifyMe: "Notificarme",
     upcomingEyebrow: "Próximamente",
     upcomingTitle: "El atlas seguirá viajando a",
   },
@@ -126,14 +129,14 @@ const en: Dictionary = {
     subtitle:
       "From the map to the kitchen of any country, state, town or city. Recipes with provenance, sorted by stars, newest or time.",
     searchPlaceholder: "Search a dish, state or city…",
-    startingWith: "We're starting with 🇲🇽 Mexico — more countries on the way.",
     mapEyebrow: "The map",
-    mapTitle: "Tap a state to explore",
-    mapDirect: "Go straight to Mexico →",
-    mxEyebrow: "We start here",
-    mxBody: (r, s) =>
-      `${r} recipes with provenance across ${s} states. From Oaxaca's tlayudas to northern machaca.`,
-    mxCta: "Explore Mexico →",
+    mapTitle: "Explore the world",
+    countriesEyebrow: "Destinations",
+    countriesTitle: "Countries & regions",
+    countryCardWithRecipes: (r, s) => `${r} recipes across ${s} regions. Authentic flavors ready to cook.`,
+    countryCardComingSoon: (s) => `Coming soon · ${s} regions available`,
+    exploreCountry: "Explore",
+    notifyMe: "Notify me",
     upcomingEyebrow: "Coming soon",
     upcomingTitle: "The atlas will keep traveling to",
   },
@@ -203,13 +206,14 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "通过烹饪",
       subtitle: "从地图到任何国家、省份、城镇或城市的厨房。按星级、最新或时间排序的食谱。",
       searchPlaceholder: "搜索菜肴、省份或城市…",
-      startingWith: "我们从 🇲🇽 墨西哥开始 — 更多国家即将推出。",
       mapEyebrow: "地图",
-      mapTitle: "点击省份探索",
-      mapDirect: "直接前往墨西哥 →",
-      mxEyebrow: "从这里开始",
-      mxBody: (r, s) => `${s} 个省份的 ${r} 道食谱。从瓦哈卡的 tlayudas 到北部的 machaca。`,
-      mxCta: "探索墨西哥 →",
+      mapTitle: "探索世界",
+      countriesEyebrow: "目的地",
+      countriesTitle: "国家和地区",
+      countryCardWithRecipes: (r, s) => `${s} 个地区的 ${r} 道食谱。正宗风味，随时烹饪。`,
+      countryCardComingSoon: (s) => `即将推出 · ${s} 个地区可用`,
+      exploreCountry: "探索",
+      notifyMe: "通知我",
       upcomingEyebrow: "即将推出",
       upcomingTitle: "地图将继续前往",
     },
