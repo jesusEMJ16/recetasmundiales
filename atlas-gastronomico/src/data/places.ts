@@ -66,6 +66,54 @@ export const PLACES: Place[] = [
   { id: "th-bkk", type: "estado", name: "Bangkok", slug: "bangkok", parentId: "th", countryCode: "TH", lat: 13.75, lng: 100.5 },
   { id: "th-cnx", type: "estado", name: "Chiang Mai", slug: "chiang-mai", parentId: "th", countryCode: "TH", lat: 18.79, lng: 98.99 },
 
+  // ── Europa ──
+  // Italia
+  { id: "it-rom", type: "ciudad", name: "Roma", slug: "roma", parentId: "it-laz", countryCode: "IT", lat: 41.90, lng: 12.50 },
+  { id: "it-mil", type: "ciudad", name: "Milán", slug: "milan", parentId: "it-lom", countryCode: "IT", lat: 45.46, lng: 9.19 },
+  { id: "it-tre", type: "ciudad", name: "Treviso", slug: "treviso", parentId: "it-ven", countryCode: "IT", lat: 45.67, lng: 12.24 },
+  { id: "it-lom", type: "estado", name: "Lombardía", slug: "lombardia", parentId: "it", countryCode: "IT", lat: 45.47, lng: 9.85 },
+  { id: "it-ven", type: "estado", name: "Véneto", slug: "veneto", parentId: "it", countryCode: "IT", lat: 45.44, lng: 12.33 },
+  
+  // Francia
+  { id: "fr", type: "pais", name: "Francia", slug: "francia", parentId: null, countryCode: "FR", lat: 46.23, lng: 2.21 },
+  { id: "fr-par", type: "ciudad", name: "París", slug: "paris", parentId: "fr-idf", countryCode: "FR", lat: 48.86, lng: 2.35 },
+  { id: "fr-mar", type: "ciudad", name: "Marsella", slug: "marsella", parentId: "fr-pac", countryCode: "FR", lat: 43.29, lng: 5.37 },
+  { id: "fr-nic", type: "ciudad", name: "Niza", slug: "niza", parentId: "fr-pac", countryCode: "FR", lat: 43.71, lng: 7.26 },
+  { id: "fr-dij", type: "ciudad", name: "Dijon", slug: "dijon", parentId: "fr-bfc", countryCode: "FR", lat: 47.32, lng: 5.04 },
+  { id: "fr-idf", type: "estado", name: "Isla de Francia", slug: "isla-de-francia", parentId: "fr", countryCode: "FR", lat: 48.85, lng: 2.35 },
+  { id: "fr-pac", type: "estado", name: "Provenza-Alpes-Costa Azul", slug: "provenza-alpes-costa-azul", parentId: "fr", countryCode: "FR", lat: 43.93, lng: 6.02 },
+  { id: "fr-bfc", type: "estado", name: "Borgoña-Franco Condado", slug: "borgona-franco-condado", parentId: "fr", countryCode: "FR", lat: 47.28, lng: 4.99 },
+  
+  // España
+  { id: "es", type: "pais", name: "España", slug: "espana", parentId: null, countryCode: "ES", lat: 40.46, lng: -3.74 },
+  { id: "es-val", type: "estado", name: "Comunidad Valenciana", slug: "comunidad-valenciana", parentId: "es", countryCode: "ES", lat: 39.48, lng: -0.75 },
+  { id: "es-sev", type: "ciudad", name: "Sevilla", slug: "sevilla", parentId: "es-and", countryCode: "ES", lat: 37.39, lng: -5.98 },
+  { id: "es-san", type: "ciudad", name: "San Sebastián", slug: "san-sebastian", parentId: "es-pv", countryCode: "ES", lat: 43.32, lng: -1.98 },
+  { id: "es-pam", type: "ciudad", name: "Palma de Mallorca", slug: "palma-de-mallorca", parentId: "es-bal", countryCode: "ES", lat: 39.57, lng: 2.65 },
+  { id: "es-and", type: "estado", name: "Andalucía", slug: "andalucia", parentId: "es", countryCode: "ES", lat: 37.54, lng: -4.72 },
+  { id: "es-pv", type: "estado", name: "País Vasco", slug: "pais-vasco", parentId: "es", countryCode: "ES", lat: 43.26, lng: -2.59 },
+  { id: "es-bal", type: "estado", name: "Islas Baleares", slug: "islas-baleares", parentId: "es", countryCode: "ES", lat: 39.69, lng: 3.01 },
+  
+  // Alemania
+  { id: "de", type: "pais", name: "Alemania", slug: "alemania", parentId: null, countryCode: "DE", lat: 51.17, lng: 10.45 },
+  { id: "de-col", type: "ciudad", name: "Colonia", slug: "colonia", parentId: "de-nrw", countryCode: "DE", lat: 50.94, lng: 6.96 },
+  { id: "de-mun", type: "ciudad", name: "Múnich", slug: "munich", parentId: "de-by", countryCode: "DE", lat: 48.14, lng: 11.58 },
+  { id: "de-stu", type: "ciudad", name: "Stuttgart", slug: "stuttgart", parentId: "de-bw", countryCode: "DE", lat: 48.78, lng: 9.18 },
+  { id: "de-nrw", type: "estado", name: "Renania del Norte-Westfalia", slug: "renania-del-norte-westfalia", parentId: "de", countryCode: "DE", lat: 51.43, lng: 7.66 },
+  { id: "de-by", type: "estado", name: "Baviera", slug: "baviera", parentId: "de", countryCode: "DE", lat: 48.79, lng: 11.50 },
+  { id: "de-bw", type: "estado", name: "Baden-Wurtemberg", slug: "baden-wurtemberg", parentId: "de", countryCode: "DE", lat: 48.66, lng: 9.35 },
+  
+  // Grecia
+  { id: "gr", type: "pais", name: "Grecia", slug: "grecia", parentId: null, countryCode: "GR", lat: 39.07, lng: 21.82 },
+  { id: "gr-ath", type: "ciudad", name: "Atenas", slug: "atenas", parentId: "gr-att", countryCode: "GR", lat: 37.98, lng: 23.73 },
+  { id: "gr-att", type: "estado", name: "Ática", slug: "atica", parentId: "gr", countryCode: "GR", lat: 38.05, lng: 23.80 },
+  
+  // Portugal
+  { id: "pt", type: "pais", name: "Portugal", slug: "portugal", parentId: null, countryCode: "PT", lat: 39.39, lng: -8.22 },
+  { id: "pt-lis", type: "ciudad", name: "Lisboa", slug: "lisboa", parentId: "pt-lis-reg", countryCode: "PT", lat: 38.72, lng: -9.13 },
+  { id: "pt-bel", type: "ciudad", name: "Belém", slug: "belem", parentId: "pt-lis-reg", countryCode: "PT", lat: 38.69, lng: -9.20 },
+  { id: "pt-lis-reg", type: "estado", name: "Región de Lisboa", slug: "region-de-lisboa", parentId: "pt", countryCode: "PT", lat: 38.71, lng: -9.14 },
+
   // Sub-lugares México (Pueblos Mágicos y ciudades con platillo propio)
   ...SUBPLACES_MX_NORTE,
   ...SUBPLACES_MX_CENTRO,
