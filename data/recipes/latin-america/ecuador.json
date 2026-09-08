@@ -1,0 +1,165 @@
+[
+  {
+    "id": "ec-ceviche-de-camarones",
+    "name": "Ceviche de Camarones Ecuatoriano",
+    "country": "Ecuador",
+    "region": "Costa",
+    "city": "Guayaquil",
+    "coordinates": [-2.1709, -79.9224],
+    "image": "",
+    "description": "Camarones cocidos en jugo de limón con salsa de tomate y cebolla.",
+    "ingredients": [
+      "500g de camarones medianos",
+      "Jugo de 6 limones",
+      "1 cebolla roja picada fina",
+      "2 tomates maduros picados",
+      "Salsa de tomate",
+      "Cilantro fresco",
+      "Sal y pimienta",
+      "Cancha tostada o chifles"
+    ],
+    "instructions": [
+      "Cocer camarones ligeramente en agua con sal.",
+      "Enfriar y pelar camarones.",
+      "Mezclar con cebolla, tomate y cilantro.",
+      "Agregar jugo de limón y salsa de tomate al gusto.",
+      "Refrigerar por 30 minutos.",
+      "Servir frío acompañado de cancha o chifles."
+    ],
+    "history": "El ceviche ecuatoriano es diferente al peruano: aquí los mariscos se cocinan ligeramente antes de marinar. Es el plato típico de la costa ecuatoriana, especialmente en Guayaquil y Manabí. Se consume los fines de semana en familia y es infaltable en las playas. El secreto está en el equilibrio entre el ácido del limón y el dulzor del tomate.",
+    "prepTime": 45,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": ["ceviche", "camarones", "costa", "limon", "playa"]
+  },
+  {
+    "id": "ec-llapingachos",
+    "name": "Llapingachos",
+    "country": "Ecuador",
+    "region": "Sierra",
+    "city": "Ambato",
+    "coordinates": [-1.2490, -78.6167],
+    "image": "",
+    "description": "Tortillas fritas de papa rellenas de queso, servidas con embutidos.",
+    "ingredients": [
+      "1 kg de papas cocidas",
+      "200g de queso fresco",
+      "1 cebolla finamente picada",
+      "Achiote en polvo",
+      "Huevos batidos",
+      "Aceite para freír",
+      "Chorizo y longaniza",
+      "Salsa de maní"
+    ],
+    "instructions": [
+      "Hacer puré de papas con cebolla y achiote.",
+      "Formar tortillas rellenando con queso.",
+      "Pasar por huevo batido.",
+      "Freír hasta dorar ambos lados.",
+      "Preparar embutidos a la plancha.",
+      "Servir con salsa de maní y ensalada."
+    ],
+    "history": "Los llapingachos son originarios de la sierra ecuatoriana, especialmente de Ambato. Su nombre viene del quechua 'llapin' (aplastar) y 'chachi' (rico). Son un ejemplo perfecto de la fusión indígena-española: papa nativa andina con queso europeo. Tradicionalmente se comen los domingos acompañados de embutidos y cerveza.",
+    "prepTime": 90,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": ["llapingachos", "papa", "queso", "sierra", "domingo"]
+  },
+  {
+    "id": "ec-encebollado",
+    "name": "Encebollado",
+    "country": "Ecuador",
+    "region": "Costa",
+    "city": "Guayaquil",
+    "coordinates": [-2.1709, -79.9224],
+    "image": "",
+    "description": "Sopa de pescado con cebolla, yuca y plátano verde.",
+    "ingredients": [
+      "500g de pescado blanco (albacora)",
+      "3 cebollas grandes en julianas",
+      "1 yuca grande cocida",
+      "1 plátano verde cocido",
+      "Jugo de 2 limones",
+      "Cilantro",
+      "Comino, sal"
+    ],
+    "instructions": [
+      "Cocer pescado con especias y desmenuzar.",
+      "Reservar caldo de cocción.",
+      "Marinar cebolla en jugo de limón con sal.",
+      "Calentar caldo con pescado.",
+      "Servir sopa caliente con cebolla marinada.",
+      "Acompañar con yuca, plátano y chifles."
+    ],
+    "history": "El encebollado es el plato nacional no oficial de Ecuador, especialmente popular en la costa. Es considerado el mejor remedio para la resaca y se vende en puestos callejeros desde muy temprano. La combinación de pescado fresco, cebolla marinada y yuca crea un sabor único que representa la identidad culinaria ecuatoriana.",
+    "prepTime": 60,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": ["encebollado", "pescado", "sopa", "resaca", "nacional"]
+  },
+  {
+    "id": "ec-hornado-panguense",
+    "name": "Hornado Panguense",
+    "country": "Ecuador",
+    "region": "Sierra",
+    "city": "Pangua",
+    "coordinates": [-0.9167, -78.9333],
+    "image": "",
+    "description": "Cerdo asado lentamente con especias, servido con mote y llapingachos.",
+    "ingredients": [
+      "2 kg de lomo de cerdo",
+      "Cerveza negra",
+      "Ajo, comino, orégano",
+      "Achiote",
+      "Sal gruesa",
+      "Mote (maíz cocido)",
+      "Papas cocidas",
+      "Salsa de ají"
+    ],
+    "instructions": [
+      "Marinar cerdo con cerveza y especias toda la noche.",
+      "Hornear a temperatura baja por 3-4 horas.",
+      "Bañar regularmente con jugos de cocción.",
+      "Subir temperatura al final para dorar piel.",
+      "Cortar en trozos pequeños.",
+      "Servir con mote, papas y ají."
+    ],
+    "history": "El hornado es famoso en la provincia de Cotopaxi, especialmente en Pangua donde hay hornos tradicionales que funcionan desde hace generaciones. El cerdo se cocina lentamente hasta quedar jugoso por dentro y crujiente por fuera. Es el plato festivo por excelencia en ferias y celebraciones de la sierra ecuatoriana.",
+    "prepTime": 300,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": ["hornado", "cerdo", "horno", "cotopaxi", "feria"]
+  },
+  {
+    "id": "ec-cuy-asado",
+    "name": "Cuy Asado",
+    "country": "Ecuador",
+    "region": "Sierra",
+    "city": "Cuenca",
+    "coordinates": [-2.9001, -79.0059],
+    "image": "",
+    "description": "Conejo de Guinea asado entero con hierbas aromáticas.",
+    "ingredients": [
+      "2 cuyes enteros destazados",
+      "Ajo machacado",
+      "Sal, comino, orégano",
+      "Hierbas aromáticas",
+      "Aceite o manteca",
+      "Papas cocidas",
+      "Ají de maní"
+    ],
+    "instructions": [
+      "Limpiar y sazonar cuyes con ajo y especias.",
+      "Colocar en bandeja extendidos.",
+      "Hornear o asar a la brasa por 45 minutos.",
+      "Voltear ocasionalmente para dorar parejo.",
+      "La piel debe quedar crujiente.",
+      "Servir entero con papas y ají."
+    ],
+    "history": "El cuy ha sido fuente de proteína en los Andes desde tiempos precolombinos. Los incas lo criaban en las cocinas para tener alimento siempre disponible. Hoy es considerado un manjar especial para ocasiones importantes: bodas, bautizos y fiestas patronales. En Cuenca y Azuay es especialmente apreciado por su valor nutricional y cultural.",
+    "prepTime": 90,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": ["cuy", "conejo", "andes", "inca", "festivo"]
+  }
+]
