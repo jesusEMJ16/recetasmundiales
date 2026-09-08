@@ -183,7 +183,26 @@ export function WorldMap() {
   const generateRecipeMarkers = useCallback((): RecipeMarker[] => {
     const markers: RecipeMarker[] = [];
     
-    // Agregar marcadores para estados
+    // Agregar marcadores para todos los países con recetas
+    COUNTRIES.forEach((country) => {
+      const children = getChildren(country.id, PLACES);
+      const childRecipeCounts = children.reduce((sum, child) => sum + getRecipeCountForPlace(child.id, RECIPES), 0);
+      const countryRecipeCount = getRecipeCountForPlace(country.id, RECIPES);
+      const totalRecipes = childRecipeCounts + countryRecipeCount;
+      const hasRecipes = totalRecipes > 0;
+      
+      markers.push({
+        lat: country.lat,
+        lng: country.lng,
+        title: translatePlaceName(country, locale as any),
+        href: placeHref(locale as any, country),
+        hasRecipes,
+        recipeCount: totalRecipes,
+        place: country,
+      });
+    });
+
+    // Agregar marcadores para estados (solo México por ahora)
     MX_STATES.forEach((state) => {
       const children = getChildren(state.id, PLACES);
       const childRecipeCounts = children.reduce((sum, child) => sum + getRecipeCountForPlace(child.id, RECIPES), 0);
@@ -199,36 +218,6 @@ export function WorldMap() {
         hasRecipes,
         recipeCount: totalRecipes,
         place: state,
-      });
-    });
-
-    // Agregar marcadores para ciudades
-    MX_CITIES.forEach((city) => {
-      const recipeCount = getRecipeCountForPlace(city.id, RECIPES);
-      const hasRecipes = recipeCount > 0;
-      markers.push({
-        lat: city.lat,
-        lng: city.lng,
-        title: translatePlaceName(city, locale as any),
-        href: placeHref(locale as any, city),
-        hasRecipes,
-        recipeCount,
-        place: city,
-      });
-    });
-
-    // Agregar marcadores para pueblos
-    MX_TOWNS.forEach((town) => {
-      const recipeCount = getRecipeCountForPlace(town.id, RECIPES);
-      const hasRecipes = recipeCount > 0;
-      markers.push({
-        lat: town.lat,
-        lng: town.lng,
-        title: translatePlaceName(town, locale as any),
-        href: placeHref(locale as any, town),
-        hasRecipes,
-        recipeCount,
-        place: town,
       });
     });
 
@@ -250,24 +239,28 @@ export function WorldMap() {
       if (cancelled || mapRef.current) return;
       if (!ref.current || (ref.current as any)._leaflet_id) return;
 
-    // Inicializar mapa con Leaflet
+    // Inicializar mapa con Leaflet - Centrado en el mundo
     const map = L.map(ref.current, {
-      center: [23.5, -102],
-      zoom: 4.2,
+      center: [20, 0], // Centro global
+      zoom: 2,
       minZoom: 2,
       maxZoom: 18,
       zoomControl: false,
       attributionControl: false,
       preferCanvas: true,
+      scrollWheelZoom: true,
+      doubleClickZoom: true,
+      dragging: true,
     });
 
     mapRef.current = map;
     setCurrentZoom(map.getZoom());
 
-    // Agregar capa base de OpenStreetMap
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-      maxZoom: 19,
+    // Capa base oscura elegante (CartoDB Dark Matter)
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      subdomains: 'abcd',
+      maxZoom: 20
     }).addTo(map);
 
     // Agregar control de zoom personalizado
@@ -290,26 +283,94 @@ export function WorldMap() {
     clusterGroupRef.current = clusterGroup;
     map.addLayer(clusterGroup);
 
-    // Crear marcadores de países
+    // Colores por continente para marcadores circulares
+    const continentColors: Record<string, string> = {
+      'MX': '#3b82f6', // México - Azul
+      'US': '#3b82f6', // USA - Azul
+      'CA': '#3b82f6', // Canadá - Azul
+      'BR': '#10b981', // Brasil - Verde
+      'AR': '#10b981', // Argentina - Verde
+      'IT': '#8b5cf6', // Italia - Violeta
+      'FR': '#8b5cf6', // Francia - Violeta
+      'ES': '#8b5cf6', // España - Violeta
+      'DE': '#8b5cf6', // Alemania - Violeta
+      'GR': '#8b5cf6', // Grecia - Violeta
+      'PT': '#8b5cf6', // Portugal - Violeta
+      'CN': '#ef4444', // China - Rojo
+      'JP': '#ef4444', // Japón - Rojo
+      'IN': '#ef4444', // India - Rojo
+      'TH': '#ef4444', // Tailandia - Rojo
+    };
+
+    // Crear marcadores de países con iconos circulares pulsantes
     const countryMarkers: L.Marker[] = [];
     COUNTRIES.forEach((country) => {
+      const recipeCount = getRecipeCountForPlace(country.id, RECIPES);
+      const hasRecipes = recipeCount > 0;
       const cname = translatePlaceName(country, locale as any);
-      const el = createCountryMarkerElement(cname, country.countryCode === "MX", locale);
+      
+      // Determinar color por país
+      const color = continentColors[country.countryCode] || '#8b5cf6'; // Default violeta
+      
+      // Icono circular pulsante
+      const markerIcon = L.divIcon({
+        className: 'custom-circle-marker',
+        html: `
+          <div style="
+            background-color: ${hasRecipes ? color : '#ef4444'};
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            animation: pulse 2s infinite;
+          "></div>
+          <style>
+            @keyframes pulse {
+              0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.7); }
+              70% { transform: scale(1.2); box-shadow: 0 0 0 10px rgba(255, 255, 255, 0); }
+              100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 255, 255, 0); }
+            }
+          </style>
+        `,
+        iconSize: [20, 20],
+        iconAnchor: [10, 10],
+      });
+      
       const marker = L.marker([country.lat, country.lng], {
-        icon: L.divIcon({
-          className: "custom-country-marker",
-          html: el,
-          iconSize: [120, 40],
-          iconAnchor: [60, 20],
-        }),
+        icon: markerIcon,
         zIndexOffset: 1000,
       });
 
-      marker.on("click", () => {
-        router.push(placeHref(locale as any, country));
+      // Popup mejorado con información del país
+      marker.bindPopup(`
+        <div style="text-align: center; font-family: sans-serif; min-width: 200px;">
+          <div style="font-size: 32px; margin-bottom: 8px;">${country.countryCode === 'MX' ? '🇲🇽' : country.countryCode === 'US' ? '🇺🇸' : country.countryCode === 'IT' ? '🇮🇹' : country.countryCode === 'FR' ? '🇫🇷' : country.countryCode === 'ES' ? '🇪🇸' : country.countryCode === 'DE' ? '🇩🇪' : country.countryCode === 'GR' ? '🇬🇷' : country.countryCode === 'PT' ? '🇵🇹' : '🌍'}</div>
+          <h3 style="margin: 0; color: #1a202c; font-weight: bold; font-size: 16px;">${cname}</h3>
+          <p style="margin: 8px 0; color: #4a5568; font-size: 14px;">${hasRecipes ? `${recipeCount} recetas disponibles` : 'Próximamente'}</p>
+          ${hasRecipes ? `<button onclick="window.location.href='${placeHref(locale as any, country)}'" 
+            style="background: ${color}; color: white; border: none; padding: 8px 16px; 
+            border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 13px; margin-top: 8px;">
+            Ver Recetas
+          </button>` : ''}
+        </div>
+      `);
+
+      // Click en marcador: animación de zoom y redirección
+      marker.on('click', () => {
+        if (hasRecipes) {
+          map.flyTo([country.lat, country.lng], 6, {
+            animate: true,
+            duration: 1.5
+          });
+          setTimeout(() => {
+            router.push(placeHref(locale as any, country));
+          }, 1000);
+        }
       });
 
       countryMarkers.push(marker);
+      // Mostrar marcadores de países solo en zoom bajo
       if (map.getZoom() < 5) {
         marker.addTo(map);
       }
@@ -428,7 +489,7 @@ export function WorldMap() {
     };
     legend.addTo(map);
 
-    // Botones de acceso rápido
+    // Botones de acceso rápido actualizados para mapa mundial
     const quickControls = (L.control as any)({ position: "topleft" });
     quickControls.onAdd = () => {
       const div = L.DomUtil.create("div", "quick-controls");
@@ -438,44 +499,26 @@ export function WorldMap() {
         margin: 10px;
       `;
       div.innerHTML = `
-        <button id="btn-mexico" style="
-          font-family: var(--font-body, system-ui, sans-serif);
-          font-size: 13px;
-          font-weight: 700;
-          padding: 8px 16px;
-          border-radius: 9999px;
-          border: 2px solid #c1440e;
-          background: linear-gradient(135deg, #fffdf8, #f5f0eb);
-          color: #241b16;
-          cursor: pointer;
-          box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-          transition: all 0.2s ease;
-        ">🍽️ México</button>
         <button id="btn-world" style="
           font-family: var(--font-body, system-ui, sans-serif);
           font-size: 13px;
           font-weight: 700;
           padding: 8px 16px;
           border-radius: 9999px;
-          border: 2px solid #c1440e;
+          border: 2px solid #8b5cf6;
           background: linear-gradient(135deg, #fffdf8, #f5f0eb);
           color: #241b16;
           cursor: pointer;
           box-shadow: 0 2px 8px rgba(0,0,0,0.1);
           transition: all 0.2s ease;
-        ">🌎 Ver mundo</button>
+        ">🌍 Ver mundo</button>
       `;
       
       setTimeout(() => {
-        const btnMexico = document.getElementById("btn-mexico");
         const btnWorld = document.getElementById("btn-world");
         
-        btnMexico?.addEventListener("click", () => {
-          map.flyTo([23.5, -102], 6, { duration: 1.5 });
-        });
-        
         btnWorld?.addEventListener("click", () => {
-          map.flyTo([23.5, -102], 4.2, { duration: 1.5 });
+          map.flyTo([20, 0], 2, { duration: 1.5 });
         });
       }, 100);
       
@@ -483,7 +526,7 @@ export function WorldMap() {
     };
     quickControls.addTo(map);
 
-    // Hint de uso
+    // Hint de uso actualizado
     const hint = (L.control as any)({ position: "bottomright" });
     hint.onAdd = () => {
       const div = L.DomUtil.create("div", "map-hint");
@@ -495,11 +538,12 @@ export function WorldMap() {
         box-shadow: 0 2px 12px rgba(0,0,0,0.1);
         font-family: var(--font-body, system-ui, sans-serif);
         font-size: 12px;
-        color: #6b7280;
-        margin: 10px;
-        border: 1px solid rgba(0,0,0,0.05);
+        color: #4a5568;
+        max-width: 250px;
       `;
-      div.innerHTML = `${t.hint}`;
+      div.innerHTML = `
+        🗺️ Explora el mundo culinario • Haz zoom y click en los países
+      `;
       return div;
     };
     hint.addTo(map);
@@ -512,7 +556,7 @@ export function WorldMap() {
         mapRef.current = null;
       }
     };
-  }, [router, locale, generateRecipeMarkers, t.hint]);
+  }, [router, locale, generateRecipeMarkers]);
 
   return (
     <div className="relative w-full" role="region" aria-label={"Mapa interactivo de recetas mexicanas"}>
