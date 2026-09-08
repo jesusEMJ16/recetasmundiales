@@ -349,7 +349,7 @@ export const RECIPES_EUROPE: Recipe[] = [
   {
     id: "r-pt-bacalhau",
     dishName: "Bacalhau à Brás",
-    slug: "bacalhau-br-s",
+    slug: "bacalhau-a-bras",
     placeId: "pt-lis",
     summary: "Portuguese codfish dish with scrambled eggs, potatoes, and olives.",
     history: "Portugal's national dish with over 1001 preparations. Bacalhau sustained Portuguese during Age of Discoveries and maritime explorations.",
@@ -387,7 +387,7 @@ export const RECIPES_EUROPE: Recipe[] = [
   {
     id: "r-it-tiramisu",
     dishName: "Tiramisù",
-    slug: "tiramis",
+    slug: "tiramisu",
     placeId: "it-tre",
     summary: "Classic Italian dessert with coffee-soaked ladyfingers and mascarpone cream.",
     history: "Created in Treviso in the 1960s, possibly at Restaurant Le Beccherie. Name means 'pick me up' referring to caffeine and energy boost.",
@@ -505,7 +505,7 @@ export const RECIPES_EUROPE: Recipe[] = [
   {
     id: "r-fr-crêpes",
     dishName: "Crêpes Suzette",
-    slug: "cr-pes-suzette",
+    slug: "crepes-suzette",
     placeId: "fr-par",
     summary: "Thin French pancakes flambéed with orange butter sauce and Grand Marnier.",
     history: "Created accidentally in 1896 by young waiter Henri Charpentier for Prince of Wales. Flaming presentation became theatrical restaurant tradition.",
@@ -544,7 +544,7 @@ export const RECIPES_EUROPE: Recipe[] = [
   {
     id: "r-es-tortilla",
     dishName: "Tortilla Española",
-    slug: "tortilla-espa-ola",
+    slug: "tortilla-espanola",
     placeId: "es-pam",
     summary: "Spanish potato omelette, national dish served hot or cold.",
     history: "Originated in Navarre during Carlist Wars (1830s) as hearty meal for soldiers. Debate continues about adding onion - purists say yes.",
@@ -654,7 +654,7 @@ export const RECIPES_EUROPE: Recipe[] = [
   {
     id: "r-de-spaetzle",
     dishName: "Käsespätzle",
-    slug: "k-sesp-tzle",
+    slug: "kasespatzle",
     placeId: "de-stu",
     summary: "German egg noodles with melted cheese and crispy fried onions.",
     history: "Swabian comfort food since medieval times. Monasteries developed recipe as meatless Friday meal. Regional variations exist across southern Germany.",
@@ -732,7 +732,7 @@ export const RECIPES_EUROPE: Recipe[] = [
   {
     id: "r-pt-pasteis",
     dishName: "Pastéis de Nata",
-    slug: "past-is-de-nata",
+    slug: "pasteis-de-nata",
     placeId: "pt-bel",
     summary: "Portuguese custard tarts with flaky pastry and caramelized top.",
     history: "Created by Jerónimos Monastery monks in Belém before 1837. Recipe sold to sugar refinery, now Pastéis de Belém remains original secret recipe.",
