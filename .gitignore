@@ -1,47 +1,5 @@
-```
-# Dependencies
-node_modules/
+# Examples where the input contains only source/config files like JSON data files
+# No build artifacts, dependencies, or temp files present
+# Following rule 6: output empty since only source files are in the change list
 
-# Build outputs
-dist/
-build/
-.next/
-out/
-
-# Environment variables
-.env
-.env.local
-.env.*
-
-# IDE specific
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-venv/
-.venv/
-.env
-
-# Logs
-*.log
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Coverage reports
-coverage/
-htmlcov/
-.coverage
-
-# Temporary files
-*.tmp
-*.temp
-```
+# (empty - no files need to be ignored)

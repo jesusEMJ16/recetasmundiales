@@ -1,0 +1,222 @@
+[
+  {
+    "id": "laos-001",
+    "name": "Larb Gai",
+    "country": "Laos",
+    "city": "Vientiane",
+    "region": "Asia",
+    "description": "Ensalada de pollo picado con hierbas frescas, menta y jugo de lima. El larb es el plato nacional de Laos, conocido por su explosión de sabores ácidos, salados y picantes.",
+    "history": "El larb tiene origen en la región de Isan (Tailandia) pero es considerado el plato nacional de Laos. Tradicionalmente se prepara con carne cruda o ligeramente cocida, aunque la versión cocida es más común hoy. Es un plato ceremonial servido en celebraciones.",
+    "ingredients": [
+      "500g de pechuga de pollo molida",
+      "1/4 taza de jugo de lima fresco",
+      "3 cucharadas de salsa de pescado",
+      "1 cucharadita de azúcar moreno",
+      "1 cebolla roja, finamente picada",
+      "4 cebollas de primavera, picadas",
+      "1/2 taza de menta fresca picada",
+      "1/2 taza de cilantro fresco picado",
+      "1/4 taza de hojas de culantro (opcional)",
+      "2 chiles tailandeses, picados",
+      "1 cucharada de polvo de arroz tostado (khao khua)",
+      "Lechuga y vegetales frescos para servir"
+    ],
+    "instructions": [
+      "Cocinar el pollo molido en una sartén sin aceite hasta que esté completamente cocido.",
+      "Transferir a un bowl y dejar enfriar ligeramente.",
+      "Agregar jugo de lima, salsa de pescado y azúcar. Mezclar bien.",
+      "Incorporar cebolla roja, cebollas de primavera, menta, cilantro y culantro.",
+      "Añadir chiles picados al gusto.",
+      "Espolvorear polvo de arroz tostado y mezclar todo.",
+      "Probar y ajustar sazón: debe ser ácido, salado y ligeramente picante.",
+      "Servir inmediatamente acompañado de lechuga y vegetales frescos.",
+      "Tradicionalmente se come con las manos usando hojas de lechuga como envoltura."
+    ],
+    "prepTime": 20,
+    "cookTime": 10,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": ["ensalada", "pollo", "plato nacional", "hierbas", "ácido", "ceremonial"],
+    "image": "",
+    "coordinates": {
+      "lat": 17.9757,
+      "lng": 102.6331
+    }
+  },
+  {
+    "id": "laos-002",
+    "name": "Tam Mak Houng",
+    "country": "Laos",
+    "city": "Luang Prabang",
+    "region": "Asia",
+    "description": "Ensalada de papaya verde picante, similar al som tam tailandés pero con variaciones lao únicas. Un equilibrio perfecto de sabores dulces, ácidos, salados y picantes.",
+    "history": "El tam mak houng es originario de Laos y se ha extendido por toda la región del Mekong. Cada familia tiene su receta secreta transmitida por generaciones. Es un plato cotidiano que refleja el amor lao por los sabores intensos.",
+    "ingredients": [
+      "2 papayas verdes medianas, ralladas en tiras",
+      "4 dientes de ajo",
+      "4 chiles tailandeses rojos",
+      "2 cucharadas de camarones secos pequeños",
+      "1/4 taza de frijoles largos, troceados",
+      "2 tomates cherry, cortados en cuartos",
+      "3 cucharadas de jugo de lima",
+      "3 cucharadas de salsa de pescado",
+      "1 cucharada de azúcar de palma",
+      "2 cucharadas de pasta de cangrejo fermentado (padaek)",
+      "1/4 taza de cacahuetes tostados machacados"
+    ],
+    "instructions": [
+      "En un mortero, machacar ajo y chiles hasta formar una pasta.",
+      "Agregar camarones secos y machacar ligeramente.",
+      "Añadir frijoles largos y golpear suavemente para ablandar.",
+      "Incorporar azúcar de palma y disolver con el jugo de lima.",
+      "Agregar salsa de pescado y pasta de cangrejo fermentado.",
+      "Añadir las tiras de papaya verde y tomates.",
+      "Usar el mortero y pistilo para mezclar todo, presionando ligeramente.",
+      "Probar y ajustar: debe tener equilibrio de dulce, ácido, salado y picante.",
+      "Servir inmediatamente decorado con cacahuetes tostados.",
+      "Acompañar con arroz glutinoso (khao niao)."
+    ],
+    "prepTime": 25,
+    "cookTime": 0,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": ["ensalada", "papaya", "picante", "fermentado", "mortero", "cotidiano"],
+    "image": "",
+    "coordinates": {
+      "lat": 19.8845,
+      "lng": 102.1348
+    }
+  },
+  {
+    "id": "laos-003",
+    "name": "Khao Piak Sen",
+    "country": "Laos",
+    "city": "Vientiane",
+    "region": "Asia",
+    "description": "Sopa reconfortante de fideos de arroz hechos a mano en un caldo aromático de pollo. El desayuno tradicional lao perfecto para días fríos.",
+    "history": "El khao piak sen es conocido como el 'pho lao'. Los fideos se hacen a mano desde cero, una técnica que requiere práctica. Es un plato de confort muy querido, especialmente popular en las mañanas frescas de Vientiane.",
+    "ingredients": [
+      "Para los fideos:",
+      "2 tazas de harina de arroz",
+      "1/2 taza de fécula de tapioca",
+      "1 taza de agua caliente",
+      "Para el caldo:",
+      "1 pollo entero (aproximadamente 1.5kg)",
+      "4 litros de agua",
+      "3 tallos de hierba de limón, machacados",
+      "3cm de galanga, en rodajas",
+      "4 hojas de lima kaffir",
+      "1 cebolla grande, partida por la mitad",
+      "Sal al gusto",
+      "Para servir:",
+      "Cebollín picado",
+      "Cilantro fresco",
+      "Menta fresca",
+      "Chiles en rodajas",
+      "Jugo de lima"
+    ],
+    "instructions": [
+      "Preparar los fideos: mezclar harinas con agua caliente hasta formar masa.",
+      "Dividir la masa en bolas pequeñas y rodar formando cilindros delgados.",
+      "Cortar los cilindros en segmentos de 5-7cm.",
+      "Para el caldo: hervir pollo con agua, hierba de limón, galanga, hojas de lima y cebolla.",
+      "Simmer por 1.5 horas, espumando ocasionalmente.",
+      "Retirar el pollo, desmenuzar la carne y reservar.",
+      "Colar el caldo y mantener caliente.",
+      "Cocinar los fideos en agua hirviendo por 5-7 minutos hasta que floten.",
+      "Servir fideos en bowls, cubrir con pollo desmenuzado y caldo caliente.",
+      "Decorar con cebollín, cilantro, menta, chiles y jugo de lima al gusto."
+    ],
+    "prepTime": 60,
+    "cookTime": 120,
+    "servings": 6,
+    "difficulty": "Alta",
+    "tags": ["sopa", "fideos", "pollo", "desayuno", "hechos a mano", "confort"],
+    "image": "",
+    "coordinates": {
+      "lat": 17.9757,
+      "lng": 102.6331
+    }
+  },
+  {
+    "id": "laos-004",
+    "name": "Ping Gai",
+    "country": "Laos",
+    "city": "Luang Prabang",
+    "region": "Asia",
+    "description": "Pollo a la parrilla marinado en leche de coco, cilantro y especias. Un plato callejero popular que combina sabores dulces y salados con un aroma irresistible.",
+    "history": "El ping gai es un favorito en los mercados nocturnos de Luang Prabang. La marinada de leche de coco ablanda la carne mientras imparte dulzura. Se vende tradicionalmente envuelto en hojas de plátano con arroz glutinoso.",
+    "ingredients": [
+      "8 muslos de pollo con piel",
+      "1 lata (400ml) de leche de coco",
+      "4 dientes de ajo, machacados",
+      "2 raíces de cilantro, picadas",
+      "2 cucharadas de salsa de pescado",
+      "2 cucharadas de azúcar moreno",
+      "1 cucharada de cúrcuma en polvo",
+      "1/2 cucharadita de pimienta blanca molida",
+      "1 cucharadita de sal",
+      "Hojas de plátano para envolver (opcional)",
+      "Arroz glutinoso al vapor para servir"
+    ],
+    "instructions": [
+      "Hacer cortes superficiales en el pollo para que absorba mejor la marinada.",
+      "Mezclar leche de coco, ajo, cilantro, salsa de pescado, azúcar, cúrcuma, pimienta y sal.",
+      "Marinar el pollo en la mezcla mínimo 4 horas, preferiblemente toda la noche.",
+      "Precalentar la parrilla a fuego medio.",
+      "Retirar el pollo de la marinada y dejar escurrir ligeramente.",
+      "Asar el pollo 15-20 minutos por lado hasta que esté dorado y cocido.",
+      "Si usa hojas de plátano, envolver el pollo caliente en ellas.",
+      "Servir inmediatamente con arroz glutinoso tibio.",
+      "Acompañar con salsa de chile dulce o jeow (salsa picante lao)."
+    ],
+    "prepTime": 20,
+    "cookTime": 40,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": ["pollo", "parrilla", "coco", "callejero", "marinado", "mercado"],
+    "image": "",
+    "coordinates": {
+      "lat": 19.8845,
+      "lng": 102.1348
+    }
+  },
+  {
+    "id": "laos-005",
+    "name": "Khao Niew",
+    "country": "Laos",
+    "city": "Vientiane",
+    "region": "Asia",
+    "description": "Arroz glutinoso al vapor, el alimento básico fundamental de Laos. Se come con las manos y acompaña prácticamente todas las comidas lao.",
+    "history": "El arroz glutinoso (khao niao) es central en la cultura lao. Laos tiene el mayor consumo per cápita de arroz glutinoso en el mundo. Se prepara en canastas de bambú tradicionales y es considerado sagrado en muchas ceremonias.",
+    "ingredients": [
+      "2 tazas de arroz glutinoso (arroz pegajoso)",
+      "Agua para remojar",
+      "Agua para vaporizar",
+      "1 pizca de sal"
+    ],
+    "instructions": [
+      "Lavar el arroz glutinoso hasta que el agua salga clara.",
+      "Remojar el arroz en agua fría mínimo 4 horas, preferiblemente toda la noche.",
+      "Escurrir completamente el arroz remojado.",
+      "Llenar la parte inferior de una vaporera con agua y llevar a ebullición.",
+      "Colocar el arroz en la canasta de bambú o inserto de vaporera.",
+      "Vaporizar por 20-25 minutos hasta que el arroz esté transparente y pegajoso.",
+      "Volcar el arroz caliente en un bowl limpio.",
+      "Amasar suavemente con una cuchara de madera húmeda por 2-3 minutos.",
+      "Agregar una pizca de sal y mezclar.",
+      "Servir caliente en canasta de bambú tradicional o bowl cubierto.",
+      "Se come con las manos: tomar pequeñas porciones y usar para recoger otros platos."
+    ],
+    "prepTime": 300,
+    "cookTime": 25,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": ["arroz", "glutinoso", "básico", "tradicional", "vapor", "fundamental"],
+    "image": "",
+    "coordinates": {
+      "lat": 17.9757,
+      "lng": 102.6331
+    }
+  }
+]
