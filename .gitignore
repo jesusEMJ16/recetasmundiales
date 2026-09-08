@@ -2,73 +2,37 @@
 # Dependencies
 node_modules/
 
-# Build artifacts
-dist/
-build/
-.next/
-out/
-
-# Environment variables
+# Environment
 .env
 .env.local
 .env.*
 
-# IDE specific
-.vscode/
-.idea/
-
-# OS generated
-.DS_Store
-Thumbs.db
-
 # Logs
 *.log
 
-# Coverage
-coverage/
-.htmlcov/
-
-# TypeScript
-*.tsbuildinfo
+# Build artifacts
+dist/
+build/
+target/
 
 # Temporary files
 *.tmp
-*.temp
+*.swp
+*.swo
 
-# Package lock
-package-lock.json
-.yarn/
-pnp.*
+# IDE
+.vscode/
+.idea/
 
-# Browser extensions
-*.crx
-
-# Database
-*.db
-*.sqlite
-
-# Compression
-*.zip
-*.gz
-*.tar
-*.tgz
-*.bz2
-*.xz
-*.7z
-*.rar
-*.zst
-*.lz4
-*.lzh
-*.cab
-*.arj
-*.rpm
-*.deb
-*.Z
-*.lz
-*.lzo
-*.tar.gz
-*.tar.bz2
-*.tar.xz
-*.tar.zst
-
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+.env
+.env.local
+.env.*
 ```
