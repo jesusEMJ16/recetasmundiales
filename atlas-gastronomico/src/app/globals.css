@@ -1,75 +1,94 @@
 @import "tailwindcss";
 
 /* ===========================================================================
-   World Bites — Sistema de diseño renovado
-   Dirección: moderno, global, vibrante con modo oscuro/claro
-   Paleta cálida inspirada en especias mundiales + modo oscuro elegante
+   World Bites — Sistema de diseño renovado por Experto Senior (30 años exp)
+   Dirección: elegante, sofisticado, minimalista con calidez
+   Teoría del color: Blancos puros, negros profundos, grises intermedios
+   Sin colores saturados innecesarios - solo acentos estratégicos
    =========================================================================== */
 
 @theme {
-  /* Paleta Modo Claro - Inspirada en especias y tierras */
-  --color-primary: #c1440e;        /* Terracota - color principal */
-  --color-primary-dark: #96330a;   /* Terracota oscuro */
-  --color-secondary: #e11d74;      /* Rosa mexicano - acentos */
-  --color-accent: #3f6b4c;         /* Verde agave - secundario */
-  --color-gold: #d99a00;           /* Dorado - destacados */
+  /* =========================================================================
+     MODO CLARO - Blanco puro, grises cálidos sutiles, negro verdadero
+     Inspiración: galería de arte minimalista, papel premium
+     ========================================================================= */
   
-  /* Fondos claros */
-  --color-bg-primary: #faf8f5;     /* Crema suave */
-  --color-bg-secondary: #fffdf8;   /* Blanco cálido */
-  --color-bg-tertiary: #f2ebe5;    /* Gris cálido */
+  /* Color principal - Terracota sofisticado (NO saturado) */
+  --color-primary: #b8442e;        /* Terracota elegante */
+  --color-primary-dark: #8a3322;   /* Terracota profundo */
+  --color-primary-light: #d46b5a;  /* Terracota suave para hover */
   
-  /* Textos claros */
-  --color-text-primary: #1a1a1a;   /* Negro suave */
-  --color-text-secondary: #4a4a4a; /* Gris medio */
-  --color-text-tertiary: #7a7a7a;  /* Gris claro */
+  /* Acento secundario - Dorado muted (NO amarillo brillante) */
+  --color-accent: #c9a962;         /* Dorado arena */
+  --color-accent-dark: #a0844a;    /* Dorado oscuro */
   
-  /* Bordes */
-  --color-border: #e5ddd5;         /* Beige claro */
-  --color-border-dark: #d4c5b5;    /* Beige medio */
+  /* FONDO CLARO - Blanco PURO con grises mínimos */
+  --color-bg-primary: #ffffff;     /* BLANCO PURO - base */
+  --color-bg-secondary: #fafafa;   /* Gris 2% - tarjetas */
+  --color-bg-tertiary: #f5f5f5;    /* Gris 5% - elementos */
+  --color-bg-elevated: #ffffff;    /* Blanco elevado - modales */
   
-  /* Paleta Modo Oscuro - Elegante y profundo */
-  --color-dark-bg-primary: #0f0f0f;      /* Negro profundo */
-  --color-dark-bg-secondary: #1a1a1a;    /* Gris muy oscuro */
-  --color-dark-bg-tertiary: #252525;     /* Gris oscuro */
-  --color-dark-bg-card: #1e1e1e;         /* Gris tarjeta */
+  /* TEXTOS CLAROS - Negro verdadero a grises */
+  --color-text-primary: #0a0a0a;   /* Negro 96% - títulos */
+  --color-text-secondary: #404040; /* Gris 75% - cuerpo */
+  --color-text-tertiary: #737373;  /* Gris 55% - metadata */
+  --color-text-disabled: #a3a3a3;  /* Gris 35% - disabled */
   
-  /* Textos oscuros */
-  --color-dark-text-primary: #ffffff;    /* Blanco */
-  --color-dark-text-secondary: #d0d0d0;  /* Gris claro */
-  --color-dark-text-tertiary: #a0a0a0;   /* Gris medio */
+  /* BORDES CLAROS - Sutiles, NO intrusivos */
+  --color-border: #e5e5e5;         /* Gris 10% - bordes base */
+  --color-border-dark: #d4d4d4;    /* Gris 15% - bordes énfasis */
   
-  /* Bordes oscuros */
-  --color-dark-border: #333333;          /* Gris borde */
-  --color-dark-border-light: #444444;    /* Gris borde claro */
+  /* =========================================================================
+     MODO OSCURO - Negro verdadero, grises fríos, blanco puro
+     Inspiración: noche profunda, carbón, elegancia absoluta
+     ========================================================================= */
   
-  /* Acentos modo oscuro (más vibrantes) */
-  --color-dark-primary: #ff6b35;         /* Naranja vibrante */
-  --color-dark-secondary: #ff4d94;       /* Rosa vibrante */
-  --color-dark-accent: #5ba36b;          /* Verde brillante */
-  --color-dark-gold: #ffc845;            /* Dorado brillante */
+  /* FONDO OSCURO - Negro PROFUNDO con grises */
+  --color-dark-bg-primary: #050505;      /* Negro 98% - base */
+  --color-dark-bg-secondary: #0f0f0f;    /* Negro 94% - tarjetas */
+  --color-dark-bg-tertiary: #1a1a1a;     /* Negro 90% - elementos */
+  --color-dark-bg-elevated: #141414;     /* Negro 92% - elevated */
   
-  /* Radios y sombras */
-  --radius-sm: 0.375rem;
+  /* TEXTOS OSCUROS - Blanco puro a grises */
+  --color-dark-text-primary: #fafafa;    /* Blanco 98% - títulos */
+  --color-dark-text-secondary: #d4d4d4;  /* Gris 17% - cuerpo */
+  --color-dark-text-tertiary: #a3a3a3;   /* Gris 35% - metadata */
+  --color-dark-text-disabled: #737373;   /* Gris 55% - disabled */
+  
+  /* BORDES OSCUROS - Sutiles en oscuridad */
+  --color-dark-border: #262626;          /* Gris 85% - bordes base */
+  --color-dark-border-light: #404040;    /* Gris 75% - bordes énfasis */
+  
+  /* ACENTOS MODO OSCURO - Más vibrantes pero controlados */
+  --color-dark-primary: #d95340;         /* Terracota vibrante */
+  --color-dark-accent: #d4b06a;          /* Dorado brillante */
+  
+  /* =========================================================================
+     RADIOS - Consistentes, modernos
+     ========================================================================= */
+  --radius-sm: 0.25rem;
   --radius-md: 0.5rem;
   --radius-lg: 0.75rem;
   --radius-xl: 1rem;
-  --radius-xl2: 1.25rem;
   --radius-2xl: 1.5rem;
   --radius-full: 9999px;
   
-  /* Sombras modo claro */
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
-  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.08), 0 4px 6px rgba(0, 0, 0, 0.05);
-  --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.04);
-  --shadow-2xl: 0 25px 50px rgba(0, 0, 0, 0.15);
+  /* =========================================================================
+     SOMBRAS MODO CLARO - Suaves, difusas, naturales
+     ========================================================================= */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 2px 4px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.03);
+  --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.08), 0 4px 8px rgba(0, 0, 0, 0.04);
+  --shadow-xl: 0 16px 32px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.05);
+  --shadow-2xl: 0 24px 48px rgba(0, 0, 0, 0.12);
   
-  /* Sombras modo oscuro */
-  --shadow-dark-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
-  --shadow-dark-md: 0 4px 6px rgba(0, 0, 0, 0.4), 0 2px 4px rgba(0, 0, 0, 0.3);
-  --shadow-dark-lg: 0 10px 15px rgba(0, 0, 0, 0.5), 0 4px 6px rgba(0, 0, 0, 0.3);
-  --shadow-dark-xl: 0 20px 25px rgba(0, 0, 0, 0.6), 0 10px 10px rgba(0, 0, 0, 0.4);
+  /* =========================================================================
+     SOMBRAS MODO OSCURO - Profundas, dramáticas
+     ========================================================================= */
+  --shadow-dark-sm: 0 1px 2px rgba(0, 0, 0, 0.5);
+  --shadow-dark-md: 0 2px 4px rgba(0, 0, 0, 0.6), 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-dark-lg: 0 8px 16px rgba(0, 0, 0, 0.7), 0 4px 8px rgba(0, 0, 0, 0.5);
+  --shadow-dark-xl: 0 16px 32px rgba(0, 0, 0, 0.8), 0 8px 16px rgba(0, 0, 0, 0.6);
 }
 
 @theme inline {
@@ -84,10 +103,7 @@ html {
 
 body {
   background-color: var(--color-bg-primary);
-  background-image:
-    radial-gradient(1200px 600px at 12% -8%, rgba(225, 29, 116, 0.06), transparent 60%),
-    radial-gradient(1000px 620px at 100% 0%, rgba(217, 154, 0, 0.08), transparent 55%),
-    radial-gradient(900px 700px at 50% 120%, rgba(63, 107, 76, 0.07), transparent 60%);
+  background-image: none; /* SIN gradientes - blanco puro */
   background-attachment: fixed;
   color: var(--color-text-primary);
   font-family: var(--font-body);
@@ -96,41 +112,23 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Modo Oscuro */
+/* Modo Oscuro - Negro verdadero SIN gradientes */
 .dark body {
   background-color: var(--color-dark-bg-primary);
-  background-image:
-    radial-gradient(1000px 600px at 12% -8%, rgba(255, 107, 53, 0.08), transparent 60%),
-    radial-gradient(800px 500px at 100% 0%, rgba(255, 77, 148, 0.06), transparent 55%),
-    radial-gradient(700px 600px at 50% 120%, rgba(91, 163, 107, 0.08), transparent 60%);
+  background-image: none; /* SIN gradientes - negro puro */
   color: var(--color-dark-text-primary);
 }
 
-/* Grano de papel sutil sobre todo el sitio */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: 9999;
-  pointer-events: none;
-  opacity: 0.4;
-  mix-blend-mode: multiply;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
-}
-
-.dark body::before {
-  opacity: 0.25;
-  mix-blend-mode: overlay;
-}
+/* SIN grano de papel - diseño limpio y minimalista */
 
 ::selection {
-  background: var(--color-secondary);
+  background: var(--color-primary);
   color: #fff;
 }
 
 .dark ::selection {
-  background: var(--color-dark-secondary);
-  color: #000;
+  background: var(--color-dark-primary);
+  color: #fff;
 }
 
 h1, h2, h3, h4, .font-display {
@@ -152,9 +150,9 @@ h1, h2, h3, h4, .font-display {
   50%      { transform: translateY(-6px); }
 }
 @keyframes marker-pulse {
-  0%   { box-shadow: 0 0 0 0 rgba(225, 29, 116, 0.5); }
-  70%  { box-shadow: 0 0 0 14px rgba(225, 29, 116, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(225, 29, 116, 0); }
+  0%   { box-shadow: 0 0 0 0 rgba(184, 68, 46, 0.5); }
+  70%  { box-shadow: 0 0 0 14px rgba(184, 68, 46, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(184, 68, 46, 0); }
 }
 @keyframes shimmer {
   0%   { background-position: -200% 0; }
@@ -179,14 +177,12 @@ h1, h2, h3, h4, .font-display {
 }
 
 .deco-underline {
-  background-image: linear-gradient(transparent 62%, rgba(225, 29, 116, 0.22) 0);
+  background-image: linear-gradient(transparent 62%, var(--color-primary) 0);
   background-size: 100% 100%;
 }
 
 .img-placeholder {
-  background:
-    linear-gradient(135deg, var(--color-bg-tertiary), var(--color-bg-secondary)),
-    repeating-linear-gradient(45deg, rgba(193, 68, 14, 0.06) 0 10px, transparent 10px 20px);
+  background: linear-gradient(135deg, var(--color-bg-tertiary) 0%, var(--color-bg-secondary) 100%);
 }
 
 /* Scrollbar personalizada */

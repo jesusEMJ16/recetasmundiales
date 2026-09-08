@@ -115,10 +115,10 @@ function createRecipeMarkerElement(place: Place, locale: string, hasRecipes: boo
       border-radius: 8px;
       cursor: pointer;
       background: ${hasRecipes 
-        ? "linear-gradient(135deg, #10b981 0%, #059669 100%)" 
-        : "linear-gradient(135deg, #ef4444 0%, #dc2626 100%)"};
+        ? "linear-gradient(135deg, #b8442e 0%, #8a3322 100%)" 
+        : "linear-gradient(135deg, #737373 0%, #525252 100%)"};
       color: #ffffff;
-      border: 2px solid ${hasRecipes ? "#047857" : "#b91c1c"};
+      border: 2px solid ${hasRecipes ? "#8a3322" : "#525252"};
       box-shadow: 0 3px 12px -3px rgba(0,0,0,0.4);
       transition: all 0.2s ease;
       backdrop-filter: blur(6px);
@@ -149,22 +149,24 @@ function createEmptyAreaMarkerElement() {
       white-space: nowrap;
       padding: 4px 8px;
       border-radius: 6px;
-      background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+      background: linear-gradient(135deg, #737373 0%, #525252 100%);
       color: #ffffff;
-      border: 2px solid #b91c1c;
+      border: 2px solid #525252;
       box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-      animation: pulse-red 2s infinite;
     ">
-      ⚠️ Sin recetas - Click para agregar
+      Sin recetas
     </div>
-    <style>
-      @keyframes pulse-red {
-        0%, 100% { opacity: 1; transform: scale(1); }
-        50% { opacity: 0.8; transform: scale(1.05); }
-      }
-    </style>
   `;
   return el;
+}
+
+// Función para obtener emoji de bandera desde código de país
+function getFlagEmoji(countryCode: string): string {
+  const codePoints = countryCode
+    .toUpperCase()
+    .split('')
+    .map(char => 127397 + char.charCodeAt(0));
+  return String.fromCodePoint(...codePoints);
 }
 
 export function WorldMap() {
@@ -244,13 +246,15 @@ export function WorldMap() {
       center: [20, 0], // Centro global
       zoom: 2,
       minZoom: 2,
-      maxZoom: 18,
+      maxZoom: 14, // Reducido para evitar zoom excesivo
       zoomControl: false,
       attributionControl: false,
       preferCanvas: true,
-      scrollWheelZoom: true,
-      doubleClickZoom: true,
+      scrollWheelZoom: false, // Desactivado para menos sensibilidad
+      doubleClickZoom: false, // Desactivado para menos sensibilidad
       dragging: true,
+      zoomSnap: 0.5, // Zoom más suave
+      zoomDelta: 0.5, // Delta más pequeño
     });
 
     mapRef.current = map;
@@ -283,23 +287,23 @@ export function WorldMap() {
     clusterGroupRef.current = clusterGroup;
     map.addLayer(clusterGroup);
 
-    // Colores por continente para marcadores circulares
+    // Colores por continente para marcadores circulares - PALETA SOBRIA
     const continentColors: Record<string, string> = {
-      'MX': '#3b82f6', // México - Azul
-      'US': '#3b82f6', // USA - Azul
-      'CA': '#3b82f6', // Canadá - Azul
-      'BR': '#10b981', // Brasil - Verde
-      'AR': '#10b981', // Argentina - Verde
-      'IT': '#8b5cf6', // Italia - Violeta
-      'FR': '#8b5cf6', // Francia - Violeta
-      'ES': '#8b5cf6', // España - Violeta
-      'DE': '#8b5cf6', // Alemania - Violeta
-      'GR': '#8b5cf6', // Grecia - Violeta
-      'PT': '#8b5cf6', // Portugal - Violeta
-      'CN': '#ef4444', // China - Rojo
-      'JP': '#ef4444', // Japón - Rojo
-      'IN': '#ef4444', // India - Rojo
-      'TH': '#ef4444', // Tailandia - Rojo
+      'MX': '#b8442e', // México - Terracota
+      'US': '#b8442e', // USA - Terracota
+      'CA': '#b8442e', // Canadá - Terracota
+      'BR': '#b8442e', // Brasil - Terracota
+      'AR': '#b8442e', // Argentina - Terracota
+      'IT': '#b8442e', // Italia - Terracota
+      'FR': '#b8442e', // Francia - Terracota
+      'ES': '#b8442e', // España - Terracota
+      'DE': '#b8442e', // Alemania - Terracota
+      'GR': '#b8442e', // Grecia - Terracota
+      'PT': '#b8442e', // Portugal - Terracota
+      'CN': '#b8442e', // China - Terracota
+      'JP': '#b8442e', // Japón - Terracota
+      'IN': '#b8442e', // India - Terracota
+      'TH': '#b8442e', // Tailandia - Terracota
     };
 
     // Crear marcadores de países con iconos circulares pulsantes
@@ -312,29 +316,21 @@ export function WorldMap() {
       // Determinar color por país
       const color = continentColors[country.countryCode] || '#8b5cf6'; // Default violeta
       
-      // Icono circular pulsante
+      // Icono circular pulsante - SIN ANIMACION, diseño minimalista
       const markerIcon = L.divIcon({
         className: 'custom-circle-marker',
         html: `
           <div style="
-            background-color: ${hasRecipes ? color : '#ef4444'};
-            width: 20px;
-            height: 20px;
+            background-color: ${hasRecipes ? color : '#737373'};
+            width: 16px;
+            height: 16px;
             border-radius: 50%;
-            border: 3px solid white;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
-            animation: pulse 2s infinite;
+            border: 2px solid white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.3);
           "></div>
-          <style>
-            @keyframes pulse {
-              0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.7); }
-              70% { transform: scale(1.2); box-shadow: 0 0 0 10px rgba(255, 255, 255, 0); }
-              100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 255, 255, 0); }
-            }
-          </style>
         `,
-        iconSize: [20, 20],
-        iconAnchor: [10, 10],
+        iconSize: [16, 16],
+        iconAnchor: [8, 8],
       });
       
       const marker = L.marker([country.lat, country.lng], {
@@ -342,30 +338,20 @@ export function WorldMap() {
         zIndexOffset: 1000,
       });
 
-      // Popup mejorado con información del país
+      // Popup mejorado con información del país - SIN CUADROS VERDES, diseño limpio
+      const flagEmoji = getFlagEmoji(country.countryCode);
       marker.bindPopup(`
-        <div style="text-align: center; font-family: sans-serif; min-width: 200px;">
-          <div style="font-size: 32px; margin-bottom: 8px;">${country.countryCode === 'MX' ? '🇲🇽' : country.countryCode === 'US' ? '🇺🇸' : country.countryCode === 'IT' ? '🇮🇹' : country.countryCode === 'FR' ? '🇫🇷' : country.countryCode === 'ES' ? '🇪🇸' : country.countryCode === 'DE' ? '🇩🇪' : country.countryCode === 'GR' ? '🇬🇷' : country.countryCode === 'PT' ? '🇵🇹' : '🌍'}</div>
-          <h3 style="margin: 0; color: #1a202c; font-weight: bold; font-size: 16px;">${cname}</h3>
-          <p style="margin: 8px 0; color: #4a5568; font-size: 14px;">${hasRecipes ? `${recipeCount} recetas disponibles` : 'Próximamente'}</p>
-          ${hasRecipes ? `<button onclick="window.location.href='${placeHref(locale as any, country)}'" 
-            style="background: ${color}; color: white; border: none; padding: 8px 16px; 
-            border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 13px; margin-top: 8px;">
-            Ver Recetas
-          </button>` : ''}
+        <div style="text-align: center; font-family: sans-serif; min-width: 180px; padding: 8px;">
+          <div style="font-size: 28px; margin-bottom: 6px;">${flagEmoji}</div>
+          <h3 style="margin: 0; color: #1a1a1a; font-weight: 600; font-size: 14px;">${cname}</h3>
+          <p style="margin: 6px 0 0; color: #737373; font-size: 12px;">${hasRecipes ? `${recipeCount} recetas` : 'Próximamente'}</p>
         </div>
       `);
 
-      // Click en marcador: animación de zoom y redirección
+      // Click en marcador: redirección directa SIN animación de zoom excesiva
       marker.on('click', () => {
         if (hasRecipes) {
-          map.flyTo([country.lat, country.lng], 6, {
-            animate: true,
-            duration: 1.5
-          });
-          setTimeout(() => {
-            router.push(placeHref(locale as any, country));
-          }, 1000);
+          router.push(placeHref(locale as any, country));
         }
       });
 

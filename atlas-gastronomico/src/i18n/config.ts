@@ -20,12 +20,12 @@ export const defaultLocale: Locale = "es";
 
 // Metadatos de cada idioma (para selector y hreflang)
 export const localeMeta: Record<Locale, { label: string; flag: string; htmlLang: string; nativeName: string }> = {
-  es: { label: "Español", flag: "🌎", htmlLang: "es", nativeName: "Español" },
-  en: { label: "English", flag: "🌍", htmlLang: "en", nativeName: "English" },
+  es: { label: "Español", flag: "🇪🇸", htmlLang: "es", nativeName: "Español" },
+  en: { label: "English", flag: "🇬🇧", htmlLang: "en", nativeName: "English" },
   zh: { label: "中文", flag: "🇨🇳", htmlLang: "zh-CN", nativeName: "中文 (简体)" },
   hi: { label: "हिन्दी", flag: "🇮🇳", htmlLang: "hi", nativeName: "हिन्दी" },
   fr: { label: "Français", flag: "🇫🇷", htmlLang: "fr", nativeName: "Français" },
-  ar: { label: "العربية", flag: "🌍", htmlLang: "ar", nativeName: "العربية" },
+  ar: { label: "العربية", flag: "🇸🇦", htmlLang: "ar", nativeName: "العربية" },
   bn: { label: "বাংলা", flag: "🇧🇩", htmlLang: "bn", nativeName: "বাংলা" },
   pt: { label: "Português", flag: "🇵🇹", htmlLang: "pt", nativeName: "Português" },
   ru: { label: "Русский", flag: "🇷🇺", htmlLang: "ru", nativeName: "Русский" },
