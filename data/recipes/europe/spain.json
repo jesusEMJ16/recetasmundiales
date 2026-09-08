@@ -1,0 +1,197 @@
+[
+  {
+    "id": "espa-001",
+    "nombre": "Paella Valenciana",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "ciudad": "Valencia",
+    "coordenadas": {
+      "lat": 39.4699,
+      "lng": -0.3763
+    },
+    "descripcion": "El plato más emblemático de España, originario de la Albufera valenciana. Esta receta tradicional utiliza conejo, pollo y judías verdes, cocinados en una paellera sobre fuego de leña.",
+    "historia": "La paella nació en el siglo XVIII en los campos de arroz de Valencia, donde los campesinos cocinaban lo que tenían a mano: arroz, verduras de la huerta y carne de caza menor. El nombre proviene de la palabra 'paelle', que significa sartén en valenciano.",
+    "ingredientes": [
+      "400g de arroz bomba",
+      "1 pollo troceado",
+      "1 conejo troceado",
+      "200g de judías verdes planas",
+      "100g de garrofó (judía blanca grande)",
+      "1 tomate rallado",
+      "Azafrán en hebras",
+      "Pimentón dulce",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Agua (aproximadamente 1 litro)"
+    ],
+    "instrucciones": [
+      "Calentar aceite de oliva en la paellera y dorar el pollo y el conejo hasta que estén bien sellados.",
+      "Añadir las judías verdes y el garrofó, sofreír durante 5 minutos.",
+      "Agregar el tomate rallado y cocinar hasta que se evapore el agua.",
+      "Incorporar el pimentón dulce y remover rápidamente para que no se queme.",
+      "Verter agua caliente y llevar a ebullición durante 20 minutos para crear un buen caldo.",
+      "Añadir el azafrán y la sal al gusto.",
+      "Cuando el caldo hierva fuerte, agregar el arroz repartiéndolo uniformemente.",
+      "Cocinar a fuego fuerte los primeros 10 minutos y luego bajar a fuego suave otros 8 minutos.",
+      "Dejar reposar 5 minutos tapado con un paño antes de servir."
+    ],
+    "tiempo_preparacion": 60,
+    "tiempo_coccion": 45,
+    "porciones": 4,
+    "dificultad": "Media",
+    "tags": ["arroz", "tradicional", "valencia", "españa", "plato principal"],
+    "imagen": ""
+  },
+  {
+    "id": "espa-002",
+    "nombre": "Tortilla Española",
+    "pais": "España",
+    "region": "Nacional",
+    "ciudad": "Madrid",
+    "coordenadas": {
+      "lat": 40.4168,
+      "lng": -3.7038
+    },
+    "descripcion": "La tortilla de patatas es el plato nacional de España por excelencia. Una sencilla pero deliciosa combinación de huevos, patatas y cebolla que se encuentra en cualquier bar o casa española.",
+    "historia": "Su origen se remonta al siglo XIX en Navarra, donde según la leyenda, una campesina preparó este plato para el general Zumalacárregui durante las guerras carlistas. Se convirtió rápidamente en alimento básico por su bajo coste y alto valor nutricional.",
+    "ingredientes": [
+      "6 huevos grandes",
+      "4 patatas medianas (aproximadamente 600g)",
+      "1 cebolla grande opcional",
+      "Aceite de oliva virgen extra abundante",
+      "Sal al gusto"
+    ],
+    "instrucciones": [
+      "Pelar y cortar las patatas en láminas finas o cubos pequeños.",
+      "Si se usa cebolla, picarla en juliana fina.",
+      "Calentar abundante aceite en una sartén y freír las patatas a fuego medio-bajo hasta que estén tiernas (no doradas).",
+      "Añadir la cebolla si se usa y cocinar hasta que esté transparente.",
+      "Escurrir bien las patatas y la cebolla del aceite.",
+      "Batir los huevos en un bol grande con sal.",
+      "Añadir las patatas calientes a los huevos batidos y mezclar bien.",
+      "Dejar reposar la mezcla 5 minutos para que las patatas absorban el huevo.",
+      "Calentar un poco de aceite en una sartén antiadherente y verter la mezcla.",
+      "Cocinar a fuego medio hasta que cuaje por debajo (aproximadamente 4-5 minutos).",
+      "Dar la vuelta con ayuda de un plato y cocinar el otro lado otros 3-4 minutos.",
+      "El punto ideal es jugosa por dentro pero cuajada por fuera."
+    ],
+    "tiempo_preparacion": 15,
+    "tiempo_coccion": 30,
+    "porciones": 4,
+    "dificultad": "Fácil",
+    "tags": ["huevos", "patatas", "tapas", "españa", "desayuno", "merienda"],
+    "imagen": ""
+  },
+  {
+    "id": "espa-003",
+    "nombre": "Gazpacho Andaluz",
+    "pais": "España",
+    "region": "Andalucía",
+    "ciudad": "Sevilla",
+    "coordenadas": {
+      "lat": 37.3891,
+      "lng": -5.9845
+    },
+    "descripcion": "Sopa fría de tomates y verduras, perfecta para los calurosos veranos andaluces. Una explosión de sabores frescos y saludables que se toma como primer plato o bebida refrescante.",
+    "historia": "El gazpacho tiene raíces romanas y árabes, originalmente era una mezcla de pan, ajo, aceite y vinagre. Con la llegada del tomate de América en el siglo XVI, evolucionó hacia la receta actual. Es símbolo de la cocina andaluza desde hace siglos.",
+    "ingredientes": [
+      "1 kg de tomates maduros",
+      "1 pimiento verde italiano",
+      "1 pepino mediano",
+      "1 diente de ajo pequeño",
+      "100g de pan duro del día anterior",
+      "50ml de aceite de oliva virgen extra",
+      "30ml de vinagre de Jerez",
+      "Sal al gusto",
+      "Agua fría si es necesario"
+    ],
+    "instrucciones": [
+      "Lavar y trocear todas las verduras.",
+      "Remojar el pan en agua durante 5 minutos y escurrir bien.",
+      "Introducir todos los ingredientes en una batidora o procesador.",
+      "Triturar a máxima potencia hasta obtener una textura muy fina.",
+      "Pasar por un colador chino o estameña para eliminar pieles y semillas.",
+      "Rectificar de sal y vinagre al gusto.",
+      "Enfriar en nevera mínimo 2 horas antes de servir.",
+      "Servir muy frío, acompañado de picatostes y verduras picadas aparte."
+    ],
+    "tiempo_preparacion": 20,
+    "tiempo_coccion": 0,
+    "porciones": 4,
+    "dificultad": "Fácil",
+    "tags": ["sopa fría", "tomate", "andalucia", "verano", "vegano", "saludable"],
+    "imagen": ""
+  },
+  {
+    "id": "espa-004",
+    "nombre": "Jamón Ibérico de Bellota",
+    "pais": "España",
+    "region": "Extremadura/Andalucía",
+    "ciudad": "Jabugo",
+    "coordenadas": {
+      "lat": 37.9333,
+      "lng": -6.7833
+    },
+    "descripcion": "El oro rojo de España. Jamón curado procedente de cerdos ibéricos criados en libertad y alimentados exclusivamente con bellotas durante la montanera. Sabor intenso y textura única.",
+    "historia": "La tradición jamonera en España se remonta a los íberos, quienes ya curaban jamones hace más de 2000 años. La Denominación de Origen Jabugo es una de las más prestigiosas, con procesos de curación que pueden superar los 48 meses.",
+    "ingredientes": [
+      "Jamón ibérico de bellota (pieza entera o en lonchas)",
+      "Nota: Este es un producto terminado que requiere años de curación"
+    ],
+    "instrucciones": [
+      "Para consumir jamón en lonchas:",
+      "Colocar la pieza en una jamonera estable.",
+      "Quitar la capa exterior de grasa amarilla hasta llegar a la grasa blanca.",
+      "Cortar lonchas finas y amplias con cuchillo jamonero bien afilado.",
+      "Cortar siempre en dirección paralela al hueso.",
+      "Consumir a temperatura ambiente para apreciar todo su aroma.",
+      "Maridar con vino tinto D.O. Ribera del Duero o Rioja."
+    ],
+    "tiempo_preparacion": 5,
+    "tiempo_coccion": 0,
+    "porciones": 8,
+    "dificultad": "Media",
+    "tags": ["embutido", "iberico", "curado", "gourmet", "tapas", "extremadura"],
+    "imagen": ""
+  },
+  {
+    "id": "espa-005",
+    "nombre": "Crema Catalana",
+    "pais": "España",
+    "region": "Cataluña",
+    "ciudad": "Barcelona",
+    "coordenadas": {
+      "lat": 41.3851,
+      "lng": 2.1734
+    },
+    "descripcion": "Postre tradicional catalán similar a la crème brûlée francesa, pero con leche en lugar de nata y aromatizado con canela y limón. Su característica principal es la costra de azúcar caramelizado.",
+    "historia": "Documentada desde el siglo XIV en Cataluña, la crema catalana era tradicionalmente el postre de Sant Josep (19 de marzo). Los monjes de los monasterios catalanes perfeccionaron esta receta que hoy es símbolo de la repostería catalana.",
+    "ingredientes": [
+      "500ml de leche entera",
+      "6 yemas de huevo",
+      "100g de azúcar + extra para quemar",
+      "40g de maicena",
+      "1 rama de canela",
+      "Piel de 1 limón (solo la parte amarilla)",
+      "1 cucharadita de esencia de vainilla"
+    ],
+    "instrucciones": [
+      "Infusionar la leche con la canela y la piel de limón durante 15 minutos a fuego suave.",
+      "Retirar del fuego, colar y dejar templar.",
+      "Mezclar las yemas con el azúcar hasta blanquear.",
+      "Añadir la maicena disuelta en un poco de leche fría.",
+      "Verter la leche infusionada sobre la mezcla de huevos removiendo constantemente.",
+      "Cocinar a fuego lento sin dejar de remover hasta espesar.",
+      "Añadir la vainilla y repartir en cazuelas de barro tradicionales.",
+      "Dejar enfriar y refrigerar mínimo 4 horas.",
+      "Antes de servir, espolvorear azúcar y quemar con salamandra o hierro especial.",
+      "Servir inmediatamente mientras la costra esté crujiente."
+    ],
+    "tiempo_preparacion": 30,
+    "tiempo_coccion": 20,
+    "porciones": 6,
+    "dificultad": "Media",
+    "tags": ["postre", "cataluña", "crema", "tradicional", "barcelona"],
+    "imagen": ""
+  }
+]

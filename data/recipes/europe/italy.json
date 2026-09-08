@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ital-001",
+    "nombre": "Pizza Napolitana",
+    "pais": "Italia",
+    "region": "Campania",
+    "ciudad": "Nápoles",
+    "coordenadas": {
+      "lat": 40.8518,
+      "lng": 14.2681
+    },
+    "descripcion": "La pizza original, declarada Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO. Masa fina y elástica con ingredientes simples pero de máxima calidad.",
+    "historia": "Nacida en Nápoles en el siglo XVIII como comida de los pobres, la pizza se popularizó cuando la reina Margarita de Saboya visitó la ciudad en 1889. El pizzero Raffaele Esposito creó la Pizza Margherita con los colores de la bandera italiana.",
+    "ingredientes": [
+      "500g de harina 00 italiana",
+      "325ml de agua tibia",
+      "10g de sal marina",
+      "2g de levadura fresca",
+      "400g de tomates San Marzano D.O.P.",
+      "200g de mozzarella di bufala",
+      "Hojas de albahaca fresca",
+      "Aceite de oliva virgen extra"
+    ],
+    "instrucciones": [
+      "Disolver la levadura en el agua tibia.",
+      "Mezclar la harina con la sal en un bol grande.",
+      "Añadir el agua con levadura gradualmente mientras se mezcla.",
+      "Amasar durante 10-15 minutos hasta obtener una masa suave y elástica.",
+      "Dejar fermentar en lugar cálido durante 8-24 horas (doble volumen).",
+      "Dividir la masa en 4 bolas y dejar reposar 2 horas más.",
+      "Estirar cada bola con las manos formando un disco fino.",
+      "Extender los tomates triturados con sal y aceite.",
+      "Añadir trozos de mozzarella distribuidos uniformemente.",
+      "Hornear a máxima temperatura (250-300°C) durante 8-10 minutos.",
+      "Decorar con albahaca fresca y un hilo de aceite de oliva."
+    ],
+    "tiempo_preparacion": 480,
+    "tiempo_coccion": 10,
+    "porciones": 4,
+    "dificultad": "Media",
+    "tags": ["pizza", "napoles", "italia", "masa", "tradicional", "unesco"],
+    "imagen": ""
+  },
+  {
+    "id": "ital-002",
+    "nombre": "Pasta Carbonara",
+    "pais": "Italia",
+    "region": "Lazio",
+    "ciudad": "Roma",
+    "coordenadas": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "descripcion": "Plato romano clásico preparado con huevos, queso Pecorino Romano, guanciale y pimienta negra. Sin nata, sin ajo, sin cebolla: solo ingredientes auténticos.",
+    "historia": "Su origen es debatido: algunos dicen que nació después de la Segunda Guerra Mundial con soldados americanos que compartían bacon y huevos. Otros la vinculan a los carboneros de los Apeninos. Lo cierto es que es un símbolo de Roma desde mediados del siglo XX.",
+    "ingredientes": [
+      "400g de spaghetti o rigatoni",
+      "150g de guanciale (o panceta ahumada)",
+      "4 yemas de huevo + 1 huevo entero",
+      "100g de queso Pecorino Romano rallado",
+      "Pimienta negra molida abundante",
+      "Sal para el agua de la pasta"
+    ],
+    "instrucciones": [
+      "Cortar el guanciale en tiras o cubos pequeños.",
+      "Dorar el guanciale en sartén sin aceite hasta que esté crujiente.",
+      "Batir las yemas y el huevo entero con el Pecorino rallado.",
+      "Añadir mucha pimienta negra molida a la mezcla de huevos.",
+      "Cocinar la pasta en agua con sal hasta que esté al dente.",
+      "Reservar un poco del agua de cocción de la pasta.",
+      "Escurrir la pasta y añadirla a la sartén con el guanciale (fuera del fuego).",
+      "Verter la mezcla de huevos sobre la pasta caliente removiendo rápidamente.",
+      "Añadir un poco de agua de cocción si es necesario para crear cremosidad.",
+      "El calor residual cocinará los huevos sin llegar a cuajarlos completamente.",
+      "Servir inmediatamente con más Pecorino y pimienta por encima."
+    ],
+    "tiempo_preparacion": 15,
+    "tiempo_coccion": 15,
+    "porciones": 4,
+    "dificultad": "Media",
+    "tags": ["pasta", "roma", "italia", "huevos", "guanciale", "clasico"],
+    "imagen": ""
+  },
+  {
+    "id": "ital-003",
+    "nombre": "Risotto alla Milanese",
+    "pais": "Italia",
+    "region": "Lombardía",
+    "ciudad": "Milán",
+    "coordenadas": {
+      "lat": 45.4642,
+      "lng": 9.1900
+    },
+    "descripcion": "Arroz cremoso de color amarillo dorado gracias al azafrán. Un plato elegante que requiere paciencia y técnica perfecta para lograr la textura 'all'onda'.",
+    "historia": "Según la leyenda, fue creado en 1574 por un aprendiz de vidriero que trabajaba en la catedral de Milán. Como broma, añadió azafrán (usado para teñir vidrio) al arroz de una boda. El resultado sorprendió tanto que se convirtió en plato tradicional milanés.",
+    "ingredientes": [
+      "320g de arroz Carnaroli o Arborio",
+      "1 litro de caldo de carne caliente",
+      "1 vaso de vino blanco seco",
+      "1 cebolla pequeña",
+      "80g de mantequilla",
+      "50g de queso Parmigiano Reggiano rallado",
+      "1 sobre de azafrán en polvo (o hebras)",
+      "Sal y pimienta blanca"
+    ],
+    "instrucciones": [
+      "Picar finamente la cebolla y rehogar con la mitad de la mantequilla.",
+      "Añadir el arroz y tostar durante 2-3 minutos removiendo constantemente.",
+      "Verter el vino blanco y dejar evaporar completamente.",
+      "Comenzar a añadir el caldo caliente cucharón a cucharón.",
+      "Remover constantemente para liberar el almidón del arroz.",
+      "A mitad de cocción (aproximadamente 10 minutos), añadir el azafrán disuelto en un poco de caldo.",
+      "Continuar añadiendo caldo y removiendo hasta que el arroz esté 'al dente' (16-18 minutos).",
+      "Retirar del fuego y añadir la mantequilla restante y el Parmigiano.",
+      "Mantecar energéticamente para lograr cremosidad.",
+      "Dejar reposar 1 minuto antes de servir."
+    ],
+    "tiempo_preparacion": 10,
+    "tiempo_coccion": 25,
+    "porciones": 4,
+    "dificultad": "Media",
+    "tags": ["arroz", "risotto", "milan", "azafran", "lombardia", "elegante"],
+    "imagen": ""
+  },
+  {
+    "id": "ital-004",
+    "nombre": "Tiramisú",
+    "pais": "Italia",
+    "region": "Véneto/Friuli",
+    "ciudad": "Treviso",
+    "coordenadas": {
+      "lat": 45.6669,
+      "lng": 12.2433
+    },
+    "descripcion": "El postre italiano más famoso del mundo. Capas de bizcochos savoiardi empapados en café espresso, alternadas con crema de mascarpone y cacao amargo.",
+    "historia": "Su creación es disputada entre varias regiones, pero la versión más aceptada lo sitúa en Treviso en los años 1960. El nombre significa 'tírame arriba' o 'levántame el ánimo', probablemente por su efecto energético del café y el cacao.",
+    "ingredientes": [
+      "500g de queso mascarpone",
+      "6 huevos grandes (separar claras y yemas)",
+      "100g de azúcar",
+      "300g de bizcochos savoiardi (soletillas)",
+      "400ml de café espresso frío",
+      "Cacao amargo en polvo para decorar",
+      "1 pizca de sal",
+      "Opcional: 2 cucharadas de Marsala o Amaretto"
+    ],
+    "instrucciones": [
+      "Separar las yemas de las claras de los huevos.",
+      "Batir las yemas con la mitad del azúcar hasta blanquear.",
+      "Añadir el mascarpone a las yemas y mezclar hasta obtener crema homogénea.",
+      "Montar las claras a punto de nieve con la pizca de sal.",
+      "Añadir el azúcar restante a las claras y seguir batiendo hasta punto de nieve firme.",
+      "Incorporar las claras montadas a la crema de mascarpone con movimientos envolventes.",
+      "Preparar el café espresso y dejar enfriar (añadir licor si se usa).",
+      "Mojar ligeramente los savoiardi en el café (no empapar demasiado).",
+      "Colocar una capa de bizcochos en el fondo del molde.",
+      "Cubrir con una capa generosa de crema de mascarpone.",
+      "Repetir capas: bizcochos mojados y crema.",
+      "Refrigerar mínimo 4 horas (mejor toda la noche).",
+      "Antes de servir, espolvorear abundantemente con cacao amargo."
+    ],
+    "tiempo_preparacion": 30,
+    "tiempo_coccion": 0,
+    "porciones": 8,
+    "dificultad": "Fácil",
+    "tags": ["postre", "mascarpone", "cafe", "veneto", "clasico", "sin horneo"],
+    "imagen": ""
+  },
+  {
+    "id": "ital-005",
+    "nombre": "Osso Buco",
+    "pais": "Italia",
+    "region": "Lombardía",
+    "ciudad": "Milán",
+    "coordenadas": {
+      "lat": 45.4642,
+      "lng": 9.1900
+    },
+    "descripcion": "Jarrete de ternera estofado lentamente hasta quedar extremadamente tierno. Tradicionalmente se sirve con risotto alla milanese y gremolata.",
+    "historia": "Plato humilde de la cocina milanesa que data del siglo XIX. Los ossobuchi eran cortes económicos que requerían cocción lenta para ablandarse. Hoy es un plato de lujo apreciado en todo el mundo.",
+    "ingredientes": [
+      "4 jarretes de ternera (ossobuco) de 3cm de grosor",
+      "Harina para enharinar",
+      "2 zanahorias medianas",
+      "2 ramas de apio",
+      "1 cebolla grande",
+      "2 dientes de ajo",
+      "400ml de vino blanco seco",
+      "400g de tomate triturado",
+      "500ml de caldo de carne",
+      "2 hojas de laurel",
+      "Ramas de tomillo fresco",
+      "Aceite de oliva virgen extra",
+      "Sal y pimienta negra"
+    ],
+    "instrucciones": [
+      "Atar los jarretes con hilo de cocina para que mantengan la forma.",
+      "Sazonar con sal y pimienta, enharinar ligeramente.",
+      "Dorar los jarretes en aceite caliente por ambos lados hasta formar costra.",
+      "Retirar la carne y reservar.",
+      "En el mismo aceite, sofreír verduras picadas finamente (sofrito).",
+      "Añadir el ajo laminado y cocinar 1 minuto más.",
+      "Desglasar con vino blanco y dejar reducir a la mitad.",
+      "Agregar el tomate triturado y el caldo caliente.",
+      "Añadir hierbas aromáticas (laurel y tomillo).",
+      "Devolver los jarretes a la cazuela, deben quedar cubiertos por líquido.",
+      "Cocinar a fuego muy bajo tapado durante 2-3 horas hasta que la carne se desprenda del hueso.",
+      "Para la gremolata: mezclar perejil picado, ralladura de limón y ajo muy picado.",
+      "Servir los ossobuchi con la salsa y espolvorear con gremolata fresca."
+    ],
+    "tiempo_preparacion": 30,
+    "tiempo_coccion": 180,
+    "porciones": 4,
+    "dificultad": "Media",
+    "tags": ["carne", "ternera", "estofado", "milan", "lombardia", "plato principal"],
+    "imagen": ""
+  }
+]
