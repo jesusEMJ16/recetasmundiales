@@ -176,17 +176,17 @@ export const RECIPE_IMAGES: Record<string, RecipeImage> = {
   "gazpacho-andaluz": { url: "https://images.unsplash.com/photo-1574484284008-86d47dc6baf6?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/gazpacho" },
   "sauerbraten": { url: "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/sauerbraten" },
   "moussaka": { url: "https://images.unsplash.com/photo-1590412400944-bfd32c5a28d2?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/moussaka" },
-  "bacalhau-br-s": { url: "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/bacalhau" },
-  "tiramis": { url: "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/tiramisu" },
+  "bacalhau-a-bras": { url: "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/bacalhau" },
+  "tiramisu": { url: "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/tiramisu" },
   "osso-buco": { url: "https://images.unsplash.com/photo-1544025162-d76690b6d012?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/osso-buco" },
   "ratatouille": { url: "https://images.unsplash.com/photo-1590412400944-bfd32c5a28d2?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/ratatouille" },
-  "cr-pes-suzette": { url: "https://images.unsplash.com/photo-1519340333755-56e9c1d04579?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/crepes" },
-  "tortilla-espa-ola": { url: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/spanish-tortilla" },
+  "crepes-suzette": { url: "https://images.unsplash.com/photo-1519340333755-56e9c1d04579?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/crepes" },
+  "tortilla-espanola": { url: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/spanish-tortilla" },
   "pulpo-a-la-gallega": { url: "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/octopus" },
   "wiener-schnitzel": { url: "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/schnitzel" },
-  "k-sesp-tzle": { url: "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/spatzle" },
+  "kasespatzle": { url: "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/spatzle" },
   "souvlaki": { url: "https://images.unsplash.com/photo-1529006557810-274bc424c0f7?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/souvlaki" },
-  "past-is-de-nata": { url: "https://images.unsplash.com/photo-1505935428862-770b6f24f621?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/pasteis-de-nata" },
+  "pasteis-de-nata": { url: "https://images.unsplash.com/photo-1505935428862-770b6f24f621?w=800&q=80", author: "Unsplash", license: "Unsplash License", source: "https://unsplash.com/photos/pasteis-de-nata" },
 };
 
 export function getRecipeImage(slug: string): RecipeImage | undefined {
