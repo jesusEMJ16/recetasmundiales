@@ -279,7 +279,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "खाना बनाकर",
       subtitle: "किसी भी देश, राज्य, शहर या कस्बे के नक्शे से रसोई तक। तारों, नवीनता या समय के अनुसार छांटे गए व्यंजन।",
       searchPlaceholder: "किसी व्यंजन, राज्य या शहर को खोजें…",
-      startingWith: "हम 🇲🇽 मेक्सिको से शुरू कर रहे हैं — और अधिक देश जल्द ही।",
+      
       mapEyebrow: "नक्शा",
       mapTitle: "अन्वेषण करने के लिए किसी राज्य पर टैप करें",
       mapDirect: "सीधे मेक्सिको जाएं →",
@@ -351,7 +351,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "en cuisinant",
       subtitle: "De la carte à la cuisine de n'importe quel pays, état, ville ou village. Recettes avec provenance, triées par étoiles, nouveauté ou temps.",
       searchPlaceholder: "Recherchez un plat, un état ou une ville…",
-      startingWith: "Nous commençons par 🇲🇽 le Mexique — plus de pays à venir.",
+      
       mapEyebrow: "La carte",
       mapTitle: "Appuyez sur un état pour explorer",
       mapDirect: "Aller directement au Mexique →",
@@ -423,7 +423,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "من خلال الطهي",
       subtitle: "من الخريطة إلى مطبخ أي بلد أو ولاية أو مدينة أو بلدة. وصفات مع المصدر، مرتبة حسب النجوم أو الأحدث أو الوقت.",
       searchPlaceholder: "ابحث عن طبق أو ولاية أو مدينة…",
-      startingWith: "نبدأ بـ 🇲🇽 المكسيك — المزيد من الدول قريبًا.",
+      
       mapEyebrow: "الخريطة",
       mapTitle: "اضغط على ولاية للاستكشاف",
       mapDirect: "اذهب مباشرة إلى المكسيك →",
@@ -495,7 +495,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "রান্না করে",
       subtitle: "যেকোনো দেশ, রাজ্য, শহর বা গ্রামের মানচিত্র থেকে রান্নাঘরে। তারকা, নতুনত্ব বা সময় অনুযায়ী সাজানো রেসিপি।",
       searchPlaceholder: "কোনো পদ, রাজ্য বা শহর খুঁজুন…",
-      startingWith: "আমরা 🇲🇽 মেক্সিকো দিয়ে শুরু করছি — আরও দেশ শীঘ্রই।",
+      
       mapEyebrow: "মানচিত্র",
       mapTitle: "অনুসন্ধান করতে কোনো রাজ্যে ট্যাপ করুন",
       mapDirect: "সরাসরি মেক্সিকোতে যান →",
@@ -567,7 +567,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "cozinhando",
       subtitle: "Do mapa para a cozinha de qualquer país, estado, cidade ou vila. Receitas com procedência, ordenadas por estrelas, novidade ou tempo.",
       searchPlaceholder: "Busque um prato, estado ou cidade…",
-      startingWith: "Começamos pelo 🇲🇽 México — mais países em breve.",
+      
       mapEyebrow: "O mapa",
       mapTitle: "Toque em um estado para explorar",
       mapDirect: "Ir direto para o México →",
@@ -639,7 +639,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "готовя",
       subtitle: "От карты до кухни любой страны, штата, города или поселка. Рецепты с происхождением, отсортированные по звездам, новизне или времени.",
       searchPlaceholder: "Найдите блюдо, штат или город…",
-      startingWith: "Мы начинаем с 🇲🇽 Мексики — больше стран в пути.",
+      
       mapEyebrow: "Карта",
       mapTitle: "Нажмите на штат для исследования",
       mapDirect: "Перейти прямо в Мексику →",
@@ -711,7 +711,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "کھانا بنا کر",
       subtitle: "کسی بھی ملک، ریاست، شہر یا قصبے کے نقشے سے کچن تک۔ ستاروں، نیاپن یا وقت کے لحاظ سے ترتیب دی گئی ترکیبیں۔",
       searchPlaceholder: "کسی پکوان، ریاست یا شہر کو تلاش کریں…",
-      startingWith: "ہم 🇲🇽 میکسیکو سے شروع کر رہے ہیں — مزید ممالک جلد ہی۔",
+      
       mapEyebrow: "نقشہ",
       mapTitle: "تلاش کرنے کے لیے کسی ریاست پر ٹیپ کریں",
       mapDirect: "براہ راست میکسیکو جائیں →",
@@ -783,7 +783,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "dengan memasak",
       subtitle: "Dari peta ke dapur negara, negara bagian, kota atau desa mana pun. Resep dengan asal-usul, diurutkan berdasarkan bintang, terbaru atau waktu.",
       searchPlaceholder: "Cari hidangan, negara bagian atau kota…",
-      startingWith: "Kami memulai dengan 🇲🇽 Meksiko — lebih banyak negara segera hadir.",
+      
       mapEyebrow: "Peta",
       mapTitle: "Ketuk negara bagian untuk menjelajah",
       mapDirect: "Langsung ke Meksiko →",
@@ -855,7 +855,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       titleAccent: "料理を通して",
       subtitle: "あらゆる国、州、都市、町の地図からキッチンへ。星評価、新着、時間で並べ替えられたレシピ。",
       searchPlaceholder: "料理、州、都市を検索…",
-      startingWith: "🇲🇽 メキシコから開始 — 他の国も近日追加予定。",
+      
       mapEyebrow: "マップ",
       mapTitle: "州をタップして探検",
       mapDirect: "メキシコへ直接行く →",
