@@ -43,6 +43,24 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang={localeMeta[defaultLocale].htmlLang} className={`${fraunces.variable} ${dmSans.variable}`}>
       <head>
+        {/* Google tag (gtag.js) - Google Analytics 4 */}
+        <Script
+          strategy="afterInteractive"
+          src={`https://www.googletagmanager.com/gtag/js?id=G-DMYV52GPVK`}
+        />
+        <Script
+          id="gtag-init"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-DMYV52GPVK');
+            `,
+          }}
+        />
+        {/* Google AdSense */}
         <Script
           id="adsbygoogle-init"
           async
