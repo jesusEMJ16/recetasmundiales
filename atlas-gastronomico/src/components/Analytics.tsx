@@ -4,8 +4,8 @@ import { useEffect } from 'react';
 import Script from 'next/script';
 
 // Google Analytics 4 Component
-// Reemplaza G-XXXXXXXXXX con tu Measurement ID de Google Analytics
-const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || 'G-XXXXXXXXXX';
+// Measurement ID de Google Analytics para WorldBitesApp
+const GA_MEASUREMENT_ID = 'G-DMYV52GPVK';
 
 export function Analytics() {
   // Solo cargar en producción
