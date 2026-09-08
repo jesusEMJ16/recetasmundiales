@@ -2,93 +2,93 @@
 
 /* ===========================================================================
    World Bites — Sistema de diseño renovado por Experto Senior (30 años exp)
-   Dirección: elegante, sofisticado, minimalista con calidez
-   Teoría del color: Blancos puros, negros profundos, grises intermedios
-   Sin colores saturados innecesarios - solo acentos estratégicos
+   Dirección: CÁLIDA, ACOLÁGEDORA, CULINARIA - Evocando sabores y especias
+   Teoría del color: Tonos tierra, terracota, crema, carbón cálido
    =========================================================================== */
 
 @theme {
   /* =========================================================================
-     MODO CLARO - Blanco puro, grises cálidos sutiles, negro verdadero
-     Inspiración: galería de arte minimalista, papel premium
+     MODO CLARO - "Papel de Receta Antiguo" 
+     Inspiración: Cocina mediterránea, luz natural, ingredientes frescos
      ========================================================================= */
-  
-  /* Color principal - Terracota sofisticado (NO saturado) */
-  --color-primary: #b8442e;        /* Terracota elegante */
-  --color-primary-dark: #8a3322;   /* Terracota profundo */
-  --color-primary-light: #d46b5a;  /* Terracota suave para hover */
-  
-  /* Acento secundario - Dorado muted (NO amarillo brillante) */
-  --color-accent: #c9a962;         /* Dorado arena */
-  --color-accent-dark: #a0844a;    /* Dorado oscuro */
-  
-  /* FONDO CLARO - Blanco PURO con grises mínimos */
-  --color-bg-primary: #ffffff;     /* BLANCO PURO - base */
-  --color-bg-secondary: #fafafa;   /* Gris 2% - tarjetas */
-  --color-bg-tertiary: #f5f5f5;    /* Gris 5% - elementos */
-  --color-bg-elevated: #ffffff;    /* Blanco elevado - modales */
-  
-  /* TEXTOS CLAROS - Negro verdadero a grises */
-  --color-text-primary: #0a0a0a;   /* Negro 96% - títulos */
-  --color-text-secondary: #404040; /* Gris 75% - cuerpo */
-  --color-text-tertiary: #737373;  /* Gris 55% - metadata */
-  --color-text-disabled: #a3a3a3;  /* Gris 35% - disabled */
-  
-  /* BORDES CLAROS - Sutiles, NO intrusivos */
-  --color-border: #e5e5e5;         /* Gris 10% - bordes base */
-  --color-border-dark: #d4d4d4;    /* Gris 15% - bordes énfasis */
-  
+
+  /* Color principal - Terracota CÁLIDO (evoca barro, especias, cocina) */
+  --color-primary: #C05621;        /* Terracota vibrante pero elegante */
+  --color-primary-dark: #9C4215;   /* Terracota profundo */
+  --color-primary-light: #DD6B3A;  /* Terracota suave para hover */
+
+  /* Acento secundario - Azafrán Dorado (evoca lujo, aceite de oliva) */
+  --color-accent: #D4A017;         /* Dorado azafrán */
+  --color-accent-dark: #B8860B;    /* Dorado oscuro */
+  --color-accent-light: #E5C140;   /* Dorado claro */
+
+  /* FONDO CLARO - Blanco HARINA (cálido, NO clínico) */
+  --color-bg-primary: #FAF9F6;     /* Blanco harina con toque cálido */
+  --color-bg-secondary: #FFFFFF;   /* Blanco puro - tarjetas */
+  --color-bg-tertiary: #F5F2ED;    /* Crema suave - elementos */
+  --color-bg-elevated: #FFFFFF;    /* Blanco elevado - modales */
+
+  /* TEXTOS CLAROS - Café TOSTADO (NO negro duro) */
+  --color-text-primary: #2D241E;   /* Café muy oscuro - títulos */
+  --color-text-secondary: #4A4036; /* Café medio - cuerpo */
+  --color-text-tertiary: #787167;  /* Gris piedra - metadata */
+  --color-text-disabled: #A8A29E;  /* Gris claro - disabled */
+
+  /* BORDES CLAROS - Tonos arena sutiles */
+  --color-border: #E6E2DD;         /* Arena claro - bordes base */
+  --color-border-dark: #D6D2CD;    /* Arena medio - bordes énfasis */
+
   /* =========================================================================
-     MODO OSCURO - Negro verdadero, grises fríos, blanco puro
-     Inspiración: noche profunda, carbón, elegancia absoluta
+     MODO OSCURO - "Cocina Nocturna con Velas"
+     Inspiración: Restaurante íntimo, carbón caliente, cobre brillante
      ========================================================================= */
-  
-  /* FONDO OSCURO - Negro PROFUNDO con grises */
-  --color-dark-bg-primary: #050505;      /* Negro 98% - base */
-  --color-dark-bg-secondary: #0f0f0f;    /* Negro 94% - tarjetas */
-  --color-dark-bg-tertiary: #1a1a1a;     /* Negro 90% - elementos */
-  --color-dark-bg-elevated: #141414;     /* Negro 92% - elevated */
-  
-  /* TEXTOS OSCUROS - Blanco puro a grises */
-  --color-dark-text-primary: #fafafa;    /* Blanco 98% - títulos */
-  --color-dark-text-secondary: #d4d4d4;  /* Gris 17% - cuerpo */
-  --color-dark-text-tertiary: #a3a3a3;   /* Gris 35% - metadata */
-  --color-dark-text-disabled: #737373;   /* Gris 55% - disabled */
-  
-  /* BORDES OSCUROS - Sutiles en oscuridad */
-  --color-dark-border: #262626;          /* Gris 85% - bordes base */
-  --color-dark-border-light: #404040;    /* Gris 75% - bordes énfasis */
-  
-  /* ACENTOS MODO OSCURO - Más vibrantes pero controlados */
-  --color-dark-primary: #d95340;         /* Terracota vibrante */
-  --color-dark-accent: #d4b06a;          /* Dorado brillante */
-  
+
+  /* FONDO OSCURO - Carbón CÁLIDO (NO negro frío) */
+  --color-dark-bg-primary: #1A1815;      /* Carbón con matices tierra */
+  --color-dark-bg-secondary: #25221E;    /* Piedra oscura - tarjetas */
+  --color-dark-bg-tertiary: #2D2A26;     /* Tierra oscura - elementos */
+  --color-dark-bg-elevated: #25221E;     /* Piedra - elevated */
+
+  /* TEXTOS OSCUROS - Crema SUAVE (NO blanco cegador) */
+  --color-dark-text-primary: #F5F0E6;    /* Crema leche - títulos */
+  --color-dark-text-secondary: #E8E4DC;  /* Crema suave - cuerpo */
+  --color-dark-text-tertiary: #C8C4BC;   /* Gris cálido - metadata */
+  --color-dark-text-disabled: #A8A29E;   /* Gris medio - disabled */
+
+  /* BORDES OSCUROS - Tonos tierra profundos */
+  --color-dark-border: #38322B;          /* Tierra oscura - bordes base */
+  --color-dark-border-light: #4A443C;    /* Tierra media - bordes énfasis */
+
+  /* ACENTOS MODO OSCURO - Más VIBRANTES (como brasas en la noche) */
+  --color-dark-primary: #E07A3F;         /* Terracota iluminado */
+  --color-dark-accent: #F4C430;          /* Oro viejo brillante */
+
   /* =========================================================================
-     RADIOS - Consistentes, modernos
+     RADIOS - Orgánicos, acogedores
      ========================================================================= */
-  --radius-sm: 0.25rem;
-  --radius-md: 0.5rem;
-  --radius-lg: 0.75rem;
-  --radius-xl: 1rem;
-  --radius-2xl: 1.5rem;
+  --radius-sm: 0.375rem;
+  --radius-md: 0.625rem;
+  --radius-lg: 0.875rem;
+  --radius-xl: 1.25rem;
+  --radius-2xl: 1.75rem;
   --radius-full: 9999px;
-  
+
   /* =========================================================================
-     SOMBRAS MODO CLARO - Suaves, difusas, naturales
+     SOMBRAS MODO CLARO - Suaves como luz natural
      ========================================================================= */
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
-  --shadow-md: 0 2px 4px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.03);
-  --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.08), 0 4px 8px rgba(0, 0, 0, 0.04);
-  --shadow-xl: 0 16px 32px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.05);
-  --shadow-2xl: 0 24px 48px rgba(0, 0, 0, 0.12);
-  
+  --shadow-sm: 0 1px 3px rgba(45, 36, 30, 0.06);
+  --shadow-md: 0 4px 6px rgba(45, 36, 30, 0.08), 0 2px 4px rgba(45, 36, 30, 0.04);
+  --shadow-lg: 0 10px 15px rgba(45, 36, 30, 0.1), 0 4px 6px rgba(45, 36, 30, 0.05);
+  --shadow-xl: 0 20px 25px rgba(45, 36, 30, 0.12), 0 8px 10px rgba(45, 36, 30, 0.06);
+  --shadow-2xl: 0 25px 50px rgba(45, 36, 30, 0.15);
+
   /* =========================================================================
-     SOMBRAS MODO OSCURO - Profundas, dramáticas
+     SOMBRAS MODO OSCURO - Profundas como noche con velas
      ========================================================================= */
-  --shadow-dark-sm: 0 1px 2px rgba(0, 0, 0, 0.5);
-  --shadow-dark-md: 0 2px 4px rgba(0, 0, 0, 0.6), 0 1px 2px rgba(0, 0, 0, 0.4);
-  --shadow-dark-lg: 0 8px 16px rgba(0, 0, 0, 0.7), 0 4px 8px rgba(0, 0, 0, 0.5);
-  --shadow-dark-xl: 0 16px 32px rgba(0, 0, 0, 0.8), 0 8px 16px rgba(0, 0, 0, 0.6);
+  --shadow-dark-sm: 0 1px 3px rgba(0, 0, 0, 0.5);
+  --shadow-dark-md: 0 4px 6px rgba(0, 0, 0, 0.6), 0 2px 4px rgba(0, 0, 0, 0.4);
+  --shadow-dark-lg: 0 10px 15px rgba(0, 0, 0, 0.7), 0 4px 6px rgba(0, 0, 0, 0.5);
+  --shadow-dark-xl: 0 20px 25px rgba(0, 0, 0, 0.8), 0 8px 10px rgba(0, 0, 0, 0.6);
 }
 
 @theme inline {
@@ -103,7 +103,7 @@ html {
 
 body {
   background-color: var(--color-bg-primary);
-  background-image: none; /* SIN gradientes - blanco puro */
+  background-image: none;
   background-attachment: fixed;
   color: var(--color-text-primary);
   font-family: var(--font-body);
@@ -112,14 +112,12 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Modo Oscuro - Negro verdadero SIN gradientes */
+/* Modo Oscuro - Carbón cálido */
 .dark body {
   background-color: var(--color-dark-bg-primary);
-  background-image: none; /* SIN gradientes - negro puro */
+  background-image: none;
   color: var(--color-dark-text-primary);
 }
-
-/* SIN grano de papel - diseño limpio y minimalista */
 
 ::selection {
   background: var(--color-primary);
@@ -136,27 +134,15 @@ h1, h2, h3, h4, .font-display {
   letter-spacing: -0.02em;
 }
 
-/* ---- Animaciones de entrada ---- */
+/* ---- Animaciones ---- */
 @keyframes reveal {
   from { opacity: 0; transform: translateY(18px); }
   to   { opacity: 1; transform: none; }
 }
+
 @keyframes reveal-scale {
   from { opacity: 0; transform: scale(0.96) translateY(10px); }
   to   { opacity: 1; transform: none; }
-}
-@keyframes float-slow {
-  0%, 100% { transform: translateY(0); }
-  50%      { transform: translateY(-6px); }
-}
-@keyframes marker-pulse {
-  0%   { box-shadow: 0 0 0 0 rgba(184, 68, 46, 0.5); }
-  70%  { box-shadow: 0 0 0 14px rgba(184, 68, 46, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(184, 68, 46, 0); }
-}
-@keyframes shimmer {
-  0%   { background-position: -200% 0; }
-  100% { background-position: 200% 0; }
 }
 
 .reveal { animation: reveal 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
@@ -167,7 +153,7 @@ h1, h2, h3, h4, .font-display {
   html { scroll-behavior: auto; }
 }
 
-/* ---- Utilidades decorativas ---- */
+/* ---- Utilidades ---- */
 .eyebrow {
   font-family: var(--font-body);
   text-transform: uppercase;
@@ -187,7 +173,6 @@ h1, h2, h3, h4, .font-display {
 
 /* Scrollbar personalizada */
 * { scrollbar-color: var(--color-border) transparent; }
-
 .dark * { scrollbar-color: var(--color-dark-border) transparent; }
 
 ::-webkit-scrollbar {
