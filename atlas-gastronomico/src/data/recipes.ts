@@ -9,6 +9,7 @@ import { RECIPES_US_SUR } from "./recipes-us-sur";
 import { RECIPES_US_NORESTE } from "./recipes-us-noreste";
 import { RECIPES_US_MEDIO_OESTE } from "./recipes-us-medio-oeste";
 import { RECIPES_US_OESTE } from "./recipes-us-oeste";
+import { RECIPES_EUROPE } from "./recipes-europe";
 
 const RECIPES_BASE: Recipe[] = [
   {
@@ -366,4 +367,5 @@ export const RECIPES: Recipe[] = [
   ...RECIPES_US_NORESTE,
   ...RECIPES_US_MEDIO_OESTE,
   ...RECIPES_US_OESTE,
+  ...RECIPES_EUROPE,
 ];
