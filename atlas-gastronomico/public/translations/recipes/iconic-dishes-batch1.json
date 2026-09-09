@@ -1,0 +1,1246 @@
+{
+  "ital-001": {
+    "es": {
+      "dishName": "Pizza Napoletana",
+      "summary": "La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "history": "La Pizza Napoletana nació en Nápoles en el siglo XVIII como comida de los pobres. En 1889, el pizzero Raffaele Esposito creó la Pizza Margherita para la reina Margarita de Saboya, usando los colores de la bandera italiana: rojo (tomate), blanco (mozzarella) y verde (albahaca). En 2017, fue reconocida como Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO.",
+      "ingredients": [
+        "500g harina 00",
+        "325ml agua",
+        "10g sal",
+        "3g levadura",
+        "400g tomate San Marzano",
+        "250g mozzarella di bufala",
+        "Albahaca fresca",
+        "Aceite de oliva"
+      ],
+      "instructions": [
+        "Mezclar harina, agua, levadura y sal",
+        "Amasar 10 minutos hasta obtener masa elástica",
+        "Dejar fermentar 24 horas en nevera",
+        "Estirar la masa a mano sin rodillo",
+        "Añadir tomate, mozzarella y albahaca",
+        "Hornear a 450°C durante 8-10 minutos"
+      ]
+    },
+    "en": {
+      "dishName": "Neapolitan Pizza",
+      "summary": "The original Italian pizza with thin crust, San Marzano tomatoes, mozzarella di bufala and fresh basil.",
+      "history": "Neapolitan Pizza was born in Naples in the 18th century as food for the poor. In 1889, pizzaiolo Raffaele Esposito created the Pizza Margherita for Queen Margherita of Savoy, using the colors of the Italian flag: red (tomato), white (mozzarella) and green (basil). In 2017, it was recognized as an Intangible Cultural Heritage of Humanity by UNESCO.",
+      "ingredients": [
+        "500g 00 flour",
+        "325ml water",
+        "10g salt",
+        "3g yeast",
+        "400g San Marzano tomatoes",
+        "250g mozzarella di bufala",
+        "Fresh basil",
+        "Olive oil"
+      ],
+      "instructions": [
+        "Mix flour, water, yeast and salt",
+        "Knead for 10 minutes until elastic dough is obtained",
+        "Let ferment for 24 hours in the refrigerator",
+        "Stretch the dough by hand without a rolling pin",
+        "Add tomato, mozzarella and basil",
+        "Bake at 450°C for 8-10 minutes"
+      ]
+    },
+    "zh": {
+      "dishName": "那不勒斯披萨",
+      "summary": "正宗意大利披萨，薄脆饼底，配圣马尔扎诺番茄、水牛马苏里拉奶酪和新鲜罗勒。",
+      "history": "那不勒斯披萨诞生于 18 世纪的那不勒斯，最初是穷人的食物。1889 年，披萨师傅拉法埃莱·埃斯波西托为玛格丽塔王后创造了玛格丽特披萨，使用了意大利国旗的颜色：红色（番茄）、白色（马苏里拉）和绿色（罗勒）。2017 年，它被联合国教科文组织列为人类非物质文化遗产。",
+      "ingredients": [
+        "500 克 00 号面粉",
+        "325 毫升水",
+        "10 克盐",
+        "3 克酵母",
+        "400 克圣马尔扎诺番茄",
+        "250 克水牛马苏里拉奶酪",
+        "新鲜罗勒",
+        "橄榄油"
+      ],
+      "instructions": [
+        "混合面粉、水、酵母和盐",
+        "揉面 10 分钟直至面团有弹性",
+        "在冰箱中发酵 24 小时",
+        "用手拉伸面团，不使用擀面杖",
+        "加入番茄、马苏里拉奶酪和罗勒",
+        "在 450°C 下烘烤 8-10 分钟"
+      ]
+    },
+    "hi": {
+      "dishName": "नियपोलिटन पिज्जा",
+      "summary": "मूल इतालवी पिज्जा पतले क्रस्ट के साथ, सैन मर्ज़ानो टमाटर, मोत्ज़ारेला डि बुफ़ाला और ताज़ा तुलसी।",
+      "history": "नियपोलिटन पिज्जा का जन्म 18वीं शताब्दी में नेपल्स में गरीबों के भोजन के रूप में हुआ था। 1889 में, पिज़्ज़ाइओलो राफ़ेल एस्पोसिटो ने रानी मार्घेरिता ऑफ़ सेवॉय के लिए पिज्जा मार्घेरीटा बनाया, जिसमें इतालवी झंडे के रंगों का उपयोग किया गया: लाल (टमाटर), सफेद (मोत्ज़ारेला) और हरा (तुलसी)। 2017 में, इसे यूनेस्को द्वारा मानवता की अमूर्त सांस्कृतिक विरासत के रूप में मान्यता दी गई।",
+      "ingredients": [
+        "500 ग्राम 00 आटा",
+        "325 मिली पानी",
+        "10 ग्राम नमक",
+        "3 ग्राम खमीर",
+        "400 ग्राम सैन मर्ज़ानो टमाटर",
+        "250 ग्राम मोत्ज़ारेला डि बुफ़ाला",
+        "ताज़ा तुलसी",
+        "जैतून का तेल"
+      ],
+      "instructions": [
+        "आटा, पानी, खमीर और नमक मिलाएं",
+        "लचीला आटा मिलने तक 10 मिनट तक गूंथें",
+        "रेफ्रिजरेटर में 24 घंटे किण्वित होने दें",
+        "बेलन के बिना हाथों से आटा फैलाएं",
+        "टमाटर, मोत्ज़ारेला और तुलसी जोड़ें",
+        "450°C पर 8-10 मिनट के लिए बेक करें"
+      ]
+    },
+    "fr": {
+      "dishName": "Pizza Napolitaine",
+      "summary": "La pizza italienne originale avec une croûte fine, des tomates San Marzano, de la mozzarella di bufala et du basilic frais.",
+      "history": "La Pizza Napolitaine est née à Naples au 18ème siècle comme nourriture pour les pauvres. En 1889, le pizzaiolo Raffaele Esposito créa la Pizza Margherita pour la reine Marguerite de Savoie, utilisant les couleurs du drapeau italien : rouge (tomate), blanc (mozzarella) et vert (basilic). En 2017, elle a été reconnue comme patrimoine culturel immatériel de l'humanité par l'UNESCO.",
+      "ingredients": [
+        "500g de farine 00",
+        "325ml d'eau",
+        "10g de sel",
+        "3g de levure",
+        "400g de tomates San Marzano",
+        "250g de mozzarella di bufala",
+        "Basilic frais",
+        "Huile d'olive"
+      ],
+      "instructions": [
+        "Mélanger farine, eau, levure et sel",
+        "Pétrir pendant 10 minutes jusqu'à obtenir une pâte élastique",
+        "Laisser fermenter 24 heures au réfrigérateur",
+        "Étirer la pâte à la main sans rouleau",
+        "Ajouter tomate, mozzarella et basilic",
+        "Cuire au four à 450°C pendant 8-10 minutes"
+      ]
+    },
+    "ar": {
+      "dishName": "بيتزا نابوليتان",
+      "summary": "البيتزا الإيطالية الأصلية بقشرة رقيقة وطماطم سان مارزانو وموزاريلا دي بوفالا وريحان طازج.",
+      "history": "ولدت بيتزا نابوليتان في نابولي في القرن الثامن عشر كطعام للفقراء. في عام 1889، ابتكر صانع البيتزا رافاييل إسبوزيتو بيتزا مارغريتا للملكة مارغريتا من سافوي، مستخدمًا ألوان العلم الإيطالي: الأحمر (الطماطم)، والأبيض (الموزاريلا)، والأخضر (الريحان). في عام 2017، تم الاعتراف بها كتراث ثقافي غير مادي للبشرية من قبل اليونسكو.",
+      "ingredients": [
+        "500 جرام دقيق 00",
+        "325 مل ماء",
+        "10 جرام ملح",
+        "3 جرام خميرة",
+        "400 جرام طماطم سان مارزانو",
+        "250 جرام موزاريلا دي بوفالا",
+        "ريحان طازج",
+        "زيت زيتون"
+      ],
+      "instructions": [
+        "اخلط الدقيق والماء والخميرة والملح",
+        "اعجن لمدة 10 دقائق حتى تحصل على عجينة مرنة",
+        "اتركها تتخمر لمدة 24 ساعة في الثلاجة",
+        "افردي العجين باليد بدون شوبك",
+        "أضف الطماطم والموزاريلا والريحان",
+        "اخبزها على درجة حرارة 450 درجة مئوية لمدة 8-10 دقائق"
+      ]
+    },
+    "bn": {
+      "dishName": "নিওপলিটান পিৎজা",
+      "summary": "মূল ইতালীয় পিৎজা পাতলা ক্রাস্টের সাথে, স্যান মারজানো টমেটো, মোজারেলা ডি বুফালা এবং তাজা তুলসী।",
+      "history": "নিওপলিটান পিৎজা ১৮শ শতাব্দীতে নেপলসে গরিবদের খাবার হিসাবে জন্মগ্রহণ করেছিল। ১৮৮৯ সালে, পিজ্জাইওলো রাফায়েল এসপোসিতো রানী মার্ঘেরিতা অফ সেভয়ের জন্য পিৎজা মার্ঘেরিতা তৈরি করেছিলেন, ইতালীয় পতাকার রঙ ব্যবহার করে: লাল (টমেটো), সাদা (মোজারেলা) এবং সবুজ (তুলসী)। ২০১৭ সালে, এটি ইউনেস্কো দ্বারা মানবতার অমূর্ত সাংস্কৃতিক ঐতিহ্য হিসাবে স্বীকৃত হয়েছিল।",
+      "ingredients": [
+        "৫০০ গ্রাম ০০ ময়দা",
+        "৩২৫ মিলি পানি",
+        "১০ গ্রাম লবণ",
+        "৩ গ্রাম ইস্ট",
+        "৪০০ গ্রাম স্যান মারজানো টমেটো",
+        "২৫০ গ্রাম মোজারেলা ডি বুফালা",
+        "তাজা তুলসী",
+        "জলপাই তেল"
+      ],
+      "instructions": [
+        "ময়দা, পানি, ইস্ট এবং লবণ মিশান",
+        "নমনীয় ময়দা না পাওয়া পর্যন্ত ১০ মিনিট মাখুন",
+        "রেফ্রিজারেটরে ২৪ ঘণ্টা গাঁজন দিন",
+        "রোলিং পিন ছাড়া হাতে ময়দা প্রসারিত করুন",
+        "টমেটো, মোজারেলা এবং তুলসী যোগ করুন",
+        "৪৫০°সে তাপমাত্রায় ৮-১০ মিনিট বেক করুন"
+      ]
+    },
+    "pt": {
+      "dishName": "Pizza Napolitana",
+      "summary": "A pizza italiana original com massa fina, tomate San Marzano, mozzarella di bufala e manjericão fresco.",
+      "history": "A Pizza Napolitana nasceu em Nápoles no século 18 como comida dos pobres. Em 1889, o pizzaiolo Raffaele Esposito criou a Pizza Margherita para a rainha Margarida de Sabóia, usando as cores da bandeira italiana: vermelho (tomate), branco (mozzarella) e verde (manjericão). Em 2017, foi reconhecida como Patrimônio Cultural Imaterial da Humanidade pela UNESCO.",
+      "ingredients": [
+        "500g de farinha 00",
+        "325ml de água",
+        "10g de sal",
+        "3g de fermento",
+        "400g de tomate San Marzano",
+        "250g de mozzarella di bufala",
+        "Manjericão fresco",
+        "Azeite de oliva"
+      ],
+      "instructions": [
+        "Misturar farinha, água, fermento e sal",
+        "Amassar por 10 minutos até obter massa elástica",
+        "Deixar fermentar por 24 horas na geladeira",
+        "Esticar a massa à mão sem rolo",
+        "Adicionar tomate, mozzarella e manjericão",
+        "Assar a 450°C por 8-10 minutos"
+      ]
+    },
+    "ru": {
+      "dishName": "Неаполитанская пицца",
+      "summary": "Оригинальная итальянская пицца с тонким тестом, помидорами Сан-Марцано, моцареллой ди буфала и свежим базиликом.",
+      "history": "Неаполитанская пицца родилась в Неаполе в 18 веке как еда для бедных. В 1889 году пиццайоло Раффаэле Эспозито создал пиццу Маргарита для королевы Маргариты Савойской, используя цвета итальянского флага: красный (помидор), белый (моцарелла) и зеленый (базилик). В 2017 году она была признана нематериальным культурным наследием человечества ЮНЕСКО.",
+      "ingredients": [
+        "500г муки 00",
+        "325мл воды",
+        "10г соли",
+        "3г дрожжей",
+        "400г помидоров Сан-Марцано",
+        "250г моцареллы ди буфала",
+        "Свежий базилик",
+        "Оливковое масло"
+      ],
+      "instructions": [
+        "Смешать муку, воду, дрожжи и соль",
+        "Замешивать 10 минут до получения эластичного теста",
+        "Оставить бродить на 24 часа в холодильнике",
+        "Растянуть тесто руками без скалки",
+        "Добавить помидоры, моцареллу и базилик",
+        "Выпекать при 450°C в течение 8-10 минут"
+      ]
+    },
+    "ur": {
+      "dishName": "نیپولیٹن پیزا",
+      "summary": "اصل اطالوی پیزا پتلی کرسٹ کے ساتھ، سین مارزانو ٹماٹر، موزاریلا ڈی بوفالا اور تازی تولسی۔",
+      "history": "نیپولیٹن پیزا 18ویں صدی میں ناپولی میں غریبوں کی خوراک کے طور پر پیدا ہوا۔ 1889 میں، پیزائیولو رافیل اسپوزیٹو نے ملکہ مارگریٹا آف ساوائے کے لیے پیزا مارگریٹا بنایا، جس میں اطالوی جھنڈے کے رنگ استعمال کیے گئے: سرخ (ٹماٹر)، سفید (موزاریلا) اور سبز (تولسی)۔ 2017 میں، اسے یونیسکو کی طرف سے انسانیت کے غیر محسوس ثقافتی ورثے کے طور پر تسلیم کیا گیا۔",
+      "ingredients": [
+        "500 گرام 00 آٹا",
+        "325 ملی لیٹر پانی",
+        "10 گرام نمک",
+        "3 گرام خمیر",
+        "400 گرام سین مارزانو ٹماٹر",
+        "250 گرام موزاریلا ڈی بوفالا",
+        "تازی تولسی",
+        "زیتون کا تیل"
+      ],
+      "instructions": [
+        "آٹا، پانی، خمیر اور نمک ملائیں",
+        "لچکدار آٹا ملنے تک 10 منٹ تک گوندھیں",
+        "فریج میں 24 گھنٹے کے لیے خمیر ہونے دیں",
+        "بیلن کے بغیر ہاتھوں سے آٹا پھیلائیں",
+        "ٹماٹر، موزاریلا اور تولسی شامل کریں",
+        "450°C پر 8-10 منٹ کے لیے بیک کریں"
+      ]
+    },
+    "id": {
+      "dishName": "Pizza Neapolitan",
+      "summary": "Pizza Italia asli dengan kulit tipis, tomat San Marzano, mozzarella di bufala dan kemangi segar.",
+      "history": "Pizza Neapolitan lahir di Naples pada abad ke-18 sebagai makanan untuk orang miskin. Pada tahun 1889, pizzaiolo Raffaele Esposito menciptakan Pizza Margherita untuk Ratu Margherita dari Savoy, menggunakan warna bendera Italia: merah (tomat), putih (mozzarella) dan hijau (kemangi). Pada tahun 2017, pizza ini diakui sebagai Warisan Budaya Takbenda Manusia oleh UNESCO.",
+      "ingredients": [
+        "500g tepung 00",
+        "325ml air",
+        "10g garam",
+        "3g ragi",
+        "400g tomat San Marzano",
+        "250g mozzarella di bufala",
+        "Kemangi segar",
+        "Minyak zaitun"
+      ],
+      "instructions": [
+        "Campurkan tepung, air, ragi dan garam",
+        "Uleni selama 10 menit hingga adonan elastis",
+        "Biarkan fermentasi selama 24 jam di lemari es",
+        "Bentangkan adonan dengan tangan tanpa rolling pin",
+        "Tambahkan tomat, mozzarella dan kemangi",
+        "Panggang pada suhu 450°C selama 8-10 menit"
+      ]
+    },
+    "ja": {
+      "dishName": "ナポリピッツァ",
+      "summary": "サンマルツァーノトマト、モッツァレラディブーファラ、新鮮なバジルをのせた本格的なイタリアンピッツァ。",
+      "history": "ナポリピッツァは 18 世紀にナポリで貧しい人々の食べ物として誕生しました。1889 年、ピッツァイオーロのラファエーレ・エスポジトがサヴォイア王妃マルゲリータのためにピッツァ・マルゲリータを作り、イタリア国旗の色を使いました：赤（トマト）、白（モッツァレラ）、緑（バジル）。2017 年、ユネスコによって人類の無形文化遺産として認められました。",
+      "ingredients": [
+        "00 番小麦粉 500g",
+        "水 325ml",
+        "塩 10g",
+        "イースト 3g",
+        "サンマルツァーノトマト 400g",
+        "モッツァレラディブーファラ 250g",
+        "新鮮なバジル",
+        "オリーブオイル"
+      ],
+      "instructions": [
+        "小麦粉、水、イースト、塩を混ぜる",
+        "弾力のある生地になるまで 10 分間こねる",
+        "冷蔵庫で 24 時間発酵させる",
+        "麺棒を使わずに手で生地を伸ばす",
+        "トマト、モッツァレラ、バジルをのせる",
+        "450°C のオーブンで 8〜10 分焼く"
+      ]
+    }
+  },
+  "mx-tacos-al-pastor": {
+    "es": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Deliciosos tacos de cerdo marinado con achiote y piña, cocinados en trompo vertical.",
+      "history": "Los Tacos al Pastor surgieron en la Ciudad de México en la década de 1960, creados por inmigrantes libaneses que adaptaron el shawarma árabe al gusto mexicano. El término 'pastor' hace referencia al método de cocción en trompo vertical, similar al giroscopio griego. Se convirtieron en un ícono de la comida callejera mexicana y son considerados patrimonio cultural gastronómico de México.",
+      "ingredients": [
+        "1 kg de carne de cerdo en rebanadas delgadas",
+        "3 chiles guajillos",
+        "2 chiles anchos",
+        "1/4 taza de vinagre",
+        "1 cucharada de achiote",
+        "3 dientes de ajo",
+        "1 piña fresca",
+        "Cilantro fresco",
+        "Cebolla blanca picada",
+        "Tortillas de maíz"
+      ],
+      "instructions": [
+        "Hidratar los chiles en agua caliente por 15 minutos.",
+        "Licuar chiles con vinagre, achiote, ajo y especias.",
+        "Marinar la carne de cerdo por al menos 4 horas o toda la noche.",
+        "Colocar la carne en capas formando un trompo (o usar sartén).",
+        "Cocinar girando constantemente hasta dorar.",
+        "Rebanar finamente y servir en tortillas calientes.",
+        "Agregar piña asada, cilantro, cebolla y salsa al gusto."
+      ]
+    },
+    "en": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Delicious tacos of marinated pork with achiote and pineapple, cooked on a vertical spit.",
+      "history": "Tacos al Pastor emerged in Mexico City in the 1960s, created by Lebanese immigrants who adapted Arab shawarma to Mexican taste. The term 'pastor' refers to the vertical spit cooking method, similar to Greek gyros. They became an icon of Mexican street food and are considered a gastronomic cultural heritage of Mexico.",
+      "ingredients": [
+        "1 kg pork sliced thinly",
+        "3 guajillo chiles",
+        "2 ancho chiles",
+        "1/4 cup vinegar",
+        "1 tablespoon achiote",
+        "3 garlic cloves",
+        "1 fresh pineapple",
+        "Fresh cilantro",
+        "Diced white onion",
+        "Corn tortillas"
+      ],
+      "instructions": [
+        "Hydrate chiles in hot water for 15 minutes.",
+        "Blend chiles with vinegar, achiote, garlic and spices.",
+        "Marinate pork for at least 4 hours or overnight.",
+        "Layer meat forming a vertical spit (or use pan).",
+        "Cook rotating constantly until golden.",
+        "Slice thinly and serve on warm tortillas.",
+        "Add grilled pineapple, cilantro, onion and salsa to taste."
+      ]
+    },
+    "zh": {
+      "dishName": "牧师塔可",
+      "summary": "美味的腌猪肉塔可，配胭脂树籽和菠萝，在垂直烤架上烹饪。",
+      "history": "牧师塔可于 1960 年代在墨西哥城出现，由黎巴嫩移民创造，他们将阿拉伯沙威玛改编成墨西哥口味。'牧师'一词指的是垂直旋转烤肉的烹饪方法，类似于希腊陀螺肉。它们成为墨西哥街头小吃的标志，被认为是墨西哥的美食文化遗产。",
+      "ingredients": [
+        "1 公斤瘦猪肉片",
+        "3 个瓜希略辣椒",
+        "2 个安乔辣椒",
+        "1/4 杯醋",
+        "1 汤匙胭脂树籽酱",
+        "3 瓣大蒜",
+        "1 个新鲜菠萝",
+        "新鲜香菜",
+        "切碎的白洋葱",
+        "玉米饼"
+      ],
+      "instructions": [
+        "将辣椒在热水中浸泡 15 分钟。",
+        "将辣椒与醋、胭脂树籽、大蒜和香料一起搅拌。",
+        "将猪肉腌制至少 4 小时或过夜。",
+        "将肉分层堆叠成垂直烤肉柱（或使用平底锅）。",
+        "不断旋转烹饪至金黄色。",
+        "切成薄片，放在温热的玉米饼上。",
+        "加入烤菠萝、香菜、洋葱和调味酱。"
+      ]
+    },
+    "hi": {
+      "dishName": "टाकोस अल पास्टर",
+      "summary": "एचियोट और अनानास के साथ मैरिनेटेड पोर्क के स्वादिष्ट टैको, वर्टिकल स्पिट पर पकाए गए।",
+      "history": "टाकोस अल पास्टर 1960 के दशक में मेक्सिको सिटी में उभरे, लेबनानी आप्रवासियों द्वारा बनाए गए जिन्होंने अरबी शवर्मा को मेक्सिकन स्वाद के अनुकूल बनाया। 'पास्टर' शब्द वर्टिकल स्पिट कुकिंग विधि को संदर्भित करता है, जो ग्रीक गाइरोस के समान है। वे मेक्सिकन स्ट्रीट फूड का प्रतीक बन गए और मेक्सिको की पाक सांस्कृतिक विरासत माने जाते हैं।",
+      "ingredients": [
+        "1 किलो सूअर का मांस पतले टुकड़ों में",
+        "3 गुआजिलो मिर्च",
+        "2 एन्चो मिर्च",
+        "1/4 कप सिरका",
+        "1 चम्मच एचियोट",
+        "3 लहसुन की कलियाँ",
+        "1 ताजा अनानास",
+        "ताजा धनिया",
+        "कटी हुई सफेद प्याज",
+        "मक्के की टॉर्टिया"
+      ],
+      "instructions": [
+        "मिर्च को 15 मिनट के लिए गर्म पानी में भिगोएं।",
+        "मिर्च को सिरका, एचियोट, लहसुन और मसालों के साथ ब्लेंड करें।",
+        "सूअर के मांस को कम से कम 4 घंटे या रात भर मैरिनेट करें।",
+        "मांस को परतों में रखकर वर्टिकल स्पिट बनाएं (या पैन का उपयोग करें)।",
+        "लगातार घुमाते हुए सुनहरा होने तक पकाएं।",
+        "पतले टुकड़ों में काटें और गर्म टॉर्टिया पर परोसें।",
+        "ग्रिल्ड अनानास, धनिया, प्याज और सालसा स्वादानुसार जोड़ें।"
+      ]
+    },
+    "fr": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Délicieux tacos de porc mariné avec du achiote et de l'ananas, cuits sur une broche verticale.",
+      "history": "Les Tacos al Pastor sont apparus à Mexico dans les années 1960, créés par des immigrants libanais qui ont adapté le shawarma arabe au goût mexicain. Le terme 'pastor' fait référence à la méthode de cuisson sur broche verticale, similaire au gyros grec. Ils sont devenus une icône de la cuisine de rue mexicaine et sont considérés comme un patrimoine culturel gastronomique du Mexique.",
+      "ingredients": [
+        "1 kg de porc tranché finement",
+        "3 piments guajillo",
+        "2 piments ancho",
+        "1/4 tasse de vinaigre",
+        "1 cuillère à soupe d'achiote",
+        "3 gousses d'ail",
+        "1 ananas frais",
+        "Coriandre fraîche",
+        "Oignon blanc haché",
+        "Tortillas de maïs"
+      ],
+      "instructions": [
+        "Hydrater les piments dans l'eau chaude pendant 15 minutes.",
+        "Mixer les piments avec vinaigre, achiote, ail et épices.",
+        "Mariner le porc pendant au moins 4 heures ou toute la nuit.",
+        "Disposer la viande en couches formant une broche verticale (ou utiliser une poêle).",
+        "Cuire en tournant constamment jusqu'à ce qu'il soit doré.",
+        "Trancher finement et servir sur des tortillas chaudes.",
+        "Ajouter ananas grillé, coriandre, oignon et salsa au goût."
+      ]
+    },
+    "ar": {
+      "dishName": "تاكووس أل باستور",
+      "summary": "تاكووس لذيذة من لحم الخنزير المتبل مع الأشيوت والأناناس، مطبوخة على سيخ عمودي.",
+      "history": "ظهرت تاكووس أل باستور في مكسيكو سيتي في الستينيات، أنشأها مهاجرون لبنانيون الذين قاموا بتكييف الشاورما العربية مع الذوق المكسيكي. يشير مصطلح 'باستور' إلى طريقة الطهي على السيخ العمودي، المشابهة للجيروس اليوناني. أصبحت أيقونة للطعام المكسيكي في الشوارع وتعتبر تراثًا ثقافيًا غذائيًا للمكسيك.",
+      "ingredients": [
+        "1 كجم لحم خنزير مقطع رقيق",
+        "3 فلفل غواجيو",
+        "2 فلفل أنشو",
+        "1/4 كوب خل",
+        "1 ملعقة كبيرة أشيوت",
+        "3 فصوص ثوم",
+        "1 أناناس طازج",
+        "كزبرة طازجة",
+        "بصل أبيض مفروم",
+        "تورتيلا ذرة"
+      ],
+      "instructions": [
+        "ترطيب الفلفل في الماء الساخن لمدة 15 دقيقة.",
+        "خلط الفلفل مع الخل والأشيوت والثوم والتوابل.",
+        "تتبيل لحم الخنزير لمدة 4 ساعات على الأقل أو طوال الليل.",
+        "ترتيب اللحم في طبقات تشكل سيخًا عموديًا (أو استخدام مقلاة).",
+        "الطبخ مع الدوران المستمر حتى يصبح ذهبيًا.",
+        "تقطيعه إلى شرائح رقيقة وتقديمه على تورتيلا دافئة.",
+        "إضافة أناناس مشوي وكزبرة وبصل وصلصة حسب الرغبة."
+      ]
+    },
+    "bn": {
+      "dishName": "টাকোস আল পাস্তোর",
+      "summary": "আচিওট এবং আনারস সহ মেরিনেটেড পোর্কের সুস্বাদু টাকোস, উল্লম্ব স্পিটে রান্না করা।",
+      "history": "টাকোস আল পাস্তোর ১৯৬০ এর দশকে মেক্সিকো সিটিতে আবির্ভূত হয়, লেবাননী অভিবাসীদের দ্বারা তৈরি যারা আরব শওয়ারমাকে মেক্সিকান স্বাদে অভিযোজিত করেছিল। 'পাস্তোর' শব্দটি উল্লম্ব স্পিট রান্নার পদ্ধতিকে বোঝায়, যা গ্রিক গাইরোসের অনুরূপ। তারা মেক্সিকান স্ট্রিট ফুডের একটি আইকন হয়ে ওঠে এবং মেক্সিকোর গ্যাস্ট্রোনমিক সাংস্কৃতিক ঐতিহ্য হিসাবে বিবেচিত হয়।",
+      "ingredients": [
+        "১ কেজি পাতলা কাটা শুয়োরের মাংস",
+        "৩টি গুয়াহিলো মরিচ",
+        "২টি আঞ্চো মরিচ",
+        "১/৪ কাপ ভিনেগার",
+        "১ চামচ আচিওট",
+        "৩টি রসুন কোয়া",
+        "১টি তাজা আনারস",
+        "তাজা ধনেপাতা",
+        "কাটা সাদা পেঁয়াজ",
+        "ভুট্টার টর্টিলা"
+      ],
+      "instructions": [
+        "মরিচগুলো ১৫ মিনিটের জন্য গরম পানিতে ভিজিয়ে রাখুন।",
+        "মরিচগুলো ভিনেগার, আচিওট, রসুন এবং মশলার সাথে ব্লেন্ড করুন।",
+        "শুয়োরের মাংস কমপক্ষে ৪ ঘণ্টা বা রাতভর মেরিনেট করুন।",
+        "মাংসকে স্তর করে উল্লম্ব স্পিট তৈরি করুন (বা প্যান ব্যবহার করুন)।",
+        "ক্রমাগত ঘুরিয়ে সুবর্ণ রঙ হওয়া পর্যন্ত রান্না করুন।",
+        "পাতলা করে কেটে উষ্ণ টর্টিলায় পরিবেশন করুন।",
+        "গ্রিল করা আনারস, ধনেপাতা, পেঁয়াজ এবং সালসা স্বাদমতো যোগ করুন।"
+      ]
+    },
+    "pt": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Deliciosos tacos de porco marinado com achiote e abacaxi, cozidos em espeto vertical.",
+      "history": "Os Tacos al Pastor surgiram na Cidade do México na década de 1960, criados por imigrantes libaneses que adaptaram o shawarma árabe ao gosto mexicano. O termo 'pastor' refere-se ao método de cozimento em espeto vertical, semelhante ao gyros grego. Tornaram-se um ícone da comida de rua mexicana e são considerados patrimônio cultural gastronômico do México.",
+      "ingredients": [
+        "1 kg de porco fatiado fino",
+        "3 pimentas guajillo",
+        "2 pimentas ancho",
+        "1/4 xícara de vinagre",
+        "1 colher de sopa de achiote",
+        "3 dentes de alho",
+        "1 abacaxi fresco",
+        "Coentro fresco",
+        "Cebola branca picada",
+        "Tortilhas de milho"
+      ],
+      "instructions": [
+        "Hidratar as pimentas em água quente por 15 minutos.",
+        "Bater as pimentas com vinagre, achiote, alho e especiarias.",
+        "Marinar o porco por pelo menos 4 horas ou durante a noite.",
+        "Dispor a carne em camadas formando um espeto vertical (ou usar frigideira).",
+        "Cozinhar girando constantemente até dourar.",
+        "Fatiar finamente e servir em tortilhas quentes.",
+        "Adicionar abacaxi grelhado, coentro, cebolla e salsa a gosto."
+      ]
+    },
+    "ru": {
+      "dishName": "Тако аль Пастор",
+      "summary": "Вкусные тако из маринованной свинины с ачиоте и ананасом, приготовленные на вертикальном вертеле.",
+      "history": "Тако аль Пастор появились в Мехико в 1960-х годах, созданные ливанскими иммигрантами, которые адаптировали арабскую шаурму к мексиканскому вкусу. Термин 'пастор' относится к методу приготовления на вертикальном вертеле, podobному греческому гиросу. Они стали иконой мексиканской уличной еды и считаются гастрономическим культурным наследием Мексики.",
+      "ingredients": [
+        "1 кг свинины, нарезанной тонко",
+        "3 перца гуахильо",
+        "2 перца анчо",
+        "1/4 чашки уксуса",
+        "1 столовая ложка ачиоте",
+        "3 зубчика чеснока",
+        "1 свежий ананас",
+        "Свежая кинза",
+        "Нарезанный белый лук",
+        "Кукурузные лепешки"
+      ],
+      "instructions": [
+        "Замочить перцы в горячей воде на 15 минут.",
+        "Смешать перцы с уксусом, ачиоте, чесноком и специями.",
+        "Мариновать свинину не менее 4 часов или на ночь.",
+        "Сложить мясо слоями, формируя вертикальный вертел (или использовать сковороду).",
+        "Готовить, постоянно вращая, до золотистого цвета.",
+        "Тонко нарезать и подавать на теплых лепешках.",
+        "Добавить жареный ананас, кинзу, лук и сальсу по вкусу."
+      ]
+    },
+    "ur": {
+      "dishName": "ٹیکوس آل پاستور",
+      "summary": "ایچیوٹ اور انناس کے ساتھ میرینیٹڈ سور کے مزیدار ٹیکوس، عمودی سپٹ پر پکائے گئے۔",
+      "history": "ٹیکوس آل پاستور 1960 کی دہائی میں میکسیکو شہر میں ابھرے، لبنانی تارکین وطن نے بنائے جنہوں نے عرب شاوارما کو میکسیکن ذائقے کے مطابق ڈھالا۔ 'پاستور' کی اصطلاح عمودی سپٹ کھانا پکانے کے طریقے کو ظاہر کرتی ہے، جو یونانی گیروس سے ملتی جلتی ہے۔ وہ میکسیکن اسٹریٹ فوڈ کی علامت بن گئے اور میکسیکو کے غذائی ثقافتی ورثے سمجھے جاتے ہیں۔",
+      "ingredients": [
+        "1 کلو سور کا گوشت باریک کٹا ہوا",
+        "3 گواجیلو مرچ",
+        "2 آنچو مرچ",
+        "1/4 کپ سرکہ",
+        "1 کھانے کا چمچ ایچیوٹ",
+        "3 لہسن کی کلیاں",
+        "1 تازہ انناس",
+        "تازی دھنیا",
+        "کٹی ہوئی سفید پیاز",
+        "مکئی کی ٹورٹیاس"
+      ],
+      "instructions": [
+        "مرچ کو 15 منٹ کے لیے گرم پانی میں بھگو دیں۔",
+        "مرچ کو سرکہ، ایچیوٹ، لہسن اور مصالحے کے ساتھ بلینڈ کریں۔",
+        "سور کے گوشت کو کم از کم 4 گھنٹے یا رات بھر میرینیٹ کریں۔",
+        "گوشت کو تہوں میں رکھ کر عمودی سپٹ بنائیں (یا پین استعمال کریں)۔",
+        "مسلسل گھماتے ہوئے سنہری ہونے تک پکائیں۔",
+        "باریک کاٹ کر گرم ٹورٹیاس پر پیش کریں۔",
+        "گرلڈ انناس، دھنیا، پیاز اور سالسا حسب ذائقہ شامل کریں۔"
+      ]
+    },
+    "id": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Taco daging babi yang dimarinasi dengan achiote dan nanas yang lezat, dimasak di tusuk sate vertikal.",
+      "history": "Tacos al Pastor muncul di Kota Meksiko pada tahun 1960-an, diciptakan oleh imigran Lebanon yang mengadaptasi shawarma Arab ke selera Meksiko. Istilah 'pastor' merujuk pada metode memasak tusuk sate vertikal, mirip dengan gyros Yunani. Mereka menjadi ikon makanan jalanan Meksiko dan dianggap sebagai warisan budaya gastronomi Meksiko.",
+      "ingredients": [
+        "1 kg daging babi iris tipis",
+        "3 cabai guajillo",
+        "2 cabai ancho",
+        "1/4 cuka",
+        "1 sendok makan achiote",
+        "3 siung bawang putih",
+        "1 nanas segar",
+        "Ketumbar segar",
+        "Bawang putih cincang",
+        "Tortilla jagung"
+      ],
+      "instructions": [
+        "Rendam cabai dalam air panas selama 15 menit.",
+        "Blender cabai dengan cuka, achiote, bawang putih dan rempah-rempah.",
+        "Marinasi daging babi minimal 4 jam atau semalaman.",
+        "Susun daging berlapis membentuk tusuk sate vertikal (atau gunakan wajan).",
+        "Masak sambil terus diputar sampai berwarna keemasan.",
+        "Iris tipis dan sajikan di atas tortilla hangat.",
+        "Tambahkan nanas panggang, ketumbar, bawang dan salsa secukupnya."
+      ]
+    },
+    "ja": {
+      "dishName": "タコス・アル・パストール",
+      "summary": "アチョーテとパイナップルでマリネした豚肉の美味しいタコス、垂直串焼きで調理。",
+      "history": "タコス・アル・パストールは 1960 年代にメキシコシティで登場し、アラブのシャワルマをメキシコ風にアレンジしたレバノン系移民によって作られました。「パストール」という用語は、ギリシャのギロスのような垂直串焼き調理法を指します。メキシコのストリートフードの象徴となり、メキシコの食文化遺産と考えられています。",
+      "ingredients": [
+        "豚肉薄切り 1kg",
+        "グアヒーリョ唐辛子 3 本",
+        "アンチョ唐辛子 2 本",
+        "酢 1/4 カップ",
+        "アチョーテ 大さじ 1",
+        "ニンニク 3 片",
+        "新鮮なパイナップル 1 個",
+        "新鮮なコリアンダー",
+        "刻んだ白ネギ",
+        "コーントルティーヤ"
+      ],
+      "instructions": [
+        "唐辛子を 15 分間お湯に浸す。",
+        "唐辛子を酢、アチョーテ、ニンニク、スパイスと一緒にブレンダーにかける。",
+        "豚肉を少なくとも 4 時間、または一晩マリネする。",
+        "肉を層にして垂直串焼きにする（またはフライパンを使用）。",
+        "絶えず回転させながら黄金色になるまで焼く。",
+        "薄くスライスして温かいトルティーヤの上にのせる。",
+        "グリルしたパイナップル、コリアンダー、ネギ、サルサをお好みで追加。"
+      ]
+    }
+  },
+  "japo-001": {
+    "es": {
+      "dishName": "Sushi Nigiri",
+      "summary": "El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo. Arte culinario en su máxima expresión.",
+      "history": "El Sushi Nigiri se originó en el Japón del período Edo (1603-1868) como una forma de comida rápida. Hanaya Yohei es considerado el padre del nigiri-zushi moderno, quien comenzó a vender sushi en su puesto en Edo (actual Tokio) alrededor de 1824. La técnica requiere años de maestría: se dice que un chef de sushi debe entrenar durante 10 años solo para aprender a preparar el arroz correctamente. Hoy representa la esencia de la cocina japonesa: simplicidad, frescura y perfección técnica.",
+      "ingredients": [
+        "500g de arroz japonés para sushi (grano corto)",
+        "600ml de agua",
+        "80ml de vinagre de arroz",
+        "3 cucharadas de azúcar",
+        "1 cucharadita de sal",
+        "400g de pescado fresco grado sashimi (salmón, atún, lubina)",
+        "Wasabi fresco rallado",
+        "Jengibre encurtido (gari)",
+        "Salsa de soja para servir"
+      ],
+      "instructions": [
+        "Lavar el arroz bajo agua fría hasta que el agua salga clara.",
+        "Cocinar arroz con agua en olla arrocera o cazuela tapada.",
+        "Mezclar vinagre, azúcar y sal en pequeño cazo hasta disolver.",
+        "Cuando el arroz esté cocido, transferir a hangiri (bol de madera).",
+        "Verter mezcla de vinagre sobre arroz caliente mezclando suavemente.",
+        "Abanicar el arroz mientras se mezcla para enfriarlo rápidamente.",
+        "Dejar reposar arroz tapado con paño húmedo a temperatura ambiente.",
+        "Cortar pescado en láminas de 5mm de grosor contra la fibra.",
+        "Mojar manos con agua avinagrada para manejar el arroz.",
+        "Formar pequeñas bolas de arroz (aproximadamente 20g cada una).",
+        "Colocar pequeña cantidad de wasabi sobre el pescado.",
+        "Presionar ligeramente pescado sobre bola de arroz dando forma ovalada.",
+        "Servir inmediatamente con jengibre y salsa de soja aparte."
+      ]
+    },
+    "en": {
+      "dishName": "Nigiri Sushi",
+      "summary": "The most traditional Japanese sushi: small portions of vinegared rice topped with fresh raw fish. Culinary art at its finest.",
+      "history": "Nigiri Sushi originated in Japan during the Edo period (1603-1868) as a form of fast food. Hanaya Yohei is considered the father of modern nigiri-zushi, who began selling sushi at his stall in Edo (now Tokyo) around 1824. The technique requires years of mastery: it's said that a sushi chef must train for 10 years just to learn how to prepare rice correctly. Today it represents the essence of Japanese cuisine: simplicity, freshness and technical perfection.",
+      "ingredients": [
+        "500g Japanese sushi rice (short grain)",
+        "600ml water",
+        "80ml rice vinegar",
+        "3 tablespoons sugar",
+        "1 teaspoon salt",
+        "400g fresh sashimi-grade fish (salmon, tuna, sea bass)",
+        "Fresh grated wasabi",
+        "Pickled ginger (gari)",
+        "Soy sauce for serving"
+      ],
+      "instructions": [
+        "Wash rice under cold water until water runs clear.",
+        "Cook rice with water in rice cooker or covered pot.",
+        "Mix vinegar, sugar and salt in small saucepan until dissolved.",
+        "When rice is cooked, transfer to hangiri (wooden bowl).",
+        "Pour vinegar mixture over hot rice mixing gently.",
+        "Fan the rice while mixing to cool it quickly.",
+        "Let rice rest covered with damp cloth at room temperature.",
+        "Cut fish into 5mm thick slices against the grain.",
+        "Wet hands with vinegared water to handle rice.",
+        "Form small rice balls (approximately 20g each).",
+        "Place small amount of wasabi on fish.",
+        "Gently press fish onto rice ball giving oval shape.",
+        "Serve immediately with ginger and soy sauce on the side."
+      ]
+    },
+    "zh": {
+      "dishName": "握寿司",
+      "summary": "最传统的日本寿司：小份醋饭上放新鲜生鱼片。烹饪艺术的极致表现。",
+      "history": "握寿司起源于日本江户时代（1603-1868 年），作为一种快餐形式。华屋与兵卫被认为是现代握寿司之父，他于 1824 年左右开始在江户（现东京）的摊位上售卖寿司。这项技术需要多年的精通：据说寿司厨师必须训练 10 年才能学会正确准备米饭。今天它代表了日本料理的精髓：简单、新鲜和技术完美。",
+      "ingredients": [
+        "500 克日本寿司米（短粒）",
+        "600 毫升水",
+        "80 毫升米醋",
+        "3 汤匙糖",
+        "1 茶匙盐",
+        "400 克新鲜刺身级鱼类（三文鱼、金枪鱼、鲈鱼）",
+        "新鲜磨碎的山葵",
+        "腌姜（姜片）",
+        "食用酱油"
+      ],
+      "instructions": [
+        "在冷水中清洗米饭直到水变清。",
+        "在电饭煲或带盖锅中用水煮饭。",
+        "在小锅中混合醋、糖和盐直到溶解。",
+        "米饭煮熟后，转移到 hangiri（木碗）中。",
+        "将醋混合物倒在热米饭上轻轻混合。",
+        "混合时扇风米饭以快速冷却。",
+        "用湿布覆盖米饭在室温下静置。",
+        "逆纹将鱼切成 5 毫米厚的片。",
+        "用醋水湿润手来处理米饭。",
+        "捏成小饭团（每个约 20 克）。",
+        "在鱼片上放少量山葵。",
+        "轻轻将鱼片压在饭团上形成椭圆形。",
+        "立即上桌，配以姜片和酱油。"
+      ]
+    },
+    "hi": {
+      "dishName": "निगिरी सुशी",
+      "summary": "सबसे पारंपरिक जापानी सुशी: सिरके वाले चावल के छोटे हिस्से ताजी कच्ची मछली के साथ। उत्कृष्ट पाक कला।",
+      "history": "निगिरी सुशी की उत्पत्ति जापान में एडो अवधि (1603-1868) के दौरान फास्ट फूड के रूप में हुई थी। हानाया योहेई को आधुनिक निगिरी-ज़ुशी का जनक माना जाता है, जिन्होंने 1824 के आसपास एडो (अब टोक्यो) में अपने स्टॉल पर सुशी बेचना शुरू किया। इस तकनीक में वर्षों की महारत की आवश्यकता है: कहा जाता है कि सुशी शेफ को केवल चावल तैयार करना सीखने के लिए 10 साल तक प्रशिक्षण लेना चाहिए। आज यह जापानी व्यंजन का सार दर्शाता है: सरलता, ताजगी और तकनीकी परिपूर्णता।",
+      "ingredients": [
+        "500 ग्राम जापानी सुशी चावल (छोटे दाने)",
+        "600 मिली पानी",
+        "80 मिली चावल सिरका",
+        "3 चम्मच चीनी",
+        "1 चम्मच नमक",
+        "400 ग्राम ताजी साशिमी-ग्रेड मछली (सैल्मन, टूना, सी बास)",
+        "ताजा कद्दूकस वासाबी",
+        "अचार वाला अदरक (गारी)",
+        "परोसने के लिए सोया सॉस"
+      ],
+      "instructions": [
+        "ठंडे पानी के नीचे चावल तब तक धोएं जब तक पानी साफ न हो जाए।",
+        "राइस कुकर या ढके बर्तन में पानी के साथ चावल पकाएं।",
+        "छोटे सॉसपैन में सिरका, चीनी और नमक मिलाएं जब तक घुल न जाए।",
+        "जब चावल पक जाए, तो हैंगिरी (लकड़ी के कटोरे) में स्थानांतरित करें।",
+        "गरम चावल पर सिरका मिश्रण डालें और धीरे से मिलाएं।",
+        "मिलाते समय चावल को पंखा करें ताकि वह जल्दी ठंडा हो जाए।",
+        "चावल को गीले कपड़े से ढककर कमरे के तापमान पर आराम करने दें।",
+        "मछली को दाने के विरुद्ध 5 मिमी मोटी स्लाइस में काटें।",
+        "चावल को संभालने के लिए हाथों को सिरके वाले पानी से गीला करें।",
+        "छोटे चावल के गोले बनाएं (प्रत्येक लगभग 20 ग्राम)।",
+        "मछली पर थोड़ी मात्रा में वासाबी रखें।",
+        "मछली को चावल के गोले पर धीरे से दबाकर अंडाकार आकार दें।",
+        "तुरंत अदरक और सोया सॉस के साथ परोसें।"
+      ]
+    },
+    "fr": {
+      "dishName": "Sushi Nigiri",
+      "summary": "Le sushi japonais le plus traditionnel : petites portions de riz vinaigré couvertes de poisson cru frais. L'art culinaire à son apogée.",
+      "history": "Le Sushi Nigiri est né au Japon pendant la période Edo (1603-1868) comme une forme de restauration rapide. Hanaya Yohei est considéré comme le père du nigiri-zushi moderne, qui a commencé à vendre des sushi dans son stand à Edo (aujourd'hui Tokyo) vers 1824. La technique nécessite des années de maîtrise : on dit qu'un chef sushi doit s'entraîner pendant 10 ans juste pour apprendre à préparer le riz correctement. Aujourd'hui, il représente l'essence de la cuisine japonaise : simplicité, fraîcheur et perfection technique.",
+      "ingredients": [
+        "500g de riz à sushi japonais (grain court)",
+        "600ml d'eau",
+        "80ml de vinaigre de riz",
+        "3 cuillères à soupe de sucre",
+        "1 cuillère à café de sel",
+        "400g de poisson frais qualité sashimi (saumon, thon, bar)",
+        "Wasabi frais râpé",
+        "Gingembre mariné (gari)",
+        "Sauce soja pour servir"
+      ],
+      "instructions": [
+        "Laver le riz sous l'eau froide jusqu'à ce que l'eau soit claire.",
+        "Cuire le riz avec l'eau dans un cuiseur à riz ou casserole couverte.",
+        "Mélanger vinaigre, sucre et sel dans une petite casserole jusqu'à dissolution.",
+        "Quand le riz est cuit, transférer dans un hangiri (bol en bois).",
+        "Verser le mélange de vinaigre sur le riz chaud en mélangeant doucement.",
+        "Éventer le riz tout en mélangeant pour le refroidir rapidement.",
+        "Laisser reposer le riz couvert d'un chiffon humide à température ambiante.",
+        "Couper le poisson en tranches de 5mm d'épaisseur contre le grain.",
+        "Mouiller les mains avec de l'eau vinaigrée pour manipuler le riz.",
+        "Former de petites boules de riz (environ 20g chacune).",
+        "Placer une petite quantité de wasabi sur le poisson.",
+        "Presser légèrement le poisson sur la boule de riz en donnant une forme ovale.",
+        "Servir immédiatement avec gingembre et sauce soja à part."
+      ]
+    },
+    "ar": {
+      "dishName": "سوشي نيغيري",
+      "summary": "السوشي الياباني الأكثر تقليدية: حصص صغيرة من الأرز المنقوع بالخل مغطاة بسمك نيء طازج. فن الطهي في أرقى صوره.",
+      "history": "نشأ سوشي نيغيري في اليابان خلال فترة إيدو (1603-1868) كشكل من أشكال الوجبات السريعة. يعتبر هانايا يوهي أبو النيغيري-زوشي الحديث، الذي بدأ بيع السوشي في كشكه في إيدو (طوكيو حاليًا) حوالي عام 1824. تتطلب التقنية سنوات من الإتقان: يقال إن طاهي السوشي يجب أن يتدرب لمدة 10 سنوات فقط لتعلم كيفية تحضير الأرز بشكل صحيح. اليوم يمثل جوهر المطبخ الياباني: البساطة والطزاجة والكمال التقني.",
+      "ingredients": [
+        "500 جرام أرز سوشي ياباني (قصير الحبة)",
+        "600 مل ماء",
+        "80 مل خل أرز",
+        "3 ملاعق كبيرة سكر",
+        "1 ملعقة صغيرة ملح",
+        "400 جرام سمك طازج جودة ساشيمي (سلمون، تونا، قاروص)",
+        "واسابي طازج مبشور",
+        "زنجبيل مخلل (جاري)",
+        "صلصة صويا للتقديم"
+      ],
+      "instructions": [
+        "اغسل الأرز تحت الماء البارد حتى يصبح الماء صافيًا.",
+        "اطبخ الأرز مع الماء في طباخة أرز أو وعاء مغطى.",
+        "اخلط الخل والسكر والملح في قدر صغير حتى يذوب.",
+        "عندما ينضج الأرز، انقله إلى هانغيري (وعاء خشبي).",
+        "اسكب خليط الخل فوق الأرز الساخن مع الخلط برفق.",
+        "روّح الأرز أثناء الخلط لتبريده بسرعة.",
+        "اترك الأرز يرتاح مغطى بقطعة قماش رطبة في درجة حرارة الغرفة.",
+        "اقطع السمك إلى شرائح بسمك 5 ملم عكس اتجاه الحبوب.",
+        "بلل اليدين بماء منقوع بالخل للتعامل مع الأرز.",
+        "شكل كرات أرز صغيرة (حوالي 20 جرام لكل منها).",
+        "ضع كمية صغيرة من الواسابي على السمك.",
+        "اضغط برفق السمك على كرة الأرز مع إعطاء شكل بيضاوي.",
+        "قدم فورًا مع الزنجبيل وصلصة الصويا جانبًا."
+      ]
+    },
+    "bn": {
+      "dishName": "নিগিরি সুশি",
+      "summary": "সবচেয়ে ঐতিহ্যবাহী জাপানি সুশি: ভিনেগার চালের ছোট অংশ তাজা কাঁচা মাছের সাথে। উৎকৃষ্ট রন্ধনশিল্প।",
+      "history": "নিগিরি সুশি জাপানে এডো যুগে (১৬০৩-১৮৬৮) ফাস্ট ফুড হিসাবে উদ্ভূত হয়েছিল। হানায়া যোহেইকে আধুনিক নিগিরি-জুশির জনক বলে মনে করা হয়, যিনি ১৮২৪ সালের দিকে এডোতে (বর্তমান টোকিও) তাঁর স্টলে সুশি বিক্রি শুরু করেছিলেন। এই কৌশলটি বছরের পর বছর মহারত দাবি করে: বলা হয় যে একজন সুশি শেফকে শুধুমাত্র চাল সঠিকভাবে প্রস্তুত করতে শেখার জন্য ১০ বছর প্রশিক্ষণ নিতে হয়। আজ এটি জাপানি রন্ধনপ্রণালীর সারমর্ম উপস্থাপন করে: সরলতা, তাজাত্ব এবং প্রযুক্তিগত নিখুঁততা।",
+      "ingredients": [
+        "৫০০ গ্রাম জাপানি সুশি চাল (ছোট দানা)",
+        "৬০০ মিলি পানি",
+        "৮০ মিলি চালের ভিনেগার",
+        "৩ চামচ চিনি",
+        "১ চামচ লবণ",
+        "৪০০ গ্রাম তাজা সাশিমি-গ্রেড মাছ (স্যামন, টুনা, সী বাস)",
+        "তাজা কদুকস ওয়াসাবি",
+        "আচার দেওয়া আদা (গারি)",
+        "পরিবেশনের জন্য সয়া সস"
+      ],
+      "instructions": [
+        "পানি পরিষ্কার না হওয়া পর্যন্ত ঠান্ডা পানির নিচে চাল ধুয়ে ফেলুন।",
+        "রাইস কুকার বা ঢাকা পাত্রে পানির সাথে চাল রান্না করুন।",
+        "ছোট সসপ্যানে ভিনেগার, চিনি এবং লবণ মিশান যতক্ষণ না দ্রবীভূত হয়।",
+        "চাল রান্না হলে হাঙ্গিরি (কাঠের বাটি)তে স্থানান্তর করুন।",
+        "গরম চালের উপর ভিনেগার মিশ্রণ ঢালুন এবং আলতো করে মেশান।",
+        "মেশানোর সময় চালটি পাখা করুন যাতে এটি দ্রুত ঠান্ডা হয়।",
+        "চালটি ভেজা কাপড় দিয়ে ঢেকে ঘরের তাপমাত্রায় বিশ্রাম নিতে দিন।",
+        "মাছকে শস্যের বিপরীতে ৫ মিমি পুরু স্লাইসে কাটুন।",
+        "চাল পরিচালনা করার জন্য হাতগুলো ভিনেগারযুক্ত পানিতে ভিজিয়ে নিন।",
+        "ছোট চালের বল তৈরি করুন (প্রতিটি প্রায় ২০ গ্রাম)।",
+        "মাছের উপর অল্প পরিমাণে ওয়াসাবি দিন।",
+        "মাছকে চালের বলের উপর আলতো করে চাপ দিয়ে ডিম্বাকৃতি আকার দিন।",
+        "আদা এবং সয়া সস সহ অবিলম্বে পরিবেশন করুন।"
+      ]
+    },
+    "pt": {
+      "dishName": "Sushi Nigiri",
+      "summary": "O sushi japonês mais tradicional: pequenas porções de arroz avinagrado cobertas com peixe cru fresco. Arte culinária em sua melhor expressão.",
+      "history": "O Sushi Nigiri originou-se no Japão durante o período Edo (1603-1868) como uma forma de fast food. Hanaya Yohei é considerado o pai do nigiri-zushi moderno, que começou a vender sushi em sua barraca em Edo (atual Tóquio) por volta de 1824. A técnica requer anos de maestria: diz-se que um chef de sushi deve treinar por 10 anos apenas para aprender a preparar o arroz corretamente. Hoje representa a essência da cozinha japonesa: simplicidade, frescor e perfeição técnica.",
+      "ingredients": [
+        "500g de arroz japonês para sushi (grão curto)",
+        "600ml de água",
+        "80ml de vinagre de arroz",
+        "3 colheres de sopa de açúcar",
+        "1 colher de chá de sal",
+        "400g de peixe fresco qualidade sashimi (salmão, atum, robalo)",
+        "Wasabi fresco ralado",
+        "Gengibre em conserva (gari)",
+        "Molho de soja para servir"
+      ],
+      "instructions": [
+        "Lavar o arroz sob água fria até que a água saia clara.",
+        "Cozinhar o arroz com água em panela de arroz ou panela tampada.",
+        "Misturar vinagre, açúcar e sal em uma pequena panela até dissolver.",
+        "Quando o arroz estiver cozido, transferir para hangiri (tigela de madeira).",
+        "Despejar mistura de vinagre sobre o arroz quente misturando gentilmente.",
+        "Abanar o arroz enquanto mistura para resfriá-lo rapidamente.",
+        "Deixar o arroz descansar coberto com pano úmido em temperatura ambiente.",
+        "Cortar o peixe em fatias de 5mm de espessura contra a fibra.",
+        "Molhar as mãos com água avinagrada para manusear o arroz.",
+        "Formar pequenas bolas de arroz (aproximadamente 20g cada).",
+        "Colocar pequena quantidade de wasabi sobre o peixe.",
+        "Pressionar levemente o peixe sobre a bola de arroz dando forma oval.",
+        "Servir imediatamente com gengibre e molho de soja à parte."
+      ]
+    },
+    "ru": {
+      "dishName": "Нигири-суши",
+      "summary": "Самый традиционный японский суши: небольшие порции риса с уксусом, покрытые свежей сырой рыбой. Кулинарное искусство в лучшем виде.",
+      "history": "Нигири-суши возникли в Японии в период Эдо (1603-1868) как форма фастфуда. Ханая Ёхэй считается отцом современного нигири-дзуси, который начал продавать суши в своей лавке в Эдо (ныне Токио) около 1824 года. Техника требует лет мастерства: говорят, что шеф-повар суши должен тренироваться 10 лет, чтобы научиться правильно готовить рис. Сегодня он представляет суть японской кухни: простота, свежесть и техническое совершенство.",
+      "ingredients": [
+        "500г японского риса для суши (короткозерный)",
+        "600мл воды",
+        "80мл рисового уксуса",
+        "3 столовые ложки сахара",
+        "1 чайная ложка соли",
+        "400г свежей рыбы качества сашими (лосось, тунец, морской окунь)",
+        "Свежий тертый васаби",
+        "Маринованный имбирь (гари)",
+        "Соевый соус для подачи"
+      ],
+      "instructions": [
+        "Промывать рис под холодной водой, пока вода не станет прозрачной.",
+        "Варить рис с водой в рисоварке или закрытой кастрюле.",
+        "Смешать уксус, сахар и соль в маленькой кастрюле до растворения.",
+        "Когда рис сварится, переложить в хангири (деревянную миску).",
+        "Вылить уксусную смесь на горячий рис, аккуратно перемешивая.",
+        "Обмахивать рис во время перемешивания, чтобы быстро охладить.",
+        "Дать рису постоять, накрытым влажной тканью, при комнатной температуре.",
+        "Нарезать рыбу ломтиками толщиной 5мм против волокон.",
+        "Смочить руки подкисленной водой для работы с рисом.",
+        "Сформировать небольшие рисовые шарики (примерно по 20г каждый).",
+        "Положить небольшое количество васаби на рыбу.",
+        "Аккуратно прижать рыбу к рисовому шарику, придавая овальную форму.",
+        "Подавать немедленно с имбирем и соевым соусом отдельно."
+      ]
+    },
+    "ur": {
+      "dishName": "نیگیری سوشی",
+      "summary": "سب سے روایتی جاپانی سوشی: چھوٹے حصے سرکہ والے چاول تازہ کچی مچھلی کے ساتھ۔ بہترین فنِ آشپزی۔",
+      "history": "نیگیری سوشی جاپان میں ایڈو کے دور (1603-1868) میں فاسٹ فوڈ کی شکل میں پیدا ہوا۔ ہانایا یوہی کو جدید نیگیری-زوشی کا بانی مانا جاتا ہے، جس نے 1824 کے آس پاس ایڈو (موجودہ ٹوکیو) میں اپنے اسٹال پر سوشی بیچنا شروع کیا۔ اس تکنیک میں سالوں کی مہارت کی ضرورت ہے: کہا جاتا ہے کہ سوشی شیف کو صرف چاول صحیح طریقے سے تیار کرنا سیکھنے کے لیے 10 سال تربیت لینی چاہیے۔ آج یہ جاپانی کھانوں کا خلاصہ پیش کرتا ہے: سادگی، تازگی اور تکنیکی کمال۔",
+      "ingredients": [
+        "500 گرام جاپانی سوشی چاول (چھوٹے دانے)",
+        "600 ملی لیٹر پانی",
+        "80 ملی لیٹر چاول کا سرکہ",
+        "3 کھانے کے چمچ چینی",
+        "1 چائے کا چمچ نمک",
+        "400 گرام تازہ ساشیمی گریڈ مچھلی (سالمن، ٹونا، سی باس)",
+        "تازہ کدوکس واسابی",
+        "اچار والا ادرک (گاری)",
+        "پیش کرنے کے لیے سویا ساس"
+      ],
+      "instructions": [
+        "پانی صاف نہ ہو جائے ٹھنڈے پانی کے نیچے چاول دھوئیں۔",
+        "رائس ککر یا ڈھکے برتن میں پانی کے ساتھ چاول پکائیں۔",
+        "چھوٹے ساس پین میں سرکہ، چینی اور نمک ملائیں جب تک حل نہ ہو جائے۔",
+        "جب چاول پک جائیں تو ہنگیری (لکڑی کے کٹورے) میں منتقل کریں۔",
+        "گرم چاول پر سرکہ مکسچر ڈالیں اور آہستہ سے ملائیں۔",
+        "ملاتے وقت چاول کو پنکھا کریں تاکہ یہ جلدی ٹھنڈا ہو جائے۔",
+        "چاول کو گیلے کپڑے سے ڈھک کر کمرے کے درجہ حرارت پر آرام کرنے دیں۔",
+        "مچھلی کو اناج کے خلاف 5 ملی میٹر موٹی سلائس میں کاٹیں۔",
+        "چاول کو سنبھالنے کے لیے ہاتھوں کو سرکہ والے پانی سے گیلا کریں۔",
+        "چھوٹے چاول کے گولے بنائیں (تقریباً 20 گرام ہر ایک)۔",
+        "مچھلی پر تھوڑی مقدار میں واسابی رکھیں۔",
+        "مچھلی کو چاول کے گولے پر آہستہ سے دبائیں بیضوی شکل دیتے ہوئے۔",
+        "فوراً ادرک اور سویا ساس کے ساتھ پیش کریں۔"
+      ]
+    },
+    "id": {
+      "dishName": "Nigiri Sushi",
+      "summary": "Sushi Jepang paling tradisional: porsi kecil nasi bercuka dengan ikan mentah segar di atasnya. Seni kuliner terbaik.",
+      "history": "Nigiri Sushi berasal dari Jepang selama periode Edo (1603-1868) sebagai bentuk makanan cepat saji. Hanaya Yohei dianggap sebagai bapak nigiri-zushi modern, yang mulai menjual sushi di stan-nya di Edo (sekarang Tokyo) sekitar tahun 1824. Teknik ini membutuhkan penguasaan bertahun-tahun: dikatakan bahwa koki sushi harus berlatih selama 10 tahun hanya untuk belajar cara menyiapkan nasi dengan benar. Hari ini mewakili esensi masakan Jepang: kesederhanaan, kesegaran dan kesempurnaan teknis.",
+      "ingredients": [
+        "500g nasi sushi Jepang (butiran pendek)",
+        "600ml air",
+        "80ml cuka beras",
+        "3 sendok makan gula",
+        "1 sendok teh garam",
+        "400g ikan segar kualitas sashimi (salmon, tuna, kakap)",
+        "Wasabi segar parut",
+        "Jahe acar (gari)",
+        "Kecap asin untuk penyajian"
+      ],
+      "instructions": [
+        "Cuci nasi di bawah air dingin sampai air jernih.",
+        "Masak nasi dengan air dalam rice cooker atau panci tertutup.",
+        "Campur cuka, gula dan garam dalam panci kecil sampai larut.",
+        "Saat nasi matang, pindahkan ke hangiri (mangkuk kayu).",
+        "Tuang campuran cuka di atas nasi panas sambil diaduk perlahan.",
+        "Kipasi nasi sambil diaduk untuk mendinginkannya dengan cepat.",
+        "Biarkan nasi istirahat ditutupi kain lembab pada suhu kamar.",
+        "Potong ikan menjadi irisan setebal 5mm melawan serat.",
+        "Basahi tangan dengan air bercuka untuk menangani nasi.",
+        "Bentuk bola nasi kecil (kira-kira 20g masing-masing).",
+        "Tempatkan sedikit wasabi di atas ikan.",
+        "Tekan perlahan ikan di atas bola nasi memberikan bentuk oval.",
+        "Sajikan segera dengan jahe dan kecap asin terpisah."
+      ]
+    },
+    "ja": {
+      "dishName": "握り寿司",
+      "summary": "最も伝統的な日本寿司：酢飯の上に新鮮な生魚をのせた小さな一口。究極の料理芸術。",
+      "history": "握り寿司は江戸時代（1603-1868 年）にファーストフードとして日本で誕生しました。華屋与兵衛が現代の握り寿司の父と考えられており、1824 年頃に江戸（現在の東京）の屋台で寿司を売り始めました。この技術には長年の修練が必要です：寿司職人は米を正しく準備することを学ぶだけで 10 年修行しなければならないと言われています。今日では日本料理の本質を表しています：シンプルさ、鮮度、技術的完璧さ。",
+      "ingredients": [
+        "寿司米（短粒）500g",
+        "水 600ml",
+        "米酢 80ml",
+        "砂糖 大さじ 3",
+        "塩 小さじ 1",
+        "刺身用新鮮魚介類 400g（サーモン、マグロ、スズキ）",
+        "おろしたてのわさび",
+        "ガリ（漬けた生姜）",
+        "醤油"
+      ],
+      "instructions": [
+        "水が透明になるまで冷水で米を洗う。",
+        "炊飯器または蓋付き鍋で米を炊く。",
+        "小さな鍋で酢、砂糖、塩を溶かすまで混ぜる。",
+        "米が炊き上がったら、hangiri（木製ボウル）に移す。",
+        "熱い米の上に酢の混合物をかけ、優しく混ぜる。",
+        "混ぜながらうちわで仰ぎ、急速に冷ます。",
+        "濡れた布巾で覆い、室温で休ませる。",
+        "魚を繊維に対して 5mm の厚さに切る。",
+        "手を酢水で濡らして米を扱う。",
+        "小さな米の玉を作る（それぞれ約 20g）。",
+        "魚の上に少量のわさびをのせる。",
+        "魚を米の玉に軽く押し付け、楕円形に整える。",
+        "生姜と醤油を添えてすぐに提供。"
+      ]
+    }
+  },
+  "pe-ceviche-peruano": {
+    "es": {
+      "dishName": "Ceviche Peruano",
+      "summary": "Pescado fresco marinado en limón peruano con cebolla, ají y cilantro. Plato bandera del Perú.",
+      "history": "El Ceviche Peruano tiene sus raíces en la cultura Moche (200 d.C.) donde los pescadores marinaban pescado en jugo de tumbo. Durante la conquista española se introdujo el limón y la cebolla. En el siglo XIX, el ceviche se popularizó como plato nacional. En 2004, fue declarado Patrimonio Cultural de la Nación Peruana. Cada 28 de junio se celebra el Día Nacional del Ceviche. Es considerado uno de los mejores platos del mundo y símbolo de la gastronomía peruana.",
+      "ingredients": [
+        "500g de pescado blanco fresco (lenguado o corvina)",
+        "6-8 limones peruanos",
+        "1 cebolla roja en julianas",
+        "1 ají limo picado",
+        "Cilantro fresco",
+        "Sal y pimienta",
+        "Camote cocido",
+        "Choclo desgranado"
+      ],
+      "instructions": [
+        "Cortar el pescado en cubos de 2cm aproximadamente.",
+        "Marinar inmediatamente con jugo de limón y sal.",
+        "Agregar cebolla, ají y cilantro picado.",
+        "Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "Servir inmediatamente con camote y choclo.",
+        "Acompañar con cancha serrana tostada."
+      ]
+    },
+    "en": {
+      "dishName": "Peruvian Ceviche",
+      "summary": "Fresh fish marinated in Peruvian lime with onion, chili and cilantro. Flagship dish of Peru.",
+      "history": "Peruvian Ceviche has its roots in the Moche culture (200 AD) where fishermen marinated fish in tumbo juice. During the Spanish conquest, lime and onion were introduced. In the 19th century, ceviche became popular as a national dish. In 2004, it was declared Cultural Heritage of the Peruvian Nation. Every June 28, National Ceviche Day is celebrated. It is considered one of the best dishes in the world and a symbol of Peruvian gastronomy.",
+      "ingredients": [
+        "500g fresh white fish (flounder or sea bass)",
+        "6-8 Peruvian limes",
+        "1 red onion julienned",
+        "1 chopped ají limo chili",
+        "Fresh cilantro",
+        "Salt and pepper",
+        "Cooked sweet potato",
+        "Shelled corn"
+      ],
+      "instructions": [
+        "Cut fish into approximately 2cm cubes.",
+        "Marinate immediately with lime juice and salt.",
+        "Add onion, chili and chopped cilantro.",
+        "Mix gently and let rest for 2-3 minutes.",
+        "Serve immediately with sweet potato and corn.",
+        "Accompany with toasted serrana corn."
+      ]
+    },
+    "zh": {
+      "dishName": "秘鲁酸橘汁腌鱼",
+      "summary": "新鲜鱼肉用秘鲁青柠腌制，配洋葱、辣椒和香菜。秘鲁的招牌菜。",
+      "history": "秘鲁酸橘汁腌鱼起源于莫切文化（公元 200 年），当时渔民用通博果汁腌制鱼。西班牙征服时期引入了青柠和洋葱。19 世纪，酸橘汁腌鱼成为流行的国菜。2004 年，它被宣布为秘鲁国家的文化遗产。每年 6 月 28 日庆祝全国酸橘汁腌鱼日。它被认为是世界上最好的菜肴之一，也是秘鲁美食的象征。",
+      "ingredients": [
+        "500 克新鲜白鱼（比目鱼或鲈鱼）",
+        "6-8 个秘鲁青柠",
+        "1 个红洋葱切丝",
+        "1 个切碎的青柠辣椒",
+        "新鲜香菜",
+        "盐和胡椒",
+        "煮熟的甘薯",
+        "去壳玉米"
+      ],
+      "instructions": [
+        "将鱼切成约 2 厘米的立方体。",
+        "立即用青柠汁和盐腌制。",
+        "加入洋葱、辣椒和切碎的香菜。",
+        "轻轻混合，静置 2-3 分钟。",
+        "立即配甘薯和玉米上桌。",
+        "搭配烤塞拉纳玉米。"
+      ]
+    },
+    "hi": {
+      "dishName": "पेरूवियन सेविचे",
+      "summary": "ताजी मछली पेरूवियन नींबू में प्याज, मिर्च और धनिया के साथ मैरिनेटेड। पेरू का प्रमुख व्यंजन।",
+      "history": "पेरूवियन सेविचे की जड़ें मोचे संस्कृति (200 ईस्वी) में हैं जहां मछुआरे टम्बो रस में मछली मैरिनेट करते थे। स्पेनिश विजय के दौरान नींबू और प्याज पेश किए गए। 19वीं शताब्दी में, सेविचे एक राष्ट्रीय व्यंजन के रूप में लोकप्रिय हुआ। 2004 में, इसे पेरूवियन राष्ट्र की सांस्कृतिक विरासत घोषित किया गया। हर साल 28 जून को राष्ट्रीय सेविचे दिवस मनाया जाता है। इसे दुनिया के सर्वोत्तम व्यंजनों में से एक और पेरूवियन पाक कला का प्रतीक माना जाता है।",
+      "ingredients": [
+        "500 ग्राम ताजी सफेद मछली (फ्लौंडर या सी बास)",
+        "6-8 पेरूवियन नींबू",
+        "1 लाल प्याज जूलिएन कटा हुआ",
+        "1 कटा हुआ अजी लिमो मिर्च",
+        "ताजा धनिया",
+        "नमक और काली मिर्च",
+        "पका हुआ शकरकंद",
+        "छिला हुआ मक्का"
+      ],
+      "instructions": [
+        "मछली को लगभग 2 सेमी के घन में काटें।",
+        "तुरंत नींबू के रस और नमक के साथ मैरिनेट करें।",
+        "प्याज, मिर्च और कटा हुआ धनिया जोड़ें।",
+        "धीरे से मिलाएं और 2-3 मिनट के लिए आराम करने दें।",
+        "शकरकंद और मक्के के साथ तुरंत परोसें।",
+        "भुने हुए सेराना मक्के के साथ परोसें।"
+      ]
+    },
+    "fr": {
+      "dishName": "Ceviche Péruvien",
+      "summary": "Poisson frais mariné dans du citron vert péruvien avec oignon, piment et coriandre. Plat emblématique du Pérou.",
+      "history": "Le Ceviche Péruvien trouve ses racines dans la culture Moche (200 apr. J.-C.) où les pêcheurs marinaient le poisson dans du jus de tumbo. Pendant la conquête espagnole, le citron et l'oignon ont été introduits. Au 19ème siècle, le ceviche est devenu populaire comme plat national. En 2004, il a été déclaré Patrimoine Culturel de la Nation Péruvienne. Chaque 28 juin, la Journée Nationale du Ceviche est célébrée. Il est considéré comme l'un des meilleurs plats du monde et symbole de la gastronomie péruvienne.",
+      "ingredients": [
+        "500g de poisson blanc frais (flétan ou bar)",
+        "6-8 citrons verts péruviens",
+        "1 oignon rouge coupé en julienne",
+        "1 piment ají limo haché",
+        "Coriandre fraîche",
+        "Sel et poivre",
+        "Patate douce cuite",
+        "Maïs égrené"
+      ],
+      "instructions": [
+        "Couper le poisson en cubes d'environ 2cm.",
+        "Mariner immédiatement avec le jus de citron et le sel.",
+        "Ajouter oignon, piment et coriandre hachée.",
+        "Mélanger doucement et laisser reposer 2-3 minutes.",
+        "Servir immédiatement avec patate douce et maïs.",
+        "Accompagner de maïs serrana toasté."
+      ]
+    },
+    "ar": {
+      "dishName": "سيبيتشي بيروفي",
+      "summary": "سمك طازج متبل في الليمون البيروفي مع البصل والفلفل والكزبرة. الطبق الرئيسي لبيرو.",
+      "history": "يعود أصل السيبيتشي البيروفي إلى ثقافة موتشي (200 م) حيث كان الصيادون يتبلون السمك في عصير التومبو. خلال الغزو الإسباني، تم إدخال الليمون والبصل. في القرن التاسع عشر، أصبح السيبيتشي شائعًا كطبق وطني. في عام 2004، أُعلن تراثًا ثقافيًا للأمة البيروفية. يُحتفل باليوم الوطني للسيبيتشي في 28 يونيو من كل عام. يُعتبر أحد أفضل الأطباق في العالم ورمزًا للمأكولات البيروفية.",
+      "ingredients": [
+        "500 جرام سمك أبيض طازج (سمك موسى أو قاروص)",
+        "6-8 ليمون بيروفي",
+        "1 بصل أحمر مقطع جوليان",
+        "1 فلفل أهلي ليمو مفروم",
+        "كزبرة طازجة",
+        "ملح وفلفل",
+        "بطاطا حلوة مطبوخة",
+        "ذرة مقشرة"
+      ],
+      "instructions": [
+        "قطع السمك إلى مكعبات بحوالي 2 سم.",
+        "تتبيل فورًا بعصير الليمون والملح.",
+        "إضافة البصل والفلفل والكزبرة المفرومة.",
+        "خلط برفق وتركه يرتاح لمدة 2-3 دقائق.",
+        "تقديمه فورًا مع البطاطا الحلوة والذرة.",
+        "تقديمه مع ذرة سيرانا المحمصة."
+      ]
+    },
+    "bn": {
+      "dishName": "পেরুভিয়ান সেভিচে",
+      "summary": "তাজা মাছ পেরুভিয়ান লেবুতে পেঁয়াজ, মরিচ এবং ধনেপাতার সাথে মেরিনেটেড। পেরুর প্রধান ব্যঞ্জন।",
+      "history": "পেরুভিয়ান সেভিচের মূল মোচে সংস্কৃতিতে (২০০ খ্রিস্টাব্দ) যেখানে জেলেদের টুম্বো রসে মাছ মেরিনেট করত। স্প্যানিশ বিজয়ের সময় লেবু এবং পেঁয়াজ চালু করা হয়। ১৯শ শতাব্দীতে, সেভিচে একটি জাতীয় ব্যঞ্জন হিসাবে জনপ্রিয় হয়ে ওঠে। ২০০৪ সালে, এটিকে পেরুভিয়ান জাতির সাংস্কৃতিক ঐতিহ্য ঘোষণা করা হয়। প্রতি বছর ২৮ জুন জাতীয় সেভিচে দিবস পালন করা হয়। এটিকে বিশ্বের অন্যতম সেরা ব্যঞ্জন এবং পেরুভিয়ান রন্ধনপ্রণালীর প্রতীক হিসাবে বিবেচনা করা হয়।",
+      "ingredients": [
+        "৫০০ গ্রাম তাজা সাদা মাছ (ফ্ল্যাউন্ডার বা সী বাস)",
+        "৬-৮টি পেরুভিয়ান লেবু",
+        "১টি লাল পেঁয়াজ জুলিয়েন কাটা",
+        "১টি কাটা অহি লিমো মরিচ",
+        "তাজা ধনেপাতা",
+        "লবণ এবং মরিচ",
+        "রান্না করা মিষ্টি আলু",
+        "খোসা ছাড়ানো ভুট্টা"
+      ],
+      "instructions": [
+        "মাছকে প্রায় ২ সেমি ঘনক আকারে কাটুন।",
+        "তাত্ক্ষণিকভাবে লেবুর রস এবং লবণের সাথে মেরিনেট করুন।",
+        "পেঁয়াজ, মরিচ এবং কাটা ধনেপাতা যোগ করুন।",
+        "আলতো করে মিশিয়ে ২-৩ মিনিটের জন্য বিশ্রাম নিতে দিন।",
+        "মিষ্টি আলু এবং ভুট্টার সাথে অবিলম্বে পরিবেশন করুন।",
+        "ভাজা সেরানা ভুট্টার সাথে পরিবেশন করুন।"
+      ]
+    },
+    "pt": {
+      "dishName": "Ceviche Peruano",
+      "summary": "Peixe fresco marinado em limão peruano com cebola, pimenta e coentro. Prato emblemático do Peru.",
+      "history": "O Ceviche Peruano tem suas raízes na cultura Moche (200 d.C.) onde os pescadores marinavam peixe em suco de tumbo. Durante a conquista espanhola, o limão e a cebola foram introduzidos. No século 19, o ceviche se popularizou como prato nacional. Em 2004, foi declarado Patrimônio Cultural da Nação Peruana. Todo dia 28 de junho é celebrado o Dia Nacional do Ceviche. É considerado um dos melhores pratos do mundo e símbolo da gastronomia peruana.",
+      "ingredients": [
+        "500g de peixe branco fresco (linguado ou robalo)",
+        "6-8 limões peruanos",
+        "1 cebola roxa em juliana",
+        "1 pimenta ají limo picada",
+        "Coentro fresco",
+        "Sal e pimenta",
+        "Batata-doce cozida",
+        "Milho debulhado"
+      ],
+      "instructions": [
+        "Cortar o peixe em cubos de aproximadamente 2cm.",
+        "Marinar imediatamente com suco de limão e sal.",
+        "Adicionar cebola, pimenta e coentro picado.",
+        "Misturar suavemente e deixar repousar por 2-3 minutos.",
+        "Servir imediatamente com batata-doce e milho.",
+        "Acompanhar com milho serrana torrado."
+      ]
+    },
+    "ru": {
+      "dishName": "Перуанский Севиче",
+      "summary": "Свежая рыба, маринованная в перуанском лайме с луком, перцем чили и кинзой. Фирменное блюдо Перу.",
+      "history": "Перуанский севиче имеет корни в культуре Моче (200 г. н.э.), где рыбаки мариновали рыбу в соке тумбо. Во время испанского завоевания были введены лайм и лук. В 19 веке севиче стал популярным как национальное блюдо. В 2004 году он был объявлен культурным наследием перуанской нации. Каждый год 28 июня отмечается Национальный день севиче. Оно считается одним из лучших блюд в мире и символом перуанской гастрономии.",
+      "ingredients": [
+        "500г свежей белой рыбы (камбала или морской окунь)",
+        "6-8 перуанских лаймов",
+        "1 красная луковица, нарезанная соломкой",
+        "1 измельченный перец ахи лимо",
+        "Свежая кинза",
+        "Соль и перец",
+        "Вареный сладкий картофель",
+        "Кукуруза без оболочки"
+      ],
+      "instructions": [
+        "Нарезать рыбу кубиками примерно 2см.",
+        "Сразу замариновать в соке лайма с солью.",
+        "Добавить лук, перец чили и измельченную кинзу.",
+        "Аккуратно перемешать и дать постоять 2-3 минуты.",
+        "Подавать немедленно со сладким картофелем и кукурузой.",
+        "Подавать с обжаренной кукурузой серрана."
+      ]
+    },
+    "ur": {
+      "dishName": "پیروویئن سیوچے",
+      "summary": "تازہ مچھلی پیروویئن لیموں میں پیاز، مرچ اور دھنیے کے ساتھ میرینیٹڈ۔ پیرو کا پرچم بردار پکوان۔",
+      "history": "پیروویئن سیوچے کی جڑیں موچے ثقافت (200 عیسوی) میں ہیں جہاں ماہی گیر تمبو کے رس میں مچھلی میرینیٹ کرتے تھے۔ ہسپانوی فتح کے دوران لیموں اور پیاز متعارف کروائے گئے۔ 19ویں صدی میں، سیوچے قومی پکوان کے طور پر مقبول ہوا۔ 2004 میں، اسے پیروویئن قوم کا ثقافتی ورثہ قرار دیا گیا۔ ہر سال 28 جون کو قومی سیوچے دن منایا جاتا ہے۔ اسے دنیا کے بہترین پکوانوں میں سے ایک اور پیروویئن کھانوں کی علامت سمجھا جاتا ہے۔",
+      "ingredients": [
+        "500 گرام تازہ سفید مچھلی (فلاونڈر یا سی باس)",
+        "6-8 پیروویئن لیموں",
+        "1 سرخ پیاز جولیین کٹی ہوئی",
+        "1 کٹا ہوا آہی لیمو مرچ",
+        "تازہ دھنیا",
+        "نمک اور کالی مرچ",
+        "پکا ہوا شکرقندی",
+        "چھلکا اتارا مکئی"
+      ],
+      "instructions": [
+        "مچھلی کو تقریباً 2 سینٹی میٹر کے ٹکڑوں میں کاٹیں۔",
+        "فوراً لیموں کے رس اور نمک کے ساتھ میرینیٹ کریں۔",
+        "پیاز، مرچ اور کٹا ہوا دھنیا شامل کریں۔",
+        "آہستہ سے ملائیں اور 2-3 منٹ کے لیے آرام کرنے دیں۔",
+        "شکرقندی اور مکئی کے ساتھ فوراً پیش کریں۔",
+        "بھنے ہوئے سیرانا مکئی کے ساتھ پیش کریں۔"
+      ]
+    },
+    "id": {
+      "dishName": "Ceviche Peru",
+      "summary": "Ikan segar yang dimarinasi dalam jeruk nipis Peru dengan bawang, cabai dan ketumbar. Hidangan andalan Peru.",
+      "history": "Ceviche Peru berakar pada budaya Moche (200 M) di mana nelayan memarinasi ikan dalam jus tumbo. Selama penaklukan Spanyol, jeruk nipis dan bawang diperkenalkan. Pada abad ke-19, ceviche menjadi populer sebagai hidangan nasional. Pada tahun 2004, dinyatakan sebagai Warisan Budaya Bangsa Peru. Setiap 28 Juni, Hari Ceviche Nasional dirayakan. Ini dianggap sebagai salah satu hidangan terbaik di dunia dan simbol gastronomi Peru.",
+      "ingredients": [
+        "500g ikan putih segar (ikan sebelah atau kakap)",
+        "6-8 jeruk nipis Peru",
+        "1 bawang merah diiris julienne",
+        "1 cabai ají limo cincang",
+        "Ketumbar segar",
+        "Garam dan merica",
+        "Ubi jalar rebus",
+        "Jagung dikupas"
+      ],
+      "instructions": [
+        "Potong ikan menjadi kubus sekitar 2cm.",
+        "Marinasi segera dengan jus jeruk nipis dan garam.",
+        "Tambahkan bawang, cabai dan ketumbar cincang.",
+        "Aduk perlahan dan biarkan istirahat 2-3 menit.",
+        "Sajikan segera dengan ubi jalar dan jagung.",
+        "Sertakan jagung serrana panggang."
+      ]
+    },
+    "ja": {
+      "dishName": "ペルー風セビチェ",
+      "summary": "ペルーライムでマリネした新鮮な白身魚に、玉ねぎ、チリ、コリアンダーを添えて。ペルーの代表的な料理。",
+      "history": "ペルー風セビチェはモーチェ文化（西暦 200 年）に起源を持ち、漁師がタンボ果汁で魚をマリネしていました。スペイン征服時代にライムと玉ねぎが導入されました。19 世紀にセビチェは国民食として人気になりました。2004 年にペルー国家の文化遺産に宣言されました。毎年 6 月 28 日は国民セビチェの日として祝われます。世界最高の料理の一つであり、ペルー料理の象徴と考えられています。",
+      "ingredients": [
+        "新鮮な白身魚 500g（ヒラメまたはスズキ）",
+        "ペルーライム 6-8 個",
+        "赤玉ねぎ 1 個（千切り）",
+        "アヒ・リモチリ 1 個（みじん切り）",
+        "新鮮なコリアンダー",
+        "塩・コショウ",
+        "茹でたサツマイモ",
+        "皮をむいたトウモロコシ"
+      ],
+      "instructions": [
+        "魚を約 2cm の角切りにする。",
+        "すぐにライム果汁と塩でマリネする。",
+        "玉ねぎ、チリ、みじん切りのコリアンダーを加える。",
+        "優しく混ぜて 2〜3 分休ませる。",
+        "サツマイモとトウモロコシを添えてすぐに出す。",
+        "焙煎したセラノーナトウモロコシを添える。"
+      ]
+    }
+  }
+}
