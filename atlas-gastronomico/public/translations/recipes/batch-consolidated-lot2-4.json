@@ -1,0 +1,666 @@
+{
+  "ital-001": {
+    "es": {
+      "nombre": "Pizza Napoletana",
+      "descripcion": "La auténtica pizza italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "Originaria de Nápoles en el siglo XVIII, la pizza Margherita fue creada en honor a la reina Margarita de Saboya en 1889, representando los colores de la bandera italiana.",
+      "ingredientes": [
+        "500g harina 00",
+        "325ml agua tibia",
+        "3g levadura fresca",
+        "10g sal marina",
+        "400g tomates San Marzano",
+        "250g mozzarella di bufala",
+        "Hojas de albahaca fresca",
+        "Aceite de oliva virgen extra"
+      ],
+      "instrucciones": [
+        "Mezclar harina, agua y levadura, amasar 10 minutos",
+        "Añadir sal y amasar hasta obtener masa suave",
+        "Dejar fermentar 24 horas en refrigeración",
+        "Estirar la masa a mano formando círculo",
+        "Triturar tomates y distribuir sobre la masa",
+        "Añadir mozzarella troceada",
+        "Hornear a 450°C durante 8-10 minutos",
+        "Decorar con albahaca y aceite de oliva"
+      ]
+    },
+    "en": {
+      "nombre": "Neapolitan Pizza",
+      "descripcion": "Authentic Italian pizza with thin crust, San Marzano tomatoes, buffalo mozzarella and fresh basil.",
+      "historia": "Originating in Naples in the 18th century, Margherita pizza was created in honor of Queen Margherita of Savoy in 1889, representing the colors of the Italian flag.",
+      "ingredientes": [
+        "500g 00 flour",
+        "325ml warm water",
+        "3g fresh yeast",
+        "10g sea salt",
+        "400g San Marzano tomatoes",
+        "250g buffalo mozzarella",
+        "Fresh basil leaves",
+        "Extra virgin olive oil"
+      ],
+      "instrucciones": [
+        "Mix flour, water and yeast, knead for 10 minutes",
+        "Add salt and knead until smooth dough",
+        "Let ferment 24 hours in refrigeration",
+        "Stretch dough by hand forming a circle",
+        "Crush tomatoes and spread over dough",
+        "Add torn mozzarella",
+        "Bake at 450°C for 8-10 minutes",
+        "Garnish with basil and olive oil"
+      ]
+    },
+    "zh": {
+      "nombre": "那不勒斯披萨",
+      "descripcion": "正宗意大利披萨，薄脆饼底，圣马尔扎诺番茄，水牛马苏里拉奶酪和新鲜罗勒。",
+      "historia": "起源于 18 世纪的那不勒斯，玛格丽特披萨于 1889 年为纪念萨伏依的玛格丽特女王而创制，代表意大利国旗的颜色。",
+      "ingredientes": [
+        "500 克 00 号面粉",
+        "325 毫升温水",
+        "3 克鲜酵母",
+        "10 克海盐",
+        "400 克圣马尔扎诺番茄",
+        "250 克水牛马苏里拉奶酪",
+        "新鲜罗勒叶",
+        "特级初榨橄榄油"
+      ],
+      "instrucciones": [
+        "混合面粉、水和酵母，揉面 10 分钟",
+        "加入盐揉至面团光滑",
+        "冷藏发酵 24 小时",
+        "手工将面团拉伸成圆形",
+        "捣碎番茄并涂抹在面团上",
+        "撒上撕碎的马苏里拉奶酪",
+        "450°C 烘烤 8-10 分钟",
+        "用罗勒和橄榄油装饰"
+      ]
+    },
+    "hi": {
+      "nombre": "नियोलिटन पिज्जा",
+      "descripcion": "पतली क्रस्ट, सैन मारज़ानो टमाटर, भैंस मोज़ेरेला और ताज़ा तुलसी के साथ प्रामाणिक इतालवी पिज्जा।",
+      "historia": "18वीं शताब्दी में नेपल्स में उत्पन्न, मार्घेरिटा पिज्जा 1889 में रानी मार्घेरिटा ऑफ सेवॉय के सम्मान में बनाया गया था, जो इतालवी झंडे के रंगों का प्रतिनिधित्व करता है।",
+      "ingredientes": [
+        "500g 00 आटा",
+        "325ml गुनगुना पानी",
+        "3g ताज़ा खमीर",
+        "10g समुद्री नमक",
+        "400g सैन मारज़ानो टमाटर",
+        "250g भैंस मोज़ेरेला",
+        "ताज़ा तुलसी के पत्ते",
+        "एक्स्ट्रा वर्जिन जैतून का तेल"
+      ],
+      "instrucciones": [
+        "आटा, पानी और खमीर मिलाएं, 10 मिनट तक गूंथें",
+        "नमक डालें और चिकना आटा होने तक गूंथें",
+        "24 घंटे रेफ्रिजरेशन में किण्वित करें",
+        "हाथ से आटा को गोलाकार फैलाएं",
+        "टमाटर को कुचलकर आटे पर फैलाएं",
+        "फटा हुआ मोज़ेरेला डालें",
+        "450°C पर 8-10 मिनट बेक करें",
+        "तुलसी और जैतून के तेल से सजाएं"
+      ]
+    },
+    "fr": {
+      "nombre": "Pizza Napolitaine",
+      "descripcion": "Véritable pizza italienne avec pâte fine, tomates San Marzano, mozzarella di bufala et basilic frais.",
+      "historia": "Originaire de Naples au XVIIIe siècle, la pizza Margherita a été créée en l'honneur de la reine Marguerite de Savoie en 1889, représentant les couleurs du drapeau italien.",
+      "ingredientes": [
+        "500g de farine 00",
+        "325ml d'eau tiède",
+        "3g de levure fraîche",
+        "10g de sel marin",
+        "400g de tomates San Marzano",
+        "250g de mozzarella di bufala",
+        "Feuilles de basilic frais",
+        "Huile d'olive extra vierge"
+      ],
+      "instrucciones": [
+        "Mélanger farine, eau et levure, pétrir 10 minutes",
+        "Ajouter le sel et pétrir jusqu'à obtenir une pâte lisse",
+        "Laisser fermenter 24 heures au réfrigérateur",
+        "Étirer la pâte à la main en formant un cercle",
+        "Écraser les tomates et étaler sur la pâte",
+        "Ajouter la mozzarella émiettée",
+        "Cuire à 450°C pendant 8-10 minutes",
+        "Garnir de basilic et d'huile d'olive"
+      ]
+    },
+    "ar": {
+      "nombre": "بيتزا نابولية",
+      "descripcion": "بيتزا إيطالية أصيلة بقشرة رقيقة وطماطم سان مارزانو وموزاريلا بافالو وريحان طازج.",
+      "historia": "نشأت في نابولي في القرن الثامن عشر، تم إنشاء بيتزا مارغريتا تكريماً للملكة مارغريتا من سافوي عام 1889، ممثلة ألوان العلم الإيطالي.",
+      "ingredientes": [
+        "500 جرام دقيق 00",
+        "325 مل ماء دافئ",
+        "3 جرام خميرة طازجة",
+        "10 جرام ملح بحر",
+        "400 جرام طماطم سان مارزانو",
+        "250 جرام موزاريلا بافالو",
+        "أوراق ريحان طازجة",
+        "زيت زيتون بكر ممتاز"
+      ],
+      "instrucciones": [
+        "اخلط الدقيق والماء والخميرة، اعجن لمدة 10 دقائق",
+        "أضف الملح واعجن حتى تحصل على عجينة ناعمة",
+        "اتركها تتخمر 24 ساعة في الثلاجة",
+        "افردي العجين باليد لتشكيل دائرة",
+        "اسحق الطماطم ووزعيها على العجين",
+        "أضيفي الموزاريلا الممزقة",
+        "اخبزيها على درجة حرارة 450 مئوية لمدة 8-10 دقائق",
+        "زيني بالريحان وزيت الزيتون"
+      ]
+    },
+    "bn": {
+      "nombre": "নেপোলিটান পিজ্জা",
+      "descripcion": "পাতলা ক্রাস্ট, স্যান মারজানো টমেটো, বাফালো মোজারেলা এবং তাজা তুলসী সহ প্রামাণিক ইতালীয় পিজ্জা।",
+      "historia": "১৮ শতকে নেপলসে উদ্ভূত, মার্ঘেরিতা পিজ্জা ১৮৮৯ সালে রানী মার্ঘেরিতা অফ সাভয়ের সম্মানে তৈরি করা হয়েছিল, যা ইতালীয় পতাকার রঙ প্রতিনিধিত্ব করে।",
+      "ingredientes": [
+        "৫০০ গ্রাম ০০ ময়দা",
+        "৩২৫ মিলি কুসুম গরম পানি",
+        "৩ গ্রাম তাজা ইস্ট",
+        "১০ গ্রাম সামুদ্রিক লবণ",
+        "৪০০ গ্রাম স্যান মারজানো টমেটো",
+        "২৫০ গ্রাম বাফালো মোজারেলা",
+        "তাজা তুলসী পাতা",
+        "এক্সট্রা ভার্জিন জলপাই তেল"
+      ],
+      "instrucciones": [
+        "ময়দা, পানি এবং ইস্ট মিশিয়ে ১০ মিনিট মাখুন",
+        "লবণ যোগ করে মসৃণ ময়দা হওয়া পর্যন্ত মাখুন",
+        "২৪ ঘণ্টা রেফ্রিজারেশনে গাঁজন দিন",
+        "হাত দিয়ে ময়দা বৃত্তাকারে ছড়িয়ে দিন",
+        "টমেটো বেটে ময়দার উপর ছড়িয়ে দিন",
+        "ছিঁড়ে ফেলা মোজারেলা যোগ করুন",
+        "৪৫০°সে তাপমাত্রায় ৮-১০ মিনিট বেক করুন",
+        "তুলসী এবং জলপাই তেল দিয়ে সাজান"
+      ]
+    },
+    "pt": {
+      "nombre": "Pizza Napolitana",
+      "descripcion": "Autêntica pizza italiana com massa fina, tomate San Marzano, mussarela de búfala e manjericão fresco.",
+      "historia": "Originária de Nápoles no século XVIII, a pizza Margherita foi criada em homenagem à rainha Margherita de Sabóia em 1889, representando as cores da bandeira italiana.",
+      "ingredientes": [
+        "500g farinha 00",
+        "325ml água morna",
+        "3g fermento fresco",
+        "10g sal marinho",
+        "400g tomates San Marzano",
+        "250g mussarela de búfala",
+        "Folhas de manjericão fresco",
+        "Azeite de oliva extra virgem"
+      ],
+      "instrucciones": [
+        "Misturar farinha, água e fermento, sovar por 10 minutos",
+        "Adicionar sal e sovar até obter massa lisa",
+        "Deixar fermentar 24 horas em refrigeração",
+        "Esticar a massa à mão formando círculo",
+        "Triturar tomates e distribuir sobre a massa",
+        "Adicionar mussarela desfiada",
+        "Assar a 450°C por 8-10 minutos",
+        "Decorar com manjericão e azeite"
+      ]
+    },
+    "ru": {
+      "nombre": "Неаполитанская пицца",
+      "descripcion": "Аутентичная итальянская пицца с тонким тестом, томатами Сан-Марцано, моцареллой из буйволиного молока и свежим базиликом.",
+      "historia": "Возникшая в Неаполе в 18 веке, пицца Маргарита была создана в честь королевы Маргариты Савойской в 1889 году, представляя цвета итальянского флага.",
+      "ingredientes": [
+        "500г муки типа 00",
+        "325мл теплой воды",
+        "3г свежих дрожжей",
+        "10г морской соли",
+        "400г томатов Сан-Марцано",
+        "250г моцареллы из буйволиного молока",
+        "Свежие листья базилика",
+        "Оливковое масло экстра вирджин"
+      ],
+      "instrucciones": [
+        "Смешать муку, воду и дрожжи, месить 10 минут",
+        "Добавить соль и месить до гладкого теста",
+        "Оставить бродить 24 часа в холодильнике",
+        "Растянуть тесто руками в круг",
+        "Раздавить томаты и распределить по тесту",
+        "Добавить порванную моцареллу",
+        "Выпекать при 450°C 8-10 минут",
+        "Украсить базиликом и оливковым маслом"
+      ]
+    },
+    "ur": {
+      "nombre": "نیپولٹن پیزا",
+      "descripcion": "پتلی کرسٹ، سین مارزانو ٹماٹر، بھینس کا موزاریلا اور تازی تولسی کے ساتھ اصلی اطالوی پیزا۔",
+      "historia": "اٹھارویں صدی میں نیپلز میں شروع ہونے والا، مارگریٹا پیزا 1889 میں ملکہ مارگریٹا آف ساوائے کے اعزاز میں بنایا گیا تھا، جو اطالوی جھنڈے کے رنگوں کی نمائندگی کرتا ہے۔",
+      "ingredientes": [
+        "500 گرام 00 آٹا",
+        "325 ملی لیٹر نیم گرم پانی",
+        "3 گرام تازہ خمیر",
+        "10 گرام سمندری نمک",
+        "400 گرام سین مارزانو ٹماٹر",
+        "250 گرام بھینس کا موزاریلا",
+        "تازہ تولسی کے پتے",
+        "ایکسٹرا ورجن زیتون کا تیل"
+      ],
+      "instrucciones": [
+        "آٹا، پانی اور خمیر ملائیں، 10 منٹ تک گوندھیں",
+        "نمک ڈالیں اور ہموار آٹا ہونے تک گوندھیں",
+        "24 گھنٹے فریج میں خمیر ہونے دیں",
+        "ہاتھ سے آٹے کو گولائی میں پھیلائیں",
+        "ٹماٹر کو پیس کر آٹے پر پھیلائیں",
+        "پھاڑا ہوا موزاریلا ڈالیں",
+        "450 ڈگری سینٹی گریڈ پر 8-10 منٹ بیک کریں",
+        "تولسی اور زیتون کے تیل سے سجائیں"
+      ]
+    },
+    "id": {
+      "nombre": "Pizza Neapolitan",
+      "descripcion": "Pizza Italia asli dengan adonan tipis, tomat San Marzano, mozzarella kerbau dan kemangi segar.",
+      "historia": "Berasal dari Naples pada abad ke-18, pizza Margherita diciptakan untuk menghormati Ratu Margherita dari Savoy pada tahun 1889, mewakili warna bendera Italia.",
+      "ingredientes": [
+        "500g tepung terigu 00",
+        "325ml air hangat",
+        "3g ragi segar",
+        "10g garam laut",
+        "400g tomat San Marzano",
+        "250g mozzarella kerbau",
+        "Daun kemangi segar",
+        "Minyak zaitun extra virgin"
+      ],
+      "instrucciones": [
+        "Campurkan tepung, air dan ragi, uleni selama 10 menit",
+        "Tambahkan garam dan uleni hingga adonan halus",
+        "Diamkan fermentasi 24 jam dalam lemari es",
+        "Bentang adonan dengan tangan membentuk lingkaran",
+        "Hancurkan tomat dan oleskan di atas adonan",
+        "Tambahkan mozzarella yang disobek",
+        "Panggang pada suhu 450°C selama 8-10 menit",
+        "Hiasi dengan kemangi dan minyak zaitun"
+      ]
+    },
+    "ja": {
+      "nombre": "ナポリピッツァ",
+      "descripcion": "薄いクラスト、サンマルツァーノトマト、水牛モッツァレラチーズ、新鮮なバジルを使った本格的なイタリアンピザ。",
+      "historia": "18 世紀にナポリで誕生したマルゲリータピザは、1889 年にサヴォイア王妃マルゲリータを讃えて作られ、イタリア国旗の色を表しています。",
+      "ingredientes": [
+        "500g 00 番粉",
+        "325ml ぬるま湯",
+        "3g 生イースト",
+        "10g 天然塩",
+        "400g サンマルツァーノトマト",
+        "250g 水牛モッツァレラチーズ",
+        "新鮮なバジルの葉",
+        "エキストラバージンオリーブオイル"
+      ],
+      "instrucciones": [
+        "粉、水、イーストを混ぜて 10 分間こねる",
+        "塩を加えて滑らかな生地になるまでこねる",
+        "冷蔵庫で 24 時間発酵させる",
+        "手で生地を円形に伸ばす",
+        "トマトを潰して生地に広げる",
+        "ちぎったモッツァレラチーズをのせる",
+        "450°C で 8〜10 分焼く",
+        "バジルとオリーブオイルで飾る"
+      ]
+    }
+  },
+  "mx-tacos-al-pastor": {
+    "es": {
+      "nombre": "Tacos al Pastor",
+      "descripcion": "Deliciosos tacos mexicanos de cerdo marinado con achiote, piña asada y cilantro fresco.",
+      "historia": "Los tacos al pastor surgieron en la Ciudad de México en los años 1960, influenciados por la técnica del shawarma libanés traído por inmigrantes árabes, adaptado con ingredientes mexicanos como el achiote y la piña.",
+      "ingredientes": [
+        "1kg lomo de cerdo en rebanadas delgadas",
+        "3 chiles guajillos secos",
+        "2 chiles anchos secos",
+        "1/4 taza vinagre blanco",
+        "1/4 taza jugo de naranja",
+        "3 dientes de ajo",
+        "1 cucharada achiote en pasta",
+        "1 piña fresca",
+        "Cebolla picada",
+        "Cilantro fresco",
+        "Tortillas de maíz",
+        "Limones"
+      ],
+      "instrucciones": [
+        "Hidratar chiles en agua caliente por 20 minutos",
+        "Licuar chiles con vinagre, jugo de naranja, ajo y achiote",
+        "Marinar el cerdo con la salsa por mínimo 4 horas",
+        "Colocar carne en trompo vertical o asador",
+        "Cocinar girando constantemente hasta dorar",
+        "Asar rodajas de piña",
+        "Cortar la carne en rebanadas delgadas",
+        "Servir en tortillas calientes con piña, cebolla y cilantro",
+        "Acompañar con limón y salsa"
+      ]
+    },
+    "en": {
+      "nombre": "Al Pastor Tacos",
+      "descripcion": "Delicious Mexican tacos with marinated pork, roasted pineapple and fresh cilantro.",
+      "historia": "Al Pastor tacos emerged in Mexico City in the 1960s, influenced by Lebanese shawarma technique brought by Arab immigrants, adapted with Mexican ingredients like achiote and pineapple.",
+      "ingredientes": [
+        "1kg pork loin in thin slices",
+        "3 dried guajillo chiles",
+        "2 dried ancho chiles",
+        "1/4 cup white vinegar",
+        "1/4 cup orange juice",
+        "3 garlic cloves",
+        "1 tablespoon achiote paste",
+        "1 fresh pineapple",
+        "Chopped onion",
+        "Fresh cilantro",
+        "Corn tortillas",
+        "Limes"
+      ],
+      "instrucciones": [
+        "Hydrate chiles in hot water for 20 minutes",
+        "Blend chiles with vinegar, orange juice, garlic and achiote",
+        "Marinate pork with sauce for minimum 4 hours",
+        "Place meat on vertical spit or rotisserie",
+        "Cook turning constantly until golden",
+        "Grill pineapple slices",
+        "Cut meat into thin slices",
+        "Serve on warm tortillas with pineapple, onion and cilantro",
+        "Accompany with lime and salsa"
+      ]
+    },
+    "zh": {
+      "nombre": "墨西哥牧师塔可",
+      "descripcion": "美味的墨西哥塔可，配腌猪肉、烤菠萝和新鲜香菜。",
+      "historia": "牧师塔可于 1960 年代在墨西哥城兴起，受阿拉伯移民带来的黎巴嫩沙威玛技术影响，采用墨西哥食材如胭脂树籽和菠萝改良而成。",
+      "ingredientes": [
+        "1 公斤猪里脊肉薄片",
+        "3 个干瓜希略辣椒",
+        "2 个干安乔辣椒",
+        "1/4 杯白醋",
+        "1/4 杯橙汁",
+        "3 瓣大蒜",
+        "1 汤匙胭脂树酱",
+        "1 个新鲜菠萝",
+        "切碎的洋葱",
+        "新鲜香菜",
+        "玉米饼",
+        "青柠"
+      ],
+      "instrucciones": [
+        "用热水浸泡辣椒 20 分钟",
+        "将辣椒与醋、橙汁、大蒜和胭脂树酱一起搅拌",
+        "用酱汁腌制猪肉至少 4 小时",
+        "将肉放在垂直烤肉叉或旋转烤架上",
+        "不断转动烤至金黄色",
+        "烤菠萝片",
+        "将肉切成薄片",
+        "放在热玉米饼上，配菠萝、洋葱和香菜",
+        "搭配青柠和莎莎酱"
+      ]
+    },
+    "hi": {
+      "nombre": "अल पास्तर टैकोस",
+      "descripcion": "मरीनेटेड सुअर मांस, भुने अनानास और ताजे धनिया के साथ स्वादिष्ट मैक्सिकन टैकोस।",
+      "historia": "अल पास्तर टैकोस 1960 के दशक में मेक्सिको सिटी में उभरे, अरब आप्रवासियों द्वारा लाए गए लेबनानी शवारमा तकनीक से प्रभावित, एचियोट और अनानास जैसे मैक्सिकन सामग्रियों के साथ अनुकूलित।",
+      "ingredientes": [
+        "1kg सूअर का मांस पतले टुकड़ों में",
+        "3 सूखे ग्वाजिलो मिर्च",
+        "2 सूखे एन्चो मिर्च",
+        "1/4 कप सफेद सिरका",
+        "1/4 कप संतरे का रस",
+        "3 लहसुन की कलियाँ",
+        "1 बड़ा चम्मच एचियोट पेस्ट",
+        "1 ताजा अनानास",
+        "कटा हुआ प्याज",
+        "ताजा धनिया",
+        "मक्के की टोरटियास",
+        "नींबू"
+      ],
+      "instrucciones": [
+        "मिर्च को 20 मिनट के लिए गर्म पानी में भिगोएं",
+        "मिर्च को सिरका, संतरे का रस, लहसुन और एचियोट के साथ ब्लेंड करें",
+        "सॉस के साथ सुअर का मांस कम से कम 4 घंटे मैरिनेट करें",
+        "मांस को लंबवत स्पिट या रोटीसेरी पर रखें",
+        "सुनहरा होने तक लगातार घुमाते हुए पकाएं",
+        "अनानास के टुकड़े ग्रिल करें",
+        "मांस को पतले टुकड़ों में काटें",
+        "गर्म टोरटियास पर अनानास, प्याज और धनिया के साथ परोसें",
+        "नींबू और सालसा के साथ परोसें"
+      ]
+    },
+    "fr": {
+      "nombre": "Tacos Al Pastor",
+      "descripcion": "Délicieux tacos mexicains avec porc mariné, ananas rôti et coriandre fraîche.",
+      "historia": "Les tacos al pastor sont apparus à Mexico dans les années 1960, influencés par la technique du shawarma libanais apportée par les immigrants arabes, adaptés avec des ingrédients mexicains comme l'achiote et l'ananas.",
+      "ingredientes": [
+        "1kg de longe de porc en tranches fines",
+        "3 piments guajillos secs",
+        "2 piments anchos secs",
+        "1/4 tasse de vinaigre blanc",
+        "1/4 tasse de jus d'orange",
+        "3 gousses d'ail",
+        "1 cuillère à soupe de pâte d'achiote",
+        "1 ananas frais",
+        "Oignon haché",
+        "Coriandre fraîche",
+        "Tortillas de maïs",
+        "Citrons verts"
+      ],
+      "instrucciones": [
+        "Hydrater les piments dans l'eau chaude pendant 20 minutes",
+        "Mixer les piments avec vinaigre, jus d'orange, ail et achiote",
+        "Mariner le porc avec la sauce pendant minimum 4 heures",
+        "Placer la viande sur broche verticale ou rôtissoire",
+        "Cuire en tournant constamment jusqu'à dorure",
+        "Griller des tranches d'ananas",
+        "Couper la viande en tranches fines",
+        "Servir sur tortillas chaudes avec ananas, oignon et coriandre",
+        "Accompagner de citron vert et de salsa"
+      ]
+    },
+    "ar": {
+      "nombre": "تاكو ألباستور",
+      "descripcion": "تاكو مكسيكي لذيذ مع لحم خنزير متبل وأناناس مشوي وكزبرة طازجة.",
+      "historia": "ظهر تاكو ألباستور في مكسيكو سيتي في الستينيات، متأثرًا بتقنية الشاورما اللبنانية التي جلبها المهاجرون العرب، مع تكييفه بمكونات مكسيكية مثل الأشيوت والأناناس.",
+      "ingredientes": [
+        "1 كجم لحم خنزير مقطع شرائح رقيقة",
+        "3 فلفل غواجيو مجفف",
+        "2 فلفل أنشو مجفف",
+        "1/4 كوب خل أبيض",
+        "1/4 كوب عصير برتقال",
+        "3 فصوص ثوم",
+        "1 ملعقة كبيرة معجون أشيوت",
+        "1 أناناسة طازجة",
+        "بصل مفروم",
+        "كزبرة طازجة",
+        "تورتيلا ذرة",
+        "ليمون"
+      ],
+      "instrucciones": [
+        "نقع الفلفل في الماء الساخن لمدة 20 دقيقة",
+        "اخلط الفلفل مع الخل وعصير البرتقال والثوم والأشيوت",
+        "تتبيل لحم الخنزير بالصلصة لمدة 4 ساعات على الأقل",
+        "ضع اللحم على سيخ عمودي أو مشواة دوارة",
+        "اطبخ مع التدوير المستمر حتى يصبح ذهبي اللون",
+        "اشوي شرائح الأناناس",
+        "اقطع اللحم إلى شرائح رقيقة",
+        "قدم على تورتيلا دافئة مع الأناناس والبصل والكزبرة",
+        "يقدم مع الليمون والصلصة"
+      ]
+    },
+    "bn": {
+      "nombre": "আল পাস্তর ট্যাকোস",
+      "descripcion": "ম্যারিনেটেড শুয়োরের মাংস, ভাজা আনারস এবং তাজা ধনেপাতা সহ সুস্বাদু মেক্সিকান ট্যাকোস।",
+      "historia": "আল পাস্তর ট্যাকোস ১৯৬০ এর দশকে মেক্সিকো সিটিতে উদ্ভূত হয়, আরব অভিবাসীদের আনা লেবাননি শওয়ারমা কৌশল দ্বারা প্রভাবিত, এচিওট এবং আনারসের মতো মেক্সিকান উপাদানের সাথে অভিযোজিত।",
+      "ingredientes": [
+        "১ কেজি শুয়োরের মাংস পাতলা টুকরো",
+        "৩টি শুকনো গুয়াজিলো মরিচ",
+        "২টি শুকনো আঞ্চো মরিচ",
+        "১/৪ কাপ সাদা ভিনেগার",
+        "১/৪ কাপ কমলার রস",
+        "৩ কোয়া রসুন",
+        "১ বড় চামচ এচিওট পেস্ট",
+        "১টি তাজা আনারস",
+        "কাটা পেঁয়াজ",
+        "তাজা ধনেপাতা",
+        "ভুট্টার টরটিয়াস",
+        "লেবু"
+      ],
+      "instrucciones": [
+        "মরিচ ২০ মিনিট গরম পানিতে ভিজিয়ে রাখুন",
+        "মরিচ ভিনেগার, কমলার রস, রসুন এবং এচিওটের সাথে ব্লেন্ড করুন",
+        "সস দিয়ে শুয়োরের মাংস কমপক্ষে ৪ ঘণ্টা ম্যারিনেট করুন",
+        "মাংস উল্লম্ব স্পিট বা রোটিসারিতে রাখুন",
+        "সোনালি হওয়া পর্যন্ত ঘুরাতে ঘুরাতে রান্না করুন",
+        "আনারসের টুকরো গ্রিল করুন",
+        "মাংস পাতলা টুকরো করে কাটুন",
+        "গরম টরটিয়াসে আনারস, পেঁয়াজ এবং ধনেপাতা সহ পরিবেশন করুন",
+        "লেবু এবং সালসা সহ পরিবেশন করুন"
+      ]
+    },
+    "pt": {
+      "nombre": "Tacos Al Pastor",
+      "descripcion": "Deliciosos tacos mexicanos com carne de porco marinada, abacaxi assado e coentro fresco.",
+      "historia": "Os tacos al pastor surgiram na Cidade do México nos anos 1960, influenciados pela técnica do shawarma libanês trazida por imigrantes árabes, adaptados com ingredientes mexicanos como achiote e abacaxi.",
+      "ingredientes": [
+        "1kg lombo de porco em fatias finas",
+        "3 pimentas guajillo secas",
+        "2 pimentas ancho secas",
+        "1/4 xícara vinagre branco",
+        "1/4 xícara suco de laranja",
+        "3 dentes de alho",
+        "1 colher de sopa pasta de achiote",
+        "1 abacaxi fresco",
+        "Cebola picada",
+        "Coentro fresco",
+        "Tortilhas de milho",
+        "Limões"
+      ],
+      "instrucciones": [
+        "Hidratar pimentas em água quente por 20 minutos",
+        "Bater pimentas com vinagre, suco de laranja, alho e achiote",
+        "Marinar a carne de porco com molho por mínimo 4 horas",
+        "Colocar carne em espeto vertical ou assadeira rotativa",
+        "Cozinhar girando constantemente até dourar",
+        "Grelhar fatias de abacaxi",
+        "Cortar carne em fatias finas",
+        "Servir em tortilhas quentes com abacaxi, cebola e coentro",
+        "Acompanhar com limão e salsa"
+      ]
+    },
+    "ru": {
+      "nombre": "Такос Аль Пастор",
+      "descripcion": "Вкусные мексиканские такос с маринованной свининой, жареным ананасом и свежей кинзой.",
+      "historia": "Такос аль пастор появились в Мехико в 1960-х годах, под влиянием ливанской техники шаурмы, привезенной арабскими иммигрантами, адаптированной с мексиканскими ингредиентами как ачиоте и ананас.",
+      "ingredientes": [
+        "1кг свиной вырезки тонкими ломтиками",
+        "3 сушеных чили гуахильо",
+        "2 сушеных чили анчо",
+        "1/4 стакана белого уксуса",
+        "1/4 стакана апельсинового сока",
+        "3 зубчика чеснока",
+        "1 столовая ложка пасты ачиоте",
+        "1 свежий ананас",
+        "Нарезанный лук",
+        "Свежая кинза",
+        "Кукурузные тортильи",
+        "Лаймы"
+      ],
+      "instrucciones": [
+        "Замочить чили в горячей воде на 20 минут",
+        "Смешать чили с уксусом, апельсиновым соком, чесноком и ачиоте",
+        "Мариновать свинину с соусом минимум 4 часа",
+        "Поместить мясо на вертикальный вертел или ротиссер",
+        "Готовить постоянно переворачивая до золотистости",
+        "Поджарить ломтики ананаса",
+        "Нарезать мясо тонкими ломтиками",
+        "Подавать на теплых тортильях с ананасом, луком и кинзой",
+        "Подавать с лаймом и сальсой"
+      ]
+    },
+    "ur": {
+      "nombre": "ال پاستور ٹیکوس",
+      "descripcion": "میرینیٹڈ سور کا گوشت، بھنا ہوا انناس اور تازہ دھنیے کے ساتھ مزیدار میکسیکن ٹیکوس۔",
+      "historia": "ال پاستور ٹیکوس 1960 کی دہائی میں میکسیکو شہر میں ابھرے، عرب تارکین وطن کے لائے ہوئے لبنانی شوارما تکنیک سے متاثر، ایچیوٹ اور انناس جیسی میکسیکن اجزاء کے ساتھ ڈھالا گیا۔",
+      "ingredientes": [
+        "1 کلو سور کا گوشت پتلیSliceوں میں",
+        "3 خشک گواجیلو مرچ",
+        "2 خشک آنچو مرچ",
+        "1/4 کپ سفید سرکہ",
+        "1/4 کپ مالٹے کا رس",
+        "3 لہسن کی کلیاں",
+        "1 کھانا چمچ ایچیوٹ پیسٹ",
+        "1 تازہ انناس",
+        "کٹا ہوا پیاز",
+        "تازہ دھنیا",
+        "مکئی کی ٹورٹیاس",
+        "لیموں"
+      ],
+      "instrucciones": [
+        "مرچ کو 20 منٹ کے لیے گرم پانی میں بھگوئیں",
+        "مرچ کو سرکہ، مالٹے کا رس، لہسن اور ایچیوٹ کے ساتھ بلینڈ کریں",
+        "سور کے گوشت کو کم از کم 4 گھنٹے سوس میں میرینیٹ کریں",
+        "گوشت کو عمودی سپٹ یا روٹیسری پر رکھیں",
+        "سنہری ہونے تک مسلسل گھماتے ہوئے پکائیں",
+        "انناس کے ٹکڑے گرل کریں",
+        "گوشت کو پتلیSliceوں میں کاٹیں",
+        "گرم ٹورٹیاس پر انناس، پیاز اور دھنیے کے ساتھ پیش کریں",
+        "لیموں اور سالسا کے ساتھ پیش کریں"
+      ]
+    },
+    "id": {
+      "nombre": "Tacos Al Pastor",
+      "descripcion": "Taco Meksiko lezat dengan daging babi marinasi, nanas panggang dan ketumbar segar.",
+      "historia": "Tacos al pastor muncul di Kota Meksiko pada tahun 1960-an, dipengaruhi oleh teknik shawarma Lebanon yang dibawa oleh imigran Arab, diadaptasi dengan bahan Meksiko seperti achiote dan nanas.",
+      "ingredientes": [
+        "1kg daging babi iris tipis",
+        "3 cabai guajillo kering",
+        "2 cabai ancho kering",
+        "1/4 cuka putih",
+        "1/4 jus jeruk",
+        "3 siung bawang putih",
+        "1 sendok makan pasta achiote",
+        "1 nanas segar",
+        "Bawang cincang",
+        "Ketumbar segar",
+        "Tortilla jagung",
+        "Jeruk nipis"
+      ],
+      "instrucciones": [
+        "Rendam cabai dalam air panas selama 20 menit",
+        "Blender cabai dengan cuka, jus jeruk, bawang putih dan achiote",
+        "Marinasi daging babi dengan saus minimal 4 jam",
+        "Letakkan daging di tusuk vertikal atau rotisserie",
+        "Masak sambil terus diputar sampai keemasan",
+        "Panggang irisan nanas",
+        "Potong daging menjadi irisan tipis",
+        "Sajikan di tortilla hangat dengan nanas, bawang dan ketumbar",
+        "Sajikan dengan jeruk nipis dan salsa"
+      ]
+    },
+    "ja": {
+      "nombre": "アルパストールタコス",
+      "descripcion": "マリネした豚肉、焼きパイナップル、新鮮なコリアンダーを使った美味しいメキシコ風タコス。",
+      "historia": "アルパストールタコスは 1960 年代にメキシコシティで登場し、アラブ系移民がもたらしたレバノンのシャワルマ技術の影響を受け、アチョーテやパイナップルなどのメキシコ食材に適応されました。",
+      "ingredientes": [
+        "豚ロース肉 1kg（薄切り）",
+        "乾燥グアヒーリョ唐辛子 3 本",
+        "乾燥アンチョ唐辛子 2 本",
+        "白酢大さじ 4",
+        "オレンジジュース大さじ 4",
+        "にんにく 3 片",
+        "アチョーテペースト大さじ 1",
+        "新鮮なパイナップル 1 個",
+        "みじん切り玉ねぎ",
+        "新鮮なコリアンダー",
+        "コーントルティーヤ",
+        "ライム"
+      ],
+      "instrucciones": [
+        "唐辛子を 20 分間お湯に浸す",
+        "唐辛子を酢、オレンジジュース、にんにく、アチョーテと一緒にブレンダーにかける",
+        "豚肉をソースに最低 4 時間マリネする",
+        "肉を垂直スピットまたはロティサリーにセットする",
+        "きつね色になるまで回転させながら調理する",
+        "パイナップルのスライスをグリルする",
+        "肉を薄くスライスする",
+        "温めたトルティーヤにパイナップル、玉ねぎ、コリアンダーをのせて提供する",
+        "ライムとサルサを添える"
+      ]
+    }
+  }
+}

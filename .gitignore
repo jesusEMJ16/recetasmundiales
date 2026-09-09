@@ -1,2 +1,2 @@
-# Translations backup/consolidated files
-atlas-gastronomico/public/translations/recipes/batch-consolidated-*.json
+# Translations
+atlas-gastronomico/public/translations/*.json
