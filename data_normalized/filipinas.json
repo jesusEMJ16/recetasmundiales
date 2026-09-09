@@ -40,7 +40,7 @@
       "nacional",
       "marinado"
     ],
-    "image": "",
+    "image": "/images/recipes/filipinas/adobo-filipino-(pollo-o-cerdo-en-vinagre-y-soja).jpg",
     "region": "Luzón",
     "city": "Manila",
     "coordinates": [
@@ -91,7 +91,7 @@
       "filipinas",
       "comfort"
     ],
-    "image": "",
+    "image": "/images/recipes/filipinas/sinigang-(sopa-ácida-de-tamarindo).jpg",
     "region": "Luzón",
     "city": "Manila",
     "coordinates": [
@@ -141,7 +141,7 @@
       "filipinas",
       "crujiente"
     ],
-    "image": "",
+    "image": "/images/recipes/filipinas/lechón-asado-(cerdo-entero-a-la-parrilla).jpg",
     "region": "Visayas",
     "city": "Cebú",
     "coordinates": [
@@ -193,7 +193,7 @@
       "filipinas",
       "refrescante"
     ],
-    "image": "",
+    "image": "/images/recipes/filipinas/halo-halo-(postre-mezclado-de-hielo).jpg",
     "region": "Nacional",
     "city": "Manila",
     "coordinates": [
@@ -247,7 +247,7 @@
       "filipinas",
       "fiesta"
     ],
-    "image": "",
+    "image": "/images/recipes/filipinas/lumpiang-shanghai-(rollitos-fritos-filipinos).jpg",
     "region": "Luzón",
     "city": "Manila",
     "coordinates": [

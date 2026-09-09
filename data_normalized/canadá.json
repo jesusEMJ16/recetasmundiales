@@ -30,7 +30,7 @@
       "quebec",
       "confort"
     ],
-    "image": "",
+    "image": "/images/recipes/canadá/poutine.jpg",
     "region": "Quebec",
     "city": "",
     "coordinates": [
@@ -74,7 +74,7 @@
       "quebec",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/canadá/tourtière.jpg",
     "region": "Quebec",
     "city": "",
     "coordinates": [
@@ -113,7 +113,7 @@
       "pacifico",
       "indigena"
     ],
-    "image": "",
+    "image": "/images/recipes/canadá/salmon-ahumado-de-british-columbia.jpg",
     "region": "British Columbia",
     "city": "",
     "coordinates": [
@@ -152,7 +152,7 @@
       "dulce",
       "ontario"
     ],
-    "image": "",
+    "image": "/images/recipes/canadá/butter-tart.jpg",
     "region": "Ontario",
     "city": "",
     "coordinates": [
@@ -191,7 +191,7 @@
       "coco",
       "bc"
     ],
-    "image": "",
+    "image": "/images/recipes/canadá/nanaimo-bars.jpg",
     "region": "British Columbia",
     "city": "",
     "coordinates": [

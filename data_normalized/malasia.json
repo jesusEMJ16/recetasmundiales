@@ -47,7 +47,7 @@
       "nacional",
       "desayuno"
     ],
-    "image": "",
+    "image": "/images/recipes/malasia/nasi-lemak-(arroz-en-leche-de-coco).jpg",
     "region": "Peninsular",
     "city": "Kuala Lumpur",
     "coordinates": [
@@ -102,7 +102,7 @@
       "malasia",
       "callejero"
     ],
-    "image": "",
+    "image": "/images/recipes/malasia/char-kway-teow-(fideos-salteados-wok).jpg",
     "region": "Penang",
     "city": "George Town",
     "coordinates": [
@@ -156,7 +156,7 @@
       "malasia",
       "mani"
     ],
-    "image": "",
+    "image": "/images/recipes/malasia/satay-malasio-con-salsa-de-maní.jpg",
     "region": "Johor",
     "city": "Johor Bahru",
     "coordinates": [
@@ -216,7 +216,7 @@
       "penang",
       "peranakan"
     ],
-    "image": "",
+    "image": "/images/recipes/malasia/laksa-de-penang-(sopa-de-fideos-picante).jpg",
     "region": "Penang",
     "city": "George Town",
     "coordinates": [
@@ -271,7 +271,7 @@
       "malasia",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/malasia/cendol-(postre-de-hielo-con-gula-melaka).jpg",
     "region": "Nacional",
     "city": "Melaka",
     "coordinates": [

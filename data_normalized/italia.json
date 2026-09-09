@@ -31,7 +31,7 @@
       "tradicional",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/pizza-napoletana.jpg",
     "region": "Campania",
     "city": "Nápoles",
     "coordinates": [
@@ -71,7 +71,7 @@
       "huevos",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/pasta-carbonara.jpg",
     "region": "Lazio",
     "city": "Roma",
     "coordinates": [
@@ -113,7 +113,7 @@
       "azafran",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/risotto-alla-milanese.jpg",
     "region": "Lombardía",
     "city": "Milán",
     "coordinates": [
@@ -155,7 +155,7 @@
       "mascarpone",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/tiramisú.jpg",
     "region": "Véneto",
     "city": "Treviso",
     "coordinates": [
@@ -197,7 +197,7 @@
       "horno",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/lasagna-alla-bolognese.jpg",
     "region": "Emilia-Romaña",
     "city": "Bolonia",
     "coordinates": [
@@ -240,7 +240,7 @@
       "frito",
       "aperitivo"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/arancini-siciliani.jpg",
     "region": "Sicilia",
     "city": "Palermo",
     "coordinates": [
@@ -283,7 +283,7 @@
       "estofado",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/ossobuco-alla-milanese.jpg",
     "region": "Lombardía",
     "city": "Milán",
     "coordinates": [
@@ -324,7 +324,7 @@
       "pan",
       "vegetariano"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/bruschetta-al-pomodoro.jpg",
     "region": "Lazio",
     "city": "Roma",
     "coordinates": [
@@ -365,7 +365,7 @@
       "pistacho",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/gelato-artigianale.jpg",
     "region": "Sicilia",
     "city": "Catania",
     "coordinates": [
@@ -409,7 +409,7 @@
       "romero",
       "acompañamiento"
     ],
-    "image": "",
+    "image": "/images/recipes/italia/focaccia-genovese.jpg",
     "region": "Liguria",
     "city": "Génova",
     "coordinates": [

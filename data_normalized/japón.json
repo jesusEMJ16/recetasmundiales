@@ -41,7 +41,7 @@
       "crudo",
       "tokio"
     ],
-    "image": "",
+    "image": "/images/recipes/japón/sushi-nigiri.jpg",
     "region": "Nacional",
     "city": "Tokio",
     "coordinates": [
@@ -98,7 +98,7 @@
       "japon",
       "fideos"
     ],
-    "image": "",
+    "image": "/images/recipes/japón/ramen-tonkotsu.jpg",
     "region": "Kyushu",
     "city": "Fukuoka",
     "coordinates": [
@@ -151,7 +151,7 @@
       "japon",
       "crujiente"
     ],
-    "image": "",
+    "image": "/images/recipes/japón/tempura.jpg",
     "region": "Nacional",
     "city": "Tokio",
     "coordinates": [
@@ -200,7 +200,7 @@
       "japon",
       "yakiniku"
     ],
-    "image": "",
+    "image": "/images/recipes/japón/wagyu-a5-yakiniku.jpg",
     "region": "Kobe/Hyogo",
     "city": "Kobe",
     "coordinates": [
@@ -250,7 +250,7 @@
       "wagashi",
       "te"
     ],
-    "image": "",
+    "image": "/images/recipes/japón/matcha-wagashi.jpg",
     "region": "Kioto",
     "city": "Kioto",
     "coordinates": [

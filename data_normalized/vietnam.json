@@ -48,7 +48,7 @@
       "hanoi",
       "nacional"
     ],
-    "image": "",
+    "image": "/images/recipes/vietnam/pho-bo-(sopa-de-fideos-con-ternera).jpg",
     "region": "Norte",
     "city": "Hanoi",
     "coordinates": [
@@ -103,7 +103,7 @@
       "callejero",
       "fusion"
     ],
-    "image": "",
+    "image": "/images/recipes/vietnam/banh-mi.jpg",
     "region": "Sur",
     "city": "Ciudad Ho Chi Minh",
     "coordinates": [
@@ -158,7 +158,7 @@
       "saludable",
       "hierbas"
     ],
-    "image": "",
+    "image": "/images/recipes/vietnam/goi-cuon-(rollitos-de-primavera-frescos).jpg",
     "region": "Sur",
     "city": "Saigon",
     "coordinates": [
@@ -209,7 +209,7 @@
       "vietnam",
       "albondigas"
     ],
-    "image": "",
+    "image": "/images/recipes/vietnam/bun-cha-(cerdo-a-la-parrilla-con-fideos).jpg",
     "region": "Norte",
     "city": "Hanoi",
     "coordinates": [
@@ -262,7 +262,7 @@
       "vietnam",
       "cazuela"
     ],
-    "image": "",
+    "image": "/images/recipes/vietnam/ca-kho-to-(pescado-caramelizado-en-olla-de-barro).jpg",
     "region": "Sur",
     "city": "Can Tho (Delta del Mekong)",
     "coordinates": [

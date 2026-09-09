@@ -44,7 +44,7 @@
       "indonesia",
       "nacional"
     ],
-    "image": "",
+    "image": "/images/recipes/indonesia/nasi-goreng-(arroz-frito-indonesio).jpg",
     "region": "Java",
     "city": "Yakarta",
     "coordinates": [
@@ -96,7 +96,7 @@
       "indonesia",
       "lento"
     ],
-    "image": "",
+    "image": "/images/recipes/indonesia/rendang-(curry-seco-de-res-de-padang).jpg",
     "region": "Sumatra Occidental",
     "city": "Padang",
     "coordinates": [
@@ -148,7 +148,7 @@
       "indonesia",
       "callejero"
     ],
-    "image": "",
+    "image": "/images/recipes/indonesia/satay-(brochetas-a-la-parrilla-con-salsa-de-maní).jpg",
     "region": "Java",
     "city": "Surabaya",
     "coordinates": [
@@ -204,7 +204,7 @@
       "indonesia",
       "saludable"
     ],
-    "image": "",
+    "image": "/images/recipes/indonesia/gado-gado-(ensalada-indonesia-con-salsa-de-maní).jpg",
     "region": "Java",
     "city": "Yakarta",
     "coordinates": [
@@ -261,7 +261,7 @@
       "indonesia",
       "comfort"
     ],
-    "image": "",
+    "image": "/images/recipes/indonesia/soto-ayam-(sopa-de-pollo-indonesía).jpg",
     "region": "Java Oriental",
     "city": "Surabaya",
     "coordinates": [

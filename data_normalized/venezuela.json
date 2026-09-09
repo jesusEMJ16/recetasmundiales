@@ -32,7 +32,7 @@
       "diario",
       "venezolana"
     ],
-    "image": "",
+    "image": "/images/recipes/venezuela/arepa-rellena-venezolana.jpg",
     "region": "Todo el país",
     "city": "",
     "coordinates": [
@@ -73,7 +73,7 @@
       "caraotas",
       "criollo"
     ],
-    "image": "",
+    "image": "/images/recipes/venezuela/pabellón-criollo.jpg",
     "region": "Todo el país",
     "city": "",
     "coordinates": [
@@ -113,7 +113,7 @@
       "oriente",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/venezuela/cachapa-con-queso-de-mano.jpg",
     "region": "Oriente",
     "city": "",
     "coordinates": [
@@ -154,7 +154,7 @@
       "festivo",
       "familiar"
     ],
-    "image": "",
+    "image": "/images/recipes/venezuela/hallaca-navideña.jpg",
     "region": "Todo el país",
     "city": "",
     "coordinates": [
@@ -195,7 +195,7 @@
       "fiesta",
       "aperitivo"
     ],
-    "image": "",
+    "image": "/images/recipes/venezuela/tequeños.jpg",
     "region": "Los Teques",
     "city": "",
     "coordinates": [

@@ -33,7 +33,7 @@
       "tradicional",
       "geotérmico"
     ],
-    "image": "",
+    "image": "/images/recipes/nueva-zelanda/hangi.jpg",
     "region": "Rotorua",
     "city": "",
     "coordinates": [
@@ -76,7 +76,7 @@
       "crema",
       "clásico"
     ],
-    "image": "",
+    "image": "/images/recipes/nueva-zelanda/pavlova.jpg",
     "region": "Auckland",
     "city": "",
     "coordinates": [
@@ -119,7 +119,7 @@
       "marlborough",
       "endémico"
     ],
-    "image": "",
+    "image": "/images/recipes/nueva-zelanda/green-lipped-mussels.jpg",
     "region": "Marlborough Sounds",
     "city": "",
     "coordinates": [
@@ -161,7 +161,7 @@
       "domingo",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/nueva-zelanda/lamb-roast-with-mint-sauce.jpg",
     "region": "Canterbury",
     "city": "",
     "coordinates": [
@@ -199,7 +199,7 @@
       "postre",
       "icónico"
     ],
-    "image": "",
+    "image": "/images/recipes/nueva-zelanda/hokey-pokey-ice-cream.jpg",
     "region": "Taranaki",
     "city": "",
     "coordinates": [

@@ -34,7 +34,7 @@
       "nacional",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/goulash.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -78,7 +78,7 @@
       "queso",
       "popular"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/lángos.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -121,7 +121,7 @@
       "guiso",
       "familiar"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/chicken-paprikash.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -164,7 +164,7 @@
       "elegante",
       "repstería"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/dobos-torta.jpg",
     "region": "Budapest",
     "city": "",
     "coordinates": [
@@ -207,7 +207,7 @@
       "río",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/halászlé.jpg",
     "region": "Szeged",
     "city": "",
     "coordinates": [
@@ -250,7 +250,7 @@
       "festivo",
       "navidad"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/töltött-káposzta.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -293,7 +293,7 @@
       "navidad",
       "callejero"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/kürtőskalács.jpg",
     "region": "Transilvania",
     "city": "",
     "coordinates": [
@@ -335,7 +335,7 @@
       "ron",
       "nueces"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/somlói-galuska.jpg",
     "region": "Budapest",
     "city": "",
     "coordinates": [
@@ -378,7 +378,7 @@
       "verano",
       "refrescante"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/hideg-meleggyümölcsleves.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -420,7 +420,7 @@
       "horneado",
       "elegante"
     ],
-    "image": "",
+    "image": "/images/recipes/hungría/hortobágyi-hús.jpg",
     "region": "Hortobágy",
     "city": "",
     "coordinates": [

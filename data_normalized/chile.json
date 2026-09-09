@@ -32,7 +32,7 @@
       "tradicional",
       "verano"
     ],
-    "image": "",
+    "image": "/images/recipes/chile/pastel-de-choclo.jpg",
     "region": "Valle Central",
     "city": "",
     "coordinates": [
@@ -73,7 +73,7 @@
       "horno",
       "septiembre"
     ],
-    "image": "",
+    "image": "/images/recipes/chile/empanadas-de-pino.jpg",
     "region": "Todo el país",
     "city": "",
     "coordinates": [
@@ -114,7 +114,7 @@
       "campesino",
       "familiar"
     ],
-    "image": "",
+    "image": "/images/recipes/chile/cazuela-chilena.jpg",
     "region": "Todo el país",
     "city": "",
     "coordinates": [
@@ -155,7 +155,7 @@
       "vienesa",
       "palta"
     ],
-    "image": "",
+    "image": "/images/recipes/chile/completo-chileno.jpg",
     "region": "Todo el país",
     "city": "",
     "coordinates": [
@@ -195,7 +195,7 @@
       "ancestral",
       "comunitario"
     ],
-    "image": "",
+    "image": "/images/recipes/chile/curanto.jpg",
     "region": "Chiloé",
     "city": "",
     "coordinates": [

@@ -35,7 +35,7 @@
       "cerdo",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/méxico/tacos-al-pastor.jpg",
     "region": "Ciudad de México",
     "city": "",
     "coordinates": [
@@ -79,7 +79,7 @@
       "chocolate",
       "festivo"
     ],
-    "image": "",
+    "image": "/images/recipes/méxico/mole-poblano.jpg",
     "region": "Puebla",
     "city": "",
     "coordinates": [
@@ -121,7 +121,7 @@
       "maya",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/méxico/cochinita-pibil.jpg",
     "region": "Yucatán",
     "city": "",
     "coordinates": [
@@ -162,7 +162,7 @@
       "nogada",
       "festivo"
     ],
-    "image": "",
+    "image": "/images/recipes/méxico/chiles-en-nogada.jpg",
     "region": "Puebla",
     "city": "",
     "coordinates": [
@@ -202,7 +202,7 @@
       "pollo",
       "ligero"
     ],
-    "image": "",
+    "image": "/images/recipes/méxico/sopa-de-lima.jpg",
     "region": "Yucatán",
     "city": "",
     "coordinates": [

@@ -109,7 +109,7 @@
       "andalucía",
       "vegano"
     ],
-    "image": "",
+    "image": "/images/recipes/españa/gazpacho-andaluz.jpg",
     "region": "Andalucía",
     "city": "Sevilla",
     "coordinates": [
@@ -141,7 +141,7 @@
       "curado",
       "gourmet"
     ],
-    "image": "",
+    "image": "/images/recipes/españa/jamón-ibérico-de-bellota.jpg",
     "region": "Extremadura",
     "city": "Jabugo",
     "coordinates": [
@@ -181,7 +181,7 @@
       "chocolate",
       "desayuno"
     ],
-    "image": "",
+    "image": "/images/recipes/españa/churros-con-chocolate.jpg",
     "region": "Nacional",
     "city": "Madrid",
     "coordinates": [
@@ -216,7 +216,7 @@
       "galicia",
       "pescado"
     ],
-    "image": "",
+    "image": "/images/recipes/españa/pulpo-a-la-gallega.jpg",
     "region": "Galicia",
     "city": "O Carballiño",
     "coordinates": [
@@ -253,7 +253,7 @@
       "asturias",
       "guiso"
     ],
-    "image": "",
+    "image": "/images/recipes/españa/fabada-asturiana.jpg",
     "region": "Asturias",
     "city": "Oviedo",
     "coordinates": [
@@ -290,7 +290,7 @@
       "tomate",
       "andalucía"
     ],
-    "image": "",
+    "image": "/images/recipes/españa/salmorejo-cordobés.jpg",
     "region": "Andalucía",
     "city": "Córdoba",
     "coordinates": [
@@ -329,7 +329,7 @@
       "la mancha",
       "vegano"
     ],
-    "image": "",
+    "image": "/images/recipes/españa/pisto-manchego.jpg",
     "region": "La Mancha",
     "city": "Albacete",
     "coordinates": [
@@ -367,7 +367,7 @@
       "cataluña",
       "crema"
     ],
-    "image": "",
+    "image": "/images/recipes/españa/crema-catalana.jpg",
     "region": "Cataluña",
     "city": "Barcelona",
     "coordinates": [

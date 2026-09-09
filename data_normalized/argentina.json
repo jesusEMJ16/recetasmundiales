@@ -31,7 +31,7 @@
       "tradicional",
       "social"
     ],
-    "image": "",
+    "image": "/images/recipes/argentina/asado-criollo.jpg",
     "region": "Buenos Aires",
     "city": "",
     "coordinates": [
@@ -73,7 +73,7 @@
       "carne",
       "domingo"
     ],
-    "image": "",
+    "image": "/images/recipes/argentina/empanadas-salteñas.jpg",
     "region": "Salta",
     "city": "",
     "coordinates": [
@@ -115,7 +115,7 @@
       "rápido",
       "clásico"
     ],
-    "image": "",
+    "image": "/images/recipes/argentina/milanesa-napolitana.jpg",
     "region": "Buenos Aires",
     "city": "",
     "coordinates": [
@@ -157,7 +157,7 @@
       "andino",
       "festivo"
     ],
-    "image": "",
+    "image": "/images/recipes/argentina/locro.jpg",
     "region": "Noroeste",
     "city": "",
     "coordinates": [
@@ -194,7 +194,7 @@
       "tradicional",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/argentina/dulce-de-leche-casero.jpg",
     "region": "Todo el país",
     "city": "",
     "coordinates": [

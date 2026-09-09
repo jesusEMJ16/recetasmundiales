@@ -33,7 +33,7 @@
       "antioquia",
       "nacional"
     ],
-    "image": "",
+    "image": "/images/recipes/colombia/bandeja-paisa.jpg",
     "region": "Antioquia",
     "city": "",
     "coordinates": [
@@ -75,7 +75,7 @@
       "domingo",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/colombia/ajiaco-santafereño.jpg",
     "region": "Cundinamarca",
     "city": "",
     "coordinates": [
@@ -113,7 +113,7 @@
       "diario",
       "indígena"
     ],
-    "image": "",
+    "image": "/images/recipes/colombia/arepas-colombianas.jpg",
     "region": "Todo el país",
     "city": "",
     "coordinates": [
@@ -154,7 +154,7 @@
       "festivo",
       "patrimonio"
     ],
-    "image": "",
+    "image": "/images/recipes/colombia/lechona-tolimense.jpg",
     "region": "Tolima",
     "city": "",
     "coordinates": [
@@ -195,7 +195,7 @@
       "queso",
       "costeño"
     ],
-    "image": "",
+    "image": "/images/recipes/colombia/mote-de-queso.jpg",
     "region": "Costa Caribe",
     "city": "",
     "coordinates": [

@@ -34,7 +34,7 @@
       "nacional",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/ropa-vieja.jpg",
     "region": "La Habana",
     "city": "",
     "coordinates": [
@@ -78,7 +78,7 @@
       "nacional",
       "simbólico"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/moros-y-cristianos.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -121,7 +121,7 @@
       "navidad",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/lechón-asado.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -161,7 +161,7 @@
       "crujiente",
       "popular"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/tostones.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -205,7 +205,7 @@
       "pasas",
       "cotidiano"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/picadillo.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -247,7 +247,7 @@
       "naranja",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/yuca-con-mojo.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -288,7 +288,7 @@
       "huevo",
       "cremoso"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/flan-cubano.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -331,7 +331,7 @@
       "frito",
       "tapas"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/croquetas-de-jamón.jpg",
     "region": "La Habana",
     "city": "",
     "coordinates": [
@@ -375,7 +375,7 @@
       "espesa",
       "criollo"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/ajiaco.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [
@@ -414,7 +414,7 @@
       "ritual",
       "social"
     ],
-    "image": "",
+    "image": "/images/recipes/cuba/café-cubano.jpg",
     "region": "Nacional",
     "city": "",
     "coordinates": [

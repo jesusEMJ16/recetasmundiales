@@ -45,7 +45,7 @@
       "tomate",
       "crema"
     ],
-    "image": "",
+    "image": "/images/recipes/india/butter-chicken.jpg",
     "region": "Punjab",
     "city": "Delhi",
     "coordinates": [
@@ -98,7 +98,7 @@
       "india",
       "festival"
     ],
-    "image": "",
+    "image": "/images/recipes/india/biryani-de-cordero.jpg",
     "region": "Telangana",
     "city": "Hyderabad",
     "coordinates": [
@@ -151,7 +151,7 @@
       "papas",
       "crepe"
     ],
-    "image": "",
+    "image": "/images/recipes/india/masala-dosa.jpg",
     "region": "Tamil Nadu",
     "city": "Chennai",
     "coordinates": [
@@ -204,7 +204,7 @@
       "india",
       "saludable"
     ],
-    "image": "",
+    "image": "/images/recipes/india/palak-paneer.jpg",
     "region": "Punjab",
     "city": "Amritsar",
     "coordinates": [
@@ -253,7 +253,7 @@
       "leche",
       "frito"
     ],
-    "image": "",
+    "image": "/images/recipes/india/gulab-jamun.jpg",
     "region": "Nacional",
     "city": "Mumbai",
     "coordinates": [

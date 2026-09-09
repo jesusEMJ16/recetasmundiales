@@ -35,7 +35,7 @@
       "británico",
       "clásico"
     ],
-    "image": "",
+    "image": "/images/recipes/reino-unido/fish-and-chips.jpg",
     "region": "Inglaterra",
     "city": "",
     "coordinates": [
@@ -81,7 +81,7 @@
       "tradicional",
       "cordero"
     ],
-    "image": "",
+    "image": "/images/recipes/reino-unido/shepherd's-pie.jpg",
     "region": "Escocia",
     "city": "",
     "coordinates": [
@@ -126,7 +126,7 @@
       "huevos",
       "tocino"
     ],
-    "image": "",
+    "image": "/images/recipes/reino-unido/full-english-breakfast.jpg",
     "region": "Inglaterra",
     "city": "",
     "coordinates": [
@@ -172,7 +172,7 @@
       "especial",
       "hojaldre"
     ],
-    "image": "",
+    "image": "/images/recipes/reino-unido/beef-wellington.jpg",
     "region": "Inglaterra",
     "city": "",
     "coordinates": [
@@ -216,7 +216,7 @@
       "dátiles",
       "tradicional"
     ],
-    "image": "",
+    "image": "/images/recipes/reino-unido/sticky-toffee-pudding.jpg",
     "region": "Inglaterra",
     "city": "",
     "coordinates": [

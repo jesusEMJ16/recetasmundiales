@@ -33,7 +33,7 @@
       "otomano",
       "gaziantep"
     ],
-    "image": "",
+    "image": "/images/recipes/turquía/kebap.jpg",
     "region": "Gaziantep",
     "city": "",
     "coordinates": [
@@ -73,7 +73,7 @@
       "imperial",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/turquía/baklava-turco.jpg",
     "region": "Estambul",
     "city": "",
     "coordinates": [
@@ -117,7 +117,7 @@
       "egeo",
       "vegetariano"
     ],
-    "image": "",
+    "image": "/images/recipes/turquía/menemen.jpg",
     "region": "Egeo",
     "city": "",
     "coordinates": [
@@ -159,7 +159,7 @@
       "callejero",
       "sureste"
     ],
-    "image": "",
+    "image": "/images/recipes/turquía/lahmacun.jpg",
     "region": "Sanliurfa",
     "city": "",
     "coordinates": [
@@ -200,7 +200,7 @@
       "bursa",
       "clásico"
     ],
-    "image": "",
+    "image": "/images/recipes/turquía/iskender-kebap.jpg",
     "region": "Bursa",
     "city": "",
     "coordinates": [

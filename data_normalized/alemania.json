@@ -32,7 +32,7 @@
       "bávaro",
       "clásico"
     ],
-    "image": "",
+    "image": "/images/recipes/alemania/schnitzel.jpg",
     "region": "Baviera",
     "city": "",
     "coordinates": [
@@ -73,7 +73,7 @@
       "cerdo",
       "fermentado"
     ],
-    "image": "",
+    "image": "/images/recipes/alemania/bratwurst-mit-sauerkraut.jpg",
     "region": "Turinbia",
     "city": "",
     "coordinates": [
@@ -118,7 +118,7 @@
       "tradicional",
       "renano"
     ],
-    "image": "",
+    "image": "/images/recipes/alemania/sauerbraten.jpg",
     "region": "Renania",
     "city": "",
     "coordinates": [
@@ -160,7 +160,7 @@
       "acompañamiento",
       "vegetariano"
     ],
-    "image": "",
+    "image": "/images/recipes/alemania/spätzle.jpg",
     "region": "Suabia",
     "city": "",
     "coordinates": [
@@ -204,7 +204,7 @@
       "pastel",
       "selva negra"
     ],
-    "image": "",
+    "image": "/images/recipes/alemania/schwarzwälder-kirschtorte.jpg",
     "region": "Selva Negra",
     "city": "",
     "coordinates": [

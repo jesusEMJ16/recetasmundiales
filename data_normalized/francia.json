@@ -34,7 +34,7 @@
       "borgoña",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/coq-au-vin.jpg",
     "region": "Borgoña",
     "city": "Dijon",
     "coordinates": [
@@ -77,7 +77,7 @@
       "vegano",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/ratatouille.jpg",
     "region": "Provenza",
     "city": "Niza",
     "coordinates": [
@@ -120,7 +120,7 @@
       "paris",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/croissants.jpg",
     "region": "Isla de Francia",
     "city": "París",
     "coordinates": [
@@ -162,7 +162,7 @@
       "borgoña",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/boeuf-bourguignon.jpg",
     "region": "Borgoña",
     "city": "Beaune",
     "coordinates": [
@@ -205,7 +205,7 @@
       "lorena",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/quiche-lorraine.jpg",
     "region": "Lorena",
     "city": "Metz",
     "coordinates": [
@@ -246,7 +246,7 @@
       "bretaña",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/crêpes.jpg",
     "region": "Bretaña",
     "city": "Rennes",
     "coordinates": [
@@ -288,7 +288,7 @@
       "paris",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/soupe-à-l'oignon.jpg",
     "region": "Isla de Francia",
     "city": "París",
     "coordinates": [
@@ -329,7 +329,7 @@
       "paris",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/macarons-parisiens.jpg",
     "region": "Isla de Francia",
     "city": "París",
     "coordinates": [
@@ -371,7 +371,7 @@
       "occitania",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/cassoulet.jpg",
     "region": "Occitania",
     "city": "Toulouse",
     "coordinates": [
@@ -413,7 +413,7 @@
       "saboya",
       "plato principal"
     ],
-    "image": "",
+    "image": "/images/recipes/francia/tartiflette.jpg",
     "region": "Saboya",
     "city": "Chambéry",
     "coordinates": [

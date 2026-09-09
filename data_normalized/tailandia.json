@@ -45,7 +45,7 @@
       "callejero",
       "wok"
     ],
-    "image": "",
+    "image": "/images/recipes/tailandia/pad-thai.jpg",
     "region": "Central",
     "city": "Bangkok",
     "coordinates": [
@@ -96,7 +96,7 @@
       "hierbas",
       "agrio"
     ],
-    "image": "",
+    "image": "/images/recipes/tailandia/tom-yum-goong.jpg",
     "region": "Central",
     "city": "Bangkok",
     "coordinates": [
@@ -147,7 +147,7 @@
       "tailandia",
       "picante"
     ],
-    "image": "",
+    "image": "/images/recipes/tailandia/green-curry-(gaeng-keow-wan).jpg",
     "region": "Central",
     "city": "Bangkok",
     "coordinates": [
@@ -197,7 +197,7 @@
       "tailandia",
       "crudo"
     ],
-    "image": "",
+    "image": "/images/recipes/tailandia/som-tum-(ensalada-de-papaya).jpg",
     "region": "Noreste (Isan)",
     "city": "Udon Thani",
     "coordinates": [
@@ -243,7 +243,7 @@
       "tailandia",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/tailandia/mango-sticky-rice-(khao-niao-mamuang).jpg",
     "region": "Nacional",
     "city": "Chiang Mai",
     "coordinates": [

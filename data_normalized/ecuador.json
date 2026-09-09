@@ -32,7 +32,7 @@
       "limon",
       "playa"
     ],
-    "image": "",
+    "image": "/images/recipes/ecuador/ceviche-de-camarones-ecuatoriano.jpg",
     "region": "Costa",
     "city": "",
     "coordinates": [
@@ -74,7 +74,7 @@
       "sierra",
       "domingo"
     ],
-    "image": "",
+    "image": "/images/recipes/ecuador/llapingachos.jpg",
     "region": "Sierra",
     "city": "",
     "coordinates": [
@@ -115,7 +115,7 @@
       "resaca",
       "nacional"
     ],
-    "image": "",
+    "image": "/images/recipes/ecuador/encebollado.jpg",
     "region": "Costa",
     "city": "",
     "coordinates": [
@@ -157,7 +157,7 @@
       "cotopaxi",
       "feria"
     ],
-    "image": "",
+    "image": "/images/recipes/ecuador/hornado-panguense.jpg",
     "region": "Sierra",
     "city": "",
     "coordinates": [
@@ -198,7 +198,7 @@
       "inca",
       "festivo"
     ],
-    "image": "",
+    "image": "/images/recipes/ecuador/cuy-asado.jpg",
     "region": "Sierra",
     "city": "",
     "coordinates": [

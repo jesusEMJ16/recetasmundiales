@@ -36,7 +36,7 @@
       "tradicional",
       "griego"
     ],
-    "image": "",
+    "image": "/images/recipes/grecia/moussaka.jpg",
     "region": "Tesalia",
     "city": "",
     "coordinates": [
@@ -78,7 +78,7 @@
       "pollo",
       "callejero"
     ],
-    "image": "",
+    "image": "/images/recipes/grecia/souvlaki.jpg",
     "region": "Ática",
     "city": "",
     "coordinates": [
@@ -122,7 +122,7 @@
       "filo",
       "vegetariano"
     ],
-    "image": "",
+    "image": "/images/recipes/grecia/spanakopita.jpg",
     "region": "Epiro",
     "city": "",
     "coordinates": [
@@ -164,7 +164,7 @@
       "filo",
       "dulce"
     ],
-    "image": "",
+    "image": "/images/recipes/grecia/baklava.jpg",
     "region": "Islas Jónicas",
     "city": "",
     "coordinates": [
@@ -205,7 +205,7 @@
       "ajo",
       "acompañamiento"
     ],
-    "image": "",
+    "image": "/images/recipes/grecia/tzatziki.jpg",
     "region": "Macedonia",
     "city": "",
     "coordinates": [

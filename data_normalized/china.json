@@ -39,7 +39,7 @@
       "tradicional",
       "banquete"
     ],
-    "image": "",
+    "image": "/images/recipes/china/pato-laqueado-pekín.jpg",
     "region": "Beijing",
     "city": "Beijing",
     "coordinates": [
@@ -89,7 +89,7 @@
       "gambas",
       "cerdo"
     ],
-    "image": "",
+    "image": "/images/recipes/china/dim-sum-variados.jpg",
     "region": "Guangdong",
     "city": "Cantón",
     "coordinates": [
@@ -140,7 +140,7 @@
       "vegetariano opcional",
       "arroz"
     ],
-    "image": "",
+    "image": "/images/recipes/china/mapo-tofu.jpg",
     "region": "Sichuan",
     "city": "Chengdu",
     "coordinates": [
@@ -192,7 +192,7 @@
       "gambas",
       "wok"
     ],
-    "image": "",
+    "image": "/images/recipes/china/arroz-frito-yangzhou.jpg",
     "region": "Jiangsu",
     "city": "Yangzhou",
     "coordinates": [
@@ -242,7 +242,7 @@
       "tradicional",
       "loto"
     ],
-    "image": "",
+    "image": "/images/recipes/china/mooncakes.jpg",
     "region": "Nacional",
     "city": "Guangzhou",
     "coordinates": [

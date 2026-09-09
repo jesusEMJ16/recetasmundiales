@@ -34,7 +34,7 @@
       "rápido",
       "americano"
     ],
-    "image": "",
+    "image": "/images/recipes/estados-unidos/hamburguesa-clásica-americana.jpg",
     "region": "Medio Oeste",
     "city": "",
     "coordinates": [
@@ -78,7 +78,7 @@
       "confort",
       "sureño"
     ],
-    "image": "",
+    "image": "/images/recipes/estados-unidos/mac-and-cheese.jpg",
     "region": "Sur",
     "city": "",
     "coordinates": [
@@ -118,7 +118,7 @@
       "bbq",
       "memphis"
     ],
-    "image": "",
+    "image": "/images/recipes/estados-unidos/bbq-ribs.jpg",
     "region": "Sur",
     "city": "",
     "coordinates": [
@@ -162,7 +162,7 @@
       "mariscos",
       "boston"
     ],
-    "image": "",
+    "image": "/images/recipes/estados-unidos/clam-chowder.jpg",
     "region": "Noreste",
     "city": "",
     "coordinates": [
@@ -205,7 +205,7 @@
       "canela",
       "clásico"
     ],
-    "image": "",
+    "image": "/images/recipes/estados-unidos/apple-pie.jpg",
     "region": "Noreste",
     "city": "",
     "coordinates": [
