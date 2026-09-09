@@ -1,0 +1,212 @@
+[
+  {
+    "id": "tr-001",
+    "name": "Kebap",
+    "country": "Turquía",
+    "description": "Carne de cordero marinada y asada en brocheta vertical, servida en pan pita.",
+    "ingredients": [
+      "1kg de cordero en cubos",
+      "200g de grasa de cordero",
+      "1 cebolla rallada",
+      "2 dientes de ajo machacados",
+      "1 cucharadita de comino",
+      "1 cucharadita de pimentón",
+      "Sal y pimienta al gusto",
+      "Pan pita para servir"
+    ],
+    "instructions": [
+      "Mezclar carne con cebolla, ajo y especias",
+      "Marinar mínimo 2 horas en refrigeración",
+      "Ensartar carne alternando con grasa en brocheta vertical",
+      "Asar lentamente girando la brocheta",
+      "Cortar lonchas finas conforme se dora",
+      "Servir en pan pita con verduras",
+      "Acompañar con yogur y sumac"
+    ],
+    "prepTime": 120,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": [
+      "cordero",
+      "brocheta",
+      "parrilla",
+      "otomano",
+      "gaziantep"
+    ],
+    "image": "",
+    "region": "Gaziantep",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato otomano del siglo XIX. Gaziantep es considerada la capital mundial del kebap con más de 20 variedades regionales."
+  },
+  {
+    "id": "tr-002",
+    "name": "Baklava Turco",
+    "country": "Turquía",
+    "description": "Capas ultrafinas de masa yufka con pistachos y almíbar.",
+    "ingredients": [
+      "500g de masa yufka (filo turco)",
+      "300g de pistachos molidos",
+      "250g de mantequilla clarificada",
+      "Para almíbar: 400g de azúcar, 300ml de agua, jugo de ½ limón"
+    ],
+    "instructions": [
+      "Preparar almíbar hirviendo ingredientes 15 minutos",
+      "Extender capas de yufka engrasadas con mantequilla",
+      "Cada 5 capas, espolvorear pistachos",
+      "Repetir hasta terminar ingredientes",
+      "Cortar en diamantes antes de hornear",
+      "Hornear 160°C por 45-50 minutos",
+      "Verter almíbar frío sobre baklava caliente",
+      "Dejar absorber toda la noche"
+    ],
+    "prepTime": 90,
+    "servings": 20,
+    "difficulty": "Alta",
+    "tags": [
+      "postre",
+      "pistacho",
+      "yufka",
+      "imperial",
+      "dulce"
+    ],
+    "image": "",
+    "region": "Estambul",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Dulce imperial otomano servido en el Palacio Topkapi. Cada sultán tenía su propio maestro baklavacı."
+  },
+  {
+    "id": "tr-003",
+    "name": "Menemen",
+    "country": "Turquía",
+    "description": "Revuelto de huevos con tomates, pimientos y especias turcas.",
+    "ingredients": [
+      "6 huevos",
+      "4 tomates maduros picados",
+      "2 pimientos verdes picados",
+      "1 cebolla picada (opcional)",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharadita de pimentón turco",
+      "Sal y pimienta al gusto",
+      "Perejil fresco para decorar"
+    ],
+    "instructions": [
+      "Calentar aceite y sofreír pimientos",
+      "Agregar cebolla si se usa, cocinar hasta transparente",
+      "Añadir tomates y cocinar hasta reducir líquido",
+      "Sazonar con pimentón, sal y pimienta",
+      "Batir huevos ligeramente y verter sobre verduras",
+      "Remover suavemente hasta cuajar parcialmente",
+      "Servir inmediatamente con pan turco",
+      "Decorar con perejil fresco"
+    ],
+    "prepTime": 15,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": [
+      "huevos",
+      "tomate",
+      "desayuno",
+      "egeo",
+      "vegetariano"
+    ],
+    "image": "",
+    "region": "Egeo",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Desayuno tradicional del Egeo. El nombre viene del pueblo de Menemen cerca de İzmir."
+  },
+  {
+    "id": "tr-004",
+    "name": "Lahmacun",
+    "country": "Turquía",
+    "description": "Pizza turca fina con carne picada, verduras y especias.",
+    "ingredients": [
+      "Para masa: 500g de harina, 300ml de agua tibia, levadura, sal",
+      "Para topping: 300g de cordero picado",
+      "2 tomates picados",
+      "2 pimientos rojos picados",
+      "1 cebolla picada",
+      "Perejil fresco picado",
+      "Comino, pimentón, sal"
+    ],
+    "instructions": [
+      "Preparar masa y dejar levar 1 hora",
+      "Dividir en 8 bolas y estirar muy finas",
+      "Mezclar carne con verduras picadas finamente",
+      "Sazonar generosamente con especias",
+      "Extender mezcla sobre cada masa",
+      "Hornear a máxima temperatura 10-12 minutos",
+      "Servir con limón, perejil y ayran"
+    ],
+    "prepTime": 45,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": [
+      "carne",
+      "masa fina",
+      "horno",
+      "callejero",
+      "sureste"
+    ],
+    "image": "",
+    "region": "Sanliurfa",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Originario del sureste de Turquía. Su nombre significa 'carne con masa' en árabe. Es comida callejera popular desde el Imperio Otomano."
+  },
+  {
+    "id": "tr-005",
+    "name": "Iskender Kebap",
+    "country": "Turquía",
+    "description": "Lonchas de döner sobre pan pita, bañadas en salsa de tomate y mantequilla.",
+    "ingredients": [
+      "500g de carne de cordero para döner",
+      "4 panes pita",
+      "200g de yogur griego",
+      "Para salsa: 200g de tomate triturado, 100g de mantequilla",
+      "Pimienta de Alepo al gusto"
+    ],
+    "instructions": [
+      "Cortar pan pita en cuadrados y tostar",
+      "Preparar döner o usar carne asada en lonchas finas",
+      "Colocar pan en plato, cubrir con carne",
+      "Preparar salsa de tomate caliente",
+      "Derretir mantequilla hasta dorar",
+      "Verter salsa de tomate sobre carne",
+      "Rociar con mantequilla dorada",
+      "Servir con yogur al lado"
+    ],
+    "prepTime": 30,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "cordero",
+      "döner",
+      "salsa",
+      "bursa",
+      "clásico"
+    ],
+    "image": "",
+    "region": "Bursa",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Creado en 1867 por İskender Efendi en Bursa. Fue el primero en servir kebap horizontalmente en lugar de vertical."
+  }
+]

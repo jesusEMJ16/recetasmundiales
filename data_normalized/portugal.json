@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pt-001",
+    "name": "Bacalhau à Brás",
+    "country": "Portugal",
+    "description": "Bacalao desmenuzado con papas fritas en tiras, huevos revueltos y aceitunas negras.",
+    "ingredients": [
+      "500g de bacalao salado",
+      "4 papas medianas",
+      "6 huevos",
+      "2 cebollas picadas",
+      "3 dientes de ajo",
+      "Aceite de oliva virgen extra",
+      "Aceitunas negras para decorar",
+      "Perejil fresco picado"
+    ],
+    "instructions": [
+      "Desalar bacalao 24 horas antes, cambiando agua varias veces",
+      "Cocinar bacalao y desmenuzar sin espinas",
+      "Cortar papas en tiras finas y freír hasta crujientes",
+      "Sofreír cebolla y ajo en aceite abundante",
+      "Agregar bacalao y mezclar",
+      "Batir huevos y verter sobre mezcla, removiendo constantemente",
+      "Incorporar papas fritas al final",
+      "Servir con aceitunas y perejil"
+    ],
+    "prepTime": 30,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "bacalao",
+      "huevos",
+      "papas",
+      "tradicional",
+      "lisboeta"
+    ],
+    "image": "",
+    "region": "Lisboa",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato lisboeta del siglo XIX creado en tabernas populares. El nombre 'Brás' podría venir de un familia que lo popularizó."
+  },
+  {
+    "id": "pt-002",
+    "name": "Pastéis de Nata",
+    "country": "Portugal",
+    "description": "Tartaletas de hojaldre con crema de yema caramelizada.",
+    "ingredients": [
+      "1 lámina de masa de hojaldre",
+      "250ml de leche",
+      "200g de azúcar",
+      "50g de harina",
+      "6 yemas de huevo",
+      "1 rama de canela",
+      "Cáscara de 1 limón",
+      "Azúcar y canela para espolvorear"
+    ],
+    "instructions": [
+      "Hervir leche con canela y cáscara de limón",
+      "Mezclar azúcar y harina, agregar leche caliente",
+      "Cocinar hasta espesar como natilla",
+      "Retirar del fuego e incorporar yemas una a una",
+      "Extender hojaldre y cortar círculos",
+      "Forzar moldes pequeños con masa",
+      "Rellenar con crema y hornear 220°C por 15-20 minutos",
+      "Espolvorear con canela y azúcar glass"
+    ],
+    "prepTime": 60,
+    "servings": 12,
+    "difficulty": "Alta",
+    "tags": [
+      "postre",
+      "hojaldre",
+      "crema",
+      "yema",
+      "dulce"
+    ],
+    "image": "",
+    "region": "Lisboa",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Creados por monjes jerónimos en el Monasterio dos Jerónimos (siglo XVIII). La receta secreta se vende desde 1837 en Pastéis de Belém."
+  },
+  {
+    "id": "pt-003",
+    "name": "Caldo Verde",
+    "country": "Portugal",
+    "description": "Sopa cremosa de papas con col portuguesa y chorizo.",
+    "ingredients": [
+      "500g de papas",
+      "300g de col portuguesa (couve-galega)",
+      "200g de chorizo portugués",
+      "1 cebolla picada",
+      "3 dientes de ajo",
+      "1 litro de caldo de verduras",
+      "Aceite de oliva virgen extra",
+      "Sal al gusto"
+    ],
+    "instructions": [
+      "Pelar y cortar papas en rodajas finas",
+      "Cocinar papas con cebolla y ajo en caldo",
+      "Triturar hasta obtener crema suave",
+      "Cortar col en tiras muy finas",
+      "Añadir col a la sopa y cocinar 10 minutos",
+      "Cortar chorizo en rodajas y dorar",
+      "Servir sopa caliente con chorizo encima",
+      "Regar con aceite de oliva crudo"
+    ],
+    "prepTime": 20,
+    "servings": 6,
+    "difficulty": "Fácil",
+    "tags": [
+      "sopa",
+      "papas",
+      "col",
+      "chorizo",
+      "confort"
+    ],
+    "image": "",
+    "region": "Minho",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Sopa campesina del norte de Portugal, servida en fiestas y celebraciones desde hace siglos."
+  },
+  {
+    "id": "pt-004",
+    "name": "Francesinha",
+    "country": "Portugal",
+    "description": "Sándwich multicapa con carne, queso fundido y salsa picante de cerveza y tomate.",
+    "ingredients": [
+      "4 rebanadas de pan de molde",
+      "200g de jamón cocido",
+      "200g de linguiça o chorizo",
+      "200g de bistec de cerdo",
+      "4 lonchas de queso tipo edam",
+      "Para salsa: 200ml de cerveza, 200g de tomate triturado, 1 cebolla, 1 guindilla",
+      "Papas fritas para acompañar"
+    ],
+    "instructions": [
+      "Tostar ligeramente el pan",
+      "Montar capas: pan, jamón, linguiça, bistec, queso",
+      "Cerrar con otra rebanada de pan",
+      "Preparar salsa: sofreír cebolla, añadir tomate, cerveza y guindilla",
+      "Cocinar salsa 15 minutos y triturar",
+      "Colocar sándwich en fuente, cubrir con salsa y queso",
+      "Gratinar en horno hasta burbujear",
+      "Servir con papas fritas"
+    ],
+    "prepTime": 30,
+    "servings": 2,
+    "difficulty": "Media",
+    "tags": [
+      "sándwich",
+      "queso",
+      "carne",
+      "oporto",
+      "picante"
+    ],
+    "image": "",
+    "region": "Norte",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Creada en los años 1950 en Oporto por Daniel David Silva, inspirada en el croque-monsieur francés."
+  },
+  {
+    "id": "pt-005",
+    "name": "Arroz de Pato",
+    "country": "Portugal",
+    "description": "Arroz meloso con pato confitado, chorizo y hierbas aromáticas.",
+    "ingredients": [
+      "1 pato entero (aprox. 2kg)",
+      "300g de arroz bomba",
+      "150g de chorizo en rodajas",
+      "2 cebollas picadas",
+      "4 dientes de ajo",
+      "1 litro de caldo de pato",
+      "2 hojas de laurel",
+      "Vino blanco seco",
+      "Aceite de oliva"
+    ],
+    "instructions": [
+      "Sazonar pato y asar 1 hora a 180°C",
+      "Desmenuzar carne reservando piel crujiente",
+      "Sofreír cebolla y ajo, añadir arroz",
+      "Agregar caldo caliente gradualmente",
+      "Incorporar pato desmenuzado y chorizo",
+      "Cocinar 20 minutos hasta arroz meloso",
+      "Hornear 10 minutos para gratinar",
+      "Servir con piel crujiente por encima"
+    ],
+    "prepTime": 40,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": [
+      "pato",
+      "arroz",
+      "horno",
+      "tradicional",
+      "ribatejo"
+    ],
+    "image": "",
+    "region": "Ribatejo",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato tradicional del Ribatejo, región de cultivo de arroz y caza de patos silvestres."
+  }
+]

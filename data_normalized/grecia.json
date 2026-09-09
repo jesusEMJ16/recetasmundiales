@@ -1,0 +1,217 @@
+[
+  {
+    "id": "gr-001",
+    "name": "Moussaka",
+    "country": "Grecia",
+    "description": "Lasaña griega de berenjenas con carne picada y salsa bechamel gratinada.",
+    "ingredients": [
+      "3 berenjenas grandes",
+      "500g de carne de cordero molida",
+      "1 cebolla picada",
+      "2 dientes de ajo",
+      "400g de tomate triturado",
+      "50g de mantequilla",
+      "50g de harina",
+      "500ml de leche",
+      "100g de queso parmesano rallado",
+      "Aceite de oliva virgen extra"
+    ],
+    "instructions": [
+      "Cortar berenjenas en rodajas, salar y dejar sudar 30 minutos",
+      "Freír berenjenas hasta dorar y escurrir",
+      "Sofreír cebolla y ajo, agregar carne y cocinar",
+      "Añadir tomate y cocinar 20 minutos",
+      "Preparar bechamel: derretir mantequilla, añadir harina y leche gradualmente",
+      "Montar capas: berenjena, carne, berenjena, bechamel",
+      "Espolvorear parmesano y hornear 180°C por 45 minutos",
+      "Dejar reposar 15 minutos antes de servir"
+    ],
+    "prepTime": 60,
+    "servings": 8,
+    "difficulty": "Alta",
+    "tags": [
+      "berenjena",
+      "cordero",
+      "horno",
+      "tradicional",
+      "griego"
+    ],
+    "image": "",
+    "region": "Tesalia",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato tradicional con raíces otomanas. La versión moderna con bechamel fue creada por el chef Nikolaos Tselementes en los años 1920."
+  },
+  {
+    "id": "gr-002",
+    "name": "Souvlaki",
+    "country": "Grecia",
+    "description": "Brochetas de carne marinada a la parrilla, servidas con pan pita y tzatziki.",
+    "ingredients": [
+      "600g de cerdo o pollo en cubos",
+      "3 cucharadas de aceite de oliva",
+      "Jugo de 1 limón",
+      "2 dientes de ajo machacados",
+      "1 cucharadita de orégano seco",
+      "Sal y pimienta al gusto",
+      "4 panes pita",
+      "Tzatziki para servir"
+    ],
+    "instructions": [
+      "Marinar carne con aceite, limón, ajo y orégano 2 horas",
+      "Ensartar carne en brochetas de madera remojadas",
+      "Precalentar parrilla a fuego alto",
+      "Asar brochetas 10-12 minutos girando ocasionalmente",
+      "Calentar pan pita brevemente en parrilla",
+      "Servir souvlaki en pita con tzatziki y verduras"
+    ],
+    "prepTime": 30,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": [
+      "brocheta",
+      "parrilla",
+      "cerdo",
+      "pollo",
+      "callejero"
+    ],
+    "image": "",
+    "region": "Ática",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Comida callejera griega desde la antigüedad. Homero ya mencionaba carne asada en brochetas en la Odisea."
+  },
+  {
+    "id": "gr-003",
+    "name": "Spanakopita",
+    "country": "Grecia",
+    "description": "Pastel salado de espinacas y queso feta envuelto en masa filo.",
+    "ingredients": [
+      "1kg de espinacas frescas",
+      "300g de queso feta desmenuzado",
+      "3 huevos batidos",
+      "1 cebolla picada",
+      "2 cucharadas de eneldo fresco",
+      "8 láminas de masa filo",
+      "100ml de aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "instructions": [
+      "Lavar y cocinar espinacas hasta reducir volumen",
+      "Escurrir bien y picar finamente",
+      "Mezclar espinacas, feta, huevos, cebolla y eneldo",
+      "Extender láminas de filo en molde engrasado",
+      "Alternar capas de filo con relleno",
+      "Cerrar pastel y pincelar con aceite",
+      "Hornear 180°C por 45-50 minutos hasta dorar",
+      "Servir tibio o a temperatura ambiente"
+    ],
+    "prepTime": 45,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": [
+      "espinaca",
+      "feta",
+      "pastel",
+      "filo",
+      "vegetariano"
+    ],
+    "image": "",
+    "region": "Epiro",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato bizantino tradicional. Las espinacas eran consideradas alimento de sabios en la antigua Grecia."
+  },
+  {
+    "id": "gr-004",
+    "name": "Baklava",
+    "country": "Grecia",
+    "description": "Postre dulce de capas de masa filo con nueces y almíbar de miel.",
+    "ingredients": [
+      "12 láminas de masa filo",
+      "300g de nueces molidas",
+      "100g de almendras molidas",
+      "200g de mantequilla derretida",
+      "1 cucharadita de canela",
+      "Para almíbar: 200g de azúcar, 200ml de agua, 100ml de miel, 1 rama de canela"
+    ],
+    "instructions": [
+      "Mezclar nueces, almendras y canela",
+      "Extender lámina de filo, pincelar con mantequilla",
+      "Repetir 6 veces, espolvorear mezcla de nueces",
+      "Continuar alternando filo y nueces",
+      "Cortar en rombos antes de hornear",
+      "Hornear 170°C por 45-50 minutos",
+      "Preparar almíbar hirviendo ingredientes 10 minutos",
+      "Verter almíbar frío sobre baklava caliente"
+    ],
+    "prepTime": 60,
+    "servings": 16,
+    "difficulty": "Alta",
+    "tags": [
+      "postre",
+      "nueces",
+      "miel",
+      "filo",
+      "dulce"
+    ],
+    "image": "",
+    "region": "Islas Jónicas",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Dulce del Imperio Otomano adoptado por Grecia. Cada región tiene su propia versión con diferentes frutos secos."
+  },
+  {
+    "id": "gr-005",
+    "name": "Tzatziki",
+    "country": "Grecia",
+    "description": "Salsa cremosa de yogur griego, pepino, ajo y hierbas frescas.",
+    "ingredients": [
+      "500g de yogur griego escurrido",
+      "1 pepino grande rallado",
+      "3 dientes de ajo machacados",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada de vinagre de vino blanco",
+      "2 cucharadas de eneldo fresco picado",
+      "Sal al gusto"
+    ],
+    "instructions": [
+      "Rallar pepino y escurrir líquido con las manos",
+      "Mezclar yogur, pepino y ajo",
+      "Añadir aceite, vinagre y eneldo",
+      "Sazonar con sal y mezclar bien",
+      "Refrigerar mínimo 2 horas antes de servir",
+      "Acompañar con pan pita o como salsa para souvlaki"
+    ],
+    "prepTime": 20,
+    "servings": 6,
+    "difficulty": "Fácil",
+    "tags": [
+      "salsa",
+      "yogur",
+      "pepino",
+      "ajo",
+      "acompañamiento"
+    ],
+    "image": "",
+    "region": "Macedonia",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Salsa ancestral mediterránea. El nombre proviene del turco 'cacık', pero es esencial en la cocina griega moderna."
+  }
+]

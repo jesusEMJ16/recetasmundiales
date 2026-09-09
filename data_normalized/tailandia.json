@@ -1,0 +1,255 @@
+[
+  {
+    "id": "thai-001",
+    "name": "Pad Thai",
+    "country": "Tailandia",
+    "description": "Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes. El plato tailandés más famoso internacionalmente, equilibrio perfecto de dulce, salado, ácido y picante.",
+    "ingredients": [
+      "250g de fideos de arroz secos",
+      "200g de camarones pelados",
+      "150g de tofu firme en cubos",
+      "2 huevos",
+      "100g de brotes de soja frescos",
+      "3 cebolletas cortadas",
+      "50g de cacahuetes tostados molidos",
+      "3 cucharadas de salsa de pescado",
+      "2 cucharadas de azúcar de palma",
+      "2 cucharadas de tamarindo concentrado",
+      "1 cucharada de chili seco molido",
+      "Aceite vegetal",
+      "Lima en gajos",
+      "Cilantro fresco"
+    ],
+    "instructions": [
+      "Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir.",
+      "Mezclar salsa de pescado, azúcar de palma, tamarindo y chili.",
+      "Calentar wok con aceite a fuego alto.",
+      "Saltear camarones 2 minutos hasta rosados, reservar.",
+      "Saltear tofu hasta dorado, reservar.",
+      "Empujar ingredientes a lado, añadir huevos al wok.",
+      "Revolver huevos hasta cuajar parcialmente.",
+      "Añadir fideos escurridos y mezcla de salsa.",
+      "Saltear 3-4 minutos mezclando todo uniformemente.",
+      "Agregar brotes de soja, cebolletas, camarones y tofu.",
+      "Continuar salteando 2 minutos más.",
+      "Servir con cacahuetes, lima y cilantro."
+    ],
+    "prepTime": 45,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "fideos",
+      "camarones",
+      "tailandia",
+      "bangkok",
+      "callejero",
+      "wok"
+    ],
+    "image": "",
+    "region": "Central",
+    "city": "Bangkok",
+    "coordinates": [
+      13.7563,
+      100.5018
+    ],
+    "history": "Popularizado en los años 1930-40 durante el gobierno nacionalista de Plaek Phibunsongkhram para promover identidad tailandesa. Combinó influencias chinas (fideos) con sabores locales. Hoy es símbolo culinario de Tailandia y comida callejera emblemática."
+  },
+  {
+    "id": "thai-002",
+    "name": "Tom Yum Goong",
+    "country": "Tailandia",
+    "description": "Sopa picante y ácida de camarones con hierbas aromáticas: galangal, hierba limón, hojas de lima kaffir. Explosión de sabores tailandeses en cada cucharada.",
+    "ingredients": [
+      "500g de camarones grandes con cabeza",
+      "1 litro de caldo de pollo o camarón",
+      "3 tallos de hierba limón",
+      "5 rodajas de galangal fresco",
+      "5 hojas de lima kaffir",
+      "3 chiles tailandeses",
+      "200g de champiñones oyster",
+      "3 cucharadas de salsa de pescado",
+      "2 cucharadas de jugo de lima",
+      "1 cucharadita de pasta de chili",
+      "Cilantro fresco",
+      "Cebolletas"
+    ],
+    "instructions": [
+      "Limpiar camarones reservando cabezas y cáscaras.",
+      "Hervir cabezas y cáscaras con caldo 15 minutos, colar.",
+      "Aplastar ligeramente tallos de hierba limón.",
+      "Hervir caldo con hierba limón, galangal y hojas lima 5 minutos.",
+      "Añadir champiñones, cocinar 3 minutos.",
+      "Agregar camarones, cocinar 2-3 minutos hasta rosados.",
+      "Retirar del fuego, añadir salsa de pescado, lima y chili.",
+      "Probar y ajustar equilibrio ácido-picante-salado.",
+      "Decorar con cilantro y cebolletas.",
+      "Servir inmediatamente muy caliente."
+    ],
+    "prepTime": 20,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "sopa",
+      "camarones",
+      "picante",
+      "tailandia",
+      "hierbas",
+      "agrio"
+    ],
+    "image": "",
+    "region": "Central",
+    "city": "Bangkok",
+    "coordinates": [
+      13.7563,
+      100.5018
+    ],
+    "history": "Sopa tradicional del centro de Tailandia que data de siglos. El 'tom yum' significa 'sopa mezclada'. La versión con camarones (goong) es la más popular. Representa la filosofía tailandesa de balancear los cinco sabores básicos."
+  },
+  {
+    "id": "thai-003",
+    "name": "Green Curry (Gaeng Keow Wan)",
+    "country": "Tailandia",
+    "description": "Curry verde cremoso con leche de coco, berenjenas tailandesas, bambú y albahaca thai. Picante, aromático y ligeramente dulce.",
+    "ingredients": [
+      "400g de pechuga de pollo en trozos",
+      "400ml de leche de coco",
+      "3 cucharadas de pasta de curry verde",
+      "100g de berenjenas tailandesas pequeñas",
+      "100g de brotes de bambú",
+      "2 hojas de lima kaffir",
+      "1 tallo de hierba limón",
+      "1 cucharada de azúcar de palma",
+      "2 cucharadas de salsa de pescado",
+      "Albahaca thai fresca",
+      "Chiles rojos en rodajas",
+      "Aceite vegetal"
+    ],
+    "instructions": [
+      "Calentar mitad de leche de coco en wok hasta separar aceite.",
+      "Freír pasta de curry verde 2-3 minutos hasta fragante.",
+      "Añadir pollo, cocinar sellando todos los lados.",
+      "Verter resto de leche de coco, llevar a ebullición.",
+      "Agregar berenjenas y bambú, cocinar 10 minutos.",
+      "Sazonar con azúcar de palma y salsa de pescado.",
+      "Añadir hojas de lima y hierba limón machacada.",
+      "Cocinar 5 minutos más hasta pollo tierno.",
+      "Incorporar albahaca thai justo antes de retirar.",
+      "Servir con arroz jazmín."
+    ],
+    "prepTime": 25,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "curry",
+      "pollo",
+      "coco",
+      "verde",
+      "tailandia",
+      "picante"
+    ],
+    "image": "",
+    "region": "Central",
+    "city": "Bangkok",
+    "coordinates": [
+      13.7563,
+      100.5018
+    ],
+    "history": "El curry verde es el más joven de los curries tailandeses, creado en siglo XIX durante el reinado de Rama V. Su color viene de chiles verdes frescos. Es más picante que el rojo y representa la cocina real tailandesa refinada."
+  },
+  {
+    "id": "thai-004",
+    "name": "Som Tum (Ensalada de Papaya)",
+    "country": "Tailandia",
+    "description": "Ensalada picante de papaya verde rallada con tomates cherry, judías verdes, cacahuetes y aderezo de lima-chili-gambas secas. Fresca, vibrante y explosiva.",
+    "ingredients": [
+      "1 papaya verde grande sin madurar",
+      "10 tomates cherry",
+      "100g de judías verdes",
+      "3 dientes de ajo",
+      "3-5 chiles tailandeses",
+      "2 cucharadas de gambas secas",
+      "50g de cacahuetes tostados",
+      "3 cucharadas de jugo de lima",
+      "2 cucharadas de salsa de pescado",
+      "1 cucharada de azúcar de palma",
+      "Opcional: cangrejo fermentado"
+    ],
+    "instructions": [
+      "Rallar papaya verde en tiras finas.",
+      "Machacar ajo y chiles en mortero.",
+      "Añadir gambas secas, machacar ligeramente.",
+      "Agregar judías verdes cortadas, golpear suavemente.",
+      "Incorporar tomates cherry, presionar para liberar jugos.",
+      "Añadir papaya rallada, mezclar bien.",
+      "Sazonar con lima, salsa de pescado y azúcar.",
+      "Mezclar todo vigorosamente con mortero y mano.",
+      "Probar y ajustar sabores: debe ser picante, ácido, salado y dulce.",
+      "Servir inmediatamente con arroz glutinoso."
+    ],
+    "prepTime": 20,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "ensalada",
+      "papaya",
+      "picante",
+      "isan",
+      "tailandia",
+      "crudo"
+    ],
+    "image": "",
+    "region": "Noreste (Isan)",
+    "city": "Udon Thani",
+    "coordinates": [
+      17.4138,
+      102.7878
+    ],
+    "history": "Originaria de la región de Isan (noreste de Tailandia), con influencias laosianas. El som tum era comida de campesinos que usaban ingredientes disponibles. Hoy es plato nacional tailandés amado por su frescura y picante intenso."
+  },
+  {
+    "id": "thai-005",
+    "name": "Mango Sticky Rice (Khao Niao Mamuang)",
+    "country": "Tailandia",
+    "description": "Arroz glutinoso dulce con leche de coco servido con mango fresco maduro. Postre tailandés clásico, simple pero irresistible.",
+    "ingredients": [
+      "300g de arroz glutinoso",
+      "400ml de leche de coco",
+      "100g de azúcar",
+      "1/2 cucharadita de sal",
+      "2 mangos maduros tipo Nam Dok Mai",
+      "Sésamo tostado o mung beans crujientes para decorar",
+      "Hojas de pandano opcional"
+    ],
+    "instructions": [
+      "Remojar arroz glutinoso 4 horas o toda la noche.",
+      "Escurrir arroz, cocinar al vapor 20-25 minutos hasta tierno.",
+      "Calentar 300ml de leche de coco con azúcar y sal.",
+      "Verter mezcla sobre arroz caliente, mezclar bien.",
+      "Dejar reposar 30 minutos para que arroz absorba líquido.",
+      "Pelar mangos, cortar en láminas gruesas.",
+      "Servir arroz con mango fresco al lado.",
+      "Rociar con leche de coco restante espesada.",
+      "Decorar con sésamo tostado.",
+      "Servir tibio o a temperatura ambiente."
+    ],
+    "prepTime": 270,
+    "servings": 4,
+    "difficulty": "Baja",
+    "tags": [
+      "postre",
+      "mango",
+      "arroz",
+      "coco",
+      "tailandia",
+      "dulce"
+    ],
+    "image": "",
+    "region": "Nacional",
+    "city": "Chiang Mai",
+    "coordinates": [
+      18.7883,
+      98.9853
+    ],
+    "history": "Postre tradicional tailandés que aprovecha la temporada de mangos (abril-junio). El arroz glutinoso ha sido cultivo básico del norte de Tailandia por siglos. Esta combinación perfecta de texturas y dulzor es favorita en mercados y restaurantes."
+  }
+]

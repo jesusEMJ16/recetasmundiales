@@ -1,0 +1,429 @@
+[
+  {
+    "id": "ua-001",
+    "name": "Borscht",
+    "country": "Ucrania",
+    "description": "Sopa tradicional de remolacha con carne, vegetales y crema agria.",
+    "ingredients": [
+      "500g de remolachas",
+      "300g de carne de res",
+      "2 zanahorias",
+      "1 cebolla",
+      "2 papas",
+      "200g de repollo",
+      "3 cucharadas de pasta de tomate",
+      "Crema agria para servir",
+      "Eneldo fresco",
+      "Sal y pimienta"
+    ],
+    "instructions": [
+      "Cocer la carne en 2 litros de agua durante 1 hora",
+      "Rallar remolachas y zanahorias, picar cebolla",
+      "Sofreír vegetales con pasta de tomate",
+      "Agregar papas en cubos y repollo picado al caldo",
+      "Añadir el sofrito de remolacha",
+      "Cocinar 20 minutos más hasta que todo esté tierno",
+      "Servir caliente con crema agria y eneldo"
+    ],
+    "prepTime": 30,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": [
+      "sopa",
+      "remolacha",
+      "tradicional",
+      "invierno",
+      "patrimonio UNESCO"
+    ],
+    "image": "",
+    "region": "Kiev",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato nacional ucraniano con más de 1000 años de historia. Cada región tiene su propia variante. La UNESCO lo declaró Patrimonio Cultural Inmaterial en 2022."
+  },
+  {
+    "id": "ua-002",
+    "name": "Varenyky",
+    "country": "Ucrania",
+    "description": "Empanadillas hervidas rellenas de papa, queso o cerezas.",
+    "ingredients": [
+      "500g de harina",
+      "2 huevos",
+      "200ml de agua tibia",
+      "400g de puré de papa",
+      "100g de queso cottage",
+      "1 cebolla frita",
+      "Mantequilla derretida",
+      "Sal"
+    ],
+    "instructions": [
+      "Mezclar harina, huevos y agua para hacer la masa",
+      "Dejar reposar 30 minutos",
+      "Preparar el relleno de papa y queso",
+      "Extender la masa y cortar círculos",
+      "Rellenar y cerrar los varenyky",
+      "Hervir en agua salada 5-7 minutos",
+      "Servir con cebolla frita y mantequilla"
+    ],
+    "prepTime": 60,
+    "servings": 4,
+    "difficulty": "Alta",
+    "tags": [
+      "empanadillas",
+      "papa",
+      "queso",
+      "tradicional",
+      "familia"
+    ],
+    "image": "",
+    "region": "Poltava",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato tradicional ucraniano desde el siglo XIII. Los varenyky de Poltava son famosos en toda Ucrania y se preparan para celebraciones familiares."
+  },
+  {
+    "id": "ua-003",
+    "name": "Holubtsi",
+    "country": "Ucrania",
+    "description": "Hojas de repollo rellenas de carne y arroz en salsa de tomate.",
+    "ingredients": [
+      "1 repollo grande",
+      "500g de carne molida mixta",
+      "1 taza de arroz",
+      "1 cebolla",
+      "1 zanahoria",
+      "3 cucharadas de pasta de tomate",
+      "Caldo de carne",
+      "Sal, pimienta, especias"
+    ],
+    "instructions": [
+      "Hervir el repollo entero para separar hojas",
+      "Cocer arroz hasta medio hacer",
+      "Mezclar carne, arroz y vegetales picados",
+      "Rellenar cada hoja y enrollar",
+      "Colocar en olla con salsa de tomate",
+      "Cocinar a fuego lento 1 hora",
+      "Servir caliente con crema agria"
+    ],
+    "prepTime": 45,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": [
+      "repollo",
+      "carne",
+      "arroz",
+      "festivo",
+      "horno"
+    ],
+    "image": "",
+    "region": "Lviv",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato festivo ucraniano que se sirve en bodas y celebraciones. El nombre viene de 'golub' (paloma), por la forma enrollada."
+  },
+  {
+    "id": "ua-004",
+    "name": "Chicken Kyiv",
+    "country": "Ucrania",
+    "description": "Pechuga de pollo rellena de mantequilla herbácea, empanizada y frita.",
+    "ingredients": [
+      "4 pechugas de pollo",
+      "150g de mantequilla fría",
+      "Perejil fresco",
+      "Ajo",
+      "2 huevos",
+      "Pan rallado",
+      "Harina",
+      "Aceite para freír"
+    ],
+    "instructions": [
+      "Mezclar mantequilla con hierbas y ajo",
+      "Formar cilindros y congelar",
+      "Aplanar pechugas y envolver la mantequilla",
+      "Empanizar: harina, huevo, pan rallado",
+      "Freír en aceite caliente 4-5 minutos por lado",
+      "Hornear 10 minutos a 180°C",
+      "Servir inmediatamente"
+    ],
+    "prepTime": 30,
+    "servings": 4,
+    "difficulty": "Alta",
+    "tags": [
+      "pollo",
+      "mantequilla",
+      "frito",
+      "restaurante",
+      "clásico"
+    ],
+    "image": "",
+    "region": "Kiev",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Creado en Kiev en 1947 por chefs soviéticos. Se hizo famoso internacionalmente como plato de lujo en restaurantes de Europa del Este."
+  },
+  {
+    "id": "ua-005",
+    "name": "Salo",
+    "country": "Ucrania",
+    "description": "Tocino curado en sal, plato nacional ucraniano servido en rebanadas finas.",
+    "ingredients": [
+      "1kg de tocino fresco con piel",
+      "Sal gruesa",
+      "Ajos",
+      "Pimienta negra",
+      "Laurel",
+      "Semillas de cilantro"
+    ],
+    "instructions": [
+      "Cortar el tocino en bloques",
+      "Frotar con sal y especias",
+      "Colocar en recipiente hermético",
+      "Refrigerar 3-5 días",
+      "Lavar el exceso de sal",
+      "Congelar antes de servir",
+      "Cortar en rebanadas muy finas"
+    ],
+    "prepTime": 15,
+    "servings": 8,
+    "difficulty": "Baja",
+    "tags": [
+      "tocino",
+      "curado",
+      "aperitivo",
+      "nacional",
+      "tradicional"
+    ],
+    "image": "",
+    "region": "Nacional",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Símbolo de la cultura ucraniana durante siglos. Los cosacos lo llevaban en sus campañas. Hay más de 50 formas de prepararlo."
+  },
+  {
+    "id": "ua-006",
+    "name": "Deruny",
+    "country": "Ucrania",
+    "description": "Tortitas de papa rallada fritas, crujientes por fuera y suaves por dentro.",
+    "ingredients": [
+      "1kg de papas",
+      "1 cebolla",
+      "2 huevos",
+      "2 cucharadas de harina",
+      "Sal y pimienta",
+      "Aceite para freír",
+      "Crema agria para servir"
+    ],
+    "instructions": [
+      "Rallar papas y cebolla finamente",
+      "Escurrir el exceso de líquido",
+      "Mezclar con huevos y harina",
+      "Formar tortitas con cuchara",
+      "Freír en aceite caliente 3-4 minutos por lado",
+      "Escurrir en papel absorbente",
+      "Servir calientes con crema agria"
+    ],
+    "prepTime": 20,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "papa",
+      "tortitas",
+      "frito",
+      "desayuno",
+      "callejero"
+    ],
+    "image": "",
+    "region": "Volyn",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato campesino ucraniano del siglo XIX. Hoy es uno de los platos más populares en hogares y restaurantes."
+  },
+  {
+    "id": "ua-007",
+    "name": "Nalysnyky",
+    "country": "Ucrania",
+    "description": "Crepes ucranianos rellenos de queso dulce o carne, horneados con crema.",
+    "ingredients": [
+      "Para crepes: 2 tazas harina, 3 huevos, 500ml leche",
+      "Relleno: 400g queso cottage",
+      "2 cucharadas azúcar",
+      "1 huevo",
+      "Vainilla",
+      "Crema agria",
+      "Mantequilla"
+    ],
+    "instructions": [
+      "Preparar masa líquida para crepes",
+      "Cocer crepes delgados en sartén",
+      "Mezclar queso, azúcar, huevo y vainilla",
+      "Rellenar cada crepe y enrollar",
+      "Colocar en molde engrasado",
+      "Cubrir con crema agria y hornear 20 minutos",
+      "Servir tibios"
+    ],
+    "prepTime": 30,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "crepes",
+      "queso",
+      "horneado",
+      "postre",
+      "dulce"
+    ],
+    "image": "",
+    "region": "Kiev",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato tradicional de Cuaresma y celebraciones familiares. Los nalysnyky dulces son el postre favorito de los niños ucranianos."
+  },
+  {
+    "id": "ua-008",
+    "name": "Okroshka",
+    "country": "Ucrania",
+    "description": "Sopa fría de verano con vegetales frescos, huevo y kvass o kefir.",
+    "ingredients": [
+      "4 papas cocidas",
+      "3 huevos duros",
+      "2 pepinos frescos",
+      "Rábanos",
+      "Eneldo y cebollín",
+      "500ml de kefir o kvass",
+      "Crema agria",
+      "Mostaza"
+    ],
+    "instructions": [
+      "Cortar todos los vegetales y huevos en cubos pequeños",
+      "Picar finamente las hierbas",
+      "Mezclar todos los ingredientes",
+      "Verter kefir frío o kvass",
+      "Añadir crema agria y mostaza",
+      "Refrigerar 30 minutos",
+      "Servir muy frío"
+    ],
+    "prepTime": 25,
+    "servings": 4,
+    "difficulty": "Baja",
+    "tags": [
+      "sopa fría",
+      "verano",
+      "vegetales",
+      "refrescante",
+      "rápido"
+    ],
+    "image": "",
+    "region": "Nacional",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato refrescante perfecto para veranos ucranianos. Cada familia tiene su receta secreta transmitida por generaciones."
+  },
+  {
+    "id": "ua-009",
+    "name": "Pampushky",
+    "country": "Ucrania",
+    "description": "Pequeños panes esponjosos glaseados con ajo y mantequilla.",
+    "ingredients": [
+      "500g harina",
+      "250ml leche tibia",
+      "50g levadura fresca",
+      "2 huevos",
+      "50g azúcar",
+      "50g mantequilla",
+      "Glaseado: mantequilla derretida, ajo, perejil"
+    ],
+    "instructions": [
+      "Activar levadura en leche tibia con azúcar",
+      "Mezclar todos los ingredientes y amasar",
+      "Dejar levar 1 hora",
+      "Formar bolitas pequeñas",
+      "Dejar levar 30 minutos más",
+      "Hornear a 180°C por 15-20 minutos",
+      "Pincelar con mantequilla de ajo caliente"
+    ],
+    "prepTime": 90,
+    "servings": 12,
+    "difficulty": "Media",
+    "tags": [
+      "pan",
+      "ajo",
+      "horneado",
+      "acompañamiento",
+      "tradicional"
+    ],
+    "image": "",
+    "region": "Poltava",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Pan tradicional ucraniano que acompaña el borscht. Las pampushky de Poltava son famosas en toda Ucrania por su textura perfecta."
+  },
+  {
+    "id": "ua-010",
+    "name": "Kutia",
+    "country": "Ucrania",
+    "description": "Pudín ritual de trigo con miel, semillas de amapola y frutos secos.",
+    "ingredients": [
+      "1 taza de trigo integral",
+      "100g semillas de amapola",
+      "100g miel",
+      "100g nueces",
+      "50g pasas",
+      "50g almendras",
+      "Leche de amapola"
+    ],
+    "instructions": [
+      "Remojar trigo overnight",
+      "Cocer trigo hasta tierno (2 horas)",
+      "Moler semillas de amapola con miel",
+      "Preparar leche de amapola",
+      "Mezclar todo con frutos secos",
+      "Dejar reposar varias horas",
+      "Servir frío como postre ritual"
+    ],
+    "prepTime": 30,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": [
+      "trigo",
+      "miel",
+      "navidad",
+      "ritual",
+      "tradicional",
+      "vegano"
+    ],
+    "image": "",
+    "region": "Nacional",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato ceremonial de Navidad ucraniana (Nochebuena). Simboliza prosperidad y abundancia. Receta de más de 1000 años de antigüedad."
+  }
+]

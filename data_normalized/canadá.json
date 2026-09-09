@@ -1,0 +1,203 @@
+[
+  {
+    "id": "ca-001",
+    "name": "Poutine",
+    "country": "Canadá",
+    "description": "Papas fritas cubiertas con queso cheddar fresco y salsa gravy.",
+    "ingredients": [
+      "1kg de papas russet",
+      "300g de queso cheddar fresco en gránulos",
+      "Para gravy: 500ml de caldo de res, 2 cucharadas de mantequilla, 2 cucharadas de harina, sal y pimienta",
+      "Aceite vegetal para freír"
+    ],
+    "instructions": [
+      "Cortar papas en bastones y remojar en agua fría",
+      "Freír papas a 160°C hasta cocidas pero pálidas",
+      "Elevar temperatura a 190°C y freír nuevamente hasta dorar",
+      "Preparar gravy: derretir mantequilla, añadir harina y caldo gradualmente",
+      "Cocinar salsa hasta espesar",
+      "Colocar papas calientes en plato",
+      "Cubrir con queso y verter gravy caliente",
+      "Servir inmediatamente mientras el queso se derrite"
+    ],
+    "prepTime": 20,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": [
+      "papas",
+      "queso",
+      "frito",
+      "quebec",
+      "confort"
+    ],
+    "image": "",
+    "region": "Quebec",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Creado en Quebec rural en los años 1950. Su nombre viene del inglés 'pudding' o del francés 'poutine' (mezcla desordenada)."
+  },
+  {
+    "id": "ca-002",
+    "name": "Tourtière",
+    "country": "Canadá",
+    "description": "Pastel de carne picada tradicional navideño con especias.",
+    "ingredients": [
+      "Para masa: 350g de harina, 175g de mantequilla fría, agua helada, sal",
+      "500g de cerdo molido",
+      "300g de res molida",
+      "1 cebolla picada finamente",
+      "1 cucharadita de canela",
+      "½ cucharadita de clavo molido",
+      "Caldo de carne según necesidad",
+      "1 huevo batido para barnizar"
+    ],
+    "instructions": [
+      "Preparar masa quebrada y refrigerar",
+      "Sofreír cebolla hasta transparente",
+      "Agregar carnes y cocinar hasta sellar",
+      "Añadir especias y caldo suficiente para cubrir",
+      "Cocinar lentamente 45 minutos hasta tierno",
+      "Extender masa en molde profundo",
+      "Rellenar con mezcla de carne",
+      "Cubrir con otra capa de masa, barnizar y hornear 190°C por 45 minutos"
+    ],
+    "prepTime": 60,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": [
+      "carne",
+      "pastel",
+      "navidad",
+      "quebec",
+      "tradicional"
+    ],
+    "image": "",
+    "region": "Quebec",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Plato franco-canadiense del siglo XVII. Tradicionalmente se sirve en Nochebuena después de la misa de medianoche."
+  },
+  {
+    "id": "ca-003",
+    "name": "Salmon Ahumado de British Columbia",
+    "country": "Canadá",
+    "description": "Salmón del Pacífico ahumado tradicionalmente por pueblos indígenas.",
+    "ingredients": [
+      "1 filete de salmón entero (aprox. 2kg) con piel",
+      "Para salmuera: 1 litro de agua, 100g de sal marina, 50g de azúcar moreno, 1 cucharada de granos de pimienta",
+      "Virutas de madera de aliso o manzano para ahumar"
+    ],
+    "instructions": [
+      "Verificar que no haya espinas en el filete",
+      "Preparar salmuera disolviendo ingredientes",
+      "Sumergir salmón en salmuera 24-48 horas en refrigeración",
+      "Enjuagar y secar completamente",
+      "Dejar formar película superficial (pellicle) 2-3 horas al aire",
+      "Ahumar a 70-80°C por 2-3 horas",
+      "El salmón está listo cuando está firme pero jugoso",
+      "Servir frío en rebanadas finas"
+    ],
+    "prepTime": 48,
+    "servings": 10,
+    "difficulty": "Alta",
+    "tags": [
+      "salmón",
+      "ahumado",
+      "mariscos",
+      "pacifico",
+      "indigena"
+    ],
+    "image": "",
+    "region": "British Columbia",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Técnica milenaria de las Primeras Naciones. El salmón es central en la cultura y economía de la costa oeste canadiense."
+  },
+  {
+    "id": "ca-004",
+    "name": "Butter Tart",
+    "country": "Canadá",
+    "description": "Tartaleta dulce con relleno cremoso de mantequilla y azúcar.",
+    "ingredients": [
+      "12 moldes pequeños para tartaletas",
+      "Para masa: 250g de harina, 125g de mantequilla fría, 1 huevo, agua helada",
+      "Para relleno: 100g de mantequilla ablandada, 200g de azúcar moreno, 2 huevos batidos, 1 cucharadita de extracto de vainilla, 1 cucharada de harina"
+    ],
+    "instructions": [
+      "Preparar masa y forrar moldes pequeños",
+      "Refrigerar moldes 30 minutos",
+      "Batir mantequilla y azúcar hasta cremoso",
+      "Incorporar huevos uno a uno",
+      "Añadir vainilla y harina",
+      "Dividir relleno entre tartaletas",
+      "Hornear 190°C por 20-25 minutos hasta dorar",
+      "Enfriar completamente antes de desmoldar"
+    ],
+    "prepTime": 45,
+    "servings": 12,
+    "difficulty": "Media",
+    "tags": [
+      "postre",
+      "tartaleta",
+      "mantequilla",
+      "dulce",
+      "ontario"
+    ],
+    "image": "",
+    "region": "Ontario",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Postre canadiense desde el siglo XIX. Hay debate nacional sobre si debe llevar pasas o nueces."
+  },
+  {
+    "id": "ca-005",
+    "name": "Nanaimo Bars",
+    "country": "Canadá",
+    "description": "Barra de tres capas sin hornear: base de galleta, crema de coco y chocolate.",
+    "ingredients": [
+      "Base: 200g de galletas Graham trituradas, 100g de coco rallado, 50g de nueces picadas, 60g de cacao, 125g de mantequilla derretida, 1 huevo",
+      "Centro: 60g de mantequilla, 2 cucharadas de crema, 2 cucharadas de polvo de natillas, 250g de azúcar glass, 1 cucharadita de vainilla",
+      "Top: 200g de chocolate semidulce, 1 cucharada de mantequilla"
+    ],
+    "instructions": [
+      "Mezclar ingredientes de base y presionar en molde",
+      "Refrigerar mientras prepara el centro",
+      "Derretir mantequilla con crema y polvo de natillas",
+      "Añadir azúcar glass y vainilla hasta cremoso",
+      "Extender sobre base fría",
+      "Derretir chocolate con mantequilla a baño maría",
+      "Verter sobre capa de crema",
+      "Refrigerar 2 horas y cortar en cuadrados"
+    ],
+    "prepTime": 30,
+    "servings": 16,
+    "difficulty": "Fácil",
+    "tags": [
+      "postre",
+      "sin horno",
+      "chocolate",
+      "coco",
+      "bc"
+    ],
+    "image": "",
+    "region": "British Columbia",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Nombradas por la ciudad de Nanaimo en BC. Aparecieron en libros de cocina de los años 1950 como 'chocolate fridge squares'."
+  }
+]
