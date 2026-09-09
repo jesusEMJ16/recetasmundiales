@@ -1,0 +1,1823 @@
+{
+  "meta": {
+    "batch_id": "lot_9_nordic_pacific",
+    "region_focus": ["Northern Europe", "Scotland", "Oceania", "Pacific"],
+    "recipes_count": 5,
+    "languages": ["es", "en", "zh", "hi", "fr", "ar", "bn", "pt", "ru", "ur", "id", "ja"],
+    "seo_strategy": "Local authenticity + Global search intent",
+    "generated_at": "2024-05-20"
+  },
+  "recipes": [
+    {
+      "id": "se-meatballs",
+      "country": "Sweden",
+      "region": "Northern Europe",
+      "translations": {
+        "es": {
+          "name": "Albóndigas Suecas con Salsa Cremosa",
+          "slug": "albondigas-suecas-salsa-cremosa",
+          "description": "Las icónicas albóndigas suecas servidas con una rica salsa de crema agria y acompañadas tradicionalmente de mermelada de arándanos rojos y puré de papas.",
+          "history": "Popularizadas mundialmente por IKEA, estas 'Köttbullar' son un pilar de la cocina hogareña sueca ('husmanskost'). Su origen se remonta al siglo XVIII, influenciado por el rey Carlos XII quien trajo la receta de Turquía.",
+          "ingredients": [
+            "500g carne picada mixta (cerdo y ternera)",
+            "1 cebolla pequeña picada finamente",
+            "1 huevo",
+            "50ml de leche",
+            "30g de pan rallado",
+            "Sal y pimienta negra al gusto",
+            "Mantequilla para freír",
+            "200ml de caldo de carne",
+            "150ml de nata para cocinar",
+            "Mermelada de arándanos rojos para servir"
+          ],
+          "instructions": [
+            "Mezclar la leche con el pan rallado y dejar reposar 5 minutos.",
+            "En un bol, combinar la carne, cebolla, huevo, mezcla de pan y especias. Amasar bien.",
+            "Formar bolas pequeñas del tamaño de una nuez con las manos húmedas.",
+            "Dorar las albóndigas en mantequilla caliente en una sartén grande hasta que estén cocidas por dentro.",
+            "Retirar las albóndigas y reservar. En la misma sartén, añadir el caldo para desglasar.",
+            "Agregar la nata y reducir hasta obtener una salsa espesa. Salpimentar.",
+            "Servir las albóndigas bañadas en salsa, con puré de papas y un toque de mermelada de arándanos."
+          ],
+          "prep_time": "20 min",
+          "cook_time": "25 min",
+          "servings": "4 personas",
+          "difficulty": "Media",
+          "tags": ["comfort food", "escandinavia", "carne", "cena familiar", "receta sueca"]
+        },
+        "en": {
+          "name": "Swedish Meatballs with Cream Sauce",
+          "slug": "swedish-meatballs-cream-sauce",
+          "description": "Iconic Swedish meatballs served in a rich creamy gravy, traditionally accompanied by lingonberry jam and mashed potatoes.",
+          "history": "Made famous globally by IKEA, these 'Köttbullar' are a staple of Swedish home cooking ('husmanskost'). Their origins date back to the 18th century, influenced by King Charles XII who brought the recipe from Turkey.",
+          "ingredients": [
+            "500g mixed ground meat (pork and beef)",
+            "1 small onion, finely chopped",
+            "1 egg",
+            "50ml milk",
+            "30g breadcrumbs",
+            "Salt and black pepper to taste",
+            "Butter for frying",
+            "200ml beef broth",
+            "150ml heavy cream",
+            "Lingonberry jam for serving"
+          ],
+          "instructions": [
+            "Mix milk with breadcrumbs and let sit for 5 minutes.",
+            "In a bowl, combine meat, onion, egg, breadcrumb mixture, and spices. Knead well.",
+            "Form small balls the size of a walnut with wet hands.",
+            "Brown the meatballs in hot butter in a large pan until cooked through.",
+            "Remove meatballs and set aside. Deglaze the pan with beef broth.",
+            "Add cream and simmer until thickened. Season with salt and pepper.",
+            "Serve meatballs covered in sauce, with mashed potatoes and a dollop of lingonberry jam."
+          ],
+          "prep_time": "20 min",
+          "cook_time": "25 min",
+          "servings": "4 servings",
+          "difficulty": "Medium",
+          "tags": ["comfort food", "scandinavia", "beef", "family dinner", "swedish recipe"]
+        },
+        "zh": {
+          "name": "瑞典肉丸配奶油酱",
+          "slug": "rui-dian-rou-wan-nai-you-jiang",
+          "description": "标志性的瑞典肉丸，配以浓郁的奶油肉汁，传统上搭配越橘果酱和土豆泥食用。",
+          "history": "因宜家（IKEA）而闻名全球，这些“Köttbullar”是瑞典家庭烹饪的主食。其起源可追溯到18世纪，据说是查理十二世从土耳其带回来的食谱。",
+          "ingredients": [
+            "500克混合肉末（猪肉和牛肉）",
+            "1个小洋葱，切碎",
+            "1个鸡蛋",
+            "50毫升牛奶",
+            "30克面包屑",
+            "盐和黑胡椒适量",
+            "煎炸用黄油",
+            "200毫升牛肉高汤",
+            "150毫升重奶油",
+            "越橘果酱（佐餐）"
+          ],
+          "instructions": [
+            "将牛奶与面包屑混合，静置5分钟。",
+            "在碗中混合肉、洋葱、鸡蛋、面包屑混合物和香料，揉匀。",
+            "用湿手将肉捏成核桃大小的小球。",
+            "在大锅中用热黄油将肉丸煎至金黄且内部熟透。",
+            "取出肉丸备用。用牛肉高汤倒入锅中溶解焦化物。",
+            "加入奶油炖煮至浓稠，加盐和胡椒调味。",
+            "将肉丸淋上酱汁，搭配土豆泥和少许越橘果酱食用。"
+          ],
+          "prep_time": "20分钟",
+          "cook_time": "25分钟",
+          "servings": "4人份",
+          "difficulty": "中等",
+          "tags": ["舒适食物", "斯堪的纳维亚", "牛肉", "家庭晚餐", "瑞典菜"]
+        },
+        "fr": {
+          "name": "Boulettes de Viande Suédoises à la Crème",
+          "slug": "boulettes-viande-suedoises-creme",
+          "description": "Les célèbres boulettes de viande suédoises servies dans une onctueuse sauce à la crème, accompagnées traditionnellement de confiture d'airelles et de purée de pommes de terre.",
+          "history": "Rendues mondialement célèbres par IKEA, ces 'Köttbullar' sont un pilier de la cuisine familiale suédoise. Leur origine remonte au XVIIIe siècle, influencée par le roi Charles XII qui rapporta la recette de Turquie.",
+          "ingredients": [
+            "500g de viande hachée mixte (porc et bœuf)",
+            "1 petit oignon finement haché",
+            "1 œuf",
+            "50ml de lait",
+            "30g de chapelure",
+            "Sel et poivre noir",
+            "Beurre pour la cuisson",
+            "200ml de bouillon de bœuf",
+            "150ml de crème fraîche épaisse",
+            "Confiture d'airelles pour servir"
+          ],
+          "instructions": [
+            "Mélanger le lait avec la chapelure et laisser reposer 5 minutes.",
+            "Dans un bol, combiner la viande, l'oignon, l'œuf, le mélange de chapelure et les épices.",
+            "Former de petites boulettes de la taille d'une noix avec des mains humides.",
+            "Dorer les boulettes dans du beurre chaud jusqu'à ce qu'elles soient cuites.",
+            "Retirer les boulettes. Déglacer la poêle avec le bouillon de bœuf.",
+            "Ajouter la crème et réduire jusqu'à épaississement. Assaisonner.",
+            "Servir les boulettes nappées de sauce, avec de la purée et de la confiture d'airelles."
+          ],
+          "prep_time": "20 min",
+          "cook_time": "25 min",
+          "servings": "4 personnes",
+          "difficulty": "Moyen",
+          "tags": ["plat réconfortant", "scandinavie", "bœuf", "dîner familial", "recette suédoise"]
+        },
+        "ja": {
+          "name": "スウェーデン風ミートボール クリームソース",
+          "slug": "swe-den-mi-to-bo-ru-kuri-mu-so-su",
+          "description": "濃厚なクリーミーなグレービーをかけた象徴的なスウェーデン風ミートボール。伝統的にリンゴンベリージャムとマッシュポテトを添えて提供されます。",
+          "history": "IKEAで世界的に有名になった「Köttbullar」は、スウェーデンの家庭料理の定番です。その起源は18世紀にさかのぼり、トルコからレシピを持ち帰ったカール12世の影響を受けています。",
+          "ingredients": [
+            "合びき肉（豚肉と牛肉）500g",
+            "みじん切り玉ねぎ 小1個",
+            "卵 1個",
+            "牛乳 50ml",
+            "パン粉 30g",
+            "塩・黒胡椒 適量",
+            "フライ用バター",
+            "牛肉スープ 200ml",
+            "生クリーム 150ml",
+            "リンゴンベリージャム（付け合わせ用）"
+          ],
+          "instructions": [
+            "牛乳とパン粉を混ぜて5分間置きます。",
+            "ボウルで肉、玉ねぎ、卵、パン粉混合物、スパイスを合わせてよくこねます。",
+            "手を濡らして、くるみサイズの小さなボールを作ります。",
+            "フライパンでバターを熱し、肉丸が中まで火が通るまで焼き色をつけます。",
+            "肉丸を取り出し、同じフライパンで牛肉スープを加えて焦げ目をこそぎ落とします。",
+            "生クリームを加え、とろみがつくまで煮詰めます。味を調えます。",
+            "肉丸にソースをかけ、マッシュポテトとリンゴンベリージャムを添えて提供します。"
+          ],
+          "prep_time": "20分",
+          "cook_time": "25分",
+          "servings": "4人前",
+          "difficulty": "中級",
+          "tags": ["Comfort Food", "スカンジナビア", "牛肉", "家族の夕食", "スウェーデン料理"]
+        },
+        "hi": {
+          "name": "क्रीम सॉस के साथ स्वीडिश मीटबॉल्स",
+          "slug": "swe-dis-mit-bols-krim-sos",
+          "description": "प्रसिद्ध स्वीडिश मीटबॉल्स जो समृद्ध क्रीमी ग्रेवी में परोसे जाते हैं, परंपरागत रूप से लिंगनबेरी जैम और मैश्ड आलू के साथ।",
+          "history": "IKEA द्वारा विश्व प्रसिद्ध बनाए गए ये 'Köttbullar' स्वीडिश घर का खाना हैं। इनकी उत्पत्ति 18वीं शताब्दी की है, जब राजा चार्ल्स XII तुर्की से यह रेसिपी लाए थे।",
+          "ingredients": [
+            "500ग्राम मिश्रित कीमा (सूअर और बीफ)",
+            "1 छोटा प्याज, बारीक कटा हुआ",
+            "1 अंडा",
+            "50ml दूध",
+            "30g ब्रेडक्रंब्स",
+            "नमक और काली मिर्च स्वादानुसार",
+            "तलने के लिए मक्खन",
+            "200ml बीफ स्टॉक",
+            "150ml हेवी क्रीम",
+            "परोसने के लिए लिंगनबेरी जैम"
+          ],
+          "instructions": [
+            "दूध को ब्रेडक्रंब्स के साथ मिलाएं और 5 मिनट के लिए रख दें।",
+            "एक कटोरे में मांस, प्याज, अंडा, ब्रेडक्रंब मिश्रण और मसाले मिलाएं। अच्छी तरह गूंथ लें।",
+            "गीले हाथों से अखरोट के आकार की छोटी गोलियां बनाएं।",
+            "कड़ाही में मक्खन गर्म करें और मीटबॉल्स को सुनहरा भूरा होने तक तलें।",
+            "मीटबॉल्स निकाल लें। उसी कड़ाही में बीफ स्टॉक डालकर डिग्लेज़ करें।",
+            "क्रीम डालें और गाढ़ा होने तक उबालें। नमक और मिर्च डालें।",
+            "मीटबॉल्स को सॉस के साथ, मैश्ड आलू और लिंगनबेरी जैम के साथ परोसें।"
+          ],
+          "prep_time": "20 मिनट",
+          "cook_time": "25 मिनट",
+          "servings": "4 सर्विंग",
+          "difficulty": "मध्यम",
+          "tags": ["कम्फर्ट फूड", "स्कैंडिनेविया", "बीफ", "पारिवारिक रात का खाना", "स्वीडिश रेसिपी"]
+        },
+        "ar": {
+          "name": "كرات اللحم السويدية مع صلصة الكريمة",
+          "slug": "kurat-al-lahm-al-suwidiya",
+          "description": "كرات اللحم السويدية الشهيرة المقدمة مع مرق كريمي غني، وتُقدم تقليدياً مع مربى التوت البري والبطاطس المهروسة.",
+          "history": "أصبحت هذه الـ 'Köttbullar' مشهورة عالمياً بفضل ايكيا، وهي عنصر أساسي في المطبخ المنزلي السويدي. يعود أصلها إلى القرن الثامن عشر، وتأثرت بالملك تشارلز الثاني عشر الذي جلب الوصفة من تركيا.",
+          "ingredients": [
+            "500غ لحم مفروم مخلوط (لحم خنزير ولحم بقري)",
+            "1 بصلة صغيرة مفرومة ناعماً",
+            "1 بيضة",
+            "50مل حليب",
+            "30غ بقسماط",
+            "ملح وفلفل أسود حسب الرغبة",
+            "زبدة للقلي",
+            "200مل مرق لحم بقري",
+            "150مل كريمة طهي",
+            "مربى التوت البري للتقديم"
+          ],
+          "instructions": [
+            "اخلط الحليب مع البقسماط واتركه لمدة 5 دقائق.",
+            "في وعاء، اجمع اللحم والبصل والبيض ومزيج البقسماط والتوابل. اعجن جيداً.",
+            "شكل كرات صغيرة بحجم الجوز باستخدام أيدي مبللة.",
+            "احمر كرات اللحم في الزبدة الساخنة في مقلاة كبيرة حتى تنضج تماماً.",
+            "أخرج كرات اللحم واتركها جانباً. أضف مرق اللحم إلى المقلاة لإذابة الرواسب.",
+            "أضف الكريمة واتركها حتى تثخن. تبّل بالملح والفلفل.",
+            "قدم كرات اللحم مغطاة بالصلصة، مع البطاطس المهروسة وملعقة من مربى التوت."
+          ],
+          "prep_time": "20 دقيقة",
+          "cook_time": "25 دقيقة",
+          "servings": "4 أشخاص",
+          "difficulty": "متوسط",
+          "tags": ["طعام مريح", "إسكندنافيا", "لحم بقري", "عشاء عائلي", "وصفة سويدية"]
+        },
+        "pt": {
+          "name": "Almôndegas Suecas com Molho Cremoso",
+          "slug": "almondegas-suecas-molho-cremoso",
+          "description": "As icônicas almôndegas suecas servidas em um rico molho cremoso, tradicionalmente acompanhadas de geleia de lingonberry e purê de batatas.",
+          "history": "Tornadas famosas mundialmente pelo IKEA, estas 'Köttbullar' são um pilar da culinária caseira sueca. Sua origem remonta ao século XVIII, influenciada pelo Rei Carlos XII que trouxe a receita da Turquia.",
+          "ingredients": [
+            "500g de carne moída mista (porco e boi)",
+            "1 cebola pequena picada finamente",
+            "1 ovo",
+            "50ml de leite",
+            "30g de farinha de rosca",
+            "Sal e pimenta preta a gosto",
+            "Manteiga para fritar",
+            "200ml de caldo de carne",
+            "150ml de creme de leite fresco",
+            "Geleia de lingonberry para servir"
+          ],
+          "instructions": [
+            "Misture o leite com a farinha de rosca e deixe descansar por 5 minutos.",
+            "Em uma tigela, combine a carne, cebola, ovo, mistura de farinha e temperos. Amasse bem.",
+            "Forme pequenas bolas do tamanho de uma noz com as mãos úmidas.",
+            "Doure as almôndegas na manteiga quente em uma frigideira grande até cozinhar.",
+            "Retire as almôndegas e reserve. Desglaceie a panela com o caldo de carne.",
+            "Adicione o creme e reduza até engrossar. Tempere com sal e pimenta.",
+            "Sirva as almôndegas cobertas com molho, purê de batatas e geleia de lingonberry."
+          ],
+          "prep_time": "20 min",
+          "cook_time": "25 min",
+          "servings": "4 porções",
+          "difficulty": "Médio",
+          "tags": ["comfort food", "escandinávia", "carne", "jantar em família", "receita sueca"]
+        },
+        "ru": {
+          "name": "Шведские фрикадельки со сливочным соусом",
+          "slug": "shvedskie-frikadelki-slivki",
+          "description": "Знаменитые шведские фрикадельки, подаваемые в богатом сливочном соусе, традиционно с брусничным вареньем и картофельным пюре.",
+          "history": "Ставшие всемирно известными благодаря IKEA, эти 'Köttbullar' являются основой шведской домашней кухни. Их происхождение восходит к 18 веку, когда король Карл XII привез рецепт из Турции.",
+          "ingredients": [
+            "500г смешанного фарша (свинина и говядина)",
+            "1 маленькая луковица, мелко нарезанная",
+            "1 яйцо",
+            "50мл молока",
+            "30г панировочных сухарей",
+            "Соль и черный перец по вкусу",
+            "Сливочное масло для жарки",
+            "200мл говяжьего бульона",
+            "150мл жирных сливок",
+            "Брусничное варенье для подачи"
+          ],
+          "instructions": [
+            "Смешайте молоко с сухарями и оставьте на 5 минут.",
+            "В миске смешайте мясо, лук, яйцо, смесь сухарей и специи. Хорошо вымесите.",
+            "Сформируйте маленькие шарики размером с грецкий орех влажными руками.",
+            "Обжарьте фрикадельки в горячем масле до золотистой корочки и готовности.",
+            "Выньте фрикадельки. Деглазируйте сковороду говяжьим бульоном.",
+            "Добавьте сливки и уваривайте до загустения. Посолите и поперчите.",
+            "Подавайте фрикадельки под соусом, с пюре и брусничным вареньем."
+          ],
+          "prep_time": "20 мин",
+          "cook_time": "25 мин",
+          "servings": "4 порции",
+          "difficulty": "Средний",
+          "tags": ["комфортная еда", "скандинавия", "говядина", "семейный ужин", "шведский рецепт"]
+        },
+        "bn": {
+          "name": "ক্রিম সস সহ সুইডিশ মিটবল",
+          "slug": "su-i-dis-mit-bal-krim-sos",
+          "description": "বিখ্যাত সুইডিশ মিটবল যা সমৃদ্ধ ক্রিমি গ্রেভির সাথে পরিবেশন করা হয়, ঐতিহ্যগতভাবে লিংগনবেরি জ্যাম এবং ম্যাশড আলুর সাথে।",
+          "history": "IKEA এর মাধ্যমে বিশ্ববিখ্যাত এই 'Köttbullar' সুইডিশ ঘরোয়া রান্নার মূল অংশ। এদের উৎপত্তি ১৮শ শতকে, যখন রাজা চার্লস দ্বাদশ তুরস্ক থেকে এই রেসিপি নিয়ে আসেন।",
+          "ingredients": [
+            "৫০০গ্রাম মিশ্র কিমা (শূকর ও গরু)",
+            "১টি ছোট পেঁয়াজ, মিহি করে কাটা",
+            "১টি ডিম",
+            "৫০মিলি দুধ",
+            "৩০গ্রাম ব্রেডক্রাম্ব",
+            "লবণ ও গোলমরিচ স্বাদমতো",
+            "ভাজার জন্য মাখন",
+            "২০০মিলি গরুর ঝোল",
+            "১৫০মিলি হেভি ক্রিম",
+            "পরিবেশনের জন্য লিংগনবেরি জ্যাম"
+          ],
+          "instructions": [
+            "দুধ এবং ব্রেডক্রাম্ব মিশিয়ে ৫ মিনিট রাখুন।",
+            "একটি বাটিতে মাংস, পেঁয়াজ, ডিম, ব্রেডক্রাম্ব মিশ্রণ এবং মশলা একত্রিত করুন। ভালো করে মাখুন।",
+            "ভেজা হাত দিয়ে আকারের ছোট ছোট বল তৈরি করুন।",
+            "একটি বড় প্যানে মাখন গরম করে মিটবলগুলো সুন্দর করে ভাজুন।",
+            "মিটবলগুলো সরিয়ে রাখুন। প্যানে গরুর ঝোল দিয়ে ডেগ্লেজ করুন।",
+            "ক্রিম দিন এবং ঘন না হওয়া পর্যন্ত রান্না করুন। লবণ ও মরিচ দিন।",
+            "মিটবলগুলো সস সহ, ম্যাশড আলু এবং লিংগনবেরি জ্যামের সাথে পরিবেশন করুন।"
+          ],
+          "prep_time": "২০ মিনিট",
+          "cook_time": "২৫ মিনিট",
+          "servings": "৪ জন",
+          "difficulty": "মধ্যম",
+          "tags": ["কমফোর্ট ফুড", "স্ক্যান্ডিনেভিয়া", "গরুর মাংস", "পারিবারিক রাতের খাবার", "সুইডিশ রেসিপি"]
+        },
+        "ur": {
+          "name": "کریم ساس کے ساتھ سویڈش میٹ بالز",
+          "slug": "sweedish-meet-balls-cream-sauce",
+          "description": "مشہور سویڈش میٹ بالز جو امیر کریمی گریوی میں پیش کیے جاتے ہیں، روایتی طور پر لنگن بیری جام اور میشڈ آلو کے ساتھ۔",
+          "history": "IKEA کی وجہ سے عالمی شہرت پانے والے یہ 'Köttbullar' سویڈش گھریلو کھانے کا اہم حصہ ہیں۔ ان کی ابتدا 18ویں صدی میں ہوئی جب بادشاہ چارلس بارہویں نے ترکی سے یہ نسخہ لایا تھا۔",
+          "ingredients": [
+            "500گرام مکس قیمہ (سؤر اور گائے)",
+            "1 چھوٹا پیاز، باریک کٹا ہوا",
+            "1 انڈا",
+            "50مل دودھ",
+            "30گرام بریڈ کرمbs",
+            "نمک اور کالی مرچ حسب ذائقہ",
+            "تلنے کے لیے مکھن",
+            "200مل بیف اسٹاک",
+            "150مل ہیوی کریم",
+            "پیش کرنے کے لیے لنگن بیری جام"
+          ],
+          "instructions": [
+            "دودھ کو بریڈ کرمbs کے ساتھ ملائیں اور 5 منٹ کے لیے رکھ دیں۔",
+            "ایک پیالے میں گوشت، پیاز، انڈا، بریڈ کرم مکسچر اور مصالحے ملائیں۔ اچھی طرح گوندھ لیں۔",
+            "گیلے ہاتھوں سے اخروٹ کے سائز کی چھوٹی گیندیں بنائیں۔",
+            "ایک بڑے پین میں مکھن گرم کر کے میٹ بالز کو سنہرا ہونے تک تل لیں۔",
+            "میٹ بالز نکال کر الگ رکھیں۔ پین میں بیف اسٹاک ڈال کر ڈی گلیز کریں۔",
+            "کریم شامل کریں اور گاڑھا ہونے تک پکائیں۔ نمک اور مرچ ڈالیں۔",
+            "میٹ بالز کو سوس کے ساتھ، میشڈ آلو اور لنگن بیری جام کے ساتھ پیش کریں۔"
+          ],
+          "prep_time": "20 منٹ",
+          "cook_time": "25 منٹ",
+          "servings": "4 سرونگز",
+          "difficulty": "درمیانہ",
+          "tags": ["کمفرٹ فوڈ", "سکینڈینیویا", "گائے کا گوشت", "خاندانی رات کا کھانا", "سویڈش نسخہ"]
+        },
+        "id": {
+          "name": "Bakso Swedia dengan Saus Krim",
+          "slug": "bakso-swedia-saus-krim",
+          "description": "Bakso Swedia ikonik yang disajikan dengan saus krim kental yang kaya, secara tradisional disertai selai lingonberry dan kentang tumbuk.",
+          "history": "Dipopulerkan secara global oleh IKEA, 'Köttbullar' ini adalah makanan pokok masakan rumah Swedia. Asalnya berasal dari abad ke-18, dipengaruhi oleh Raja Charles XII yang membawa resep dari Turki.",
+          "ingredients": [
+            "500g daging cincang campuran (babi dan sapi)",
+            "1 bawang bombay kecil, cincang halus",
+            "1 butir telur",
+            "50ml susu",
+            "30g tepung roti",
+            "Garam dan lada hitam secukupnya",
+            "Mentega untuk menggoreng",
+            "200ml kaldu sapi",
+            "150ml krim kental",
+            "Selai lingonberry untuk penyajian"
+          ],
+          "instructions": [
+            "Campur susu dengan tepung roti dan diamkan selama 5 menit.",
+            "Dalam mangkuk, campurkan daging, bawang, telur, campuran tepung roti, dan bumbu. Uleni dengan baik.",
+            "Bentuk bola-bola kecil seukuran kenari dengan tangan basah.",
+            "Goreng bakso dalam mentega panas hingga matang dan berwarna cokelat.",
+            "Angkat bakso dan sisihkan. Deglaze wajan dengan kaldu sapi.",
+            "Tambahkan krim dan masak hingga mengental. Bumbui dengan garam dan lada.",
+            "Sajikan bakso dengan saus, kentang tumbuk, dan selai lingonberry."
+          ],
+          "prep_time": "20 menit",
+          "cook_time": "25 menit",
+          "servings": "4 porsi",
+          "difficulty": "Sedang",
+          "tags": ["makanan nyaman", "skandinavia", "daging sapi", "makan malam keluarga", "resep swedia"]
+        }
+      }
+    },
+    {
+      "id": "sc-haggis",
+      "country": "Scotland",
+      "region": "United Kingdom",
+      "translations": {
+        "es": {
+          "name": "Haggis Escocés Tradicional",
+          "slug": "haggis-escoces-tradicional",
+          "description": "El plato nacional de Escocia, una salchicha picante hecha con corazón, hígado y pulmones de cordero mezclados con avena, cebolla y especias, hervido en un estómago de oveja.",
+          "history": "Inmortalizado por el poema 'Address to a Haggis' de Robert Burns, este plato tiene raíces medievales. Se celebra cada 25 de enero en la 'Burns Night', una cena ceremonial en honor al poeta nacional.",
+          "ingredients": [
+            "1 estómago de oveja limpio (o funda sintética)",
+            "500g de menudencias de cordero (corazón, hígado, pulmón)",
+            "200g de sebo de cordero picado",
+            "200g de avena tostada",
+            "2 cebollas grandes picadas",
+            "Caldo de cordero",
+            "Sal, pimienta negra y nuez moscada",
+            "Pimienta de Jamaica y cilantro molido"
+          ],
+          "instructions": [
+            "Hervir las menudencias en agua con sal durante 2 horas hasta que estén tiernas.",
+            "Picar finamente la carne cocida y mezclarla con el sebo, la avena tostada y las cebollas.",
+            "Sazonar generosamente con sal, pimienta y especias. Añadir un poco de caldo para humedecer.",
+            "Rellenar el estómago de oveja con la mezcla (no más de 2/3 de capacidad).",
+            "Coser la abertura y hervir el Haggis a fuego lento durante 3-4 horas.",
+            "Pinchar ligeramente con un tenedor durante la cocción para evitar que reviente.",
+            "Servir caliente con 'Neeps and Tatties' (nabos y patatas) y salsa de whisky."
+          ],
+          "prep_time": "45 min",
+          "cook_time": "4 horas",
+          "servings": "6 personas",
+          "difficulty": "Avanzada",
+          "tags": ["plato nacional", "escocia", "cordero", "tradición", "burns night"]
+        },
+        "en": {
+          "name": "Traditional Scottish Haggis",
+          "slug": "traditional-scottish-haggis",
+          "description": "Scotland's national dish, a savory pudding containing sheep's pluck (heart, liver, lungs), minced with onion, oatmeal, suet, and spices, encased in the animal's stomach.",
+          "history": "Immortalized by Robert Burns' poem 'Address to a Haggis', this dish has medieval roots. It is celebrated every January 25th on 'Burns Night', a ceremonial supper honoring the national poet.",
+          "ingredients": [
+            "1 cleaned sheep's stomach (or synthetic casing)",
+            "500g sheep's offal (heart, liver, lungs)",
+            "200g chopped sheep suet",
+            "200g toasted oatmeal",
+            "2 large onions, chopped",
+            "Sheep stock",
+            "Salt, black pepper, and nutmeg",
+            "Allspice and ground coriander"
+          ],
+          "instructions": [
+            "Boil the offal in salted water for 2 hours until tender.",
+            "Finely mince the cooked meat and mix with suet, toasted oatmeal, and onions.",
+            "Season generously with salt, pepper, and spices. Add some stock to moisten.",
+            "Stuff the sheep's stomach with the mixture (no more than 2/3 full).",
+            "Sew up the opening and simmer the Haggis gently for 3-4 hours.",
+            "Prick lightly with a fork during cooking to prevent bursting.",
+            "Serve hot with 'Neeps and Tatties' (turnips and potatoes) and whisky sauce."
+          ],
+          "prep_time": "45 min",
+          "cook_time": "4 hours",
+          "servings": "6 servings",
+          "difficulty": "Advanced",
+          "tags": ["national dish", "scotland", "lamb", "tradition", "burns night"]
+        },
+        "zh": {
+          "name": "传统苏格兰哈吉斯",
+          "slug": "chuan-tong-su-ge-lan-ha-ji-si",
+          "description": "苏格兰的国菜，一种咸味布丁，包含羊杂碎（心、肝、肺），与洋葱、燕麦片、板油和香料混合，包裹在羊胃中。",
+          "history": "罗伯特·彭斯的诗《致哈吉斯》使其不朽，这道菜起源于中世纪。每年1月25日的“彭斯之夜”都会庆祝它，这是为了纪念这位民族诗人的仪式性晚餐。",
+          "ingredients": [
+            "1个清洗干净的羊胃（或人造肠衣）",
+            "500克羊杂碎（心、肝、肺）",
+            "200克切碎的羊板油",
+            "200克烤燕麦片",
+            "2个大洋葱，切碎",
+            "羊高汤",
+            "盐、黑胡椒和肉豆蔻",
+            "多香果和磨碎的香菜籽"
+          ],
+          "instructions": [
+            "将杂碎在盐水中煮2小时直至变软。",
+            "将煮熟的肉剁碎，与板油、烤燕麦片和洋葱混合。",
+            "加入大量的盐、胡椒和香料调味。加一些高汤湿润。",
+            "将混合物填入羊胃中（不超过三分之二满）。",
+            "缝合开口，将哈吉斯小火慢炖3-4小时。",
+            "烹饪过程中用叉子轻轻刺孔以防爆裂。",
+            "热食，搭配“芜菁甘蓝和土豆”（Neeps and Tatties）及威士忌酱。"
+          ],
+          "prep_time": "45分钟",
+          "cook_time": "4小时",
+          "servings": "6人份",
+          "difficulty": "高级",
+          "tags": ["国菜", "苏格兰", "羊肉", "传统", "彭斯之夜"]
+        },
+        "fr": {
+          "name": "Haggis Écossais Traditionnel",
+          "slug": "haggis-ecossais-traditionnel",
+          "description": "Le plat national de l'Écosse, un boudin salé contenant des abats de mouton (cœur, foie, poumons), hachés avec oignon, avoine, suif et épices, le tout enfermé dans un estomac de mouton.",
+          "history": "Immortalisé par le poème de Robert Burns 'Address to a Haggis', ce plat a des racines médiévales. Il est célébré chaque 25 janvier lors de la 'Nuit de Burns', un souper cérémoniel en l'honneur du poète national.",
+          "ingredients": [
+            "1 estomac de mouton nettoyé (ou boyau synthétique)",
+            "500g d'abats de mouton (cœur, foie, poumons)",
+            "200g de suif de mouton haché",
+            "200g de flocons d'avoine grillés",
+            "2 gros oignons hachés",
+            "Bouillon de mouton",
+            "Sel, poivre noir et muscade",
+            "Piment de la Jamaïque et coriandre moulue"
+          ],
+          "instructions": [
+            "Faire bouillir les abats dans l'eau salée pendant 2 heures jusqu'à tendreté.",
+            "Hacher finement la viande cuite et mélanger avec le suif, l'avoine et les oignons.",
+            "Assaisonner généreusement avec sel, poivre et épices. Ajouter du bouillon pour humidifier.",
+            "Remplir l'estomac de mouton avec le mélange (aux 2/3 maximum).",
+            "Coudre l'ouverture et faire mijoter le Haggis doucement pendant 3-4 heures.",
+            "Piquer légèrement avec une fourchette pendant la cuisson pour éviter l'éclatement.",
+            "Servir chaud avec 'Neeps and Tatties' (navets et pommes de terre) et sauce au whisky."
+          ],
+          "prep_time": "45 min",
+          "cook_time": "4 heures",
+          "servings": "6 personnes",
+          "difficulty": "Avancé",
+          "tags": ["plat national", "écosse", "agneau", "tradition", "nuit de burns"]
+        },
+        "ja": {
+          "name": "伝統的なスコットランドのハギス",
+          "slug": "dentou-teki-na-suko-tto-ran-do-no-ha-gi-su",
+          "description": "スコットランドの国民的料理。羊の内臓（心臓、肝臓、肺）を刻み、玉ねぎ、オートミール、ヘット（脂）、スパイスと混ぜて、羊の胃袋に詰めた savory プディングです。",
+          "history": "ロバート・バーンズの詩『ハギスへの/address』によって不朽のものとなったこの料理は、中世にルーツを持ちます。毎年1月25日の「バーンズナイト」で、国民的詩人を称える儀式の夕食として祝われます。",
+          "ingredients": [
+            "洗浄した羊の胃袋 1個（または人工ケーシング）",
+            "羊のオフアル（心臓、肝臓、肺）500g",
+            "刻んだ羊のヘット（脂身）200g",
+            "ローストしたオートミール 200g",
+            "みじん切り玉ねぎ 大2個",
+            "羊のスープ",
+            "塩、黒胡椒、ナツメグ",
+            "オールスパイス、挽いたコリアンダー"
+          ],
+          "instructions": [
+            "内臓を塩水で2時間柔らかくなるまで茹でます。",
+            "調理した肉を細かく刻み、ヘット、オートミール、玉ねぎと混ぜます。",
+            "塩、胡椒、スパイスで十分に味付けし、スープを少し加えて湿らせます。",
+            "羊の胃袋に混合物を詰めます（容量の3分の2まで）。",
+            "開口部を縫い合わせ、ハギスを3〜4時間弱火で煮込みます。",
+            "破裂を防ぐため、調理中にフォークで軽く穴を開けます。",
+            "「ニープス・アンド・タティーズ」（カブとジャガイモ）とウィスキーソースを添えて温かく提供します。"
+          ],
+          "prep_time": "45分",
+          "cook_time": "4時間",
+          "servings": "6人前",
+          "difficulty": "上級",
+          "tags": ["国民的料理", "スコットランド", "ラム肉", "伝統", "バーンズナイト"]
+        },
+        "hi": {
+          "name": "पारंपरिक स्कॉटिश हैगिस",
+          "slug": "paramparik-skotish-ha-gis",
+          "description": "स्कॉटलैंड का राष्ट्रीय व्यंजन, एक स्वादिष्ट पुडिंग जिसमें भेड़ के अंग (हृदय, यकृत, फेफड़े) होते हैं, जिन्हें प्याज, जई, सूअर की चर्बी और मसालों के साथ पीसकर जानवर के पेट में रखा जाता है।",
+          "history": "रॉबर्ट बर्न्स की कविता 'Address to a Haggis' द्वारा अमर किया गया, इस व्यंजन की जड़ें मध्ययुगीन काल में हैं। इसे हर साल 25 जनवरी को 'बर्न्स नाइट' पर मनाया जाता है, जो राष्ट्रीय कवि के सम्मान में एक औपचारिक रात का खाना है।",
+          "ingredients": [
+            "1 साफ किया हुआ भेड़ का पेट (या सिंथेटिक केसिंग)",
+            "500ग्राम भेड़ के अंग (हृदय, यकृत, फेफड़े)",
+            "200ग्राम कटी हुई भेड़ की चर्बी",
+            "200ग्राम भुना हुआ जई (ओटमील)",
+            "2 बड़े प्याज, कटे हुए",
+            "भेड़ का स्टॉक",
+            "नमक, काली मिर्च और जायफल",
+            "ऑलस्पाइस और पिसा धनिया"
+          ],
+          "instructions": [
+            "अंगों को नमकीन पानी में 2 घंटे तक उबालें जब तक वे नरम न हो जाएं।",
+            "पके हुए मांस को बारीक काटें और चर्बी, भुने हुए ओटमील और प्याज के साथ मिलाएं।",
+            "नमक, मिर्च और मसालों के साथ अच्छी तरह सीजन करें। नम करने के लिए कुछ स्टॉक डालें।",
+            "भेड़ के पेट को मिश्रण से भरें (2/3 से अधिक नहीं)।",
+            "मुंह को सी दें और हैगिस को 3-4 घंटे तक धीमी आंच पर पकाएं।",
+            "फटने से रोकने के लिए पकाते समय कांटे से हल्का छेदें।",
+            "'Neeps and Tatties' (शलजम और आलू) और व्हिस्की सॉस के साथ गर्मागर्म परोसें।"
+          ],
+          "prep_time": "45 मिनट",
+          "cook_time": "4 घंटे",
+          "servings": "6 सर्विंग",
+          "difficulty": "उन्नत",
+          "tags": ["राष्ट्रीय व्यंजन", "स्कॉटलैंड", "मेमने का मांस", "परंपरा", "बर्न्स नाइट"]
+        },
+        "ar": {
+          "name": "هاغيس اسكتلندي تقليدي",
+          "slug": "ha-ghis-as-kat-lan-di-ta-qli-di",
+          "description": "الطبق الوطني الاسكتلندي، بودنغ لذيذ يحتوي على أحشاء الغنم (القلب والكبد والرئتين)، مفرومة مع البصل والشوفان وشحم الخروف والتوابل، ومحشوة في معدة الحيوان.",
+          "history": "خلدها روبرت بيرنز في قصيدته 'Address to a Haggis'، لهذا الطبق جذور تعود للعصور الوسطى. يتم الاحتفال به في 25 يناير من كل عام في 'ليلة بيرنز'، وهو عشاء احتفالي تكريماً للشاعر الوطني.",
+          "ingredients": [
+            "1 معدة غنم منظفة (أو غلاف صناعي)",
+            "500غ أحشاء غنم (قلب، كبد، رئتان)",
+            "200غ شحم غنم مفروم",
+            "200غ شوفان محمص",
+            "2 بصل كبير مفروم",
+            "مرق غنم",
+            "ملح وفلفل أسود وجوزة الطيب",
+            "بهارات مشكلة وكزبرة مطحونة"
+          ],
+          "instructions": [
+            "اغلي الأحشاء في ماء مملح لمدة ساعتين حتى تنضج.",
+            "افرّم اللحم المطبوخ ناعماً واخلطه مع الشحم والشوفان والبصل.",
+            "تبّل بسخاء بالملح والفلفل والتوابل. أضف بعض المرق للترطيب.",
+            "احشو معدة الغنم بالخليط (لا أكثر من ثلثي السعة).",
+            "أغلق الفتحة بالخيط واطبخ الهاغيس على نار هادئة لمدة 3-4 ساعات.",
+            "اثقب برفق بشوكة أثناء الطهي لمنع الانفجار.",
+            "قدم ساخناً مع 'Neeps and Tatties' (لفت وبطاطس) وصلصة الويسكي."
+          ],
+          "prep_time": "45 دقيقة",
+          "cook_time": "4 ساعات",
+          "servings": "6 أشخاص",
+          "difficulty": "متقدم",
+          "tags": ["طبق وطني", "اسكتلندا", "لحم ضأن", "تقاليد", "ليلة بيرنز"]
+        },
+        "pt": {
+          "name": "Haggis Escocês Tradicional",
+          "slug": "haggis-escoces-tradicional",
+          "description": "O prato nacional da Escócia, um pudim salgado contendo miúdos de ovelha (coração, fígado, pulmões), picados com cebola, aveia, sebo e especiarias, envolvidos no estômago do animal.",
+          "history": "Imortalizado pelo poema de Robert Burns 'Address to a Haggis', este prato tem raízes medievais. É celebrado em 25 de janeiro na 'Noite de Burns', um jantar cerimonial em honra ao poeta nacional.",
+          "ingredients": [
+            "1 estômago de ovelha limpo (ou tripa sintética)",
+            "500g de miúdos de ovelha (coração, fígado, pulmões)",
+            "200g de sebo de ovelha picado",
+            "200g de aveia torrada",
+            "2 cebolas grandes picadas",
+            "Caldo de ovelha",
+            "Sal, pimenta preta e noz-moscada",
+            "Pimenta-da-jamaica e coentro moído"
+          ],
+          "instructions": [
+            "Ferva os miúdos em água salgada por 2 horas até ficarem macios.",
+            "Pique finamente a carne cozida e misture com sebo, aveia torrada e cebolas.",
+            "Tempere generosamente com sal, pimenta e especiarias. Adicione caldo para umedecer.",
+            "Recheie o estômago de ovelha com a mistura (não mais que 2/3 da capacidade).",
+            "Costure a abertura e cozinhe o Haggis em fogo brando por 3-4 horas.",
+            "Fure levemente com um garfo durante o cozimento para evitar estouro.",
+            "Sirva quente com 'Neeps and Tatties' (nabos e batatas) e molho de uísque."
+          ],
+          "prep_time": "45 min",
+          "cook_time": "4 horas",
+          "servings": "6 porções",
+          "difficulty": "Avançado",
+          "tags": ["prato nacional", "escócia", "cordeiro", "tradição", "noite de burns"]
+        },
+        "ru": {
+          "name": "Традиционный шотландский хаггис",
+          "slug": "traditsionnyy-shotlandskiy-khaggis",
+          "description": "Национальное блюдо Шотландии, соленый пудинг, содержащий овечьи потроха (сердце, печень, легкие), измельченные с луком, овсянкой, салом и специями, запеченные в желудке животного.",
+          "history": "Обессмерченное стихотворением Роберта Бернса 'Address to a Haggis', это блюдо имеет средневековые корни. Его отмечают каждый год 25 января в 'Ночь Бернса', церемониальный ужин в честь национального поэта.",
+          "ingredients": [
+            "1 очищенный овечий желудок (или искусственная оболочка)",
+            "500г овечьих потрохов (сердце, печень, легкие)",
+            "200г рубленого овечьего сала",
+            "200г жареной овсянки",
+            "2 большие луковицы, нарезанные",
+            "Овечий бульон",
+            "Соль, черный перец и мускатный орех",
+            "Душистый перец и молотый кориандр"
+          ],
+          "instructions": [
+            "Отварите потроха в подсоленной воде в течение 2 часов до мягкости.",
+            "Мелко нарежьте приготовленное мясо и смешайте с салом, овсянкой и луком.",
+            "Щедро приправьте солью, перцем и специями. Добавьте немного бульона для влаги.",
+            "Нафаршируйте овечий желудок смесью (не более чем на 2/3).",
+            "Зашейте отверстие и тушите хаггис на медленном огне 3-4 часа.",
+            "Слегка проткните вилкой во время готовки, чтобы предотвратить разрыв.",
+            "Подавайте горячим с 'Neeps and Tatties' (репа и картофель) и соусом из виски."
+          ],
+          "prep_time": "45 мин",
+          "cook_time": "4 часа",
+          "servings": "6 порций",
+          "difficulty": "Продвинутый",
+          "tags": ["национальное блюдо", "шотландия", "баранина", "традиция", "ночь бернса"]
+        },
+        "bn": {
+          "name": "ঐতিহ্যবাহী স্কটিশ হাগিস",
+          "slug": "oi-ti-hya-ba-hi-sko-tish-ha-gis",
+          "description": "স্কটল্যান্ডের জাতীয় খাবার, একটি সুস্বাদু পুডিং যাতে ভেড়ার নাড়িভুঁড়ি (হৃদপিণ্ড, যকৃত, ফুসফুস) থাকে, যা পেঁয়াজ, ওটমিল, সুয়েট এবং মশলার সাথে মিশিয়ে প্রাণীর পাকস্থলীতে রাখা হয়।",
+          "history": "রবার্ট বার্নসের কবিতা 'Address to a Haggis' দ্বারা অমর হয়ে আছে, এই খাবারটির মধ্যযুগীয় শিকড় রয়েছে। এটি প্রতি বছর ২৫ জানুয়ারি 'বার্নস নাইট'-এ পালন করা হয়, যা জাতীয় কবির সম্মানে একটি অনুষ্ঠানিক রাতের খাবার।",
+          "ingredients": [
+            "১টি পরিষ্কার ভেড়ার পাকস্থলী (বা সিন্থেটিক খোসা)",
+            "৫০০গ্রাম ভেড়ার নাড়িভুঁড়ি (হৃদপিণ্ড, যকৃত, ফুসফুস)",
+            "২০০গ্রাম কাটা ভেড়ার চর্বি",
+            "২০০গ্রাম ভাজা ওটমিল",
+            "২টি বড় পেঁয়াজ, কাটা",
+            "ভেড়ার ঝোল",
+            "লবণ, গোলমরিচ এবং জায়ফল",
+            "অলস্পাইস এবং ধনে পাউডার"
+          ],
+          "instructions": [
+            "নাড়িভুঁড়িগুলো লবণ পানিতে ২ ঘণ্টা সিদ্ধ করুন যতক্ষণ না নরম হয়।",
+            "রান্না করা মাংস মিহি করে কেটে চর্বি, ভাজা ওটমিল এবং পেঁয়াজের সাথে মিশান।",
+            "লবণ, মরিচ এবং মশলা দিয়ে ভালো করে সিজন করুন। আর্দ্রতার জন্য কিছু ঝোল দিন।",
+            "ভেড়ার পাকস্থলীটি মিশ্রণ দিয়ে পূরণ করুন (২/৩ এর বেশি নয়)।",
+            "মুখটি সেলাই করুন এবং হাগিসটি ৩-৪ ঘণ্টা ধরে কম আঁচে রান্না করুন।",
+            "ফেটে যাওয়া রোধ করতে রান্নার সময় কাঁটা দিয়ে হালকা ছিদ্র করুন।",
+            "'Neeps and Tatties' (শালগম এবং আলু) এবং উইস্কি সসের সাথে গরম পরিবেশন করুন।"
+          ],
+          "prep_time": "৪৫ মিনিট",
+          "cook_time": "৪ ঘণ্টা",
+          "servings": "৬ জন",
+          "difficulty": "উন্নত",
+          "tags": ["জাতীয় খাবার", "স্কটল্যান্ড", "ভেড়ার মাংস", "ঐতিহ্য", "বার্নস নাইট"]
+        },
+        "ur": {
+          "name": "روایتی سکاٹش ہیگس",
+          "slug": "riwa-ya-ti-sco-tish-hai-gis",
+          "description": "سکاٹ لینڈ کا قومی پکوان، ایک لذیذ پڈنگ جس میں بھیڑ کے اجزاء (دل، جگر، پھیپھڑے) ہوتے ہیں، جنہیں پیاز، جوئی، چربی اور مصالحے کے ساتھ پیس کر جانور کے پیٹ میں بھر دیا جاتا ہے۔",
+          "history": "رابرٹ برنس کی نظم 'Address to a Haggis' نے اسے امر کر دیا، اس پکوان کی جڑیں قرون وسطیٰ میں ہیں۔ یہ ہر سال 25 جنوری کو 'برنز نائٹ' پر منایا جاتا ہے، جو قومی شاعر کے اعزاز میں ایک تقریبی رات کا کھانا ہے۔",
+          "ingredients": [
+            "1 صاف کیا ہوا بھیڑ کا پیٹ (یا مصنوعی کیسنگ)",
+            "500گرام بھیڑ کے اجزاء (دل، جگر، پھیپھڑے)",
+            "200گرام کٹی ہوئی بھیڑ کی چربی",
+            "200گرام بھنا ہوا جوئی",
+            "2 بڑے پیاز، کٹے ہوئے",
+            "بھیڑ کا اسٹاک",
+            "نمک، کالی مرچ اور جائفل",
+            "آل سپائس اور پسا ہوا دھنیا"
+          ],
+          "instructions": [
+            "اجزاء کو نمکین پانی میں 2 گھنٹے ابالیں جب تک کہ نرم نہ ہو جائیں۔",
+            "پکے ہوئے گوشت کو باریک کاٹیں اور چربی، بھنے ہوئے جوئی اور پیاز کے ساتھ ملائیں۔",
+            "نمک، مرچ اور مصالحے کے ساتھ اچھی طرح سیزن کریں۔ نمی کے لیے کچھ اسٹاک ڈالیں۔",
+            "بھیڑ کے پیٹ کو مکسچر سے بھریں (2/3 سے زیادہ نہیں)۔",
+            "منہ کو سی دیں اور ہیگس کو 3-4 گھنٹے تک ہلکی آنچ پر پکائیں۔",
+            "پھٹنے سے بچانے کے لیے پکاتے وقت کانٹے سے ہلکا سا سوراخ کریں۔",
+            "'Neeps and Tatties' (شلجم اور آلو) اور وسکی ساس کے ساتھ گرم پیش کریں۔"
+          ],
+          "prep_time": "45 منٹ",
+          "cook_time": "4 گھنٹے",
+          "servings": "6 سرونگز",
+          "difficulty": "ایڈوانسڈ",
+          "tags": ["قومی پکوان", "سکاٹ لینڈ", "مینے کا گوشت", "روایت", "برنز نائٹ"]
+        },
+        "id": {
+          "name": "Haggis Skotlandia Tradisional",
+          "slug": "haggis-skotlandia-tradisional",
+          "description": "Hidangan nasional Skotlandia, puding gurih yang berisi jeroan domba (jantung, hati, paru-paru), dicincang dengan bawang, oatmeal, lemak domba, dan rempah, dibungkus dalam perut hewan.",
+          "history": "Diabadikan oleh puisi Robert Burns 'Address to a Haggis', hidangan ini berakar pada abad pertengahan. Dirayakan setiap 25 Januari pada 'Malam Burns', makan malam seremonial untuk menghormati penyair nasional.",
+          "ingredients": [
+            "1 perut domba bersih (atau selongsong sintetis)",
+            "500g jeroan domba (jantung, hati, paru-paru)",
+            "200g lemak domba cincang",
+            "200g oatmeal sangrai",
+            "2 bawang bombay besar, cincang",
+            "Kaldu domba",
+            "Garam, lada hitam, dan pala",
+            "Allspice dan ketumbar bubuk"
+          ],
+          "instructions": [
+            "Rebus jeroan dalam air asin selama 2 jam hingga empuk.",
+            "Cincang halus daging matang dan campur dengan lemak, oatmeal, dan bawang.",
+            "Bumbui dengan garam, lada, dan rempah-rempah. Tambahkan kaldu untuk melembabkan.",
+            "Isi perut domba dengan campuran (maksimal 2/3 penuh).",
+            "Jahit bukaan dan rebus Haggis dengan api kecil selama 3-4 jam.",
+            "Tusuk sedikit dengan garpu saat memasak agar tidak pecah.",
+            "Sajikan panas dengan 'Neeps and Tatties' (lobak dan kentang) dan saus wiski."
+          ],
+          "prep_time": "45 menit",
+          "cook_time": "4 jam",
+          "servings": "6 porsi",
+          "difficulty": "Lanjut",
+          "tags": ["hidangan nasional", "skotlandia", "daging domba", "tradisi", "malam burns"]
+        }
+      }
+    },
+    {
+      "id": "nz-pavlova",
+      "country": "New Zealand / Australia",
+      "region": "Oceania",
+      "translations": {
+        "es": {
+          "name": "Pavlova con Frutas Frescas",
+          "slug": "pavlova-frutas-frescas",
+          "description": "Un postre icónico de Oceanía con una base de merengue crujiente por fuera y suave como un malvavisco por dentro, coronado con crema batida y frutas tropicales frescas.",
+          "history": "Nombrada en honor a la bailarina rusa Anna Pavlova tras su gira por Australasia en los años 20. Tanto Nueva Zelanda como Australia reclaman su invención, siendo un símbolo de orgullo culinario regional.",
+          "ingredients": [
+            "4 claras de huevo a temperatura ambiente",
+            "225g de azúcar blanca",
+            "1 cucharadita de vinagre blanco",
+            "1 cucharadita de extracto de vainilla",
+            "2 cucharaditas de maicena",
+            "300ml de crema para batir",
+            "Fruta de la pasión, kiwi, fresas y frambuesas",
+            "Azúcar glass para decorar"
+          ],
+          "instructions": [
+            "Precalentar el horno a 150°C y forrar una bandeja con papel encerado dibujando un círculo de 20cm.",
+            "Batir las claras a punto de nieve. Agregar el azúcar gradualmente hasta formar picos firmes y brillantes.",
+            "Incorporar suavemente el vinagre, vainilla y maicena tamizada.",
+            "Colocar el merengue en el círculo dibujado, creando bordes altos y un hueco en el centro.",
+            "Hornear durante 1 hora y luego apagar el horno, dejando la puerta entreabierta hasta que enfríe completamente.",
+            "Batir la crema con un poco de azúcar hasta montar.",
+            "Rellenar el centro de la pavlova con crema y decorar generosamente con frutas frescas picadas justo antes de servir."
+          ],
+          "prep_time": "20 min",
+          "cook_time": "1 hora + enfriamiento",
+          "servings": "8 personas",
+          "difficulty": "Media",
+          "tags": ["postre", "oceania", "merengue", "frutas", "navidad australiana"]
+        },
+        "en": {
+          "name": "Pavlova with Fresh Fruits",
+          "slug": "pavlova-fresh-fruits",
+          "description": "An iconic Oceanian dessert featuring a crisp meringue base with a soft marshmallow-like interior, topped with whipped cream and fresh tropical fruits.",
+          "history": "Named after Russian ballerina Anna Pavlova following her tour of Australasia in the 1920s. Both New Zealand and Australia claim its invention, making it a symbol of regional culinary pride.",
+          "ingredients": [
+            "4 egg whites at room temperature",
+            "225g caster sugar",
+            "1 tsp white vinegar",
+            "1 tsp vanilla extract",
+            "2 tsp cornstarch",
+            "300ml heavy whipping cream",
+            "Passion fruit, kiwi, strawberries, and raspberries",
+            "Icing sugar for dusting"
+          ],
+          "instructions": [
+            "Preheat oven to 150°C and line a baking tray with parchment paper drawing a 20cm circle.",
+            "Whisk egg whites until stiff peaks form. Gradually add sugar until glossy and firm.",
+            "Gently fold in vinegar, vanilla, and sifted cornstarch.",
+            "Spoon meringue onto the circle, building high edges and a slight depression in the center.",
+            "Bake for 1 hour, then turn off oven and leave door ajar until completely cool.",
+            "Whip cream with a little sugar until stiff peaks form.",
+            "Fill the center of the pavlova with cream and top generously with chopped fresh fruits just before serving."
+          ],
+          "prep_time": "20 min",
+          "cook_time": "1 hour + cooling",
+          "servings": "8 servings",
+          "difficulty": "Medium",
+          "tags": ["dessert", "oceania", "meringue", "fruit", "australian christmas"]
+        },
+        "zh": {
+          "name": "鲜果蛋白霜蛋糕 (帕芙洛娃)",
+          "slug": "xian-guo-dan-bai-shuang-dan-gao",
+          "description": "大洋洲的标志性甜点，拥有酥脆的蛋白霜外壳和如棉花糖般柔软的内部，顶部饰以打发的鲜奶油和新鲜热带水果。",
+          "history": "以俄罗斯芭蕾舞演员安娜·帕芙洛娃命名，源于她1920年代对澳大拉西亚的巡演。新西兰和澳大利亚都声称是其发明者，使其成为该地区烹饪自豪感的象征。",
+          "ingredients": [
+            "4个室温蛋清",
+            "225克细砂糖",
+            "1茶匙白醋",
+            "1茶匙香草精",
+            "2茶匙玉米淀粉",
+            "300毫升重奶油",
+            "百香果、猕猴桃、草莓和覆盆子",
+            "糖粉（装饰用）"
+          ],
+          "instructions": [
+            "预热烤箱至150°C，在烤盘上铺烘焙纸并画一个20厘米的圆圈。",
+            "将蛋清打发至硬性发泡。逐渐加入糖，直到光泽且坚挺。",
+            "轻轻拌入醋、香草精和过筛的玉米淀粉。",
+            "将蛋白霜舀到圆圈上，堆高边缘并在中心留出凹陷。",
+            "烘烤1小时，然后关闭烤箱，让门微开直至完全冷却。",
+            "将奶油加少许糖打发至硬性发泡。",
+            "在上桌前，将奶油填入帕芙洛娃中心，并大量铺上新鲜切块水果。"
+          ],
+          "prep_time": "20分钟",
+          "cook_time": "1小时 + 冷却",
+          "servings": "8人份",
+          "difficulty": "中等",
+          "tags": ["甜点", "大洋洲", "蛋白霜", "水果", "澳洲圣诞节"]
+        },
+        "fr": {
+          "name": "Pavlova aux Fruits Frais",
+          "slug": "pavlova-fruits-frais",
+          "description": "Un dessert emblématique d'Océanie avec une base de meringue croustillante et un intérieur moelleux comme une guimauve, garni de crème fouettée et de fruits tropicaux frais.",
+          "history": "Nommée en hommage à la ballerine russe Anna Pavlova après sa tournée en Australasie dans les années 1920. La Nouvelle-Zélande et l'Australie revendiquent toutes deux son invention, symbole de fierté culinaire régionale.",
+          "ingredients": [
+            "4 blancs d'œufs à température ambiante",
+            "225g de sucre en poudre",
+            "1 cuillère à café de vinaigre blanc",
+            "1 cuillère à café d'extrait de vanille",
+            "2 cuillères à café de fécule de maïs",
+            "300ml de crème liquide entière",
+            "Fruit de la passion, kiwi, fraises et framboises",
+            "Sucre glace pour décorer"
+          ],
+          "instructions": [
+            "Préchauffer le four à 150°C et tapisser une plaque de papier sulfurisé en dessinant un cercle de 20cm.",
+            "Monter les blancs en neige ferme. Ajouter le sucre progressivement jusqu'à obtenir des pics brillants.",
+            "Incorporer délicatement le vinaigre, la vanille et la fécule tamisée.",
+            "Déposer la meringue sur le cercle, en formant des bords hauts et un creux au centre.",
+            "Cuire 1 heure, puis éteindre le four et laisser la porte entrouverte jusqu'à refroidissement complet.",
+            "Monter la crème avec un peu de sucre en chantilly.",
+            "Garnir le centre de la pavlova de crème et décorer généreusement de fruits frais coupés juste avant de servir."
+          ],
+          "prep_time": "20 min",
+          "cook_time": "1 heure + refroidissement",
+          "servings": "8 personnes",
+          "difficulty": "Moyen",
+          "tags": ["dessert", "océanie", "meringue", "fruits", "noël australien"]
+        },
+        "ja": {
+          "name": "フレッシュフルーツの Павロワ",
+          "slug": "furesshu-furuutsu-no-pa-u-ro-wa",
+          "description": "外はサクサク、中はマシュマロのように柔らかいメレンゲが特徴的なオセアニアの象徴的なデザート。ホイップクリームと新鮮なトロピカルフルーツをトッピングしています。",
+          "history": "1920年代にオーストララシアをツアーしたロシアのバレリーナ、アンナ・パヴロワにちなんで名付けられました。ニュージーランドとオーストラリアの両国が発祥を主張しており、地域の誇りを象徴する料理です。",
+          "ingredients": [
+            "室温の卵白 4個分",
+            "グラニュー糖 225g",
+            "白酢 小さじ1",
+            "バニラエッセンス 小さじ1",
+            "コーンスターチ 小さじ2",
+            "生クリーム 300ml",
+            "パッションフルーツ、キウイ、イチゴ、ラズベリー",
+            "飾り用粉糖"
+          ],
+          "instructions": [
+            "オーブンを150°Cに予熱し、天板にクッキングシートを敷いて20cmの円を描きます。",
+            "卵白を角が立つまで泡立てます。砂糖を数回に分けて加え、艶が出てしっかりするまで泡立てます。",
+            "酢、バニラ、ふるったコーンスターチを優しく折り込みます。",
+            "描いた円の上にメレンゲを乗せ、縁を高くし中央を少しくぼませます。",
+            "1時間焼き、その後オーブンの電源を切って扉を少し開け、完全に冷めるまで放置します。",
+            "クリームに少量の砂糖を加えて泡立てます。",
+            "提供する直前に、パヴロワの中央にクリームを盛り、刻んだ新鮮なフルーツをたっぷりとトッピングします。"
+          ],
+          "prep_time": "20分",
+          "cook_time": "1時間 + 冷却",
+          "servings": "8人前",
+          "difficulty": "中級",
+          "tags": ["デザート", "オセアニア", "メレンゲ", "フルーツ", "オーストラリアのクリスマス"]
+        },
+        "hi": {
+          "name": "ताजे फलों के साथ पावलोवा",
+          "slug": "ta-je pha-lon ke saath pa-vlo-va",
+          "description": "ओशिनिया का प्रसिद्ध डेजर्ट जिसमें बाहर से क्रिस्पी और अंदर से मार्शमेलो जैसा मुलायम मेरिंग्यू बेस होता है, जिस पर व्हिप्ड क्रीम और ताजे ट्रॉपिकल फल होते हैं।",
+          "history": "1920 के दशक में ऑस्ट्रेलेशिया के दौरे के बाद रूसी बैलेरिना एना पावलोवा के नाम पर रखा गया। न्यूजीलैंड और ऑस्ट्रेलिया दोनों इसके आविष्कार का दावा करते हैं, जो क्षेत्रीय Culinary गौरव का प्रतीक है।",
+          "ingredients": [
+            "4 अंडे की सफेदी (कमरे के तापमान पर)",
+            "225ग्राम चीनी",
+            "1 चम्मच सफेद सिरका",
+            "1 चम्मच वेनिला एक्सट्रैक्ट",
+            "2 चम्मच कॉर्नस्टार्च",
+            "300ml हेवी व्हिपिंग क्रीम",
+            "पैशन फ्रूट, कीवी, स्ट्रॉबेरी और रास्पबेरी",
+            "सजावट के लिए आइसिंग शुगर"
+          ],
+          "instructions": [
+            "ओवन को 150°C पर प्रीहीट करें और बेकिंग ट्रे पर 20cm का गोला बनाकर पेपर बिछाएं।",
+            "अंडे की सफेदी को फेंटें जब तक कि सख्त पीक न बन जाएं। धीरे-धीरे चीनी मिलाएं जब तक कि चमकदार और सख्त न हो जाए।",
+            "सिरका, वेनिला और छनी हुई कॉर्नस्टार्च को धीरे से मिलाएं।",
+            "मेरिंग्यू को गोले पर रखें, ऊंची दीवारें बनाएं और बीच में थोड़ा गड्ढा छोड़ें।",
+            "1 घंटे तक बेक करें, फिर ओवन बंद कर दें और पूरी तरह ठंडा होने तक दरवाजा खुला छोड़ दें।",
+            "क्रीम में थोड़ी चीनी मिलाकर फेंट लें।",
+            "परोसने से ठीक पहले पावलोवा के बीच में क्रीम भरें और ताजे कटे हुए फलों से सजाएं।"
+          ],
+          "prep_time": "20 मिनट",
+          "cook_time": "1 घंटा + ठंडा करना",
+          "servings": "8 सर्विंग",
+          "difficulty": "मध्यम",
+          "tags": ["डेजर्ट", "ओशिनिया", "मेरिंग्यू", "फल", "ऑस्ट्रेलियाई क्रिसमस"]
+        },
+        "ar": {
+          "name": "بافلوف مع الفواكه الطازجة",
+          "slug": "ba-flu-lof ma'a al-fawa-kih al-ta-ziyah",
+          "description": "حلوى أوقيانوسية شهيرة تتميز بقاعدة مرينغ مقرمشة من الخارج وطرية مثل الخطمي من الداخل، مغطاة بالكريمة المخفوقة والفواكه الاستوائية الطازجة.",
+          "history": "سميت تيمناً بالراقصة الروسية آنا بافلوفا بعد جولتها في أسترالاسيا في عشرينيات القرن الماضي. تطالب كل من نيوزيلندا وأستراليا باختراعها، مما يجعلها رمزاً للفخر بالطهي الإقليمي.",
+          "ingredients": [
+            "4 بياض بيض بدرجة حرارة الغرفة",
+            "225غ سكر ناعم",
+            "1 ملعقة صغيرة خل أبيض",
+            "1 ملعقة صغيرة مستخلص فانيليا",
+            "2 ملعقة صغيرة نشا ذرة",
+            "300مل كريمة خفق ثقيلة",
+            "فاكهة العاطفة، كيوي، فراولة، وتوت العليق",
+            "سكر بودرة للتزيين"
+          ],
+          "instructions": [
+            "سخّن الفرن إلى 150 درجة مئوية وغطّ صينية الخبز بورق زبدة وارسم دائرة قطرها 20 سم.",
+            "اخفق بياض البيض حتى يتكون قمم صلبة. أضف السكر تدريجياً حتى يصبح لامعاً وثابتاً.",
+            "أضف الخل والفانيليا ونشا الذرة المنخول برفق.",
+            "ضع المرينغ على الدائرة، وابنِ حوافاً عالية وانخفاضاً طفيفاً في المنتصف.",
+            "اخبز لمدة ساعة، ثم أطفئ الفرن واترك الباب مفتوحاً قليلاً حتى يبرد تماماً.",
+            "اخفق الكريمة مع قليل من السكر حتى تتكون قمم صلبة.",
+            "املأ مركز البافلوف بالكريمة وزين بسخاء بالفواكه الطازجة المقطعة قبل التقديم مباشرة."
+          ],
+          "prep_time": "20 دقيقة",
+          "cook_time": "ساعة + تبريد",
+          "servings": "8 أشخاص",
+          "difficulty": "متوسط",
+          "tags": ["حلوى", "أوقيانوسيا", "مرينغ", "فواكه", "عيد ميلاد أسترالي"]
+        },
+        "pt": {
+          "name": "Pavlova com Frutas Frescas",
+          "slug": "pavlova-frutas-frescas",
+          "description": "Uma sobremesa icônica da Oceania com base de merengue crocante por fora e macia como marshmallow por dentro, coberta com chantilly e frutas tropicais frescas.",
+          "history": "Nomeada em homenagem à bailarina russa Anna Pavlova após sua turnê pela Australásia nos anos 20. Nova Zelândia e Austrália reivindicam sua invenção, sendo um símbolo de orgulho culinário regional.",
+          "ingredients": [
+            "4 claras de ovos em temperatura ambiente",
+            "225g de açúcar refinado",
+            "1 colher de chá de vinagre branco",
+            "1 colher de chá de extrato de baunilha",
+            "2 colheres de chá de amido de milho",
+            "300ml de creme de leite fresco para bater",
+            "Maracujá, kiwi, morangos e framboesas",
+            "Açúcar de confeiteiro para decorar"
+          ],
+          "instructions": [
+            "Pré-aqueça o forno a 150°C e forre uma assadeira com papel manteiga desenhando um círculo de 20cm.",
+            "Bata as claras em neve firme. Adicione o açúcar gradualmente até formar picos firmes e brilhantes.",
+            "Incorpore delicadamente o vinagre, baunilha e amido peneirado.",
+            "Coloque o merengue no círculo, criando bordas altas e um depressão no centro.",
+            "Asse por 1 hora, depois desligue o forno e deixe a porta entreaberta até esfriar completamente.",
+            "Bata o creme com um pouco de açúcar até ficar firme.",
+            "Recheie o centro da pavlova com creme e decore generosamente com frutas frescas picadas pouco antes de servir."
+          ],
+          "prep_time": "20 min",
+          "cook_time": "1 hora + resfriamento",
+          "servings": "8 porções",
+          "difficulty": "Médio",
+          "tags": ["sobremesa", "oceania", "merengue", "frutas", "natal australiano"]
+        },
+        "ru": {
+          "name": "Павлова со свежими фруктами",
+          "slug": "pavlova-so-svezhimi-fruktami",
+          "description": "Знаменитый океанийский десерт с хрустящей основой из безе и мягкой зефирной серединкой, украшенный взбитыми сливками и свежими тропическими фруктами.",
+          "history": "Назван в честь русской балерины Анны Павловой после ее тура по Австралазии в 1920-х годах. И Новая Зеландия, и Австралия претендуют на его изобретение, что делает его символом региональной кулинарной гордости.",
+          "ingredients": [
+            "4 яичных белка комнатной температуры",
+            "225г мелкого сахара",
+            "1 ч.л. белого уксуса",
+            "1 ч.л. экстракта ванили",
+            "2 ч.л. кукурузного крахмала",
+            "300мл жирных сливок для взбивания",
+            "Маракуйя, киви, клубника и малина",
+            "Сахарная пудра для украшения"
+          ],
+          "instructions": [
+            "Разогрейте духовку до 150°C и застелите противень пергаментом, нарисовав круг диаметром 20см.",
+            "Взбейте белки до устойчивых пиков. Постепенно добавляйте сахар до блеска и твердости.",
+            "Осторожно вмешайте уксус, ваниль и просеянный крахмал.",
+            "Выложите безе на круг, формируя высокие края и углубление в центре.",
+            "Выпекайте 1 час, затем выключите духовку и оставьте дверцу приоткрытой до полного остывания.",
+            "Взбейте сливки с небольшим количеством сахара до пиков.",
+            "Заполните центр павловой кремом и щедро украсьте нарезанными свежими фруктами перед подачей."
+          ],
+          "prep_time": "20 мин",
+          "cook_time": "1 час + охлаждение",
+          "servings": "8 порций",
+          "difficulty": "Средний",
+          "tags": ["десерт", "океания", "безе", "фрукты", "австралийское рождество"]
+        },
+        "bn": {
+          "name": "টাজা ফলের সাথে পাভলোভা",
+          "slug": "ta-ja pha-le-ra sa-the pa-ba-lo-ba",
+          "description": "ওশেনিয়ার একটি আইকনিক ডেজার্ট যার বাইরে থেকে ক্রিসপি এবং ভিতরে মার্শমেলোর মতো নরম মেরিঙ্গু বেস থাকে, যার উপরে হুইপড ক্রিম এবং টাজা ট্রপিকাল ফল থাকে।",
+          "history": "১৯২০ এর দশকে অস্ট্রালাশিয়া সফরের পর রাশিয়ান ব্যালেরিনা আনা পাভলোভার নামানুসারে নামকরণ করা হয়েছে। নিউজিল্যান্ড এবং অস্ট্রেলিয়া উভয়ই এর উদ্ভাবনের দাবি করে, যা আঞ্চলিক রান্নার গর্বের প্রতীক।",
+          "ingredients": [
+            "৪টি ডিমের সাদা অংশ (কমরের তাপমাত্রায়)",
+            "২২৫গ্রাম চিনি",
+            "১ চামচ সাদা ভিনেগার",
+            "১ চামচ ভ্যানিলা এক্সট্রাক্ট",
+            "২ চামচ কর্নস্টার্চ",
+            "৩০০মিলি হেভি হুইপিং ক্রিম",
+            "প্যাসন ফ্রুট, কিউই, স্ট্রবেরি এবং রাসবেরি",
+            "সাজানোর জন্য আইসিং সুগার"
+          ],
+          "instructions": [
+            "চুল্লি ১৫০°সে প্রিহিট করুন এবং বেকিং ট্রেতে ২০সেমি বৃত্ত এঁকে পেপার বিছান।",
+            "ডিমের সাদা অংশ শক্ত পিক না হওয়া পর্যন্ত ফেটান। চিনি ধীরে ধীরে মেশান যতক্ষণ না চকচকে এবং শক্ত হয়।",
+            "ভিনেগার, ভ্যানিলা এবং ছাঁকনি দেওয়া কর্নস্টার্চ আলতো করে মেশান।",
+            "মেরিঙ্গু বৃত্তের উপর রাখুন, উঁচু দিক এবং মাঝখানে সামান্য গর্ত তৈরি করুন।",
+            "১ ঘণ্টা বেক করুন, তারপর চুল্লি বন্ধ করুন এবং সম্পূর্ণ ঠান্ডা হওয়া পর্যন্ত দরজা খোলা রাখুন।",
+            "কিছু চিনি মিশিয়ে ক্রিম ফেটান।",
+            "পরিবেশনের ঠিক আগে পাভলোভার মাঝখানে ক্রিম ভরে টাজা কাটা ফল দিয়ে সাজান।"
+          ],
+          "prep_time": "২০ মিনিট",
+          "cook_time": "১ ঘণ্টা + ঠান্ডা করা",
+          "servings": "৮ জন",
+          "difficulty": "মধ্যম",
+          "tags": ["ডেজার্ট", "ওশেনিয়া", "মেরিঙ্গু", "ফল", "অস্ট্রেলিয়ান ক্রিসমাস"]
+        },
+        "ur": {
+          "name": "تازہ پھلوں کے ساتھ پاولووا",
+          "slug": "ta-za-phal-on-ke-saath-pa-o-lo-wa",
+          "description": "اوشینیا کا ایک مشہور میٹھا جس کی بنیاد باہر سے کرسپی اور اندر سے مارشمیلو جیسی نرم مرینگ ہوتی ہے، جس کے اوپر وپڈ کریم اور تازہ ٹروپیکل پھل ہوتے ہیں۔",
+          "history": "1920 کی دہائی میں آسٹرالیشیا کے دورے کے بعد روسی بالرینا اینا پاولووا کے نام پر رکھا گیا۔ نیوزی لینڈ اور آسٹریلیا دونوں اس کی ایجاد کا دعویٰ کرتے ہیں، جو علاقائی کھانوں کے فخر کی علامت ہے۔",
+          "ingredients": [
+            "4 انڈے کی سفیدی (کمرے کے درجہ حرارت پر)",
+            "225گرام چینی",
+            "1 چائے کا چمچ سفید سرکہ",
+            "1 چائے کا چمچ ونیلا ekstrakt",
+            "2 چائے کا چمچ کارن اسٹارچ",
+            "300مل ہیوی وپنگ کریم",
+            "پیشن فروٹ، کیوی، اسٹرابیری اور رس بیری",
+            "سجاوٹ کے لیے آئسنگ شوگر"
+          ],
+          "instructions": [
+            "اوون کو 150°C پر پری ہیٹ کریں اور بیکنگ ٹرے پر 20cm کا دائرہ بنا کر پیپر بچھائیں۔",
+            "انڈے کی سفیدی کو سخت پیک بننے تک پھینٹیں۔ چینی آہستہ آہستہ شامل کریں جب تک کہ چمکدار اور سخت نہ ہو جائے۔",
+            "سرکہ، ونیلا اور چھنی ہوئی کارن اسٹارچ کو آہستگی سے ملائیں۔",
+            "مرینگ کو دائرے پر رکھیں، اونچی دیواریں بنائیں اور درمیان میں تھوڑا سا گڑھا چھوڑیں۔",
+            "1 گھنٹہ بیک کریں، پھر اوون بند کر دیں اور مکمل ٹھنڈا ہونے تک دروازہ کھلا چھوڑ دیں۔",
+            "تھوڑی چینی ملا کر کریم پھینٹ لیں۔",
+            "پروسنے سے ٹھیک پہلے پاولووا کے درمیان میں کریم بھریں اور تازہ کٹے ہوئے پھلوں سے خوبصورتی سے سجائیں۔"
+          ],
+          "prep_time": "20 منٹ",
+          "cook_time": "1 گھنٹہ + ٹھنڈا کرنا",
+          "servings": "8 سرونگز",
+          "difficulty": "درمیانہ",
+          "tags": ["میٹھا", "اوشینیا", "مرینگ", "پھل", "آسٹریلوی کرسمس"]
+        },
+        "id": {
+          "name": "Pavlova dengan Buah Segar",
+          "slug": "pavlova-dengan-buah-segar",
+          "description": "Makanan penutup ikonik Oseania dengan dasar meringue yang renyah di luar dan lembut seperti marshmallow di dalam, dihiasi dengan krim kocok dan buah tropis segar.",
+          "history": "Dinamai setelah penari balet Rusia Anna Pavlova mengikuti tournya di Australasia pada tahun 1920-an. Selandia Baru dan Australia sama-sama mengklaim penemuannya, menjadikannya simbol kebanggaan kuliner regional.",
+          "ingredients": [
+            "4 putih telur suhu ruang",
+            "225g gula kastor",
+            "1 sdt cuka putih",
+            "1 sdt ekstrak vanila",
+            "2 sdt tepung jagung",
+            "300ml krim kental untuk dikocok",
+            "Markisa, kiwi, stroberi, dan raspberry",
+            "Gula halus untuk taburan"
+          ],
+          "instructions": [
+            "Panaskan oven hingga 150°C dan alasi loyang dengan kertas roti menggambar lingkaran 20cm.",
+            "Kocok putih telur hingga kaku. Tambahkan gula perlahan hingga mengkilap dan kencang.",
+            "Masukkan cuka, vanila, dan tepung jagung ayak dengan lembut.",
+            "Sendokkan meringue ke atas lingkaran, buat tepi tinggi dan lekukan di tengah.",
+            "Panggang selama 1 jam, lalu matikan oven dan biarkan pintu terbuka sedikit hingga dingin sepenuhnya.",
+            "Kocok krim dengan sedikit gula hingga kaku.",
+            "Isi tengah pavlova dengan krim dan hiasi dengan banyak buah segar potong tepat sebelum disajikan."
+          ],
+          "prep_time": "20 menit",
+          "cook_time": "1 jam + pendinginan",
+          "servings": "8 porsi",
+          "difficulty": "Sedang",
+          "tags": ["makanan penutup", "oseania", "meringue", "buah", "natal australia"]
+        }
+      }
+    },
+    {
+      "id": "us-kalua-pig",
+      "country": "USA (Hawaii)",
+      "region": "Pacific",
+      "translations": {
+        "es": {
+          "name": "Kalua Pig (Cerdo Hawaiano)",
+          "slug": "kalua-pig-cerdo-hawaiano",
+          "description": "Cerdo entero cocinado lentamente en un horno subterráneo tradicional (Imu), resultando en una carne desmenuzada, ahumada e increíblemente tierna, condimentada solo con sal marina.",
+          "history": "El plato central de cualquier Luau (fiesta hawaiana). Históricamente cocinado en un Imu (horno de tierra) con piedras volcánicas calientes y hojas de plátano, simbolizando comunidad y celebración.",
+          "ingredients": [
+            "1 pierna de cerdo entera (aprox. 5-7 kg)",
+            "Sal marina gruesa hawaiana (Alaea)",
+            "Humo líquido (para método moderno de horno)",
+            "Hojas de plátano o aluminio para envolver",
+            "Opcional: Camote y Taro para acompañar"
+          ],
+          "instructions": [
+            "Precalentar el horno a 160°C (o preparar el Imu tradicional con piedras volcánicas).",
+            "Lavar y secar la carne de cerdo. Frotar generosamente con sal marina por todos lados.",
+            "Añadir unas gotas de humo líquido si se usa horno convencional para simular el sabor ahumado.",
+            "Envolver la carne herméticamente en hojas de plátano (o varias capas de papel aluminio).",
+            "Colocar en una bandeja profunda y hornear a baja temperatura durante 6 a 8 horas hasta que se deshaga.",
+            "Dejar reposar 30 minutos antes de abrir el paquete.",
+            "Desmenuzar la carne con tenedores, mezclando los jugos y la grasa con la carne magra. Servir con Poi."
+          ],
+          "prep_time": "30 min",
+          "cook_time": "6-8 horas",
+          "servings": "15-20 personas",
+          "difficulty": "Media (tiempo largo)",
+          "tags": ["luau", "hawaii", "cerdo", "horno subterráneo", "festividad"]
+        },
+        "en": {
+          "name": "Kalua Pig (Hawaiian Roast Pork)",
+          "slug": "kalua-pig-hawaiian-roast-pork",
+          "description": "Whole pork leg slow-cooked in a traditional underground oven (Imu), resulting in shredded, smoky, and incredibly tender meat seasoned only with sea salt.",
+          "history": "The centerpiece of any Luau (Hawaiian feast). Historically cooked in an Imu (earth oven) with hot volcanic rocks and banana leaves, symbolizing community and celebration.",
+          "ingredients": [
+            "1 whole pork leg (approx. 5-7 kg)",
+            "Hawaiian coarse sea salt (Alaea)",
+            "Liquid smoke (for modern oven method)",
+            "Banana leaves or foil for wrapping",
+            "Optional: Sweet potato and Taro for sides"
+          ],
+          "instructions": [
+            "Preheat oven to 160°C (or prepare traditional Imu with volcanic rocks).",
+            "Wash and dry the pork. Rub generously with sea salt on all sides.",
+            "Add a few dashes of liquid smoke if using a conventional oven to simulate smoky flavor.",
+            "Wrap the meat tightly in banana leaves (or multiple layers of aluminum foil).",
+            "Place in a deep pan and roast at low temperature for 6 to 8 hours until falling apart.",
+            "Let rest for 30 minutes before unwrapping.",
+            "Shred the meat with forks, mixing juices and fat with lean meat. Serve with Poi."
+          ],
+          "prep_time": "30 min",
+          "cook_time": "6-8 hours",
+          "servings": "15-20 servings",
+          "difficulty": "Medium (long time)",
+          "tags": ["luau", "hawaii", "pork", "underground oven", "celebration"]
+        },
+        "zh": {
+          "name": "卡鲁瓦猪 (夏威夷烤猪肉)",
+          "slug": "ka-lu-wa-zhu-xia-wei-yi-kao-zhu-rou",
+          "description": "整只猪腿在传统地下烤箱（Imu）中慢煮而成，肉质呈丝状、带有烟熏味且极其嫩滑，仅用海盐调味。",
+          "history": "任何卢奥（夏威夷宴会）的主菜。历史上是在 Imu（土窑）中用炽热的火山石和香蕉叶烹制，象征着社区和庆祝活动。",
+          "ingredients": [
+            "1只整猪腿（约5-7公斤）",
+            "夏威夷粗海盐（Alaea）",
+            "液体烟（用于现代烤箱法）",
+            "香蕉叶或铝箔纸（用于包裹）",
+            "可选：红薯和芋头作为配菜"
+          ],
+          "instructions": [
+            "预热烤箱至160°C（或准备传统的火山石 Imu）。",
+            "清洗并擦干猪肉。在所有侧面大量涂抹海盐。",
+            "如果使用普通烤箱，加入几滴液体烟以模拟烟熏风味。",
+            "用香蕉叶（或多层铝箔纸）紧紧包裹肉类。",
+            "放入深盘中，低温烘烤6至8小时，直到肉质酥烂。",
+            "打开包裹前静置30分钟。",
+            "用叉子将肉撕碎，将汁液和脂肪与瘦肉混合。搭配Poi食用。"
+          ],
+          "prep_time": "30分钟",
+          "cook_time": "6-8小时",
+          "servings": "15-20人份",
+          "difficulty": "中等（时间长）",
+          "tags": ["卢奥", "夏威夷", "猪肉", "地下烤箱", "庆典"]
+        },
+        "fr": {
+          "name": "Kalua Pig (Porc Rôti Hawaïen)",
+          "slug": "kalua-pig-porc-roti-hawaiien",
+          "description": "Jambe de porc entière cuite lentement dans un four souterrain traditionnel (Imu), donnant une viande effilochée, fumée et incroyablement tendre, assaisonnée uniquement de sel de mer.",
+          "history": "La pièce maîtresse de tout Luau (festin hawaïen). Historiquement cuit dans un Imu (four de terre) avec des roches volcaniques chaudes et des feuilles de bananier, symbolisant la communauté et la célébration.",
+          "ingredients": [
+            "1 jambe de porc entière (env. 5-7 kg)",
+            "Gros sel de mer hawaïen (Alaea)",
+            "Arôme fumé liquide (pour méthode four moderne)",
+            "Feuilles de bananier ou aluminium pour emballer",
+            "Optionnel : Patate douce et Taro en accompagnement"
+          ],
+          "instructions": [
+            "Préchauffer le four à 160°C (ou préparer l'Imu traditionnel avec des roches volcaniques).",
+            "Laver et sécher le porc. Frotter généreusement avec du sel de mer sur toutes les faces.",
+            "Ajouter quelques gouttes d'arôme fumé si on utilise un four conventionnel pour simuler le goût fumé.",
+            "Envelopper la viande hermétiquement dans des feuilles de bananier (ou plusieurs couches d'aluminium).",
+            "Placer dans un plat profond et rôtir à basse température pendant 6 à 8 heures jusqu'à ce que la viande se détache.",
+            "Laisser reposer 30 minutes avant d'ouvrir l'emballage.",
+            "Effilocher la viande avec des fourchettes, en mélangeant jus et gras avec la viande maigre. Servir avec du Poi."
+          ],
+          "prep_time": "30 min",
+          "cook_time": "6-8 heures",
+          "servings": "15-20 personnes",
+          "difficulty": "Moyen (temps long)",
+          "tags": ["luau", "hawaï", "porc", "four souterrain", "célébration"]
+        },
+        "ja": {
+          "name": "カルア・ピッグ（ハワイ風ローストポーク）",
+          "slug": "ka-ru-a-piggu-hawai-fuu-ro-su-to-po-ku",
+          "description": "伝統的な地下オーブン（Imu）でゆっくり調理された豚の脚全体。ほぐれるような食感、スモーキーな香り、そして信じられないほど柔らかい肉に、海の塩だけで味付けされています。",
+          "history": "ルアウ（ハワイの宴会）の中心的な料理。歴史的には、熱い火山岩とバナナの葉を使った Imu（土窯）で調理され、コミュニティと祝祭を象徴しています。",
+          "ingredients": [
+            "豚の脚 1本（約5-7kg）",
+            "ハワイアン粗塩（アレア）",
+            "液体スモーク（現代のオーブン使用時）",
+            "包む用のバナナの葉またはアルミホイル",
+            "オプション：サツマイモ、タロイモ（付け合わせ）"
+          ],
+          "instructions": [
+            "オーブンを160°Cに予熱する（または伝統的な火山岩のImuを準備）。",
+            "豚肉を洗い、水気を拭き取る。全面にたっぷりと海の塩をすり込む。",
+            "通常のオーブンを使用する場合、スモーキーな風味を出すために液体スモークを数滴加える。",
+            "肉をバナナの葉（またはアルミホイルを数重にしたもの）でしっかりと包む。",
+            "深い皿に入れ、肉が崩れるまで6〜8時間低温でローストする。",
+            "包みを開ける前に30分休ませる。",
+            "フォークで肉をほぐし、ジュースと脂身を赤身と混ぜ合わせる。ポイと共に提供する。"
+          ],
+          "prep_time": "30分",
+          "cook_time": "6-8時間",
+          "servings": "15-20人前",
+          "difficulty": "中級（長時間）",
+          "tags": ["ルアウ", "ハワイ", "豚肉", "地下オーブン", "お祝い"]
+        },
+        "hi": {
+          "name": "कलुआ पिग (हवाईयन रोस्ट पोर्क)",
+          "slug": "ka-lu-a-pig-ha-va-i-yan-rost-pork",
+          "description": "पारंपरिक भूमिगत ओवन (इमु) में धीरे-धीरे पकाया गया पूरा सुअर का पैर, जिसके परिणामस्वरूप कटा हुआ, धुआंदार और अविश्वसनीय रूप से कोमल मांस होता है जिसे केवल समुद्री नमक के साथ सीजन किया जाता है।",
+          "history": "किसी भी लुआउ (हवाईयन दावत) का मुख्य आकर्षण। ऐतिहासिक रूप से इमु (मिट्टी के ओवन) में गर्म ज्वालामुखी चट्टानों और केले के पत्तों के साथ पकाया जाता था, जो समुदाय और उत्सव का प्रतीक है।",
+          "ingredients": [
+            "1 पूरा सुअर का पैर (लगभग 5-7 किग्रा)",
+            "हवाईयन मोटा समुद्री नमक (अलाया)",
+            "लिक्विड स्मोक (आधुनिक ओवन विधि के लिए)",
+            "लपेटने के लिए केले के पत्ते या एल्युमीनियम पन्नी",
+            "वैकल्पिक: शकरकंद और टारो साइड के लिए"
+          ],
+          "instructions": [
+            "ओवन को 160°C पर प्रीहीट करें (या ज्वालामुखी चट्टानों के साथ पारंपरिक इमु तैयार करें)।",
+            "सुअर के मांस को धोएं और सुखाएं। सभी तरफ से समुद्री नमक से अच्छी तरह रगड़ें।",
+            "यदि पारंपरिक ओवन का उपयोग कर रहे हैं तो स्मोकी स्वाद के लिए लिक्विड स्मोक की कुछ बूंदें डालें।",
+            "मांस को केले के पत्तों (या एल्युमीनियम पन्नी की कई परतों) में कसकर लपेटें।",
+            "एक गहरे पैन में रखें और 6 से 8 घंटे तक कम तापमान पर भूनें जब तक कि मांस अलग न होने लगे।",
+            "खोलने से पहले 30 मिनट के लिए आराम करने दें।",
+            "कांटों से मांस को चीरें, रस और वसा को दुबले मांस के साथ मिलाएं। पोई के साथ परोसें।"
+          ],
+          "prep_time": "30 मिनट",
+          "cook_time": "6-8 घंटे",
+          "servings": "15-20 सर्विंग",
+          "difficulty": "मध्यम (लंबा समय)",
+          "tags": ["लुआउ", "हवाई", "सुअर का मांस", "भूमिगत ओवन", "उत्सव"]
+        },
+        "ar": {
+          "name": "كالوا بيغ (لحم خنزير هاواي مشوي)",
+          "slug": "ka-lu-wa-bigh-lahm-khin-zir-ha-wa-i-mash-wi",
+          "description": "فخذ خنزير كامل مطبوخ ببطء في فرن تقليدي تحت الأرض (إيمو)، مما ينتج عنه لحم مقطع ومدخن وطري بشكل لا يصدق، متبل بملح البحر فقط.",
+          "history": "قطعة الغيار في أي لواو (وليمة هاواية). يُطبخ تاريخياً في إيمو (فرن ترابي) بصخور بركانية ساخنة وأوراق موز، ويرمز إلى المجتمع والاحتفال.",
+          "ingredients": [
+            "1 فخذ خنزير كامل (حوالي 5-7 كغ)",
+            "ملح بحر هاواي خشن (ألاليا)",
+            "دخان سائل (لطريقة الفرن الحديثة)",
+            "أوراق موز أو ورق ألومنيوم للتغليف",
+            "اختياري: بطاطا حلوة وتارو للأطباق الجانبية"
+          ],
+          "instructions": [
+            "سخّن الفرن إلى 160 درجة مئوية (أو حضّر الإيمو التقليدي بالصخور البركانية).",
+            "اغسل لحم الخنزير وجففه. افركه بسخاء بملح البحر من جميع الجهات.",
+            "أضف بضع قطرات من الدخان السائل إذا كنت تستخدم فرنًا عاديًا لمحاكاة النكهة المدخنة.",
+            "لف اللحم بإحكام في أوراق الموز (أو عدة طبقات من ورق الألومنيوم).",
+            "ضعه في صينية عميقة واشوِه على درجة حرارة منخفضة لمدة 6 إلى 8 ساعات حتى يتفتت.",
+            "اتركه يرتاح لمدة 30 دقيقة قبل فتح الغلاف.",
+            "فتت اللحم بالشوكات، وامزج العصائر والدهون مع اللحم الهزيل. قدم مع البوي."
+          ],
+          "prep_time": "30 دقيقة",
+          "cook_time": "6-8 ساعات",
+          "servings": "15-20 شخصاً",
+          "difficulty": "متوسط (وقت طويل)",
+          "tags": ["لواو", "هاواي", "لحم خنزير", "فرن تحت الأرض", "احتفال"]
+        },
+        "pt": {
+          "name": "Kalua Pig (Porco Assado Havaiano)",
+          "slug": "kalua-pig-porco-assado-havaiano",
+          "description": "Perna de porco inteira cozida lentamente em um forno subterrâneo tradicional (Imu), resultando em carne desfiada, defumada e incrivelmente macia, temperada apenas com sal marinho.",
+          "history": "A peça central de qualquer Luau (festa havaiana). Historicamente cozido em um Imu (forno de terra) com pedras vulcânicas quentes e folhas de bananeira, simbolizando comunidade e celebração.",
+          "ingredients": [
+            "1 perna de porco inteira (aprox. 5-7 kg)",
+            "Sal marinho grosso havaiano (Alaea)",
+            "Fumaça líquida (para método de forno moderno)",
+            "Folhas de bananeira ou alumínio para embrulhar",
+            "Opcional: Batata-doce e Taro para acompanhamento"
+          ],
+          "instructions": [
+            "Pré-aqueça o forno a 160°C (ou prepare o Imu tradicional com pedras vulcânicas).",
+            "Lave e seque o porco. Esfregue generosamente com sal marinho em todos os lados.",
+            "Adicione algumas gotas de fumaça líquida se usar um forno convencional para simular o sabor defumado.",
+            "Embrulhe a carne firmemente em folhas de bananeira (ou várias camadas de papel alumínio).",
+            "Coloque em uma assadeira funda e asse em baixa temperatura por 6 a 8 horas até desmanchar.",
+            "Deixe descansar por 30 minutos antes de abrir o pacote.",
+            "Desfie a carne com garfos, misturando sucos e gordura com a carne magra. Sirva com Poi."
+          ],
+          "prep_time": "30 min",
+          "cook_time": "6-8 horas",
+          "servings": "15-20 porções",
+          "difficulty": "Médio (tempo longo)",
+          "tags": ["luau", "havaí", "porco", "forno subterrâneo", "celebração"]
+        },
+        "ru": {
+          "name": "Калуа Пиг (Гавайская свинина)",
+          "slug": "kalua-pig-gavayskaya-svinina",
+          "description": "Цельная свиная нога, медленно приготовленная в традиционной подземной печи (Иму), в результате получается измельченное, копченое и невероятно нежное мясо, приправленное только морской солью.",
+          "history": "Центральное блюдо любого Луау (гавайского пира). Исторически готовилось в Иму (земляной печи) с горячими вулканическими камнями и банановыми листьями, символизируя общину и праздник.",
+          "ingredients": [
+            "1 цельная свиная нога (ок. 5-7 кг)",
+            "Гавайская крупная морская соль (Алаэа)",
+            "Жидкий дым (для современного метода в духовке)",
+            "Банановые листья или фольга для заворачивания",
+            "Опционально: Батат и Таро на гарнир"
+          ],
+          "instructions": [
+            "Разогрейте духовку до 160°C (или подготовьте традиционную Иму с вулканическими камнями).",
+            "Вымойте и обсушите свинину. Щедро натрите морской солью со всех сторон.",
+            "Добавьте несколько капель жидкого дыма, если используете обычную духовку, для имитации копченого вкуса.",
+            "Плотно заверните мясо в банановые листья (или несколько слоев алюминиевой фольги).",
+            "Поместите в глубокую форму и запекайте при низкой температуре 6-8 часов до полного размягчения.",
+            "Дайте постоять 30 минут перед тем, как развернуть.",
+            "Разделите мясо вилками, смешивая соки и жир с постным мясом. Подавайте с Пои."
+          ],
+          "prep_time": "30 мин",
+          "cook_time": "6-8 часов",
+          "servings": "15-20 порций",
+          "difficulty": "Средний (долгое время)",
+          "tags": ["луау", "гавайи", "свинина", "подземная печь", "праздник"]
+        },
+        "bn": {
+          "name": "কালুয়া পিগ (হাওয়াইয়ান রোস্ট পোর্ক)",
+          "slug": "ka-lu-ya-pig-ha-wa-i-yan-rost-pork",
+          "description": "ঐতিহ্যবাহী মাটির চুল্লিতে (ইমু) ধীরে রান্না করা পুরো শুয়োরের পা, যার ফলে ছেঁড়া, ধোঁয়াটে এবং অবিশ্বাস্যভাবে কোমল মাংস পাওয়া যায় যা কেবল সমুদ্রের লবণ দিয়ে সিজন করা হয়।",
+          "history": "যেকোনো লুআউ (হাওয়াইয়ান উৎসব) এর প্রধান আকর্ষণ। ঐতিহাসিকভাবে ইমু (মাটির চুল্লি)তে গরম আগ্নেয় পাথর এবং কলার পাতার সাথে রান্না করা হতো, যা সম্প্রদায় এবং উদযাপনের প্রতীক।",
+          "ingredients": [
+            "১টি পুরো শুয়োরের পা (প্রায় ৫-৭ কেজি)",
+            "হাওয়াইয়ান মোটা সমুদ্রের লবণ (আলায়া)",
+            "লিকুইড স্মোক (আধুনিক চুল্লির পদ্ধতির জন্য)",
+            "মোড়ানোর জন্য কলার পাতা বা অ্যালুমিনিয়াম ফয়েল",
+            "ঐচ্ছিক: মিষ্টি আলু এবং টারো সাইডের জন্য"
+          ],
+          "instructions": [
+            "চুল্লি ১৬০°সে প্রিহিট করুন (বা আগ্নেয় পাথর সহ ঐতিহ্যবাহী ইমু প্রস্তুত করুন)।",
+            "শুয়োরের মাংস ধুয়ে শুকিয়ে নিন। সব দিক থেকে সমুদ্রের লবণ দিয়ে ভালো করে ঘষুন।",
+            "যদি সাধারণ চুল্লি ব্যবহার করেন তবে ধোঁয়াটে স্বাদের জন্য লিকুইড স্মোকের কয়েক ফোঁটা দিন।",
+            "মাংসটি কলার পাতায় (বা অ্যালুমিনিয়াম ফয়েলের অনেক স্তরে) শক্ত করে মুড়িয়ে নিন।",
+            "একটি গভীর প্যানে রাখুন এবং ৬ থেকে ৮ ঘণ্টা কম তাপমাত্রায় রোস্ট করুন যতক্ষণ না মাংস আলাদা হয়ে যায়।",
+            "খোলার আগে ৩০ মিনিট বিশ্রাম নিন।",
+            "কাঁটা দিয়ে মাংস ছিঁড়ে নিন, রস এবং চর্বি চিকন মাংসের সাথে মিশান। পোই এর সাথে পরিবেশন করুন।"
+          ],
+          "prep_time": "৩০ মিনিট",
+          "cook_time": "৬-৮ ঘণ্টা",
+          "servings": "১৫-২০ জন",
+          "difficulty": "মধ্যম (দীর্ঘ সময়)",
+          "tags": ["লুআউ", "হাওয়াই", "শুয়োরের মাংস", "মাটির চুল্লি", "উদযাপন"]
+        },
+        "ur": {
+          "name": "کلوا پگ (ہوائین روسٹ پورک)",
+          "slug": "kal-wa-pag-ha-wa-in-rost-pork",
+          "description": "روایتی زیر زمین تندور (امو) میں آہستہ آہستہ پکا ہوا پورا سور کا ٹانگ، جس کے نتیجے میں پھٹا ہوا، دھواں دار اور انتہائی نرم گوشت حاصل ہوتا ہے جسے صرف سمندری نمک کے ساتھ سیزن کیا جاتا ہے۔",
+          "history": "کسی بھی لواؤ (ہوائین ضیافت) کا مرکزی حصہ۔ تاریخی طور پر امو (مٹی کے تندور) میں گرم آتش فشان پتھروں اور کیلے کے پتوں کے ساتھ پکایا جاتا تھا، جو کمیونٹی اور جشن کی علامت ہے۔",
+          "ingredients": [
+            "1 پورا سور کا ٹانگ (تقریباً 5-7 کلو)",
+            "ہوائین موٹا سمندری نمک (الایا)",
+            "لکویڈ سموک (جدید تندور کے طریقے کے لیے)",
+            "لپیٹنے کے لیے کیلے کے پتے یا ایلومینیم فوائل",
+            "اختیاری: میٹھا آلو اور ٹارو سائیڈ کے لیے"
+          ],
+          "instructions": [
+            "تندور کو 160°C پر پری ہیٹ کریں (یا آتش فشان پتھروں کے ساتھ روایتی امو تیار کریں)۔",
+            "سور کے گوشت کو دھو کر خشک کریں۔ تمام اطراف سے سمندری نمک سے اچھی طرح رگڑیں۔",
+            "اگر عام تندور استعمال کر رہے ہیں تو دھویں کے ذائقے کے لیے لکویڈ سموک کی چند بوندیں ڈالیں۔",
+            "گوشت کو کیلے کے پتوں (یا ایلومینیم فوائل کی کئی تہوں) میں مضبوطی سے لپیٹیں۔",
+            "ایک گہرے پین میں رکھیں اور 6 سے 8 گھنٹے کم درجہ حرارت پر بیک کریں یہاں تک کہ گوشت الگ ہو جائے۔",
+            "کھولنے سے پہلے 30 منٹ کے لیے آرام کرنے دیں۔",
+            "کانٹوں سے گوشت کو نوچیں، رس اور چکنائی کو دبلی گوشت کے ساتھ ملائیں۔ پوئی کے ساتھ پیش کریں۔"
+          ],
+          "prep_time": "30 منٹ",
+          "cook_time": "6-8 گھنٹے",
+          "servings": "15-20 سرونگز",
+          "difficulty": "درمیانہ (لمبا وقت)",
+          "tags": ["لواؤ", "ہوائی", "سور کا گوشت", "زیر زمین تندور", "جشن"]
+        },
+        "id": {
+          "name": "Kalua Pig (Babi Panggang Hawaii)",
+          "slug": "kalua-pig-babi-panggang-hawaii",
+          "description": "Kaki babi utuh yang dimasak perlahan dalam oven bawah tanah tradisional (Imu), menghasilkan daging suwir yang asap dan sangat empuk, dibumbui hanya dengan garam laut.",
+          "history": "Hidangan utama dari setiap Luau (pesta Hawaii). Secara historis dimasak dalam Imu (oven tanah) dengan batu vulkanik panas dan daun pisang, melambangkan komunitas dan perayaan.",
+          "ingredients": [
+            "1 kaki babi utuh (sekitar 5-7 kg)",
+            "Garam laut kasar Hawaii (Alaea)",
+            "Asap cair (untuk metode oven modern)",
+            "Daun pisang atau aluminium foil untuk membungkus",
+            "Opsional: Ubi jalar dan Talas untuk pendamping"
+          ],
+          "instructions": [
+            "Panaskan oven hingga 160°C (atau siapkan Imu tradisional dengan batu vulkanik).",
+            "Cuci dan keringkan babi. Gosok dengan garam laut secara merata di semua sisi.",
+            "Tambahkan beberapa tetes asap cair jika menggunakan oven konvensional untuk mensimulasikan rasa asap.",
+            "Bungkus daging dengan erat dalam daun pisang (atau beberapa lapis aluminium foil).",
+            "Letakkan dalam loyang dangkal dan panggang dengan suhu rendah selama 6 hingga 8 jam hingga hancur.",
+            "Diamkan selama 30 menit sebelum membuka bungkus.",
+            "Suwir daging dengan garpu, mencampur jus dan lemak dengan daging tanpa lemak. Sajikan dengan Poi."
+          ],
+          "prep_time": "30 menit",
+          "cook_time": "6-8 jam",
+          "servings": "15-20 porsi",
+          "difficulty": "Sedang (waktu lama)",
+          "tags": ["luau", "hawaii", "babi", "oven bawah tanah", "perayaan"]
+        }
+      }
+    },
+    {
+      "id": "no-gravlax",
+      "country": "Norway",
+      "region": "Northern Europe",
+      "translations": {
+        "es": {
+          "name": "Gravlax de Salmón con Mostaza y Eneldo",
+          "slug": "gravlax-salmon-mostaza-eneldo",
+          "description": "Salmón curado en seco con una mezcla de sal, azúcar, eneldo fresco y aguardiente (aquavit), servido en finas láminas sobre pan oscuro.",
+          "history": "Una técnica de conservación escandinava antigua ('grav' significa tumba/tierra, 'lax' salmón). Originalmente enterrado en la arena para fermentar, hoy es un manjar festivo servido en Navidad y Pascua.",
+          "ingredients": [
+            "1 filete de salmón fresco (aprox. 1kg, sin espinas)",
+            "100g de sal marina",
+            "100g de azúcar blanca",
+            "1 manojo grande de eneldo fresco picado",
+            "1 cucharada de granos de pimienta blanca machacados",
+            "50ml de Aquavit o Vodka",
+            "Mostaza dulce y pan de centeno para servir"
+          ],
+          "instructions": [
+            "Mezclar la sal, el azúcar, el eneldo picado y la pimienta en un bol.",
+            "Colocar el salmón sobre una capa generosa de la mezcla en un recipiente hondo.",
+            "Cubrir completamente el pescado con el resto de la mezcla y rociar con el Aquavit.",
+            "Envolver herméticamente con film plástico y colocar un peso encima (latas o tabla).",
+            "Refrigerar durante 48 horas, volteando el pescado cada 12 horas para distribuir los jugos.",
+            "Raspar el exceso de cura y cortar el salmón en láminas muy finas en diagonal.",
+            "Servir sobre pan de centeno con mostaza dulce y ramitas de eneldo."
+          ],
+          "prep_time": "30 min",
+          "cook_time": "48 horas (curado)",
+          "servings": "10-12 personas",
+          "difficulty": "Fácil (requiere tiempo)",
+          "tags": ["entrante", "escandinavia", "salmón", "curado", "navidad"]
+        },
+        "en": {
+          "name": "Salmon Gravlax with Mustard & Dill",
+          "slug": "salmon-gravlax-mustard-dill",
+          "description": "Dry-cured salmon with a mix of salt, sugar, fresh dill, and aquavit, served in thin slices on dark bread.",
+          "history": "An ancient Scandinavian preservation technique ('grav' means grave/earth, 'lax' salmon). Originally buried in sand to ferment, today it is a festive delicacy served at Christmas and Easter.",
+          "ingredients": [
+            "1 fresh salmon fillet (approx. 1kg, boneless)",
+            "100g sea salt",
+            "100g white sugar",
+            "1 large bunch of fresh dill, chopped",
+            "1 tbsp crushed white peppercorns",
+            "50ml Aquavit or Vodka",
+            "Sweet mustard and rye bread for serving"
+          ],
+          "instructions": [
+            "Mix salt, sugar, chopped dill, and pepper in a bowl.",
+            "Place salmon on a generous layer of the mixture in a deep dish.",
+            "Cover the fish completely with the rest of the mixture and drizzle with Aquavit.",
+            "Wrap tightly in plastic wrap and place a weight on top (cans or board).",
+            "Refrigerate for 48 hours, turning the fish every 12 hours to distribute juices.",
+            "Scrape off excess cure and slice the salmon very thinly diagonally.",
+            "Serve on rye bread with sweet mustard and sprigs of dill."
+          ],
+          "prep_time": "30 min",
+          "cook_time": "48 hours (curing)",
+          "servings": "10-12 servings",
+          "difficulty": "Easy (requires time)",
+          "tags": ["appetizer", "scandinavia", "salmon", "cured", "christmas"]
+        },
+        "zh": {
+          "name": "芥末莳萝腌三文鱼 (Gravlax)",
+          "slug": "jie-mo-shi-luo-yan-san-wen-yu",
+          "description": "用盐、糖、新鲜莳萝和阿夸维特酒干腌的三文鱼，切成薄片搭配黑面包食用。",
+          "history": "一种古老的斯堪的纳维亚保存技术（'grav'意为坟墓/土地，'lax'意为三文鱼）。最初埋在沙子里发酵，如今是圣诞节和复活节享用的节日美食。",
+          "ingredients": [
+            "1块新鲜三文鱼柳（约1公斤，无骨）",
+            "100克海盐",
+            "100克白糖",
+            "1大把新鲜莳萝，切碎",
+            "1汤匙压碎的白胡椒粒",
+            "50毫升阿夸维特酒或伏特加",
+            "甜芥末酱和黑麦面包（佐餐）"
+          ],
+          "instructions": [
+            "在碗中混合盐、糖、切碎的莳萝和胡椒。",
+            "在深盘中铺一层厚厚的混合物，放上三文鱼。",
+            "用剩余的混合物完全覆盖鱼，并淋上阿夸维特酒。",
+            "用保鲜膜紧紧包裹，并在上面压重物（罐头或板子）。",
+            "冷藏48小时，每12小时翻转一次以分布汁液。",
+            "刮掉多余的腌料，将三文鱼斜切成极薄的片。",
+            "搭配黑麦面包、甜芥末酱和莳萝枝食用。"
+          ],
+          "prep_time": "30分钟",
+          "cook_time": "48小时（腌制）",
+          "servings": "10-12人份",
+          "difficulty": "简单（需时间）",
+          "tags": ["开胃菜", "斯堪的纳维亚", "三文鱼", "腌制", "圣诞节"]
+        },
+        "fr": {
+          "name": "Gravlax de Saumon à la Moutarde et Aneth",
+          "slug": "gravlax-saumon-moutarde-aneth",
+          "description": "Saumon mariné à sec avec un mélange de sel, sucre, aneth frais et aquavit, servi en fines tranches sur du pain noir.",
+          "history": "Une ancienne technique de conservation scandinave ('grav' signifie tombe/terre, 'lax' saumon). À l'origine enterré dans le sable pour fermenter, c'est aujourd'hui un mets festif servi à Noël et Pâques.",
+          "ingredients": [
+            "1 filet de saumon frais (env. 1kg, sans arêtes)",
+            "100g de sel de mer",
+            "100g de sucre blanc",
+            "1 gros bouquet d'aneth frais haché",
+            "1 c.à.s de grains de poivre blanc concassés",
+            "50ml d'Aquavit ou Vodka",
+            "Moutarde douce et pain de seigle pour servir"
+          ],
+          "instructions": [
+            "Mélanger sel, sucre, aneth haché et poivre dans un bol.",
+            "Placer le saumon sur une couche généreuse du mélange dans un plat creux.",
+            "Couvrir complètement le poisson avec le reste du mélange et arroser d'Aquavit.",
+            "Envelopper hermétiquement dans du film plastique et placer un poids dessus.",
+            "Réfrigérer 48 heures en retournant le poisson toutes les 12 heures.",
+            "Gratter l'excès de marinade et couper le saumon en tranches très fines en biais.",
+            "Servir sur du pain de seigle avec de la moutarde douce et des brins d'aneth."
+          ],
+          "prep_time": "30 min",
+          "cook_time": "48 heures (marinade)",
+          "servings": "10-12 personnes",
+          "difficulty": "Facile (nécessite du temps)",
+          "tags": ["entrée", "scandinavie", "saumon", "mariné", "noël"]
+        },
+        "ja": {
+          "name": "マスタード＆ディルのサーモングラブラックス",
+          "slug": "masutaado-ando-diru-no-sa-mon-gu-ra-bu-rak-kusu",
+          "description": "塩、砂糖、新鮮なディル、アクアビットでドライキュアしたサーモン。薄くスライスして黒パンに乗せて提供します。",
+          "history": "古代スカンジナビアの保存技術（'grav'は墓/土、'lax'はサーモンを意味する）。元々は砂に埋めて発酵させていましたが、現在はクリスマスやイースターに提供されるご馳走です。",
+          "ingredients": [
+            "新鮮なサーモンフィレ 1枚（約1kg、骨なし）",
+            "海塩 100g",
+            "白砂糖 100g",
+            "刻んだ新鮮なディル 大束",
+            "砕いた白胡椒 大さじ1",
+            "アクアビットまたはウォッカ 50ml",
+            "甘いマスタード、ライ麦パン（付け合わせ）"
+          ],
+          "instructions": [
+            "ボウルで塩、砂糖、刻んだディル、胡椒を混ぜます。",
+            "深い皿に混合物を厚く敷き、サーモンを置きます。",
+            "残りの混合物で魚を完全に覆い、アクアビットを振りかけます。",
+            "ラップで tightly 包み、上に重し（缶や板）を置きます。",
+            "48時間冷蔵し、12時間ごとに魚を裏返して果汁を均一にします。",
+            "余分なキュアを削ぎ落とし、サーモンを斜めに非常に薄くスライスします。",
+            "ライ麦パンに甘いマスタードとディルを添えて提供します。"
+          ],
+          "prep_time": "30分",
+          "cook_time": "48時間（キュア）",
+          "servings": "10-12人前",
+          "difficulty": "簡単（時間が必要）",
+          "tags": ["前菜", "スカンジナビア", "サーモン", "キュア", "クリスマス"]
+        },
+        "hi": {
+          "name": "सरसों और डिल के साथ सैल्मन ग्रेव्लैक्स",
+          "slug": "sara-son aur dil ke saath sa-l-man grey-vlaiks",
+          "description": "नमक, चीनी, ताजे डिल और एक्वाविट के मिश्रण के साथ सूखे इलाज किए गए सैल्मन, जो काली रोटी पर पतली पतली परतों में परोसे जाते हैं।",
+          "history": "एक प्राचीन स्कैंडिनेवियाई संरक्षण तकनीक ('grav' का अर्थ है कब्र/धरती, 'lax' सैल्मन)। मूल रूप से किण्वन के लिए रेत में दबा दिया जाता था, आज यह क्रिसमस और ईस्टर पर परोसा जाने वाला एक त्योहार का व्यंजन है।",
+          "ingredients": [
+            "1 ताजा सैल्मन फिलेट (लगभग 1kg, बिना हड्डी)",
+            "100ग्राम समुद्री नमक",
+            "100ग्राम सफेद चीनी",
+            "1 बड़ा गुच्छा ताजा डिल, कटा हुआ",
+            "1 बड़ा चम्मच कुचले हुए सफेद काली मिर्च के दाने",
+            "50ml एक्वाविट या वोदका",
+            "परोसने के लिए मीठी सरसों और राई ब्रेड"
+          ],
+          "instructions": [
+            "एक कटोरे में नमक, चीनी, कटा हुआ डिल और काली मिर्च मिलाएं।",
+            "एक गहरे बर्तन में मिश्रण की एक मोटी परत पर सैल्मन रखें।",
+            "मछली को मिश्रण के बाकी हिस्से से पूरी तरह ढक दें और एक्वाविट छिड़कें।",
+            "प्लास्टिक रैप में कसकर लपेटें और ऊपर एक वजन रखें (डब्बे या बोर्ड)।",
+            "48 घंटे के लिए फ्रिज में रखें, रस वितरित करने के लिए हर 12 घंटे में मछली को पलटें।",
+            "अतिरिक्त इलाज को खुरचें और सैल्मन को तिरछी बहुत पतली परतों में काटें।",
+            "राई ब्रेड पर मीठी सरसों और डिल की टहनियों के साथ परोसें।"
+          ],
+          "prep_time": "30 मिनट",
+          "cook_time": "48 घंटे (क्योरिंग)",
+          "servings": "10-12 सर्विंग",
+          "difficulty": "आसान (समय चाहिए)",
+          "tags": ["एपेटाइजर", "स्कैंडिनेविया", "सैल्मन", "क्योर्ड", "क्रिसमस"]
+        },
+        "ar": {
+          "name": "جرافلاكس السلمون مع الخردل والشبت",
+          "slug": "jiraf-laks-al-sal-mon ma'a al-khardal wal-shibat",
+          "description": "سلمون معالج جافاً بخليط من الملح والسكر والشبت الطازج والأكوافيت، يقدم في شرائح رقيقة على خبز داكن.",
+          "history": "تقنية حفظ إسكندنافية قديمة ('grav' تعني قبر/أرض، 'lax' سلمون). كان يدفن أصلاً في الرمل ليتخمر، أما اليوم فهو طعام شهي احتفالي يقدم في عيد الميلاد وعيد الفصح.",
+          "ingredients": [
+            "1 فيليه سلمون طازج (حوالي 1 كغ، بدون عظم)",
+            "100غ ملح بحر",
+            "100غ سكر أبيض",
+            "1 باقة كبيرة من الشبت الطازج المفروم",
+            "1 ملعقة كبيرة حبات فلفل أبيض مجروشة",
+            "50مل أكواڤيت أو فودكا",
+            "خردل حلو وخبز الجاودار للتقديم"
+          ],
+          "instructions": [
+            "اخلط الملح والسكر والشبت المفروم والفلفل في وعاء.",
+            "ضع السلمون على طبقة سخية من الخليط في طبق عميق.",
+            "غطِّ السمك بالكامل بباقي الخليط ورش عليه الأكوافيت.",
+            "لفه بإحكام في بلاستيك غذائي وضع ثقلاً فوقه (علب أو لوح).",
+            "برّد لمدة 48 ساعة، واقلب السمك كل 12 ساعة لتوزيع العصائر.",
+            "اكشط excesso المعالجة وقطّع السلمون إلى شرائح رقيقة جداً بشكل مائل.",
+            "قدم على خبز الجاودار مع الخردل الحلو وأغصان الشبت."
+          ],
+          "prep_time": "30 دقيقة",
+          "cook_time": "48 ساعة (معالجة)",
+          "servings": "10-12 شخصاً",
+          "difficulty": "سهل (يتطلب وقتاً)",
+          "tags": ["مقبلات", "إسكندنافيا", "سلمون", "معالج", "عيد الميلاد"]
+        },
+        "pt": {
+          "name": "Gravlax de Salmão com Mostarda e Endro",
+          "slug": "gravlax-salmao-mostarda-endro",
+          "description": "Salmão curado a seco com uma mistura de sal, açúcar, endro fresco e aquavit, servido em fatias finas sobre pão escuro.",
+          "history": "Uma antiga técnica de preservação escandinava ('grav' significa túmulo/terra, 'lax' salmão). Originalmente enterrado na areia para fermentar, hoje é uma iguaria festiva servida no Natal e na Páscoa.",
+          "ingredients": [
+            "1 filé de salmão fresco (aprox. 1kg, sem espinhas)",
+            "100g de sal marinho",
+            "100g de açúcar branco",
+            "1 maço grande de endro fresco picado",
+            "1 colher de sopa de pimenta branca em grãos esmagada",
+            "50ml de Aquavit ou Vodca",
+            "Mostarda doce e pão de centeio para servir"
+          ],
+          "instructions": [
+            "Misture sal, açúcar, endro picado e pimenta em uma tigela.",
+            "Coloque o salmão sobre uma camada generosa da mistura em um prato fundo.",
+            "Cubra o peixe completamente com o restante da mistura e regue com Aquavit.",
+            "Embrulhe firmemente em filme plástico e coloque um peso em cima.",
+            "Refrigere por 48 horas, virando o peixe a cada 12 horas para distribuir os sucos.",
+            "Raspe o excesso de cura e fatie o salmão bem fino na diagonal.",
+            "Sirva sobre pão de centeio com mostarda doce e raminhos de endro."
+          ],
+          "prep_time": "30 min",
+          "cook_time": "48 horas (cura)",
+          "servings": "10-12 porções",
+          "difficulty": "Fácil (requer tempo)",
+          "tags": ["entrada", "escandinávia", "salmão", "curado", "natal"]
+        },
+        "ru": {
+          "name": "Лосось Гравлакс с горчицей и укропом",
+          "slug": "losos-gravlaks-s-gorchitsey-i-ukropom",
+          "description": "Лосось сухого посола со смесью соли, сахара, свежего укропа и аквавита, подается тонкими ломтиками на темном хлебе.",
+          "history": "Древняя скандинавская техника консервации ('grav' означает могила/земля, 'lax' лосось). Изначально закапывался в песок для ферментации, сегодня это праздничное лакомство, подаваемое на Рождество и Пасху.",
+          "ingredients": [
+            "1 филе свежего лосося (ок. 1кг, без костей)",
+            "100г морской соли",
+            "100г белого сахара",
+            "1 большой пучок свежего укропа, нарезанный",
+            "1 ст.л. раздавленных зерен белого перца",
+            "50мл Ававита или Водки",
+            "Сладкая горчица и ржаной хлеб для подачи"
+          ],
+          "instructions": [
+            "Смешайте соль, сахар, нарезанный укроп и перец в миске.",
+            "Положите лосось на щедрый слой смеси в глубокой посуде.",
+            "Полностью покройте рыбу остатками смеси и сбрызните аквавитом.",
+            "Плотно оберните пищевой пленкой и положите сверху груз.",
+            "Охлаждайте 48 часов, переворачивая рыбу каждые 12 часов для распределения соков.",
+            "Соскребите излишки посола и нарежьте лосось очень тонко по диагонали.",
+            "Подавайте на ржаном хлебе со сладкой горчицей и веточками укропа."
+          ],
+          "prep_time": "30 мин",
+          "cook_time": "48 часов (посол)",
+          "servings": "10-12 порций",
+          "difficulty": "Легкий (требует времени)",
+          "tags": ["закуска", "скандинавия", "лосось", "посол", "рождество"]
+        },
+        "bn": {
+          "name": "মাস্টার্ড এবং ডিল সহ স্যালমন গ্রাভল্যাক্স",
+          "slug": "ma-s-tard ebong dil so-ho sa-l-man gra-ba-laiks",
+          "description": "লবণ, চিনি, তাজা ডিল এবং অ্যাকোয়াভিটের মিশ্রণের সাথে শুকনো চিকিৎসা করা স্যালমন, যা কালো রুটির উপর পাতলা স্লাইসে পরিবেশন করা হয়।",
+          "history": "একটি প্রাচীন স্ক্যান্ডিনেভিয়ান সংরক্ষণ কৌশল ('grav' মানে কবর/মাটি, 'lax' স্যালমন)। মূলভাবে গাঁজন করার জন্য বালিতে কবর দেওয়া হতো, আজ এটি বড়দিন এবং ইস্টারে পরিবেশিত একটি উৎসবের খাবার।",
+          "ingredients": [
+            "১টি তাজা স্যালমন ফিলে (প্রায় ১কেজি, হাড় ছাড়া)",
+            "১০০গ্রাম সমুদ্রের লবণ",
+            "১০০গ্রাম সাদা চিনি",
+            "১ বড় গুচ্ছ তাজা ডিল, কাটা",
+            "১ চামচ কুচানো সাদা গোলমরিচ",
+            "৫০মিলি অ্যাকোয়াভিট বা ভodka",
+            "পরিবেশনের জন্য মিষ্টি মাস্টার্ড এবং রাই ব্রেড"
+          ],
+          "instructions": [
+            "একটি বাটিতে লবণ, চিনি, কাটা ডিল এবং গোলমরিচ মিশান।",
+            "একটি গভীর পাত্রে মিশ্রণের একটি মোটা স্তরের উপর স্যালমন রাখুন।",
+            "মাছটি মিশ্রণের বাকি অংশ দিয়ে সম্পূর্ণ ঢেকে দিন এবং অ্যাকোয়াভিট ছিটিয়ে দিন।",
+            "প্লাস্টিক র‍্যাপে শক্ত করে মুড়িয়ে উপরে একটি ওজন রাখুন।",
+            "৪৮ ঘণ্টা রেফ্রিজারেট করুন, রস বণ্টন করতে প্রতি ১২ ঘণ্টায় মাছটি উল্টে দিন।",
+            "অতিরিক্ত কিউর স্ক্র্যাপ করুন এবং স্যালমন তির্যকভাবে খুব পাতলা স্লাইসে কাটুন।",
+            "রাই ব্রেডের উপর মিষ্টি মাস্টার্ড এবং ডিলের ডাঁটা সহ পরিবেশন করুন।"
+          ],
+          "prep_time": "৩০ মিনিট",
+          "cook_time": "৪৮ ঘণ্টা (কিউরিং)",
+          "servings": "১০-১২ জন",
+          "difficulty": "সহজ (সময় প্রয়োজন)",
+          "tags": ["অ্যাপেটাইজার", "স্ক্যান্ডিনেভিয়া", "স্যালমন", "কিউরড", "ক্রিসমাস"]
+        },
+        "ur": {
+          "name": "رائی اور ڈل کے ساتھ سالمون گریولاکس",
+          "slug": "ra-i aur dil ke saath sa-l-mon gri-vo-laks",
+          "description": "نمک، چینی، تازہ ڈل اور ایکوا ویٹ کے مکسچر کے ساتھ خشک علاج کیا ہوا سالمون، جو گہری روٹی پر پتلی پتلی تہوں میں پیش کیا جاتا ہے۔",
+          "history": "ایک قدیم سکینڈینیوئن تحفظ کی تکنیک ('grav' کا مطلب ہے قبر/زمین، 'lax' سالمون)۔ اصل میں خمیر کرنے کے لیے ریت میں دفن کیا جاتا تھا، آج یہ کرسمس اور ایسٹر پر پیش کیا جانے والا ایک تہوار کا کھانا ہے۔",
+          "ingredients": [
+            "1 تازہ سالمون فلٹ (تقریباً 1kg، بغیر ہڈی)",
+            "100گرام سمندری نمک",
+            "100گرام سفید چینی",
+            "1 بڑا گچھا تازہ ڈل، کٹا ہوا",
+            "1 کھانے کا چمچ کچلے ہوئے سفید کالی مرچ کے دانے",
+            "50مل ایکوا ویٹ یا ووڈکا",
+            "پیش کرنے کے لیے میٹھی رائی اور رائی بریڈ"
+          ],
+          "instructions": [
+            "ایک پیالے میں نمک، چینی، کٹا ہوا ڈل اور کالی مرچ ملائیں۔",
+            "ایک گہرے برتن میں مکسچر کی موٹی تہہ پر سالمون رکھیں۔",
+            "مچھلی کو مکسچر کے باقی حصے سے مکمل طور پر ڈھک دیں اور ایکوا ویٹ چھڑکیں۔",
+            "پلاسٹک ریپ میں مضبوطی سے لپیٹیں اور اوپر وزن رکھیں۔",
+            "48 گھنٹے کے لیے فریج میں رکھیں، رس تقسیم کرنے کے لیے ہر 12 گھنٹے میں مچھلی کو پلٹیں۔",
+            "اضافی علاج کو کھرچیں اور سالمون کو ترچھا بہت پتلا کاٹیں۔",
+            "رائی بریڈ پر میٹھی رائی اور ڈل کی ٹہنیوں کے ساتھ پیش کریں۔"
+          ],
+          "prep_time": "30 منٹ",
+          "cook_time": "48 گھنٹے (کیورنگ)",
+          "servings": "10-12 سرونگز",
+          "difficulty": "آسان (وقت چاہیے)",
+          "tags": ["اشتہا آور", "سکینڈینیویا", "سالمون", "کیورڈ", "کرسمس"]
+        },
+        "id": {
+          "name": "Salmon Gravlax dengan Mustard & Dill",
+          "slug": "salmon-gravlax-dengan-mustard-dill",
+          "description": "Salmon yang diawetkan kering dengan campuran garam, gula, dill segar, dan aquavit, disajikan dalam irisan tipis di atas roti gelap.",
+          "history": "Teknik pengawetan Skandinavia kuno ('grav' berarti kubur/tanah, 'lax' salmon). Awalnya dikubur di pasir untuk fermentasi, kini menjadi hidangan mewah yang disajikan saat Natal dan Paskah.",
+          "ingredients": [
+            "1 fillet salmon segar (sekitar 1kg, tanpa tulang)",
+            "100g garam laut",
+            "100g gula putih",
+            "1 ikat besar dill segar, cincang",
+            "1 sdm lada putih butiran hancur",
+            "50ml Aquavit atau Vodka",
+            "Mustard manis dan roti gandum hitam untuk penyajian"
+          ],
+          "instructions": [
+            "Campur garam, gula, dill cincang, dan lada dalam mangkuk.",
+            "Letakkan salmon di atas lapisan campuran yang tebal dalam wadah dalam.",
+            "Tutupi ikan sepenuhnya dengan sisa campuran dan siram dengan Aquavit.",
+            "Bungkus rapat dengan plastik wrap dan beri beban di atasnya.",
+            "Dinginkan selama 48 jam, balik ikan setiap 12 jam untuk mendistribusikan jus.",
+            "Kikis kelebihan bumbu dan iris salmon sangat tipis secara diagonal.",
+            "Sajikan di atas roti gandum hitam dengan mustard manis dan tangkai dill."
+          ],
+          "prep_time": "30 menit",
+          "cook_time": "48 jam (pengawetan)",
+          "servings": "10-12 porsi",
+          "difficulty": "Mudah (membutuhkan waktu)",
+          "tags": ["pembuka", "skandinavia", "salmon", "diawetkan", "natal"]
+        }
+      }
+    }
+  ]
+}
