@@ -1,1 +1,4 @@
-(normalizar_db.py is a source file, and the deleted JSON files are data/config files - no build artifacts, dependencies, or temp files in the changes)
+```
+# Data reports
+data_normalized/missing_fields_report.json
+```
