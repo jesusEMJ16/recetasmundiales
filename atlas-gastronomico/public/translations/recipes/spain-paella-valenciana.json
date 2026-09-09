@@ -1,0 +1,301 @@
+{
+  "espa-001": {
+    "en": {
+      "nombre": "Valencian Paella",
+      "descripcion": "Spain's most emblematic dish with rice, chicken, rabbit and green beans.",
+      "historia": "Paella was born in the 18th century in the rice fields of Valencia.",
+      "ingredientes": [
+        "400g bomba rice",
+        "1 chicken cut into pieces",
+        "1 rabbit cut into pieces",
+        "200g green beans",
+        "100g garrofó (large white beans)",
+        "1 grated tomato",
+        "Saffron",
+        "Sweet paprika",
+        "Olive oil",
+        "Salt",
+        "Water"
+      ],
+      "instrucciones": [
+        "Heat oil and brown the meats",
+        "Add vegetables and sauté",
+        "Add tomato and paprika",
+        "Pour in water and cook for 20 minutes",
+        "Add saffron and rice",
+        "Cook for 18 minutes",
+        "Let rest for 5 minutes"
+      ]
+    },
+    "zh": {
+      "nombre": "瓦伦西亚海鲜饭",
+      "descripcion": "西班牙最具标志性的菜肴，配有米饭、鸡肉、兔肉和青豆。",
+      "historia": "海鲜饭诞生于 18 世纪的瓦伦西亚稻田。",
+      "ingredientes": [
+        "400 克邦巴米",
+        "1 只切块鸡肉",
+        "1 只切块兔肉",
+        "200 克青豆",
+        "100 克加罗福豆（大白豆）",
+        "1 个磨碎番茄",
+        "藏红花",
+        "甜椒粉",
+        "橄榄油",
+        "盐",
+        "水"
+      ],
+      "instrucciones": [
+        "热油并将肉类煎至金黄色",
+        "加入蔬菜翻炒",
+        "加入番茄和辣椒粉",
+        "倒入水煮 20 分钟",
+        "加入藏红花和米饭",
+        "煮 18 分钟",
+        "静置 5 分钟"
+      ]
+    },
+    "hi": {
+      "nombre": "वैलेंसियन पाएला",
+      "descripcion": "स्पेन का सबसे प्रतीकात्मक व्यंजन चावल, चिकन, खरगोश और हरी बीन्स के साथ।",
+      "historia": "पाएला 18वीं शताब्दी में वैलेंसिया के चावल के खेतों में जन्मी।",
+      "ingredientes": [
+        "400g बॉम्बा चावल",
+        "1 कटा हुआ चिकन",
+        "1 कटा हुआ खरगोश",
+        "200g हरी बीन्स",
+        "100g गैरोफो (बड़ी सफेद बीन्स)",
+        "1 कसा हुआ टमाटर",
+        "केसर",
+        "मीठी मिर्च पाउडर",
+        "जैतून का तेल",
+        "नमक",
+        "पानी"
+      ],
+      "instrucciones": [
+        "तेल गर्म करें और मांस को भूनें",
+        "सब्जियां डालें और भूनें",
+        "टमाटर और पेप्रिका डालें",
+        "पानी डालें और 20 मिनट तक पकाएं",
+        "केसर और चावल डालें",
+        "18 मिनट तक पकाएं",
+        "5 मिनट के लिए आराम करने दें"
+      ]
+    },
+    "fr": {
+      "nombre": "Paella Valencienne",
+      "descripcion": "Le plat le plus emblématique d'Espagne avec riz, poulet, lapin et haricots verts.",
+      "historia": "La paella est née au XVIIIe siècle dans les rizières de Valence.",
+      "ingredientes": [
+        "400g de riz bomba",
+        "1 poulet coupé en morceaux",
+        "1 lapin coupé en morceaux",
+        "200g de haricots verts",
+        "100g de garrofó (grosses fèves blanches)",
+        "1 tomate râpée",
+        "Safran",
+        "Paprika doux",
+        "Huile d'olive",
+        "Sel",
+        "Eau"
+      ],
+      "instrucciones": [
+        "Chauffer l'huile et dorer les viandes",
+        "Ajouter les légumes et faire revenir",
+        "Ajouter la tomate et le paprika",
+        "Verser l'eau et cuire 20 minutes",
+        "Ajouter le safran et le riz",
+        "Cuire 18 minutes",
+        "Laisser reposer 5 minutes"
+      ]
+    },
+    "ar": {
+      "nombre": "باييا فالنسية",
+      "descripcion": "الطبق الأكثر رمزية في إسبانيا مع الأرز والدجاج والأرنب والفول الأخضر.",
+      "historia": "ولد طبق البايللا في القرن الثامن عشر في حقول الأرز في فالنسيا.",
+      "ingredientes": [
+        "400 جرام أرز بومبا",
+        "دجاجة واحدة مقطعة",
+        "أرنب واحد مقطع",
+        "200 جرام فاصوليا خضراء",
+        "100 جرام جاروفو (فول أبيض كبير)",
+        "طماطم واحدة مبشورة",
+        "زعفران",
+        "بابريكا حلوة",
+        "زيت زيتون",
+        "ملح",
+        "ماء"
+      ],
+      "instrucciones": [
+        "تسخين الزيت وتحضير اللحوم",
+        "إضافة الخضار وقليها",
+        "إضافة الطماطم والبابريكا",
+        "صب الماء والطهي لمدة 20 دقيقة",
+        "إضافة الزعفران والأرز",
+        "الطهي لمدة 18 دقيقة",
+        "اتركه يرتاح لمدة 5 دقائق"
+      ]
+    },
+    "bn": {
+      "nombre": "ভ্যালেন্সিয়ান পায়েলা",
+      "descripcion": "চাল, মুরগি, খরগোশ এবং সবুজ শিম সহ স্পেনের সবচেয়ে প্রতীকী খাবার।",
+      "historia": "পায়েলা ১৮ শতকে ভ্যালেন্সিয়ার চাল ক্ষেতে জন্মগ্রহণ করে।",
+      "ingredientes": [
+        "৪০০ গ্রাম বোম্বা চাল",
+        "১ টি কাটা মুরগি",
+        "১ টি কাটা খরগোশ",
+        "২০০ গ্রাম সবুজ শিম",
+        "১০০ গ্রাম গ্যারোফো (বড় সাদা শিম)",
+        "১ টি কসানো টমেটো",
+        "জাফরান",
+        "মিষ্টি মরিচ গুঁড়া",
+        "জলপাই তেল",
+        "লবণ",
+        "পানি"
+      ],
+      "instrucciones": [
+        "তেল গরুন এবং মাংস ব্রাউন করুন",
+        "সবজি যোগ করুন এবং ভাজুন",
+        "টমেটো এবং পেপ্রিকা যোগ করুন",
+        "পানি ঢালুন এবং ২০ মিনিট রান্না করুন",
+        "জাফরান এবং চাল যোগ করুন",
+        "১৮ মিনিট রান্না করুন",
+        "৫ মিনিট বিশ্রাম নিন"
+      ]
+    },
+    "pt": {
+      "nombre": "Paella Valenciana",
+      "descripcion": "O prato mais emblemático da Espanha com arroz, frango, coelho e feijão verde.",
+      "historia": "A paella nasceu no século XVIII nos campos de arroz de Valência.",
+      "ingredientes": [
+        "400g de arroz bomba",
+        "1 frango cortado em pedaços",
+        "1 coelho cortado em pedaços",
+        "200g de feijão verde",
+        "100g de garrofó (feijão branco grande)",
+        "1 tomate ralado",
+        "Açafrão",
+        "Pimentão doce",
+        "Azeite de oliva",
+        "Sal",
+        "Água"
+      ],
+      "instrucciones": [
+        "Aquecer o azeite e dourar as carnes",
+        "Adicionar os vegetais e refogar",
+        "Adicionar tomate e páprica",
+        "Despejar água e cozinhar por 20 minutos",
+        "Adicionar açafrão e arroz",
+        "Cozinhar por 18 minutos",
+        "Deixar descansar por 5 minutos"
+      ]
+    },
+    "ru": {
+      "nombre": "Валенсийская паэлья",
+      "descripcion": "Самое знаменитое блюдо Испании с рисом, курицей, кроликом и зеленой фасолью.",
+      "historia": "Паэлья родилась в 18 веке на рисовых полях Валенсии.",
+      "ingredientes": [
+        "400г риса бомба",
+        "1 курица, нарезанная кусочками",
+        "1 кролик, нарезанный кусочками",
+        "200г зеленой фасоли",
+        "100г гаррофо (крупная белая фасоль)",
+        "1 тертый помидор",
+        "Шафран",
+        "Сладкая паприка",
+        "Оливковое масло",
+        "Соль",
+        "Вода"
+      ],
+      "instrucciones": [
+        "Нагреть масло и обжарить мясо",
+        "Добавить овощи и обжарить",
+        "Добавить помидор и паприку",
+        "Налить воду и варить 20 минут",
+        "Добавить шафран и рис",
+        "Варить 18 минут",
+        "Дать постоять 5 минут"
+      ]
+    },
+    "ur": {
+      "nombre": "ویلنشین پائیلا",
+      "descripcion": "چاول، چکن، خرگوش اور سبز بین کے ساتھ سپین کا سب سے علامتی پکوان۔",
+      "historia": "پائیلا اٹھارویں صدی میں ویلنسیا کے چاول کے کھیتوں میں پیدا ہوا۔",
+      "ingredientes": [
+        "400 گرام بمبا چاول",
+        "1 کٹا ہوا چکن",
+        "1 کٹا ہوا خرگوش",
+        "200 گرام سبز بین",
+        "100 گرام گیروفو (بڑی سفید بین)",
+        "1 کسا ہوا ٹماٹر",
+        "کیسر",
+        "میٹی مرچ پاؤڈر",
+        "زیتون کا تیل",
+        "نمک",
+        "پانی"
+      ],
+      "instrucciones": [
+        "تیل گرم کریں اور گوشت کو بھورے رنگ کا کریں",
+        "سبزیاں ڈالیں اور تلنا",
+        "ٹماٹر اور پیپریکا ڈالیں",
+        "پانی ڈالیں اور 20 منٹ تک پکائیں",
+        "کیسر اور چاول ڈالیں",
+        "18 منٹ تک پکائیں",
+        "5 منٹ کے لیے آرام کرنے دیں"
+      ]
+    },
+    "id": {
+      "nombre": "Paella Valenciana",
+      "descripcion": "Hidangan paling ikonik Spanyol dengan nasi, ayam, kelinci dan kacang hijau.",
+      "historia": "Paella lahir pada abad ke-18 di ladang padi Valencia.",
+      "ingredientes": [
+        "400g nasi bomba",
+        "1 ayam potong",
+        "1 kelinci potong",
+        "200g kacang hijau",
+        "100g garrofó (kacang putih besar)",
+        "1 tomat parut",
+        "Kunyit",
+        "Paprika manis",
+        "Minyak zaitun",
+        "Garam",
+        "Air"
+      ],
+      "instrucciones": [
+        "Panaskan minyak dan goreng daging hingga kecokelatan",
+        "Tambahkan sayuran dan tumis",
+        "Tambahkan tomat dan paprika",
+        "Tuang air dan masak selama 20 menit",
+        "Tambahkan kunyit dan nasi",
+        "Masak selama 18 menit",
+        "Diamkan selama 5 menit"
+      ]
+    },
+    "ja": {
+      "nombre": "バレンシア風パエリア",
+      "descripcion": "米、鶏肉、ウサギ、インゲン豆を使ったスペインの最も象徴的な料理。",
+      "historia": "パエリアは 18 世紀にバレンシアの田んぼで生まれました。",
+      "ingredientes": [
+        "ボンバ米 400g",
+        "鶏肉 1 羽（切り分け）",
+        "ウサギ 1 羽（切り分け）",
+        "インゲン豆 200g",
+        "ガロフォ豆（大白インゲン）100g",
+        "すりおろしトマト 1 個",
+        "サフラン",
+        "スイートパプリカ",
+        "オリーブオイル",
+        "塩",
+        "水"
+      ],
+      "instrucciones": [
+        "油を熱して肉をきつね色に炒める",
+        "野菜を加えて炒める",
+        "トマトとパプリカを加える",
+        "水を注いで 20 分煮る",
+        "サフランと米を加える",
+        "18 分炊く",
+        "5 分蒸らす"
+      ]
+    }
+  }
+}
