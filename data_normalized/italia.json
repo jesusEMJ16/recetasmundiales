@@ -1,0 +1,421 @@
+[
+  {
+    "id": "ital-001",
+    "name": "Pizza Napoletana",
+    "country": "Italia",
+    "description": "La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+    "ingredients": [
+      "500g harina 00",
+      "325ml agua",
+      "10g sal",
+      "3g levadura",
+      "400g tomate San Marzano",
+      "250g mozzarella di bufala",
+      "Albahaca fresca",
+      "Aceite de oliva"
+    ],
+    "instructions": [
+      "Mezclar harina, agua, levadura y sal",
+      "Amasar 10 minutos hasta obtener masa elástica",
+      "Dejar fermentar 24 horas en nevera",
+      "Estirar la masa a mano sin rodillo",
+      "Añadir tomate, mozzarella y albahaca",
+      "Hornear a 450°C durante 8-10 minutos"
+    ],
+    "prepTime": 30,
+    "servings": 2,
+    "difficulty": "Media",
+    "tags": [
+      "pizza",
+      "napoles",
+      "tradicional",
+      "plato principal"
+    ],
+    "image": "",
+    "region": "Campania",
+    "city": "Nápoles",
+    "coordinates": [
+      40.8518,
+      14.2681
+    ],
+    "history": "Creada en Nápoles en el siglo XVIII, la pizza Margherita fue nombrada en honor a la reina Margarita de Saboya en 1889. Los colores representan la bandera italiana."
+  },
+  {
+    "id": "ital-002",
+    "name": "Pasta Carbonara",
+    "country": "Italia",
+    "description": "Clásica pasta romana con huevo, queso pecorino, guanciale y pimienta negra. Sin nata.",
+    "ingredients": [
+      "400g spaghetti",
+      "150g guanciale",
+      "4 yemas de huevo",
+      "100g Pecorino Romano",
+      "Pimienta negra molida",
+      "Sal"
+    ],
+    "instructions": [
+      "Cocer la pasta en agua salada",
+      "Dorar el guanciale en sartén",
+      "Mezclar yemas con pecorino y pimienta",
+      "Escurrir pasta reservando agua de cocción",
+      "Mezclar pasta con guanciale fuera del fuego",
+      "Añadir mezcla de huevos removiendo rápido",
+      "Servir inmediatamente con más pecorino"
+    ],
+    "prepTime": 10,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "pasta",
+      "roma",
+      "huevos",
+      "plato principal"
+    ],
+    "image": "",
+    "region": "Lazio",
+    "city": "Roma",
+    "coordinates": [
+      41.9028,
+      12.4964
+    ],
+    "history": "Originaria de Roma, posiblemente creada después de la Segunda Guerra Mundial. El nombre podría venir de 'carbonaro' (carbonero)."
+  },
+  {
+    "id": "ital-003",
+    "name": "Risotto alla Milanese",
+    "country": "Italia",
+    "description": "Arroz cremoso teñido de amarillo con azafrán, manteca y queso parmesano.",
+    "ingredients": [
+      "320g arroz Carnaroli",
+      "1.5L caldo de carne",
+      "1 cebolla pequeña",
+      "100ml vino blanco seco",
+      "60g mantequilla",
+      "80g Parmigiano Reggiano",
+      "0.5g hebras de azafrán",
+      "Sal"
+    ],
+    "instructions": [
+      "Disolver azafrán en poco caldo caliente",
+      "Sofreír cebolla picada con mantequilla",
+      "Tostar el arroz 2 minutos",
+      "Desglasar con vino blanco",
+      "Añadir caldo poco a poco removiendo constantemente",
+      "Incorporar azafrán a mitad de cocción",
+      "Mantecar con mantequilla y parmesano al final"
+    ],
+    "prepTime": 10,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "arroz",
+      "milan",
+      "azafran",
+      "plato principal"
+    ],
+    "image": "",
+    "region": "Lombardía",
+    "city": "Milán",
+    "coordinates": [
+      45.4642,
+      9.19
+    ],
+    "history": "Creado en Milán en 1574 por un aprendiz de vidriero que usó azafrán para colorear el arroz. Plato emblemático milanés."
+  },
+  {
+    "id": "ital-004",
+    "name": "Tiramisú",
+    "country": "Italia",
+    "description": "Postre de capas de bizcochos savoiardi embebidos en café, crema de mascarpone y cacao.",
+    "ingredients": [
+      "500g mascarpone",
+      "4 huevos",
+      "100g azúcar",
+      "300ml café espresso frío",
+      "200g bizcochos savoiardi",
+      "Cacao amargo en polvo",
+      "1 cucharada marsala (opcional)"
+    ],
+    "instructions": [
+      "Separar claras y yemas",
+      "Batir yemas con azúcar hasta blanquear",
+      "Añadir mascarpone y mezclar",
+      "Montar claras a punto de nieve e incorporar",
+      "Mojar savoiardi en café rápidamente",
+      "Formar capas alternando bizcochos y crema",
+      "Refrigerar 4 horas mínimo",
+      "Espolvorear cacao antes de servir"
+    ],
+    "prepTime": 30,
+    "servings": 8,
+    "difficulty": "Fácil",
+    "tags": [
+      "postre",
+      "cafe",
+      "mascarpone",
+      "dulce"
+    ],
+    "image": "",
+    "region": "Véneto",
+    "city": "Treviso",
+    "coordinates": [
+      45.6669,
+      12.2428
+    ],
+    "history": "Creado en Treviso en los años 60. El nombre significa 'levántame' o 'dame energía'. Uno de los postres italianos más famosos mundialmente."
+  },
+  {
+    "id": "ital-005",
+    "name": "Lasagna alla Bolognese",
+    "country": "Italia",
+    "description": "Capas de pasta fresca con ragú bolognesa, bechamel y parmesano horneadas.",
+    "ingredients": [
+      "500g láminas de lasaña frescas",
+      "500g ragú bolognesa",
+      "500ml bechamel",
+      "100g Parmigiano Reggiano",
+      "50g mantequilla",
+      "Sal",
+      "Pimienta"
+    ],
+    "instructions": [
+      "Precalentar horno a 180°C",
+      "Untar molde con mantequilla",
+      "Colocar capa de bechamel en base",
+      "Alternar capas: pasta, ragú, bechamel, parmesano",
+      "Repetir 4-5 capas",
+      "Terminar con bechamel y abundante parmesano",
+      "Hornear 30-35 minutos hasta dorar",
+      "Dejar reposar 10 minutos antes de cortar"
+    ],
+    "prepTime": 40,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": [
+      "pasta",
+      "bolonia",
+      "horno",
+      "plato principal"
+    ],
+    "image": "",
+    "region": "Emilia-Romaña",
+    "city": "Bolonia",
+    "coordinates": [
+      44.4949,
+      11.3426
+    ],
+    "history": "Plato tradicional de Bolonia. La receta oficial está registrada en la Cámara de Comercio de Bolonia desde 1982."
+  },
+  {
+    "id": "ital-006",
+    "name": "Arancini Siciliani",
+    "country": "Italia",
+    "description": "Bolas de arroz rellenas fritas, típicas de Sicilia. Rellenas de ragú, guisantes y queso.",
+    "ingredients": [
+      "500g arroz Arborio",
+      "200g ragú de carne",
+      "100g guisantes",
+      "150g mozzarella o caciocavallo",
+      "2 huevos",
+      "Pan rallado",
+      "Aceite para freír",
+      "Azafrán"
+    ],
+    "instructions": [
+      "Cocer arroz con azafrán hasta que esté muy cocido",
+      "Dejar enfriar completamente",
+      "Formar bolas huecas con las manos",
+      "Rellenar con ragú, guisantes y queso",
+      "Cerrar bien la bola",
+      "Pasar por huevo batido y pan rallado",
+      "Freír en aceite caliente hasta dorar",
+      "Escurrir sobre papel absorbente"
+    ],
+    "prepTime": 60,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": [
+      "arroz",
+      "sicilia",
+      "frito",
+      "aperitivo"
+    ],
+    "image": "",
+    "region": "Sicilia",
+    "city": "Palermo",
+    "coordinates": [
+      38.1157,
+      13.3615
+    ],
+    "history": "Originarios de Sicilia en el siglo X durante la dominación árabe. Su nombre viene de 'arancia' (naranja) por su color y forma."
+  },
+  {
+    "id": "ital-007",
+    "name": "Ossobuco alla Milanese",
+    "country": "Italia",
+    "description": "Jarrete de ternera estofado lentamente con verduras, vino blanco y gremolata.",
+    "ingredients": [
+      "4 jarretes de ternera",
+      "2 zanahorias",
+      "2 ramas apio",
+      "1 cebolla",
+      "200ml vino blanco",
+      "400g tomate triturado",
+      "Caldo de carne",
+      "Para gremolata: perejil, ajo, limón"
+    ],
+    "instructions": [
+      "Enharinar los jarretes y dorar en cazuela",
+      "Retirar carne y sofreír verduras picadas",
+      "Añadir vino blanco y reducir",
+      "Incorporar tomate y caldo",
+      "Volver a poner la carne",
+      "Cocinar tapado 2 horas a fuego lento",
+      "Preparar gremolata mezclando ingredientes picados",
+      "Servir espolvoreado con gremolata"
+    ],
+    "prepTime": 20,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "carne",
+      "milan",
+      "estofado",
+      "plato principal"
+    ],
+    "image": "",
+    "region": "Lombardía",
+    "city": "Milán",
+    "coordinates": [
+      45.4642,
+      9.19
+    ],
+    "history": "Plato milanés tradicional del siglo XIX. Se sirve tradicionalmente con risotto alla milanese."
+  },
+  {
+    "id": "ital-008",
+    "name": "Bruschetta al Pomodoro",
+    "country": "Italia",
+    "description": "Rebanadas de pan tostado frotadas con ajo y cubiertas de tomates frescos, albahaca y aceite de oliva.",
+    "ingredients": [
+      "4 rebanadas pan rústico",
+      "4 tomates maduros",
+      "2 dientes de ajo",
+      "Albahaca fresca",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta"
+    ],
+    "instructions": [
+      "Cortar tomates en dados pequeños",
+      "Mezclar con albahaca picada, sal y pimienta",
+      "Tostar pan en parrilla o horno",
+      "Frotar cada rebanada con diente de ajo",
+      "Cubrir con mezcla de tomates",
+      "Rociar con aceite de oliva",
+      "Servir inmediatamente"
+    ],
+    "prepTime": 15,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": [
+      "aperitivo",
+      "tomate",
+      "pan",
+      "vegetariano"
+    ],
+    "image": "",
+    "region": "Lazio",
+    "city": "Roma",
+    "coordinates": [
+      41.9028,
+      12.4964
+    ],
+    "history": "Origen campesino italiano. Era forma de recuperar pan duro. Hoy es aperitivo clásico en toda Italia."
+  },
+  {
+    "id": "ital-009",
+    "name": "Gelato Artigianale",
+    "country": "Italia",
+    "description": "Helado artesanal italiano con menos grasa y más aire que el helado tradicional. Sabor pistacho siciliano.",
+    "ingredients": [
+      "500ml leche entera",
+      "200ml nata",
+      "150g azúcar",
+      "6 yemas de huevo",
+      "100g pasta de pistacho siciliano",
+      "Pistachos troceados"
+    ],
+    "instructions": [
+      "Calentar leche con nata sin hervir",
+      "Batir yemas con azúcar hasta blanquear",
+      "Verter leche caliente sobre yemas removiendo",
+      "Cocinar a fuego lento hasta espesar (85°C)",
+      "Añadir pasta de pistacho",
+      "Enfriar completamente en nevera",
+      "Mantecar en heladera según instrucciones",
+      "Congelar 2 horas antes de servir"
+    ],
+    "prepTime": 30,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": [
+      "postre",
+      "helado",
+      "pistacho",
+      "dulce"
+    ],
+    "image": "",
+    "region": "Sicilia",
+    "city": "Catania",
+    "coordinates": [
+      37.5079,
+      15.083
+    ],
+    "history": "El gelato moderno nació en Sicilia en el siglo XVI. Bernardo Buontalenti es considerado su inventor. Menos graso que el ice cream americano."
+  },
+  {
+    "id": "ital-010",
+    "name": "Focaccia Genovese",
+    "country": "Italia",
+    "description": "Pan plano genovés con abundante aceite de oliva, sal gruesa y romero. Esponjoso por dentro, crujiente por fuera.",
+    "ingredients": [
+      "500g harina fuerza",
+      "350ml agua tibia",
+      "10g sal",
+      "5g levadura fresca",
+      "80ml aceite de oliva virgen extra",
+      "Sal gruesa",
+      "Romero fresco"
+    ],
+    "instructions": [
+      "Disolver levadura en agua tibia",
+      "Mezclar harina y sal",
+      "Añadir agua con levadura y amasar",
+      "Incorporar 40ml aceite gradualmente",
+      "Amasar 10 minutos hasta masa elástica",
+      "Dejar levar 2 horas en lugar cálido",
+      "Extender en bandeja aceitada",
+      "Presionar con dedos creando hoyuelos",
+      "Regar con resto de aceite y sal gruesa",
+      "Hornear a 220°C durante 20 minutos"
+    ],
+    "prepTime": 30,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": [
+      "pan",
+      "liguria",
+      "romero",
+      "acompañamiento"
+    ],
+    "image": "",
+    "region": "Liguria",
+    "city": "Génova",
+    "coordinates": [
+      44.4056,
+      8.9463
+    ],
+    "history": "Originaria de Génova, la focaccia es anterior al pan moderno. Los fenicios ya preparaban algo similar. Base de la pizza moderna."
+  }
+]

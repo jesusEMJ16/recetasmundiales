@@ -1,4 +1,4 @@
 ```
-# Data normalization outputs
-data_normalized/
+# Data reports
+data_normalized/missing_fields_report.json
 ```
