@@ -1,2 +1,1 @@
-#Translations
-atlas-gastronomico/public/translations/recipes/batch-5-asia-europe.json
+Nothing should be ignored in this case, as the only modified file is a JSON translation file which is source content that should be tracked in version control.
