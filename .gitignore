@@ -1,16 +1,1 @@
-```
-# Data files that might be generated
-src/data/countries_index.json
-src/data/recipes/*.json
-"src/data/recipes/canad\\303\\241.json"
-"src/data/recipes/espa\\303\\261a.json"
-"src/data/recipes/etiop\\303\\255a.json"
-"src/data/recipes/hungr\\303\\255a.json"
-"src/data/recipes/jap\\303\\263n.json"
-"src/data/recipes/m\\303\\251xico.json"
-"src/data/recipes/panam\\303\\241.json"
-"src/data/recipes/pa\\303\\255ses-bajos.json"
-"src/data/recipes/per\\303\\272.json"
-"src/data/recipes/turqu\\303\\255a.json"
-src/data/recipes/missing_fields_report.json
-```
+Nothing should be ignored based on the provided file changes. The added file is a JSON translation file which appears to be source content rather than a build artifact or temporary file.
