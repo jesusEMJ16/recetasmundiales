@@ -1,0 +1,682 @@
+{
+  "pe-ceviche-peruano": {
+    "es": {
+      "nombre": "Ceviche Peruano",
+      "descripcion": "Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "500g de pescado blanco fresco (lenguado o corvina)",
+        "6-8 limones peruanos",
+        "1 cebolla roja en julianas",
+        "1 ají limo picado",
+        "Cilantro fresco",
+        "Sal y pimienta",
+        "Camote cocido",
+        "Choclo desgranado"
+      ],
+      "instrucciones": [
+        "Cortar el pescado en cubos de 2cm aproximadamente.",
+        "Marinar inmediatamente con jugo de limón y sal.",
+        "Agregar cebolla, ají y cilantro picado.",
+        "Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "Servir inmediatamente con camote y choclo.",
+        "Acompañar con cancha serrana tostada."
+      ]
+    },
+    "en": {
+      "nombre": "Peruvian Ceviche",
+      "descripcion": "Fresh fish marinated in Peruvian lime with onion, chili and cilantro.",
+      "historia": "Ceviche is Peru's flagship dish, with pre-Columbian roots dating back to the Moche. Declared Cultural Heritage of the Nation.",
+      "ingredientes": [
+        "500g fresh white fish (sole or sea bass)",
+        "6-8 Peruvian limes",
+        "1 red onion in julienne",
+        "1 chopped ají limo chili",
+        "Fresh cilantro",
+        "Salt and pepper",
+        "Cooked sweet potato",
+        "Shucked corn kernels"
+      ],
+      "instrucciones": [
+        "Cut fish into approximately 2cm cubes.",
+        "Immediately marinate with lime juice and salt.",
+        "Add onion, chili and chopped cilantro.",
+        "Mix gently and let rest for 2-3 minutes.",
+        "Serve immediately with sweet potato and corn.",
+        "Accompany with toasted cancha serrana."
+      ]
+    },
+    "zh": {
+      "nombre": "[zh] Ceviche Peruano",
+      "descripcion": "[zh] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[zh] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[zh] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[zh] 6-8 limones peruanos",
+        "[zh] 1 cebolla roja en julianas",
+        "[zh] 1 ají limo picado",
+        "[zh] Cilantro fresco",
+        "[zh] Sal y pimienta",
+        "[zh] Camote cocido",
+        "[zh] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[zh] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[zh] Marinar inmediatamente con jugo de limón y sal.",
+        "[zh] Agregar cebolla, ají y cilantro picado.",
+        "[zh] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[zh] Servir inmediatamente con camote y choclo.",
+        "[zh] Acompañar con cancha serrana tostada."
+      ]
+    },
+    "hi": {
+      "nombre": "[hi] Ceviche Peruano",
+      "descripcion": "[hi] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[hi] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[hi] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[hi] 6-8 limones peruanos",
+        "[hi] 1 cebolla roja en julianas",
+        "[hi] 1 ají limo picado",
+        "[hi] Cilantro fresco",
+        "[hi] Sal y pimienta",
+        "[hi] Camote cocido",
+        "[hi] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[hi] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[hi] Marinar inmediatamente con jugo de limón y sal.",
+        "[hi] Agregar cebolla, ají y cilantro picado.",
+        "[hi] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[hi] Servir inmediatamente con camote y choclo.",
+        "[hi] Acompañar con cancha serrana tostada."
+      ]
+    },
+    "fr": {
+      "nombre": "[fr] Ceviche Peruano",
+      "descripcion": "[fr] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[fr] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[fr] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[fr] 6-8 limones peruanos",
+        "[fr] 1 cebolla roja en julianas",
+        "[fr] 1 ají limo picado",
+        "[fr] Cilantro fresco",
+        "[fr] Sal y pimienta",
+        "[fr] Camote cocido",
+        "[fr] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[fr] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[fr] Marinar inmediatamente con jugo de limón y sal.",
+        "[fr] Agregar cebolla, ají y cilantro picado.",
+        "[fr] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[fr] Servir inmediatamente con camote y choclo.",
+        "[fr] Acompañar con cancha serrana tostada."
+      ]
+    },
+    "ar": {
+      "nombre": "[ar] Ceviche Peruano",
+      "descripcion": "[ar] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[ar] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[ar] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[ar] 6-8 limones peruanos",
+        "[ar] 1 cebolla roja en julianas",
+        "[ar] 1 ají limo picado",
+        "[ar] Cilantro fresco",
+        "[ar] Sal y pimienta",
+        "[ar] Camote cocido",
+        "[ar] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[ar] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[ar] Marinar inmediatamente con jugo de limón y sal.",
+        "[ar] Agregar cebolla, ají y cilantro picado.",
+        "[ar] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[ar] Servir inmediatamente con camote y choclo.",
+        "[ar] Acompañar con cancha serrana tostada."
+      ]
+    },
+    "bn": {
+      "nombre": "[bn] Ceviche Peruano",
+      "descripcion": "[bn] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[bn] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[bn] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[bn] 6-8 limones peruanos",
+        "[bn] 1 cebolla roja en julianas",
+        "[bn] 1 ají limo picado",
+        "[bn] Cilantro fresco",
+        "[bn] Sal y pimienta",
+        "[bn] Camote cocido",
+        "[bn] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[bn] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[bn] Marinar inmediatamente con jugo de limón y sal.",
+        "[bn] Agregar cebolla, ají y cilantro picado.",
+        "[bn] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[bn] Servir inmediatamente con camote y choclo.",
+        "[bn] Acompañar con cancha serrana tostada."
+      ]
+    },
+    "pt": {
+      "nombre": "[pt] Ceviche Peruano",
+      "descripcion": "[pt] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[pt] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[pt] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[pt] 6-8 limones peruanos",
+        "[pt] 1 cebolla roja en julianas",
+        "[pt] 1 ají limo picado",
+        "[pt] Cilantro fresco",
+        "[pt] Sal y pimienta",
+        "[pt] Camote cocido",
+        "[pt] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[pt] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[pt] Marinar inmediatamente con jugo de limón y sal.",
+        "[pt] Agregar cebolla, ají y cilantro picado.",
+        "[pt] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[pt] Servir inmediatamente con camote y choclo.",
+        "[pt] Acompañar con cancha serrana tostada."
+      ]
+    },
+    "ru": {
+      "nombre": "[ru] Ceviche Peruano",
+      "descripcion": "[ru] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[ru] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[ru] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[ru] 6-8 limones peruanos",
+        "[ru] 1 cebolla roja en julianas",
+        "[ru] 1 ají limo picado",
+        "[ru] Cilantro fresco",
+        "[ru] Sal y pimienta",
+        "[ru] Camote cocido",
+        "[ru] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[ru] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[ru] Marinar inmediatamente con jugo de limón y sal.",
+        "[ru] Agregar cebolla, ají y cilantro picado.",
+        "[ru] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[ru] Servir inmediatamente con camote y choclo.",
+        "[ru] Acompañar con cancha serrana tostada."
+      ]
+    },
+    "ur": {
+      "nombre": "[ur] Ceviche Peruano",
+      "descripcion": "[ur] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[ur] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[ur] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[ur] 6-8 limones peruanos",
+        "[ur] 1 cebolla roja en julianas",
+        "[ur] 1 ají limo picado",
+        "[ur] Cilantro fresco",
+        "[ur] Sal y pimienta",
+        "[ur] Camote cocido",
+        "[ur] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[ur] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[ur] Marinar inmediatamente con jugo de limón y sal.",
+        "[ur] Agregar cebolla, ají y cilantro picado.",
+        "[ur] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[ur] Servir inmediatamente con camote y choclo.",
+        "[ur] Acompañar con cancha serrana tostada."
+      ]
+    },
+    "id": {
+      "nombre": "[id] Ceviche Peruano",
+      "descripcion": "[id] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[id] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[id] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[id] 6-8 limones peruanos",
+        "[id] 1 cebolla roja en julianas",
+        "[id] 1 ají limo picado",
+        "[id] Cilantro fresco",
+        "[id] Sal y pimienta",
+        "[id] Camote cocido",
+        "[id] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[id] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[id] Marinar inmediatamente con jugo de limón y sal.",
+        "[id] Agregar cebolla, ají y cilantro picado.",
+        "[id] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[id] Servir inmediatamente con camote y choclo.",
+        "[id] Acompañar con cancha serrana tostada."
+      ]
+    },
+    "ja": {
+      "nombre": "[ja] Ceviche Peruano",
+      "descripcion": "[ja] Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+      "historia": "[ja] El ceviche es el plato bandera del Perú, con raíces precolombinas que se remontan a los Moche. Declarado Patrimonio Cultural de la Nación.",
+      "ingredientes": [
+        "[ja] 500g de pescado blanco fresco (lenguado o corvina)",
+        "[ja] 6-8 limones peruanos",
+        "[ja] 1 cebolla roja en julianas",
+        "[ja] 1 ají limo picado",
+        "[ja] Cilantro fresco",
+        "[ja] Sal y pimienta",
+        "[ja] Camote cocido",
+        "[ja] Choclo desgranado"
+      ],
+      "instrucciones": [
+        "[ja] Cortar el pescado en cubos de 2cm aproximadamente.",
+        "[ja] Marinar inmediatamente con jugo de limón y sal.",
+        "[ja] Agregar cebolla, ají y cilantro picado.",
+        "[ja] Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "[ja] Servir inmediatamente con camote y choclo.",
+        "[ja] Acompañar con cancha serrana tostada."
+      ]
+    }
+  },
+  "japo-001": {
+    "es": {
+      "nombre": "Sushi Nigiri",
+      "descripcion": "El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "en": {
+      "nombre": "Nigiri Sushi",
+      "descripcion": "The most traditional Japanese sushi: small portions of vinegared rice topped with fresh raw fish.",
+      "historia": "Nigiri sushi was invented in Edo (Tokyo) during the Edo period (1603-1867).",
+      "ingredientes": [
+        "500g Japanese sushi rice"
+      ],
+      "instrucciones": [
+        "Wash rice under cold water until water runs clear."
+      ]
+    },
+    "zh": {
+      "nombre": "[zh] Sushi Nigiri",
+      "descripcion": "[zh] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[zh] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[zh] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[zh] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "hi": {
+      "nombre": "[hi] Sushi Nigiri",
+      "descripcion": "[hi] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[hi] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[hi] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[hi] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "fr": {
+      "nombre": "[fr] Sushi Nigiri",
+      "descripcion": "[fr] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[fr] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[fr] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[fr] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "ar": {
+      "nombre": "[ar] Sushi Nigiri",
+      "descripcion": "[ar] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[ar] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[ar] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[ar] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "bn": {
+      "nombre": "[bn] Sushi Nigiri",
+      "descripcion": "[bn] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[bn] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[bn] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[bn] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "pt": {
+      "nombre": "[pt] Sushi Nigiri",
+      "descripcion": "[pt] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[pt] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[pt] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[pt] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "ru": {
+      "nombre": "[ru] Sushi Nigiri",
+      "descripcion": "[ru] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[ru] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[ru] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[ru] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "ur": {
+      "nombre": "[ur] Sushi Nigiri",
+      "descripcion": "[ur] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[ur] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[ur] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[ur] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "id": {
+      "nombre": "[id] Sushi Nigiri",
+      "descripcion": "[id] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[id] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[id] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[id] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    },
+    "ja": {
+      "nombre": "[ja] Sushi Nigiri",
+      "descripcion": "[ja] El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo.",
+      "historia": "[ja] El nigiri sushi fue inventado en el Edo (Tokio) durante el período Edo (1603-1867). Hanaya Yohei es considerado el creador alrededor de 1824.",
+      "ingredientes": [
+        "[ja] 500g de arroz japonés para sushi"
+      ],
+      "instrucciones": [
+        "[ja] Lavar el arroz bajo agua fría hasta que el agua salga clara."
+      ]
+    }
+  },
+  "thai-001": {
+    "es": {
+      "nombre": "Pad Thai",
+      "descripcion": "Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "en": {
+      "nombre": "Pad Thai",
+      "descripcion": "Stir-fried rice noodles with shrimp, tofu, egg, bean sprouts and peanuts.",
+      "historia": "Pad Thai became popular in Thailand in the 1930s as part of a nationalist campaign.",
+      "ingredientes": [
+        "250g dried rice noodles"
+      ],
+      "instrucciones": [
+        "Soak noodles in warm water 30 minutes until soft, drain."
+      ]
+    },
+    "zh": {
+      "nombre": "[zh] Pad Thai",
+      "descripcion": "[zh] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[zh] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[zh] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[zh] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "hi": {
+      "nombre": "[hi] Pad Thai",
+      "descripcion": "[hi] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[hi] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[hi] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[hi] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "fr": {
+      "nombre": "[fr] Pad Thai",
+      "descripcion": "[fr] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[fr] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[fr] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[fr] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "ar": {
+      "nombre": "[ar] Pad Thai",
+      "descripcion": "[ar] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[ar] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[ar] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[ar] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "bn": {
+      "nombre": "[bn] Pad Thai",
+      "descripcion": "[bn] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[bn] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[bn] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[bn] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "pt": {
+      "nombre": "[pt] Pad Thai",
+      "descripcion": "[pt] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[pt] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[pt] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[pt] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "ru": {
+      "nombre": "[ru] Pad Thai",
+      "descripcion": "[ru] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[ru] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[ru] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[ru] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "ur": {
+      "nombre": "[ur] Pad Thai",
+      "descripcion": "[ur] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[ur] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[ur] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[ur] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "id": {
+      "nombre": "[id] Pad Thai",
+      "descripcion": "[id] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[id] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[id] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[id] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    },
+    "ja": {
+      "nombre": "[ja] Pad Thai",
+      "descripcion": "[ja] Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes.",
+      "historia": "[ja] El Pad Thai se popularizó en Tailandia en la década de 1930 como parte de una campaña nacionalista.",
+      "ingredientes": [
+        "[ja] 250g de fideos de arroz secos"
+      ],
+      "instrucciones": [
+        "[ja] Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir."
+      ]
+    }
+  },
+  "ital-001": {
+    "es": {
+      "nombre": "Pizza Napoletana",
+      "descripcion": "La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "500g harina 00"
+      ],
+      "instrucciones": [
+        "Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "en": {
+      "nombre": "Neapolitan Pizza",
+      "descripcion": "The original Italian pizza with thin crust, San Marzano tomatoes, mozzarella di bufala and fresh basil.",
+      "historia": "Neapolitan pizza was born in Naples, Italy, in the 18th century. UNESCO Intangible Cultural Heritage.",
+      "ingredientes": [
+        "500g 00 flour"
+      ],
+      "instrucciones": [
+        "Mix flour, water, yeast and salt"
+      ]
+    },
+    "zh": {
+      "nombre": "[zh] Pizza Napoletana",
+      "descripcion": "[zh] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[zh] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[zh] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[zh] Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "hi": {
+      "nombre": "[hi] Pizza Napoletana",
+      "descripcion": "[hi] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[hi] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[hi] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[hi] Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "fr": {
+      "nombre": "[fr] Pizza Napoletana",
+      "descripcion": "[fr] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[fr] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[fr] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[fr] Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "ar": {
+      "nombre": "[ar] Pizza Napoletana",
+      "descripcion": "[ar] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[ar] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[ar] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[ar] Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "bn": {
+      "nombre": "[bn] Pizza Napoletana",
+      "descripcion": "[bn] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[bn] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[bn] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[bn] Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "pt": {
+      "nombre": "[pt] Pizza Napoletana",
+      "descripcion": "[pt] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[pt] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[pt] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[pt] Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "ru": {
+      "nombre": "[ru] Pizza Napoletana",
+      "descripcion": "[ru] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[ru] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[ru] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[ru] Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "ur": {
+      "nombre": "[ur] Pizza Napoletana",
+      "descripcion": "[ur] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[ur] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[ur] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[ur] Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "id": {
+      "nombre": "[id] Pizza Napoletana",
+      "descripcion": "[id] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[id] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[id] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[id] Mezclar harina, agua, levadura y sal"
+      ]
+    },
+    "ja": {
+      "nombre": "[ja] Pizza Napoletana",
+      "descripcion": "[ja] La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+      "historia": "[ja] La pizza napolitana nació en Nápoles, Italia, en el siglo XVIII. Patrimonio Inmaterial de la Humanidad por la UNESCO.",
+      "ingredientes": [
+        "[ja] 500g harina 00"
+      ],
+      "instrucciones": [
+        "[ja] Mezclar harina, agua, levadura y sal"
+      ]
+    }
+  }
+}
