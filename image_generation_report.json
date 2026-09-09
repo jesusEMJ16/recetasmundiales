@@ -1,0 +1,314 @@
+{
+  "fecha": "2026-09-09 00:29:53",
+  "total_recetas": 235,
+  "imagenes_existentes": 72,
+  "imagenes_descargadas": 0,
+  "placeholders_generados": 163,
+  "errores": [],
+  "por_pais": {
+    "alemania": {
+      "nombre": "Alemania",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "argentina": {
+      "nombre": "Argentina",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "brasil": {
+      "nombre": "Brasil",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "canadá": {
+      "nombre": "Canadá",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "chile": {
+      "nombre": "Chile",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "china": {
+      "nombre": "China",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "colombia": {
+      "nombre": "Colombia",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "corea-del-sur": {
+      "nombre": "Corea del Sur",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "costa-rica": {
+      "nombre": "Costa Rica",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "cuba": {
+      "nombre": "Cuba",
+      "total": 10,
+      "existentes": 10,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "ecuador": {
+      "nombre": "Ecuador",
+      "total": 5,
+      "existentes": 5,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "egipto": {
+      "nombre": "Egipto",
+      "total": 10,
+      "existentes": 10,
+      "descargadas": 0,
+      "generadas": 0,
+      "errores": 0
+    },
+    "españa": {
+      "nombre": "España",
+      "total": 10,
+      "existentes": 2,
+      "descargadas": 0,
+      "generadas": 8,
+      "errores": 0
+    },
+    "estados-unidos": {
+      "nombre": "Estados Unidos",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "etiopía": {
+      "nombre": "Etiopía",
+      "total": 10,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 10,
+      "errores": 0
+    },
+    "filipinas": {
+      "nombre": "Filipinas",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "francia": {
+      "nombre": "Francia",
+      "total": 10,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 10,
+      "errores": 0
+    },
+    "grecia": {
+      "nombre": "Grecia",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "hungría": {
+      "nombre": "Hungría",
+      "total": 10,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 10,
+      "errores": 0
+    },
+    "india": {
+      "nombre": "India",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "indonesia": {
+      "nombre": "Indonesia",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "italia": {
+      "nombre": "Italia",
+      "total": 10,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 10,
+      "errores": 0
+    },
+    "japón": {
+      "nombre": "Japón",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "malasia": {
+      "nombre": "Malasia",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "méxico": {
+      "nombre": "México",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "nueva-zelanda": {
+      "nombre": "Nueva Zelanda",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "panamá": {
+      "nombre": "Panamá",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "países-bajos": {
+      "nombre": "Países Bajos",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "perú": {
+      "nombre": "Perú",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "polonia": {
+      "nombre": "Polonia",
+      "total": 10,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 10,
+      "errores": 0
+    },
+    "portugal": {
+      "nombre": "Portugal",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "reino-unido": {
+      "nombre": "Reino Unido",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "singapur": {
+      "nombre": "Singapur",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "tailandia": {
+      "nombre": "Tailandia",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "turquía": {
+      "nombre": "Turquía",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "ucrania": {
+      "nombre": "Ucrania",
+      "total": 10,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 10,
+      "errores": 0
+    },
+    "venezuela": {
+      "nombre": "Venezuela",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    },
+    "vietnam": {
+      "nombre": "Vietnam",
+      "total": 5,
+      "existentes": 0,
+      "descargadas": 0,
+      "generadas": 5,
+      "errores": 0
+    }
+  }
+}
