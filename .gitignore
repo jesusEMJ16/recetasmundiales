@@ -1,3 +1,4 @@
-Nothing should be ignored in this case, as the changes only involve JSON recipe data files which are source/config files. The existing .gitignore content is also empty, so no modifications are needed.
-
-Output: (empty)
+```
+# Data normalization outputs
+data_normalized/
+```
