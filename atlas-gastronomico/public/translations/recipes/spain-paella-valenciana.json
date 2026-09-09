@@ -296,6 +296,33 @@
         "18 分炊く",
         "5 分蒸らす"
       ]
+    },
+    "es": {
+      "nombre": "Paella Valenciana",
+      "descripcion": "El plato más emblemático de España con arroz, pollo, conejo y judías verdes.",
+      "historia": "La paella nació en el siglo XVIII en los campos de arroz de Valencia.",
+      "ingredientes": [
+        "400g arroz bomba",
+        "1 pollo troceado",
+        "1 conejo troceado",
+        "200g judías verdes",
+        "100g garrofó",
+        "1 tomate rallado",
+        "Azafrán",
+        "Pimentón dulce",
+        "Aceite de oliva",
+        "Sal",
+        "Agua"
+      ],
+      "instrucciones": [
+        "Calentar aceite y dorar carnes",
+        "Añadir verduras y sofreír",
+        "Agregar tomate y pimentón",
+        "Verter agua y cocinar 20 min",
+        "Añadir azafrán y arroz",
+        "Cocinar 18 minutos",
+        "Dejar reposar 5 min"
+      ]
     }
   }
 }

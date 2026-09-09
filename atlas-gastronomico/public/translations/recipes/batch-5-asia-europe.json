@@ -1,0 +1,56 @@
+{
+  "zh-peking-duck": {
+    "es": {
+      "nombre": "Pato Laqueado de Pekín",
+      "descripcion": "El pato laqueado de Pekín es un plato emblemático de la cocina china, conocido por su piel fina y crujiente y su carne tierna. Se sirve tradicionalmente con panqueques finos, cebollino, pepino y salsa hoisin.",
+      "historia": "Originario de la dinastía Ming en Beijing, este plato era servido exclusivamente en la corte imperial. Su preparación requiere más de 24 horas y técnicas especializadas para lograr la característica piel brillante y crujiente.",
+      "ingredientes": [
+        "1 pato entero (aproximadamente 2 kg)",
+        "3 cucharadas de miel",
+        "2 cucharadas de salsa de soja",
+        "1 cucharada de vinagre de arroz",
+        "1 cucharadita de jengibre fresco rallado",
+        "1 cucharadita de polvo de cinco especias",
+        "Sal al gusto",
+        "Panqueques chinos al vapor",
+        "Cebollino fresco cortado",
+        "Pepino en tiras",
+        "Salsa hoisin para servir"
+      ],
+      "instrucciones": [
+        "Limpiar el pato y secarlo completamente. Inflar ligeramente la piel para separarla de la carne.",
+        "Mezclar miel, salsa de soja, vinagre, jengibre y cinco especias. Cubrir el pato con esta mezcla.",
+        "Colgar el pato en un lugar fresco y seco durante 12-24 horas hasta que la piel esté seca y brillante.",
+        "Precalentar el horno a 170°C. Asar el pato durante 45-60 minutos hasta que la piel esté dorada y crujiente.",
+        "Dejar reposar 10 minutos antes de cortar la piel en trozos finos.",
+        "Servir con panqueques calientes, cebollino, pepino y salsa hoisin."
+      ]
+    },
+    "en": {
+      "nombre": "Peking Duck",
+      "descripcion": "Peking Duck is an iconic Chinese dish renowned for its thin, crispy skin and tender meat. Traditionally served with thin pancakes, scallions, cucumber, and hoisin sauce.",
+      "historia": "Originating from the Ming Dynasty in Beijing, this dish was exclusively served in the imperial court. Its preparation requires over 24 hours and specialized techniques to achieve the characteristic glossy, crispy skin.",
+      "ingredientes": [
+        "1 whole duck (approximately 2 kg)",
+        "3 tablespoons honey",
+        "2 tablespoons soy sauce",
+        "1 tablespoon rice vinegar",
+        "1 teaspoon fresh grated ginger",
+        "1 teaspoon five-spice powder",
+        "Salt to taste",
+        "Steamed Chinese pancakes",
+        "Fresh scallions, sliced",
+        "Cucumber strips",
+        "Hoisin sauce for serving"
+      ],
+      "instrucciones": [
+        "Clean the duck and dry thoroughly. Gently inflate the skin to separate it from the meat.",
+        "Mix honey, soy sauce, vinegar, ginger, and five-spice powder. Coat the duck with this mixture.",
+        "Hang the duck in a cool, dry place for 12-24 hours until the skin is dry and glossy.",
+        "Preheat oven to 340°F (170°C). Roast the duck for 45-60 minutes until skin is golden and crispy.",
+        "Let rest for 10 minutes before slicing the skin into thin pieces.",
+        "Serve with warm pancakes, scallions, cucumber, and hoisin sauce."
+      ]
+    }
+  }
+}
