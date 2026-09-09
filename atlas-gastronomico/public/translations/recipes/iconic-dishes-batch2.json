@@ -1,0 +1,1306 @@
+{
+  "ital-002": {
+    "es": {
+      "dishName": "Pasta Carbonara",
+      "summary": "Clásica pasta romana con huevo, queso pecorino, guanciale y pimienta negra. Sin nata.",
+      "history": "La Carbonara es un plato emblemático de Roma, creado probablemente después de la Segunda Guerra Mundial. Su nombre podría derivar de 'carbonaro' (carbonero), aunque hay varias teorías. La receta auténtica nunca lleva nata; la cremosidad se logra únicamente con yemas de huevo, Pecorino Romano y el agua de cocción de la pasta.",
+      "ingredients": [
+        "400g spaghetti",
+        "150g guanciale",
+        "4 yemas de huevo",
+        "100g Pecorino Romano",
+        "Pimienta negra molida",
+        "Sal"
+      ],
+      "instructions": [
+        "Cocer la pasta en agua salada",
+        "Dorar el guanciale en sartén",
+        "Mezclar yemas con pecorino y pimienta",
+        "Escurrir pasta reservando agua de cocción",
+        "Mezclar pasta con guanciale fuera del fuego",
+        "Añadir mezcla de huevos removiendo rápido",
+        "Servir inmediatamente con más pecorino"
+      ]
+    },
+    "en": {
+      "dishName": "Pasta Carbonara",
+      "summary": "Classic Roman pasta with egg, Pecorino cheese, guanciale and black pepper. No cream.",
+      "history": "Carbonara is an iconic dish from Rome, probably created after World War II. Its name may derive from 'carbonaro' (charcoal burner), though there are several theories. The authentic recipe never uses cream; the creaminess is achieved solely with egg yolks, Pecorino Romano and pasta cooking water.",
+      "ingredients": [
+        "400g spaghetti",
+        "150g guanciale",
+        "4 egg yolks",
+        "100g Pecorino Romano",
+        "Ground black pepper",
+        "Salt"
+      ],
+      "instructions": [
+        "Cook pasta in salted water",
+        "Brown the guanciale in a pan",
+        "Mix yolks with pecorino and pepper",
+        "Drain pasta reserving cooking water",
+        "Mix pasta with guanciale off the heat",
+        "Add egg mixture stirring quickly",
+        "Serve immediately with more pecorino"
+      ]
+    },
+    "zh": {
+      "dishName": "罗马碳水面",
+      "summary": "经典的罗马意面，配鸡蛋、佩科里诺奶酪、风干猪颊肉和黑胡椒。不加奶油。",
+      "history": "碳水面是罗马的标志性菜肴，可能创建于二战后。其名称可能源自'carbonaro'（烧炭人），尽管有多种说法。正宗的配方从不用奶油；奶油质地仅靠蛋黄、佩科里诺罗马诺奶酪和煮面水实现。",
+      "ingredients": [
+        "400克意大利面",
+        "150克风干猪颊肉",
+        "4个蛋黄",
+        "100克佩科里诺罗马诺奶酪",
+        "黑胡椒粉",
+        "盐"
+      ],
+      "instructions": [
+        "在盐水中煮意面",
+        "在锅中煎香猪颊肉",
+        "将蛋黄与奶酪和胡椒混合",
+        "沥干意面，保留煮面水",
+        "离火将意面与猪颊肉混合",
+        "快速搅拌加入蛋液",
+        "立即上桌，撒上更多奶酪"
+      ]
+    },
+    "hi": {
+      "dishName": "पास्ता कार्बोनारा",
+      "summary": "अंडे, पेकोरिनो पनीर, गुआनचियल और काली मिर्च के साथ क्लासिक रोमन पास्ता। कोई मलाई नहीं।",
+      "history": "कार्बोनारा रोम का एक प्रतीकात्मक व्यंजन है, जो संभवतः द्वितीय विश्व युद्ध के बाद बनाया गया था। इसका नाम 'कार्बोनारो' (कोयला जलाने वाला) से लिया गया हो सकता है। प्रामाणिक रेसिपी में कभी भी मलाई का उपयोग नहीं किया जाता; क्रीमीपन केवल अंडे की जर्दी, पेकोरिनो रोमानो और पास्ता कुकिंग वॉटर से प्राप्त होता है।",
+      "ingredients": [
+        "400 ग्राम स्पेगेटी",
+        "150 ग्राम गुआनचियल",
+        "4 अंडे की जर्दी",
+        "100 ग्राम पेकोरिनो रोमानो",
+        "पिसी हुई काली मिर्च",
+        "नमक"
+      ],
+      "instructions": [
+        "खारे पानी में पास्ता उबालें",
+        "पैन में गुआनचियल को भूनें",
+        "जर्दी को पेकोरिनो और मिर्च के साथ मिलाएं",
+        "कुकिंग वॉटर सुरक्षित रखते हुए पास्ता निथारें",
+        "गर्मी से हटाकर पास्ता को गुआनचियल के साथ मिलाएं",
+        "जल्दी से हिलाते हुए अंडे का मिश्रण डालें",
+        "तुरंत अधिक पेकोरिनो के साथ परोसें"
+      ]
+    },
+    "fr": {
+      "dishName": "Pâtes Carbonara",
+      "summary": "Pâtes romaines classiques avec œuf, fromage Pecorino, guanciale et poivre noir. Sans crème.",
+      "history": "La Carbonara est un plat emblématique de Rome, probablement créé après la Seconde Guerre mondiale. Son nom pourrait dériver de 'carbonaro' (charbonnier), bien qu'il existe plusieurs théories. La recette authentique n'utilise jamais de crème ; l'onctuosité est obtenue uniquement avec des jaunes d'œufs, du Pecorino Romano et de l'eau de cuisson des pâtes.",
+      "ingredients": [
+        "400g de spaghettis",
+        "150g de guanciale",
+        "4 jaunes d'œufs",
+        "100g de Pecorino Romano",
+        "Poivre noir moulu",
+        "Sel"
+      ],
+      "instructions": [
+        "Cuire les pâtes dans l'eau salée",
+        "Faire dorer le guanciale dans une poêle",
+        "Mélanger les jaunes avec le pecorino et le poivre",
+        "Égoutter les pâtes en réservant l'eau de cuisson",
+        "Mélanger les pâtes avec le guanciale hors du feu",
+        "Ajouter le mélange d'œufs en remuant rapidement",
+        "Servir immédiatement avec plus de pecorino"
+      ]
+    },
+    "ar": {
+      "dishName": "باستا كربونارا",
+      "summary": "باستا رومانية كلاسيكية مع البيض وجبن البيكورينو والجوانشالي والفلفل الأسود. بدون كريمة.",
+      "history": "الكربونارا هو طبق رمزي من روما، تم إنشاؤه على الأرجح بعد الحرب العالمية الثانية. قد يشتق اسمه من 'كربونارو' (حارق الفحم)، رغم وجود عدة نظريات. الوصفة الأصلية لا تستخدم الكريمة أبداً؛ يتم تحقيق القشدية فقط بصفار البيض وجبن البيكورينو الروماني وماء طهي الباستا.",
+      "ingredients": [
+        "400 غرام سباجيتي",
+        "150 غرام جوانشالي",
+        "4 صفار بيض",
+        "100 غرام جبن بيكورينو رومانو",
+        "فلفل أسود مطحون",
+        "ملح"
+      ],
+      "instructions": [
+        "اطبخ الباستا في ماء مملح",
+        "احمر الجوانشالي في مقلاة",
+        "امزج الصفار مع البيكورينو والفلفل",
+        "صِفِ الباستا مع الاحتفاظ بماء الطهي",
+        "اخلط الباستا مع الجوانشالي بعيداً عن النار",
+        "أضف مزيج البيض مع التحريك السريع",
+        "قدم فوراً مع المزيد من البيكورينو"
+      ]
+    },
+    "bn": {
+      "dishName": "পাস্তা কার্বোনারা",
+      "summary": "ডিম, পেকোরিনো পনির, গুয়ানচিয়াল এবং কালো মরিচ সহ ক্লাসিক রোমান পাস্তা। কোনো ক্রিম নেই।",
+      "history": "কার্বোনারা রোমের একটি আইকনিক ডিশ, সম্ভবত দ্বিতীয় বিশ্বযুদ্ধের পরে তৈরি। এর নামটি 'কার্বোনারো' (কয়লা পোড়ানো লোক) থেকে আসতে পারে। প্রামাণিক রেসিপিতে কখনোই ক্রিম ব্যবহার করা হয় না; ক্রিমিনেস কেবল ডিমের কুসুম, পেকোরিনো রোমানো এবং পাস্তা রান্নার জল দিয়ে অর্জিত হয়।",
+      "ingredients": [
+        "৪০০ গ্রাম স্প্যাগেটি",
+        "১৫০ গ্রাম গুয়ানচিয়াল",
+        "৪টি ডিমের কুসুম",
+        "১০০ গ্রাম পেকোরিনো রোমানো",
+        "গোল মরিচ গুঁড়ো",
+        "লবণ"
+      ],
+      "instructions": [
+        "লবণাক্ত জলে পাস্তা রান্না করুন",
+        "প্যানে গুয়ানচিয়াল ভাজুন",
+        "কুসুমকে পেকোরিনো এবং মরিচের সাথে মিশান",
+        "রান্নার জল সংরক্ষণ করে পাস্তা ছেঁকে নিন",
+        "আগুন থেকে নামিয়ে পাস্তাকে গুয়ানচিয়ালের সাথে মিশান",
+        "দ্রুত নাড়তে নাড়তে ডিমের মিশ্রণ যোগ করুন",
+        "তাৎক্ষণিকভাবে আরও পেকোরিনো দিয়ে পরিবেশন করুন"
+      ]
+    },
+    "pt": {
+      "dishName": "Massa Carbonara",
+      "summary": "Massa romana clássica com ovo, queijo Pecorino, guanciale e pimenta preta. Sem creme.",
+      "history": "A Carbonara é um prato icônico de Roma, provavelmente criado após a Segunda Guerra Mundial. Seu nome pode derivar de 'carbonaro' (carvoeiro), embora existam várias teorias. A receita autêntica nunca usa creme; a cremosidade é alcançada apenas com gemas de ovo, Pecorino Romano e água de cozimento da massa.",
+      "ingredients": [
+        "400g de espaguete",
+        "150g de guanciale",
+        "4 gemas de ovo",
+        "100g de Pecorino Romano",
+        "Pimenta preta moída",
+        "Sal"
+      ],
+      "instructions": [
+        "Cozinhar a massa em água salgada",
+        "Dourar o guanciale em uma frigideira",
+        "Misturar gemas com pecorino e pimenta",
+        "Escorrer a massa reservando a água de cozimento",
+        "Misturar a massa com o guanciale fora do fogo",
+        "Adicionar a mistura de ovos mexendo rapidamente",
+        "Servir imediatamente com mais pecorino"
+      ]
+    },
+    "ru": {
+      "dishName": "Паста Карбонара",
+      "summary": "Классическая римская паста с яйцом, сыром Пекорино, гуанчиале и черным перцем. Без сливок.",
+      "history": "Карбонара — культовое блюдо Рима, вероятно созданное после Второй мировой войны. Название может происходить от 'carbonaro' (угольщик), хотя есть несколько теорий. Аутентичный рецепт никогда не использует сливки; кремовая текстура достигается исключительно яичными желтками, сыром Пекорино Романо и водой от варки пасты.",
+      "ingredients": [
+        "400г спагетти",
+        "150г гуанчиале",
+        "4 яичных желтка",
+        "100г сыра Пекорино Романо",
+        "Молотый черный перец",
+        "Соль"
+      ],
+      "instructions": [
+        "Отварить пасту в подсоленной воде",
+        "Обжарить гуанчиале на сковороде",
+        "Смешать желтки с пекорино и перцем",
+        "Слить пасту, сохранив воду от варки",
+        "Смешать пасту с гуанчиале вне огня",
+        "Добавить яичную смесь, быстро помешивая",
+        "Немедленно подавать с дополнительным пекорино"
+      ]
+    },
+    "ur": {
+      "dishName": "پاسٹا کاربونارا",
+      "summary": "انڈے، پیکورینو پنیر، گوانچیال اور کالی مرچ کے ساتھ کلاسک رومن پاسٹا۔ کوئی کریم نہیں۔",
+      "history": "کاربونارا روم کا ایک علامتی پکوان ہے، جو شاید دوسری جنگ عظیم کے بعد بنایا گیا۔ اس کا نام 'کاربونارو' (کوئلہ جلانے والا) سے ماخوذ ہو سکتا ہے۔ اصلی نسخے میں کبھی بھی کریم استعمال نہیں ہوتی؛ کریمی پن صرف انڈے کی زردی، پیکورینو رومانو اور پاسٹا کے پکانے والے پانی سے حاصل ہوتا ہے۔",
+      "ingredients": [
+        "400 گرام سپیگٹی",
+        "150 گرام گوانچیال",
+        "4 انڈوں کی زردی",
+        "100 گرام پیکورینو رومانو",
+        "پسی ہوئی کالی مرچ",
+        "نمک"
+      ],
+      "instructions": [
+        "نمکین پانی میں پاسٹا ابالیں",
+        "پین میں گوانچیال کو بھونیں",
+        "زردی کو پیکورینو اور مرچ کے ساتھ ملائیں",
+        "پکانے کا پانی محفوظ رکھتے ہوئے پاسٹا نکال لیں",
+        "آگ سے اتار کر پاسٹا کو گوانچیال کے ساتھ ملائیں",
+        "تیزی سے ہلاتے ہوئے انڈے کا مکسچر ڈالیں",
+        "فوراً زیادہ پیکورینو کے ساتھ پیش کریں"
+      ]
+    },
+    "id": {
+      "dishName": "Pasta Carbonara",
+      "summary": "Pasta klasik Roma dengan telur, keju Pecorino, guanciale dan lada hitam. Tanpa krim.",
+      "history": "Carbonara adalah hidangan ikonik dari Roma, kemungkinan dibuat setelah Perang Dunia II. Namanya mungkin berasal dari 'carbonaro' (pembuat arang), meskipun ada beberapa teori. Resep otentik tidak pernah menggunakan krim; kekrimian dicapai hanya dengan kuning telur, Pecorino Romano dan air rebusan pasta.",
+      "ingredients": [
+        "400g spaghetti",
+        "150g guanciale",
+        "4 kuning telur",
+        "100g Pecorino Romano",
+        "Lada hitam bubuk",
+        "Garam"
+      ],
+      "instructions": [
+        "Rebus pasta dalam air asin",
+        "Goreng guanciale hingga kecokelatan",
+        "Campur kuning telur dengan pecorino dan lada",
+        "Tiriskan pasta sambil menyisihkan air rebusan",
+        "Campur pasta dengan guanciale di luar api",
+        "Tambahkan campuran telur sambil diaduk cepat",
+        "Sajikan segera dengan lebih banyak pecorino"
+      ]
+    },
+    "ja": {
+      "dishName": "パスタ・カルボナーラ",
+      "summary": "卵、ペコリーノチーズ、グアンチャーレ、黒胡椒を使ったクラシックなローマのパスタ。クリーム不使用。",
+      "history": "カルボナーラはローマの象徴的な料理で、おそらく第二次世界大戦後に作られました。名前は『carbonaro』（炭焼き職人）に由来すると言われていますが、いくつかの説があります。本物のレシピは決してクリームを使いません。クリーミーさは卵黄、ペコリーノ・ロマーノ、パスタの茹で汁だけで実現します。",
+      "ingredients": [
+        "スパゲッティ 400g",
+        "グアンチャーレ 150g",
+        "卵黄 4個分",
+        "ペコリーノ・ロマーノ 100g",
+        "挽いた黒胡椒",
+        "塩"
+      ],
+      "instructions": [
+        "塩湯でパスタを茹でる",
+        "フライパンでグアンチャーレをきつね色に焼く",
+        "卵黄とペコリーノ、胡椒を混ぜる",
+        "茹で汁を残してパスタを水切りする",
+        "火から下ろしてパスタとグアンチャーレを混ぜる",
+        "素早くかき混ぜながら卵の混合物を加える",
+        "すぐにさらにペコリーノをかけて提供"
+      ]
+    }
+  },
+  "mx-tacos-al-pastor": {
+    "es": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Deliciosos tacos de cerdo marinado con achiote y piña, cocinados en trompo vertical.",
+      "history": "Los Tacos al Pastor son un ícono de la gastronomía mexicana, creados en la Ciudad de México en los años 1960 por inmigrantes libaneses. Inspirados en el shawarma árabe, adaptaron la técnica del trompo vertical usando carne de cerdo marinada con achiote y chiles mexicanos. La piña asada en la punta del trompo añade dulzura y jugosidad, creando el equilibrio perfecto de sabores.",
+      "ingredients": [
+        "1 kg de carne de cerdo en rebanadas delgadas",
+        "3 chiles guajillos",
+        "2 chiles anchos",
+        "1/4 taza de vinagre",
+        "1 cucharada de achiote",
+        "3 dientes de ajo",
+        "1 piña fresca",
+        "Cilantro fresco",
+        "Cebolla blanca picada",
+        "Tortillas de maíz"
+      ],
+      "instructions": [
+        "Hidratar los chiles en agua caliente por 15 minutos",
+        "Licuar chiles con vinagre, achiote, ajo y especias",
+        "Marinar la carne de cerdo por al menos 4 horas o toda la noche",
+        "Colocar la carne en capas formando un trompo (o usar sartén)",
+        "Cocinar girando constantemente hasta dorar",
+        "Rebanar finamente y servir en tortillas calientes",
+        "Agregar piña asada, cilantro, cebolla y salsa al gusto"
+      ]
+    },
+    "en": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Delicious tacos of marinated pork with achiote and pineapple, cooked on a vertical spit.",
+      "history": "Tacos al Pastor are an icon of Mexican cuisine, created in Mexico City in the 1960s by Lebanese immigrants. Inspired by Arab shawarma, they adapted the vertical spit technique using pork marinated with achiote and Mexican chiles. Roasted pineapple at the tip of the spit adds sweetness and juiciness, creating the perfect balance of flavors.",
+      "ingredients": [
+        "1 kg thinly sliced pork",
+        "3 guajillo chiles",
+        "2 ancho chiles",
+        "1/4 cup vinegar",
+        "1 tablespoon achiote",
+        "3 garlic cloves",
+        "1 fresh pineapple",
+        "Fresh cilantro",
+        "Diced white onion",
+        "Corn tortillas"
+      ],
+      "instructions": [
+        "Hydrate chiles in hot water for 15 minutes",
+        "Blend chiles with vinegar, achiote, garlic and spices",
+        "Marinate pork for at least 4 hours or overnight",
+        "Stack meat in layers forming a spit (or use pan)",
+        "Cook turning constantly until browned",
+        "Slice thinly and serve on hot tortillas",
+        "Add roasted pineapple, cilantro, onion and salsa to taste"
+      ]
+    },
+    "zh": {
+      "dishName": "墨西哥 pastor 塔可",
+      "summary": "美味的腌制猪肉塔可，配胭脂树籽和菠萝，在垂直烤架上烹饪。",
+      "history": "Pastor 塔可是墨西哥美食的标志，由黎巴嫩移民于 1960 年代在墨西哥城创造。受阿拉伯沙威玛启发，他们采用垂直烤架技术，使用腌有胭脂树籽和墨西哥辣椒的猪肉。烤菠萝放在烤架顶端，增添甜味和多汁感，创造完美的风味平衡。",
+      "ingredients": [
+        "1 公斤薄切猪肉",
+        "3 个瓜希略辣椒",
+        "2 个安乔辣椒",
+        "1/4 杯醋",
+        "1 汤匙胭脂树籽酱",
+        "3 瓣大蒜",
+        "1 个新鲜菠萝",
+        "新鲜香菜",
+        "切碎的白洋葱",
+        "玉米饼"
+      ],
+      "instructions": [
+        "将辣椒在热水中浸泡 15 分钟",
+        "将辣椒与醋、胭脂树籽、大蒜和香料一起搅拌",
+        "将猪肉腌制至少 4 小时或过夜",
+        "将肉分层堆叠成圆锥形（或用平底锅）",
+        "不断旋转烹饪至金黄",
+        "切成薄片，放在热玉米饼上",
+        "加入烤菠萝、香菜、洋葱和莎莎酱"
+      ]
+    },
+    "hi": {
+      "dishName": "टाकोस अल पास्टर",
+      "summary": "एचीोट और अनन्नास के साथ मैरिनेटेड पोर्क के स्वादिष्ट टैकोस, वर्टिकल स्पिट पर पकाए गए।",
+      "history": "टाकोस अल पास्टर मेक्सिकन व्यंजन का प्रतीक हैं, जिन्हें 1960 के दशक में लेबनानी आप्रवासियों द्वारा मेक्सिको सिटी में बनाया गया था। अरबी शवर्मा से प्रेरित, उन्होंने एचीोट और मेक्सिकन मिर्च के साथ मैरिनेटेड पोर्क का उपयोग करके वर्टिकल स्पिट तकनीक को अपनाया। स्पिट की नोक पर भुना अनन्नास मिठास और रसीलापन जोड़ता है, जो स्वाद का सही संतुलन बनाता है।",
+      "ingredients": [
+        "1 किलोग्राम बारीक कटा हुआ पोर्क",
+        "3 ग्वाजिलो मिर्च",
+        "2 एन्चो मिर्च",
+        "1/4 कप सिरका",
+        "1 चम्मच एचीोट",
+        "3 लहसुन की कलियाँ",
+        "1 ताज़ा अनन्नास",
+        "ताज़ा धनिया",
+        "कटा हुआ सफेद प्याज",
+        "मक्के की टॉर्टियास"
+      ],
+      "instructions": [
+        "मिर्च को 15 मिनट के लिए गर्म पानी में भिगोएं",
+        "मिर्च को सिरका, एचीोट, लहसुन और मसालों के साथ ब्लेंड करें",
+        "पोर्क को कम से कम 4 घंटे या रात भर मैरिनेट करें",
+        "मांस को परतों में रखकर स्पिट बनाएं (या पैन का उपयोग करें)",
+        "लगातार घुमाते हुए भूरा होने तक पकाएं",
+        "पतली slices में काटें और गर्म टॉर्टियास पर परोसें",
+        "भुना अनन्नास, धनिया, प्याज और सालसा स्वादानुसार जोड़ें"
+      ]
+    },
+    "fr": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Délicieux tacos de porc mariné à l'achiote et à l'ananas, cuits sur une broche verticale.",
+      "history": "Les Tacos al Pastor sont une icône de la cuisine mexicaine, créés à Mexico dans les années 1960 par des immigrants libanais. Inspirés du shawarma arabe, ils ont adapté la technique de la broche verticale en utilisant du porc mariné avec de l'achiote et des piments mexicains. L'ananas rôti au sommet de la broche ajoute douceur et jutosité, créant l'équilibre parfait des saveurs.",
+      "ingredients": [
+        "1 kg de porc coupé en tranches fines",
+        "3 piments guajillo",
+        "2 piments ancho",
+        "1/4 tasse de vinaigre",
+        "1 cuillère à soupe d'achiote",
+        "3 gousses d'ail",
+        "1 ananas frais",
+        "Coriandre fraîche",
+        "Oignon blanc haché",
+        "Tortillas de maïs"
+      ],
+      "instructions": [
+        "Hydrater les piments dans l'eau chaude pendant 15 minutes",
+        "Mixer les piments avec le vinaigre, l'achiote, l'ail et les épices",
+        "Mariner le porc pendant au moins 4 heures ou toute la nuit",
+        "Empiler la viande en couches formant une broche (ou utiliser une poêle)",
+        "Cuire en tournant constamment jusqu'à ce qu'il soit doré",
+        "Trancher finement et servir sur des tortillas chaudes",
+        "Ajouter ananas rôti, coriandre, oignon et salsa au goût"
+      ]
+    },
+    "ar": {
+      "dishName": "تاكو أل باستور",
+      "summary": "تاكو لذيذ من لحم الخنزير المتبل بالأشيوت والأناناس، مطبوخ على سيخ عمودي.",
+      "history": "تاكو أل باستور هو أيقونة المطبخ المكسيكي، تم إنشاؤه في مكسيكو سيتي في الستينيات من قبل مهاجرين لبنانيين. مستوحى من الشاورما العربية، قاموا بتكييف تقنية السيخ العمودي باستخدام لحم خنزير متبل بالأشيوت والفلفل المكسيكي. يضيف الأناناس المشوي في طرف السيخ حلاوة وعصارة، مما يخلق التوازن المثالي للنكهات.",
+      "ingredients": [
+        "1 كجم لحم خنزير مقطع شرائح رقيقة",
+        "3 فلفل غواجيلو",
+        "2 فلفل أنشو",
+        "1/4 كوب خل",
+        "1 ملعقة كبيرة أشيوت",
+        "3 فصوص ثوم",
+        "1 أناناس طازج",
+        "كزبرة طازجة",
+        "بصل أبيض مفروم",
+        "تورتيلا ذرة"
+      ],
+      "instructions": [
+        "نقع الفلفل في الماء الساخن لمدة 15 دقيقة",
+        "خلط الفلفل مع الخل والأشيوت والثوم والتوابل",
+        "تتبيل لحم الخنزير لمدة 4 ساعات على الأقل أو طوال الليل",
+        "رص اللحم في طبقات formando سيخ (أو استخدام مقلاة)",
+        "طهيه مع التدوير المستمر حتى يتحمر",
+        "تقطيعه إلى شرائح رقيقة وتقديمه على تورتيلا ساخنة",
+        "إضافة أناناس مشوي وكزبرة وبصل وصلصة حسب الرغبة"
+      ]
+    },
+    "bn": {
+      "dishName": "টাকোস আল পাস্টর",
+      "summary": "এচিওট এবং আনারস সহ ম্যারিনেটেড পোর্কের সুস্বাদু টাকোস, উল্লম্ব স্পিটে রান্না করা।",
+      "history": "টাকোস আল পাস্টর মেক্সিকান রন্ধনের একটি আইকন, ১৯৬০ এর দশকে লেবাননী অভিবাসীদের দ্বারা মেক্সিকো সিটিতে তৈরি। আরব শওয়ারমা থেকে অনুপ্রাণিত, তারা এচিওট এবং মেক্সিকান মরিচ সহ ম্যারিনেটেড পোর্ক ব্যবহার করে উল্লম্ব স্পিট কৌশল অভিযোজিত করেছে। স্পিটের ডগায় ভাজা আনারস মিষ্টি এবং রসালো ভাব যোগ করে, স্বাদের নিখুঁত ভারসাম্য তৈরি করে।",
+      "ingredients": [
+        "১ কেজি পাতলা কাটা পোর্ক",
+        "৩টি গুয়াজিলো মরিচ",
+        "২টি এন্চো মরিচ",
+        "১/৪ কাপ ভিনেগার",
+        "১ চামচ এচিওট",
+        "৩টি রসুনের কোয়া",
+        "১টি তাজা আনারস",
+        "তাজা ধনেপাতা",
+        "কাটা সাদা পেঁয়াজ",
+        "ভুট্টার টর্টিলাস"
+      ],
+      "instructions": [
+        "মরিচগুলো ১৫ মিনিটের জন্য গরম জলে ভিজিয়ে রাখুন",
+        "মরিচগুলো ভিনেগার, এচিওট, রসুন এবং মশলার সাথে ব্লেন্ড করুন",
+        "পোর্কটি কমপক্ষে ৪ ঘণ্টা বা সারারাত ম্যারিনেট করুন",
+        "মাংসকে স্তরে স্তরে সাজিয়ে স্পিট তৈরি করুন (বা প্যান ব্যবহার করুন)",
+        "ক্রমাগত ঘুরিয়ে বাদামী হওয়া পর্যন্ত রান্না করুন",
+        "পাতলা করে কেটে গরম টর্টিলাসে পরিবেশন করুন",
+        "ভাজা আনারস, ধনেপাতা, পেঁয়াজ এবং সালসা স্বাদমতো যোগ করুন"
+      ]
+    },
+    "pt": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Deliciosos tacos de porco marinado com achiote e abacaxi, cozidos em espeto vertical.",
+      "history": "Os Tacos al Pastor são um ícone da culinária mexicana, criados na Cidade do México nos anos 1960 por imigrantes libaneses. Inspirados no shawarma árabe, adaptaram a técnica do espeto vertical usando porco marinado com achiote e pimentas mexicanas. O abacaxi assado na ponta do espeto adiciona doçura e suculência, criando o equilíbrio perfeito de sabores.",
+      "ingredients": [
+        "1 kg de porco fatiado fino",
+        "3 pimentas guajillo",
+        "2 pimentas ancho",
+        "1/4 xícara de vinagre",
+        "1 colher de sopa de achiote",
+        "3 dentes de alho",
+        "1 abacaxi fresco",
+        "Coentro fresco",
+        "Cebola branca picada",
+        "Tortilhas de milho"
+      ],
+      "instructions": [
+        "Hidratar as pimentas em água quente por 15 minutos",
+        "Bater as pimentas com vinagre, achiote, alho e especiarias",
+        "Marinar o porco por pelo menos 4 horas ou durante a noite",
+        "Empilhar a carne em camadas formando um espeto (ou usar frigideira)",
+        "Cozinhar girando constantemente até dourar",
+        "Fatiar finamente e servir em tortilhas quentes",
+        "Adicionar abacaxi assado, coentro, cebolla e salsa a gosto"
+      ]
+    },
+    "ru": {
+      "dishName": "Такос аль Пастор",
+      "summary": "Вкусные такос из маринованной свинины с ачиоте и ананасом, приготовленные на вертикальном вертеле.",
+      "history": "Такос аль Пастор — икона мексиканской кухни, созданная в Мехико в 1960-х годах ливанскими иммигрантами. Вдохновленные арабской шаурмой, они адаптировали технику вертикального вертела, используя свинину, маринованную с ачиоте и мексиканским перцем. Жареный ананас на конце вертела добавляет сладость и сочность, создавая идеальный баланс вкусов.",
+      "ingredients": [
+        "1 кг тонко нарезанной свинины",
+        "3 перца гуахильо",
+        "2 перца анчо",
+        "1/4 чашки уксуса",
+        "1 столовая ложка ачиоте",
+        "3 зубчика чеснока",
+        "1 свежий ананас",
+        "Свежая кинза",
+        "Нарезанный белый лук",
+        "Кукурузные лепешки"
+      ],
+      "instructions": [
+        "Замочить перец в горячей воде на 15 минут",
+        "Смешать перец с уксусом, ачиоте, чесноком и специями",
+        "Мариновать свинину минимум 4 часа или всю ночь",
+        "Сложить мясо слоями, формируя вертел (или использовать сковороду)",
+        "Готовить, постоянно вращая, до золотистого цвета",
+        "Тонко нарезать и подать на горячих лепешках",
+        "Добавить жареный ананас, кинзу, лук и сальсу по вкусу"
+      ]
+    },
+    "ur": {
+      "dishName": "ٹاکوس آل پاستور",
+      "summary": "اچیوٹ اور انناس کے ساتھ میرینیٹڈ پورک کے لذیذ ٹیکوز، عمودی سیخ پر پکائے گئے۔",
+      "history": "ٹاکوس آل پاستور میکسیکن کھانوں کی ایک علامت ہیں، جو 1960 کی دہائی میں لبنانی تارکین وطن نے میکسیکو شہر میں بنائے۔ عرب Shawarma سے متاثر ہو کر، انہوں نے اچیوٹ اور میکسیکن مرچ کے ساتھ میرینیٹڈ پورک کا استعمال کرتے ہوئے عمودی سیخ کی تکنیک کو اپنایا۔ سیخ کی نوک پر بھنا انناس مٹھاس اور رس دار پن شامل کرتا ہے، جو ذائقوں کا بہترین توازن پیدا کرتا ہے۔",
+      "ingredients": [
+        "1 کلو باریک کٹا ہوا پورک",
+        "3 گواجیلو مرچ",
+        "2 آنچو مرچ",
+        "1/4 کپ سرکہ",
+        "1 کھانے کا چمچ اچیوٹ",
+        "3 لہسن کی کلیاں",
+        "1 تازہ انناس",
+        "تازہ دھنیا",
+        "کٹا ہوا سفید پیاز",
+        "مکئی کی ٹورٹیاس"
+      ],
+      "instructions": [
+        "مرچ کو 15 منٹ کے لیے گرم پانی میں بھگوئیں",
+        "مرچ کو سرکہ، اچیوٹ، لہسن اور مصالحے کے ساتھ بلینڈ کریں",
+        "پورک کو کم از کم 4 گھنٹے یا رات بھر میرینیٹ کریں",
+        "گوشت کو تہوں میں رکھ کر سیخ بنائیں (یا پین استعمال کریں)",
+        "مسلسل گھماتے ہوئے بھورا ہونے تک پکائیں",
+        "باریک کاٹ کر گرم ٹورٹیاس پر پیش کریں",
+        "بھنا انناس، دھنیا، پیاز اور سالسا حسب ذائقہ شامل کریں"
+      ]
+    },
+    "id": {
+      "dishName": "Tacos al Pastor",
+      "summary": "Taco lezat dari daging babi yang dimarinasi dengan achiote dan nanas, dimasak di tusuk vertikal.",
+      "history": "Tacos al Pastor adalah ikon masakan Meksiko, diciptakan di Mexico City pada tahun 1960-an oleh imigran Lebanon. Terinspirasi dari shawarma Arab, mereka mengadaptasi teknik tusuk vertikal menggunakan daging babi yang dimarinasi dengan achiote dan cabai Meksiko. Nanas panggang di ujung tusukan menambahkan manis dan juicy, menciptakan keseimbangan rasa yang sempurna.",
+      "ingredients": [
+        "1 kg daging babi iris tipis",
+        "3 cabai guajillo",
+        "2 cabai ancho",
+        "1/4 cuka gelas",
+        "1 sendok makan achiote",
+        "3 siung bawang putih",
+        "1 nanas segar",
+        "Ketumbar segar",
+        "Bawang putih cincang",
+        "Tortilla jagung"
+      ],
+      "instructions": [
+        "Rendam cabai dalam air panas selama 15 menit",
+        "Blender cabai dengan cuka, achiote, bawang putih dan bumbu",
+        "Marinasi daging babi minimal 4 jam atau semalaman",
+        "Susun daging berlapis membentuk tusuk (atau gunakan wajan)",
+        "Masak sambil terus diputar hingga kecokelatan",
+        "Iris tipis dan sajikan di atas tortilla panas",
+        "Tambahkan nanas panggang, ketumbar, bawang dan salsa secukupnya"
+      ]
+    },
+    "ja": {
+      "dishName": "タコス・アル・パストール",
+      "summary": "アチョーテとパイナップルでマリネした豚肉の美味しいタコス、垂直スピットで調理。",
+      "history": "タコス・アル・パストールはメキシコ料理の象徴で、1960 年代にレバノン系移民によってメキシコシティで作られました。アラブのシャワルマに触発され、アチョーテとメキシコの唐辛子でマリネした豚肉を使い、垂直スピットの技術を採用しました。スピットの先端で焼かれたパイナップルが甘みとジューシーさを加え、完璧な味のバランスを生み出します。",
+      "ingredients": [
+        "豚肉薄切り 1kg",
+        "グアヒーリョ唐辛子 3 本",
+        "アンチョ唐辛子 2 本",
+        "酢 1/4 カップ",
+        "アチョーテ 大さじ 1",
+        "ニンニク 3 片",
+        "新鮮なパイナップル 1 個",
+        "新鮮なコリアンダー",
+        "刻んだ白玉ねぎ",
+        "コーントルティーヤ"
+      ],
+      "instructions": [
+        "唐辛子を 15 分間お湯に浸す",
+        "唐辛子を酢、アチョーテ、ニンニク、スパイスと一緒にブレンダーにかける",
+        "豚肉を少なくとも 4 時間、または一晩マリネする",
+        "肉を層にしてスピットを形成する（またはフライパンを使用）",
+        "絶えず回しながら茶色くなるまで焼く",
+        "薄くスライスして温かいトルティーヤの上にのせる",
+        "焼いたパイナップル、コリアンダー、玉ねぎ、サルサをお好みで追加"
+      ]
+    }
+  },
+  "japo-002": {
+    "es": {
+      "dishName": "Ramen Tonkotsu",
+      "summary": "Caldo cremoso de huesos de cerdo cocinado durante horas, con fideos alcalinos, chashu (cerdo braised), huevo marinado y cebollino. El ramen más popular de Japón.",
+      "history": "El Ramen Tonkotsu es originario de Hakata (Fukuoka), en el sur de Japón. Surgió en los años 1940 como comida rápida para trabajadores. Su característica principal es el caldo blanco y cremoso, resultado de hervir huesos de cerdo durante 12-18 horas hasta que el colágeno se disuelve completamente. Esta técnica crea una textura sedosa única que ha conquistado el mundo entero.",
+      "ingredients": [
+        "1kg de huesos de cerdo (huesos largos y vértebras)",
+        "500g de panceta de cerdo para chashu",
+        "400g de fideos ramen frescos",
+        "4 huevos",
+        "1 trozo de kombu (alga seca)",
+        "1 cebolla entera",
+        "1 cabeza de ajo cortada horizontalmente",
+        "Jengibre fresco en rodajas",
+        "Cebollino picado para decorar",
+        "Aceite de sésamo tostado",
+        "Salsa de soja",
+        "Mirin",
+        "Sake",
+        "Azúcar"
+      ],
+      "instructions": [
+        "Hervir huesos de cerdo 10 minutos para eliminar impurezas",
+        "Enjuagar huesos bajo agua fría eliminando residuos",
+        "Colocar huesos limpios en olla grande con agua fresca",
+        "Añadir cebolla, ajo y jengibre a la olla",
+        "Hervir a fuego alto manteniendo ebullición constante 12-18 horas",
+        "Añadir agua según se evapore para mantener nivel",
+        "Para el chashu: dorar panceta, añadir soja, mirin, sake y azúcar",
+        "Cocinar chashu a fuego lento 2 horas hasta tierno",
+        "Marinar huevos cocidos 6 minutos en mezcla de soja, mirin y agua",
+        "Refrigerar huevos marinados toda la noche",
+        "Colar caldo y ajustar sazón con sal y salsa de soja",
+        "Cocer fideos ramen según instrucciones del paquete",
+        "Montar bowls: fideos, caldo hirviendo, chashu en rodajas",
+        "Añadir huevo marinado cortado, cebollino y aceite de sésamo"
+      ]
+    },
+    "en": {
+      "dishName": "Ramen Tonkotsu",
+      "summary": "Creamy pork bone broth cooked for hours, with alkaline noodles, chashu (braised pork), marinated egg and scallions. Japan's most popular ramen.",
+      "history": "Tonkotsu Ramen originates from Hakata (Fukuoka) in southern Japan. It emerged in the 1940s as fast food for workers. Its main characteristic is the white, creamy broth, resulting from boiling pork bones for 12-18 hours until the collagen dissolves completely. This technique creates a unique silky texture that has conquered the entire world.",
+      "ingredients": [
+        "1kg pork bones (long bones and vertebrae)",
+        "500g pork belly for chashu",
+        "400g fresh ramen noodles",
+        "4 eggs",
+        "1 piece kombu (dried kelp)",
+        "1 whole onion",
+        "1 head of garlic cut horizontally",
+        "Fresh ginger slices",
+        "Chopped scallions for garnish",
+        "Toasted sesame oil",
+        "Soy sauce",
+        "Mirin",
+        "Sake",
+        "Sugar"
+      ],
+      "instructions": [
+        "Boil pork bones for 10 minutes to remove impurities",
+        "Rinse bones under cold water removing residue",
+        "Place clean bones in large pot with fresh water",
+        "Add onion, garlic and ginger to the pot",
+        "Boil on high heat maintaining constant boil for 12-18 hours",
+        "Add water as it evaporates to maintain level",
+        "For chashu: brown belly, add soy sauce, mirin, sake and sugar",
+        "Simmer chashu for 2 hours until tender",
+        "Marinate soft-boiled eggs for 6 minutes in soy sauce, mirin and water mixture",
+        "Refrigerate marinated eggs overnight",
+        "Strain broth and adjust seasoning with salt and soy sauce",
+        "Cook ramen noodles according to package instructions",
+        "Assemble bowls: noodles, boiling broth, sliced chashu",
+        "Add sliced marinated egg, scallions and sesame oil"
+      ]
+    },
+    "zh": {
+      "dishName": "豚骨拉面",
+      "summary": "长时间熬制的奶油般猪骨汤，配碱水面、叉烧（炖猪肉）、腌蛋和葱花。日本最受欢迎的拉面。",
+      "history": "豚骨拉面起源于日本南部的博多（福冈）。它在 1940 年代作为工人的快餐出现。其主要特点是白色奶油般的汤底，这是将猪骨煮沸 12-18 小时直到胶原蛋白完全溶解的结果。这种技术创造了独特的丝滑口感，征服了全世界。",
+      "ingredients": [
+        "1 公斤猪骨（长骨和椎骨）",
+        "500 克五花肉做叉烧",
+        "400 克新鲜拉面条",
+        "4 个鸡蛋",
+        "1 块昆布（干海带）",
+        "1 个整洋葱",
+        "1 个头水平切开的大蒜",
+        "新鲜姜片",
+        "切碎的葱花装饰",
+        "烤芝麻油",
+        "酱油",
+        "味醂",
+        "清酒",
+        "糖"
+      ],
+      "instructions": [
+        "将猪骨煮沸 10 分钟去除杂质",
+        "在冷水下冲洗猪骨去除残留物",
+        "将干净的骨头放入大锅中加新鲜水",
+        "将洋葱、大蒜和姜加入锅中",
+        "大火煮沸保持持续沸腾 12-18 小时",
+        "随着水分蒸发加水保持水位",
+        "制作叉烧：煎五花肉，加入酱油、味醂、清酒和糖",
+        "小火炖叉烧 2 小时至软烂",
+        "将煮 6 分钟的溏心蛋在酱油、味醂和水的混合物中腌制",
+        "将腌蛋冷藏过夜",
+        "过滤高汤并用盐和酱油调整味道",
+        "按照包装说明煮拉面条",
+        "组装碗：面条、沸腾的高汤、切片叉烧",
+        "加入切片的腌蛋、葱花和芝麻油"
+      ]
+    },
+    "hi": {
+      "dishName": "रामेन टोंकोत्सु",
+      "summary": "घंटों तक पकाया गया क्रीमी पोर्क बोन ब्रोथ, क्षारीय नूडल्स, चाशू (ब्रेज़्ड पोर्क), मैरिनेटेड अंडे और स्कैलियन्स के साथ। जापान का सबसे लोकप्रिय रामेन।",
+      "history": "टोंकोत्सु रामेन दक्षिणी जापान में हकाता (फुकुओका) से उत्पन्न हुआ। यह 1940 के दशक में श्रमिकों के लिए फास्ट फूड के रूप में सामने आया। इसकी मुख्य विशेषता सफेद, क्रीमी ब्रोथ है, जो पोर्क की हड्डियों को 12-18 घंटे तक उबालने से बनती है जब तक कि कोलेजन पूरी तरह से घुल न जाए। यह तकनीक एक अनोखी रेशमी बनावट बनाती है जिसने पूरे विश्व को जीत लिया है।",
+      "ingredients": [
+        "1 किलो पोर्क हड्डियां (लंबी हड्डियां और कशेरुका)",
+        "चाशू के लिए 500 ग्राम पोर्क बेली",
+        "400 ग्राम ताजे रामेन नूडल्स",
+        "4 अंडे",
+        "1 टुकड़ा कॉम्बू (सुखाए हुए समुद्री शैवाल)",
+        "1 पूरा प्याज",
+        "1 सिर लहसुन क्षैतिज रूप से कटा हुआ",
+        "ताजी अदरक के स्लाइस",
+        "गार्निश के लिए कटे हुए स्कैलियन्स",
+        "भुना तिल का तेल",
+        "सोया सॉस",
+        "मिरिन",
+        "साके",
+        "चीनी"
+      ],
+      "instructions": [
+        "अशुद्धियों को हटाने के लिए पोर्क हड्डियों को 10 मिनट के लिए उबालें",
+        "ठंडे पानी के नीचे हड्डियों को धोकर अवशेष हटाएं",
+        "ताजे पानी के साथ बड़े बर्तन में साफ हड्डियां रखें",
+        "बर्तन में प्याज, लहसुन और अदरक डालें",
+        "12-18 घंटे तक लगातार उबाल बनाए रखते हुए उच्च आंच पर उबालें",
+        "स्तर बनाए रखने के लिए वाष्पित होने पर पानी डालें",
+        "चाशू के लिए: बेली को भूरा करें, सोया सॉस, मिरिन, साके और चीनी डालें",
+        "चाशू को 2 घंटे तक नरम होने तक उबालें",
+        "सोया सॉस, मिरिन और पानी के मिश्रण में 6 मिनट के लिए उबले अंडे मैरिनेट करें",
+        "मैरिनेटेड अंडों को रात भर रेफ्रिजरेट करें",
+        "ब्रोथ को छानें और नमक और सोया सॉस के साथ सीज़निंग समायोजित करें",
+        "पैकेज निर्देशों के अनुसार रामेन नूडल्स पकाएं",
+        "कटोरी इकट्ठा करें: नूडल्स, उबलता ब्रोथ, कटा हुआ चाशू",
+        "कटा हुआ मैरिनेटेड अंडा, स्कैलियन्स और तिल का तेल डालें"
+      ]
+    },
+    "fr": {
+      "dishName": "Ramen Tonkotsu",
+      "summary": "Bouillon crémeux d'os de porc cuit pendant des heures, avec nouilles alcalines, chashu (porc braisé), œuf mariné et oignons verts. Le ramen le plus populaire du Japon.",
+      "history": "Le Ramen Tonkotsu est originaire de Hakata (Fukuoka) dans le sud du Japon. Il est apparu dans les années 1940 comme nourriture rapide pour les travailleurs. Sa caractéristique principale est le bouillon blanc et crémeux, résultant de l'ébullition d'os de porc pendant 12-18 heures jusqu'à ce que le collagène se dissolve complètement. Cette technique crée une texture soyeuse unique qui a conquis le monde entier.",
+      "ingredients": [
+        "1kg d'os de porc (os longs et vertèbres)",
+        "500g de poitrine de porc pour chashu",
+        "400g de nouilles ramen fraîches",
+        "4 œufs",
+        "1 morceau de kombu (algue séchée)",
+        "1 oignon entier",
+        "1 tête d'ail coupée horizontalement",
+        "Tranches de gingembre frais",
+        "Oignons verts hachés pour garniture",
+        "Huile de sésame grillé",
+        "Sauce soja",
+        "Mirin",
+        "Saké",
+        "Sucre"
+      ],
+      "instructions": [
+        "Faire bouillir les os de porc pendant 10 minutes pour éliminer les impuretés",
+        "Rincer les os sous l'eau froide en éliminant les résidus",
+        "Placer les os propres dans une grande casserole avec de l'eau fraîche",
+        "Ajouter oignon, ail et gingembre à la casserole",
+        "Faire bouillir à feu vif en maintenant une ébullition constante pendant 12-18 heures",
+        "Ajouter de l'eau au fur et à mesure de l'évaporation pour maintenir le niveau",
+        "Pour le chashu : dorer la poitrine, ajouter sauce soja, mirin, saké et sucre",
+        "Cuire le chashu à feu doux pendant 2 heures jusqu'à tendreté",
+        "Mariner les œufs mollets pendant 6 minutes dans un mélange de sauce soja, mirin et eau",
+        "Réfrigérer les œufs marinés toute la nuit",
+        "Filtrer le bouillon et ajuster l'assaisonnement avec sel et sauce soja",
+        "Cuire les nouilles ramen selon les instructions du paquet",
+        "Assembler les bols : nouilles, bouillon bouillant, chashu tranché",
+        "Ajouter œuf mariné tranché, oignons verts et huile de sésame"
+      ]
+    },
+    "ar": {
+      "dishName": "رامين تونكوتسو",
+      "summary": "مرق عظام الخنزير الكريمي المطبوخ لساعات، مع نودلز قلوية، تشاشو (لحم خنزير مطهو)، بيض متبل وبصل أخضر. الرامين الأكثر شعبية في اليابان.",
+      "history": "رامين تونكوتسو أصله من هاكاتا (فوكوكا) في جنوب اليابان. ظهر في الأربعينيات كطعام سريع للعمال. ميزته الرئيسية هي المرق الأبيض والكريمي، الناتج عن غلي عظام الخنزير لمدة 12-18 ساعة حتى يذوب الكولاجين تماماً. هذه التقنية تخلق قواماً حريرياً فريداً غزا العالم أجمع.",
+      "ingredients": [
+        "1 كجم عظام خنزير (عظام طويلة وفقرات)",
+        "500 غرام صدر خنزير للتشاشو",
+        "400 غرام نودلز رامين طازجة",
+        "4 بيضات",
+        "1 قطعة كومبو (عشب بحري مجفف)",
+        "1 بصلة كاملة",
+        "1 رأس ثوم مقطوع أفقياً",
+        "شرائح زنجبيل طازج",
+        "بصل أخضر مفروم للتزيين",
+        "زيت سمسم محمص",
+        "صلصة صويا",
+        "ميرين",
+        "ساكي",
+        "سكر"
+      ],
+      "instructions": [
+        "غلي عظام الخنزير لمدة 10 دقائق لإزالة الشوائب",
+        "شطف العظام تحت الماء البارد وإزالة الرواسب",
+        "وضع العظام النظيفة في قدر كبير مع ماء عذب",
+        "إضافة البصل والثوم والزنجبيل إلى القدر",
+        "غلي على نار عالية مع الحفاظ على الغليان المستمر لمدة 12-18 ساعة",
+        "إضافة الماء حسب التبخر للحفاظ على المستوى",
+        "للتشاشو: تحمير الصدر، إضافة صلصة الصويا والميرين والساكي والسكر",
+        "طهي التشاشو على نار هادئة لمدة ساعتين حتى ينضج",
+        "تتبيل البيض المسلوق لمدة 6 دقائق في خليط من صلصة الصويا والميرين والماء",
+        "تبريد البيض المتبل طوال الليل",
+        "تصفية المرق وضبط التتبيل بالملح وصلصة الصويا",
+        "طهي نودلز الرامين وفقاً لتعليمات العبوة",
+        "تجميع الأطباق: نودلز، مرق مغلي، تشاشو مقطع",
+        "إضافة بيض متبل مقطع وبصل أخضر وزيت السمسم"
+      ]
+    },
+    "bn": {
+      "dishName": "রামেন টনকোটসু",
+      "summary": "ঘণ্টার পর ঘণ্টা রান্না করা ক্রিমি পোর্ক বোন ব্রথ, ক্ষারীয় নুডলস, চাশু (ব্রেজড পোর্ক), ম্যারিনেটেড ডিম এবং স্ক্যালিয়নস সহ। জাপানের সবচেয়ে জনপ্রিয় রামেন।",
+      "history": "টনকোটসু রামেন দক্ষিণ জাপানের হাকাতা (ফুকুওকা) থেকে উদ্ভূত। এটি ১৯৪০ এর দশকে শ্রমিকদের জন্য ফাস্ট ফুড হিসাবে আবির্ভূত হয়েছিল। এর প্রধান বৈশিষ্ট্য হল সাদা, ক্রিমি ব্রথ, যা ১২-১৮ ঘণ্টা ধরে পোর্কের হাড় সিদ্ধ করার ফলে তৈরি হয় যতক্ষণ না কোলাজেন সম্পূর্ণভাবে দ্রবীভূত হয়। এই কৌশলটি একটি অনন্য রেশমি টেক্সচার তৈরি করে যা পুরো বিশ্ব জয় করেছে।",
+      "ingredients": [
+        "১ কেজি পোর্কের হাড় (লম্বা হাড় এবং মেরুদণ্ড)",
+        "চাশুর জন্য ৫০০ গ্রাম পোর্ক পেট",
+        "৪০০ গ্রাম তাজা রামেন নুডলস",
+        "৪টি ডিম",
+        "১ টুকরো কম্বু (শুকনো সামুদ্রিক শৈবাল)",
+        "১টি পুরো পেঁয়াজ",
+        "১টি রসুন মাথা অনুভূমিকভাবে কাটা",
+        "তাজা আদাのスライস",
+        "গার্নিশের জন্য কাটা স্ক্যালিয়নস",
+        "ভাজা তিলের তেল",
+        "সয়া সস",
+        "মিরিন",
+        "সাকে",
+        "চিনি"
+      ],
+      "instructions": [
+        "অশুদ্ধি অপসারণ করতে পোর্কের হাড় ১০ মিনিটের জন্য সিদ্ধ করুন",
+        "ঠান্ডা জলের নিচে হাড় ধুয়ে অবশিষ্টাংশ সরান",
+        "তাজা জলের সাথে বড় পাত্রে পরিষ্কার হাড় রাখুন",
+        "পাত্রটিতে পেঁয়াজ, রসুন এবং আদা যোগ করুন",
+        "১২-১৮ ঘণ্টা ধরে ক্রমাগত ফুটন্ত অবস্থায় উচ্চ আঁচে সিদ্ধ করুন",
+        "বাষ্পীভূত হওয়ার সাথে সাথে জল যোগ করে স্তর বজায় রাখুন",
+        "চাশুর জন্য: পেট বাদামী করুন, সয়া সস, মিরিন, সাকে এবং চিনি যোগ করুন",
+        "নরম হওয়া পর্যন্ত ২ ঘণ্টা ধরে চাশু সিদ্ধ করুন",
+        "সয়া সস, মিরিন এবং জলের মিশ্রণে ৬ মিনিটের জন্য সেদ্ধ ডিম ম্যারিনেট করুন",
+        "ম্যারিনেটেড ডিম রাতভর রেফ্রিজারেট করুন",
+        "ব্রথ ছেঁকে নিন এবং লবণ ও সয়া সস দিয়ে সিজনং সামঞ্জস্য করুন",
+        "প্যাকেজ নির্দেশাবলী অনুযায়ী রামেন নুডলস রান্না করুন",
+        "বাটি একত্রিত করুন: নুডলস, ফুটন্ত ব্রথ, কাটা চাশু",
+        "কাটা ম্যারিনেটেড ডিম, স্ক্যালিয়নস এবং তিলের তেল যোগ করুন"
+      ]
+    },
+    "pt": {
+      "dishName": "Ramen Tonkotsu",
+      "summary": "Caldo cremoso de ossos de porco cozido por horas, com macarrão alcalino, chashu (porco brasado), ovo marinado e cebolinha. O ramen mais popular do Japão.",
+      "history": "O Ramen Tonkotsu é originário de Hakata (Fukuoka) no sul do Japão. Surgiu nos anos 1940 como comida rápida para trabalhadores. Sua principal característica é o caldo branco e cremoso, resultante de ferver ossos de porco por 12-18 horas até que o colágeno se dissolva completamente. Esta técnica cria uma textura aveludada única que conquistou o mundo inteiro.",
+      "ingredients": [
+        "1kg de ossos de porco (ossos longos e vértebras)",
+        "500g de barriga de porco para chashu",
+        "400g de macarrão ramen fresco",
+        "4 ovos",
+        "1 pedaço de kombu (alga seca)",
+        "1 cebola inteira",
+        "1 cabeça de alho cortada horizontalmente",
+        "Fatias de gengibre fresco",
+        "Cebolinha picada para decorar",
+        "Óleo de gergelim torrado",
+        "Molho de soja",
+        "Mirin",
+        "Saquê",
+        "Açúcar"
+      ],
+      "instructions": [
+        "Ferver os ossos de porco por 10 minutos para remover impurezas",
+        "Enxaguar os ossos sob água fria removendo resíduos",
+        "Colocar ossos limpos em panela grande com água fresca",
+        "Adicionar cebola, alho e gengibre à panela",
+        "Ferver em fogo alto mantendo ebulição constante por 12-18 horas",
+        "Adicionar água conforme evapora para manter o nível",
+        "Para o chashu: dourar a barriga, adicionar molho de soja, mirin, saquê e açúcar",
+        "Cozinhar o chashu em fogo baixo por 2 horas até ficar macio",
+        "Marinar ovos cozidos por 6 minutos em mistura de molho de soja, mirin e água",
+        "Refrigerar ovos marinados durante a noite",
+        "Coad o caldo e ajustar tempero com sal e molho de soja",
+        "Cozinhar macarrão ramen conforme instruções da embalagem",
+        "Montar tigelas: macarrão, caldo fervente, chashu fatiado",
+        "Adicionar ovo marinado fatiado, cebolinha e óleo de gergelim"
+      ]
+    },
+    "ru": {
+      "dishName": "Рамен Тонкоцу",
+      "summary": "Кремовый бульон из свиных костей, варенный часами, со щелочной лапшой, чашу (тушеная свинина), маринованным яйцом и зеленым луком. Самый популярный рамен в Японии.",
+      "history": "Рамен Тонкоцу происходит из Хакаты (Фукуока) на юге Японии. Он появился в 1940-х годах как быстрая еда для рабочих. Его главная особенность — белый кремовый бульон, полученный путем кипячения свиных костей в течение 12-18 часов до полного растворения коллагена. Эта техника создает уникальную шелковистую текстуру, которая покорила весь мир.",
+      "ingredients": [
+        "1 кг свиных костей (длинные кости и позвонки)",
+        "500 г свиной грудинки для чашу",
+        "400 г свежей лапши рамен",
+        "4 яйца",
+        "1 кусок комбу (сушеная водоросль)",
+        "1 целая луковица",
+        "1 головка чеснока, разрезанная горизонтально",
+        "Ломтики свежего имбиря",
+        "Нарезанный зеленый лук для украшения",
+        "Жареное кунжутное масло",
+        "Соевый соус",
+        "Мирин",
+        "Сакэ",
+        "Сахар"
+      ],
+      "instructions": [
+        "Варить свиные кости 10 минут для удаления примесей",
+        "Промыть кости под холодной водой, удаляя остатки",
+        "Положить чистые кости в большую кастрюлю со свежей водой",
+        "Добавить лук, чеснок и имбирь в кастрюлю",
+        "Варить на сильном огне, поддерживая постоянное кипение 12-18 часов",
+        "Добавлять воду по мере испарения для поддержания уровня",
+        "Для чашу: обжарить грудинку, добавить соевый соус, мирин, сакэ и сахар",
+        "Тушить чашу на медленном огне 2 часа до мягкости",
+        "Мариновать яйца всмятку 6 минут в смеси соевого соуса, мирина и воды",
+        "Охлаждать маринованные яйца всю ночь",
+        "Процедить бульон и отрегулировать приправу солью и соевым соусом",
+        "Приготовить лапшу рамен согласно инструкции на упаковке",
+        "Собрать пиалы: лапша, кипящий бульон, нарезанный чашу",
+        "Добавить нарезанное маринованное яйцо, зеленый лук и кунжутное масло"
+      ]
+    },
+    "ur": {
+      "dishName": "رامن ٹونکوٹسو",
+      "summary": "گھنٹوں تک پکایا گیا کریمی پورک ہڈی کا شوربہ، الکلائن نوڈلز، چاشو (بریزڈ پورک)، میرینیٹڈ انڈے اور سکیلینز کے ساتھ۔ جاپان کا سب سے مقبول رامن۔",
+      "history": "ٹونکوٹسو رامن جنوبی جاپان میں ہاکاتا (فووکا) سے ماخوذ ہے۔ یہ 1940 کی دہائی میں مزدوروں کے لیے فاسٹ فوڈ کے طور پر سامنے آیا۔ اس کی بنیادی خصوصیت سفید، کریمی شوربہ ہے، جو سور کی ہڈیوں کو 12-18 گھنٹے تک ابالنے سے بنتا ہے جب تک کہ کولیجن مکمل طور پر حل نہ ہو جائے۔ یہ تکنیک ایک منفذ ریشمی بناوٹ بناتی ہے جس نے پوری دنیا کو فتح کر لیا ہے۔",
+      "ingredients": [
+        "1 کلو سور کی ہڈیاں (لمبی ہڈیاں اور ریڑھ)",
+        "چاشو کے لیے 500 گرام سور کا پیٹ",
+        "400 گرام تازہ رامن نوڈلز",
+        "4 انڈے",
+        "1 ٹکڑا کومبو (خشک سمندری گھاس)",
+        "1 پورا پیاز",
+        "1 سر لہسن افقی طور پر کٹا ہوا",
+        "تازہ ادرک کے سلائس",
+        "گارنش کے لیے کٹے ہوئے سکیلینز",
+        "بھنا ہوا تل کا تیل",
+        "سويا ساس",
+        "میرین",
+        "ساکی",
+        "چینی"
+      ],
+      "instructions": [
+        "ناخالصیوں کو دور کرنے کے لیے سور کی ہڈیوں کو 10 منٹ کے لیے ابالیں",
+        "ٹھنڈے پانی کے نیچے ہڈیوں کو دھو کر باقیات ہٹا دیں",
+        "صاف ہڈیوں کو بڑے برتن میں تازہ پانی کے ساتھ رکھیں",
+        "برتن میں پیاز، لہسن اور ادرک ڈالیں",
+        "12-18 گھنٹے تک مسلسل ابالتے ہوئے تیز آंच پر ابالیں",
+        "بخارات بننے کے مطابق پانی ڈال کر سطح برقرار رکھیں",
+        "چاشو کے لیے: پیٹ کو بھورے رنگ کا کریں، سويا ساس، میرین، ساکی اور چینی ڈالیں",
+        "چاشو کو 2 گھنٹے تک نرم ہونے تک پکائیں",
+        "سويا ساس، میرین اور پانی کے مکسچر میں 6 منٹ کے لیے ابیلے انڈے میرینیٹ کریں",
+        "میرینیٹڈ انڈوں کو رات بھر فریج میں رکھیں",
+        "شوربے کو چھان لیں اور نمک اور سويا ساس کے ساتھ سیزننگ ایڈجسٹ کریں",
+        "پیکج کی ہدایات کے مطابق رامن نوڈلز پکائیں",
+        "کٹورے اکٹھے کریں: نوڈلز، ابلتا شوربہ، کٹا ہوا چاشو",
+        "کٹا ہوا میرینیٹڈ انڈا، سکیلینز اور تل کا تیل ڈالیں"
+      ]
+    },
+    "id": {
+      "dishName": "Ramen Tonkotsu",
+      "summary": "Kuah tulang babi krim yang dimasak berjam-jam, dengan mi alkali, chashu (babi braised), telur marinasi dan daun bawang. Ramen paling populer di Jepang.",
+      "history": "Ramen Tonkotsu berasal dari Hakata (Fukuoka) di Jepang selatan. Muncul pada tahun 1940-an sebagai makanan cepat saji untuk pekerja. Karakteristik utamanya adalah kuah putih dan krim, hasil dari merebus tulang babi selama 12-18 jam sampai kolagen larut sepenuhnya. Teknik ini menciptakan tekstur halus unik yang telah menaklukkan seluruh dunia.",
+      "ingredients": [
+        "1kg tulang babi (tulang panjang dan ruas)",
+        "500g perut babi untuk chashu",
+        "400g mi ramen segar",
+        "4 butir telur",
+        "1 potong kombu (rumput laut kering)",
+        "1 buah bawang utuh",
+        "1 kepala bawang putih dipotong horizontal",
+        "Irisan jahe segar",
+        "Daun bawang cincang untuk hiasan",
+        "Minyak wijen sangrai",
+        "Kecap asin",
+        "Mirin",
+        "Sake",
+        "Gula"
+      ],
+      "instructions": [
+        "Rebus tulang babi selama 10 menit untuk menghilangkan kotoran",
+        "Bilas tulang di bawah air dingin menghilangkan residu",
+        "Tempatkan tulang bersih dalam panci besar dengan air segar",
+        "Tambahkan bawang, bawang putih dan jahe ke panci",
+        "Rebus dengan api tinggi menjaga didih konstan selama 12-18 jam",
+        "Tambahkan air saat menguap untuk mempertahankan level",
+        "Untuk chashu: cokelat perut, tambahkan kecap asin, mirin, sake dan gula",
+        "Masak chashu dengan api kecil selama 2 jam hingga empuk",
+        "Marinasi telur rebus 6 menit dalam campuran kecap asin, mirin dan air",
+        "Dinginkan telur marinasi semalaman",
+        "Saring kaldu dan sesuaikan bumbu dengan garam dan kecap asin",
+        "Masak mi ramen sesuai instruksi paket",
+        "Rakit mangkuk: mi, kaldu mendidih, chashu iris",
+        "Tambahkan telur marinasi iris, daun bawang dan minyak wijen"
+      ]
+    },
+    "ja": {
+      "dishName": "ラーメン豚骨",
+      "summary": "何時間も煮込んだクリーミーな豚骨スープ、アルカリ麺、チャーシュー（煮豚）、味付け卵、ネギ付き。日本で最も人気のあるラーメン。",
+      "history": "豚骨ラーメンは日本南部の博多（福岡）が発祥です。1940 年代に労働者のためのファーストフードとして登場しました。その主な特徴は、豚骨を 12〜18 時間煮込んでコラーゲンを完全に溶かした白くクリーミーなスープです。この技術は独特のシルキーな食感を作り出し、世界中を魅了しました。",
+      "ingredients": [
+        "豚骨 1kg（長い骨と脊椎）",
+        "チャーシュー用豚バラ肉 500g",
+        "生ラーメン麺 400g",
+        "卵 4 個",
+        "昆布 1 切れ",
+        "玉ねぎ 1 個",
+        "水平に切ったニンニク 1 房",
+        "生姜のスライス",
+        "飾り用の刻みネギ",
+        "焙煎ごま油",
+        "醤油",
+        "みりん",
+        "日本酒",
+        "砂糖"
+      ],
+      "instructions": [
+        "豚骨を 10 分間茹でて不純物を取り除く",
+        "冷水で骨をすすいで残渣を除去する",
+        "きれいな骨を大きな鍋に新鮮な水を入れる",
+        "鍋に玉ねぎ、ニンニク、生姜を加える",
+        "12〜18 時間一定の沸騰を保ちながら強火で煮る",
+        "蒸発するにつれて水を足して水位を保つ",
+        "チャーシュー用：バラ肉を焼き、醤油、みりん、酒、砂糖を加える",
+        "チャーシューを 2 時間柔らかくなるまで煮込む",
+        "醤油、みりん、水の混合液で半熟卵を 6 分間マリネする",
+        "マリネした卵を一晩冷蔵する",
+        "スープを漉して塩と醤油で味を調整する",
+        "パッケージの指示に従ってラーメン麺を茹でる",
+        "丼に盛り付ける：麺、熱いスープ、スライスしたチャーシュー",
+        "スライスした味付け卵、ネギ、ごま油を加える"
+      ]
+    }
+  },
+  "pe-lomo-saltado": {
+    "es": {
+      "dishName": "Lomo Saltado",
+      "summary": "Saltado de carne de res con cebolla, tomate y papas fritas, fusión chino-peruana.",
+      "history": "El Lomo Saltado es el plato emblemático de la cocina chifa peruana, resultado de la fusión entre la gastronomía peruana y la china cantonesa que llegó con los inmigrantes en el siglo XIX. Este stir-fry peruano combina técnicas de wok chino con ingredientes locales como el ají amarillo y papas nativas. Es un ejemplo perfecto del mestizaje culinario que define la identidad gastronómica del Perú moderno.",
+      "ingredients": [
+        "500g de lomo fino en tiras",
+        "2 cebollas rojas en gajos",
+        "2 tomates en gajos",
+        "1 ají amarillo en tiras",
+        "Salsa de soja",
+        "Vinagre tinto",
+        "Papas fritas",
+        "Arroz blanco"
+      ],
+      "instructions": [
+        "Calentar wok o sartén a fuego muy alto",
+        "Sellar la carne rápidamente con sal y pimienta",
+        "Agregar cebolla, tomate y ají amarillo",
+        "Añadir salsa de soja y vinagre",
+        "Incorporar papas fritas al final",
+        "Servir sobre arroz blanco graneado"
+      ]
+    },
+    "en": {
+      "dishName": "Lomo Saltado",
+      "summary": "Stir-fried beef with onion, tomato and french fries, Chinese-Peruvian fusion.",
+      "history": "Lomo Saltado is the emblematic dish of Peruvian chifa cuisine, resulting from the fusion between Peruvian and Cantonese Chinese gastronomy that arrived with immigrants in the 19th century. This Peruvian stir-fry combines Chinese wok techniques with local ingredients like ají amarillo and native potatoes. It's a perfect example of culinary mestizaje that defines the gastronomic identity of modern Peru.",
+      "ingredients": [
+        "500g beef tenderloin strips",
+        "2 red onions in wedges",
+        "2 tomatoes in wedges",
+        "1 yellow ají pepper in strips",
+        "Soy sauce",
+        "Red wine vinegar",
+        "French fries",
+        "White rice"
+      ],
+      "instructions": [
+        "Heat wok or pan over very high heat",
+        "Sear meat quickly with salt and pepper",
+        "Add onion, tomato and yellow ají",
+        "Add soy sauce and vinegar",
+        "Incorporate french fries at the end",
+        "Serve over fluffy white rice"
+      ]
+    },
+    "zh": {
+      "dishName": "秘鲁炒牛肉",
+      "summary": "牛肉炒洋葱、番茄和薯条，中秘融合菜。",
+      "history": "Lomo Saltado 是秘鲁中餐馆（chifa）的标志性菜肴，源于 19 世纪移民带来的秘鲁美食与广东菜的融合。这道秘鲁炒菜结合了中国炒锅技术与当地食材如黄辣椒和本土土豆。它是定义现代秘鲁美食身份的文化融合的完美典范。",
+      "ingredients": [
+        "500 克牛里脊条",
+        "2 个红洋葱切角",
+        "2 个番茄切角",
+        "1 个黄辣椒切条",
+        "酱油",
+        "红酒醋",
+        "炸薯条",
+        "白米饭"
+      ],
+      "instructions": [
+        "将炒锅或平底锅加热至非常高火",
+        "用盐和胡椒快速煎肉",
+        "加入洋葱、番茄和黄辣椒",
+        "加入酱油和醋",
+        "最后加入薯条",
+        "盖在松软的白米饭上食用"
+      ]
+    },
+    "hi": {
+      "dishName": "लोमो साल्टाडो",
+      "summary": "प्याज, टमाटर और फ्रेंच फ्राइज के साथ स्टिर-फ्राई बीफ, चीनी-पेरूवियन फ्यूजन।",
+      "history": "लोमो साल्टाडो पेरूवियन चीफा व्यंजन का प्रतीकात्मक पकवान है, जो 19वीं सदी में आप्रवासियों के साथ आए पेरूवियन और कैन्टोनीज़ चीनी पाक कला के संलयन से बना है। यह पेरूवियन स्टिर-फ्राई चीनी वॉक तकनीकों को अजी अमरिलो और देशी आलू जैसे स्थानीय अवयवों के साथ जोड़ता है। यह आधुनिक पेरू की पाक पहचान को परिभाषित करने वाले पाक मिश्रण का एक आदर्श उदाहरण है।",
+      "ingredients": [
+        "500 ग्राम बीफ टेंडरलॉइन स्ट्रिप्स",
+        "2 लाल प्याज वेजेस में",
+        "2 टमाटर वेजेस में",
+        "1 पीला अजी मिर्च स्ट्रिप्स में",
+        "सोया सॉस",
+        "रेड वाइन सिरका",
+        "फ्रेंच फ्राइज",
+        "सफेद चावल"
+      ],
+      "instructions": [
+        "वॉक या पैन को बहुत तेज आंच पर गर्म करें",
+        "नमक और काली मिर्च के साथ मांस को जल्दी से भूनें",
+        "प्याज, टमाटर और पीला अजी डालें",
+        "सोया सॉस और सिरका डालें",
+        "अंत में फ्रेंच फ्राइज मिलाएं",
+        "फूलदार सफेद चावल के ऊपर परोसें"
+      ]
+    },
+    "fr": {
+      "dishName": "Lomo Saltado",
+      "summary": "Bœuf sauté avec oignon, tomate et frites, fusion sino-péruvienne.",
+      "history": "Le Lomo Saltado est le plat emblématique de la cuisine chifa péruvienne, résultat de la fusion entre la gastronomie péruvienne et la gastronomie chinoise cantonaise arrivée avec les immigrants au 19ème siècle. Ce stir-fry péruvien combine les techniques de wok chinois avec des ingrédients locaux comme l'ají amarillo et les pommes de terre indigènes. C'est un exemple parfait du métissage culinaire qui définit l'identité gastronomique du Pérou moderne.",
+      "ingredients": [
+        "500g de filet de bœuf en lanières",
+        "2 oignons rouges en quartiers",
+        "2 tomates en quartiers",
+        "1 piment ají amarillo en lanières",
+        "Sauce soja",
+        "Vinaigre de vin rouge",
+        "Frites",
+        "Riz blanc"
+      ],
+      "instructions": [
+        "Chauffer le wok ou la poêle à feu très vif",
+        "Saisir rapidement la viande avec sel et poivre",
+        "Ajouter oignon, tomate et ají amarillo",
+        "Ajouter sauce soja et vinaigre",
+        "Incorporer les frites à la fin",
+        "Servir sur du riz blanc moelleux"
+      ]
+    },
+    "ar": {
+      "dishName": "لومو سالتادو",
+      "summary": "لحم بقري مقلي مع البصل والطماطم والبطاطس المقلية، اندماج صيني-بيروفي.",
+      "history": "لومو سالتادو هو الطبق الرمزي للمطبخ الشيفا البيروفي، نتاج الاندماج بين المطبخ البيروفي والمطبخ الصيني الكانتوني الذي وصل مع المهاجرين في القرن التاسع عشر. يجمع هذا الطبق البيروفي المقلي بين تقنيات الووك الصينية ومكونات محلية مثل الأجي أماري والبطاطس الأصلية. إنه مثال مثالي على الاندماج الطهوي الذي يحدد الهوية الغذائية لبيرو الحديثة.",
+      "ingredients": [
+        "500 غرام شرائح لحم بقري",
+        "2 بصل أحمر قطع",
+        "2 طماطم قطع",
+        "1 فلفل أصفر أجي شرائح",
+        "صلصة صويا",
+        "خل النبيذ الأحمر",
+        "بطاطس مقلية",
+        "أرز أبيض"
+      ],
+      "instructions": [
+        "تسخين الووك أو المقلاة على نار عالية جداً",
+        "تحديد اللحم بسرعة مع الملح والفلفل",
+        "إضافة البصل والطماطم والأجي الأصفر",
+        "إضافة صلصة الصويا والخل",
+        "إضافة البطاطس المقلية في النهاية",
+        "تقديمه فوق أرز أبيض ناعم"
+      ]
+    },
+    "bn": {
+      "dishName": "লোমো সাল্টাদো",
+      "summary": "পেঁয়াজ, টমেটো এবং ফ্রেঞ্চ ফ্রাই সহ স্টির-ফ্রাই বিফ, চাইনিজ-পেরুভিয়ান ফিউশন।",
+      "history": "লোমো সাল্টাদো পেরুভিয়ান চিফা রন্ধনের প্রতীকী খাবার, যা ১৯শ শতাব্দীতে অভিবাসীদের সাথে আসা পেরুভিয়ান এবং ক্যান্টনিজ চীনা পাচক কলার সংমিশ্রণের ফলাফল। এই পেরুভিয়ান স্টির-ফ্রাই চীনা ওক কৌশলকে অজি আমারিলো এবং দেশি আলুর মতো স্থানীয় উপাদানের সাথে একত্রিত করে। এটি আধুনিক পেরুর খাদ্য পরিচয়কে সংজ্ঞায়িত করে এমন রান্নার মিশ্রণের একটি আদর্শ উদাহরণ।",
+      "ingredients": [
+        "৫০০ গ্রাম বিফ টেন্ডারলয়েন স্ট্রিপস",
+        "২টি লাল পেঁয়াজ খণ্ডে",
+        "২টি টমেটো খণ্ডে",
+        "১টি হলুদ অজি মরিচ স্ট্রিপসে",
+        "সয়া সস",
+        "রেড ওয়াইন ভিনেগার",
+        "ফ্রেঞ্চ ফ্রাই",
+        "সাদা চাল"
+      ],
+      "instructions": [
+        "ওক বা প্যানকে খুব উচ্চ আঁচে গরম করুন",
+        "লবণ এবং গোলমরিচ দিয়ে মাংস দ্রুত সিল করুন",
+        "পেঁয়াজ, টমেটো এবং হলুদ অজি যোগ করুন",
+        "সয়া সস এবং ভিনেগার যোগ করুন",
+        "শেষে ফ্রেঞ্চ ফ্রাই মিশান",
+        "ফোলা সাদা চালের উপরে পরিবেশন করুন"
+      ]
+    },
+    "pt": {
+      "dishName": "Lomo Saltado",
+      "summary": "Carne salteada com cebola, tomate e batatas fritas, fusão sino-peruana.",
+      "history": "O Lomo Saltado é o prato emblemático da culinária chifa peruana, resultado da fusão entre a gastronomia peruana e a chinesa cantonesa que chegou com os imigrantes no século XIX. Este stir-fry peruano combina técnicas de wok chinês com ingredientes locais como ají amarillo e batatas nativas. É um exemplo perfeito do mestiçagem culinária que define a identidade gastronômica do Peru moderno.",
+      "ingredients": [
+        "500g de filé mignon em tiras",
+        "2 cebolas roxas em gomos",
+        "2 tomates em gomos",
+        "1 pimenta ají amarillo em tiras",
+        "Molho de soja",
+        "Vinagre de vinho tinto",
+        "Batatas fritas",
+        "Arroz branco"
+      ],
+      "instructions": [
+        "Aquecer wok ou frigideira em fogo bem alto",
+        "Selar a carne rapidamente com sal e pimenta",
+        "Adicionar cebola, tomate e ají amarillo",
+        "Adicionar molho de soja e vinagre",
+        "Incorporar batatas fritas no final",
+        "Servir sobre arroz branco soltinho"
+      ]
+    },
+    "ru": {
+      "dishName": "Ломо Сальтадо",
+      "summary": "Жареная говядина с луком, томатами и картофелем фри, китайско-перуанский фьюжн.",
+      "history": "Ломо Сальтадо — символическое блюдо перуанской кухни чифа, результат слияния перуанской и кантонской китайской кулинарии, привезенной иммигрантами в 19 веке. Этот перуанский стир-фрай сочетает китайские техники вока с местными ингредиентами, такими как ахи амарильо и местный картофель. Это идеальный пример кулинарного смешения, определяющего гастрономическую идентичность современного Перу.",
+      "ingredients": [
+        "500 г говяжьей вырезки полосками",
+        "2 красные луковицы дольками",
+        "2 томата дольками",
+        "1 желтый перец ахи полосками",
+        "Соевый соус",
+        "Красный винный уксус",
+        "Картофель фри",
+        "Белый рис"
+      ],
+      "instructions": [
+        "Разогреть вок или сковороду на очень сильном огне",
+        "Быстро обжарить мясо с солью и перцем",
+        "Добавить лук, томаты и желтый ахи",
+        "Добавить соевый соус и уксус",
+        "В конце добавить картофель фри",
+        "Подать на рассыпчатом белом рисе"
+      ]
+    },
+    "ur": {
+      "dishName": "لومو سالٹاڈو",
+      "summary": "پیاز، ٹماٹر اور فرنچ فرائز کے ساتھ اسٹیر فرائی بیف، چینی-پیرویوی فیوژن۔",
+      "history": "لومو سالٹاڈو پیرویوی چیفا کھانوں کی علامتی ڈش ہے، جو 19 ویں صدی میں تارکین وطن کے ساتھ آنے والے پیرویوی اور کینٹونیز چینی کھانوں کے ملاپ کا نتیجہ ہے۔ یہ پیرویوی اسٹیر فرائی چینی واک تکنیکوں کو اجی اماریلو اور مقامی آلو جیسے مقامی اجزاء کے ساتھ ملاتا ہے۔ یہ جدید پیرو کی غذائی شناخت کی تعریف کرنے والے کھانا پکانے کے امتزاج کی بہترین مثال ہے۔",
+      "ingredients": [
+        "500 گرام بیف ٹینڈرلائن سٹرپس",
+        "2 سرخ پیاز ویجز میں",
+        "2 ٹماٹر ویجز میں",
+        "1 پیلا اجی مرچ سٹرپس میں",
+        "سويا ساس",
+        "ریڈ وائن سرکہ",
+        "فرنچ فرائز",
+        "سفید چاول"
+      ],
+      "instructions": [
+        "واک یا پین کو بہت تیز آंच پر گرم کریں",
+        "نمک اور کالی مرچ کے ساتھ گوشت کو جلدی سے سیئر کریں",
+        "پیاز، ٹماٹر اور پیلا اجی ڈالیں",
+        "سويا ساس اور سرکہ ڈالیں",
+        "آخر میں فرنچ فرائز شامل کریں",
+        "فلوفی سفید چاول کے اوپر پیش کریں"
+      ]
+    },
+    "id": {
+      "dishName": "Lomo Saltado",
+      "summary": "Daging sapi tumis dengan bawang, tomat dan kentang goreng, fusi Tionghoa-Peru.",
+      "history": "Lomo Saltado adalah hidangan simbolis masakan chifa Peru, hasil dari fusi antara masakan Peru dan Kanton Tionghoa yang datang bersama imigran pada abad ke-19. Tumis Peru ini menggabungkan teknik wok Tiongkok dengan bahan-bahan lokal seperti ají amarillo dan kentang asli. Ini adalah contoh sempurna dari percampuran kuliner yang menentukan identitas gastronomi Peru modern.",
+      "ingredients": [
+        "500g daging sapi has dalam strip",
+        "2 bawang merah potong wedges",
+        "2 tomat potong wedges",
+        "1 cabai ají amarillo strip",
+        "Kecap asin",
+        "Cuka anggur merah",
+        "Kentang goreng",
+        "Nasi putih"
+      ],
+      "instructions": [
+        "Panaskan wok atau wajan dengan api sangat tinggi",
+        "Tumis daging cepat dengan garam dan lada",
+        "Tambahkan bawang, tomat dan ají amarillo",
+        "Tambahkan kecap asin dan cuka",
+        "Masukkan kentang goreng di akhir",
+        "Sajikan di atas nasi putih pulen"
+      ]
+    },
+    "ja": {
+      "dishName": "ロモ・サルタード",
+      "summary": "牛肉の炒め物、玉ねぎ、トマト、フライドポテト添え、中華風ペルー料理。",
+      "history": "ロモ・サルタードはペルーのチファ料理の象徴的な料理で、19 世紀に移民によってもたらされたペルー料理と広東料理の融合の結果です。このペルー風炒め物は、中国の wok 技法をアヒ・アマリージョや地元のジャガイモなどの地元食材と組み合わせています。これは現代ペルーの食のアイデンティティを定義する料理の融合の完璧な例です。",
+      "ingredients": [
+        "牛ヒレ肉ストリップ 500g",
+        "赤玉ねぎくし切り 2 個",
+        "トマトくし切り 2 個",
+        "黄色いアヒ唐辛子ストリップ 1 本",
+        "醤油",
+        "赤ワインビネガー",
+        "フライドポテト",
+        "白米"
+      ],
+      "instructions": [
+        "wok またはフライパンを非常に強火で加熱する",
+        "塩とコショウで肉を素早く焼く",
+        "玉ねぎ、トマト、黄色いアヒを加える",
+        "醤油とビネガーを加える",
+        "最後にフライドポテトを加える",
+        "ふっくらした白米の上にのせて提供"
+      ]
+    }
+  }
+}
