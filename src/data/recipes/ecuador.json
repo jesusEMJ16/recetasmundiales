@@ -1,0 +1,210 @@
+[
+  {
+    "id": "ec-ceviche-de-camarones",
+    "slug": "ceviche-de-camarones-ecuatoriano",
+    "dishName": "Ceviche de Camarones Ecuatoriano",
+    "summary": "Camarones cocidos en jugo de limón con salsa de tomate y cebolla.",
+    "country": "Ecuador",
+    "cuisine": "ecuador",
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "500g de camarones medianos",
+      "Jugo de 6 limones",
+      "1 cebolla roja picada fina",
+      "2 tomates maduros picados",
+      "Salsa de tomate",
+      "Cilantro fresco",
+      "Sal y pimienta",
+      "Cancha tostada o chifles"
+    ],
+    "instructions": [
+      "Cocer camarones ligeramente en agua con sal.",
+      "Enfriar y pelar camarones.",
+      "Mezclar con cebolla, tomate y cilantro.",
+      "Agregar jugo de limón y salsa de tomate al gusto.",
+      "Refrigerar por 30 minutos.",
+      "Servir frío acompañado de cancha o chifles."
+    ],
+    "imagePath": "/images/recipes/ecuador/ceviche-de-camarones-ecuatoriano.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "ceviche",
+      "camarones",
+      "costa",
+      "limon",
+      "playa"
+    ],
+    "seoTitle": "Ceviche de Camarones Ecuatoriano - Receta Auténtica de Ecuador",
+    "seoDescription": "Aprende a cocinar ceviche de camarones ecuatoriano, un plato tradicional de ecuador. Camarones cocidos en jugo de limón con salsa de tomate y cebolla...."
+  },
+  {
+    "id": "ec-llapingachos",
+    "slug": "llapingachos",
+    "dishName": "Llapingachos",
+    "summary": "Tortillas fritas de papa rellenas de queso, servidas con embutidos.",
+    "country": "Ecuador",
+    "cuisine": "ecuador",
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "1 kg de papas cocidas",
+      "200g de queso fresco",
+      "1 cebolla finamente picada",
+      "Achiote en polvo",
+      "Huevos batidos",
+      "Aceite para freír",
+      "Chorizo y longaniza",
+      "Salsa de maní"
+    ],
+    "instructions": [
+      "Hacer puré de papas con cebolla y achiote.",
+      "Formar tortillas rellenando con queso.",
+      "Pasar por huevo batido.",
+      "Freír hasta dorar ambos lados.",
+      "Preparar embutidos a la plancha.",
+      "Servir con salsa de maní y ensalada."
+    ],
+    "imagePath": "/images/recipes/ecuador/llapingachos.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "llapingachos",
+      "papa",
+      "queso",
+      "sierra",
+      "domingo"
+    ],
+    "seoTitle": "Llapingachos - Receta Auténtica de Ecuador",
+    "seoDescription": "Aprende a cocinar llapingachos, un plato tradicional de ecuador. Tortillas fritas de papa rellenas de queso, servidas con embutidos...."
+  },
+  {
+    "id": "ec-encebollado",
+    "slug": "encebollado",
+    "dishName": "Encebollado",
+    "summary": "Sopa de pescado con cebolla, yuca y plátano verde.",
+    "country": "Ecuador",
+    "cuisine": "ecuador",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "500g de pescado blanco (albacora)",
+      "3 cebollas grandes en julianas",
+      "1 yuca grande cocida",
+      "1 plátano verde cocido",
+      "Jugo de 2 limones",
+      "Cilantro",
+      "Comino, sal"
+    ],
+    "instructions": [
+      "Cocer pescado con especias y desmenuzar.",
+      "Reservar caldo de cocción.",
+      "Marinar cebolla en jugo de limón con sal.",
+      "Calentar caldo con pescado.",
+      "Servir sopa caliente con cebolla marinada.",
+      "Acompañar con yuca, plátano y chifles."
+    ],
+    "imagePath": "/images/recipes/ecuador/encebollado.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "encebollado",
+      "pescado",
+      "sopa",
+      "resaca",
+      "nacional"
+    ],
+    "seoTitle": "Encebollado - Receta Auténtica de Ecuador",
+    "seoDescription": "Aprende a cocinar encebollado, un plato tradicional de ecuador. Sopa de pescado con cebolla, yuca y plátano verde...."
+  },
+  {
+    "id": "ec-hornado-panguense",
+    "slug": "hornado-panguense",
+    "dishName": "Hornado Panguense",
+    "summary": "Cerdo asado lentamente con especias, servido con mote y llapingachos.",
+    "country": "Ecuador",
+    "cuisine": "ecuador",
+    "prepTimeMin": 300,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "2 kg de lomo de cerdo",
+      "Cerveza negra",
+      "Ajo, comino, orégano",
+      "Achiote",
+      "Sal gruesa",
+      "Mote (maíz cocido)",
+      "Papas cocidas",
+      "Salsa de ají"
+    ],
+    "instructions": [
+      "Marinar cerdo con cerveza y especias toda la noche.",
+      "Hornear a temperatura baja por 3-4 horas.",
+      "Bañar regularmente con jugos de cocción.",
+      "Subir temperatura al final para dorar piel.",
+      "Cortar en trozos pequeños.",
+      "Servir con mote, papas y ají."
+    ],
+    "imagePath": "/images/recipes/ecuador/hornado-panguense.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "hornado",
+      "cerdo",
+      "horno",
+      "cotopaxi",
+      "feria"
+    ],
+    "seoTitle": "Hornado Panguense - Receta Auténtica de Ecuador",
+    "seoDescription": "Aprende a cocinar hornado panguense, un plato tradicional de ecuador. Cerdo asado lentamente con especias, servido con mote y llapingachos...."
+  },
+  {
+    "id": "ec-cuy-asado",
+    "slug": "cuy-asado",
+    "dishName": "Cuy Asado",
+    "summary": "Conejo de Guinea asado entero con hierbas aromáticas.",
+    "country": "Ecuador",
+    "cuisine": "ecuador",
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "2 cuyes enteros destazados",
+      "Ajo machacado",
+      "Sal, comino, orégano",
+      "Hierbas aromáticas",
+      "Aceite o manteca",
+      "Papas cocidas",
+      "Ají de maní"
+    ],
+    "instructions": [
+      "Limpiar y sazonar cuyes con ajo y especias.",
+      "Colocar en bandeja extendidos.",
+      "Hornear o asar a la brasa por 45 minutos.",
+      "Voltear ocasionalmente para dorar parejo.",
+      "La piel debe quedar crujiente.",
+      "Servir entero con papas y ají."
+    ],
+    "imagePath": "/images/recipes/ecuador/cuy-asado.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "cuy",
+      "conejo",
+      "andes",
+      "inca",
+      "festivo"
+    ],
+    "seoTitle": "Cuy Asado - Receta Auténtica de Ecuador",
+    "seoDescription": "Aprende a cocinar cuy asado, un plato tradicional de ecuador. Conejo de Guinea asado entero con hierbas aromáticas...."
+  }
+]

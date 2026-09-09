@@ -1,0 +1,303 @@
+[
+  {
+    "id": "r-mx-tacos-al-pastor",
+    "dishName": "Tacos al Pastor",
+    "slug": "tacos-al-pastor",
+    "placeId": "mx-cdmx",
+    "summary": "Deliciosos tacos de cerdo marinado con achiote y piña, cocinados en trompo vertical.",
+    "history": "Los tacos al pastor surgieron en la Ciudad de México en los años 1930, creados por inmigrantes libaneses que adaptaron el shawarma árabe usando ingredientes mexicanos. El trompo vertical y la técnica de cocción son herencia directa del método árabe, pero con chiles, achiote y piña que lo hicieron completamente mexicano.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 240,
+    "cookTimeMin": 30,
+    "totalTimeMin": 270,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 kg de carne de cerdo en rebanadas delgadas"
+      },
+      {
+        "text": "3 chiles guajillos"
+      },
+      {
+        "text": "2 chiles anchos"
+      },
+      {
+        "text": "1/4 taza de vinagre"
+      },
+      {
+        "text": "1 cucharada de achiote"
+      },
+      {
+        "text": "3 dientes de ajo"
+      },
+      {
+        "text": "1 piña fresca"
+      },
+      {
+        "text": "Cilantro fresco"
+      },
+      {
+        "text": "Cebolla blanca picada"
+      },
+      {
+        "text": "Tortillas de maíz"
+      }
+    ],
+    "steps": [
+      "Hidratar los chiles en agua caliente por 15 minutos.",
+      "Licuar chiles con vinagre, achiote, ajo y especias.",
+      "Marinar la carne de cerdo por al menos 4 horas o toda la noche.",
+      "Colocar la carne en capas formando un trompo (o usar sartén).",
+      "Cocinar girando constantemente hasta dorar.",
+      "Rebanar finamente y servir en tortillas calientes.",
+      "Agregar piña asada, cilantro, cebolla y salsa al gusto."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 297,
+    "popularityScore": 90,
+    "publishedAt": "2024-11-07",
+    "image": "/images/recipes/méxico/tacos-al-pastor.jpg",
+    "sources": [
+      "Cocina tradicional de México"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-mx-mole-poblano",
+    "dishName": "Mole Poblano",
+    "slug": "mole-poblano",
+    "placeId": "mx-cdmx",
+    "summary": "Salsa compleja y aromática con chocolate, chiles y especias, servida sobre pollo.",
+    "history": "El mole poblano es considerado el platillo nacional de México. La leyenda cuenta que fue creado en el Convento de Santa Rosa en Puebla durante el siglo XVII por monjas que querían honrar a un virrey visitante. Combinaron ingredientes indígenas y españoles creando esta obra maestra culinaria que representa la fusión cultural mexicana.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 180,
+    "cookTimeMin": 30,
+    "totalTimeMin": 210,
+    "difficulty": "dificil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "6 chiles mulatos"
+      },
+      {
+        "text": "4 chiles anchos"
+      },
+      {
+        "text": "3 chiles pasillas"
+      },
+      {
+        "text": "1/4 taza de almendras"
+      },
+      {
+        "text": "1/4 taza de pasas"
+      },
+      {
+        "text": "2 tortillas fritas"
+      },
+      {
+        "text": "1 barra de chocolate mexicano"
+      },
+      {
+        "text": "Canela, clavo, anís"
+      },
+      {
+        "text": "Sésamo tostado"
+      },
+      {
+        "text": "Pollo cocido"
+      }
+    ],
+    "steps": [
+      "Tostar ligeramente todos los chiles y remojar en agua caliente.",
+      "Freír por separado almendras, pasas, tortillas y especias.",
+      "Licuar todo con caldo de pollo hasta obtener pasta suave.",
+      "Cocer la salsa a fuego lento por 45 minutos revolviendo constantemente.",
+      "Agregar el chocolate y ajustar sazón.",
+      "Servir sobre pollo espolvoreado con ajonjolí."
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 322,
+    "popularityScore": 58,
+    "publishedAt": "2024-01-28",
+    "image": "/images/recipes/méxico/mole-poblano.jpg",
+    "sources": [
+      "Cocina tradicional de México"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-mx-cochinita-pibil",
+    "dishName": "Cochinita Pibil",
+    "slug": "cochinita-pibil",
+    "placeId": "mx-cdmx",
+    "summary": "Cerdo marinado en achiote y naranja agria, cocinado lentamente envuelto en hojas de plátano.",
+    "history": "La cochinita pibil es el platillo emblemático de la gastronomía yucateca. Su nombre viene del maya 'pib' que significa 'enterrado', ya que tradicionalmente se cocinaba en un hoyo bajo tierra con piedras calientes. Es una receta precolombina que ha sobrevivido casi intacta hasta hoy, representando la esencia de la cultura maya.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 300,
+    "cookTimeMin": 30,
+    "totalTimeMin": 330,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 kg de carne de cerdo (pierna o espalda)"
+      },
+      {
+        "text": "3 cucharadas de pasta de achiote"
+      },
+      {
+        "text": "1/2 taza de jugo de naranja agria"
+      },
+      {
+        "text": "4 dientes de ajo"
+      },
+      {
+        "text": "Comino, orégano, pimienta"
+      },
+      {
+        "text": "Hojas de plátano"
+      },
+      {
+        "text": "Cebolla morada encurtida"
+      },
+      {
+        "text": "Habenero"
+      }
+    ],
+    "steps": [
+      "Mezclar achiote con naranja agria, ajo y especias.",
+      "Marinar la carne por al menos 4 horas.",
+      "Envolver la carne en hojas de plátano previamente flameadas.",
+      "Cocinar en horno a 160°C por 3-4 horas hasta deshacerse.",
+      "Dejar reposar 15 minutos antes de deshebrar.",
+      "Servir con cebolla encurtida y tortillas."
+    ],
+    "ratingAvg": 5.0,
+    "ratingCount": 98,
+    "popularityScore": 66,
+    "publishedAt": "2024-03-27",
+    "image": "/images/recipes/méxico/cochinita-pibil.jpg",
+    "sources": [
+      "Cocina tradicional de México"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-mx-chiles-en-nogada",
+    "dishName": "Chiles en Nogada",
+    "slug": "chiles-en-nogada",
+    "placeId": "mx-cdmx",
+    "summary": "Chiles poblanos rellenos de picadillo, cubiertos con salsa de nuez y granada. Colores de la bandera mexicana.",
+    "history": "Los chiles en nogada fueron creados en 1821 por las monjas agustinas del convento de Santa Mónica en Puebla para celebrar la firma del Tratado de Córdoba que dio independencia a México. Los colores verde (perejil), blanco (nogada) y rojo (granada) representan la bandera del ejército tricolor. Es un platillo estacional que solo se prepara entre julio y septiembre.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 150,
+    "difficulty": "dificil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "8 chiles poblanos grandes"
+      },
+      {
+        "text": "500g de carne molida (cerdo y res)"
+      },
+      {
+        "text": "Frutas de temporada (manzana, pera, durazno)"
+      },
+      {
+        "text": "Nuez de castilla"
+      },
+      {
+        "text": "Queso fresco"
+      },
+      {
+        "text": "Granada"
+      },
+      {
+        "text": "Especias: canela, clavo"
+      }
+    ],
+    "steps": [
+      "Asar y pelar los chiles, hacer corte lateral y desvenar.",
+      "Preparar picadillo con carne, frutas picadas y especias.",
+      "Rellenar los chiles con el picadillo caliente.",
+      "Preparar nogada licuando nuez con queso y leche.",
+      "Bañar los chiles con nogada fría.",
+      "Decorar con granada y perejil."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 431,
+    "popularityScore": 97,
+    "publishedAt": "2024-04-01",
+    "image": "/images/recipes/méxico/chiles-en-nogada.jpg",
+    "sources": [
+      "Cocina tradicional de México"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-mx-sopa-de-lima",
+    "dishName": "Sopa de Lima",
+    "slug": "sopa-de-lima",
+    "placeId": "mx-cdmx",
+    "summary": "Sopa ligera y aromática con lima yucateca, pollo y tortillas fritas.",
+    "history": "La sopa de lima es otro tesoro de la cocina yucateca. Se dice que fue creada accidentalmente cuando una cocinera agregó lima a una sopa de pollo que estaba muy simple. La lima yucateca, más pequeña y aromática que el limón común, es esencial para el sabor auténtico de este plato.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 120,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 pollo entero"
+      },
+      {
+        "text": "6 limas yucatecas"
+      },
+      {
+        "text": "2 jitomates"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "Tortillas de maíz fritas"
+      },
+      {
+        "text": "Aguacate"
+      },
+      {
+        "text": "Cilantro"
+      }
+    ],
+    "steps": [
+      "Cocer el pollo con verduras para obtener buen caldo.",
+      "Deshebrar la carne y reservar.",
+      "Sofreír jitomate y cebolla, agregar al caldo.",
+      "Añadir el jugo y ralladura de lima.",
+      "Servir con pollo, tortillas fritas y aguacate."
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 174,
+    "popularityScore": 91,
+    "publishedAt": "2024-07-02",
+    "image": "/images/recipes/méxico/sopa-de-lima.jpg",
+    "sources": [
+      "Cocina tradicional de México"
+    ],
+    "translations": {}
+  }
+]

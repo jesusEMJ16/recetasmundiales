@@ -1,0 +1,282 @@
+[
+  {
+    "id": "r-ve-arepa-rellena",
+    "dishName": "Arepa Rellena Venezolana",
+    "slug": "arepa-rellena-venezolana",
+    "placeId": "ve-dc",
+    "summary": "Pan redondo de maíz relleno de queso, carne mechada y otros ingredientes.",
+    "history": "La arepa es el pan diario de Venezuela, presente en todas las mesas sin importar la hora. Aunque compartida con Colombia, la arepa venezolana se caracteriza por abrirse y rellenarse abundantemente. Existen más de 50 variedades: reina pepiada (pollo y aguacate), pelúa (carne y queso amarillo), y muchas más que reflejan la creatividad culinaria venezolana.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 tazas de harina de maíz precocida"
+      },
+      {
+        "text": "2 tazas de agua tibia"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "Queso blanco rallado"
+      },
+      {
+        "text": "Carne mechada"
+      },
+      {
+        "text": "Caraotas negras"
+      },
+      {
+        "text": "Plátano frito"
+      },
+      {
+        "text": "Aguacate"
+      }
+    ],
+    "steps": [
+      "Mezclar harina con agua y sal hasta formar masa suave.",
+      "Formar bolas y aplastar en discos de 1cm de grosor.",
+      "Cocinar en plancha caliente por ambos lados.",
+      "Abrir al medio sin separar completamente.",
+      "Rellenar generosamente con los ingredientes.",
+      "Servir inmediatamente."
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 198,
+    "popularityScore": 67,
+    "publishedAt": "2024-10-28",
+    "image": "/images/recipes/venezuela/arepa-rellena-venezolana.jpg",
+    "sources": [
+      "Cocina tradicional de Venezuela"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ve-pabellon-criollo",
+    "dishName": "Pabellón Criollo",
+    "slug": "pabellon-criollo",
+    "placeId": "ve-dc",
+    "summary": "Plato nacional venezolano con arroz, caraotas negras, carne mechada y plátano frito.",
+    "history": "El pabellón criollo es el plato nacional de Venezuela, declarado patrimonio cultural gastronómico. Sus cuatro componentes representan la mezcla racial del país: el arroz (indígena), las caraotas (africano), la carne (europeo) y el plátano (afroantillano). Es el almuerzo típico dominical en familias venezolanas.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 150,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de carne de res (falda o pecho)"
+      },
+      {
+        "text": "2 tazas de arroz blanco"
+      },
+      {
+        "text": "2 tazas de caraotas negras cocidas"
+      },
+      {
+        "text": "2 plátanos maduros"
+      },
+      {
+        "text": "Cebolla, ajo, pimentón"
+      },
+      {
+        "text": "Comino, orégano"
+      },
+      {
+        "text": "Aceite para freír"
+      }
+    ],
+    "steps": [
+      "Cocer carne con verduras hasta ablandar.",
+      "Desmechar la carne y sofreír con cebolla y especias.",
+      "Preparar arroz blanco graneado.",
+      "Freír plátanos en rodajas hasta dorar.",
+      "Calentar caraotas con un poco de caldo.",
+      "Servir todo junto en plato grande."
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 109,
+    "popularityScore": 51,
+    "publishedAt": "2024-03-07",
+    "image": "/images/recipes/venezuela/pabellón-criollo.jpg",
+    "sources": [
+      "Cocina tradicional de Venezuela"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ve-cachapa-con-mano",
+    "dishName": "Cachapa con Queso de Mano",
+    "slug": "cachapa-con-queso-de-mano",
+    "placeId": "ve-dc",
+    "summary": "Tortilla dulce de maíz tierno rellena de queso de mano fresco.",
+    "history": "La cachapa es una tradición del oriente venezolano, especialmente en estados como Anzoátegui y Sucre. Hecha con maíz tierno (choclo), tiene un sabor naturalmente dulce que contrasta perfectamente con el queso de mano salado. Es el desayuno o merienda favorita, vendida en puestos callejeros llamados 'cachaperas'.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 choclos tiernos desgranados"
+      },
+      {
+        "text": "2 cucharadas de azúcar"
+      },
+      {
+        "text": "Sal al gusto"
+      },
+      {
+        "text": "Harina de maíz (opcional para espesar)"
+      },
+      {
+        "text": "300g de queso de mano"
+      },
+      {
+        "text": "Mantequilla"
+      }
+    ],
+    "steps": [
+      "Licuar granos de maíz con un poco de agua.",
+      "Mezclar con azúcar y sal hasta obtener pasta.",
+      "Cocinar porciones en budare o plancha engrasada.",
+      "Voltear cuando dore por un lado.",
+      "Rellenar caliente con trozos de queso de mano.",
+      "Doblar por la mitad y servir."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 65,
+    "popularityScore": 97,
+    "publishedAt": "2024-02-15",
+    "image": "/images/recipes/venezuela/cachapa-con-queso-de-mano.jpg",
+    "sources": [
+      "Cocina tradicional de Venezuela"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ve-hallaca-navidena",
+    "dishName": "Hallaca Navideña",
+    "slug": "hallaca-navideña",
+    "placeId": "ve-dc",
+    "summary": "Tamal venezolano navideño con guiso de carnes, envuelto en hoja de plátano.",
+    "history": "La hallaca es el plato emblemático de la Navidad venezolana. Su preparación es un ritual familiar que comienza semanas antes, donde cada miembro tiene una tarea específica. Representa el mestizaje venezolano: masa de maíz indígena, relleno europeo y envoltura de plátano africana. No hay Navidad en Venezuela sin hallacas.",
+    "originConfidence": "confirmed",
+    "servings": 20,
+    "prepTimeMin": 240,
+    "cookTimeMin": 30,
+    "totalTimeMin": 270,
+    "difficulty": "dificil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 kg de harina de maíz precocida"
+      },
+      {
+        "text": "Caldo de gallina"
+      },
+      {
+        "text": "Achiote para color"
+      },
+      {
+        "text": "Carne de cerdo, res y pollo"
+      },
+      {
+        "text": "Pasas, aceitunas, alcaparras"
+      },
+      {
+        "text": "Hojas de plátano"
+      },
+      {
+        "text": "Papel de cocina o pabilo"
+      }
+    ],
+    "steps": [
+      "Preparar guiso con las tres carnes y condimentos.",
+      "Amasar harina con caldo coloreado con achiote.",
+      "Extender masa sobre hoja de plátano engrasada.",
+      "Colocar guiso, pasas, aceitunas y alcaparras.",
+      "Envolver firmemente y amarrar con pabilo.",
+      "Hervir por 45 minutos aproximadamente."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 177,
+    "popularityScore": 92,
+    "publishedAt": "2024-12-06",
+    "image": "/images/recipes/venezuela/hallaca-navideña.jpg",
+    "sources": [
+      "Cocina tradicional de Venezuela"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ve-tequenos",
+    "dishName": "Tequeños",
+    "slug": "tequeños",
+    "placeId": "ve-dc",
+    "summary": "Palitos de queso blanco envueltos en masa y fritos hasta dorar.",
+    "history": "Los tequeños son el aperitivo más popular de Venezuela, originarios de la ciudad de Los Teques. Su nombre viene de esta ciudad y se han convertido en el snack infaltable de cualquier fiesta o reunión. El secreto está en que el queso no se escape al freír. Se calcula que los venezolanos consumen millones de tequeños semanalmente.",
+    "originConfidence": "confirmed",
+    "servings": 30,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de queso blanco semiduro"
+      },
+      {
+        "text": "400g de harina de trigo"
+      },
+      {
+        "text": "2 huevos"
+      },
+      {
+        "text": "100g de mantequilla"
+      },
+      {
+        "text": "Azúcar"
+      },
+      {
+        "text": "Sal"
+      },
+      {
+        "text": "Aceite para freír"
+      }
+    ],
+    "steps": [
+      "Cortar queso en bastones de 1cm x 5cm.",
+      "Preparar masa con harina, huevos y mantequilla.",
+      "Estirar masa y cortar tiras.",
+      "Envolver cada bastón de queso sin dejar espacios.",
+      "Freír en aceite caliente hasta dorar.",
+      "Servir calientes con salsa de ajo o guasacaca."
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 115,
+    "popularityScore": 84,
+    "publishedAt": "2024-05-05",
+    "image": "/images/recipes/venezuela/tequeños.jpg",
+    "sources": [
+      "Cocina tradicional de Venezuela"
+    ],
+    "translations": {}
+  }
+]

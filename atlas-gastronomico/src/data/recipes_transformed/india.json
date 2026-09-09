@@ -1,0 +1,399 @@
+[
+  {
+    "id": "r-ind-001",
+    "dishName": "Butter Chicken",
+    "slug": "butter-chicken",
+    "placeId": "in-del",
+    "summary": "Pollo tierno marinado en yogur y especias, cocinado en una rica salsa de tomate con mantequilla y crema. Uno de los platos indios más populares mundialmente.",
+    "history": "Creado accidentalmente en los años 1950 por Kundan Lal Gujral de Moti Mahal en Delhi. Al sobrar pollo tandoori, lo mezcló con salsa de tomate, mantequilla y crema. El 'murgh makhani' se convirtió en ícono de la cocina punjabí y restaurante indio global.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 150,
+    "cookTimeMin": 30,
+    "totalTimeMin": 180,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "800g de muslos de pollo sin hueso"
+      },
+      {
+        "text": "200g de yogur natural"
+      },
+      {
+        "text": "2 cucharadas de jugo de limón"
+      },
+      {
+        "text": "2 cucharaditas de garam masala"
+      },
+      {
+        "text": "1 cucharadita de comino molido"
+      },
+      {
+        "text": "1 cucharadita de cilantro molido"
+      },
+      {
+        "text": "1 cucharadita de pimentón"
+      },
+      {
+        "text": "400g de tomates triturados"
+      },
+      {
+        "text": "100g de mantequilla"
+      },
+      {
+        "text": "200ml de crema de leche"
+      },
+      {
+        "text": "2 cebollas picadas"
+      },
+      {
+        "text": "4 dientes de ajo"
+      },
+      {
+        "text": "Jengibre fresco rallado"
+      },
+      {
+        "text": "Hojas de fenogreco seco (kasuri methi)"
+      },
+      {
+        "text": "Arroz basmati para servir"
+      }
+    ],
+    "steps": [
+      "Marinar pollo con yogur, limón, garam masala, comino, cilantro y pimentón mínimo 2 horas.",
+      "Cocinar pollo en horno o parrilla hasta dorar.",
+      "Derretir mantequilla en sartén grande.",
+      "Saltear cebolla hasta dorada transparente.",
+      "Añadir ajo y jengibre, cocinar 1 minuto.",
+      "Agregar tomates triturados, cocinar 15 minutos hasta reducir.",
+      "Triturar salsa hasta suave.",
+      "Volver al fuego, añadir pollo cocido.",
+      "Incorporar crema y hojas de fenogreco.",
+      "Cocinar 10 minutos más hasta espesar.",
+      "Servir caliente sobre arroz basmati."
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 209,
+    "popularityScore": 62,
+    "publishedAt": "2024-04-25",
+    "image": "/images/recipes/india/butter-chicken.jpg",
+    "sources": [
+      "Cocina tradicional de India"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ind-002",
+    "dishName": "Biryani de Cordero",
+    "slug": "biryani-de-cordero",
+    "placeId": "in-del",
+    "summary": "Arroz basmati aromático cocinado al vapor con cordero tierno, especias, azafrán y hierbas. Plato festivo de la cocina Hyderabadi.",
+    "history": "El biryani llegó a India con los mogoles en siglo XVI. La versión Hyderabadi, creada en las cocinas reales de Nizam, usa el método 'kacchi' donde carne cruda y arroz se cocinan juntos al vapor. Es plato ceremonial en bodas y celebraciones.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 270,
+    "cookTimeMin": 30,
+    "totalTimeMin": 300,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de cordero en trozos"
+      },
+      {
+        "text": "500g de arroz basmati"
+      },
+      {
+        "text": "300g de yogur"
+      },
+      {
+        "text": "2 cebollas grandes en rodajas finas"
+      },
+      {
+        "text": "4 tomates en rodajas"
+      },
+      {
+        "text": "Azafrán en hebras"
+      },
+      {
+        "text": "Leche tibia"
+      },
+      {
+        "text": "Menta fresca"
+      },
+      {
+        "text": "Cilantro fresco"
+      },
+      {
+        "text": "Ghee"
+      },
+      {
+        "text": "Especias enteras: cardamomo, clavos, canela, laurel"
+      },
+      {
+        "text": "Jengibre-ajo en pasta"
+      },
+      {
+        "text": "Chiles verdes"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Freír cebollas hasta crujientes, reservar.",
+      "Marinar cordero con yogur, jengibre-ajo, chiles, menta, cilantro y especias 4 horas.",
+      "Hervir arroz con especias enteras hasta 70% cocido.",
+      "En olla gruesa, colocar carne marinada en fondo.",
+      "Cubrir con arroz parcialmente cocido.",
+      "Rociar azafrán disuelto en leche tibia.",
+      "Añadir ghee, tomates, cebollas fritas, hierbas.",
+      "Tapar herméticamente, cocinar a fuego mínimo 45 minutos.",
+      "Dejar reposar 15 minutos antes de abrir.",
+      "Servir mezclado suavemente con raita."
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 146,
+    "popularityScore": 86,
+    "publishedAt": "2024-05-04",
+    "image": "/images/recipes/india/biryani-de-cordero.jpg",
+    "sources": [
+      "Cocina tradicional de India"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ind-003",
+    "dishName": "Masala Dosa",
+    "slug": "masala-dosa",
+    "placeId": "in-del",
+    "summary": "Crepe crujiente de arroz y lentejas fermentadas, rellena de papas especiadas. Desayuno icónico del sur de India servido con sambar y chutney.",
+    "history": "Originario de Udupi (Karnataka) en siglo XIX, el masala dosa evolucionó del dosa simple añadiendo relleno de papas. Se popularizó en restaurantes Udipi del sur y hoy es desayuno estándar en toda India meridional.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 540,
+    "cookTimeMin": 30,
+    "totalTimeMin": 570,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "300g de arroz parboiled"
+      },
+      {
+        "text": "100g de urad dal (lentejas negras)"
+      },
+      {
+        "text": "1/2 cucharadita de fenogreco"
+      },
+      {
+        "text": "500g de papas cocidas"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "Mostaza negra"
+      },
+      {
+        "text": "Semillas de comino"
+      },
+      {
+        "text": "Hojas de curry"
+      },
+      {
+        "text": "Cúrcuma"
+      },
+      {
+        "text": "Chiles verdes"
+      },
+      {
+        "text": "Jengibre"
+      },
+      {
+        "text": "Cilantro"
+      },
+      {
+        "text": "Aceite vegetal"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Remojar arroz, lentejas y fenogreco 6 horas separadamente.",
+      "Moler todo hasta pasta suave, fermentar 8-12 horas.",
+      "Para relleno: saltear mostaza, comino, hojas curry.",
+      "Añadir cebolla, jengibre, chiles, cocinar transparente.",
+      "Agregar papas machacadas, cúrcuma, sal, cilantro.",
+      "Calentar tawa (plancha), untar aceite.",
+      "Verter masa, extender en círculo fino.",
+      "Cocinar hasta dorar crujiente.",
+      "Colocar relleno en centro, doblar dosa.",
+      "Servir con sambar caliente y chutneys."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 416,
+    "popularityScore": 74,
+    "publishedAt": "2024-08-14",
+    "image": "/images/recipes/india/masala-dosa.jpg",
+    "sources": [
+      "Cocina tradicional de India"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ind-004",
+    "dishName": "Palak Paneer",
+    "slug": "palak-paneer",
+    "placeId": "in-del",
+    "summary": "Cubos de queso paneer en salsa cremosa de espinacas con especias suaves. Plato vegetariano nutritivo y color verde vibrante.",
+    "history": "Plato punjabí tradicional que combina espinacas locales con paneer (queso fresco). Popularizado en restaurantes indios desde los años 1960, representa la cocina vegetariana del norte de India rica en hierro y proteína.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de espinacas frescas"
+      },
+      {
+        "text": "250g de paneer en cubos"
+      },
+      {
+        "text": "2 tomates medianos"
+      },
+      {
+        "text": "1 cebolla grande"
+      },
+      {
+        "text": "3 dientes de ajo"
+      },
+      {
+        "text": "Jengibre fresco"
+      },
+      {
+        "text": "2 chiles verdes"
+      },
+      {
+        "text": "Comino entero"
+      },
+      {
+        "text": "Garam masala"
+      },
+      {
+        "text": "Cúrcuma"
+      },
+      {
+        "text": "Crema o leche"
+      },
+      {
+        "text": "Ghee o mantequilla"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Escaldar espinacas 2 minutos, enfriar en agua helada.",
+      "Triturar espinacas hasta puré suave.",
+      "Freír cubos de paneer hasta dorados, reservar.",
+      "Saltear comino en ghee caliente.",
+      "Añadir cebolla picada, cocinar dorada.",
+      "Agregar ajo, jengibre, chiles, cocinar 1 minuto.",
+      "Incorporar tomates, cocinar hasta blandos.",
+      "Añadir espinacas trituradas, cocinar 10 minutos.",
+      "Espesar con crema si deseado.",
+      "Añadir paneer frito, calentar 5 minutos.",
+      "Servir con naan o roti."
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 274,
+    "popularityScore": 81,
+    "publishedAt": "2024-03-12",
+    "image": "/images/recipes/india/palak-paneer.jpg",
+    "sources": [
+      "Cocina tradicional de India"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ind-005",
+    "dishName": "Gulab Jamun",
+    "slug": "gulab-jamun",
+    "placeId": "in-del",
+    "summary": "Bolas dulces de leche en polvo fritas, bañadas en almíbar de rosas. Postre festivo imprescindible en celebraciones indias.",
+    "history": "El gulab jamun moderno deriva del 'luqmat al-qadi' árabe, introducido por invasores medievales. La versión con leche en polvo (khoya) se popularizó en siglo XX. Su nombre significa 'bayas de rosas' por el almíbar aromatizado.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "200g de leche en polvo entera"
+      },
+      {
+        "text": "50g de harina"
+      },
+      {
+        "text": "1/4 cucharadita de bicarbonato"
+      },
+      {
+        "text": "2 cucharadas de ghee derretido"
+      },
+      {
+        "text": "Leche según necesidad"
+      },
+      {
+        "text": "400g de azúcar"
+      },
+      {
+        "text": "250ml de agua"
+      },
+      {
+        "text": "4-5 vainas de cardamomo"
+      },
+      {
+        "text": "1 cucharada de agua de rosas"
+      },
+      {
+        "text": "Azafrán opcional"
+      },
+      {
+        "text": "Aceite para freír"
+      }
+    ],
+    "steps": [
+      "Mezclar leche en polvo, harina, bicarbonato y ghee.",
+      "Añadir leche gradualmente hasta formar masa blanda.",
+      "Dividir en bolas pequeñas del tamaño de nuez.",
+      "Calentar aceite a temperatura media-baja.",
+      "Freír bolas lentamente hasta dorar uniformemente.",
+      "Para almíbar: hervir azúcar con agua 5 minutos.",
+      "Añadir cardamomo y agua de rosas.",
+      "Sumergir bolas fritas en almíbar tibio 2 horas.",
+      "Servir tibias o frías decoradas con pistachos."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 432,
+    "popularityScore": 57,
+    "publishedAt": "2024-02-14",
+    "image": "/images/recipes/india/gulab-jamun.jpg",
+    "sources": [
+      "Cocina tradicional de India"
+    ],
+    "translations": {}
+  }
+]

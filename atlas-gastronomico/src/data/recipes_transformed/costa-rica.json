@@ -1,0 +1,282 @@
+[
+  {
+    "id": "r-cr-gallo-pinto",
+    "dishName": "Gallo Pinto",
+    "slug": "gallo-pinto",
+    "placeId": "cr-sj",
+    "summary": "Arroz y frijoles mezclados con especias, desayuno tradicional costarricense.",
+    "history": "El gallo pinto es el desayuno por excelencia de Costa Rica, presente en todas las mesas cada mañana. Su nombre viene de los puntos oscuros que forman los frijoles al mezclarse con el arroz, parecidos al plumaje de un gallo pinto. La Salsa Lizano, condimento nacional costarricense, es el ingrediente secreto que le da el sabor característico.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 tazas de arroz cocido del día anterior"
+      },
+      {
+        "text": "1 taza de frijoles negros cocidos"
+      },
+      {
+        "text": "1 cebolla picada fina"
+      },
+      {
+        "text": "1 chile dulce picado"
+      },
+      {
+        "text": "Cilantro fresco"
+      },
+      {
+        "text": "Salsa Lizano"
+      },
+      {
+        "text": "Aceite vegetal"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Sofreír cebolla y chile dulce en aceite.",
+      "Agregar frijoles con un poco de caldo.",
+      "Incorporar arroz frío y mezclar bien.",
+      "Añadir Salsa Lizano al gusto.",
+      "Cocinar revolviendo hasta integrar sabores.",
+      "Servir caliente con cilantro picado."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 330,
+    "popularityScore": 71,
+    "publishedAt": "2024-01-31",
+    "image": "/images/recipes/costa-rica/gallo-pinto.jpg",
+    "sources": [
+      "Cocina tradicional de Costa Rica"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-cr-casado",
+    "dishName": "Casado",
+    "slug": "casado",
+    "placeId": "cr-sj",
+    "summary": "Plato típico con arroz, frijoles, proteína, ensalada y plátano.",
+    "history": "El casado es el almuerzo típico costarricense, servido en sodas (pequeños restaurantes) por todo el país. Cuenta la leyenda que su nombre viene de los hombres casados que llevaban este plato de casa al trabajo. Es una comida balanceada que representa la simplicidad y hospitalidad tica. Cada región tiene su variante pero la estructura se mantiene.",
+    "originConfidence": "confirmed",
+    "servings": 1,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Arroz blanco graneado"
+      },
+      {
+        "text": "Frijoles rojos o negros"
+      },
+      {
+        "text": "Carne (res, pollo, pescado o cerdo)"
+      },
+      {
+        "text": "Ensalada mixta"
+      },
+      {
+        "text": "Plátano maduro frito"
+      },
+      {
+        "text": "Tortillas"
+      },
+      {
+        "text": "Salsa Lizano"
+      }
+    ],
+    "steps": [
+      "Preparar arroz y frijoles por separado.",
+      "Cocinar la proteína elegida a la plancha.",
+      "Hacer ensalada fresca con tomate y lechuga.",
+      "Freír plátano en rodajas.",
+      "Servir todo junto en plato grande.",
+      "Acompañar con tortillas y Salsa Lizano."
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 437,
+    "popularityScore": 81,
+    "publishedAt": "2024-06-15",
+    "image": "/images/recipes/costa-rica/casado.jpg",
+    "sources": [
+      "Cocina tradicional de Costa Rica"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-cr-olla-de-carne",
+    "dishName": "Olla de Carne",
+    "slug": "olla-de-carne",
+    "placeId": "cr-sj",
+    "summary": "Sopa abundante de carne con verduras tropicales.",
+    "history": "La olla de carne es la sopa dominical por excelencia en Costa Rica. Es un plato reconfortante que reúne a la familia alrededor de la mesa. Las abuelas transmiten el conocimiento de qué verduras usar y en qué orden agregarlas. Es común verla en los menús de las sodas tradicionales como opción del día.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 150,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de carne de res con hueso"
+      },
+      {
+        "text": "Yuca"
+      },
+      {
+        "text": "Plátano verde"
+      },
+      {
+        "text": "Zapallo"
+      },
+      {
+        "text": "Chayote"
+      },
+      {
+        "text": "Elote"
+      },
+      {
+        "text": "Cebolla, culantro"
+      }
+    ],
+    "steps": [
+      "Cocer carne hasta ablandar.",
+      "Agregar verduras en orden de cocción.",
+      "Empezar con las más duras (yuca, plátano).",
+      "Continuar con zapallo y chayote.",
+      "Terminar con elote.",
+      "Servir caliente con culantro picado."
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 293,
+    "popularityScore": 86,
+    "publishedAt": "2024-11-23",
+    "image": "/images/recipes/costa-rica/olla-de-carne.jpg",
+    "sources": [
+      "Cocina tradicional de Costa Rica"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-cr-tamales-navidenos",
+    "dishName": "Tamales Costarricenses",
+    "slug": "tamales-costarricenses",
+    "placeId": "cr-sj",
+    "summary": "Masa de maíz rellena de carne y verduras, envuelta en hoja de plátano.",
+    "history": "Los tamales son la tradición navideña más importante de Costa Rica. Durante diciembre, las familias se reúnen para hacer 'la tamaleada', un evento social donde todos participan. Cada región tiene su receta: algunos llevan aceitunas, otros pasas, pero todos comparten el orgullo de ser el símbolo de la Navidad tica.",
+    "originConfidence": "confirmed",
+    "servings": 20,
+    "prepTimeMin": 180,
+    "cookTimeMin": 30,
+    "totalTimeMin": 210,
+    "difficulty": "dificil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 kg de masa de maíz nixtamalizado"
+      },
+      {
+        "text": "300g de carne de cerdo cocida"
+      },
+      {
+        "text": "Arvejas, zanahorias, ejotes"
+      },
+      {
+        "text": "Papas en cubos"
+      },
+      {
+        "text": "Salsa de tomate"
+      },
+      {
+        "text": "Hojas de plátano"
+      },
+      {
+        "text": "Pabilo"
+      }
+    ],
+    "steps": [
+      "Preparar guiso con carne y verduras.",
+      "Extender masa sobre hoja de plátano.",
+      "Colocar relleno en el centro.",
+      "Envolver cuidadosamente.",
+      "Amarrar con pabilo.",
+      "Hervir por 1 hora aproximadamente."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 456,
+    "popularityScore": 80,
+    "publishedAt": "2024-01-26",
+    "image": "/images/recipes/costa-rica/tamales-costarricenses.jpg",
+    "sources": [
+      "Cocina tradicional de Costa Rica"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-cr-chifrijo",
+    "dishName": "Chifrijo",
+    "slug": "chifrijo",
+    "placeId": "cr-sj",
+    "summary": "Mezcla de chicharrones y frijoles con pico de gallo y tortillas.",
+    "history": "El chifrijo es un invento reciente (años 1990) que se ha convertido en el aperitivo más popular de Costa Rica. Su nombre es la contracción de 'chicharrón' y 'frijol'. Nació en los bares como botana para acompañar la cerveza y hoy es infaltable en cualquier reunión social. Representa la creatividad culinaria tica moderna.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "300g de chicharrones crujientes"
+      },
+      {
+        "text": "1 taza de frijoles molidos"
+      },
+      {
+        "text": "Pico de gallo (tomate, cebolla, cilantro)"
+      },
+      {
+        "text": "Tortillas fritas o totopos"
+      },
+      {
+        "text": "Aguacate"
+      },
+      {
+        "text": "Salsa picante"
+      }
+    ],
+    "steps": [
+      "Calentar frijoles molidos.",
+      "Colocar base de frijoles en plato.",
+      "Agregar chicharrones crujientes encima.",
+      "Cubrir con pico de gallo fresco.",
+      "Añadir aguacate en láminas.",
+      "Servir con tortillas fritas."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 106,
+    "popularityScore": 96,
+    "publishedAt": "2024-01-24",
+    "image": "/images/recipes/costa-rica/chifrijo.jpg",
+    "sources": [
+      "Cocina tradicional de Costa Rica"
+    ],
+    "translations": {}
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "id": "r-ua-001",
+    "dishName": "Borscht",
+    "slug": "borscht",
+    "placeId": "ua-kyv",
+    "summary": "Sopa tradicional de remolacha con carne, vegetales y crema agria.",
+    "history": "Plato nacional ucraniano con más de 1000 años de historia. Cada región tiene su propia variante. La UNESCO lo declaró Patrimonio Cultural Inmaterial en 2022.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de remolachas"
+      },
+      {
+        "text": "300g de carne de res"
+      },
+      {
+        "text": "2 zanahorias"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "2 papas"
+      },
+      {
+        "text": "200g de repollo"
+      },
+      {
+        "text": "3 cucharadas de pasta de tomate"
+      },
+      {
+        "text": "Crema agria para servir"
+      },
+      {
+        "text": "Eneldo fresco"
+      },
+      {
+        "text": "Sal y pimienta"
+      }
+    ],
+    "steps": [
+      "Cocer la carne en 2 litros de agua durante 1 hora",
+      "Rallar remolachas y zanahorias, picar cebolla",
+      "Sofreír vegetales con pasta de tomate",
+      "Agregar papas en cubos y repollo picado al caldo",
+      "Añadir el sofrito de remolacha",
+      "Cocinar 20 minutos más hasta que todo esté tierno",
+      "Servir caliente con crema agria y eneldo"
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 98,
+    "popularityScore": 88,
+    "publishedAt": "2024-01-09",
+    "image": "/images/recipes/ucrania/borscht.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ua-002",
+    "dishName": "Varenyky",
+    "slug": "varenyky",
+    "placeId": "ua-kyv",
+    "summary": "Empanadillas hervidas rellenas de papa, queso o cerezas.",
+    "history": "Plato tradicional ucraniano desde el siglo XIII. Los varenyky de Poltava son famosos en toda Ucrania y se preparan para celebraciones familiares.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de harina"
+      },
+      {
+        "text": "2 huevos"
+      },
+      {
+        "text": "200ml de agua tibia"
+      },
+      {
+        "text": "400g de puré de papa"
+      },
+      {
+        "text": "100g de queso cottage"
+      },
+      {
+        "text": "1 cebolla frita"
+      },
+      {
+        "text": "Mantequilla derretida"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Mezclar harina, huevos y agua para hacer la masa",
+      "Dejar reposar 30 minutos",
+      "Preparar el relleno de papa y queso",
+      "Extender la masa y cortar círculos",
+      "Rellenar y cerrar los varenyky",
+      "Hervir en agua salada 5-7 minutos",
+      "Servir con cebolla frita y mantequilla"
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 380,
+    "popularityScore": 75,
+    "publishedAt": "2024-03-17",
+    "image": "/images/recipes/ucrania/varenyky.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ua-003",
+    "dishName": "Holubtsi",
+    "slug": "holubtsi",
+    "placeId": "ua-kyv",
+    "summary": "Hojas de repollo rellenas de carne y arroz en salsa de tomate.",
+    "history": "Plato festivo ucraniano que se sirve en bodas y celebraciones. El nombre viene de 'golub' (paloma), por la forma enrollada.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 repollo grande"
+      },
+      {
+        "text": "500g de carne molida mixta"
+      },
+      {
+        "text": "1 taza de arroz"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "1 zanahoria"
+      },
+      {
+        "text": "3 cucharadas de pasta de tomate"
+      },
+      {
+        "text": "Caldo de carne"
+      },
+      {
+        "text": "Sal, pimienta, especias"
+      }
+    ],
+    "steps": [
+      "Hervir el repollo entero para separar hojas",
+      "Cocer arroz hasta medio hacer",
+      "Mezclar carne, arroz y vegetales picados",
+      "Rellenar cada hoja y enrollar",
+      "Colocar en olla con salsa de tomate",
+      "Cocinar a fuego lento 1 hora",
+      "Servir caliente con crema agria"
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 117,
+    "popularityScore": 95,
+    "publishedAt": "2024-03-23",
+    "image": "/images/recipes/ucrania/holubtsi.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ua-004",
+    "dishName": "Chicken Kyiv",
+    "slug": "chicken-kyiv",
+    "placeId": "ua-kyv",
+    "summary": "Pechuga de pollo rellena de mantequilla herbácea, empanizada y frita.",
+    "history": "Creado en Kiev en 1947 por chefs soviéticos. Se hizo famoso internacionalmente como plato de lujo en restaurantes de Europa del Este.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 pechugas de pollo"
+      },
+      {
+        "text": "150g de mantequilla fría"
+      },
+      {
+        "text": "Perejil fresco"
+      },
+      {
+        "text": "Ajo"
+      },
+      {
+        "text": "2 huevos"
+      },
+      {
+        "text": "Pan rallado"
+      },
+      {
+        "text": "Harina"
+      },
+      {
+        "text": "Aceite para freír"
+      }
+    ],
+    "steps": [
+      "Mezclar mantequilla con hierbas y ajo",
+      "Formar cilindros y congelar",
+      "Aplanar pechugas y envolver la mantequilla",
+      "Empanizar: harina, huevo, pan rallado",
+      "Freír en aceite caliente 4-5 minutos por lado",
+      "Hornear 10 minutos a 180°C",
+      "Servir inmediatamente"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 322,
+    "popularityScore": 77,
+    "publishedAt": "2024-12-08",
+    "image": "/images/recipes/ucrania/chicken-kyiv.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ua-005",
+    "dishName": "Salo",
+    "slug": "salo",
+    "placeId": "ua-kyv",
+    "summary": "Tocino curado en sal, plato nacional ucraniano servido en rebanadas finas.",
+    "history": "Símbolo de la cultura ucraniana durante siglos. Los cosacos lo llevaban en sus campañas. Hay más de 50 formas de prepararlo.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de tocino fresco con piel"
+      },
+      {
+        "text": "Sal gruesa"
+      },
+      {
+        "text": "Ajos"
+      },
+      {
+        "text": "Pimienta negra"
+      },
+      {
+        "text": "Laurel"
+      },
+      {
+        "text": "Semillas de cilantro"
+      }
+    ],
+    "steps": [
+      "Cortar el tocino en bloques",
+      "Frotar con sal y especias",
+      "Colocar en recipiente hermético",
+      "Refrigerar 3-5 días",
+      "Lavar el exceso de sal",
+      "Congelar antes de servir",
+      "Cortar en rebanadas muy finas"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 53,
+    "popularityScore": 100,
+    "publishedAt": "2024-10-23",
+    "image": "/images/recipes/ucrania/salo.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ua-006",
+    "dishName": "Deruny",
+    "slug": "deruny",
+    "placeId": "ua-kyv",
+    "summary": "Tortitas de papa rallada fritas, crujientes por fuera y suaves por dentro.",
+    "history": "Plato campesino ucraniano del siglo XIX. Hoy es uno de los platos más populares en hogares y restaurantes.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de papas"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "2 huevos"
+      },
+      {
+        "text": "2 cucharadas de harina"
+      },
+      {
+        "text": "Sal y pimienta"
+      },
+      {
+        "text": "Aceite para freír"
+      },
+      {
+        "text": "Crema agria para servir"
+      }
+    ],
+    "steps": [
+      "Rallar papas y cebolla finamente",
+      "Escurrir el exceso de líquido",
+      "Mezclar con huevos y harina",
+      "Formar tortitas con cuchara",
+      "Freír en aceite caliente 3-4 minutos por lado",
+      "Escurrir en papel absorbente",
+      "Servir calientes con crema agria"
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 220,
+    "popularityScore": 91,
+    "publishedAt": "2024-10-30",
+    "image": "/images/recipes/ucrania/deruny.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ua-007",
+    "dishName": "Nalysnyky",
+    "slug": "nalysnyky",
+    "placeId": "ua-kyv",
+    "summary": "Crepes ucranianos rellenos de queso dulce o carne, horneados con crema.",
+    "history": "Plato tradicional de Cuaresma y celebraciones familiares. Los nalysnyky dulces son el postre favorito de los niños ucranianos.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Para crepes: 2 tazas harina, 3 huevos, 500ml leche"
+      },
+      {
+        "text": "Relleno: 400g queso cottage"
+      },
+      {
+        "text": "2 cucharadas azúcar"
+      },
+      {
+        "text": "1 huevo"
+      },
+      {
+        "text": "Vainilla"
+      },
+      {
+        "text": "Crema agria"
+      },
+      {
+        "text": "Mantequilla"
+      }
+    ],
+    "steps": [
+      "Preparar masa líquida para crepes",
+      "Cocer crepes delgados en sartén",
+      "Mezclar queso, azúcar, huevo y vainilla",
+      "Rellenar cada crepe y enrollar",
+      "Colocar en molde engrasado",
+      "Cubrir con crema agria y hornear 20 minutos",
+      "Servir tibios"
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 378,
+    "popularityScore": 66,
+    "publishedAt": "2024-04-30",
+    "image": "/images/recipes/ucrania/nalysnyky.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ua-008",
+    "dishName": "Okroshka",
+    "slug": "okroshka",
+    "placeId": "ua-kyv",
+    "summary": "Sopa fría de verano con vegetales frescos, huevo y kvass o kefir.",
+    "history": "Plato refrescante perfecto para veranos ucranianos. Cada familia tiene su receta secreta transmitida por generaciones.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 25,
+    "cookTimeMin": 30,
+    "totalTimeMin": 55,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 papas cocidas"
+      },
+      {
+        "text": "3 huevos duros"
+      },
+      {
+        "text": "2 pepinos frescos"
+      },
+      {
+        "text": "Rábanos"
+      },
+      {
+        "text": "Eneldo y cebollín"
+      },
+      {
+        "text": "500ml de kefir o kvass"
+      },
+      {
+        "text": "Crema agria"
+      },
+      {
+        "text": "Mostaza"
+      }
+    ],
+    "steps": [
+      "Cortar todos los vegetales y huevos en cubos pequeños",
+      "Picar finamente las hierbas",
+      "Mezclar todos los ingredientes",
+      "Verter kefir frío o kvass",
+      "Añadir crema agria y mostaza",
+      "Refrigerar 30 minutos",
+      "Servir muy frío"
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 109,
+    "popularityScore": 87,
+    "publishedAt": "2024-01-27",
+    "image": "/images/recipes/ucrania/okroshka.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ua-009",
+    "dishName": "Pampushky",
+    "slug": "pampushky",
+    "placeId": "ua-kyv",
+    "summary": "Pequeños panes esponjosos glaseados con ajo y mantequilla.",
+    "history": "Pan tradicional ucraniano que acompaña el borscht. Las pampushky de Poltava son famosas en toda Ucrania por su textura perfecta.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 120,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g harina"
+      },
+      {
+        "text": "250ml leche tibia"
+      },
+      {
+        "text": "50g levadura fresca"
+      },
+      {
+        "text": "2 huevos"
+      },
+      {
+        "text": "50g azúcar"
+      },
+      {
+        "text": "50g mantequilla"
+      },
+      {
+        "text": "Glaseado: mantequilla derretida, ajo, perejil"
+      }
+    ],
+    "steps": [
+      "Activar levadura en leche tibia con azúcar",
+      "Mezclar todos los ingredientes y amasar",
+      "Dejar levar 1 hora",
+      "Formar bolitas pequeñas",
+      "Dejar levar 30 minutos más",
+      "Hornear a 180°C por 15-20 minutos",
+      "Pincelar con mantequilla de ajo caliente"
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 467,
+    "popularityScore": 86,
+    "publishedAt": "2024-02-21",
+    "image": "/images/recipes/ucrania/pampushky.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ua-010",
+    "dishName": "Kutia",
+    "slug": "kutia",
+    "placeId": "ua-kyv",
+    "summary": "Pudín ritual de trigo con miel, semillas de amapola y frutos secos.",
+    "history": "Plato ceremonial de Navidad ucraniana (Nochebuena). Simboliza prosperidad y abundancia. Receta de más de 1000 años de antigüedad.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 taza de trigo integral"
+      },
+      {
+        "text": "100g semillas de amapola"
+      },
+      {
+        "text": "100g miel"
+      },
+      {
+        "text": "100g nueces"
+      },
+      {
+        "text": "50g pasas"
+      },
+      {
+        "text": "50g almendras"
+      },
+      {
+        "text": "Leche de amapola"
+      }
+    ],
+    "steps": [
+      "Remojar trigo overnight",
+      "Cocer trigo hasta tierno (2 horas)",
+      "Moler semillas de amapola con miel",
+      "Preparar leche de amapola",
+      "Mezclar todo con frutos secos",
+      "Dejar reposar varias horas",
+      "Servir frío como postre ritual"
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 68,
+    "popularityScore": 89,
+    "publishedAt": "2024-06-03",
+    "image": "/images/recipes/ucrania/kutia.jpg",
+    "sources": [
+      "Cocina tradicional de Ucrania"
+    ],
+    "translations": {}
+  }
+]

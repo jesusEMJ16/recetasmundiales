@@ -1,0 +1,591 @@
+[
+  {
+    "id": "r-pl-001",
+    "dishName": "Pierogi",
+    "slug": "pierogi",
+    "placeId": "pl-maz",
+    "summary": "Empanadillas polacas rellenas de papa, queso, carne o frutas.",
+    "history": "Plato nacional polaco desde el siglo XIII. Según la leyenda, fueron traídos por San Jacinto de Polonia desde Asia. Hay más de 100 variedades regionales.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "postre",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g harina"
+      },
+      {
+        "text": "1 huevo"
+      },
+      {
+        "text": "200ml agua tibia"
+      },
+      {
+        "text": "500g papas cocidas"
+      },
+      {
+        "text": "200g queso twaróg"
+      },
+      {
+        "text": "1 cebolla frita"
+      },
+      {
+        "text": "Mantequilla"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Mezclar harina, huevo y agua para la masa",
+      "Dejar reposar 30 minutos",
+      "Preparar relleno de papa y queso",
+      "Extender masa y cortar círculos",
+      "Rellenar y cerrar los pierogi",
+      "Hervir en agua salada hasta que floten",
+      "Freír en mantequilla con cebolla"
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 245,
+    "popularityScore": 63,
+    "publishedAt": "2024-11-26",
+    "image": "/images/recipes/polonia/pierogi.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pl-002",
+    "dishName": "Bigos",
+    "slug": "bigos",
+    "placeId": "pl-maz",
+    "summary": "Guiso de chucrut y carne con especias, plato de caza tradicional.",
+    "history": "Plato de cazadores polacos medievales. Cada familia tiene su receta secreta. Se mejora con los días y se sirve en celebraciones.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 40,
+    "cookTimeMin": 30,
+    "totalTimeMin": 70,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg chucrut"
+      },
+      {
+        "text": "500g col fresca"
+      },
+      {
+        "text": "500g carne mixta (cerdo, res, caza)"
+      },
+      {
+        "text": "200g tocino"
+      },
+      {
+        "text": "100g ciruelas pasas"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "Vino tinto seco"
+      },
+      {
+        "text": "Especias: laurel, pimienta, enebro"
+      }
+    ],
+    "steps": [
+      "Picar chucrut y col fresca",
+      "Cocer carnes por separado",
+      "Sofreír cebolla y tocino",
+      "Mezclar todo en olla grande",
+      "Añadir vino y especias",
+      "Cocinar a fuego lento 3 horas",
+      "Repetir cocción 2-3 días para mejor sabor"
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 152,
+    "popularityScore": 66,
+    "publishedAt": "2024-02-07",
+    "image": "/images/recipes/polonia/bigos.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pl-003",
+    "dishName": "Żurek",
+    "slug": "żurek",
+    "placeId": "pl-maz",
+    "summary": "Sopa agria de centeno fermentado con huevo y salchicha blanca.",
+    "history": "Sopa ritual de Pascua polaca. El zakwas (fermento) se prepara días antes. Simboliza el fin del ayuno de Cuaresma.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500ml zakwas (fermento de centeno)"
+      },
+      {
+        "text": "1L caldo de huesos"
+      },
+      {
+        "text": "200g salchicha blanca"
+      },
+      {
+        "text": "4 huevos duros"
+      },
+      {
+        "text": "100g tocino"
+      },
+      {
+        "text": "Ajo"
+      },
+      {
+        "text": "Mayorana"
+      },
+      {
+        "text": "Crema agria"
+      }
+    ],
+    "steps": [
+      "Preparar zakwas 5 días antes",
+      "Cocer caldo de huesos",
+      "Añadir zakwas al caldo caliente",
+      "Agregar salchicha en rodajas",
+      "Cocinar 30 minutos",
+      "Servir con huevo duro y tocino crujiente",
+      "Añadir crema agria al gusto"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 403,
+    "popularityScore": 65,
+    "publishedAt": "2024-11-07",
+    "image": "/images/recipes/polonia/żurek.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pl-004",
+    "dishName": "Kotlet Schabowy",
+    "slug": "kotlet-schabowy",
+    "placeId": "pl-maz",
+    "summary": "Chuleta de cerdo empanizada similar al schnitzel vienés.",
+    "history": "Plato cotidiano polaco desde el siglo XIX. Presente en cada comedor familiar y restaurante tradicional.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 chuletas de cerdo sin hueso"
+      },
+      {
+        "text": "2 huevos"
+      },
+      {
+        "text": "Pan rallado"
+      },
+      {
+        "text": "Harina"
+      },
+      {
+        "text": "Sal y pimienta"
+      },
+      {
+        "text": "Aceite para freír"
+      },
+      {
+        "text": "Limón para servir"
+      }
+    ],
+    "steps": [
+      "Aplanar chuletas con mazo",
+      "Sazonar con sal y pimienta",
+      "Empanizar: harina, huevo, pan rallado",
+      "Freír en aceite caliente 4 minutos por lado",
+      "Escurrir en papel",
+      "Servir con limón y ensalada"
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 76,
+    "popularityScore": 94,
+    "publishedAt": "2024-05-22",
+    "image": "/images/recipes/polonia/kotlet-schabowy.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pl-005",
+    "dishName": "Barszcz",
+    "slug": "barszcz",
+    "placeId": "pl-maz",
+    "summary": "Sopa clara de remolacha servida con uszka (empanadillas).",
+    "history": "Sopa ceremonial de Nochebuena polaca. A diferencia del borscht ucraniano, es claro y se sirve como primer plato festivo.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g remolachas"
+      },
+      {
+        "text": "2L caldo de vegetales"
+      },
+      {
+        "text": "Vinagre de manzana"
+      },
+      {
+        "text": "Azúcar"
+      },
+      {
+        "text": "Laurel"
+      },
+      {
+        "text": "Pimienta"
+      },
+      {
+        "text": "Uszka (empanadillas pequeñas)"
+      },
+      {
+        "text": "Eneldo fresco"
+      }
+    ],
+    "steps": [
+      "Cocer remolachas enteras",
+      "Preparar caldo vegetal",
+      "Rallar remolachas y añadir al caldo",
+      "Sazonar con vinagre y azúcar",
+      "Cocinar 1 hora a fuego lento",
+      "Servir con uszka hervidas",
+      "Decorar con eneldo"
+    ],
+    "ratingAvg": 4.3,
+    "ratingCount": 65,
+    "popularityScore": 62,
+    "publishedAt": "2024-11-22",
+    "image": "/images/recipes/polonia/barszcz.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pl-006",
+    "dishName": "Gołąbki",
+    "slug": "gołąbki",
+    "placeId": "pl-maz",
+    "summary": "Hojas de repollo rellenas de carne y arroz en salsa de tomate.",
+    "history": "Plato dominical polaco tradicional. El nombre significa 'palomitas' por la forma enrollada.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 repollo grande"
+      },
+      {
+        "text": "500g carne molida"
+      },
+      {
+        "text": "1 taza arroz"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "Salsa de tomate"
+      },
+      {
+        "text": "Caldo"
+      },
+      {
+        "text": "Sal, pimienta, mejorana"
+      }
+    ],
+    "steps": [
+      "Hervir repollo para separar hojas",
+      "Cocer arroz parcialmente",
+      "Mezclar carne, arroz y cebolla",
+      "Rellenar hojas y enrollar",
+      "Colocar en olla con salsa",
+      "Cocinar 1 hora a fuego lento",
+      "Servir con salsa de tomate"
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 472,
+    "popularityScore": 68,
+    "publishedAt": "2024-02-23",
+    "image": "/images/recipes/polonia/gołąbki.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pl-007",
+    "dishName": "Pączki",
+    "slug": "pączki",
+    "placeId": "pl-maz",
+    "summary": "Donas polacas rellenas de mermelada, glaseadas o espolvoreadas.",
+    "history": "Dulce tradicional del Jueves Graso (Tłusty Czwartek). Los polacos comen millones de pączki ese día. Tradición desde el siglo XVIII.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 120,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g harina"
+      },
+      {
+        "text": "50g levadura fresca"
+      },
+      {
+        "text": "200ml leche"
+      },
+      {
+        "text": "4 yemas"
+      },
+      {
+        "text": "50g azúcar"
+      },
+      {
+        "text": "50g mantequilla"
+      },
+      {
+        "text": "Mermelada de rosa"
+      },
+      {
+        "text": "Azúcar glass o glaseado"
+      }
+    ],
+    "steps": [
+      "Activar levadura en leche tibia",
+      "Mezclar ingredientes y amasar",
+      "Dejar levar 1 hora",
+      "Formar bolas y dejar levar 30 min",
+      "Freír en aceite abundante",
+      "Rellenar con mermelada",
+      "Espolvorear con azúcar glass"
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 167,
+    "popularityScore": 83,
+    "publishedAt": "2024-04-02",
+    "image": "/images/recipes/polonia/pączki.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pl-008",
+    "dishName": "Kiełbasa",
+    "slug": "kiełbasa",
+    "placeId": "pl-maz",
+    "summary": "Salchicha polaca tradicional ahumada con especias.",
+    "history": "Símbolo culinario polaco durante siglos. Cada región tiene su variedad. La kiełbasa de Cracovia tiene denominación protegida.",
+    "originConfidence": "confirmed",
+    "servings": 10,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg carne de cerdo"
+      },
+      {
+        "text": "200g tocino"
+      },
+      {
+        "text": "Tripas naturales"
+      },
+      {
+        "text": "Ajo"
+      },
+      {
+        "text": "Mayorana"
+      },
+      {
+        "text": "Pimienta"
+      },
+      {
+        "text": "Enebro"
+      },
+      {
+        "text": "Humo de madera"
+      }
+    ],
+    "steps": [
+      "Picar carne y tocino",
+      "Mezclar con especias y ajo",
+      "Rellenar tripas",
+      "Ahumar 2-3 horas",
+      "Cocer al vapor",
+      "Dejar secar",
+      "Servir fría o a la parrilla"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 255,
+    "popularityScore": 95,
+    "publishedAt": "2024-05-21",
+    "image": "/images/recipes/polonia/kiełbasa.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pl-009",
+    "dishName": "Sernik",
+    "slug": "sernik",
+    "placeId": "pl-maz",
+    "summary": "Pastel de queso polaco cremoso con base de galleta.",
+    "history": "Postre tradicional polaco desde el siglo XVIII. El sernik de Navidad es obligatorio en muchas familias.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg queso twaróg"
+      },
+      {
+        "text": "200g galletas"
+      },
+      {
+        "text": "100g mantequilla"
+      },
+      {
+        "text": "200g azúcar"
+      },
+      {
+        "text": "4 huevos"
+      },
+      {
+        "text": "200ml crema agria"
+      },
+      {
+        "text": "Vainilla"
+      },
+      {
+        "text": "Ralladura de limón"
+      }
+    ],
+    "steps": [
+      "Triturar galletas con mantequilla",
+      "Forrar molde con la base",
+      "Batir queso con azúcar y huevos",
+      "Añadir crema y vainilla",
+      "Verter sobre la base",
+      "Hornear 1 hora a 160°C",
+      "Enfriar completamente antes de servir"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 89,
+    "popularityScore": 64,
+    "publishedAt": "2024-01-05",
+    "image": "/images/recipes/polonia/sernik.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pl-010",
+    "dishName": "Zapiekanka",
+    "slug": "zapiekanka",
+    "placeId": "pl-maz",
+    "summary": "Baguette abierta con champiñones y queso gratinado, comida callejera icónica.",
+    "history": "Comida callejera polaca desde los años 70. Símbolo de la era comunista. Hoy sigue siendo popular en plazas principales.",
+    "originConfidence": "confirmed",
+    "servings": 2,
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 40,
+    "difficulty": "media",
+    "moment": "postre",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 baguette larga"
+      },
+      {
+        "text": "300g champiñones"
+      },
+      {
+        "text": "200g queso rallado"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "Mantequilla"
+      },
+      {
+        "text": "Ketchup"
+      },
+      {
+        "text": "Orégano"
+      }
+    ],
+    "steps": [
+      "Cortar baguette a lo largo",
+      "Sofreír champiñones con cebolla",
+      "Colocar sobre el pan",
+      "Cubrir con queso",
+      "Hornear hasta gratinar",
+      "Servir con ketchup"
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 240,
+    "popularityScore": 65,
+    "publishedAt": "2024-05-09",
+    "image": "/images/recipes/polonia/zapiekanka.jpg",
+    "sources": [
+      "Cocina tradicional de Polonia"
+    ],
+    "translations": {}
+  }
+]

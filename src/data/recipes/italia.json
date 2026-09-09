@@ -1,0 +1,421 @@
+[
+  {
+    "id": "ital-001",
+    "slug": "pizza-napoletana",
+    "dishName": "Pizza Napoletana",
+    "summary": "La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 2,
+    "calories": 0,
+    "ingredients": [
+      "500g harina 00",
+      "325ml agua",
+      "10g sal",
+      "3g levadura",
+      "400g tomate San Marzano",
+      "250g mozzarella di bufala",
+      "Albahaca fresca",
+      "Aceite de oliva"
+    ],
+    "instructions": [
+      "Mezclar harina, agua, levadura y sal",
+      "Amasar 10 minutos hasta obtener masa elástica",
+      "Dejar fermentar 24 horas en nevera",
+      "Estirar la masa a mano sin rodillo",
+      "Añadir tomate, mozzarella y albahaca",
+      "Hornear a 450°C durante 8-10 minutos"
+    ],
+    "imagePath": "/images/recipes/italia/pizza-napoletana.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "pizza",
+      "napoles",
+      "tradicional",
+      "plato principal"
+    ],
+    "seoTitle": "Pizza Napoletana - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar pizza napoletana, un plato tradicional de italia. La pizza original italiana con masa fina, tomate San Marzano, mozzarella di bufala y albahaca fresca..."
+  },
+  {
+    "id": "ital-002",
+    "slug": "pasta-carbonara",
+    "dishName": "Pasta Carbonara",
+    "summary": "Clásica pasta romana con huevo, queso pecorino, guanciale y pimienta negra. Sin nata.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "400g spaghetti",
+      "150g guanciale",
+      "4 yemas de huevo",
+      "100g Pecorino Romano",
+      "Pimienta negra molida",
+      "Sal"
+    ],
+    "instructions": [
+      "Cocer la pasta en agua salada",
+      "Dorar el guanciale en sartén",
+      "Mezclar yemas con pecorino y pimienta",
+      "Escurrir pasta reservando agua de cocción",
+      "Mezclar pasta con guanciale fuera del fuego",
+      "Añadir mezcla de huevos removiendo rápido",
+      "Servir inmediatamente con más pecorino"
+    ],
+    "imagePath": "/images/recipes/italia/pasta-carbonara.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "pasta",
+      "roma",
+      "huevos",
+      "plato principal"
+    ],
+    "seoTitle": "Pasta Carbonara - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar pasta carbonara, un plato tradicional de italia. Clásica pasta romana con huevo, queso pecorino, guanciale y pimienta negra. Sin nata...."
+  },
+  {
+    "id": "ital-003",
+    "slug": "risotto-alla-milanese",
+    "dishName": "Risotto alla Milanese",
+    "summary": "Arroz cremoso teñido de amarillo con azafrán, manteca y queso parmesano.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "320g arroz Carnaroli",
+      "1.5L caldo de carne",
+      "1 cebolla pequeña",
+      "100ml vino blanco seco",
+      "60g mantequilla",
+      "80g Parmigiano Reggiano",
+      "0.5g hebras de azafrán",
+      "Sal"
+    ],
+    "instructions": [
+      "Disolver azafrán en poco caldo caliente",
+      "Sofreír cebolla picada con mantequilla",
+      "Tostar el arroz 2 minutos",
+      "Desglasar con vino blanco",
+      "Añadir caldo poco a poco removiendo constantemente",
+      "Incorporar azafrán a mitad de cocción",
+      "Mantecar con mantequilla y parmesano al final"
+    ],
+    "imagePath": "/images/recipes/italia/risotto-alla-milanese.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "arroz",
+      "milan",
+      "azafran",
+      "plato principal"
+    ],
+    "seoTitle": "Risotto alla Milanese - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar risotto alla milanese, un plato tradicional de italia. Arroz cremoso teñido de amarillo con azafrán, manteca y queso parmesano...."
+  },
+  {
+    "id": "ital-004",
+    "slug": "tiramis",
+    "dishName": "Tiramisú",
+    "summary": "Postre de capas de bizcochos savoiardi embebidos en café, crema de mascarpone y cacao.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "500g mascarpone",
+      "4 huevos",
+      "100g azúcar",
+      "300ml café espresso frío",
+      "200g bizcochos savoiardi",
+      "Cacao amargo en polvo",
+      "1 cucharada marsala (opcional)"
+    ],
+    "instructions": [
+      "Separar claras y yemas",
+      "Batir yemas con azúcar hasta blanquear",
+      "Añadir mascarpone y mezclar",
+      "Montar claras a punto de nieve e incorporar",
+      "Mojar savoiardi en café rápidamente",
+      "Formar capas alternando bizcochos y crema",
+      "Refrigerar 4 horas mínimo",
+      "Espolvorear cacao antes de servir"
+    ],
+    "imagePath": "/images/recipes/italia/tiramis.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "postre",
+      "cafe",
+      "mascarpone",
+      "dulce"
+    ],
+    "seoTitle": "Tiramisú - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar tiramisú, un plato tradicional de italia. Postre de capas de bizcochos savoiardi embebidos en café, crema de mascarpone y cacao...."
+  },
+  {
+    "id": "ital-005",
+    "slug": "lasagna-alla-bolognese",
+    "dishName": "Lasagna alla Bolognese",
+    "summary": "Capas de pasta fresca con ragú bolognesa, bechamel y parmesano horneadas.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 40,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "500g láminas de lasaña frescas",
+      "500g ragú bolognesa",
+      "500ml bechamel",
+      "100g Parmigiano Reggiano",
+      "50g mantequilla",
+      "Sal",
+      "Pimienta"
+    ],
+    "instructions": [
+      "Precalentar horno a 180°C",
+      "Untar molde con mantequilla",
+      "Colocar capa de bechamel en base",
+      "Alternar capas: pasta, ragú, bechamel, parmesano",
+      "Repetir 4-5 capas",
+      "Terminar con bechamel y abundante parmesano",
+      "Hornear 30-35 minutos hasta dorar",
+      "Dejar reposar 10 minutos antes de cortar"
+    ],
+    "imagePath": "/images/recipes/italia/lasagna-alla-bolognese.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "pasta",
+      "bolonia",
+      "horno",
+      "plato principal"
+    ],
+    "seoTitle": "Lasagna alla Bolognese - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar lasagna alla bolognese, un plato tradicional de italia. Capas de pasta fresca con ragú bolognesa, bechamel y parmesano horneadas...."
+  },
+  {
+    "id": "ital-006",
+    "slug": "arancini-siciliani",
+    "dishName": "Arancini Siciliani",
+    "summary": "Bolas de arroz rellenas fritas, típicas de Sicilia. Rellenas de ragú, guisantes y queso.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "500g arroz Arborio",
+      "200g ragú de carne",
+      "100g guisantes",
+      "150g mozzarella o caciocavallo",
+      "2 huevos",
+      "Pan rallado",
+      "Aceite para freír",
+      "Azafrán"
+    ],
+    "instructions": [
+      "Cocer arroz con azafrán hasta que esté muy cocido",
+      "Dejar enfriar completamente",
+      "Formar bolas huecas con las manos",
+      "Rellenar con ragú, guisantes y queso",
+      "Cerrar bien la bola",
+      "Pasar por huevo batido y pan rallado",
+      "Freír en aceite caliente hasta dorar",
+      "Escurrir sobre papel absorbente"
+    ],
+    "imagePath": "/images/recipes/italia/arancini-siciliani.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "arroz",
+      "sicilia",
+      "frito",
+      "aperitivo"
+    ],
+    "seoTitle": "Arancini Siciliani - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar arancini siciliani, un plato tradicional de italia. Bolas de arroz rellenas fritas, típicas de Sicilia. Rellenas de ragú, guisantes y queso...."
+  },
+  {
+    "id": "ital-007",
+    "slug": "ossobuco-alla-milanese",
+    "dishName": "Ossobuco alla Milanese",
+    "summary": "Jarrete de ternera estofado lentamente con verduras, vino blanco y gremolata.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "4 jarretes de ternera",
+      "2 zanahorias",
+      "2 ramas apio",
+      "1 cebolla",
+      "200ml vino blanco",
+      "400g tomate triturado",
+      "Caldo de carne",
+      "Para gremolata: perejil, ajo, limón"
+    ],
+    "instructions": [
+      "Enharinar los jarretes y dorar en cazuela",
+      "Retirar carne y sofreír verduras picadas",
+      "Añadir vino blanco y reducir",
+      "Incorporar tomate y caldo",
+      "Volver a poner la carne",
+      "Cocinar tapado 2 horas a fuego lento",
+      "Preparar gremolata mezclando ingredientes picados",
+      "Servir espolvoreado con gremolata"
+    ],
+    "imagePath": "/images/recipes/italia/ossobuco-alla-milanese.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "carne",
+      "milan",
+      "estofado",
+      "plato principal"
+    ],
+    "seoTitle": "Ossobuco alla Milanese - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar ossobuco alla milanese, un plato tradicional de italia. Jarrete de ternera estofado lentamente con verduras, vino blanco y gremolata...."
+  },
+  {
+    "id": "ital-008",
+    "slug": "bruschetta-al-pomodoro",
+    "dishName": "Bruschetta al Pomodoro",
+    "summary": "Rebanadas de pan tostado frotadas con ajo y cubiertas de tomates frescos, albahaca y aceite de oliva.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "4 rebanadas pan rústico",
+      "4 tomates maduros",
+      "2 dientes de ajo",
+      "Albahaca fresca",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta"
+    ],
+    "instructions": [
+      "Cortar tomates en dados pequeños",
+      "Mezclar con albahaca picada, sal y pimienta",
+      "Tostar pan en parrilla o horno",
+      "Frotar cada rebanada con diente de ajo",
+      "Cubrir con mezcla de tomates",
+      "Rociar con aceite de oliva",
+      "Servir inmediatamente"
+    ],
+    "imagePath": "/images/recipes/italia/bruschetta-al-pomodoro.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "aperitivo",
+      "tomate",
+      "pan",
+      "vegetariano"
+    ],
+    "seoTitle": "Bruschetta al Pomodoro - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar bruschetta al pomodoro, un plato tradicional de italia. Rebanadas de pan tostado frotadas con ajo y cubiertas de tomates frescos, albahaca y aceite de oliva..."
+  },
+  {
+    "id": "ital-009",
+    "slug": "gelato-artigianale",
+    "dishName": "Gelato Artigianale",
+    "summary": "Helado artesanal italiano con menos grasa y más aire que el helado tradicional. Sabor pistacho siciliano.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "500ml leche entera",
+      "200ml nata",
+      "150g azúcar",
+      "6 yemas de huevo",
+      "100g pasta de pistacho siciliano",
+      "Pistachos troceados"
+    ],
+    "instructions": [
+      "Calentar leche con nata sin hervir",
+      "Batir yemas con azúcar hasta blanquear",
+      "Verter leche caliente sobre yemas removiendo",
+      "Cocinar a fuego lento hasta espesar (85°C)",
+      "Añadir pasta de pistacho",
+      "Enfriar completamente en nevera",
+      "Mantecar en heladera según instrucciones",
+      "Congelar 2 horas antes de servir"
+    ],
+    "imagePath": "/images/recipes/italia/gelato-artigianale.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "postre",
+      "helado",
+      "pistacho",
+      "dulce"
+    ],
+    "seoTitle": "Gelato Artigianale - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar gelato artigianale, un plato tradicional de italia. Helado artesanal italiano con menos grasa y más aire que el helado tradicional. Sabor pistacho sicil..."
+  },
+  {
+    "id": "ital-010",
+    "slug": "focaccia-genovese",
+    "dishName": "Focaccia Genovese",
+    "summary": "Pan plano genovés con abundante aceite de oliva, sal gruesa y romero. Esponjoso por dentro, crujiente por fuera.",
+    "country": "Italia",
+    "cuisine": "italia",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "500g harina fuerza",
+      "350ml agua tibia",
+      "10g sal",
+      "5g levadura fresca",
+      "80ml aceite de oliva virgen extra",
+      "Sal gruesa",
+      "Romero fresco"
+    ],
+    "instructions": [
+      "Disolver levadura en agua tibia",
+      "Mezclar harina y sal",
+      "Añadir agua con levadura y amasar",
+      "Incorporar 40ml aceite gradualmente",
+      "Amasar 10 minutos hasta masa elástica",
+      "Dejar levar 2 horas en lugar cálido",
+      "Extender en bandeja aceitada",
+      "Presionar con dedos creando hoyuelos",
+      "Regar con resto de aceite y sal gruesa",
+      "Hornear a 220°C durante 20 minutos"
+    ],
+    "imagePath": "/images/recipes/italia/focaccia-genovese.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "pan",
+      "liguria",
+      "romero",
+      "acompañamiento"
+    ],
+    "seoTitle": "Focaccia Genovese - Receta Auténtica de Italia",
+    "seoDescription": "Aprende a cocinar focaccia genovese, un plato tradicional de italia. Pan plano genovés con abundante aceite de oliva, sal gruesa y romero. Esponjoso por dentro, crujient..."
+  }
+]

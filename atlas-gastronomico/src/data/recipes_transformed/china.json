@@ -1,0 +1,352 @@
+[
+  {
+    "id": "r-chin-001",
+    "dishName": "Pato Laqueado Pekín",
+    "slug": "pato-laqueado-pekin",
+    "placeId": "cn-bej",
+    "summary": "El plato más famoso de la cocina imperial china. Pato con piel crujiente y dorada, servido con tortitas finas, cebollino y salsa hoisin.",
+    "history": "Originario de la dinastía Ming (siglo XV), era plato exclusivo de la corte imperial. La técnica de inflar el pato entre piel y carne, secarlo al aire y lacarlo con miel crea la piel característica. Hoy es símbolo de Beijing y se sirve en banquetes especiales.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 1440,
+    "cookTimeMin": 30,
+    "totalTimeMin": 1470,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 pato entero (aproximadamente 2.5kg)"
+      },
+      {
+        "text": "3 cucharadas de maltosa o miel"
+      },
+      {
+        "text": "2 cucharadas de vinagre de arroz"
+      },
+      {
+        "text": "1 cucharada de salsa de soja"
+      },
+      {
+        "text": "Jengibre fresco en rodajas"
+      },
+      {
+        "text": "Cebollino chino"
+      },
+      {
+        "text": "Tortitas finas chinas"
+      },
+      {
+        "text": "Salsa hoisin"
+      },
+      {
+        "text": "Pepino en tiras"
+      }
+    ],
+    "steps": [
+      "Limpiar el pato retirando vísceras y exceso de grasa.",
+      "Inflar el pato separando piel de carne soplando aire (técnica tradicional).",
+      "Escaldar el pato con agua hirviendo para tensar la piel.",
+      "Mezclar maltosa, vinagre y soja para el glaseado.",
+      "Pincelar pato generosamente con mezcla.",
+      "Colgar pato en lugar fresco y seco 24 horas hasta que piel esté como papel.",
+      "Precalentar horno a 180°C.",
+      "Asar pato 45-60 minutos直到 piel esté dorada y crujiente.",
+      "Dejar reposar 10 minutos antes de cortar.",
+      "Cortar piel y carne en láminas finas en mesa.",
+      "Servir con tortitas calientes, cebollino, pepino y salsa hoisin."
+    ],
+    "ratingAvg": 4.3,
+    "ratingCount": 438,
+    "popularityScore": 98,
+    "publishedAt": "2024-12-22",
+    "image": "/images/recipes/china/pato-laqueado-pekín.jpg",
+    "sources": [
+      "Cocina tradicional de China"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-chin-002",
+    "dishName": "Dim Sum Variados",
+    "slug": "dim-sum-variados",
+    "placeId": "cn-bej",
+    "summary": "Pequeñas porciones de comida cantonesa servidas en cestas de bambú. Incluye har gow (gambas), siu mai (cerdo) y baozi (panecillos al vapor).",
+    "history": "La tradición yum cha ('beber té') nació en Guangdong hace siglos como descanso para trabajadores del campo. Los dim sum ('tocar el corazón') evolucionaron hasta convertirse en arte culinario. Cada pieza es pequeña para poder probar muchas variedades.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 120,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "200g de gambas peladas picadas"
+      },
+      {
+        "text": "150g de carne de cerdo picada"
+      },
+      {
+        "text": "100g de panceta cortada fina"
+      },
+      {
+        "text": "20 wrappers de harina de trigo para siu mai"
+      },
+      {
+        "text": "20 wrappers de harina de arroz para har gow"
+      },
+      {
+        "text": "200g de harina para baozi"
+      },
+      {
+        "text": "5g de levadura"
+      },
+      {
+        "text": "Brotas de bambú picadas"
+      },
+      {
+        "text": "Aceite de sésamo"
+      },
+      {
+        "text": "Salsa de soja ligera"
+      }
+    ],
+    "steps": [
+      "Para har gow: mezclar gambas con sal, azúcar y fécula de tapioca.",
+      "Envolver en skins de arroz formando semilunas.",
+      "Para siu mai: mezclar cerdo, panceta, bambú y seasonings.",
+      "Colocar en wrappers cuadrados sin cerrar completamente.",
+      "Para baozi: activar levadura en agua tibia con azúcar.",
+      "Mezclar con harina y amasar hasta suave.",
+      "Dejar levar 1 hora hasta doblar volumen.",
+      "Rellenar con carne o verduras.",
+      "Colocar en蒸笼 (cestas bambú) sobre agua hirviendo.",
+      "Cocinar har gow 6 minutos, siu mai 8 minutos, baozi 12 minutos.",
+      "Servir inmediatamente con té pu-erh o jazmín."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 204,
+    "popularityScore": 61,
+    "publishedAt": "2024-10-04",
+    "image": "/images/recipes/china/dim-sum-variados.jpg",
+    "sources": [
+      "Cocina tradicional de China"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-chin-003",
+    "dishName": "Mapo Tofu",
+    "slug": "mapo-tofu",
+    "placeId": "cn-bej",
+    "summary": "Tofu sedoso en salsa picante de Sichuan con carne picada y pimienta sichuanesa. Famoso por su sabor 'mala' (entumecedor y picante).",
+    "history": "Creado en Chengdu durante la dinastía Qing por una mujer llamada Mapo ('abuela marcada'). Su tofu picante se hizo legendario por usar pimienta sichuanesa que adormece la lengua. Es plato emblemático de Sichuan conocido mundialmente.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400g de tofu sedoso"
+      },
+      {
+        "text": "150g de carne de cerdo picada"
+      },
+      {
+        "text": "2 cucharadas de doubanjiang (pasta de habas picante)"
+      },
+      {
+        "text": "1 cucharada de douchi (habas negras fermentadas)"
+      },
+      {
+        "text": "2 cucharaditas de pimienta sichuanesa molida"
+      },
+      {
+        "text": "3 dientes de ajo picados"
+      },
+      {
+        "text": "Jengibre fresco picado"
+      },
+      {
+        "text": "Cebollino chino"
+      },
+      {
+        "text": "Caldo de pollo o vegetal"
+      },
+      {
+        "text": "Aceite vegetal"
+      },
+      {
+        "text": "Fécula de maíz disuelta en agua"
+      }
+    ],
+    "steps": [
+      "Cortar tofu en cubos de 2cm y escaldar en agua salada caliente.",
+      "Calentar wok con aceite a fuego medio-alto.",
+      "Saltear cerdo hasta dorar y crujiente.",
+      "Añadir doubanjiang y douchi, cocinar 2 minutos hasta fragante.",
+      "Agregar ajo y jengibre, remover 30 segundos.",
+      "Verter caldo y llevar a ebullición suave.",
+      "Añadir tofu cuidadosamente sin romper.",
+      "Cocinar 5 minutos para que tofu absorba sabores.",
+      "Espesar con fécula disuelta removiendo suavemente.",
+      "Espolvorear pimienta sichuanesa molida y cebollino.",
+      "Servir inmediatamente sobre arroz blanco al vapor."
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 400,
+    "popularityScore": 65,
+    "publishedAt": "2024-11-02",
+    "image": "/images/recipes/china/mapo-tofu.jpg",
+    "sources": [
+      "Cocina tradicional de China"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-chin-004",
+    "dishName": "Arroz Frito Yangzhou",
+    "slug": "arroz-frito-yangzhou",
+    "placeId": "cn-bej",
+    "summary": "El arroz frito más famoso de China, con gambas, cerdo asado, guisantes y huevo. Colorido, sabroso y perfectamente equilibrado.",
+    "history": "Nombrado por la ciudad de Yangzhou en Jiangsu, este plato data de la dinastía Sui. Era favorito de funcionarios imperiales. La receta auténtica usa ingredientes específicos: camarones de río, jamón Jinhua y guisantes tiernos.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400g de arroz cocido del día anterior (grano largo)"
+      },
+      {
+        "text": "150g de gambas peladas"
+      },
+      {
+        "text": "100g de cerdo asado (char siu) en cubos"
+      },
+      {
+        "text": "2 huevos batidos"
+      },
+      {
+        "text": "100g de guisantes frescos o congelados"
+      },
+      {
+        "text": "2 cebolletas picadas"
+      },
+      {
+        "text": "2 dientes de ajo picados"
+      },
+      {
+        "text": "2 cucharadas de salsa de soja ligera"
+      },
+      {
+        "text": "1 cucharadita de aceite de sésamo"
+      },
+      {
+        "text": "Aceite vegetal para wok"
+      },
+      {
+        "text": "Sal y pimienta blanca"
+      }
+    ],
+    "steps": [
+      "Desmenuzar arroz frío con manos húmedas para separar granos.",
+      "Calentar wok a temperatura muy alta con aceite.",
+      "Batir huevos con pizca de sal y hacer tortilla fina.",
+      "Cortar tortilla en tiras pequeñas.",
+      "Saltear gambas rápidamente hasta rosadas, reservar.",
+      "Saltear cerdo char siu 1 minuto, reservar.",
+      "Añadir guisantes al wok 2 minutos.",
+      "Agregar arroz, remover constantemente rompiendo grumos.",
+      "Añadir soja y remover para distribuir color uniformemente.",
+      "Incorporar gambas, cerdo, huevo y cebolletas.",
+      "Saltear todo junto 2-3 minutos hasta bien caliente.",
+      "Terminar con aceite de sésamo y servir inmediatamente."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 242,
+    "popularityScore": 83,
+    "publishedAt": "2024-02-29",
+    "image": "/images/recipes/china/arroz-frito-yangzhou.jpg",
+    "sources": [
+      "Cocina tradicional de China"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-chin-005",
+    "dishName": "Mooncakes",
+    "slug": "mooncakes",
+    "placeId": "cn-bej",
+    "summary": "Pasteles tradicionales del Festival del Medio Otoño, con relleno dulce de pasta de loto o judías rojas, a veces con yema de huevo salada.",
+    "history": "Los mooncakes se remontan a la dinastía Tang (siglo VII). Según leyenda, se usaron para esconder mensajes secretos durante rebelión contra mongoles en siglo XIV. Hoy simbolizan reunión familiar y se regalan durante el Festival del Medio Otoño (luna llena de otoño).",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "postre",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "200g de harina de trigo"
+      },
+      {
+        "text": "50g de jarabe invertido o miel"
+      },
+      {
+        "text": "50ml de aceite vegetal"
+      },
+      {
+        "text": "1/2 cucharadita de bicarbonato"
+      },
+      {
+        "text": "400g de pasta de loto dulce o anko"
+      },
+      {
+        "text": "4 yemas de huevo de pato saladas curadas"
+      },
+      {
+        "text": "1 yema de huevo batida para pincelar"
+      },
+      {
+        "text": "Moldes de mooncake tradicionales"
+      }
+    ],
+    "steps": [
+      "Mezclar jarabe, aceite y bicarbonato hasta emulsionar.",
+      "Añadir harina y formar masa suave.",
+      "Reposar masa 30 minutos cubierta.",
+      "Dividir relleno en 8 bolas de 50g cada una.",
+      "Si usa yemas: envolver cada yema en 35g de pasta de loto.",
+      "Dividir masa en 8 bolas de 25g.",
+      "Estirar cada bola de masa en círculo fino.",
+      "Envolver relleno con masa sellando bien.",
+      "Enharinar molde y presionar bola dentro.",
+      "Golpear molde para liberar mooncake formado.",
+      "Colocar en bandeja y hornear 180°C 10 minutos.",
+      "Sacar, pincelar con yema batida, hornear 10 minutos más.",
+      "Dejar reposar 2-3 días para que aceite migre a superficie."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 444,
+    "popularityScore": 60,
+    "publishedAt": "2024-07-06",
+    "image": "/images/recipes/china/mooncakes.jpg",
+    "sources": [
+      "Cocina tradicional de China"
+    ],
+    "translations": {}
+  }
+]

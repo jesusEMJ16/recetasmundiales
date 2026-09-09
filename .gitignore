@@ -1,16 +1,52 @@
 ```
-# Data files that might be generated
-src/data/countries_index.json
-src/data/recipes/*.json
-"src/data/recipes/canad\\303\\241.json"
-"src/data/recipes/espa\\303\\261a.json"
-"src/data/recipes/etiop\\303\\255a.json"
-"src/data/recipes/hungr\\303\\255a.json"
-"src/data/recipes/jap\\303\\263n.json"
-"src/data/recipes/m\\303\\251xico.json"
-"src/data/recipes/panam\\303\\241.json"
-"src/data/recipes/pa\\303\\255ses-bajos.json"
-"src/data/recipes/per\\303\\272.json"
-"src/data/recipes/turqu\\303\\255a.json"
-src/data/recipes/missing_fields_report.json
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+target/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.python-version
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+*.env*
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Testing
+.mypy_cache/
+.pytest_cache/
 ```

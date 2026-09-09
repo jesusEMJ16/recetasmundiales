@@ -1,0 +1,321 @@
+[
+  {
+    "id": "r-uk-001",
+    "dishName": "Fish and Chips",
+    "slug": "fish-and-chips",
+    "placeId": "gb-lon",
+    "summary": "El plato nacional británico por excelencia. Pescado blanco rebozado en masa de cerveza servido con papas fritas gruesas.",
+    "history": "Originario del siglo XIX, combina la tradición judía del pescado frito con las papas fritas del norte de Inglaterra. Se popularizó durante la Revolución Industrial como comida rápida para trabajadores.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "600g de bacalao o eglefino fresco"
+      },
+      {
+        "text": "200g de harina de trigo"
+      },
+      {
+        "text": "330ml de cerveza rubia fría"
+      },
+      {
+        "text": "1 cucharadita de polvo de hornear"
+      },
+      {
+        "text": "Sal marina al gusto"
+      },
+      {
+        "text": "4 papas grandes"
+      },
+      {
+        "text": "Aceite vegetal para freír"
+      },
+      {
+        "text": "Limón para servir"
+      }
+    ],
+    "steps": [
+      "Cortar las papas en bastones gruesos y remojar en agua fría 30 minutos",
+      "Mezclar harina, polvo de hornear y sal en un bowl",
+      "Agregar cerveza fría gradualmente hasta formar una masa espesa",
+      "Secar bien el pescado y sazonar con sal",
+      "Calentar aceite a 180°C en freidora profunda",
+      "Freír papas 5 minutos, retirar y dejar enfriar",
+      "Sumergir pescado en la masa y freír 5-6 minutos hasta dorar",
+      "Freír papas nuevamente 3-4 minutos hasta crujientes",
+      "Servir inmediatamente con limón y sal"
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 51,
+    "popularityScore": 67,
+    "publishedAt": "2024-03-21",
+    "image": "/images/recipes/reino-unido/fish-and-chips.jpg",
+    "sources": [
+      "Cocina tradicional de Reino Unido"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-uk-002",
+    "dishName": "Shepherd's Pie",
+    "slug": "shepherd's-pie",
+    "placeId": "gb-lon",
+    "summary": "Pastel de carne de cordero picada con verduras cubierto de puré de papas gratinado.",
+    "history": "Plato campesino del siglo XVIII diseñado para aprovechar sobras de cordero. El nombre 'Shepherd's Pie' se usa cuando lleva cordero; 'Cottage Pie' cuando es de res.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 40,
+    "cookTimeMin": 30,
+    "totalTimeMin": 70,
+    "difficulty": "media",
+    "moment": "postre",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "800g de carne de cordero molida"
+      },
+      {
+        "text": "2 cebollas medianas picadas"
+      },
+      {
+        "text": "2 zanahorias en cubos pequeños"
+      },
+      {
+        "text": "200g de guisantes"
+      },
+      {
+        "text": "2 cucharadas de salsa Worcestershire"
+      },
+      {
+        "text": "500g de papas"
+      },
+      {
+        "text": "50g de mantequilla"
+      },
+      {
+        "text": "100ml de leche"
+      },
+      {
+        "text": "50g de queso cheddar rallado"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      }
+    ],
+    "steps": [
+      "Hervir papas hasta que estén tiernas, escurrir y hacer puré con mantequilla y leche",
+      "Sofreír cebolla hasta dorar, agregar carne y cocinar hasta sellar",
+      "Añadir zanahorias, guisantes y salsa Worcestershire",
+      "Cocinar 10 minutos hasta que las verduras estén tiernas",
+      "Transferir mezcla a molde para horno",
+      "Cubrir con puré de papas y esparcir queso",
+      "Hornear a 200°C por 25-30 minutos hasta dorar",
+      "Dejar reposar 5 minutos antes de servir"
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 284,
+    "popularityScore": 95,
+    "publishedAt": "2024-05-28",
+    "image": "/images/recipes/reino-unido/shepherd's-pie.jpg",
+    "sources": [
+      "Cocina tradicional de Reino Unido"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-uk-003",
+    "dishName": "Full English Breakfast",
+    "slug": "full-english-breakfast",
+    "placeId": "gb-lon",
+    "summary": "Desayuno completo tradicional con huevos, tocino, salchichas, frijoles, tomate, champiñones y tostadas.",
+    "history": "Sus orígenes se remontan a la época victoriana cuando la clase acomodada servía desayunos abundantes. Se consolidó como símbolo de la hospitalidad británica.",
+    "originConfidence": "confirmed",
+    "servings": 2,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "desayuno",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 huevos"
+      },
+      {
+        "text": "4 tiras de tocino"
+      },
+      {
+        "text": "4 salchichas tipo Cumberland"
+      },
+      {
+        "text": "200g de frijoles en salsa de tomate"
+      },
+      {
+        "text": "2 tomates medianos cortados a la mitad"
+      },
+      {
+        "text": "100g de champiñones laminados"
+      },
+      {
+        "text": "2 rebanadas de pan para tostadas"
+      },
+      {
+        "text": "Mantequilla para cocinar"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      }
+    ],
+    "steps": [
+      "Cocinar salchichas en sartén hasta dorar por todos lados",
+      "Añadir tocino y cocinar hasta crujiente",
+      "En otra sartén, sofreír tomates y champiñones",
+      "Calentar frijoles en olla pequeña",
+      "Freír o pochar huevos al gusto",
+      "Tostar pan y untar con mantequilla",
+      "Servir todos los componentes calientes en plato grande",
+      "Sazonar con sal y pimienta fresca"
+    ],
+    "ratingAvg": 5.0,
+    "ratingCount": 130,
+    "popularityScore": 77,
+    "publishedAt": "2024-08-22",
+    "image": "/images/recipes/reino-unido/full-english-breakfast.jpg",
+    "sources": [
+      "Cocina tradicional de Reino Unido"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-uk-004",
+    "dishName": "Beef Wellington",
+    "slug": "beef-wellington",
+    "placeId": "gb-lon",
+    "summary": "Solomillo de res envuelto en paté, duxelles de champiñones y hojaldre dorado.",
+    "history": "Nombrado en honor al Duque de Wellington tras su victoria en Waterloo (1815). Representa la cima de la cocina británica clásica.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de solomillo de res entero"
+      },
+      {
+        "text": "500g de champiñones portobello"
+      },
+      {
+        "text": "200g de paté de hígado"
+      },
+      {
+        "text": "6 lonchas de prosciutto"
+      },
+      {
+        "text": "500g de masa de hojaldre"
+      },
+      {
+        "text": "2 yemas de huevo"
+      },
+      {
+        "text": "2 cucharadas de mostaza Dijon"
+      },
+      {
+        "text": "Aceite de oliva"
+      },
+      {
+        "text": "Sal y pimienta negra"
+      }
+    ],
+    "steps": [
+      "Sellar solomillo en sartén muy caliente por todos lados",
+      "Pincelar carne con mostaza y dejar enfriar",
+      "Procesar champiñones hasta formar pasta (duxelles)",
+      "Cocinar duxelles hasta evaporar toda humedad",
+      "Extender prosciutto, cubrir con duxelles y paté",
+      "Colocar carne y envolver cuidadosamente",
+      "Envolver en hojaldre y sellar bordes",
+      "Pincelar con yema y hornear 200°C por 25-30 minutos",
+      "Reposar 10 minutos antes de cortar"
+    ],
+    "ratingAvg": 5.0,
+    "ratingCount": 74,
+    "popularityScore": 90,
+    "publishedAt": "2024-05-15",
+    "image": "/images/recipes/reino-unido/beef-wellington.jpg",
+    "sources": [
+      "Cocina tradicional de Reino Unido"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-uk-005",
+    "dishName": "Sticky Toffee Pudding",
+    "slug": "sticky-toffee-pudding",
+    "placeId": "gb-lon",
+    "summary": "Bizcocho húmedo de dátiles bañado en salsa de toffee caliente, servido con helado o crema.",
+    "history": "Creado en los años 1970 en el norte de Inglaterra. Se convirtió en el postre británico más popular de los pubs y restaurantes.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "200g de dátiles sin hueso picados"
+      },
+      {
+        "text": "250ml de agua hirviendo"
+      },
+      {
+        "text": "1 cucharadita de bicarbonato"
+      },
+      {
+        "text": "85g de mantequilla ablandada"
+      },
+      {
+        "text": "150g de azúcar moreno"
+      },
+      {
+        "text": "2 huevos"
+      },
+      {
+        "text": "200g de harina leudante"
+      },
+      {
+        "text": "Para la salsa: 200ml de crema, 100g de azúcar moreno, 50g de mantequilla"
+      }
+    ],
+    "steps": [
+      "Remojar dátiles en agua hirviendo con bicarbonato 15 minutos",
+      "Batir mantequilla y azúcar hasta cremoso",
+      "Agregar huevos uno a uno",
+      "Incorporar harina y mezcla de dátiles",
+      "Verter en molde engrasado y hornear 180°C por 35-40 minutos",
+      "Para salsa: derretir ingredientes juntos hasta espesar",
+      "Perforar bizcocho caliente y verter salsa",
+      "Servir tibio con helado de vainilla"
+    ],
+    "ratingAvg": 5.0,
+    "ratingCount": 495,
+    "popularityScore": 57,
+    "publishedAt": "2024-02-05",
+    "image": "/images/recipes/reino-unido/sticky-toffee-pudding.jpg",
+    "sources": [
+      "Cocina tradicional de Reino Unido"
+    ],
+    "translations": {}
+  }
+]

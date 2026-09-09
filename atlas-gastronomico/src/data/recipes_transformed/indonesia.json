@@ -1,0 +1,419 @@
+[
+  {
+    "id": "r-indo-001",
+    "dishName": "Nasi Goreng (Arroz Frito Indonesio)",
+    "slug": "nasi-goreng-(arroz-frito-indonesio)",
+    "placeId": "id-jak",
+    "summary": "Arroz frito con kecap manis (salsa de soja dulce), huevo, camarones y pollo. Plato nacional indonesio, versátil y lleno de umami.",
+    "history": "El nasi goreng surgió de la necesidad de usar arroz sobrante del día anterior. Con influencias chinas de los inmigrantes que trajeron el wok, evolucionó con ingredientes locales como el kecap manis. Es desayuno, almuerzo y cena en Indonesia, vendido por vendedores callejeros con carritos.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400g de arroz cocido del día anterior"
+      },
+      {
+        "text": "150g de camarones pelados"
+      },
+      {
+        "text": "150g de pollo en cubos pequeños"
+      },
+      {
+        "text": "2 huevos"
+      },
+      {
+        "text": "3 chalotas picadas"
+      },
+      {
+        "text": "3 dientes de ajo picados"
+      },
+      {
+        "text": "2 chiles rojos picados"
+      },
+      {
+        "text": "3 cucharadas de kecap manis (soja dulce indonesia)"
+      },
+      {
+        "text": "1 cucharada de salsa de pescado"
+      },
+      {
+        "text": "Tomates cherry cortados"
+      },
+      {
+        "text": "Pepino en rodajas"
+      },
+      {
+        "text": "Cebollino picado"
+      },
+      {
+        "text": "Krupuk (crackers de camarón)"
+      },
+      {
+        "text": "Aceite vegetal"
+      }
+    ],
+    "steps": [
+      "Calentar wok con aceite a fuego alto.",
+      "Saltear chalotas, ajo y chiles hasta fragantes.",
+      "Añadir pollo, cocinar hasta dorar.",
+      "Agregar camarones, cocinar 2 minutos hasta rosados.",
+      "Empujar ingredientes al lado, añadir huevos al wok.",
+      "Revolver huevos hasta cuajar parcialmente.",
+      "Incorporar arroz frío, romper grumos con espátula.",
+      "Añadir kecap manis y salsa de pescado.",
+      "Saltear todo junto 5-7 minutos mezclando bien.",
+      "El arroz debe quedar oscuro y ligeramente caramelizado.",
+      "Servir con tomate, pepino, cebollino y krupuk."
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 175,
+    "popularityScore": 81,
+    "publishedAt": "2024-05-18",
+    "image": "/images/recipes/indonesia/nasi-goreng-(arroz-frito-indonesio).jpg",
+    "sources": [
+      "Cocina tradicional de Indonesia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-indo-002",
+    "dishName": "Rendang (Curry Seco de Res de Padang)",
+    "slug": "rendang-(curry-seco-de-res-de-padang)",
+    "placeId": "id-jak",
+    "summary": "Carne de res cocinada lentamente en leche de coco y especias hasta caramelizarse. Uno de los platos más sabrosos del mundo según CNN Travel.",
+    "history": "El rendang es plato ceremonial de los Minangkabau de Sumatra, cocinado tradicionalmente durante 4-5 horas para ceremonias y bodas. La técnica de cocción lenta conserva la carne sin refrigeración. En 2011 fue votado como el plato más delicioso del mundo.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de res (nalga o brisket) en cubos grandes"
+      },
+      {
+        "text": "800ml de leche de coco espesa"
+      },
+      {
+        "text": "200ml de leche de coco ligera"
+      },
+      {
+        "text": "3 tallos de hierba limón machacados"
+      },
+      {
+        "text": "2 hojas de lima kaffir"
+      },
+      {
+        "text": "2 hojas de daun salam"
+      },
+      {
+        "text": "1 trozo de galangal machacado"
+      },
+      {
+        "text": "Pasta de especias: 8 chalotas, 6 dientes de ajo, 5 chiles rojos, 3cm de cúrcuma, 3cm de jengibre, 2cm de galangal"
+      },
+      {
+        "text": "1 cucharadita de comino molido"
+      },
+      {
+        "text": "1 cucharadita de cilantro molido"
+      },
+      {
+        "text": "Sal y azúcar de palma al gusto"
+      },
+      {
+        "text": "Aceite vegetal"
+      }
+    ],
+    "steps": [
+      "Moler todos los ingredientes de la pasta de especias hasta suave.",
+      "En olla grande, calentar poco aceite, sofreír pasta de especias 5 minutos.",
+      "Añadir carne, sellar por todos lados.",
+      "Verter leche de coco ligera, llevar a ebullición.",
+      "Agregar hierba limón, hojas de lima, daun salam y galangal.",
+      "Cocinar a fuego medio-alto revolviendo ocasionalmente.",
+      "Cuando líquido se reduzca, añadir leche de coco espesa.",
+      "Bajar fuego al mínimo, cocinar 3-4 horas revolviendo regularmente.",
+      "La carne debe estar muy tierna y salsa oscura caramelizada.",
+      "El aceite de coco debe separarse y freír la carne.",
+      "Servir con arroz blanco y sambal."
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 380,
+    "popularityScore": 96,
+    "publishedAt": "2024-01-18",
+    "image": "/images/recipes/indonesia/rendang-(curry-seco-de-res-de-padang).jpg",
+    "sources": [
+      "Cocina tradicional de Indonesia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-indo-003",
+    "dishName": "Satay (Brochetas a la Parrilla con Salsa de Maní)",
+    "slug": "satay-(brochetas-a-la-parrilla-con-salsa-de-mani)",
+    "placeId": "id-jak",
+    "summary": "Brochetas de carne marinada grilladas sobre carbón, servidas con salsa de maní dulce-picante, arroz comprimido (ketupat) y ensalada de vegetales.",
+    "history": "El satay tiene origen en Java, influenciado por kebabs árabes traídos por comerciantes musulmanes en siglo XIX. Cada región indonesia tiene su variante. Es comida callejera icónica, preparada por vendedores que fanean las brochetas sobre braseros de carbón.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 150,
+    "cookTimeMin": 30,
+    "totalTimeMin": 180,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de pollo o cordero en cubos"
+      },
+      {
+        "text": "2 cucharadas de kecap manis"
+      },
+      {
+        "text": "1 cucharada de cúrcuma molida"
+      },
+      {
+        "text": "1 cucharada de comino molido"
+      },
+      {
+        "text": "2 dientes de ajo machacados"
+      },
+      {
+        "text": "1 cucharada de azúcar de palma"
+      },
+      {
+        "text": "Jugo de 1 lima"
+      },
+      {
+        "text": "Palitos de bambú remojados"
+      },
+      {
+        "text": "Para salsa de maní: 200g de maní tostado"
+      },
+      {
+        "text": "3 chiles rojos"
+      },
+      {
+        "text": "2 dientes de ajo"
+      },
+      {
+        "text": "2 cucharadas de tamarindo"
+      },
+      {
+        "text": "2 cucharadas de kecap manis"
+      },
+      {
+        "text": "Agua caliente"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Marinar carne con kecap manis, cúrcuma, comino, ajo, azúcar y lima mínimo 2 horas.",
+      "Ensartar carne en palitos de bambú remojados.",
+      "Grillar sobre carbón bien caliente 3-4 minutos por lado.",
+      "Para salsa: moler maní, chiles y ajo hasta pasta.",
+      "Mezclar con tamarindo, kecap manis y agua caliente hasta consistencia deseada.",
+      "Ajustar sal y dulzor.",
+      "Servir satay caliente con salsa de maní tibia.",
+      "Acompañar con ketupat (arroz comprimido) y acar (ensalada de vegetales)."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 476,
+    "popularityScore": 68,
+    "publishedAt": "2024-02-18",
+    "image": "/images/recipes/indonesia/satay-(brochetas-a-la-parrilla-con-salsa-de-maní).jpg",
+    "sources": [
+      "Cocina tradicional de Indonesia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-indo-004",
+    "dishName": "Gado-Gado (Ensalada Indonesia con Salsa de Maní)",
+    "slug": "gado-gado-(ensalada-indonesia-con-salsa-de-mani)",
+    "placeId": "id-jak",
+    "summary": "Ensalada tibia de vegetales blanqueados, tofu, tempeh y huevo duro con abundante salsa de maní. Plato vegetariano nutritivo y colorido.",
+    "history": "El gado-gado ('mezcla' en bahasa Indonesia) es plato popular javanés que combina influencias locales y chinas. Surgió como comida económica de vendedores callejeros. Hoy es símbolo de cocina vegetariana indonesia, servido en restaurantes y puestos callejeros.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "200g de repollo cortado grueso"
+      },
+      {
+        "text": "200g de judías verdes"
+      },
+      {
+        "text": "200g de brotes de soja"
+      },
+      {
+        "text": "2 zanahorias en rodajas"
+      },
+      {
+        "text": "200g de espinacas"
+      },
+      {
+        "text": "200g de tofu frito en cubos"
+      },
+      {
+        "text": "200g de tempeh frito en cubos"
+      },
+      {
+        "text": "4 huevos duros cortados"
+      },
+      {
+        "text": "2 papas cocidas en rodajas"
+      },
+      {
+        "text": "Para salsa: 200g de maní tostado"
+      },
+      {
+        "text": "3 chiles rojos"
+      },
+      {
+        "text": "2 dientes de ajo"
+      },
+      {
+        "text": "1 cucharada de azúcar de palma"
+      },
+      {
+        "text": "Jugo de 1 lima"
+      },
+      {
+        "text": "Salsa de soja dulce"
+      },
+      {
+        "text": "Agua caliente"
+      },
+      {
+        "text": "Krupuk para decorar"
+      }
+    ],
+    "steps": [
+      "Blanquear cada vegetal por separado en agua hirviendo con sal.",
+      "Espinacas y brotes solo 30 segundos, reservar.",
+      "Freír tofu y tempeh hasta dorados.",
+      "Preparar salsa: moler maní, chiles y ajo.",
+      "Mezclar con azúcar, lima, soja y agua caliente hasta cremosa.",
+      "Montar plato: disponer vegetales en secciones.",
+      "Añadir tofu, tempeh, huevo y papas.",
+      "Verter generosamente salsa de maní tibia.",
+      "Decorar con krupuk y cebollino frito.",
+      "Servir inmediatamente."
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 109,
+    "popularityScore": 64,
+    "publishedAt": "2024-01-28",
+    "image": "/images/recipes/indonesia/gado-gado-(ensalada-indonesia-con-salsa-de-maní).jpg",
+    "sources": [
+      "Cocina tradicional de Indonesia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-indo-005",
+    "dishName": "Soto Ayam (Sopa de Pollo Indonesía)",
+    "slug": "soto-ayam-(sopa-de-pollo-indonesia)",
+    "placeId": "id-jak",
+    "summary": "Sopa aromática de pollo con cúrcuma, jengibre y hierbas, servida con fideos de arroz, huevo y crackers. Comfort food indonesio reconfortante.",
+    "history": "El soto ayam existe en muchas variantes regionales en Indonesia. La versión de Java Oriental usa cúrcuma para el color amarillo característico. Es desayuno popular y comida curativa cuando alguien está enfermo. Cada familia tiene su receta secreta.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 pollo entero o 1kg de piezas de pollo"
+      },
+      {
+        "text": "2 litros de agua"
+      },
+      {
+        "text": "3 tallos de hierba limón machacados"
+      },
+      {
+        "text": "3 hojas de lima kaffir"
+      },
+      {
+        "text": "2 hojas de daun salam"
+      },
+      {
+        "text": "1 trozo de galangal machacado"
+      },
+      {
+        "text": "Pasta de especias: 6 chalotas, 4 dientes de ajo, 3cm de cúrcuma fresca, 2cm de jengibre, 1 cucharadita de pimienta blanca"
+      },
+      {
+        "text": "200g de fideos de arroz"
+      },
+      {
+        "text": "4 huevos duros"
+      },
+      {
+        "text": "2 papas medianas fritas en cubos"
+      },
+      {
+        "text": "Cebollino frito"
+      },
+      {
+        "text": "Apio fresco picado"
+      },
+      {
+        "text": "Krupuk"
+      },
+      {
+        "text": "Lima en gajos"
+      },
+      {
+        "text": "Sambal"
+      }
+    ],
+    "steps": [
+      "Hervir pollo en agua con sal 30 minutos hasta cocido.",
+      "Retirar pollo, desmenuzar carne, reservar.",
+      "Colar caldo, reservar 1.5 litros.",
+      "Moler todos los ingredientes de la pasta de especias.",
+      "Sofreír pasta de especias 5 minutos hasta fragante.",
+      "Añadir caldo reservado, llevar a ebullición.",
+      "Agregar hierba limón, hojas de lima, daun salam y galangal.",
+      "Cocinar 15 minutos para infusionar sabores.",
+      "Hidratar fideos de arroz según instrucciones.",
+      "Montar bowls: fideos, pollo desmenuzado, huevo, papas fritas.",
+      "Verter sopa hirviendo sobre ingredientes.",
+      "Decorar con cebollino frito, apio, krupuk y lima.",
+      "Servir con sambal aparte."
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 451,
+    "popularityScore": 94,
+    "publishedAt": "2024-05-25",
+    "image": "/images/recipes/indonesia/soto-ayam-(sopa-de-pollo-indonesía).jpg",
+    "sources": [
+      "Cocina tradicional de Indonesia"
+    ],
+    "translations": {}
+  }
+]

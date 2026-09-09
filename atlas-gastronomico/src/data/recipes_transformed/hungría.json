@@ -1,0 +1,602 @@
+[
+  {
+    "id": "r-hu-001",
+    "dishName": "Goulash",
+    "slug": "goulash",
+    "placeId": "hu-bud",
+    "summary": "Guiso húngaro de carne con pimentón, vegetales y pasta csipetke.",
+    "history": "Plato nacional húngaro desde el siglo IX. Originalmente preparado por pastores magiares. El pimentón llegó en el siglo XVI y lo transformó.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "800g carne de res"
+      },
+      {
+        "text": "2 cebollas grandes"
+      },
+      {
+        "text": "3 cucharadas pimentón dulce"
+      },
+      {
+        "text": "2 zanahorias"
+      },
+      {
+        "text": "2 papas"
+      },
+      {
+        "text": "1 pimiento verde"
+      },
+      {
+        "text": "2 tomates"
+      },
+      {
+        "text": "Caldo de carne"
+      },
+      {
+        "text": "Csipetke (pasta pequeña)"
+      }
+    ],
+    "steps": [
+      "Cortar carne en cubos",
+      "Sofreír cebolla hasta dorar",
+      "Añadir pimentón y mezclar rápido",
+      "Agregar carne y sellar",
+      "Añadir vegetales picados",
+      "Cocinar a fuego lento 2.5 horas",
+      "Agregar csipetke los últimos 15 minutos"
+    ],
+    "ratingAvg": 4.3,
+    "ratingCount": 199,
+    "popularityScore": 78,
+    "publishedAt": "2024-03-14",
+    "image": "/images/recipes/hungría/goulash.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-hu-002",
+    "dishName": "Lángos",
+    "slug": "langos",
+    "placeId": "hu-bud",
+    "summary": "Pan frito húngaro cubierto de ajo, crema agria y queso.",
+    "history": "Comida callejera húngara desde la Edad Media. Originalmente pan de los pobres, hoy es el snack más popular en mercados y festivales.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 120,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g harina"
+      },
+      {
+        "text": "250ml leche tibia"
+      },
+      {
+        "text": "30g levadura fresca"
+      },
+      {
+        "text": "1 cucharadita azúcar"
+      },
+      {
+        "text": "Sal"
+      },
+      {
+        "text": "Aceite para freír"
+      },
+      {
+        "text": "Crema agria"
+      },
+      {
+        "text": "Queso rallado"
+      },
+      {
+        "text": "Ajo machacado"
+      }
+    ],
+    "steps": [
+      "Activar levadura en leche con azúcar",
+      "Mezclar ingredientes y amasar",
+      "Dejar levar 1 hora",
+      "Formar discos planos con las manos",
+      "Freír en aceite abundante",
+      "Untar con ajo",
+      "Cubrir con crema agria y queso"
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 347,
+    "popularityScore": 55,
+    "publishedAt": "2024-01-17",
+    "image": "/images/recipes/hungría/lángos.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-hu-003",
+    "dishName": "Chicken Paprikash",
+    "slug": "chicken-paprikash",
+    "placeId": "hu-bud",
+    "summary": "Pollo guisado con pimentón y crema agria, servido con nokedli.",
+    "history": "Plato familiar húngaro clásico. La combinación de pimentón y crema agria es característica de la cocina magiar.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 pollo entero en piezas"
+      },
+      {
+        "text": "2 cebollas"
+      },
+      {
+        "text": "3 cucharadas pimentón"
+      },
+      {
+        "text": "200ml crema agria"
+      },
+      {
+        "text": "Harina"
+      },
+      {
+        "text": "Manteca de cerdo"
+      },
+      {
+        "text": "Caldo"
+      },
+      {
+        "text": "Nokedli (spaetzle húngaro)"
+      }
+    ],
+    "steps": [
+      "Dorar pollo en manteca",
+      "Sofreír cebolla picada",
+      "Añadir pimentón",
+      "Cocinar con caldo 45 minutos",
+      "Mezclar crema con harina",
+      "Espesar la salsa",
+      "Servir con nokedli"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 106,
+    "popularityScore": 60,
+    "publishedAt": "2024-06-25",
+    "image": "/images/recipes/hungría/chicken-paprikash.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-hu-004",
+    "dishName": "Dobos Torta",
+    "slug": "dobos-torta",
+    "placeId": "hu-bud",
+    "summary": "Pastel húngaro de múltiples capas con chocolate y caramelo.",
+    "history": "Creado en 1885 por József Dobos para la Exposición Nacional. Símbolo de la repostería húngara, receta guardada secretamente por décadas.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 120,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Para 6 capas: 18 huevos"
+      },
+      {
+        "text": "180g harina"
+      },
+      {
+        "text": "180g azúcar"
+      },
+      {
+        "text": "Relleno: 250g chocolate"
+      },
+      {
+        "text": "250g mantequilla"
+      },
+      {
+        "text": "250g azúcar"
+      },
+      {
+        "text": "6 yemas"
+      },
+      {
+        "text": "Glaseado: caramelo duro"
+      }
+    ],
+    "steps": [
+      "Batir huevos con azúcar",
+      "Incorporar harina suavemente",
+      "Hornear 6 capas delgadas",
+      "Preparar crema de chocolate",
+      "Rellenar entre capas",
+      "Cubrir con glaseado de caramelo",
+      "Cortar en triángulos"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 73,
+    "popularityScore": 94,
+    "publishedAt": "2024-06-28",
+    "image": "/images/recipes/hungría/dobos-torta.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-hu-005",
+    "dishName": "Halászlé",
+    "slug": "halaszle",
+    "placeId": "hu-bud",
+    "summary": "Sopa picante de pescado del Danubio con mucho pimentón.",
+    "history": "Plato tradicional de pescadores del río Danubio. Cada ciudad ribereña tiene su variante. Szeged y Baja compiten por la mejor receta.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg pescado mixto (carpa, lucio)"
+      },
+      {
+        "text": "3 cebollas"
+      },
+      {
+        "text": "5 cucharadas pimentón picante"
+      },
+      {
+        "text": "2 tomates"
+      },
+      {
+        "text": "2 pimientos verdes"
+      },
+      {
+        "text": "Agua"
+      },
+      {
+        "text": "Sal"
+      },
+      {
+        "text": "Fideos de huevo"
+      }
+    ],
+    "steps": [
+      "Limpiar y cortar pescado",
+      "Hacer caldo con cabezas y espinas",
+      "Sofreír cebolla con pimentón",
+      "Añadir al caldo colado",
+      "Agregar vegetales",
+      "Cocinar pescado en la sopa",
+      "Servir con fideos"
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 295,
+    "popularityScore": 57,
+    "publishedAt": "2024-03-07",
+    "image": "/images/recipes/hungría/halászlé.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-hu-006",
+    "dishName": "Töltött Káposzta",
+    "slug": "töltött-kaposzta",
+    "placeId": "hu-bud",
+    "summary": "Hojas de repollo rellenas de carne y arroz en salsa de pimentón.",
+    "history": "Plato festivo húngaro de Navidad y bodas. Versión local del plato balcánico, con el toque único del pimentón húngaro.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 repollo grande encurtido"
+      },
+      {
+        "text": "500g carne molida mixta"
+      },
+      {
+        "text": "1 taza arroz"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "Pimentón dulce y picante"
+      },
+      {
+        "text": "Tocino ahumado"
+      },
+      {
+        "text": "Costillas de cerdo"
+      },
+      {
+        "text": "Crema agria"
+      }
+    ],
+    "steps": [
+      "Separar hojas de repollo",
+      "Mezclar carne, arroz y especias",
+      "Rellenar y enrollar hojas",
+      "Colocar en olla con tocino",
+      "Añadir costillas para sabor",
+      "Cocinar 2 horas a fuego lento",
+      "Servir con crema agria"
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 51,
+    "popularityScore": 85,
+    "publishedAt": "2024-10-07",
+    "image": "/images/recipes/hungría/töltött-káposzta.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-hu-007",
+    "dishName": "Kürtőskalács",
+    "slug": "kürtőskalacs",
+    "placeId": "hu-bud",
+    "summary": "Pastel chimenea espiral cubierto de azúcar caramelizado.",
+    "history": "Dulce húngaro-transilvano del siglo XVIII. Se hornea sobre un cilindro giratorio. Popular en mercados navideños de toda Europa Central.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 150,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g harina"
+      },
+      {
+        "text": "250ml leche"
+      },
+      {
+        "text": "60g levadura"
+      },
+      {
+        "text": "100g azúcar"
+      },
+      {
+        "text": "100g mantequilla"
+      },
+      {
+        "text": "4 yemas"
+      },
+      {
+        "text": "Azúcar para cubrir"
+      },
+      {
+        "text": "Canela opcional"
+      }
+    ],
+    "steps": [
+      "Preparar masa brioche",
+      "Dejar levar 1 hora",
+      "Estirar en tiras largas",
+      "Enrollar en cilindros metálicos",
+      "Hornear girando constantemente",
+      "Rodar en azúcar caliente",
+      "Servir tibio"
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 260,
+    "popularityScore": 50,
+    "publishedAt": "2024-10-18",
+    "image": "/images/recipes/hungría/kürtőskalács.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-hu-008",
+    "dishName": "Somlói Galuska",
+    "slug": "somloi-galuska",
+    "placeId": "hu-bud",
+    "summary": "Postre húngaro de crepes con chocolate, nueces y ron.",
+    "history": "Creado en 1958 por el chef Károly Gollerich en el restaurante Somló. Uno de los postres húngaros más famosos internacionalmente.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Para crepes: 3 huevos, 200g harina, 400ml leche"
+      },
+      {
+        "text": "Relleno: 200g chocolate"
+      },
+      {
+        "text": "200g nueces molidas"
+      },
+      {
+        "text": "100g azúcar"
+      },
+      {
+        "text": "Ron"
+      },
+      {
+        "text": "Crema batida"
+      },
+      {
+        "text": "Salsa de chocolate"
+      }
+    ],
+    "steps": [
+      "Hacer crepes delgados",
+      "Mezclar nueces con chocolate y ron",
+      "Rellenar crepes y enrollar",
+      "Cortar en porciones",
+      "Disponer en copa",
+      "Cubrir con crema batida",
+      "Bañar con salsa de chocolate"
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 180,
+    "popularityScore": 55,
+    "publishedAt": "2024-05-07",
+    "image": "/images/recipes/hungría/somlói-galuska.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-hu-009",
+    "dishName": "Hideg Meleggyümölcsleves",
+    "slug": "hideg-meleggyümölcsleves",
+    "placeId": "hu-bud",
+    "summary": "Sopa fría dulce de frutas rojas con crema agria.",
+    "history": "Sopa refrescante de verano húngara. Tradicionalmente se sirve como primer plato o postre en comidas calurosas.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g frutas rojas mixtas"
+      },
+      {
+        "text": "500ml agua"
+      },
+      {
+        "text": "100g azúcar"
+      },
+      {
+        "text": "Vino blanco dulce"
+      },
+      {
+        "text": "Canela"
+      },
+      {
+        "text": "Clavo"
+      },
+      {
+        "text": "Crema agria"
+      },
+      {
+        "text": "Menta fresca"
+      }
+    ],
+    "steps": [
+      "Cocer frutas con agua y azúcar",
+      "Añadir especias",
+      "Agregar vino",
+      "Enfriar completamente",
+      "Servir muy frío",
+      "Añadir crema agria",
+      "Decorar con menta"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 386,
+    "popularityScore": 87,
+    "publishedAt": "2024-01-27",
+    "image": "/images/recipes/hungría/hideg-meleggyümölcsleves.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-hu-010",
+    "dishName": "Hortobágyi Hús",
+    "slug": "hortobagyi-hus",
+    "placeId": "hu-bud",
+    "summary": "Crepe salado relleno de carne guisada con salsa de pimentón.",
+    "history": "Plato creado en 1954 para el Concurso de Cocineros de Hungría. Nombrado por la llanura de Hortobágy. Ejemplo de cocina húngara moderna.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Para crepes: 4 huevos, 200g harina, 400ml leche"
+      },
+      {
+        "text": "Relleno: 400g ternera"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "Pimentón"
+      },
+      {
+        "text": "Champiñones"
+      },
+      {
+        "text": "Crema agria"
+      },
+      {
+        "text": "Queso para gratinar"
+      }
+    ],
+    "steps": [
+      "Hacer crepes salados",
+      "Guisar carne con pimentón",
+      "Rellenar crepes con carne",
+      "Enrollar y colocar en molde",
+      "Cubrir con salsa de crema",
+      "Espolvorear queso",
+      "Gratinar en horno"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 325,
+    "popularityScore": 71,
+    "publishedAt": "2024-07-18",
+    "image": "/images/recipes/hungría/hortobágyi-hús.jpg",
+    "sources": [
+      "Cocina tradicional de Hungría"
+    ],
+    "translations": {}
+  }
+]

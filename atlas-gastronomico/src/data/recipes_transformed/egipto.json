@@ -1,0 +1,608 @@
+[
+  {
+    "id": "r-egypt-001",
+    "dishName": "Koshary",
+    "slug": "koshary",
+    "placeId": "eg-cai",
+    "summary": "El plato nacional egipcio: una mezcla única de arroz, pasta, lentejas y garbanzos, cubierto con salsa de tomate picante y cebollas fritas.",
+    "history": "El koshary se originó en el siglo XIX como comida para trabajadores. Hoy es el street food más popular de Egipto, encontrado en cada esquina del Cairo.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 tazas de arroz blanco"
+      },
+      {
+        "text": "1 taza de pasta pequeña (macarrones)"
+      },
+      {
+        "text": "1 taza de lentejas verdes"
+      },
+      {
+        "text": "1/2 taza de garbanzos cocidos"
+      },
+      {
+        "text": "Salsa de tomate: 4 tomates, ajo, vinagre, especias"
+      },
+      {
+        "text": "Cebollas fritas crujientes"
+      },
+      {
+        "text": "Aceite vegetal"
+      },
+      {
+        "text": "Sal, pimienta, comino"
+      }
+    ],
+    "steps": [
+      "Cocinar lentejas hasta tiernas pero firmes.",
+      "Hervir pasta hasta al dente.",
+      "Cocinar arroz blanco separado.",
+      "Preparar salsa de tomate con ajo, vinagre y especias.",
+      "Freír cebollas en rodajas hasta dorar y crujir.",
+      "Armar capas: arroz, pasta, lentejas, garbanzos.",
+      "Cubrir con salsa de tomate caliente y cebollas fritas."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 189,
+    "popularityScore": 53,
+    "publishedAt": "2024-06-15",
+    "image": "/images/recipes/egipto/koshary.jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-egypt-002",
+    "dishName": "Ful Medames",
+    "slug": "ful-medames",
+    "placeId": "eg-cai",
+    "summary": "Guiso de habas cocidas lentamente, condimentado con aceite de oliva, limón, ajo y comino. El desayuno tradicional egipcio.",
+    "history": "El ful medames se consume desde la época de los faraones. Las tumbas egipcias muestran evidencia de su preparación hace más de 5000 años.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 tazas de habas secas"
+      },
+      {
+        "text": "1/4 taza de aceite de oliva"
+      },
+      {
+        "text": "Jugo de 2 limones"
+      },
+      {
+        "text": "4 dientes de ajo machacados"
+      },
+      {
+        "text": "Comino molido"
+      },
+      {
+        "text": "Perejil fresco picado"
+      },
+      {
+        "text": "Tomates en cubos"
+      },
+      {
+        "text": "Cebolla picada"
+      },
+      {
+        "text": "Sal y pimienta"
+      }
+    ],
+    "steps": [
+      "Remojar habas toda la noche.",
+      "Cocinar a fuego muy lento 6-8 horas hasta deshacerse.",
+      "Machacar parcialmente con tenedor.",
+      "Mezclar con aceite de oliva, limón y ajo.",
+      "Condimentar con comino, sal y pimienta.",
+      "Servir caliente decorado con perejil, tomates y cebolla.",
+      "Acompañar con pan pita o baladi."
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 476,
+    "popularityScore": 50,
+    "publishedAt": "2024-10-25",
+    "image": "/images/recipes/egipto/ful-medames.jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-egypt-003",
+    "dishName": "Molokhia",
+    "slug": "molokhia",
+    "placeId": "eg-cai",
+    "summary": "Sopa verde viscosa hecha de hojas de yute molidas, servida con pollo o conejo y arroz. Textura única y sabor distintivo.",
+    "history": "La molokhia era conocida como 'comida de los faraones'. Según la leyenda, fue preparada primero para un califa enfermo que recuperó la salud al comerla.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de hojas de molokhia frescas o congeladas"
+      },
+      {
+        "text": "1 pollo entero cortado"
+      },
+      {
+        "text": "8 dientes de ajo"
+      },
+      {
+        "text": "1 cucharadita de cilantro molido"
+      },
+      {
+        "text": "Caldo de pollo"
+      },
+      {
+        "text": "Arroz blanco"
+      },
+      {
+        "text": "Limón"
+      },
+      {
+        "text": "Sal y pimienta"
+      }
+    ],
+    "steps": [
+      "Hervir pollo con especias hasta cocido. Reservar caldo.",
+      "Picar molokhia muy finamente o usar congelada.",
+      "Machacar ajo con cilantro hasta formar pasta.",
+      "Sofreír ajo en mantequilla hasta dorar.",
+      "Agregar molokhia al caldo hirviendo.",
+      "Cocinar 5 minutos sin dejar de revolver.",
+      "Añadir sofrito de ajo al final.",
+      "Servir con pollo y arroz aparte."
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 362,
+    "popularityScore": 96,
+    "publishedAt": "2024-10-10",
+    "image": "/images/recipes/egipto/molokhia.jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-egypt-004",
+    "dishName": "Ta'ameya (Falafel Egipcio)",
+    "slug": "ta'ameya-(falafel-egipcio)",
+    "placeId": "eg-cai",
+    "summary": "Versión egipcia del falafel hecha con habas en lugar de garbanzos. Más verde y herbácea que su contraparte levantina.",
+    "history": "Los egipcios reclaman el origen del falafel, llamándolo ta'ameya. Se ha consumido desde la época copta como proteína durante ayunos.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 25,
+    "cookTimeMin": 30,
+    "totalTimeMin": 55,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 tazas de habas secas remojadas"
+      },
+      {
+        "text": "1 taza de perejil fresco"
+      },
+      {
+        "text": "1 taza de cilantro fresco"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "6 dientes de ajo"
+      },
+      {
+        "text": "1 cucharadita de comino"
+      },
+      {
+        "text": "1 cucharadita de cilantro molido"
+      },
+      {
+        "text": "Bicarbonato"
+      },
+      {
+        "text": "Aceite para freír"
+      },
+      {
+        "text": "Sal y pimienta"
+      }
+    ],
+    "steps": [
+      "Escurrir bien las habas remojadas toda la noche.",
+      "Procesar habas con hierbas, cebolla y ajo hasta pasta gruesa.",
+      "Agregar especias, bicarbonato, sal y pimienta.",
+      "Refrigerar masa 1 hora.",
+      "Formar bolas o hamburguesas pequeñas.",
+      "Freír en aceite caliente hasta dorar oscuro.",
+      "Servir en pan pita con vegetales y tahini."
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 358,
+    "popularityScore": 50,
+    "publishedAt": "2024-06-26",
+    "image": "/images/recipes/egipto/ta'ameya-(falafel-egipcio).jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-egypt-005",
+    "dishName": "Mahshi",
+    "slug": "mahshi",
+    "placeId": "eg-cai",
+    "summary": "Vegetales rellenos (calabacitas, berenjenas, pimientos, hojas de parra) con arroz condimentado y carne molida.",
+    "history": "El mahshi es parte fundamental de la cocina egipcia desde siglos. Cada familia tiene su receta especial transmitida por generaciones.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Variedad de vegetales para rellenar"
+      },
+      {
+        "text": "2 tazas de arroz"
+      },
+      {
+        "text": "300g de carne molida"
+      },
+      {
+        "text": "Cebolla picada"
+      },
+      {
+        "text": "Perejil y cilantro frescos"
+      },
+      {
+        "text": "Tomate concentrado"
+      },
+      {
+        "text": "Caldo de tomate"
+      },
+      {
+        "text": "Especias: canela, nuez moscada, pimienta"
+      },
+      {
+        "text": "Aceite de oliva"
+      }
+    ],
+    "steps": [
+      "Vaciar cuidadosamente los vegetales seleccionados.",
+      "Mezclar arroz crudo con carne, hierbas y especias.",
+      "Rellenar vegetales 3/4 de su capacidad (el arroz crece).",
+      "Disponer en olla grande apretadamente.",
+      "Cubrir con caldo de tomate sazonado.",
+      "Cocinar a fuego lento 1.5-2 horas.",
+      "Servir tibio con yogurt."
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 411,
+    "popularityScore": 68,
+    "publishedAt": "2024-12-08",
+    "image": "/images/recipes/egipto/mahshi.jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-egypt-006",
+    "dishName": "Hamam Mahshi",
+    "slug": "hamam-mahshi",
+    "placeId": "eg-cai",
+    "summary": "Palomas rellenas de arroz o freekeh (trigo verde), asadas hasta quedar crujientes. Un manjar especial para ocasiones.",
+    "history": "Las palomas se han criado en Egipto desde tiempos faraónicos. El hamam mahshi es considerado un plato festivo y de celebración.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 palomas limpias"
+      },
+      {
+        "text": "1 taza de freekeh o arroz"
+      },
+      {
+        "text": "Cebolla picada"
+      },
+      {
+        "text": "Especias: canela, pimienta, cardamomo"
+      },
+      {
+        "text": "Mantequilla derretida"
+      },
+      {
+        "text": "Caldo de pollo"
+      },
+      {
+        "text": "Sal"
+      },
+      {
+        "text": "Hierbas mixtas"
+      }
+    ],
+    "steps": [
+      "Lavar y secar bien las palomas.",
+      "Cocinar freekeh parcialmente con cebolla y especias.",
+      "Rellenar cavidad de cada paloma generosamente.",
+      "Cosir abertura con hilo de cocina.",
+      "Untar con mantequilla derretida.",
+      "Asar en horno a 200°C por 1 hora, bañando regularmente.",
+      "Servir con arroz adicional y ensalada."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 422,
+    "popularityScore": 60,
+    "publishedAt": "2024-10-17",
+    "image": "/images/recipes/egipto/hamam-mahshi.jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-egypt-007",
+    "dishName": "Fatta",
+    "slug": "fatta",
+    "placeId": "eg-cai",
+    "summary": "Plato festivo de capas: pan crujiente, arroz, carne de cordero, cubierto con salsa de tomate y vinagre-ajo.",
+    "history": "La fatta es tradicional del Eid al-Adha y otras celebraciones religiosas. Su nombre viene de 'fat' (migas de pan).",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 40,
+    "cookTimeMin": 30,
+    "totalTimeMin": 70,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 kg de cordero o res"
+      },
+      {
+        "text": "3 tazas de arroz blanco"
+      },
+      {
+        "text": "Pan baladi o pita tostado"
+      },
+      {
+        "text": "Salsa de tomate con ajo"
+      },
+      {
+        "text": "Vinagre y ajo machacado"
+      },
+      {
+        "text": "Garbanzos cocidos"
+      },
+      {
+        "text": "Mantequilla clarificada"
+      },
+      {
+        "text": "Especias árabes"
+      }
+    ],
+    "steps": [
+      "Cocinar carne con especias hasta muy tierna.",
+      "Preparar arroz blanco esponjoso.",
+      "Tostar pan hasta crujir y romper en trozos.",
+      "Colocar pan en fuente grande.",
+      "Mojar ligeramente con caldo de carne.",
+      "Capas: pan, arroz, carne desmenuzada, garbanzos.",
+      "Verter salsa de tomate y mezcla de vinagre-ajo.",
+      "Servir inmediatamente."
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 416,
+    "popularityScore": 77,
+    "publishedAt": "2024-10-24",
+    "image": "/images/recipes/egipto/fatta.jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-egypt-008",
+    "dishName": "Basbousa",
+    "slug": "basbousa",
+    "placeId": "eg-cai",
+    "summary": "Pastel dulce de sémola empapado en almíbar, decorado con almendras. Esponjoso y muy dulce.",
+    "history": "La basbousa es un postre popular en todo Medio Oriente. En Egipto se prepara especialmente durante el Ramadán.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 tazas de sémola fina"
+      },
+      {
+        "text": "1 taza de yogurt"
+      },
+      {
+        "text": "1 taza de azúcar"
+      },
+      {
+        "text": "1/2 taza de mantequilla derretida"
+      },
+      {
+        "text": "1 cucharadita de polvo para hornear"
+      },
+      {
+        "text": "Almendras fileteadas"
+      },
+      {
+        "text": "Almíbar: 2 tazas azúcar, 1 taza agua, limón, agua de rosas"
+      }
+    ],
+    "steps": [
+      "Mezclar sémola, yogurt, azúcar y mantequilla.",
+      "Agregar polvo para hornear.",
+      "Verter en molde engrasado.",
+      "Decorar con almendras presionando ligeramente.",
+      "Hornear a 180°C por 30-40 minutos hasta dorar.",
+      "Preparar almíbar hirviendo ingredientes 10 minutos.",
+      "Verter almíbar frío sobre pastel caliente.",
+      "Dejar absorber completamente antes de cortar."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 252,
+    "popularityScore": 54,
+    "publishedAt": "2024-01-09",
+    "image": "/images/recipes/egipto/basbousa.jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-egypt-009",
+    "dishName": "Umm Ali",
+    "slug": "umm-ali",
+    "placeId": "eg-cai",
+    "summary": "Postre cremoso tipo pudín de pan, hecho con hojaldre, leche, crema y frutos secos. Rico y reconfortante.",
+    "history": "Según la leyenda, Umm Ali fue una reina mameluca que ordenó crear este postre para celebrar una victoria. Hoy es el postre egipcio más famoso.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 hojas de hojaldre o pan"
+      },
+      {
+        "text": "1 litro de leche entera"
+      },
+      {
+        "text": "2 tazas de crema líquida"
+      },
+      {
+        "text": "1/2 taza de azúcar"
+      },
+      {
+        "text": "Pasas, pistachos, almendras, nueces"
+      },
+      {
+        "text": "Coco rallado"
+      },
+      {
+        "text": "Vainilla"
+      },
+      {
+        "text": "Canela en polvo"
+      }
+    ],
+    "steps": [
+      "Hornear hojaldre hasta dorar y romper en trozos.",
+      "Colocar en fuente para horno resistente.",
+      "Calentar leche con azúcar y vainilla.",
+      "Verter leche caliente sobre el hojaldre.",
+      "Agregar crema y frutos secos.",
+      "Hornear a 200°C por 20-25 minutos hasta dorar superficie.",
+      "Espolvorear canela y servir tibio."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 305,
+    "popularityScore": 54,
+    "publishedAt": "2024-11-28",
+    "image": "/images/recipes/egipto/umm-ali.jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-egypt-010",
+    "dishName": "Karkade",
+    "slug": "karkade",
+    "placeId": "eg-cai",
+    "summary": "Infusión fría o caliente de flor de jamaica, endulzada y refrescante. Bebida nacional de Egipto.",
+    "history": "El karkade se consume en Egipto desde la época faraónica. Los faraones lo bebían por sus propiedades refrescantes y medicinales.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 40,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 tazas de flores de jamaica secas"
+      },
+      {
+        "text": "8 tazas de agua"
+      },
+      {
+        "text": "Azúcar al gusto"
+      },
+      {
+        "text": "Jugo de limón (opcional)"
+      },
+      {
+        "text": "Menta fresca"
+      },
+      {
+        "text": "Hielo"
+      }
+    ],
+    "steps": [
+      "Hervir agua y agregar flores de jamaica.",
+      "Dejar hervir 5 minutos.",
+      "Apagar fuego y dejar infusionar 30 minutos.",
+      "Colar y endulzar al gusto.",
+      "Enfriar completamente.",
+      "Servir con mucho hielo y menta fresca.",
+      "Opcional: agregar jugo de limón."
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 247,
+    "popularityScore": 62,
+    "publishedAt": "2024-07-01",
+    "image": "/images/recipes/egipto/karkade.jpg",
+    "sources": [
+      "Cocina tradicional de Egipto"
+    ],
+    "translations": {}
+  }
+]

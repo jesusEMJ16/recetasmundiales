@@ -1,0 +1,274 @@
+[
+  {
+    "id": "r-nz-001",
+    "dishName": "Hangi",
+    "slug": "hangi",
+    "placeId": "nz-auc",
+    "summary": "Carne y verduras cocidas lentamente en horno subterráneo geotérmico.",
+    "history": "Método de cocción maorí tradicional usado por siglos antes de la llegada europea. Aún se prepara para ocasiones especiales.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2kg de cordero en trozos grandes"
+      },
+      {
+        "text": "1kg de papas kumara (camote)"
+      },
+      {
+        "text": "1kg de papas normales"
+      },
+      {
+        "text": "500g de zanahorias"
+      },
+      {
+        "text": "1 repollo cortado en cuartos"
+      },
+      {
+        "text": "Hojas de plátano o aluminio para envolver"
+      },
+      {
+        "text": "Piedras volcánicas calientes (tradicional)"
+      }
+    ],
+    "steps": [
+      "Cavar hoyo en tierra de 1 metro de profundidad",
+      "Calentar piedras volcánicas hasta rojo vivo",
+      "Colocar piedras en fondo del hoyo",
+      "Envolver carnes y verduras en hojas",
+      "Disponer sobre piedras en capas",
+      "Cubrir con tierra para sellar calor",
+      "Cocinar 3-4 horas lentamente",
+      "Desenterrar y servir inmediatamente"
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 334,
+    "popularityScore": 61,
+    "publishedAt": "2024-05-08",
+    "image": "/images/recipes/nueva-zelanda/hangi.jpg",
+    "sources": [
+      "Cocina tradicional de Nueva Zelanda"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-nz-002",
+    "dishName": "Pavlova",
+    "slug": "pavlova",
+    "placeId": "nz-auc",
+    "summary": "Merengue crujiente por fuera, suave por dentro, con crema y frutas frescas.",
+    "history": "Creado en honor a la bailarina rusa Anna Pavlova en los años 1920. NZ y Australia disputan su origen.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "6 claras de huevo a temperatura ambiente"
+      },
+      {
+        "text": "350g de azúcar blanca"
+      },
+      {
+        "text": "2 cucharaditas de vinagre blanco"
+      },
+      {
+        "text": "2 cucharaditas de maicena"
+      },
+      {
+        "text": "1 cucharadita de extracto de vainilla"
+      },
+      {
+        "text": "500ml de crema para batir"
+      },
+      {
+        "text": "Frutas frescas: kiwi, fresas, maracuyá, frambuesas"
+      }
+    ],
+    "steps": [
+      "Precalentar horno a 150°C, preparar molde con papel manteca",
+      "Batir claras hasta punto de nieve firme",
+      "Agregar azúcar gradualmente hasta brillo intenso",
+      "Incorporar vinagre, maicena y vainilla suavemente",
+      "Formar círculo en bandeja, crear depresión central",
+      "Bajar temperatura a 120°C y hornear 1 hora",
+      "Apagar horno y dejar enfriar dentro con puerta entreabierta",
+      "Cubrir con crema batida y frutas al servir"
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 191,
+    "popularityScore": 88,
+    "publishedAt": "2024-12-17",
+    "image": "/images/recipes/nueva-zelanda/pavlova.jpg",
+    "sources": [
+      "Cocina tradicional de Nueva Zelanda"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-nz-003",
+    "dishName": "Green Lipped Mussels",
+    "slug": "green-lipped-mussels",
+    "placeId": "nz-auc",
+    "summary": "Mejillones de labio verde al vapor con vino blanco y hierbas.",
+    "history": "Especie endémica de NZ cultivada comercialmente desde los años 1970. Considerados de los mejores del mundo.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2kg de mejillones de labio verde frescos"
+      },
+      {
+        "text": "250ml de vino blanco Sauvignon Blanc"
+      },
+      {
+        "text": "4 chalotas picadas finamente"
+      },
+      {
+        "text": "3 dientes de ajo picados"
+      },
+      {
+        "text": "50g de mantequilla"
+      },
+      {
+        "text": "Perejil fresco picado"
+      },
+      {
+        "text": "Pan crusty para acompañar"
+      }
+    ],
+    "steps": [
+      "Limpiar mejillones, retirar barbas y descartar abiertos",
+      "Derretir mantequilla en olla grande",
+      "Sofreír chalotas y ajo hasta fragantes",
+      "Añadir vino blanco y llevar a ebullición",
+      "Agregar mejillones y tapar",
+      "Cocinar 5-7 minutos hasta que abran",
+      "Descartar mejillones que no abrieron",
+      "Servir con perejil y pan para mojar el caldo"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 382,
+    "popularityScore": 82,
+    "publishedAt": "2024-06-05",
+    "image": "/images/recipes/nueva-zelanda/green-lipped-mussels.jpg",
+    "sources": [
+      "Cocina tradicional de Nueva Zelanda"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-nz-004",
+    "dishName": "Lamb Roast with Mint Sauce",
+    "slug": "lamb-roast-with-mint-sauce",
+    "placeId": "nz-auc",
+    "summary": "Pierna de cordero asada con salsa de menta fresca.",
+    "history": "NZ es mayor exportador mundial de cordero. El asado dominical es tradición familiar desde la colonización británica.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 pierna de cordero entera (aprox. 2.5kg)"
+      },
+      {
+        "text": "6 ramas de romero fresco"
+      },
+      {
+        "text": "6 dientes de ajo en láminas"
+      },
+      {
+        "text": "Aceite de oliva virgen extra"
+      },
+      {
+        "text": "Sal marina y pimienta negra"
+      },
+      {
+        "text": "Para salsa de menta: 100g de hojas de menta, 2 cucharadas de azúcar, 100ml de vinagre de vino blanco"
+      }
+    ],
+    "steps": [
+      "Hacer incisiones en el cordero e insertar ajo y romero",
+      "Masajear con aceite, sal y pimienta",
+      "Dejar a temperatura ambiente 1 hora",
+      "Asar a 200°C por 20 min, luego bajar a 160°C por 90 min",
+      "Para salsa: picar menta finamente, mezclar con azúcar y vinagre",
+      "Retirar cordero cuando termómetro marque 60°C interno",
+      "Reposar 20 minutos antes de tallar",
+      "Servir con salsa de menta y verduras asadas"
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 362,
+    "popularityScore": 58,
+    "publishedAt": "2024-02-22",
+    "image": "/images/recipes/nueva-zelanda/lamb-roast-with-mint-sauce.jpg",
+    "sources": [
+      "Cocina tradicional de Nueva Zelanda"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-nz-005",
+    "dishName": "Hokey Pokey Ice Cream",
+    "slug": "hokey-pokey-ice-cream",
+    "placeId": "nz-auc",
+    "summary": "Helado de vainilla con trozos de caramelo aireado.",
+    "history": "Sabor icónico neozelandés desde los años 1920. El nombre viene de una canción popular de la época.",
+    "originConfidence": "confirmed",
+    "servings": 10,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Para helado: 500ml de crema espesa, 400ml de leche condensada, 2 cucharaditas de extracto de vainilla"
+      },
+      {
+        "text": "Para hokey pokey: 100g de azúcar, 2 cucharadas de jarabe de maíz, 1 cucharadita de bicarbonato"
+      }
+    ],
+    "steps": [
+      "Batir crema hasta punto medio",
+      "Incorporar leche condensada y vainilla suavemente",
+      "Verter en molde y congelar 4 horas",
+      "Para caramelo: derretir azúcar con jarabe hasta dorar",
+      "Retirar del fuego y añadir bicarbonato rápidamente",
+      "Verter sobre superficie engrasada y dejar endurecer",
+      "Romper en trozos pequeños",
+      "Picar helado parcialmente congelado y mezclar con caramelo"
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 376,
+    "popularityScore": 56,
+    "publishedAt": "2024-01-31",
+    "image": "/images/recipes/nueva-zelanda/hokey-pokey-ice-cream.jpg",
+    "sources": [
+      "Cocina tradicional de Nueva Zelanda"
+    ],
+    "translations": {}
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "id": "us-001",
+    "slug": "hamburguesa-cl-sica-americana",
+    "dishName": "Hamburguesa Clásica Americana",
+    "summary": "Carne de res a la parrilla con queso americano, lechuga, tomate y salsa especial.",
+    "country": "Estados Unidos",
+    "cuisine": "estados-unidos",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "600g de carne de res molida (80/20)",
+      "4 panes de hamburguesa",
+      "4 lonchas de queso americano",
+      "Lechuga iceberg",
+      "2 tomates en rodajas",
+      "1 cebolla morada en rodajas",
+      "Pepinillos en vinagre",
+      "Ketchup, mostaza y mayonesa"
+    ],
+    "instructions": [
+      "Formar 4 patties ligeramente más grandes que el pan",
+      "Hacer un hoyo en el centro con el pulgar",
+      "Sazonar generosamente con sal y pimienta",
+      "Calentar parrilla o sartén a fuego alto",
+      "Cocinar 4-5 minutos por lado para término medio",
+      "Añadir queso los últimos 2 minutos",
+      "Tostar ligeramente los panes",
+      "Montar con verduras y salsas al gusto"
+    ],
+    "imagePath": "/images/recipes/estados-unidos/hamburguesa-cl-sica-americana.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "res",
+      "parrilla",
+      "clásico",
+      "rápido",
+      "americano"
+    ],
+    "seoTitle": "Hamburguesa Clásica Americana - Receta Auténtica de Estados-unidos",
+    "seoDescription": "Aprende a cocinar hamburguesa clásica americana, un plato tradicional de estados-unidos. Carne de res a la parrilla con queso americano, lechuga, tomate y salsa especial...."
+  },
+  {
+    "id": "us-002",
+    "slug": "mac-and-cheese",
+    "dishName": "Mac and Cheese",
+    "summary": "Pasta con queso cheddar fundido y gratinado.",
+    "country": "Estados Unidos",
+    "cuisine": "estados-unidos",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "500g de macarrones",
+      "60g de mantequilla",
+      "60g de harina",
+      "700ml de leche entera",
+      "400g de queso cheddar rallado",
+      "100g de queso gruyere rallado",
+      "Sal, pimienta y nuez moscada",
+      "Pan rallado para gratinar"
+    ],
+    "instructions": [
+      "Cocinar pasta según instrucciones, escurrir",
+      "Derretir mantequilla y añadir harina (roux)",
+      "Agregar leche gradualmente sin dejar de remover",
+      "Cocinar hasta espesar como bechamel",
+      "Incorporar quesos hasta fundir",
+      "Mezclar con pasta cocida",
+      "Transferir a molde y cubrir con pan rallado",
+      "Hornear 190°C por 25-30 minutos hasta dorar"
+    ],
+    "imagePath": "/images/recipes/estados-unidos/mac-and-cheese.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "pasta",
+      "queso",
+      "horno",
+      "confort",
+      "sureño"
+    ],
+    "seoTitle": "Mac and Cheese - Receta Auténtica de Estados-unidos",
+    "seoDescription": "Aprende a cocinar mac and cheese, un plato tradicional de estados-unidos. Pasta con queso cheddar fundido y gratinado...."
+  },
+  {
+    "id": "us-003",
+    "slug": "bbq-ribs",
+    "dishName": "BBQ Ribs",
+    "summary": "Costillas de cerdo ahumadas lentamente con salsa BBQ.",
+    "country": "Estados Unidos",
+    "cuisine": "estados-unidos",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "2kg de costillas de cerdo (baby back ribs)",
+      "Para dry rub: 2 cucharadas de pimentón, 1 de azúcar moreno, 1 de sal, ajo en polvo, cebolla en polvo, pimienta negra",
+      "200ml de salsa BBQ",
+      "Vinagre de manzana para rociar"
+    ],
+    "instructions": [
+      "Retirar membrana de las costillas",
+      "Aplicar dry rub generosamente por ambos lados",
+      "Refrigerar mínimo 4 horas o toda la noche",
+      "Precalentar ahumador o parrilla a 110°C",
+      "Ahumar 3-4 horas con madera de manzano o roble",
+      "Rociar con vinagre cada hora",
+      "Barnizar con salsa BBQ los últimos 30 minutos",
+      "Dejar reposar 15 minutos antes de cortar"
+    ],
+    "imagePath": "/images/recipes/estados-unidos/bbq-ribs.jpg",
+    "difficulty": "Alta",
+    "tags": [
+      "cerdo",
+      "costillas",
+      "ahumado",
+      "bbq",
+      "memphis"
+    ],
+    "seoTitle": "BBQ Ribs - Receta Auténtica de Estados-unidos",
+    "seoDescription": "Aprende a cocinar bbq ribs, un plato tradicional de estados-unidos. Costillas de cerdo ahumadas lentamente con salsa BBQ...."
+  },
+  {
+    "id": "us-004",
+    "slug": "clam-chowder",
+    "dishName": "Clam Chowder",
+    "summary": "Sopa cremosa de almejas, papas y bacon.",
+    "country": "Estados Unidos",
+    "cuisine": "estados-unidos",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "1kg de almejas frescas",
+      "4 tiras de bacon picado",
+      "1 cebolla picada",
+      "2 tallos de apio picados",
+      "3 papas en cubos",
+      "500ml de caldo de pescado",
+      "500ml de crema espesa",
+      "2 hojas de laurel, tomillo fresco"
+    ],
+    "instructions": [
+      "Cocinar almejas en agua hasta abrir, reservar líquido",
+      "Colar y picar almejas",
+      "Freír bacon hasta crujiente",
+      "Sofreír cebolla y apio en grasa de bacon",
+      "Añadir papas, caldo y líquido de almejas",
+      "Cocinar hasta papas tiernas (20 min)",
+      "Agregar crema, almejas y hierbas",
+      "Servir caliente con galletas saladas"
+    ],
+    "imagePath": "/images/recipes/estados-unidos/clam-chowder.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "almejas",
+      "sopa",
+      "crema",
+      "mariscos",
+      "boston"
+    ],
+    "seoTitle": "Clam Chowder - Receta Auténtica de Estados-unidos",
+    "seoDescription": "Aprende a cocinar clam chowder, un plato tradicional de estados-unidos. Sopa cremosa de almejas, papas y bacon...."
+  },
+  {
+    "id": "us-005",
+    "slug": "apple-pie",
+    "dishName": "Apple Pie",
+    "summary": "Pastel de manzana con masa quebrada y canela.",
+    "country": "Estados Unidos",
+    "cuisine": "estados-unidos",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "Para masa: 350g de harina, 200g de mantequilla fría, sal, agua helada",
+      "8 manzanas Granny Smith peladas y en rodajas",
+      "150g de azúcar moreno",
+      "2 cucharadas de harina",
+      "2 cucharaditas de canela",
+      "1 huevo batido para barnizar",
+      "Azúcar para espolvorear"
+    ],
+    "instructions": [
+      "Preparar masa quebrada y refrigerar 1 hora",
+      "Mezclar manzanas con azúcar, harina y canela",
+      "Extender mitad de masa en molde",
+      "Rellenar con mezcla de manzanas",
+      "Cubrir con otra capa de masa o hacer rejilla",
+      "Barnizar con huevo y espolvorear azúcar",
+      "Hornear 190°C por 50-55 minutos",
+      "Enfriar completamente antes de servir"
+    ],
+    "imagePath": "/images/recipes/estados-unidos/apple-pie.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "manzana",
+      "pastel",
+      "postre",
+      "canela",
+      "clásico"
+    ],
+    "seoTitle": "Apple Pie - Receta Auténtica de Estados-unidos",
+    "seoDescription": "Aprende a cocinar apple pie, un plato tradicional de estados-unidos. Pastel de manzana con masa quebrada y canela...."
+  }
+]

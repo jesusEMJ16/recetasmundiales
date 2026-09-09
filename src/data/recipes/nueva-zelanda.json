@@ -1,0 +1,211 @@
+[
+  {
+    "id": "nz-001",
+    "slug": "hangi",
+    "dishName": "Hangi",
+    "summary": "Carne y verduras cocidas lentamente en horno subterráneo geotérmico.",
+    "country": "Nueva Zelanda",
+    "cuisine": "nueva-zelanda",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 12,
+    "calories": 0,
+    "ingredients": [
+      "2kg de cordero en trozos grandes",
+      "1kg de papas kumara (camote)",
+      "1kg de papas normales",
+      "500g de zanahorias",
+      "1 repollo cortado en cuartos",
+      "Hojas de plátano o aluminio para envolver",
+      "Piedras volcánicas calientes (tradicional)"
+    ],
+    "instructions": [
+      "Cavar hoyo en tierra de 1 metro de profundidad",
+      "Calentar piedras volcánicas hasta rojo vivo",
+      "Colocar piedras en fondo del hoyo",
+      "Envolver carnes y verduras en hojas",
+      "Disponer sobre piedras en capas",
+      "Cubrir con tierra para sellar calor",
+      "Cocinar 3-4 horas lentamente",
+      "Desenterrar y servir inmediatamente"
+    ],
+    "imagePath": "/images/recipes/nueva-zelanda/hangi.jpg",
+    "difficulty": "Alta",
+    "tags": [
+      "cordero",
+      "horno subterráneo",
+      "maorí",
+      "tradicional",
+      "geotérmico"
+    ],
+    "seoTitle": "Hangi - Receta Auténtica de Nueva-zelanda",
+    "seoDescription": "Aprende a cocinar hangi, un plato tradicional de nueva-zelanda. Carne y verduras cocidas lentamente en horno subterráneo geotérmico...."
+  },
+  {
+    "id": "nz-002",
+    "slug": "pavlova",
+    "dishName": "Pavlova",
+    "summary": "Merengue crujiente por fuera, suave por dentro, con crema y frutas frescas.",
+    "country": "Nueva Zelanda",
+    "cuisine": "nueva-zelanda",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "6 claras de huevo a temperatura ambiente",
+      "350g de azúcar blanca",
+      "2 cucharaditas de vinagre blanco",
+      "2 cucharaditas de maicena",
+      "1 cucharadita de extracto de vainilla",
+      "500ml de crema para batir",
+      "Frutas frescas: kiwi, fresas, maracuyá, frambuesas"
+    ],
+    "instructions": [
+      "Precalentar horno a 150°C, preparar molde con papel manteca",
+      "Batir claras hasta punto de nieve firme",
+      "Agregar azúcar gradualmente hasta brillo intenso",
+      "Incorporar vinagre, maicena y vainilla suavemente",
+      "Formar círculo en bandeja, crear depresión central",
+      "Bajar temperatura a 120°C y hornear 1 hora",
+      "Apagar horno y dejar enfriar dentro con puerta entreabierta",
+      "Cubrir con crema batida y frutas al servir"
+    ],
+    "imagePath": "/images/recipes/nueva-zelanda/pavlova.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "merengue",
+      "postre",
+      "frutas",
+      "crema",
+      "clásico"
+    ],
+    "seoTitle": "Pavlova - Receta Auténtica de Nueva-zelanda",
+    "seoDescription": "Aprende a cocinar pavlova, un plato tradicional de nueva-zelanda. Merengue crujiente por fuera, suave por dentro, con crema y frutas frescas...."
+  },
+  {
+    "id": "nz-003",
+    "slug": "green-lipped-mussels",
+    "dishName": "Green Lipped Mussels",
+    "summary": "Mejillones de labio verde al vapor con vino blanco y hierbas.",
+    "country": "Nueva Zelanda",
+    "cuisine": "nueva-zelanda",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "2kg de mejillones de labio verde frescos",
+      "250ml de vino blanco Sauvignon Blanc",
+      "4 chalotas picadas finamente",
+      "3 dientes de ajo picados",
+      "50g de mantequilla",
+      "Perejil fresco picado",
+      "Pan crusty para acompañar"
+    ],
+    "instructions": [
+      "Limpiar mejillones, retirar barbas y descartar abiertos",
+      "Derretir mantequilla en olla grande",
+      "Sofreír chalotas y ajo hasta fragantes",
+      "Añadir vino blanco y llevar a ebullición",
+      "Agregar mejillones y tapar",
+      "Cocinar 5-7 minutos hasta que abran",
+      "Descartar mejillones que no abrieron",
+      "Servir con perejil y pan para mojar el caldo"
+    ],
+    "imagePath": "/images/recipes/nueva-zelanda/green-lipped-mussels.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "mejillones",
+      "mariscos",
+      "vino blanco",
+      "marlborough",
+      "endémico"
+    ],
+    "seoTitle": "Green Lipped Mussels - Receta Auténtica de Nueva-zelanda",
+    "seoDescription": "Aprende a cocinar green lipped mussels, un plato tradicional de nueva-zelanda. Mejillones de labio verde al vapor con vino blanco y hierbas...."
+  },
+  {
+    "id": "nz-004",
+    "slug": "lamb-roast-with-mint-sauce",
+    "dishName": "Lamb Roast with Mint Sauce",
+    "summary": "Pierna de cordero asada con salsa de menta fresca.",
+    "country": "Nueva Zelanda",
+    "cuisine": "nueva-zelanda",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "1 pierna de cordero entera (aprox. 2.5kg)",
+      "6 ramas de romero fresco",
+      "6 dientes de ajo en láminas",
+      "Aceite de oliva virgen extra",
+      "Sal marina y pimienta negra",
+      "Para salsa de menta: 100g de hojas de menta, 2 cucharadas de azúcar, 100ml de vinagre de vino blanco"
+    ],
+    "instructions": [
+      "Hacer incisiones en el cordero e insertar ajo y romero",
+      "Masajear con aceite, sal y pimienta",
+      "Dejar a temperatura ambiente 1 hora",
+      "Asar a 200°C por 20 min, luego bajar a 160°C por 90 min",
+      "Para salsa: picar menta finamente, mezclar con azúcar y vinagre",
+      "Retirar cordero cuando termómetro marque 60°C interno",
+      "Reposar 20 minutos antes de tallar",
+      "Servir con salsa de menta y verduras asadas"
+    ],
+    "imagePath": "/images/recipes/nueva-zelanda/lamb-roast-with-mint-sauce.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "cordero",
+      "asado",
+      "menta",
+      "domingo",
+      "tradicional"
+    ],
+    "seoTitle": "Lamb Roast with Mint Sauce - Receta Auténtica de Nueva-zelanda",
+    "seoDescription": "Aprende a cocinar lamb roast with mint sauce, un plato tradicional de nueva-zelanda. Pierna de cordero asada con salsa de menta fresca...."
+  },
+  {
+    "id": "nz-005",
+    "slug": "hokey-pokey-ice-cream",
+    "dishName": "Hokey Pokey Ice Cream",
+    "summary": "Helado de vainilla con trozos de caramelo aireado.",
+    "country": "Nueva Zelanda",
+    "cuisine": "nueva-zelanda",
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 10,
+    "calories": 0,
+    "ingredients": [
+      "Para helado: 500ml de crema espesa, 400ml de leche condensada, 2 cucharaditas de extracto de vainilla",
+      "Para hokey pokey: 100g de azúcar, 2 cucharadas de jarabe de maíz, 1 cucharadita de bicarbonato"
+    ],
+    "instructions": [
+      "Batir crema hasta punto medio",
+      "Incorporar leche condensada y vainilla suavemente",
+      "Verter en molde y congelar 4 horas",
+      "Para caramelo: derretir azúcar con jarabe hasta dorar",
+      "Retirar del fuego y añadir bicarbonato rápidamente",
+      "Verter sobre superficie engrasada y dejar endurecer",
+      "Romper en trozos pequeños",
+      "Picar helado parcialmente congelado y mezclar con caramelo"
+    ],
+    "imagePath": "/images/recipes/nueva-zelanda/hokey-pokey-ice-cream.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "helado",
+      "caramelo",
+      "vainilla",
+      "postre",
+      "icónico"
+    ],
+    "seoTitle": "Hokey Pokey Ice Cream - Receta Auténtica de Nueva-zelanda",
+    "seoDescription": "Aprende a cocinar hokey pokey ice cream, un plato tradicional de nueva-zelanda. Helado de vainilla con trozos de caramelo aireado...."
+  }
+]

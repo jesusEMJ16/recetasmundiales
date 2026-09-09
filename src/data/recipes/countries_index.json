@@ -1,0 +1,22 @@
+[
+  {
+    "id": "unknown",
+    "dishName": "Sin título",
+    "summary": "",
+    "placeId": "countries_index",
+    "ingredients": [],
+    "steps": [],
+    "prepTimeMin": 0,
+    "cookTimeMin": 0,
+    "totalTimeMin": 0,
+    "servings": 4,
+    "imageUrl": "/images/recipes/countries_index/unknown.jpg",
+    "slug": "unknown",
+    "cuisine": "countries_index",
+    "difficulty": "medium",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
+  }
+]

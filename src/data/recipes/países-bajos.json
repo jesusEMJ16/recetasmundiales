@@ -1,0 +1,217 @@
+[
+  {
+    "id": "nl-001",
+    "slug": "stroopwafel",
+    "dishName": "Stroopwafel",
+    "summary": "Gofre delgado relleno de caramelo líquido y especias.",
+    "country": "Países Bajos",
+    "cuisine": "países-bajos",
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 12,
+    "calories": 0,
+    "ingredients": [
+      "500g de harina de trigo",
+      "250g de mantequilla fría",
+      "100g de azúcar",
+      "1 huevo",
+      "100ml de leche tibia",
+      "25g de levadura fresca",
+      "Para relleno: 200g de jarabe de maíz, 100g de azúcar moreno, 50g de mantequilla, canela"
+    ],
+    "instructions": [
+      "Disolver levadura en leche tibia",
+      "Mezclar harina, azúcar y mantequilla fría",
+      "Agregar huevo y leche con levadura",
+      "Amasar hasta obtener masa suave, reposar 1 hora",
+      "Formar bolas pequeñas y aplanar",
+      "Cocinar en gofrera hasta dorar",
+      "Cortar por la mitad mientras están calientes",
+      "Rellenar con mezcla de caramelo caliente y cerrar"
+    ],
+    "imagePath": "/images/recipes/países-bajos/stroopwafel.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "gofre",
+      "caramelo",
+      "postre",
+      "dulce",
+      "holandés"
+    ],
+    "seoTitle": "Stroopwafel - Receta Auténtica de Países-bajos",
+    "seoDescription": "Aprende a cocinar stroopwafel, un plato tradicional de países-bajos. Gofre delgado relleno de caramelo líquido y especias...."
+  },
+  {
+    "id": "nl-002",
+    "slug": "bitterballen",
+    "dishName": "Bitterballen",
+    "summary": "Bolas de carne estofada empanizadas y fritas, servidas con mostaza.",
+    "country": "Países Bajos",
+    "cuisine": "países-bajos",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "500g de carne de res para guiso",
+      "1 cebolla picada",
+      "500ml de caldo de carne",
+      "50g de mantequilla",
+      "50g de harina",
+      "2 huevos batidos",
+      "Pan rallado",
+      "Aceite para freír",
+      "Mostaza para servir"
+    ],
+    "instructions": [
+      "Cocinar carne en caldo 2 horas hasta tierna",
+      "Desmenuzar carne finamente",
+      "Preparar roux con mantequilla y harina",
+      "Agregar caldo gradualmente hasta espesar",
+      "Mezclar con carne desmenuzada",
+      "Enfriar mezcla hasta solidificar",
+      "Formar bolas, pasar por huevo y pan rallado",
+      "Freír hasta dorar y servir con mostaza"
+    ],
+    "imagePath": "/images/recipes/países-bajos/bitterballen.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "carne",
+      "frito",
+      "aperitivo",
+      "bar",
+      "holandés"
+    ],
+    "seoTitle": "Bitterballen - Receta Auténtica de Países-bajos",
+    "seoDescription": "Aprende a cocinar bitterballen, un plato tradicional de países-bajos. Bolas de carne estofada empanizadas y fritas, servidas con mostaza...."
+  },
+  {
+    "id": "nl-003",
+    "slug": "erwtensoep",
+    "dishName": "Erwtensoep",
+    "summary": "Sopa espesa de guisantes con cerdo ahumado y verduras.",
+    "country": "Países Bajos",
+    "cuisine": "países-bajos",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "500g de guisantes partidos secos",
+      "300g de cerdo ahumado (rococo)",
+      "200g de tocino",
+      "2 zanahorias en rodajas",
+      "2 nabos en cubos",
+      "1 puerro en rodajas",
+      "1 cebolla",
+      "2 litros de agua",
+      "Sal y pimienta al gusto"
+    ],
+    "instructions": [
+      "Remojar guisantes toda la noche",
+      "Cocinar guisantes con agua y cerdo 1.5 horas",
+      "Añadir verduras y continuar cocción 30 minutos",
+      "Retirar carne, deshuesar y cortar",
+      "Triturar parcialmente la sopa",
+      "Regresar carne a la olla",
+      "Servir muy caliente con pan centeno",
+      "Tradicionalmente se come después de patinar sobre hielo"
+    ],
+    "imagePath": "/images/recipes/países-bajos/erwtensoep.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "sopa",
+      "guisantes",
+      "cerdo",
+      "invierno",
+      "tradicional"
+    ],
+    "seoTitle": "Erwtensoep - Receta Auténtica de Países-bajos",
+    "seoDescription": "Aprende a cocinar erwtensoep, un plato tradicional de países-bajos. Sopa espesa de guisantes con cerdo ahumado y verduras...."
+  },
+  {
+    "id": "nl-004",
+    "slug": "haring-met-uitjes",
+    "dishName": "Haring met Uitjes",
+    "summary": "Arenque crudo curado en salmuera, servido con cebolla picada.",
+    "country": "Países Bajos",
+    "cuisine": "países-bajos",
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "4 filetes de arenque fresco curado",
+      "2 cebollas blancas picadas finamente",
+      "Pepinillos en vinagre (opcional)",
+      "Pan para acompañar"
+    ],
+    "instructions": [
+      "Mantener arenque refrigerado hasta servir",
+      "Picar cebollas muy finamente",
+      "Colocar filetes de arenque en plato",
+      "Cubrir generosamente con cebolla",
+      "Servir inmediatamente con pepinillos",
+      "Tradicionalmente se come sosteniendo el filete por la cola"
+    ],
+    "imagePath": "/images/recipes/países-bajos/haring-met-uitjes.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "pescado",
+      "crudo",
+      "curado",
+      "arenque",
+      "tradicional"
+    ],
+    "seoTitle": "Haring met Uitjes - Receta Auténtica de Países-bajos",
+    "seoDescription": "Aprende a cocinar haring met uitjes, un plato tradicional de países-bajos. Arenque crudo curado en salmuera, servido con cebolla picada...."
+  },
+  {
+    "id": "nl-005",
+    "slug": "poffertjes",
+    "dishName": "Poffertjes",
+    "summary": "Mini panqueques esponjosos hechos con harina de trigo sarraceno.",
+    "country": "Países Bajos",
+    "cuisine": "países-bajos",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "250g de harina de trigo sarraceno",
+      "250ml de leche tibia",
+      "25g de levadura fresca",
+      "2 huevos separados",
+      "50g de azúcar",
+      "Pizca de sal",
+      "Azúcar glass para espolvorear",
+      "Mantequilla derretida"
+    ],
+    "instructions": [
+      "Disolver levadura en leche tibia",
+      "Mezclar harinas, agregar leche y yemas",
+      "Dejar fermentar 30 minutos",
+      "Batir claras a punto de nieve",
+      "Incorporar claras suavemente a la masa",
+      "Calentar sartén especial para poffertjes",
+      "Verter pequeñas cantidades y voltear cuando burbujeen",
+      "Servir calientes con azúcar glass y mantequilla"
+    ],
+    "imagePath": "/images/recipes/países-bajos/poffertjes.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "panqueques",
+      "trigo sarraceno",
+      "postre",
+      "feria",
+      "dulce"
+    ],
+    "seoTitle": "Poffertjes - Receta Auténtica de Países-bajos",
+    "seoDescription": "Aprende a cocinar poffertjes, un plato tradicional de países-bajos. Mini panqueques esponjosos hechos con harina de trigo sarraceno...."
+  }
+]

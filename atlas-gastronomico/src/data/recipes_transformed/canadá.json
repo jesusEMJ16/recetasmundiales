@@ -1,0 +1,250 @@
+[
+  {
+    "id": "r-ca-001",
+    "dishName": "Poutine",
+    "slug": "poutine",
+    "placeId": "ca-qc",
+    "summary": "Papas fritas cubiertas con queso cheddar fresco y salsa gravy.",
+    "history": "Creado en Quebec rural en los años 1950. Su nombre viene del inglés 'pudding' o del francés 'poutine' (mezcla desordenada).",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de papas russet"
+      },
+      {
+        "text": "300g de queso cheddar fresco en gránulos"
+      },
+      {
+        "text": "Para gravy: 500ml de caldo de res, 2 cucharadas de mantequilla, 2 cucharadas de harina, sal y pimienta"
+      },
+      {
+        "text": "Aceite vegetal para freír"
+      }
+    ],
+    "steps": [
+      "Cortar papas en bastones y remojar en agua fría",
+      "Freír papas a 160°C hasta cocidas pero pálidas",
+      "Elevar temperatura a 190°C y freír nuevamente hasta dorar",
+      "Preparar gravy: derretir mantequilla, añadir harina y caldo gradualmente",
+      "Cocinar salsa hasta espesar",
+      "Colocar papas calientes en plato",
+      "Cubrir con queso y verter gravy caliente",
+      "Servir inmediatamente mientras el queso se derrite"
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 283,
+    "popularityScore": 82,
+    "publishedAt": "2024-11-15",
+    "image": "/images/recipes/canadá/poutine.jpg",
+    "sources": [
+      "Cocina tradicional de Canadá"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ca-002",
+    "dishName": "Tourtière",
+    "slug": "tourtière",
+    "placeId": "ca-qc",
+    "summary": "Pastel de carne picada tradicional navideño con especias.",
+    "history": "Plato franco-canadiense del siglo XVII. Tradicionalmente se sirve en Nochebuena después de la misa de medianoche.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Para masa: 350g de harina, 175g de mantequilla fría, agua helada, sal"
+      },
+      {
+        "text": "500g de cerdo molido"
+      },
+      {
+        "text": "300g de res molida"
+      },
+      {
+        "text": "1 cebolla picada finamente"
+      },
+      {
+        "text": "1 cucharadita de canela"
+      },
+      {
+        "text": "½ cucharadita de clavo molido"
+      },
+      {
+        "text": "Caldo de carne según necesidad"
+      },
+      {
+        "text": "1 huevo batido para barnizar"
+      }
+    ],
+    "steps": [
+      "Preparar masa quebrada y refrigerar",
+      "Sofreír cebolla hasta transparente",
+      "Agregar carnes y cocinar hasta sellar",
+      "Añadir especias y caldo suficiente para cubrir",
+      "Cocinar lentamente 45 minutos hasta tierno",
+      "Extender masa en molde profundo",
+      "Rellenar con mezcla de carne",
+      "Cubrir con otra capa de masa, barnizar y hornear 190°C por 45 minutos"
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 476,
+    "popularityScore": 85,
+    "publishedAt": "2024-01-29",
+    "image": "/images/recipes/canadá/tourtière.jpg",
+    "sources": [
+      "Cocina tradicional de Canadá"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ca-003",
+    "dishName": "Salmon Ahumado de British Columbia",
+    "slug": "salmon-ahumado-de-british-columbia",
+    "placeId": "ca-qc",
+    "summary": "Salmón del Pacífico ahumado tradicionalmente por pueblos indígenas.",
+    "history": "Técnica milenaria de las Primeras Naciones. El salmón es central en la cultura y economía de la costa oeste canadiense.",
+    "originConfidence": "confirmed",
+    "servings": 10,
+    "prepTimeMin": 48,
+    "cookTimeMin": 30,
+    "totalTimeMin": 78,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 filete de salmón entero (aprox. 2kg) con piel"
+      },
+      {
+        "text": "Para salmuera: 1 litro de agua, 100g de sal marina, 50g de azúcar moreno, 1 cucharada de granos de pimienta"
+      },
+      {
+        "text": "Virutas de madera de aliso o manzano para ahumar"
+      }
+    ],
+    "steps": [
+      "Verificar que no haya espinas en el filete",
+      "Preparar salmuera disolviendo ingredientes",
+      "Sumergir salmón en salmuera 24-48 horas en refrigeración",
+      "Enjuagar y secar completamente",
+      "Dejar formar película superficial (pellicle) 2-3 horas al aire",
+      "Ahumar a 70-80°C por 2-3 horas",
+      "El salmón está listo cuando está firme pero jugoso",
+      "Servir frío en rebanadas finas"
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 332,
+    "popularityScore": 66,
+    "publishedAt": "2024-03-27",
+    "image": "/images/recipes/canadá/salmon-ahumado-de-british-columbia.jpg",
+    "sources": [
+      "Cocina tradicional de Canadá"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ca-004",
+    "dishName": "Butter Tart",
+    "slug": "butter-tart",
+    "placeId": "ca-qc",
+    "summary": "Tartaleta dulce con relleno cremoso de mantequilla y azúcar.",
+    "history": "Postre canadiense desde el siglo XIX. Hay debate nacional sobre si debe llevar pasas o nueces.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "12 moldes pequeños para tartaletas"
+      },
+      {
+        "text": "Para masa: 250g de harina, 125g de mantequilla fría, 1 huevo, agua helada"
+      },
+      {
+        "text": "Para relleno: 100g de mantequilla ablandada, 200g de azúcar moreno, 2 huevos batidos, 1 cucharadita de extracto de vainilla, 1 cucharada de harina"
+      }
+    ],
+    "steps": [
+      "Preparar masa y forrar moldes pequeños",
+      "Refrigerar moldes 30 minutos",
+      "Batir mantequilla y azúcar hasta cremoso",
+      "Incorporar huevos uno a uno",
+      "Añadir vainilla y harina",
+      "Dividir relleno entre tartaletas",
+      "Hornear 190°C por 20-25 minutos hasta dorar",
+      "Enfriar completamente antes de desmoldar"
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 292,
+    "popularityScore": 80,
+    "publishedAt": "2024-08-01",
+    "image": "/images/recipes/canadá/butter-tart.jpg",
+    "sources": [
+      "Cocina tradicional de Canadá"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-ca-005",
+    "dishName": "Nanaimo Bars",
+    "slug": "nanaimo-bars",
+    "placeId": "ca-qc",
+    "summary": "Barra de tres capas sin hornear: base de galleta, crema de coco y chocolate.",
+    "history": "Nombradas por la ciudad de Nanaimo en BC. Aparecieron en libros de cocina de los años 1950 como 'chocolate fridge squares'.",
+    "originConfidence": "confirmed",
+    "servings": 16,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Base: 200g de galletas Graham trituradas, 100g de coco rallado, 50g de nueces picadas, 60g de cacao, 125g de mantequilla derretida, 1 huevo"
+      },
+      {
+        "text": "Centro: 60g de mantequilla, 2 cucharadas de crema, 2 cucharadas de polvo de natillas, 250g de azúcar glass, 1 cucharadita de vainilla"
+      },
+      {
+        "text": "Top: 200g de chocolate semidulce, 1 cucharada de mantequilla"
+      }
+    ],
+    "steps": [
+      "Mezclar ingredientes de base y presionar en molde",
+      "Refrigerar mientras prepara el centro",
+      "Derretir mantequilla con crema y polvo de natillas",
+      "Añadir azúcar glass y vainilla hasta cremoso",
+      "Extender sobre base fría",
+      "Derretir chocolate con mantequilla a baño maría",
+      "Verter sobre capa de crema",
+      "Refrigerar 2 horas y cortar en cuadrados"
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 227,
+    "popularityScore": 95,
+    "publishedAt": "2024-11-12",
+    "image": "/images/recipes/canadá/nanaimo-bars.jpg",
+    "sources": [
+      "Cocina tradicional de Canadá"
+    ],
+    "translations": {}
+  }
+]

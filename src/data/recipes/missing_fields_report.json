@@ -1,0 +1,22 @@
+[
+  {
+    "id": "unknown",
+    "dishName": "Sin título",
+    "summary": "",
+    "placeId": "missing_fields_report",
+    "ingredients": [],
+    "steps": [],
+    "prepTimeMin": 0,
+    "cookTimeMin": 0,
+    "totalTimeMin": 0,
+    "servings": 4,
+    "imageUrl": "/images/recipes/missing_fields_report/unknown.jpg",
+    "slug": "unknown",
+    "cuisine": "missing_fields_report",
+    "difficulty": "medium",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
+  }
+]

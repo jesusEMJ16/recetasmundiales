@@ -1,0 +1,214 @@
+[
+  {
+    "id": "mx-tacos-al-pastor",
+    "slug": "tacos-al-pastor",
+    "dishName": "Tacos al Pastor",
+    "summary": "Deliciosos tacos de cerdo marinado con achiote y piña, cocinados en trompo vertical.",
+    "country": "México",
+    "cuisine": "méxico",
+    "prepTimeMin": 240,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "1 kg de carne de cerdo en rebanadas delgadas",
+      "3 chiles guajillos",
+      "2 chiles anchos",
+      "1/4 taza de vinagre",
+      "1 cucharada de achiote",
+      "3 dientes de ajo",
+      "1 piña fresca",
+      "Cilantro fresco",
+      "Cebolla blanca picada",
+      "Tortillas de maíz"
+    ],
+    "instructions": [
+      "Hidratar los chiles en agua caliente por 15 minutos.",
+      "Licuar chiles con vinagre, achiote, ajo y especias.",
+      "Marinar la carne de cerdo por al menos 4 horas o toda la noche.",
+      "Colocar la carne en capas formando un trompo (o usar sartén).",
+      "Cocinar girando constantemente hasta dorar.",
+      "Rebanar finamente y servir en tortillas calientes.",
+      "Agregar piña asada, cilantro, cebolla y salsa al gusto."
+    ],
+    "imagePath": "/images/recipes/méxico/tacos-al-pastor.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "tacos",
+      "mexicano",
+      "callejero",
+      "cerdo",
+      "tradicional"
+    ],
+    "seoTitle": "Tacos al Pastor - Receta Auténtica de México",
+    "seoDescription": "Aprende a cocinar tacos al pastor, un plato tradicional de méxico. Deliciosos tacos de cerdo marinado con achiote y piña, cocinados en trompo vertical...."
+  },
+  {
+    "id": "mx-mole-poblano",
+    "slug": "mole-poblano",
+    "dishName": "Mole Poblano",
+    "summary": "Salsa compleja y aromática con chocolate, chiles y especias, servida sobre pollo.",
+    "country": "México",
+    "cuisine": "méxico",
+    "prepTimeMin": 180,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "6 chiles mulatos",
+      "4 chiles anchos",
+      "3 chiles pasillas",
+      "1/4 taza de almendras",
+      "1/4 taza de pasas",
+      "2 tortillas fritas",
+      "1 barra de chocolate mexicano",
+      "Canela, clavo, anís",
+      "Sésamo tostado",
+      "Pollo cocido"
+    ],
+    "instructions": [
+      "Tostar ligeramente todos los chiles y remojar en agua caliente.",
+      "Freír por separado almendras, pasas, tortillas y especias.",
+      "Licuar todo con caldo de pollo hasta obtener pasta suave.",
+      "Cocer la salsa a fuego lento por 45 minutos revolviendo constantemente.",
+      "Agregar el chocolate y ajustar sazón.",
+      "Servir sobre pollo espolvoreado con ajonjolí."
+    ],
+    "imagePath": "/images/recipes/méxico/mole-poblano.jpg",
+    "difficulty": "Difícil",
+    "tags": [
+      "mole",
+      "poblano",
+      "pollo",
+      "chocolate",
+      "festivo"
+    ],
+    "seoTitle": "Mole Poblano - Receta Auténtica de México",
+    "seoDescription": "Aprende a cocinar mole poblano, un plato tradicional de méxico. Salsa compleja y aromática con chocolate, chiles y especias, servida sobre pollo...."
+  },
+  {
+    "id": "mx-cochinita-pibil",
+    "slug": "cochinita-pibil",
+    "dishName": "Cochinita Pibil",
+    "summary": "Cerdo marinado en achiote y naranja agria, cocinado lentamente envuelto en hojas de plátano.",
+    "country": "México",
+    "cuisine": "méxico",
+    "prepTimeMin": 300,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "2 kg de carne de cerdo (pierna o espalda)",
+      "3 cucharadas de pasta de achiote",
+      "1/2 taza de jugo de naranja agria",
+      "4 dientes de ajo",
+      "Comino, orégano, pimienta",
+      "Hojas de plátano",
+      "Cebolla morada encurtida",
+      "Habenero"
+    ],
+    "instructions": [
+      "Mezclar achiote con naranja agria, ajo y especias.",
+      "Marinar la carne por al menos 4 horas.",
+      "Envolver la carne en hojas de plátano previamente flameadas.",
+      "Cocinar en horno a 160°C por 3-4 horas hasta deshacerse.",
+      "Dejar reposar 15 minutos antes de deshebrar.",
+      "Servir con cebolla encurtida y tortillas."
+    ],
+    "imagePath": "/images/recipes/méxico/cochinita-pibil.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "yucateco",
+      "cerdo",
+      "achiote",
+      "maya",
+      "tradicional"
+    ],
+    "seoTitle": "Cochinita Pibil - Receta Auténtica de México",
+    "seoDescription": "Aprende a cocinar cochinita pibil, un plato tradicional de méxico. Cerdo marinado en achiote y naranja agria, cocinado lentamente envuelto en hojas de plátano...."
+  },
+  {
+    "id": "mx-chiles-en-nogada",
+    "slug": "chiles-en-nogada",
+    "dishName": "Chiles en Nogada",
+    "summary": "Chiles poblanos rellenos de picadillo, cubiertos con salsa de nuez y granada. Colores de la bandera mexicana.",
+    "country": "México",
+    "cuisine": "méxico",
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "8 chiles poblanos grandes",
+      "500g de carne molida (cerdo y res)",
+      "Frutas de temporada (manzana, pera, durazno)",
+      "Nuez de castilla",
+      "Queso fresco",
+      "Granada",
+      "Especias: canela, clavo"
+    ],
+    "instructions": [
+      "Asar y pelar los chiles, hacer corte lateral y desvenar.",
+      "Preparar picadillo con carne, frutas picadas y especias.",
+      "Rellenar los chiles con el picadillo caliente.",
+      "Preparar nogada licuando nuez con queso y leche.",
+      "Bañar los chiles con nogada fría.",
+      "Decorar con granada y perejil."
+    ],
+    "imagePath": "/images/recipes/méxico/chiles-en-nogada.jpg",
+    "difficulty": "Difícil",
+    "tags": [
+      "poblano",
+      "independencia",
+      "estacional",
+      "nogada",
+      "festivo"
+    ],
+    "seoTitle": "Chiles en Nogada - Receta Auténtica de México",
+    "seoDescription": "Aprende a cocinar chiles en nogada, un plato tradicional de méxico. Chiles poblanos rellenos de picadillo, cubiertos con salsa de nuez y granada. Colores de la bandera ..."
+  },
+  {
+    "id": "mx-sopa-de-lima",
+    "slug": "sopa-de-lima",
+    "dishName": "Sopa de Lima",
+    "summary": "Sopa ligera y aromática con lima yucateca, pollo y tortillas fritas.",
+    "country": "México",
+    "cuisine": "méxico",
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "1 pollo entero",
+      "6 limas yucatecas",
+      "2 jitomates",
+      "1 cebolla",
+      "Tortillas de maíz fritas",
+      "Aguacate",
+      "Cilantro"
+    ],
+    "instructions": [
+      "Cocer el pollo con verduras para obtener buen caldo.",
+      "Deshebrar la carne y reservar.",
+      "Sofreír jitomate y cebolla, agregar al caldo.",
+      "Añadir el jugo y ralladura de lima.",
+      "Servir con pollo, tortillas fritas y aguacate."
+    ],
+    "imagePath": "/images/recipes/méxico/sopa-de-lima.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "sopa",
+      "yucateco",
+      "lima",
+      "pollo",
+      "ligero"
+    ],
+    "seoTitle": "Sopa de Lima - Receta Auténtica de México",
+    "seoDescription": "Aprende a cocinar sopa de lima, un plato tradicional de méxico. Sopa ligera y aromática con lima yucateca, pollo y tortillas fritas...."
+  }
+]

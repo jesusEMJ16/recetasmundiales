@@ -1,0 +1,292 @@
+[
+  {
+    "id": "r-us-001",
+    "dishName": "Hamburguesa Clásica Americana",
+    "slug": "hamburguesa-clasica-americana",
+    "placeId": "us-ny",
+    "summary": "Carne de res a la parrilla con queso americano, lechuga, tomate y salsa especial.",
+    "history": "Símbolo de la cultura americana desde principios del siglo XX. Su origen se disputa entre varias ciudades estadounidenses.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "600g de carne de res molida (80/20)"
+      },
+      {
+        "text": "4 panes de hamburguesa"
+      },
+      {
+        "text": "4 lonchas de queso americano"
+      },
+      {
+        "text": "Lechuga iceberg"
+      },
+      {
+        "text": "2 tomates en rodajas"
+      },
+      {
+        "text": "1 cebolla morada en rodajas"
+      },
+      {
+        "text": "Pepinillos en vinagre"
+      },
+      {
+        "text": "Ketchup, mostaza y mayonesa"
+      }
+    ],
+    "steps": [
+      "Formar 4 patties ligeramente más grandes que el pan",
+      "Hacer un hoyo en el centro con el pulgar",
+      "Sazonar generosamente con sal y pimienta",
+      "Calentar parrilla o sartén a fuego alto",
+      "Cocinar 4-5 minutos por lado para término medio",
+      "Añadir queso los últimos 2 minutos",
+      "Tostar ligeramente los panes",
+      "Montar con verduras y salsas al gusto"
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 367,
+    "popularityScore": 72,
+    "publishedAt": "2024-11-13",
+    "image": "/images/recipes/estados-unidos/hamburguesa-clásica-americana.jpg",
+    "sources": [
+      "Cocina tradicional de Estados Unidos"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-us-002",
+    "dishName": "Mac and Cheese",
+    "slug": "mac-and-cheese",
+    "placeId": "us-ny",
+    "summary": "Pasta con queso cheddar fundido y gratinado.",
+    "history": "Plato favorito de Thomas Jefferson quien lo sirvió en la Casa Blanca en 1802. Se popularizó en el Sur durante el siglo XIX.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de macarrones"
+      },
+      {
+        "text": "60g de mantequilla"
+      },
+      {
+        "text": "60g de harina"
+      },
+      {
+        "text": "700ml de leche entera"
+      },
+      {
+        "text": "400g de queso cheddar rallado"
+      },
+      {
+        "text": "100g de queso gruyere rallado"
+      },
+      {
+        "text": "Sal, pimienta y nuez moscada"
+      },
+      {
+        "text": "Pan rallado para gratinar"
+      }
+    ],
+    "steps": [
+      "Cocinar pasta según instrucciones, escurrir",
+      "Derretir mantequilla y añadir harina (roux)",
+      "Agregar leche gradualmente sin dejar de remover",
+      "Cocinar hasta espesar como bechamel",
+      "Incorporar quesos hasta fundir",
+      "Mezclar con pasta cocida",
+      "Transferir a molde y cubrir con pan rallado",
+      "Hornear 190°C por 25-30 minutos hasta dorar"
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 234,
+    "popularityScore": 93,
+    "publishedAt": "2024-10-24",
+    "image": "/images/recipes/estados-unidos/mac-and-cheese.jpg",
+    "sources": [
+      "Cocina tradicional de Estados Unidos"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-us-003",
+    "dishName": "BBQ Ribs",
+    "slug": "bbq-ribs",
+    "placeId": "us-ny",
+    "summary": "Costillas de cerdo ahumadas lentamente con salsa BBQ.",
+    "history": "Tradición del Sur profundo. Memphis es capital mundial del BBQ con festivales anuales desde 1973.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2kg de costillas de cerdo (baby back ribs)"
+      },
+      {
+        "text": "Para dry rub: 2 cucharadas de pimentón, 1 de azúcar moreno, 1 de sal, ajo en polvo, cebolla en polvo, pimienta negra"
+      },
+      {
+        "text": "200ml de salsa BBQ"
+      },
+      {
+        "text": "Vinagre de manzana para rociar"
+      }
+    ],
+    "steps": [
+      "Retirar membrana de las costillas",
+      "Aplicar dry rub generosamente por ambos lados",
+      "Refrigerar mínimo 4 horas o toda la noche",
+      "Precalentar ahumador o parrilla a 110°C",
+      "Ahumar 3-4 horas con madera de manzano o roble",
+      "Rociar con vinagre cada hora",
+      "Barnizar con salsa BBQ los últimos 30 minutos",
+      "Dejar reposar 15 minutos antes de cortar"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 431,
+    "popularityScore": 57,
+    "publishedAt": "2024-02-23",
+    "image": "/images/recipes/estados-unidos/bbq-ribs.jpg",
+    "sources": [
+      "Cocina tradicional de Estados Unidos"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-us-004",
+    "dishName": "Clam Chowder",
+    "slug": "clam-chowder",
+    "placeId": "us-ny",
+    "summary": "Sopa cremosa de almejas, papas y bacon.",
+    "history": "Sopa de marineros de Nueva Inglaterra desde el siglo XVIII. El estilo 'New England' usa crema, no tomate.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de almejas frescas"
+      },
+      {
+        "text": "4 tiras de bacon picado"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "2 tallos de apio picados"
+      },
+      {
+        "text": "3 papas en cubos"
+      },
+      {
+        "text": "500ml de caldo de pescado"
+      },
+      {
+        "text": "500ml de crema espesa"
+      },
+      {
+        "text": "2 hojas de laurel, tomillo fresco"
+      }
+    ],
+    "steps": [
+      "Cocinar almejas en agua hasta abrir, reservar líquido",
+      "Colar y picar almejas",
+      "Freír bacon hasta crujiente",
+      "Sofreír cebolla y apio en grasa de bacon",
+      "Añadir papas, caldo y líquido de almejas",
+      "Cocinar hasta papas tiernas (20 min)",
+      "Agregar crema, almejas y hierbas",
+      "Servir caliente con galletas saladas"
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 362,
+    "popularityScore": 95,
+    "publishedAt": "2024-07-15",
+    "image": "/images/recipes/estados-unidos/clam-chowder.jpg",
+    "sources": [
+      "Cocina tradicional de Estados Unidos"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-us-005",
+    "dishName": "Apple Pie",
+    "slug": "apple-pie",
+    "placeId": "us-ny",
+    "summary": "Pastel de manzana con masa quebrada y canela.",
+    "history": "Símbolo americano aunque sus raíces son europeas. La frase 'as American as apple pie' data de 1920.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "postre",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Para masa: 350g de harina, 200g de mantequilla fría, sal, agua helada"
+      },
+      {
+        "text": "8 manzanas Granny Smith peladas y en rodajas"
+      },
+      {
+        "text": "150g de azúcar moreno"
+      },
+      {
+        "text": "2 cucharadas de harina"
+      },
+      {
+        "text": "2 cucharaditas de canela"
+      },
+      {
+        "text": "1 huevo batido para barnizar"
+      },
+      {
+        "text": "Azúcar para espolvorear"
+      }
+    ],
+    "steps": [
+      "Preparar masa quebrada y refrigerar 1 hora",
+      "Mezclar manzanas con azúcar, harina y canela",
+      "Extender mitad de masa en molde",
+      "Rellenar con mezcla de manzanas",
+      "Cubrir con otra capa de masa o hacer rejilla",
+      "Barnizar con huevo y espolvorear azúcar",
+      "Hornear 190°C por 50-55 minutos",
+      "Enfriar completamente antes de servir"
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 207,
+    "popularityScore": 99,
+    "publishedAt": "2024-03-04",
+    "image": "/images/recipes/estados-unidos/apple-pie.jpg",
+    "sources": [
+      "Cocina tradicional de Estados Unidos"
+    ],
+    "translations": {}
+  }
+]

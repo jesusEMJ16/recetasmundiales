@@ -1,0 +1,216 @@
+[
+  {
+    "id": "de-001",
+    "slug": "schnitzel",
+    "dishName": "Schnitzel",
+    "summary": "Filete de cerdo empanizado y frito, crujiente por fuera y jugoso por dentro.",
+    "country": "Alemania",
+    "cuisine": "alemania",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "4 filetes de cerdo (150g cada uno)",
+      "100g de harina de trigo",
+      "2 huevos batidos",
+      "200g de pan rallado",
+      "Sal y pimienta al gusto",
+      "Aceite vegetal para freír",
+      "Rodajas de limón para servir"
+    ],
+    "instructions": [
+      "Aplanar los filetes con un mazo hasta que tengan 5mm de grosor",
+      "Sazonar con sal y pimienta",
+      "Pasar cada filete por harina, huevo batido y pan rallado",
+      "Calentar aceite abundante en sartén grande",
+      "Freír 3-4 minutos por lado hasta dorar",
+      "Escurrir sobre papel absorbente",
+      "Servir inmediatamente con limón"
+    ],
+    "imagePath": "/images/recipes/alemania/schnitzel.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "cerdo",
+      "empanizado",
+      "frito",
+      "bávaro",
+      "clásico"
+    ],
+    "seoTitle": "Schnitzel - Receta Auténtica de Alemania",
+    "seoDescription": "Aprende a cocinar schnitzel, un plato tradicional de alemania. Filete de cerdo empanizado y frito, crujiente por fuera y jugoso por dentro...."
+  },
+  {
+    "id": "de-002",
+    "slug": "bratwurst-mit-sauerkraut",
+    "dishName": "Bratwurst mit Sauerkraut",
+    "summary": "Salchichas alemanas tradicionales servidas con chucrut fermentado.",
+    "country": "Alemania",
+    "cuisine": "alemania",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "8 salchichas bratwurst frescas",
+      "500g de chucrut",
+      "1 cebolla picada",
+      "2 cucharadas de mantequilla",
+      "100ml de vino blanco seco",
+      "1 cucharadita de semillas de mostaza",
+      "Pan para acompañar"
+    ],
+    "instructions": [
+      "Derretir mantequilla y sofreír cebolla hasta transparente",
+      "Agregar chucrut escurrido y semillas de mostaza",
+      "Añadir vino blanco y cocinar 15 minutos",
+      "Asar bratwurst en parrilla o sartén 10-12 minutos",
+      "Servir salchichas sobre chucrut caliente",
+      "Acompañar con pan oscuro alemán"
+    ],
+    "imagePath": "/images/recipes/alemania/bratwurst-mit-sauerkraut.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "salchicha",
+      "chucrut",
+      "tradicional",
+      "cerdo",
+      "fermentado"
+    ],
+    "seoTitle": "Bratwurst mit Sauerkraut - Receta Auténtica de Alemania",
+    "seoDescription": "Aprende a cocinar bratwurst mit sauerkraut, un plato tradicional de alemania. Salchichas alemanas tradicionales servidas con chucrut fermentado...."
+  },
+  {
+    "id": "de-003",
+    "slug": "sauerbraten",
+    "dishName": "Sauerbraten",
+    "summary": "Carne de res marinada en vinagre y especias, cocida lentamente hasta estar tierna.",
+    "country": "Alemania",
+    "cuisine": "alemania",
+    "prepTimeMin": 48,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "1.5kg de carne de res para guiso",
+      "500ml de vinagre de vino tinto",
+      "500ml de vino tinto seco",
+      "2 cebollas en rodajas",
+      "2 zanahorias",
+      "10 granos de pimienta",
+      "3 hojas de laurel",
+      "4 clavos de olor",
+      "2 cucharadas de azúcar moreno",
+      "Galletas speculoos trituradas para espesar"
+    ],
+    "instructions": [
+      "Marinar carne con vinagre, vino, verduras y especias 2-3 días",
+      "Retirar carne y colar marinada",
+      "Dorar carne en olla grande",
+      "Agregar marinada colada y cocinar 2.5-3 horas",
+      "Retirar carne y espesar salsa con galletas",
+      "Cortar carne en rebanadas y servir con salsa",
+      "Acompañar con ñoquis o papas rojas"
+    ],
+    "imagePath": "/images/recipes/alemania/sauerbraten.jpg",
+    "difficulty": "Alta",
+    "tags": [
+      "res",
+      "marinado",
+      "guiso",
+      "tradicional",
+      "renano"
+    ],
+    "seoTitle": "Sauerbraten - Receta Auténtica de Alemania",
+    "seoDescription": "Aprende a cocinar sauerbraten, un plato tradicional de alemania. Carne de res marinada en vinagre y especias, cocida lentamente hasta estar tierna...."
+  },
+  {
+    "id": "de-004",
+    "slug": "sp-tzle",
+    "dishName": "Spätzle",
+    "summary": "Fideos de huevo tradicionales de Suabia, servidos como acompañamiento o plato principal con queso.",
+    "country": "Alemania",
+    "cuisine": "alemania",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "400g de harina de trigo",
+      "4 huevos grandes",
+      "100ml de agua mineral",
+      "1 cucharadita de sal",
+      "Nuez moscada al gusto",
+      "50g de mantequilla",
+      "Opcional: 200g de queso Emmental rallado"
+    ],
+    "instructions": [
+      "Mezclar harina, huevos, agua y sal hasta formar masa espesa",
+      "Dejar reposar 15 minutos",
+      "Hervir agua con sal en olla grande",
+      "Presionar masa a través de spätzlepresse directamente al agua",
+      "Cocinar 2-3 minutos hasta que floten",
+      "Escurrir y mezclar con mantequilla",
+      "Opcional: gratinar con queso encima"
+    ],
+    "imagePath": "/images/recipes/alemania/sp-tzle.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "pasta",
+      "huevo",
+      "suabo",
+      "acompañamiento",
+      "vegetariano"
+    ],
+    "seoTitle": "Spätzle - Receta Auténtica de Alemania",
+    "seoDescription": "Aprende a cocinar spätzle, un plato tradicional de alemania. Fideos de huevo tradicionales de Suabia, servidos como acompañamiento o plato principal con queso...."
+  },
+  {
+    "id": "de-005",
+    "slug": "schwarzw-lder-kirschtorte",
+    "dishName": "Schwarzwälder Kirschtorte",
+    "summary": "Pastel de chocolate en capas con cerezas, crema batida y kirsch.",
+    "country": "Alemania",
+    "cuisine": "alemania",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 12,
+    "calories": 0,
+    "ingredients": [
+      "6 huevos",
+      "200g de azúcar",
+      "100g de harina",
+      "50g de cacao en polvo",
+      "800ml de crema para batir",
+      "600g de cerezas en almíbar",
+      "100ml de kirsch",
+      "100g de chocolate negro rallado"
+    ],
+    "instructions": [
+      "Batir huevos con azúcar hasta triplicar volumen",
+      "Incorporar harina y cacao tamizados",
+      "Hornear en molde 26cm a 180°C por 30-35 minutos",
+      "Cortar bizcocho en 3 capas",
+      "Rociar cada capa con kirsch",
+      "Alternar capas con crema batida y cerezas",
+      "Cubrir pastel con crema restante",
+      "Decorar con chocolate rallado y cerezas"
+    ],
+    "imagePath": "/images/recipes/alemania/schwarzw-lder-kirschtorte.jpg",
+    "difficulty": "Alta",
+    "tags": [
+      "postre",
+      "chocolate",
+      "cerezas",
+      "pastel",
+      "selva negra"
+    ],
+    "seoTitle": "Schwarzwälder Kirschtorte - Receta Auténtica de Alemania",
+    "seoDescription": "Aprende a cocinar schwarzwälder kirschtorte, un plato tradicional de alemania. Pastel de chocolate en capas con cerezas, crema batida y kirsch...."
+  }
+]

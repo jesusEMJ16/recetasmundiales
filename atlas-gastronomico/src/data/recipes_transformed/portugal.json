@@ -1,0 +1,307 @@
+[
+  {
+    "id": "r-pt-001",
+    "dishName": "Bacalhau à Brás",
+    "slug": "bacalhau-à-bras",
+    "placeId": "pt-lis",
+    "summary": "Bacalao desmenuzado con papas fritas en tiras, huevos revueltos y aceitunas negras.",
+    "history": "Plato lisboeta del siglo XIX creado en tabernas populares. El nombre 'Brás' podría venir de un familia que lo popularizó.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de bacalao salado"
+      },
+      {
+        "text": "4 papas medianas"
+      },
+      {
+        "text": "6 huevos"
+      },
+      {
+        "text": "2 cebollas picadas"
+      },
+      {
+        "text": "3 dientes de ajo"
+      },
+      {
+        "text": "Aceite de oliva virgen extra"
+      },
+      {
+        "text": "Aceitunas negras para decorar"
+      },
+      {
+        "text": "Perejil fresco picado"
+      }
+    ],
+    "steps": [
+      "Desalar bacalao 24 horas antes, cambiando agua varias veces",
+      "Cocinar bacalao y desmenuzar sin espinas",
+      "Cortar papas en tiras finas y freír hasta crujientes",
+      "Sofreír cebolla y ajo en aceite abundante",
+      "Agregar bacalao y mezclar",
+      "Batir huevos y verter sobre mezcla, removiendo constantemente",
+      "Incorporar papas fritas al final",
+      "Servir con aceitunas y perejil"
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 168,
+    "popularityScore": 69,
+    "publishedAt": "2024-10-02",
+    "image": "/images/recipes/portugal/bacalhau-à-brás.jpg",
+    "sources": [
+      "Cocina tradicional de Portugal"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pt-002",
+    "dishName": "Pastéis de Nata",
+    "slug": "pasteis-de-nata",
+    "placeId": "pt-lis",
+    "summary": "Tartaletas de hojaldre con crema de yema caramelizada.",
+    "history": "Creados por monjes jerónimos en el Monasterio dos Jerónimos (siglo XVIII). La receta secreta se vende desde 1837 en Pastéis de Belém.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 lámina de masa de hojaldre"
+      },
+      {
+        "text": "250ml de leche"
+      },
+      {
+        "text": "200g de azúcar"
+      },
+      {
+        "text": "50g de harina"
+      },
+      {
+        "text": "6 yemas de huevo"
+      },
+      {
+        "text": "1 rama de canela"
+      },
+      {
+        "text": "Cáscara de 1 limón"
+      },
+      {
+        "text": "Azúcar y canela para espolvorear"
+      }
+    ],
+    "steps": [
+      "Hervir leche con canela y cáscara de limón",
+      "Mezclar azúcar y harina, agregar leche caliente",
+      "Cocinar hasta espesar como natilla",
+      "Retirar del fuego e incorporar yemas una a una",
+      "Extender hojaldre y cortar círculos",
+      "Forzar moldes pequeños con masa",
+      "Rellenar con crema y hornear 220°C por 15-20 minutos",
+      "Espolvorear con canela y azúcar glass"
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 431,
+    "popularityScore": 61,
+    "publishedAt": "2024-01-21",
+    "image": "/images/recipes/portugal/pastéis-de-nata.jpg",
+    "sources": [
+      "Cocina tradicional de Portugal"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pt-003",
+    "dishName": "Caldo Verde",
+    "slug": "caldo-verde",
+    "placeId": "pt-lis",
+    "summary": "Sopa cremosa de papas con col portuguesa y chorizo.",
+    "history": "Sopa campesina del norte de Portugal, servida en fiestas y celebraciones desde hace siglos.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de papas"
+      },
+      {
+        "text": "300g de col portuguesa (couve-galega)"
+      },
+      {
+        "text": "200g de chorizo portugués"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "3 dientes de ajo"
+      },
+      {
+        "text": "1 litro de caldo de verduras"
+      },
+      {
+        "text": "Aceite de oliva virgen extra"
+      },
+      {
+        "text": "Sal al gusto"
+      }
+    ],
+    "steps": [
+      "Pelar y cortar papas en rodajas finas",
+      "Cocinar papas con cebolla y ajo en caldo",
+      "Triturar hasta obtener crema suave",
+      "Cortar col en tiras muy finas",
+      "Añadir col a la sopa y cocinar 10 minutos",
+      "Cortar chorizo en rodajas y dorar",
+      "Servir sopa caliente con chorizo encima",
+      "Regar con aceite de oliva crudo"
+    ],
+    "ratingAvg": 4.3,
+    "ratingCount": 340,
+    "popularityScore": 95,
+    "publishedAt": "2024-11-10",
+    "image": "/images/recipes/portugal/caldo-verde.jpg",
+    "sources": [
+      "Cocina tradicional de Portugal"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pt-004",
+    "dishName": "Francesinha",
+    "slug": "francesinha",
+    "placeId": "pt-lis",
+    "summary": "Sándwich multicapa con carne, queso fundido y salsa picante de cerveza y tomate.",
+    "history": "Creada en los años 1950 en Oporto por Daniel David Silva, inspirada en el croque-monsieur francés.",
+    "originConfidence": "confirmed",
+    "servings": 2,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 rebanadas de pan de molde"
+      },
+      {
+        "text": "200g de jamón cocido"
+      },
+      {
+        "text": "200g de linguiça o chorizo"
+      },
+      {
+        "text": "200g de bistec de cerdo"
+      },
+      {
+        "text": "4 lonchas de queso tipo edam"
+      },
+      {
+        "text": "Para salsa: 200ml de cerveza, 200g de tomate triturado, 1 cebolla, 1 guindilla"
+      },
+      {
+        "text": "Papas fritas para acompañar"
+      }
+    ],
+    "steps": [
+      "Tostar ligeramente el pan",
+      "Montar capas: pan, jamón, linguiça, bistec, queso",
+      "Cerrar con otra rebanada de pan",
+      "Preparar salsa: sofreír cebolla, añadir tomate, cerveza y guindilla",
+      "Cocinar salsa 15 minutos y triturar",
+      "Colocar sándwich en fuente, cubrir con salsa y queso",
+      "Gratinar en horno hasta burbujear",
+      "Servir con papas fritas"
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 166,
+    "popularityScore": 64,
+    "publishedAt": "2024-11-12",
+    "image": "/images/recipes/portugal/francesinha.jpg",
+    "sources": [
+      "Cocina tradicional de Portugal"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-pt-005",
+    "dishName": "Arroz de Pato",
+    "slug": "arroz-de-pato",
+    "placeId": "pt-lis",
+    "summary": "Arroz meloso con pato confitado, chorizo y hierbas aromáticas.",
+    "history": "Plato tradicional del Ribatejo, región de cultivo de arroz y caza de patos silvestres.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 40,
+    "cookTimeMin": 30,
+    "totalTimeMin": 70,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 pato entero (aprox. 2kg)"
+      },
+      {
+        "text": "300g de arroz bomba"
+      },
+      {
+        "text": "150g de chorizo en rodajas"
+      },
+      {
+        "text": "2 cebollas picadas"
+      },
+      {
+        "text": "4 dientes de ajo"
+      },
+      {
+        "text": "1 litro de caldo de pato"
+      },
+      {
+        "text": "2 hojas de laurel"
+      },
+      {
+        "text": "Vino blanco seco"
+      },
+      {
+        "text": "Aceite de oliva"
+      }
+    ],
+    "steps": [
+      "Sazonar pato y asar 1 hora a 180°C",
+      "Desmenuzar carne reservando piel crujiente",
+      "Sofreír cebolla y ajo, añadir arroz",
+      "Agregar caldo caliente gradualmente",
+      "Incorporar pato desmenuzado y chorizo",
+      "Cocinar 20 minutos hasta arroz meloso",
+      "Hornear 10 minutos para gratinar",
+      "Servir con piel crujiente por encima"
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 336,
+    "popularityScore": 51,
+    "publishedAt": "2024-08-18",
+    "image": "/images/recipes/portugal/arroz-de-pato.jpg",
+    "sources": [
+      "Cocina tradicional de Portugal"
+    ],
+    "translations": {}
+  }
+]
