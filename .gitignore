@@ -1,1 +1,2 @@
-Nothing should be ignored in this case, as the only modified file is a JSON translation file which is source content that should be tracked in version control.
+# Translations backup/consolidated files
+atlas-gastronomico/public/translations/recipes/batch-consolidated-*.json
