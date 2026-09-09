@@ -1,0 +1,206 @@
+[
+  {
+    "id": "ar-asado-criollo",
+    "name": "Asado Criollo",
+    "country": "Argentina",
+    "description": "Tradicional parrillada argentina con diversos cortes de carne cocinados a las brasas.",
+    "ingredients": [
+      "2 kg de asado de tira",
+      "1 kg de vacío",
+      "1 kg de chorizos criollos",
+      "1 kg de morcilla",
+      "Sal gruesa",
+      "Carbón o leña",
+      "Chimichurri"
+    ],
+    "instructions": [
+      "Encender el fuego y esperar a tener brasas consistentes.",
+      "Colocar la carne con sal gruesa sobre la parrilla.",
+      "Cocinar lentamente moviendo según intensidad del calor.",
+      "Voltear la carne solo una vez cuando esté dorada.",
+      "Agregar chorizos y morcilla al final.",
+      "Servir con chimichurri y pan."
+    ],
+    "prepTime": 180,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": [
+      "asado",
+      "parrilla",
+      "carne",
+      "tradicional",
+      "social"
+    ],
+    "image": "/images/recipes/argentina/asado-criollo.jpg",
+    "region": "Buenos Aires",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "El asado es mucho más que una comida en Argentina, es un ritual social que une familias y amigos. Sus orígenes se remontan a los gauchos de la pampa que cocinaban la carne en cruces de metal sobre fogones. Cada región tiene su estilo, pero todos comparten el respeto por la carne y el tiempo lento de cocción."
+  },
+  {
+    "id": "ar-empanadas-salteñas",
+    "name": "Empanadas Salteñas",
+    "country": "Argentina",
+    "description": "Empanadas de carne cortada a cuchillo con especias, horneadas hasta dorar.",
+    "ingredients": [
+      "500g de carne de res cortada a cuchillo",
+      "2 cebollas grandes",
+      "Pimentón dulce y picante",
+      "Comino",
+      "Aceitunas verdes",
+      "Huevos duros",
+      "Tapa de empanadas",
+      "Caldo de carne"
+    ],
+    "instructions": [
+      "Cocinar la carne con cebolla y especias hasta reducir líquido.",
+      "Dejar enfriar completamente el relleno (fundamental).",
+      "Rellenar las tapas con carne, aceituna y huevo.",
+      "Cerrar repulgando los bordes característicos.",
+      "Hornear a 200°C por 15-20 minutos hasta dorar.",
+      "Servir calientes con limón."
+    ],
+    "prepTime": 120,
+    "servings": 12,
+    "difficulty": "Media",
+    "tags": [
+      "empanadas",
+      "salteñas",
+      "horno",
+      "carne",
+      "domingo"
+    ],
+    "image": "/images/recipes/argentina/empanadas-salteñas.jpg",
+    "region": "Salta",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Las empanadas salteñas son famosas en toda Argentina por su jugosidad y sabor único. El secreto está en el corte a cuchillo de la carne y el repulgue característico que las identifica. En Salta, cada familia tiene su receta secreta transmitida por generaciones, y se consumen especialmente los domingos y festividades."
+  },
+  {
+    "id": "ar-milanesa-napolitana",
+    "name": "Milanesa Napolitana",
+    "country": "Argentina",
+    "description": "Milanesa de carne empanizada cubierta con jamón, queso y salsa de tomate.",
+    "ingredients": [
+      "4 bifes de nalga o peceto",
+      "2 huevos batidos",
+      "Pan rallado",
+      "4 fetas de jamón cocido",
+      "4 fetas de queso mozzarella",
+      "Salsa de tomate",
+      "Orégano",
+      "Aceite para freír"
+    ],
+    "instructions": [
+      "Aplanar la carne y pasarla por huevo y pan rallado.",
+      "Freír en aceite caliente hasta dorar ambos lados.",
+      "Colocar en fuente para horno.",
+      "Cubrir con salsa de tomate, jamón y queso.",
+      "Gratinar hasta que el queso se derrita.",
+      "Espolvorear orégano y servir."
+    ],
+    "prepTime": 45,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": [
+      "milanesa",
+      "napolitana",
+      "queso",
+      "rápido",
+      "clásico"
+    ],
+    "image": "/images/recipes/argentina/milanesa-napolitana.jpg",
+    "region": "Buenos Aires",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "A pesar de su nombre, la milanesa napolitana es completamente argentina. Se cree que fue creada accidentalmente en el restaurante 'Nápoli' de Buenos Aires en los años 1940, cuando un cocinero salvó unas milanesas quemadas cubriéndolas con ingredientes de pizza. Hoy es uno de los platos más populares de las pizzerías argentinas."
+  },
+  {
+    "id": "ar-locro",
+    "name": "Locro",
+    "country": "Argentina",
+    "description": "Guiso espeso y contundente con maíz, porotos, zapallo y carnes variadas.",
+    "ingredients": [
+      "500g de maíz blanco pisado",
+      "300g de porotos pallares",
+      "500g de zapallo anco",
+      "300g de carne de cerdo",
+      "200g de chorizo colorado",
+      "200g de panceta",
+      "Cebolla de verdeo",
+      "Ají molido"
+    ],
+    "instructions": [
+      "Remojar maíz y porotos desde la noche anterior.",
+      "Cocinar granos con carnes durante 2 horas aproximadamente.",
+      "Agregar zapallo en cubos cuando los granos estén tiernos.",
+      "Cocinar hasta obtener consistencia cremosa.",
+      "Preparar quiquirimichi (salsa picante) para acompañar.",
+      "Servir bien caliente en plato hondo."
+    ],
+    "prepTime": 180,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": [
+      "locro",
+      "guiso",
+      "maíz",
+      "andino",
+      "festivo"
+    ],
+    "image": "/images/recipes/argentina/locro.jpg",
+    "region": "Noroeste",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "El locro es un plato precolombino de origen andino que se ha convertido en símbolo de la identidad argentina. Tradicionalmente se consume el 25 de mayo (fecha patria) y en fechas festivas. Cada región del norte argentino tiene su variante, pero todos coinciden en ser un guiso comunitario que representa la unión y la celebración."
+  },
+  {
+    "id": "ar-dulce-de-leche",
+    "name": "Dulce de Leche Casero",
+    "country": "Argentina",
+    "description": "Dulce tradicional argentino hecho cociendo leche con azúcar hasta caramelizar.",
+    "ingredients": [
+      "1 litro de leche entera",
+      "300g de azúcar",
+      "1 cucharadita de esencia de vainilla",
+      "1 pizca de bicarbonato de sodio"
+    ],
+    "instructions": [
+      "Colocar todos los ingredientes en olla de fondo grueso.",
+      "Cocinar a fuego medio-bajo revolviendo constantemente.",
+      "Continuar por 1-2 horas hasta obtener consistencia espesa.",
+      "El punto correcto es cuando al pasar la cuchara deja marca.",
+      "Enfriar y guardar en recipiente hermético."
+    ],
+    "prepTime": 120,
+    "servings": 20,
+    "difficulty": "Media",
+    "tags": [
+      "dulce",
+      "leche",
+      "postre",
+      "tradicional",
+      "dulce"
+    ],
+    "image": "/images/recipes/argentina/dulce-de-leche-casero.jpg",
+    "region": "Todo el país",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "El dulce de leche es considerado el dulce nacional argentino. Aunque su origen es disputado con Uruguay, los argentinos lo han elevado a categoría de obsesión nacional. Se usa en alfajores, flanes, tortas, helados y simplemente en cuchara. Hay variedades como el pastelero (más espeso) y el repostero (más firme)."
+  }
+]

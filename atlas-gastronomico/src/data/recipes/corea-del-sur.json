@@ -1,0 +1,272 @@
+[
+  {
+    "id": "kor-001",
+    "name": "Kimchi Jjigae (Estofado de Kimchi)",
+    "country": "Corea del Sur",
+    "description": "Estofado picante y reconfortante de kimchi fermentado con cerdo, tofu y verduras. Plato casero coreano por excelencia, perfecto para días fríos.",
+    "ingredients": [
+      "400g de kimchi bien fermentado",
+      "200g de panceta de cerdo en rodajas",
+      "200g de tofu firme",
+      "100g de brotes de soja",
+      "2 cebolletas verdes",
+      "2 dientes de ajo picados",
+      "1 cucharada de gochujang (pasta de chili coreana)",
+      "1 cucharada de gochugaru (chili en polvo coreano)",
+      "1 cucharada de salsa de soja",
+      "1 cucharadita de azúcar",
+      "Caldo de anchoas o agua",
+      "Aceite de sésamo",
+      "Semillas de sésamo"
+    ],
+    "instructions": [
+      "Cortar kimchi en trozos medianos, reservar jugo.",
+      "Saltear cerdo en olla hasta dorar ligeramente.",
+      "Añadir kimchi, sofreír 5 minutos hasta ablandar.",
+      "Agregar ajo, gochujang, gochugaru, mezclar bien.",
+      "Verter caldo o agua hasta cubrir ingredientes.",
+      "Añadir jugo de kimchi reservado.",
+      "Incorporar salsa de soja y azúcar.",
+      "Hervir 10 minutos a fuego medio.",
+      "Añadir tofu en cubos, cocinar 5 minutos más.",
+      "Agregar brotes de soja y cebolletas.",
+      "Terminar con aceite de sésamo y semillas.",
+      "Servir hirviendo con arroz blanco."
+    ],
+    "prepTime": 15,
+    "servings": 4,
+    "difficulty": "Baja",
+    "tags": [
+      "estofado",
+      "kimchi",
+      "cerdo",
+      "corea",
+      "picante",
+      "fermentado"
+    ],
+    "image": "/images/recipes/corea-del-sur/kimchi-jjigae-(estofado-de-kimchi).jpg",
+    "region": "Nacional",
+    "city": "Seúl",
+    "coordinates": [
+      37.5665,
+      126.978
+    ],
+    "history": "El kimchi jjigae surgió como forma de usar kimchi muy fermentado (mugeunji) que era demasiado ácido para comer solo. Durante la guerra de Corea se popularizó como plato económico y nutritivo. Hoy es comida reconfortante nacional servida en hogares y restaurantes."
+  },
+  {
+    "id": "kor-002",
+    "name": "Bibimbap",
+    "country": "Corea del Sur",
+    "description": "Arroz mezclado con vegetales salteados, carne, huevo frito y gochujang. Plato colorido y balanceado que representa la filosofía coreana de armonía.",
+    "ingredients": [
+      "400g de arroz blanco coreano",
+      "150g de carne de res en tiras finas",
+      "1 zanahoria en juliana",
+      "1 calabacín en juliana",
+      "200g de espinacas",
+      "200g de brotes de soja",
+      "100g de setas shiitake",
+      "4 huevos",
+      "4 cucharadas de gochujang",
+      "2 cucharadas de aceite de sésamo",
+      "Ajo picado",
+      "Salsa de soja",
+      "Azúcar",
+      "Semillas de sésamo",
+      "Aceite vegetal"
+    ],
+    "instructions": [
+      "Cocinar arroz según método coreano.",
+      "Marinar carne con soja, ajo, azúcar y aceite de sésamo.",
+      "Saltear carne rápidamente, reservar.",
+      "Saltear cada vegetal por separado con sal y aceite de sésamo.",
+      "Escaldar espinacas 1 minuto, enfriar, escurrir, sazonar.",
+      "Freír huevos con yema líquida.",
+      "Montar bowls: arroz caliente en base.",
+      "Disponer vegetales y carne en secciones separadas sobre arroz.",
+      "Colocar huevo fijo en centro.",
+      "Servir con gochujang aparte.",
+      "Mezclar todo antes de comer rompiendo yema."
+    ],
+    "prepTime": 45,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "arroz",
+      "vegetales",
+      "res",
+      "corea",
+      "jeonju",
+      "balanceado"
+    ],
+    "image": "/images/recipes/corea-del-sur/bibimbap.jpg",
+    "region": "Jeolla",
+    "city": "Jeonju",
+    "coordinates": [
+      35.8242,
+      127.148
+    ],
+    "history": "Originario de Jeonju (capital culinaria de Corea), el bibimbap era comida real durante la dinastía Joseon. El nombre significa 'arroz mezclado'. Se sirve tradicionalmente en bowl de piedra caliente (dolsot) creando capa crujiente. Es ícono de la cocina coreana saludable."
+  },
+  {
+    "id": "kor-003",
+    "name": "Korean BBQ (Bulgogi)",
+    "country": "Corea del Sur",
+    "description": "Finas láminas de res marinadas en salsa dulce-salada de pera asiática, soja y sésamo, grilladas en mesa. Experiencia social coreana icónica.",
+    "ingredients": [
+      "800g de ribeye o lomo en láminas muy finas",
+      "1 pera asiática rallada",
+      "4 cucharadas de salsa de soja",
+      "2 cucharadas de azúcar moreno",
+      "2 cucharadas de mirin o sake",
+      "3 dientes de ajo machacados",
+      "1 cucharada de aceite de sésamo",
+      "Pimienta negra molida",
+      "2 cebolletas verdes en trozos",
+      "1 cebolla en gajos",
+      "Semillas de sésamo",
+      "Lechuga para envolver",
+      "Ssamjang (pasta para envolver)",
+      "Ajo crudo en láminas",
+      "Chiles verdes"
+    ],
+    "instructions": [
+      "Cortar carne en láminas lo más finas posible.",
+      "Mezclar pera rallada, soja, azúcar, mirin, ajo y aceite de sésamo.",
+      "Marinar carne mínimo 2 horas, idealmente toda la noche.",
+      "Precalentar grill o sartén a temperatura muy alta.",
+      "Grillar carne en batches sin sobrecargar, 2-3 minutos por lado.",
+      "Añadir cebolla y cebolletas al grill los últimos minutos.",
+      "Espolvorear semillas de sésamo.",
+      "Servir inmediatamente con lechugas frescas.",
+      "Cada comensal crea ssam: lechuga + carne + ssamjang + ajo + chili.",
+      "Comer de un bocado."
+    ],
+    "prepTime": 150,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "res",
+      "parrilla",
+      "bbq",
+      "corea",
+      "marinado",
+      "social"
+    ],
+    "image": "/images/recipes/corea-del-sur/korean-bbq-(bulgogi).jpg",
+    "region": "Nacional",
+    "city": "Seúl",
+    "coordinates": [
+      37.5665,
+      126.978
+    ],
+    "history": "El bulgogi ('carne de fuego') desciende del neobiani, plato real de la dinastía Goryeo. La marinada moderna con pera asiática se desarrolló en siglo XX. El BBQ coreano se hizo global en años 2000, representando la cultura de comer compartido coreano."
+  },
+  {
+    "id": "kor-004",
+    "name": "Tteokbokki (Pasteles de Arroz Picantes)",
+    "country": "Corea del Sur",
+    "description": "Pasteles de arroz masticables en salsa roja picante de gochujang con pasteles de pescado y huevos duros. Snack callejero coreano más popular.",
+    "ingredients": [
+      "500g de tteok (pasteles de arroz cilíndricos)",
+      "200g de eomuk (pasteles de pescado coreanos)",
+      "4 huevos duros",
+      "3 cucharadas de gochujang",
+      "2 cucharadas de gochugaru",
+      "2 cucharadas de salsa de soja",
+      "1 cucharada de azúcar",
+      "1 litro de caldo de anchoas",
+      "2 cebolletas verdes picadas",
+      "2 dientes de ajo picados",
+      "Semillas de sésamo",
+      "Aceite vegetal"
+    ],
+    "instructions": [
+      "Remojar tteok en agua 10 minutos si están duros.",
+      "Preparar caldo de anchoas hirviendo 10 minutos, colar.",
+      "En sartén amplia, mezclar gochujang, gochugaru, soja, azúcar y ajo.",
+      "Verter caldo, llevar a ebullición.",
+      "Añadir tteok, cocinar 10 minutos removiendo ocasionalmente.",
+      "Agregar pasteles de pescado cortados en triángulos.",
+      "Cocinar 5 minutos más hasta salsa espesa.",
+      "Incorporar huevos duros pelados.",
+      "La salsa debe reducirse y glasear los tteok.",
+      "Decorar con cebolletas y semillas de sésamo.",
+      "Servir caliente directamente de la sartén."
+    ],
+    "prepTime": 15,
+    "servings": 4,
+    "difficulty": "Baja",
+    "tags": [
+      "snack",
+      "picante",
+      "arroz",
+      "callejero",
+      "corea",
+      "gochujang"
+    ],
+    "image": "/images/recipes/corea-del-sur/tteokbokki-(pasteles-de-arroz-picantes).jpg",
+    "region": "Nacional",
+    "city": "Seúl",
+    "coordinates": [
+      37.5665,
+      126.978
+    ],
+    "history": "El tteokbokki original era versión no picante de la dinastía Joseon. En los años 1950, Ma Bok-rim de Seoul añadió gochujang creando la versión moderna. Se convirtió en comida callejera emblemática, especialmente popular entre estudiantes y jóvenes."
+  },
+  {
+    "id": "kor-005",
+    "name": "Japchae (Fideos de Vidrio Salteados)",
+    "country": "Corea del Sur",
+    "description": "Fideos transparentes de almidón de batata salteados con vegetales y res en salsa de soja dulce. Plato festivo elegante y versátil.",
+    "ingredients": [
+      "200g de dangmyeon (fideos de vidrio coreanos)",
+      "150g de lomo de res en tiras finas",
+      "1 zanahoria en juliana",
+      "1 cebolla en juliana",
+      "100g de espinacas",
+      "100g de setas shiitake hidratadas",
+      "2 dientes de ajo picados",
+      "3 cucharadas de salsa de soja",
+      "2 cucharadas de azúcar",
+      "2 cucharadas de aceite de sésamo",
+      "Pimienta negra",
+      "Semillas de sésamo",
+      "Aceite vegetal",
+      "Sal"
+    ],
+    "instructions": [
+      "Cocinar fideos según paquete, escurrir, cortar en largos manejables.",
+      "Marinar carne con 1 cda de soja, ajo, pimienta y aceite de sésamo.",
+      "Saltear carne rápidamente, reservar.",
+      "Saltear cada vegetal por separado con sal y poco aceite.",
+      "Escaldar espinacas, escurrir, sazonar con sal y aceite de sésamo.",
+      "Mezclar resto de soja con azúcar hasta disolver.",
+      "En wok grande, combinar fideos con mezcla de soja.",
+      "Saltear 2-3 minutos hasta fideos translúcidos.",
+      "Incorporar todos los vegetales y carne.",
+      "Añadir aceite de sésamo restante, mezclar bien.",
+      "Espolvorear semillas de sésamo.",
+      "Servir tibio o a temperatura ambiente."
+    ],
+    "prepTime": 30,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "fideos",
+      "salteado",
+      "res",
+      "festival",
+      "corea",
+      "transparente"
+    ],
+    "image": "/images/recipes/corea-del-sur/japchae-(fideos-de-vidrio-salteados).jpg",
+    "region": "Nacional",
+    "city": "Seúl",
+    "coordinates": [
+      37.5665,
+      126.978
+    ],
+    "history": "Creado en siglo XVII durante la dinastía Joseon para banquetes reales. Originalmente solo vegetales, se añadió carne en siglo XX. El japchae es plato obligatorio en celebraciones coreanas como bodas y cumpleaños, simbolizando longevidad."
+  }
+]

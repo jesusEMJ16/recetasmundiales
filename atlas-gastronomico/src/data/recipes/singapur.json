@@ -1,0 +1,273 @@
+[
+  {
+    "id": "sing-001",
+    "name": "Chili Crab (Cangrejo al Chili)",
+    "country": "Singapur",
+    "description": "Cangrejo de lodo en salsa espesa de tomate, chili y huevo batido. Plato nacional singapurense, messy pero increíblemente sabroso.",
+    "ingredients": [
+      "2 cangrejos de lodo grandes (aproximadamente 1kg cada uno)",
+      "4 cucharadas de aceite vegetal",
+      "6 dientes de ajo minced",
+      "2 cucharadas de jengibre fresco minced",
+      "4 chiles rojos frescos en rodajas",
+      "3 cucharadas de pasta de chili",
+      "400g de tomates triturados",
+      "2 cucharadas de salsa de soja",
+      "1 cucharada de salsa de pescado",
+      "1 cucharadita de azúcar",
+      "2 huevos batidos",
+      "Cilantro fresco para decorar",
+      "Pan mantou frito para servir",
+      "Agua o caldo de cangrejo"
+    ],
+    "instructions": [
+      "Limpiar cangrejos: retirar caparazón superior, branquias, cortar en cuartos.",
+      "Calentar wok con aceite a fuego alto.",
+      "Saltear ajo, jengibre y chiles 1 minuto hasta fragantes.",
+      "Añadir pasta de chili, cocinar 2 minutos.",
+      "Incorporar tomates triturados, cocinar 5 minutos.",
+      "Agregar cangrejos, mezclar bien con salsa.",
+      "Añadir soja, salsa de pescado y azúcar.",
+      "Verter agua o caldo hasta mitad de cangrejos.",
+      "Tapar, cocinar 10-12 minutos hasta cangrejos rojos.",
+      "Destapar, verter huevos batidos en hilo sobre salsa.",
+      "Remover suavemente para crear hebras de huevo.",
+      "La salsa debe espesar y cubrir cangrejos.",
+      "Servir inmediatamente con pan mantou para mojar."
+    ],
+    "prepTime": 30,
+    "servings": 2,
+    "difficulty": "Media",
+    "tags": [
+      "cangrejo",
+      "mariscos",
+      "picante",
+      "singapur",
+      "nacional",
+      "tomate"
+    ],
+    "image": "/images/recipes/singapur/chili-crab-(cangrejo-al-chili).jpg",
+    "region": "Nacional",
+    "city": "Singapur",
+    "coordinates": [
+      1.3521,
+      103.8198
+    ],
+    "history": "El chili crab fue creado accidentalmente en los años 1950 por Cher Yam Tian, quien añadió salsa de tomate y huevos a cangrejos salteados. Su esposo lo vendió en puesto callejero y se hizo famoso. Hoy es ícono culinario de Singapur, servido en restaurantes de lujo y hawker centers."
+  },
+  {
+    "id": "sing-002",
+    "name": "Hainanese Chicken Rice (Pollo Hainan con Arroz)",
+    "country": "Singapur",
+    "description": "Pollo poché tierno servido con arroz aceitoso de jengibre y ajo, acompañado de salsas de chili, jengibre y soja oscura. Simple pero perfecto.",
+    "ingredients": [
+      "1 pollo entero de 1.5kg",
+      "3 litros de agua",
+      "1 trozo de jengibre de 5cm machacado",
+      "4 dientes de ajo machacados",
+      "2 cebolletas atadas",
+      "1 cucharada de sal",
+      "Para arroz: 400g de arroz jazmín",
+      "3 cucharadas de grasa de pollo reservada",
+      "4 dientes de ajo minced",
+      "2cm de jengibre minced",
+      "Caldo de cocinar pollo",
+      "Para salsas: chili rojo, ajo, jengibre, lima, salsa de soja oscura, aceite de sésamo"
+    ],
+    "instructions": [
+      "Limpiar pollo, retirar exceso de grasa y reservar.",
+      "Hervir agua con jengibre, ajo, cebolletas y sal.",
+      "Sumergir pollo completamente en agua hirviendo.",
+      "Apagar fuego, tapar, dejar 20 minutos.",
+      "Retirar pollo, sumergir en agua helada 10 minutos (piel crujiente).",
+      "Reservar caldo para arroz y sopa.",
+      "Para arroz: freír ajo y jengibre en grasa de pollo.",
+      "Añadir arroz, sofreír 2 minutos.",
+      "Verter caldo de pollo (misma proporción que arroz).",
+      "Cocinar como arroz normal.",
+      "Cortar pollo en piezas para servir.",
+      "Preparar salsas: moler chili-ajo-lima, jengibre puro, soja con sésamo.",
+      "Servir pollo tibio con arroz, salsas y sopa aparte."
+    ],
+    "prepTime": 20,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "pollo",
+      "arroz",
+      "poche",
+      "singapur",
+      "hainan",
+      "simple"
+    ],
+    "image": "/images/recipes/singapur/hainanese-chicken-rice-(pollo-hainan-con-arroz).jpg",
+    "region": "Nacional",
+    "city": "Singapur",
+    "coordinates": [
+      1.3521,
+      103.8198
+    ],
+    "history": "Traído por inmigrantes hainaneses en siglo XIX, el chicken rice evolucionó en Singapur convirtiéndose en plato nacional. La técnica de pochar pollo y cocinar arroz en caldo del mismo pollo crea sabores delicados. Es comida diaria favorita y orgullo nacional."
+  },
+  {
+    "id": "sing-003",
+    "name": "Laksa Singapurense (Fideos en Coco Picante)",
+    "country": "Singapur",
+    "description": "Fideos de arroz gruesos en curry cremoso de coco picante con camarones, albóndigas de pescado y brotes de soja. Fusión Peranakan única.",
+    "ingredients": [
+      "400g de laksa noodles (fideos de arroz gruesos)",
+      "400ml de leche de coco espesa",
+      "200ml de caldo de camarón",
+      "200g de camarones grandes pelados",
+      "100g de albóndigas de pescado cortadas",
+      "200g de brotes de soja escaldados",
+      "Pasta de curry: 8 chiles rojos secos",
+      "5 chalotas",
+      "4 dientes de ajo",
+      "2cm de cúrcuma",
+      "2cm de galangal",
+      "1 cucharada de pasta de camarón",
+      "1 tallo de hierba limón machacado",
+      "Hojas de kesum (persicaria)",
+      "Aceite vegetal",
+      "Sambal opcional"
+    ],
+    "instructions": [
+      "Moler todos los ingredientes de pasta de curry hasta suave.",
+      "Calentar aceite, sofreír pasta de curry 5-7 minutos hasta fragante.",
+      "Añadir hierba limón, cocinar 2 minutos.",
+      "Verter caldo de camarón, llevar a ebullición.",
+      "Incorporar leche de coco, no dejar hervir fuerte.",
+      "Añadir camarones, cocinar 3 minutos hasta rosados.",
+      "Agregar albóndigas de pescado, calentar 2 minutos.",
+      "Sazonar con sal y azúcar si necesario.",
+      "Hidratar fideos según instrucciones, dividir en bowls.",
+      "Cubrir con brotes de soja escaldados.",
+      "Verter curry caliente generosamente.",
+      "Decorar con hojas kesum, servir con sambal."
+    ],
+    "prepTime": 30,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "fideos",
+      "curry",
+      "coco",
+      "singapur",
+      "peranakan",
+      "camarones"
+    ],
+    "image": "/images/recipes/singapur/laksa-singapurense-(fideos-en-coco-picante).jpg",
+    "region": "Nacional",
+    "city": "Singapur",
+    "coordinates": [
+      1.3521,
+      103.8198
+    ],
+    "history": "El laksa singapurense es creación Peranakan (chino-malayo) que combina fideos chinos con curry de coco malayo. Cada familia tiene receta secreta de pasta de curry. Es desayuno popular vendido en hawker centers desde madrugada."
+  },
+  {
+    "id": "sing-004",
+    "name": "Char Siew (Cerdo Asado Cantonés)",
+    "country": "Singapur",
+    "description": "Cerdo marinado en miel, salsa de soja y especias, asado hasta caramelizarse con bordes ligeramente quemados. Acompañamiento esencial de arroz cantonés.",
+    "ingredients": [
+      "1kg de lomo de cerdo o panceta sin hueso",
+      "4 cucharadas de salsa de soja",
+      "3 cucharadas de miel",
+      "2 cucharadas de hoisin",
+      "2 cucharadas de vino de arroz chino",
+      "1 cucharada de azúcar moreno",
+      "2 dientes de ajo minced",
+      "1 cucharadita de polvo de cinco especias",
+      "1/2 cucharadita de colorante rojo opcional",
+      "2 cucharadas de maltosa para glasear",
+      "Semillas de sésamo tostadas"
+    ],
+    "instructions": [
+      "Cortar cerdo en tiras largas de 3cm de grosor.",
+      "Mezclar soja, miel, hoisin, vino, azúcar, ajo, cinco especias y colorante.",
+      "Marinar cerdo mínimo 4 horas, idealmente toda la noche.",
+      "Precalentar horno a 200°C con rejilla alta.",
+      "Colocar cerdo en rejilla sobre bandeja con agua.",
+      "Asar 20 minutos, voltear, asar 15 minutos más.",
+      "Pincelar con maltosa, hornear 5 minutos adicionales.",
+      "El cerdo debe estar caramelizado con bordes quemados.",
+      "Dejar reposar 10 minutos antes de cortar.",
+      "Cortar en rodajas diagonales.",
+      "Servir con arroz blanco o en baozi."
+    ],
+    "prepTime": 270,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "cerdo",
+      "asado",
+      "miel",
+      "singapur",
+      "cantonés",
+      "dulce"
+    ],
+    "image": "/images/recipes/singapur/char-siew-(cerdo-asado-cantonés).jpg",
+    "region": "Nacional",
+    "city": "Singapur",
+    "coordinates": [
+      1.3521,
+      103.8198
+    ],
+    "history": "El char siew llegó con inmigrantes cantoneses y se adaptó al gusto singapurense más dulce. Se asa tradicionalmente colgado en horno de leña. Es componente clave del 'mixed rice' en hawker centers y favorito para baozi rellenos."
+  },
+  {
+    "id": "sing-005",
+    "name": "Kaya Toast (Tostada con Mermelada de Coco y Huevo)",
+    "country": "Singapur",
+    "description": "Tostada de pan blanco con mantequilla y kaya (mermelada de coco y huevo), servida con huevos medio cocidos y café kopi. Desayuno singapurense icónico.",
+    "ingredients": [
+      "Para kaya: 400ml de leche de coco espesa",
+      "6 huevos grandes",
+      "200g de azúcar",
+      "2 hojas de pandano atadas",
+      "Para servir: 8 rebanadas de pan blanco grueso",
+      "Mantequilla con sal a temperatura ambiente",
+      "4 huevos frescos para cocer",
+      "Salsa de soja ligera",
+      "Pimienta blanca molida",
+      "Cebollino picado fino",
+      "Café kopi o té tarik para acompañar"
+    ],
+    "instructions": [
+      "Para kaya: batir huevos con azúcar hasta disolver.",
+      "Añadir leche de coco y hojas de pandano.",
+      "Cocinar a baño maría revolviendo constantemente 45-60 minutos.",
+      "La mezcla debe espesar como mermelada.",
+      "Retirar pandano, enfriar completamente.",
+      "Tostar pan hasta dorado crujiente.",
+      "Untar generosamente con kaya tibia.",
+      "Colocar rodaja fina de mantequilla fría encima.",
+      "Cerrar con otra rebanada formando sándwich.",
+      "Cortar en triángulos o tiras.",
+      "Para huevos: cocer 6 minutos exactos, enfriar en agua.",
+      "Servir huevos en bowl pequeño con soja, pimienta y cebollino.",
+      "Mojar tostada en yema líquida."
+    ],
+    "prepTime": 10,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "desayuno",
+      "tostada",
+      "coco",
+      "singapur",
+      "kaya",
+      "huevos"
+    ],
+    "image": "/images/recipes/singapur/kaya-toast-(tostada-con-mermelada-de-coco-y-huevo).jpg",
+    "region": "Nacional",
+    "city": "Singapur",
+    "coordinates": [
+      1.3521,
+      103.8198
+    ],
+    "history": "El kaya toast es herencia de la colonización británica adaptada con ingredientes locales. El kaya fue creado por inmigrantes hainaneses usando coco abundante. Las kopitiams (cafeterías tradicionales) lo sirven desde los años 1950 como desayuno económico y reconfortante."
+  }
+]

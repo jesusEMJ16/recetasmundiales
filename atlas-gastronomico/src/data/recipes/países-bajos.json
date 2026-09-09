@@ -1,0 +1,217 @@
+[
+  {
+    "id": "nl-001",
+    "name": "Stroopwafel",
+    "country": "Países Bajos",
+    "description": "Gofre delgado relleno de caramelo líquido y especias.",
+    "ingredients": [
+      "500g de harina de trigo",
+      "250g de mantequilla fría",
+      "100g de azúcar",
+      "1 huevo",
+      "100ml de leche tibia",
+      "25g de levadura fresca",
+      "Para relleno: 200g de jarabe de maíz, 100g de azúcar moreno, 50g de mantequilla, canela"
+    ],
+    "instructions": [
+      "Disolver levadura en leche tibia",
+      "Mezclar harina, azúcar y mantequilla fría",
+      "Agregar huevo y leche con levadura",
+      "Amasar hasta obtener masa suave, reposar 1 hora",
+      "Formar bolas pequeñas y aplanar",
+      "Cocinar en gofrera hasta dorar",
+      "Cortar por la mitad mientras están calientes",
+      "Rellenar con mezcla de caramelo caliente y cerrar"
+    ],
+    "prepTime": 45,
+    "servings": 12,
+    "difficulty": "Media",
+    "tags": [
+      "gofre",
+      "caramelo",
+      "postre",
+      "dulce",
+      "holandés"
+    ],
+    "image": "/images/recipes/países-bajos/stroopwafel.jpg",
+    "region": "Güeldres",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Creado en Gouda en 1784 por panaderos que usaban sobras de masa. Hoy es el souvenir holandés más popular."
+  },
+  {
+    "id": "nl-002",
+    "name": "Bitterballen",
+    "country": "Países Bajos",
+    "description": "Bolas de carne estofada empanizadas y fritas, servidas con mostaza.",
+    "ingredients": [
+      "500g de carne de res para guiso",
+      "1 cebolla picada",
+      "500ml de caldo de carne",
+      "50g de mantequilla",
+      "50g de harina",
+      "2 huevos batidos",
+      "Pan rallado",
+      "Aceite para freír",
+      "Mostaza para servir"
+    ],
+    "instructions": [
+      "Cocinar carne en caldo 2 horas hasta tierna",
+      "Desmenuzar carne finamente",
+      "Preparar roux con mantequilla y harina",
+      "Agregar caldo gradualmente hasta espesar",
+      "Mezclar con carne desmenuzada",
+      "Enfriar mezcla hasta solidificar",
+      "Formar bolas, pasar por huevo y pan rallado",
+      "Freír hasta dorar y servir con mostaza"
+    ],
+    "prepTime": 60,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": [
+      "carne",
+      "frito",
+      "aperitivo",
+      "bar",
+      "holandés"
+    ],
+    "image": "/images/recipes/países-bajos/bitterballen.jpg",
+    "region": "Holanda Septentrional",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Aperitivo tradicional de bares holandeses desde el siglo XIX. Originalmente acompañamiento de bebidas alcohólicas ('bitter')."
+  },
+  {
+    "id": "nl-003",
+    "name": "Erwtensoep",
+    "country": "Países Bajos",
+    "description": "Sopa espesa de guisantes con cerdo ahumado y verduras.",
+    "ingredients": [
+      "500g de guisantes partidos secos",
+      "300g de cerdo ahumado (rococo)",
+      "200g de tocino",
+      "2 zanahorias en rodajas",
+      "2 nabos en cubos",
+      "1 puerro en rodajas",
+      "1 cebolla",
+      "2 litros de agua",
+      "Sal y pimienta al gusto"
+    ],
+    "instructions": [
+      "Remojar guisantes toda la noche",
+      "Cocinar guisantes con agua y cerdo 1.5 horas",
+      "Añadir verduras y continuar cocción 30 minutos",
+      "Retirar carne, deshuesar y cortar",
+      "Triturar parcialmente la sopa",
+      "Regresar carne a la olla",
+      "Servir muy caliente con pan centeno",
+      "Tradicionalmente se come después de patinar sobre hielo"
+    ],
+    "prepTime": 30,
+    "servings": 8,
+    "difficulty": "Fácil",
+    "tags": [
+      "sopa",
+      "guisantes",
+      "cerdo",
+      "invierno",
+      "tradicional"
+    ],
+    "image": "/images/recipes/países-bajos/erwtensoep.jpg",
+    "region": "Frisia",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Sopa invernal tradicional holandesa. Se dice que debe ser tan espesa que una cuchara se mantiene vertical en ella."
+  },
+  {
+    "id": "nl-004",
+    "name": "Haring met Uitjes",
+    "country": "Países Bajos",
+    "description": "Arenque crudo curado en salmuera, servido con cebolla picada.",
+    "ingredients": [
+      "4 filetes de arenque fresco curado",
+      "2 cebollas blancas picadas finamente",
+      "Pepinillos en vinagre (opcional)",
+      "Pan para acompañar"
+    ],
+    "instructions": [
+      "Mantener arenque refrigerado hasta servir",
+      "Picar cebollas muy finamente",
+      "Colocar filetes de arenque en plato",
+      "Cubrir generosamente con cebolla",
+      "Servir inmediatamente con pepinillos",
+      "Tradicionalmente se come sosteniendo el filete por la cola"
+    ],
+    "prepTime": 15,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": [
+      "pescado",
+      "crudo",
+      "curado",
+      "arenque",
+      "tradicional"
+    ],
+    "image": "/images/recipes/países-bajos/haring-met-uitjes.jpg",
+    "region": "Holanda Meridional",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Tradición pesquera holandesa desde el siglo XIV. El 'Hollandse Nieuwe' solo se vende de junio a diciembre."
+  },
+  {
+    "id": "nl-005",
+    "name": "Poffertjes",
+    "country": "Países Bajos",
+    "description": "Mini panqueques esponjosos hechos con harina de trigo sarraceno.",
+    "ingredients": [
+      "250g de harina de trigo sarraceno",
+      "250ml de leche tibia",
+      "25g de levadura fresca",
+      "2 huevos separados",
+      "50g de azúcar",
+      "Pizca de sal",
+      "Azúcar glass para espolvorear",
+      "Mantequilla derretida"
+    ],
+    "instructions": [
+      "Disolver levadura en leche tibia",
+      "Mezclar harinas, agregar leche y yemas",
+      "Dejar fermentar 30 minutos",
+      "Batir claras a punto de nieve",
+      "Incorporar claras suavemente a la masa",
+      "Calentar sartén especial para poffertjes",
+      "Verter pequeñas cantidades y voltear cuando burbujeen",
+      "Servir calientes con azúcar glass y mantequilla"
+    ],
+    "prepTime": 30,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "panqueques",
+      "trigo sarraceno",
+      "postre",
+      "feria",
+      "dulce"
+    ],
+    "image": "/images/recipes/países-bajos/poffertjes.jpg",
+    "region": "Brabante Septentrional",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Originarios del siglo XVIII cuando la harina de trigo sarraceno era abundante. Hoy son populares en ferias y mercados."
+  }
+]
