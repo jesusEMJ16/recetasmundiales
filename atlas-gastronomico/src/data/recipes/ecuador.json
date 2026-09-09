@@ -1,210 +1,346 @@
 [
   {
     "id": "ec-ceviche-de-camarones",
-    "name": "Ceviche de Camarones Ecuatoriano",
-    "country": "Ecuador",
-    "description": "Camarones cocidos en jugo de limón con salsa de tomate y cebolla.",
+    "dishName": "Ceviche de Camarones Ecuatoriano",
+    "summary": "Camarones cocidos en jugo de limón con salsa de tomate y cebolla.",
+    "placeId": "Ecuador",
     "ingredients": [
-      "500g de camarones medianos",
-      "Jugo de 6 limones",
-      "1 cebolla roja picada fina",
-      "2 tomates maduros picados",
-      "Salsa de tomate",
-      "Cilantro fresco",
-      "Sal y pimienta",
-      "Cancha tostada o chifles"
+      {
+        "ingredient": "500g de camarones medianos"
+      },
+      {
+        "ingredient": "Jugo de 6 limones"
+      },
+      {
+        "ingredient": "1 cebolla roja picada fina"
+      },
+      {
+        "ingredient": "2 tomates maduros picados"
+      },
+      {
+        "ingredient": "Salsa de tomate"
+      },
+      {
+        "ingredient": "Cilantro fresco"
+      },
+      {
+        "ingredient": "Sal y pimienta"
+      },
+      {
+        "ingredient": "Cancha tostada o chifles"
+      }
     ],
-    "instructions": [
-      "Cocer camarones ligeramente en agua con sal.",
-      "Enfriar y pelar camarones.",
-      "Mezclar con cebolla, tomate y cilantro.",
-      "Agregar jugo de limón y salsa de tomate al gusto.",
-      "Refrigerar por 30 minutos.",
-      "Servir frío acompañado de cancha o chifles."
+    "steps": [
+      {
+        "step": "Cocer camarones ligeramente en agua con sal.",
+        "number": 1
+      },
+      {
+        "step": "Enfriar y pelar camarones.",
+        "number": 2
+      },
+      {
+        "step": "Mezclar con cebolla, tomate y cilantro.",
+        "number": 3
+      },
+      {
+        "step": "Agregar jugo de limón y salsa de tomate al gusto.",
+        "number": 4
+      },
+      {
+        "step": "Refrigerar por 30 minutos.",
+        "number": 5
+      },
+      {
+        "step": "Servir frío acompañado de cancha o chifles.",
+        "number": 6
+      }
     ],
-    "prepTime": 45,
+    "prepTimeMin": 45,
+    "cookTimeMin": 0,
+    "totalTimeMin": 45,
     "servings": 4,
+    "imageUrl": "/images/recipes/ecuador/ceviche-de-camarones-ecuatoriano.jpg",
+    "slug": "ec-ceviche-de-camarones",
+    "cuisine": "ecuador",
     "difficulty": "Fácil",
-    "tags": [
-      "ceviche",
-      "camarones",
-      "costa",
-      "limon",
-      "playa"
-    ],
-    "image": "/images/recipes/ecuador/ceviche-de-camarones-ecuatoriano.jpg",
-    "region": "Costa",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El ceviche ecuatoriano es diferente al peruano: aquí los mariscos se cocinan ligeramente antes de marinar. Es el plato típico de la costa ecuatoriana, especialmente en Guayaquil y Manabí. Se consume los fines de semana en familia y es infaltable en las playas. El secreto está en el equilibrio entre el ácido del limón y el dulzor del tomate."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ec-llapingachos",
-    "name": "Llapingachos",
-    "country": "Ecuador",
-    "description": "Tortillas fritas de papa rellenas de queso, servidas con embutidos.",
+    "dishName": "Llapingachos",
+    "summary": "Tortillas fritas de papa rellenas de queso, servidas con embutidos.",
+    "placeId": "Ecuador",
     "ingredients": [
-      "1 kg de papas cocidas",
-      "200g de queso fresco",
-      "1 cebolla finamente picada",
-      "Achiote en polvo",
-      "Huevos batidos",
-      "Aceite para freír",
-      "Chorizo y longaniza",
-      "Salsa de maní"
+      {
+        "ingredient": "1 kg de papas cocidas"
+      },
+      {
+        "ingredient": "200g de queso fresco"
+      },
+      {
+        "ingredient": "1 cebolla finamente picada"
+      },
+      {
+        "ingredient": "Achiote en polvo"
+      },
+      {
+        "ingredient": "Huevos batidos"
+      },
+      {
+        "ingredient": "Aceite para freír"
+      },
+      {
+        "ingredient": "Chorizo y longaniza"
+      },
+      {
+        "ingredient": "Salsa de maní"
+      }
     ],
-    "instructions": [
-      "Hacer puré de papas con cebolla y achiote.",
-      "Formar tortillas rellenando con queso.",
-      "Pasar por huevo batido.",
-      "Freír hasta dorar ambos lados.",
-      "Preparar embutidos a la plancha.",
-      "Servir con salsa de maní y ensalada."
+    "steps": [
+      {
+        "step": "Hacer puré de papas con cebolla y achiote.",
+        "number": 1
+      },
+      {
+        "step": "Formar tortillas rellenando con queso.",
+        "number": 2
+      },
+      {
+        "step": "Pasar por huevo batido.",
+        "number": 3
+      },
+      {
+        "step": "Freír hasta dorar ambos lados.",
+        "number": 4
+      },
+      {
+        "step": "Preparar embutidos a la plancha.",
+        "number": 5
+      },
+      {
+        "step": "Servir con salsa de maní y ensalada.",
+        "number": 6
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 6,
+    "imageUrl": "/images/recipes/ecuador/llapingachos.jpg",
+    "slug": "ec-llapingachos",
+    "cuisine": "ecuador",
     "difficulty": "Media",
-    "tags": [
-      "llapingachos",
-      "papa",
-      "queso",
-      "sierra",
-      "domingo"
-    ],
-    "image": "/images/recipes/ecuador/llapingachos.jpg",
-    "region": "Sierra",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Los llapingachos son originarios de la sierra ecuatoriana, especialmente de Ambato. Su nombre viene del quechua 'llapin' (aplastar) y 'chachi' (rico). Son un ejemplo perfecto de la fusión indígena-española: papa nativa andina con queso europeo. Tradicionalmente se comen los domingos acompañados de embutidos y cerveza."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ec-encebollado",
-    "name": "Encebollado",
-    "country": "Ecuador",
-    "description": "Sopa de pescado con cebolla, yuca y plátano verde.",
+    "dishName": "Encebollado",
+    "summary": "Sopa de pescado con cebolla, yuca y plátano verde.",
+    "placeId": "Ecuador",
     "ingredients": [
-      "500g de pescado blanco (albacora)",
-      "3 cebollas grandes en julianas",
-      "1 yuca grande cocida",
-      "1 plátano verde cocido",
-      "Jugo de 2 limones",
-      "Cilantro",
-      "Comino, sal"
+      {
+        "ingredient": "500g de pescado blanco (albacora)"
+      },
+      {
+        "ingredient": "3 cebollas grandes en julianas"
+      },
+      {
+        "ingredient": "1 yuca grande cocida"
+      },
+      {
+        "ingredient": "1 plátano verde cocido"
+      },
+      {
+        "ingredient": "Jugo de 2 limones"
+      },
+      {
+        "ingredient": "Cilantro"
+      },
+      {
+        "ingredient": "Comino, sal"
+      }
     ],
-    "instructions": [
-      "Cocer pescado con especias y desmenuzar.",
-      "Reservar caldo de cocción.",
-      "Marinar cebolla en jugo de limón con sal.",
-      "Calentar caldo con pescado.",
-      "Servir sopa caliente con cebolla marinada.",
-      "Acompañar con yuca, plátano y chifles."
+    "steps": [
+      {
+        "step": "Cocer pescado con especias y desmenuzar.",
+        "number": 1
+      },
+      {
+        "step": "Reservar caldo de cocción.",
+        "number": 2
+      },
+      {
+        "step": "Marinar cebolla en jugo de limón con sal.",
+        "number": 3
+      },
+      {
+        "step": "Calentar caldo con pescado.",
+        "number": 4
+      },
+      {
+        "step": "Servir sopa caliente con cebolla marinada.",
+        "number": 5
+      },
+      {
+        "step": "Acompañar con yuca, plátano y chifles.",
+        "number": 6
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 4,
+    "imageUrl": "/images/recipes/ecuador/encebollado.jpg",
+    "slug": "ec-encebollado",
+    "cuisine": "ecuador",
     "difficulty": "Media",
-    "tags": [
-      "encebollado",
-      "pescado",
-      "sopa",
-      "resaca",
-      "nacional"
-    ],
-    "image": "/images/recipes/ecuador/encebollado.jpg",
-    "region": "Costa",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El encebollado es el plato nacional no oficial de Ecuador, especialmente popular en la costa. Es considerado el mejor remedio para la resaca y se vende en puestos callejeros desde muy temprano. La combinación de pescado fresco, cebolla marinada y yuca crea un sabor único que representa la identidad culinaria ecuatoriana."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ec-hornado-panguense",
-    "name": "Hornado Panguense",
-    "country": "Ecuador",
-    "description": "Cerdo asado lentamente con especias, servido con mote y llapingachos.",
+    "dishName": "Hornado Panguense",
+    "summary": "Cerdo asado lentamente con especias, servido con mote y llapingachos.",
+    "placeId": "Ecuador",
     "ingredients": [
-      "2 kg de lomo de cerdo",
-      "Cerveza negra",
-      "Ajo, comino, orégano",
-      "Achiote",
-      "Sal gruesa",
-      "Mote (maíz cocido)",
-      "Papas cocidas",
-      "Salsa de ají"
+      {
+        "ingredient": "2 kg de lomo de cerdo"
+      },
+      {
+        "ingredient": "Cerveza negra"
+      },
+      {
+        "ingredient": "Ajo, comino, orégano"
+      },
+      {
+        "ingredient": "Achiote"
+      },
+      {
+        "ingredient": "Sal gruesa"
+      },
+      {
+        "ingredient": "Mote (maíz cocido)"
+      },
+      {
+        "ingredient": "Papas cocidas"
+      },
+      {
+        "ingredient": "Salsa de ají"
+      }
     ],
-    "instructions": [
-      "Marinar cerdo con cerveza y especias toda la noche.",
-      "Hornear a temperatura baja por 3-4 horas.",
-      "Bañar regularmente con jugos de cocción.",
-      "Subir temperatura al final para dorar piel.",
-      "Cortar en trozos pequeños.",
-      "Servir con mote, papas y ají."
+    "steps": [
+      {
+        "step": "Marinar cerdo con cerveza y especias toda la noche.",
+        "number": 1
+      },
+      {
+        "step": "Hornear a temperatura baja por 3-4 horas.",
+        "number": 2
+      },
+      {
+        "step": "Bañar regularmente con jugos de cocción.",
+        "number": 3
+      },
+      {
+        "step": "Subir temperatura al final para dorar piel.",
+        "number": 4
+      },
+      {
+        "step": "Cortar en trozos pequeños.",
+        "number": 5
+      },
+      {
+        "step": "Servir con mote, papas y ají.",
+        "number": 6
+      }
     ],
-    "prepTime": 300,
+    "prepTimeMin": 300,
+    "cookTimeMin": 0,
+    "totalTimeMin": 300,
     "servings": 8,
+    "imageUrl": "/images/recipes/ecuador/hornado-panguense.jpg",
+    "slug": "ec-hornado-panguense",
+    "cuisine": "ecuador",
     "difficulty": "Media",
-    "tags": [
-      "hornado",
-      "cerdo",
-      "horno",
-      "cotopaxi",
-      "feria"
-    ],
-    "image": "/images/recipes/ecuador/hornado-panguense.jpg",
-    "region": "Sierra",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El hornado es famoso en la provincia de Cotopaxi, especialmente en Pangua donde hay hornos tradicionales que funcionan desde hace generaciones. El cerdo se cocina lentamente hasta quedar jugoso por dentro y crujiente por fuera. Es el plato festivo por excelencia en ferias y celebraciones de la sierra ecuatoriana."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ec-cuy-asado",
-    "name": "Cuy Asado",
-    "country": "Ecuador",
-    "description": "Conejo de Guinea asado entero con hierbas aromáticas.",
+    "dishName": "Cuy Asado",
+    "summary": "Conejo de Guinea asado entero con hierbas aromáticas.",
+    "placeId": "Ecuador",
     "ingredients": [
-      "2 cuyes enteros destazados",
-      "Ajo machacado",
-      "Sal, comino, orégano",
-      "Hierbas aromáticas",
-      "Aceite o manteca",
-      "Papas cocidas",
-      "Ají de maní"
+      {
+        "ingredient": "2 cuyes enteros destazados"
+      },
+      {
+        "ingredient": "Ajo machacado"
+      },
+      {
+        "ingredient": "Sal, comino, orégano"
+      },
+      {
+        "ingredient": "Hierbas aromáticas"
+      },
+      {
+        "ingredient": "Aceite o manteca"
+      },
+      {
+        "ingredient": "Papas cocidas"
+      },
+      {
+        "ingredient": "Ají de maní"
+      }
     ],
-    "instructions": [
-      "Limpiar y sazonar cuyes con ajo y especias.",
-      "Colocar en bandeja extendidos.",
-      "Hornear o asar a la brasa por 45 minutos.",
-      "Voltear ocasionalmente para dorar parejo.",
-      "La piel debe quedar crujiente.",
-      "Servir entero con papas y ají."
+    "steps": [
+      {
+        "step": "Limpiar y sazonar cuyes con ajo y especias.",
+        "number": 1
+      },
+      {
+        "step": "Colocar en bandeja extendidos.",
+        "number": 2
+      },
+      {
+        "step": "Hornear o asar a la brasa por 45 minutos.",
+        "number": 3
+      },
+      {
+        "step": "Voltear ocasionalmente para dorar parejo.",
+        "number": 4
+      },
+      {
+        "step": "La piel debe quedar crujiente.",
+        "number": 5
+      },
+      {
+        "step": "Servir entero con papas y ají.",
+        "number": 6
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 4,
+    "imageUrl": "/images/recipes/ecuador/cuy-asado.jpg",
+    "slug": "ec-cuy-asado",
+    "cuisine": "ecuador",
     "difficulty": "Media",
-    "tags": [
-      "cuy",
-      "conejo",
-      "andes",
-      "inca",
-      "festivo"
-    ],
-    "image": "/images/recipes/ecuador/cuy-asado.jpg",
-    "region": "Sierra",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El cuy ha sido fuente de proteína en los Andes desde tiempos precolombinos. Los incas lo criaban en las cocinas para tener alimento siempre disponible. Hoy es considerado un manjar especial para ocasiones importantes: bodas, bautizos y fiestas patronales. En Cuenca y Azuay es especialmente apreciado por su valor nutricional y cultural."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

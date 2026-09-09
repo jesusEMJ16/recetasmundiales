@@ -1,379 +1,615 @@
 [
   {
     "id": "espa-001",
-    "name": "Paella Valenciana",
-    "country": "España",
-    "description": "El plato más emblemático de España con arroz, pollo, conejo y judías verdes.",
+    "dishName": "Paella Valenciana",
+    "summary": "El plato más emblemático de España con arroz, pollo, conejo y judías verdes.",
+    "placeId": "España",
     "ingredients": [
-      "400g arroz bomba",
-      "1 pollo troceado",
-      "1 conejo troceado",
-      "200g judías verdes",
-      "100g garrofó",
-      "1 tomate rallado",
-      "Azafrán",
-      "Pimentón dulce",
-      "Aceite de oliva",
-      "Sal",
-      "Agua"
+      {
+        "ingredient": "400g arroz bomba"
+      },
+      {
+        "ingredient": "1 pollo troceado"
+      },
+      {
+        "ingredient": "1 conejo troceado"
+      },
+      {
+        "ingredient": "200g judías verdes"
+      },
+      {
+        "ingredient": "100g garrofó"
+      },
+      {
+        "ingredient": "1 tomate rallado"
+      },
+      {
+        "ingredient": "Azafrán"
+      },
+      {
+        "ingredient": "Pimentón dulce"
+      },
+      {
+        "ingredient": "Aceite de oliva"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Agua"
+      }
     ],
-    "instructions": [
-      "Calentar aceite y dorar carnes",
-      "Añadir verduras y sofreír",
-      "Agregar tomate y pimentón",
-      "Verter agua y cocinar 20 min",
-      "Añadir azafrán y arroz",
-      "Cocinar 18 minutos",
-      "Dejar reposar 5 min"
+    "steps": [
+      {
+        "step": "Calentar aceite y dorar carnes",
+        "number": 1
+      },
+      {
+        "step": "Añadir verduras y sofreír",
+        "number": 2
+      },
+      {
+        "step": "Agregar tomate y pimentón",
+        "number": 3
+      },
+      {
+        "step": "Verter agua y cocinar 20 min",
+        "number": 4
+      },
+      {
+        "step": "Añadir azafrán y arroz",
+        "number": 5
+      },
+      {
+        "step": "Cocinar 18 minutos",
+        "number": 6
+      },
+      {
+        "step": "Dejar reposar 5 min",
+        "number": 7
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 4,
+    "imageUrl": "/images/recipes/españa/espa-001.jpg",
+    "slug": "espa-001",
+    "cuisine": "españa",
     "difficulty": "Media",
-    "tags": [
-      "arroz",
-      "valencia",
-      "tradicional"
-    ],
-    "image": "",
-    "region": "Comunidad Valenciana",
-    "city": "Valencia",
-    "coordinates": [
-      39.4699,
-      -0.3763
-    ],
-    "history": "La paella nació en el siglo XVIII en los campos de arroz de Valencia."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "espa-002",
-    "name": "Tortilla Española",
-    "country": "España",
-    "description": "Clásica tortilla de patatas y cebolla, plato nacional español.",
+    "dishName": "Tortilla Española",
+    "summary": "Clásica tortilla de patatas y cebolla, plato nacional español.",
+    "placeId": "España",
     "ingredients": [
-      "6 huevos",
-      "500g patatas",
-      "1 cebolla",
-      "Aceite de oliva",
-      "Sal"
+      {
+        "ingredient": "6 huevos"
+      },
+      {
+        "ingredient": "500g patatas"
+      },
+      {
+        "ingredient": "1 cebolla"
+      },
+      {
+        "ingredient": "Aceite de oliva"
+      },
+      {
+        "ingredient": "Sal"
+      }
     ],
-    "instructions": [
-      "Cortar patatas en láminas",
-      "Freír patatas y cebolla",
-      "Mezclar con huevos batidos",
-      "Cuajar en sartén por ambos lados"
+    "steps": [
+      {
+        "step": "Cortar patatas en láminas",
+        "number": 1
+      },
+      {
+        "step": "Freír patatas y cebolla",
+        "number": 2
+      },
+      {
+        "step": "Mezclar con huevos batidos",
+        "number": 3
+      },
+      {
+        "step": "Cuajar en sartén por ambos lados",
+        "number": 4
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 4,
+    "imageUrl": "/images/recipes/españa/espa-002.jpg",
+    "slug": "espa-002",
+    "cuisine": "españa",
     "difficulty": "Fácil",
-    "tags": [
-      "huevos",
-      "patatas",
-      "tradicional"
-    ],
-    "image": "",
-    "region": "Nacional",
-    "city": "Madrid",
-    "coordinates": [
-      40.4168,
-      -3.7038
-    ],
-    "history": "Originaria del siglo XIX en Navarra, se convirtió en símbolo de la cocina española."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "espa-003",
-    "name": "Gazpacho Andaluz",
-    "country": "España",
-    "description": "Sopa fría de tomate y verduras, perfecta para el verano.",
+    "dishName": "Gazpacho Andaluz",
+    "summary": "Sopa fría de tomate y verduras, perfecta para el verano.",
+    "placeId": "España",
     "ingredients": [
-      "1kg tomates",
-      "1 pimiento verde",
-      "1 pepino",
-      "1 ajo",
-      "100g pan duro",
-      "100ml aceite de oliva",
-      "50ml vinagre",
-      "Sal"
+      {
+        "ingredient": "1kg tomates"
+      },
+      {
+        "ingredient": "1 pimiento verde"
+      },
+      {
+        "ingredient": "1 pepino"
+      },
+      {
+        "ingredient": "1 ajo"
+      },
+      {
+        "ingredient": "100g pan duro"
+      },
+      {
+        "ingredient": "100ml aceite de oliva"
+      },
+      {
+        "ingredient": "50ml vinagre"
+      },
+      {
+        "ingredient": "Sal"
+      }
     ],
-    "instructions": [
-      "Trocear verduras",
-      "Triturar todo con aceite y vinagre",
-      "Colar",
-      "Refrigerar 2 horas",
-      "Servir frío"
+    "steps": [
+      {
+        "step": "Trocear verduras",
+        "number": 1
+      },
+      {
+        "step": "Triturar todo con aceite y vinagre",
+        "number": 2
+      },
+      {
+        "step": "Colar",
+        "number": 3
+      },
+      {
+        "step": "Refrigerar 2 horas",
+        "number": 4
+      },
+      {
+        "step": "Servir frío",
+        "number": 5
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 6,
+    "imageUrl": "/images/recipes/españa/gazpacho-andaluz.jpg",
+    "slug": "espa-003",
+    "cuisine": "españa",
     "difficulty": "Fácil",
-    "tags": [
-      "sopa fría",
-      "tomate",
-      "andalucía",
-      "vegano"
-    ],
-    "image": "/images/recipes/españa/gazpacho-andaluz.jpg",
-    "region": "Andalucía",
-    "city": "Sevilla",
-    "coordinates": [
-      37.3891,
-      -5.9845
-    ],
-    "history": "Con raíces romanas y árabes, evolucionó con la llegada del tomate de América."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "espa-004",
-    "name": "Jamón Ibérico de Bellota",
-    "country": "España",
-    "description": "Jamón curado de cerdos ibéricos alimentados con bellotas.",
+    "dishName": "Jamón Ibérico de Bellota",
+    "summary": "Jamón curado de cerdos ibéricos alimentados con bellotas.",
+    "placeId": "España",
     "ingredients": [
-      "1 jamón ibérico de bellota curado"
+      {
+        "ingredient": "1 jamón ibérico de bellota curado"
+      }
     ],
-    "instructions": [
-      "Colocar en jamonero",
-      "Limpiar superficie",
-      "Cortar lonchas finas",
-      "Servir a temperatura ambiente"
+    "steps": [
+      {
+        "step": "Colocar en jamonero",
+        "number": 1
+      },
+      {
+        "step": "Limpiar superficie",
+        "number": 2
+      },
+      {
+        "step": "Cortar lonchas finas",
+        "number": 3
+      },
+      {
+        "step": "Servir a temperatura ambiente",
+        "number": 4
+      }
     ],
-    "prepTime": 10,
+    "prepTimeMin": 10,
+    "cookTimeMin": 0,
+    "totalTimeMin": 10,
     "servings": 8,
+    "imageUrl": "/images/recipes/españa/jamón-ibérico-de-bellota.jpg",
+    "slug": "espa-004",
+    "cuisine": "españa",
     "difficulty": "Media",
-    "tags": [
-      "embutido",
-      "ibérico",
-      "curado",
-      "gourmet"
-    ],
-    "image": "/images/recipes/españa/jamón-ibérico-de-bellota.jpg",
-    "region": "Extremadura",
-    "city": "Jabugo",
-    "coordinates": [
-      37.9089,
-      -6.7661
-    ],
-    "history": "Tradición que viene de celtas y romanos. Curación de hasta 48 meses."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "espa-005",
-    "name": "Churros con Chocolate",
-    "country": "España",
-    "description": "Churros crujientes con chocolate espeso para mojar.",
+    "dishName": "Churros con Chocolate",
+    "summary": "Churros crujientes con chocolate espeso para mojar.",
+    "placeId": "España",
     "ingredients": [
-      "250g harina",
-      "250ml agua",
-      "Sal",
-      "Aceite para freír",
-      "Azúcar",
-      "200g chocolate negro",
-      "500ml leche",
-      "Maicena"
+      {
+        "ingredient": "250g harina"
+      },
+      {
+        "ingredient": "250ml agua"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Aceite para freír"
+      },
+      {
+        "ingredient": "Azúcar"
+      },
+      {
+        "ingredient": "200g chocolate negro"
+      },
+      {
+        "ingredient": "500ml leche"
+      },
+      {
+        "ingredient": "Maicena"
+      }
     ],
-    "instructions": [
-      "Hervir agua con sal",
-      "Añadir harina y amasar",
-      "Formar churros con manga",
-      "Freír hasta dorar",
-      "Preparar chocolate espeso",
-      "Servir juntos"
+    "steps": [
+      {
+        "step": "Hervir agua con sal",
+        "number": 1
+      },
+      {
+        "step": "Añadir harina y amasar",
+        "number": 2
+      },
+      {
+        "step": "Formar churros con manga",
+        "number": 3
+      },
+      {
+        "step": "Freír hasta dorar",
+        "number": 4
+      },
+      {
+        "step": "Preparar chocolate espeso",
+        "number": 5
+      },
+      {
+        "step": "Servir juntos",
+        "number": 6
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/españa/churros-con-chocolate.jpg",
+    "slug": "espa-005",
+    "cuisine": "españa",
     "difficulty": "Media",
-    "tags": [
-      "postre",
-      "chocolate",
-      "desayuno"
-    ],
-    "image": "/images/recipes/españa/churros-con-chocolate.jpg",
-    "region": "Nacional",
-    "city": "Madrid",
-    "coordinates": [
-      40.4168,
-      -3.7038
-    ],
-    "history": "Traídos de China por los portugueses, popularizados como desayuno de pastores."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "espa-006",
-    "name": "Pulpo a la Gallega",
-    "country": "España",
-    "description": "Pulpo tierno sobre patatas con pimentón y aceite de oliva.",
+    "dishName": "Pulpo a la Gallega",
+    "summary": "Pulpo tierno sobre patatas con pimentón y aceite de oliva.",
+    "placeId": "España",
     "ingredients": [
-      "1 pulpo 2-3kg",
-      "4 patatas",
-      "Pimentón dulce y picante",
-      "Sal gorda",
-      "Aceite de oliva"
+      {
+        "ingredient": "1 pulpo 2-3kg"
+      },
+      {
+        "ingredient": "4 patatas"
+      },
+      {
+        "ingredient": "Pimentón dulce y picante"
+      },
+      {
+        "ingredient": "Sal gorda"
+      },
+      {
+        "ingredient": "Aceite de oliva"
+      }
     ],
-    "instructions": [
-      "Cocer pulpo 40-50 min",
-      "Dejar reposar",
-      "Cortar en rodajas",
-      "Servir sobre patatas con pimentón y aceite"
+    "steps": [
+      {
+        "step": "Cocer pulpo 40-50 min",
+        "number": 1
+      },
+      {
+        "step": "Dejar reposar",
+        "number": 2
+      },
+      {
+        "step": "Cortar en rodajas",
+        "number": 3
+      },
+      {
+        "step": "Servir sobre patatas con pimentón y aceite",
+        "number": 4
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 4,
+    "imageUrl": "/images/recipes/españa/pulpo-a-la-gallega.jpg",
+    "slug": "espa-006",
+    "cuisine": "españa",
     "difficulty": "Media",
-    "tags": [
-      "marisco",
-      "galicia",
-      "pescado"
-    ],
-    "image": "/images/recipes/españa/pulpo-a-la-gallega.jpg",
-    "region": "Galicia",
-    "city": "O Carballiño",
-    "coordinates": [
-      42.4322,
-      -8.0756
-    ],
-    "history": "Típico de fiestas gallegas, se cuece tradicionalmente en ollas de cobre."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "espa-007",
-    "name": "Fabada Asturiana",
-    "country": "España",
-    "description": "Guiso de alubias blancas con embutidos asturianos.",
+    "dishName": "Fabada Asturiana",
+    "summary": "Guiso de alubias blancas con embutidos asturianos.",
+    "placeId": "España",
     "ingredients": [
-      "500g fabes",
-      "200g lacón",
-      "200g chorizo",
-      "200g morcilla",
-      "100g tocino",
-      "Azafrán",
-      "Sal"
+      {
+        "ingredient": "500g fabes"
+      },
+      {
+        "ingredient": "200g lacón"
+      },
+      {
+        "ingredient": "200g chorizo"
+      },
+      {
+        "ingredient": "200g morcilla"
+      },
+      {
+        "ingredient": "100g tocino"
+      },
+      {
+        "ingredient": "Azafrán"
+      },
+      {
+        "ingredient": "Sal"
+      }
     ],
-    "instructions": [
-      "Remojar fabes noche anterior",
-      "Cocer con embutidos 2-3 horas",
-      "Añadir azafrán al final",
-      "Dejar reposar"
+    "steps": [
+      {
+        "step": "Remojar fabes noche anterior",
+        "number": 1
+      },
+      {
+        "step": "Cocer con embutidos 2-3 horas",
+        "number": 2
+      },
+      {
+        "step": "Añadir azafrán al final",
+        "number": 3
+      },
+      {
+        "step": "Dejar reposar",
+        "number": 4
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 6,
+    "imageUrl": "/images/recipes/españa/fabada-asturiana.jpg",
+    "slug": "espa-007",
+    "cuisine": "españa",
     "difficulty": "Media",
-    "tags": [
-      "legumbres",
-      "asturias",
-      "guiso"
-    ],
-    "image": "/images/recipes/españa/fabada-asturiana.jpg",
-    "region": "Asturias",
-    "city": "Oviedo",
-    "coordinates": [
-      43.3619,
-      -5.8594
-    ],
-    "history": "Plato humilde de campesinos asturianos, cada familia tiene su receta secreta."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "espa-008",
-    "name": "Salmorejo Cordobés",
-    "country": "España",
-    "description": "Crema fría de tomate con jamón y huevo duro.",
+    "dishName": "Salmorejo Cordobés",
+    "summary": "Crema fría de tomate con jamón y huevo duro.",
+    "placeId": "España",
     "ingredients": [
-      "1kg tomates",
-      "200g pan duro",
-      "2 ajos",
-      "100ml aceite de oliva",
-      "Sal",
-      "Jamón serrano",
-      "Huevo duro"
+      {
+        "ingredient": "1kg tomates"
+      },
+      {
+        "ingredient": "200g pan duro"
+      },
+      {
+        "ingredient": "2 ajos"
+      },
+      {
+        "ingredient": "100ml aceite de oliva"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Jamón serrano"
+      },
+      {
+        "ingredient": "Huevo duro"
+      }
     ],
-    "instructions": [
-      "Triturar tomates con pan, ajos y aceite",
-      "Colar",
-      "Refrigerar",
-      "Servir con jamón y huevo picados"
+    "steps": [
+      {
+        "step": "Triturar tomates con pan, ajos y aceite",
+        "number": 1
+      },
+      {
+        "step": "Colar",
+        "number": 2
+      },
+      {
+        "step": "Refrigerar",
+        "number": 3
+      },
+      {
+        "step": "Servir con jamón y huevo picados",
+        "number": 4
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 4,
+    "imageUrl": "/images/recipes/españa/salmorejo-cordobés.jpg",
+    "slug": "espa-008",
+    "cuisine": "españa",
     "difficulty": "Fácil",
-    "tags": [
-      "sopa fría",
-      "tomate",
-      "andalucía"
-    ],
-    "image": "/images/recipes/españa/salmorejo-cordobés.jpg",
-    "region": "Andalucía",
-    "city": "Córdoba",
-    "coordinates": [
-      37.8882,
-      -4.7794
-    ],
-    "history": "Anterior al gazpacho, típico del verano cordobés."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "espa-009",
-    "name": "Pisto Manchego",
-    "country": "España",
-    "description": "Guiso de verduras similar al ratatouille francés.",
+    "dishName": "Pisto Manchego",
+    "summary": "Guiso de verduras similar al ratatouille francés.",
+    "placeId": "España",
     "ingredients": [
-      "2 calabacines",
-      "2 pimientos verdes",
-      "1 pimiento rojo",
-      "4 tomates",
-      "1 cebolla",
-      "2 ajos",
-      "Aceite de oliva",
-      "Sal"
+      {
+        "ingredient": "2 calabacines"
+      },
+      {
+        "ingredient": "2 pimientos verdes"
+      },
+      {
+        "ingredient": "1 pimiento rojo"
+      },
+      {
+        "ingredient": "4 tomates"
+      },
+      {
+        "ingredient": "1 cebolla"
+      },
+      {
+        "ingredient": "2 ajos"
+      },
+      {
+        "ingredient": "Aceite de oliva"
+      },
+      {
+        "ingredient": "Sal"
+      }
     ],
-    "instructions": [
-      "Cortar verduras en dados",
-      "Pochar cebolla y ajos",
-      "Añadir pimientos y calabacín",
-      "Incorporar tomate",
-      "Cocinar 20 min"
+    "steps": [
+      {
+        "step": "Cortar verduras en dados",
+        "number": 1
+      },
+      {
+        "step": "Pochar cebolla y ajos",
+        "number": 2
+      },
+      {
+        "step": "Añadir pimientos y calabacín",
+        "number": 3
+      },
+      {
+        "step": "Incorporar tomate",
+        "number": 4
+      },
+      {
+        "step": "Cocinar 20 min",
+        "number": 5
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/españa/pisto-manchego.jpg",
+    "slug": "espa-009",
+    "cuisine": "españa",
     "difficulty": "Fácil",
-    "tags": [
-      "verduras",
-      "la mancha",
-      "vegano"
-    ],
-    "image": "/images/recipes/españa/pisto-manchego.jpg",
-    "region": "La Mancha",
-    "city": "Albacete",
-    "coordinates": [
-      38.9943,
-      -1.8585
-    ],
-    "history": "Plato humilde de agricultores manchegos que aprovechaban las verduras de la huerta."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "espa-010",
-    "name": "Crema Catalana",
-    "country": "España",
-    "description": "Postre cremoso con costra de azúcar caramelizado.",
+    "dishName": "Crema Catalana",
+    "summary": "Postre cremoso con costra de azúcar caramelizado.",
+    "placeId": "España",
     "ingredients": [
-      "500ml leche",
-      "6 yemas",
-      "100g azúcar",
-      "40g maicena",
-      "Canela",
-      "Piel de naranja y limón",
-      "Azúcar moreno"
+      {
+        "ingredient": "500ml leche"
+      },
+      {
+        "ingredient": "6 yemas"
+      },
+      {
+        "ingredient": "100g azúcar"
+      },
+      {
+        "ingredient": "40g maicena"
+      },
+      {
+        "ingredient": "Canela"
+      },
+      {
+        "ingredient": "Piel de naranja y limón"
+      },
+      {
+        "ingredient": "Azúcar moreno"
+      }
     ],
-    "instructions": [
-      "Infusionar leche con canela y cítricos",
-      "Mezclar yemas con azúcar y maicena",
-      "Cocinar hasta espesar",
-      "Refrigerar 4 horas",
-      "Quemar azúcar encima"
+    "steps": [
+      {
+        "step": "Infusionar leche con canela y cítricos",
+        "number": 1
+      },
+      {
+        "step": "Mezclar yemas con azúcar y maicena",
+        "number": 2
+      },
+      {
+        "step": "Cocinar hasta espesar",
+        "number": 3
+      },
+      {
+        "step": "Refrigerar 4 horas",
+        "number": 4
+      },
+      {
+        "step": "Quemar azúcar encima",
+        "number": 5
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/españa/crema-catalana.jpg",
+    "slug": "espa-010",
+    "cuisine": "españa",
     "difficulty": "Media",
-    "tags": [
-      "postre",
-      "cataluña",
-      "crema"
-    ],
-    "image": "/images/recipes/españa/crema-catalana.jpg",
-    "region": "Cataluña",
-    "city": "Barcelona",
-    "coordinates": [
-      41.3851,
-      2.1734
-    ],
-    "history": "Postre catalán desde el siglo XIV, tradicional el día de San José."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

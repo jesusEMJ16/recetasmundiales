@@ -1,66 +1,16 @@
 ```
-# Compiled and build artifacts
-*.pyc
-__pycache__/
-*.o
-*.obj
-dist/
-build/
-target/
-
-# Dependencies
-.venv/
-venv/
-node_modules/
-.mypy_cache/
-.pytest_cache/
-.gradle/
-
-# Logs and temp files
-*.log
-*.tmp
-*.swp
-*.swo
-
-# Environment
-.env
-.env.local
-.env.*
-
-# Editors
-.vscode/
-.idea/
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Coverage
-coverage/
-htmlcov/
-.coverage
-
-# Compressed files
-*.zip
-*.gz
-*.tar
-*.tgz
-*.bz2
-*.xz
-*.7z
-*.rar
-*.zst
-*.lz4
-*.lzh
-*.cab
-*.arj
-*.rpm
-*.deb
-*.Z
-*.lz
-*.lzo
-*.tar.gz
-*.tar.bz2
-*.tar.xz
-*.tar.zst
+# Data files that might be generated
+src/data/countries_index.json
+src/data/recipes/*.json
+"src/data/recipes/canad\\303\\241.json"
+"src/data/recipes/espa\\303\\261a.json"
+"src/data/recipes/etiop\\303\\255a.json"
+"src/data/recipes/hungr\\303\\255a.json"
+"src/data/recipes/jap\\303\\263n.json"
+"src/data/recipes/m\\303\\251xico.json"
+"src/data/recipes/panam\\303\\241.json"
+"src/data/recipes/pa\\303\\255ses-bajos.json"
+"src/data/recipes/per\\303\\272.json"
+"src/data/recipes/turqu\\303\\255a.json"
+src/data/recipes/missing_fields_report.json
 ```

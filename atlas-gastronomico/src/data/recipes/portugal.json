@@ -1,222 +1,392 @@
 [
   {
     "id": "pt-001",
-    "name": "Bacalhau à Brás",
-    "country": "Portugal",
-    "description": "Bacalao desmenuzado con papas fritas en tiras, huevos revueltos y aceitunas negras.",
+    "dishName": "Bacalhau à Brás",
+    "summary": "Bacalao desmenuzado con papas fritas en tiras, huevos revueltos y aceitunas negras.",
+    "placeId": "Portugal",
     "ingredients": [
-      "500g de bacalao salado",
-      "4 papas medianas",
-      "6 huevos",
-      "2 cebollas picadas",
-      "3 dientes de ajo",
-      "Aceite de oliva virgen extra",
-      "Aceitunas negras para decorar",
-      "Perejil fresco picado"
+      {
+        "ingredient": "500g de bacalao salado"
+      },
+      {
+        "ingredient": "4 papas medianas"
+      },
+      {
+        "ingredient": "6 huevos"
+      },
+      {
+        "ingredient": "2 cebollas picadas"
+      },
+      {
+        "ingredient": "3 dientes de ajo"
+      },
+      {
+        "ingredient": "Aceite de oliva virgen extra"
+      },
+      {
+        "ingredient": "Aceitunas negras para decorar"
+      },
+      {
+        "ingredient": "Perejil fresco picado"
+      }
     ],
-    "instructions": [
-      "Desalar bacalao 24 horas antes, cambiando agua varias veces",
-      "Cocinar bacalao y desmenuzar sin espinas",
-      "Cortar papas en tiras finas y freír hasta crujientes",
-      "Sofreír cebolla y ajo en aceite abundante",
-      "Agregar bacalao y mezclar",
-      "Batir huevos y verter sobre mezcla, removiendo constantemente",
-      "Incorporar papas fritas al final",
-      "Servir con aceitunas y perejil"
+    "steps": [
+      {
+        "step": "Desalar bacalao 24 horas antes, cambiando agua varias veces",
+        "number": 1
+      },
+      {
+        "step": "Cocinar bacalao y desmenuzar sin espinas",
+        "number": 2
+      },
+      {
+        "step": "Cortar papas en tiras finas y freír hasta crujientes",
+        "number": 3
+      },
+      {
+        "step": "Sofreír cebolla y ajo en aceite abundante",
+        "number": 4
+      },
+      {
+        "step": "Agregar bacalao y mezclar",
+        "number": 5
+      },
+      {
+        "step": "Batir huevos y verter sobre mezcla, removiendo constantemente",
+        "number": 6
+      },
+      {
+        "step": "Incorporar papas fritas al final",
+        "number": 7
+      },
+      {
+        "step": "Servir con aceitunas y perejil",
+        "number": 8
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 4,
+    "imageUrl": "/images/recipes/portugal/bacalhau-à-brás.jpg",
+    "slug": "pt-001",
+    "cuisine": "portugal",
     "difficulty": "Media",
-    "tags": [
-      "bacalao",
-      "huevos",
-      "papas",
-      "tradicional",
-      "lisboeta"
-    ],
-    "image": "/images/recipes/portugal/bacalhau-à-brás.jpg",
-    "region": "Lisboa",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato lisboeta del siglo XIX creado en tabernas populares. El nombre 'Brás' podría venir de un familia que lo popularizó."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pt-002",
-    "name": "Pastéis de Nata",
-    "country": "Portugal",
-    "description": "Tartaletas de hojaldre con crema de yema caramelizada.",
+    "dishName": "Pastéis de Nata",
+    "summary": "Tartaletas de hojaldre con crema de yema caramelizada.",
+    "placeId": "Portugal",
     "ingredients": [
-      "1 lámina de masa de hojaldre",
-      "250ml de leche",
-      "200g de azúcar",
-      "50g de harina",
-      "6 yemas de huevo",
-      "1 rama de canela",
-      "Cáscara de 1 limón",
-      "Azúcar y canela para espolvorear"
+      {
+        "ingredient": "1 lámina de masa de hojaldre"
+      },
+      {
+        "ingredient": "250ml de leche"
+      },
+      {
+        "ingredient": "200g de azúcar"
+      },
+      {
+        "ingredient": "50g de harina"
+      },
+      {
+        "ingredient": "6 yemas de huevo"
+      },
+      {
+        "ingredient": "1 rama de canela"
+      },
+      {
+        "ingredient": "Cáscara de 1 limón"
+      },
+      {
+        "ingredient": "Azúcar y canela para espolvorear"
+      }
     ],
-    "instructions": [
-      "Hervir leche con canela y cáscara de limón",
-      "Mezclar azúcar y harina, agregar leche caliente",
-      "Cocinar hasta espesar como natilla",
-      "Retirar del fuego e incorporar yemas una a una",
-      "Extender hojaldre y cortar círculos",
-      "Forzar moldes pequeños con masa",
-      "Rellenar con crema y hornear 220°C por 15-20 minutos",
-      "Espolvorear con canela y azúcar glass"
+    "steps": [
+      {
+        "step": "Hervir leche con canela y cáscara de limón",
+        "number": 1
+      },
+      {
+        "step": "Mezclar azúcar y harina, agregar leche caliente",
+        "number": 2
+      },
+      {
+        "step": "Cocinar hasta espesar como natilla",
+        "number": 3
+      },
+      {
+        "step": "Retirar del fuego e incorporar yemas una a una",
+        "number": 4
+      },
+      {
+        "step": "Extender hojaldre y cortar círculos",
+        "number": 5
+      },
+      {
+        "step": "Forzar moldes pequeños con masa",
+        "number": 6
+      },
+      {
+        "step": "Rellenar con crema y hornear 220°C por 15-20 minutos",
+        "number": 7
+      },
+      {
+        "step": "Espolvorear con canela y azúcar glass",
+        "number": 8
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 12,
+    "imageUrl": "/images/recipes/portugal/pastéis-de-nata.jpg",
+    "slug": "pt-002",
+    "cuisine": "portugal",
     "difficulty": "Alta",
-    "tags": [
-      "postre",
-      "hojaldre",
-      "crema",
-      "yema",
-      "dulce"
-    ],
-    "image": "/images/recipes/portugal/pastéis-de-nata.jpg",
-    "region": "Lisboa",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Creados por monjes jerónimos en el Monasterio dos Jerónimos (siglo XVIII). La receta secreta se vende desde 1837 en Pastéis de Belém."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pt-003",
-    "name": "Caldo Verde",
-    "country": "Portugal",
-    "description": "Sopa cremosa de papas con col portuguesa y chorizo.",
+    "dishName": "Caldo Verde",
+    "summary": "Sopa cremosa de papas con col portuguesa y chorizo.",
+    "placeId": "Portugal",
     "ingredients": [
-      "500g de papas",
-      "300g de col portuguesa (couve-galega)",
-      "200g de chorizo portugués",
-      "1 cebolla picada",
-      "3 dientes de ajo",
-      "1 litro de caldo de verduras",
-      "Aceite de oliva virgen extra",
-      "Sal al gusto"
+      {
+        "ingredient": "500g de papas"
+      },
+      {
+        "ingredient": "300g de col portuguesa (couve-galega)"
+      },
+      {
+        "ingredient": "200g de chorizo portugués"
+      },
+      {
+        "ingredient": "1 cebolla picada"
+      },
+      {
+        "ingredient": "3 dientes de ajo"
+      },
+      {
+        "ingredient": "1 litro de caldo de verduras"
+      },
+      {
+        "ingredient": "Aceite de oliva virgen extra"
+      },
+      {
+        "ingredient": "Sal al gusto"
+      }
     ],
-    "instructions": [
-      "Pelar y cortar papas en rodajas finas",
-      "Cocinar papas con cebolla y ajo en caldo",
-      "Triturar hasta obtener crema suave",
-      "Cortar col en tiras muy finas",
-      "Añadir col a la sopa y cocinar 10 minutos",
-      "Cortar chorizo en rodajas y dorar",
-      "Servir sopa caliente con chorizo encima",
-      "Regar con aceite de oliva crudo"
+    "steps": [
+      {
+        "step": "Pelar y cortar papas en rodajas finas",
+        "number": 1
+      },
+      {
+        "step": "Cocinar papas con cebolla y ajo en caldo",
+        "number": 2
+      },
+      {
+        "step": "Triturar hasta obtener crema suave",
+        "number": 3
+      },
+      {
+        "step": "Cortar col en tiras muy finas",
+        "number": 4
+      },
+      {
+        "step": "Añadir col a la sopa y cocinar 10 minutos",
+        "number": 5
+      },
+      {
+        "step": "Cortar chorizo en rodajas y dorar",
+        "number": 6
+      },
+      {
+        "step": "Servir sopa caliente con chorizo encima",
+        "number": 7
+      },
+      {
+        "step": "Regar con aceite de oliva crudo",
+        "number": 8
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 6,
+    "imageUrl": "/images/recipes/portugal/caldo-verde.jpg",
+    "slug": "pt-003",
+    "cuisine": "portugal",
     "difficulty": "Fácil",
-    "tags": [
-      "sopa",
-      "papas",
-      "col",
-      "chorizo",
-      "confort"
-    ],
-    "image": "/images/recipes/portugal/caldo-verde.jpg",
-    "region": "Minho",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Sopa campesina del norte de Portugal, servida en fiestas y celebraciones desde hace siglos."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pt-004",
-    "name": "Francesinha",
-    "country": "Portugal",
-    "description": "Sándwich multicapa con carne, queso fundido y salsa picante de cerveza y tomate.",
+    "dishName": "Francesinha",
+    "summary": "Sándwich multicapa con carne, queso fundido y salsa picante de cerveza y tomate.",
+    "placeId": "Portugal",
     "ingredients": [
-      "4 rebanadas de pan de molde",
-      "200g de jamón cocido",
-      "200g de linguiça o chorizo",
-      "200g de bistec de cerdo",
-      "4 lonchas de queso tipo edam",
-      "Para salsa: 200ml de cerveza, 200g de tomate triturado, 1 cebolla, 1 guindilla",
-      "Papas fritas para acompañar"
+      {
+        "ingredient": "4 rebanadas de pan de molde"
+      },
+      {
+        "ingredient": "200g de jamón cocido"
+      },
+      {
+        "ingredient": "200g de linguiça o chorizo"
+      },
+      {
+        "ingredient": "200g de bistec de cerdo"
+      },
+      {
+        "ingredient": "4 lonchas de queso tipo edam"
+      },
+      {
+        "ingredient": "Para salsa: 200ml de cerveza, 200g de tomate triturado, 1 cebolla, 1 guindilla"
+      },
+      {
+        "ingredient": "Papas fritas para acompañar"
+      }
     ],
-    "instructions": [
-      "Tostar ligeramente el pan",
-      "Montar capas: pan, jamón, linguiça, bistec, queso",
-      "Cerrar con otra rebanada de pan",
-      "Preparar salsa: sofreír cebolla, añadir tomate, cerveza y guindilla",
-      "Cocinar salsa 15 minutos y triturar",
-      "Colocar sándwich en fuente, cubrir con salsa y queso",
-      "Gratinar en horno hasta burbujear",
-      "Servir con papas fritas"
+    "steps": [
+      {
+        "step": "Tostar ligeramente el pan",
+        "number": 1
+      },
+      {
+        "step": "Montar capas: pan, jamón, linguiça, bistec, queso",
+        "number": 2
+      },
+      {
+        "step": "Cerrar con otra rebanada de pan",
+        "number": 3
+      },
+      {
+        "step": "Preparar salsa: sofreír cebolla, añadir tomate, cerveza y guindilla",
+        "number": 4
+      },
+      {
+        "step": "Cocinar salsa 15 minutos y triturar",
+        "number": 5
+      },
+      {
+        "step": "Colocar sándwich en fuente, cubrir con salsa y queso",
+        "number": 6
+      },
+      {
+        "step": "Gratinar en horno hasta burbujear",
+        "number": 7
+      },
+      {
+        "step": "Servir con papas fritas",
+        "number": 8
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 2,
+    "imageUrl": "/images/recipes/portugal/francesinha.jpg",
+    "slug": "pt-004",
+    "cuisine": "portugal",
     "difficulty": "Media",
-    "tags": [
-      "sándwich",
-      "queso",
-      "carne",
-      "oporto",
-      "picante"
-    ],
-    "image": "/images/recipes/portugal/francesinha.jpg",
-    "region": "Norte",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Creada en los años 1950 en Oporto por Daniel David Silva, inspirada en el croque-monsieur francés."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pt-005",
-    "name": "Arroz de Pato",
-    "country": "Portugal",
-    "description": "Arroz meloso con pato confitado, chorizo y hierbas aromáticas.",
+    "dishName": "Arroz de Pato",
+    "summary": "Arroz meloso con pato confitado, chorizo y hierbas aromáticas.",
+    "placeId": "Portugal",
     "ingredients": [
-      "1 pato entero (aprox. 2kg)",
-      "300g de arroz bomba",
-      "150g de chorizo en rodajas",
-      "2 cebollas picadas",
-      "4 dientes de ajo",
-      "1 litro de caldo de pato",
-      "2 hojas de laurel",
-      "Vino blanco seco",
-      "Aceite de oliva"
+      {
+        "ingredient": "1 pato entero (aprox. 2kg)"
+      },
+      {
+        "ingredient": "300g de arroz bomba"
+      },
+      {
+        "ingredient": "150g de chorizo en rodajas"
+      },
+      {
+        "ingredient": "2 cebollas picadas"
+      },
+      {
+        "ingredient": "4 dientes de ajo"
+      },
+      {
+        "ingredient": "1 litro de caldo de pato"
+      },
+      {
+        "ingredient": "2 hojas de laurel"
+      },
+      {
+        "ingredient": "Vino blanco seco"
+      },
+      {
+        "ingredient": "Aceite de oliva"
+      }
     ],
-    "instructions": [
-      "Sazonar pato y asar 1 hora a 180°C",
-      "Desmenuzar carne reservando piel crujiente",
-      "Sofreír cebolla y ajo, añadir arroz",
-      "Agregar caldo caliente gradualmente",
-      "Incorporar pato desmenuzado y chorizo",
-      "Cocinar 20 minutos hasta arroz meloso",
-      "Hornear 10 minutos para gratinar",
-      "Servir con piel crujiente por encima"
+    "steps": [
+      {
+        "step": "Sazonar pato y asar 1 hora a 180°C",
+        "number": 1
+      },
+      {
+        "step": "Desmenuzar carne reservando piel crujiente",
+        "number": 2
+      },
+      {
+        "step": "Sofreír cebolla y ajo, añadir arroz",
+        "number": 3
+      },
+      {
+        "step": "Agregar caldo caliente gradualmente",
+        "number": 4
+      },
+      {
+        "step": "Incorporar pato desmenuzado y chorizo",
+        "number": 5
+      },
+      {
+        "step": "Cocinar 20 minutos hasta arroz meloso",
+        "number": 6
+      },
+      {
+        "step": "Hornear 10 minutos para gratinar",
+        "number": 7
+      },
+      {
+        "step": "Servir con piel crujiente por encima",
+        "number": 8
+      }
     ],
-    "prepTime": 40,
+    "prepTimeMin": 40,
+    "cookTimeMin": 0,
+    "totalTimeMin": 40,
     "servings": 6,
+    "imageUrl": "/images/recipes/portugal/arroz-de-pato.jpg",
+    "slug": "pt-005",
+    "cuisine": "portugal",
     "difficulty": "Media",
-    "tags": [
-      "pato",
-      "arroz",
-      "horno",
-      "tradicional",
-      "ribatejo"
-    ],
-    "image": "/images/recipes/portugal/arroz-de-pato.jpg",
-    "region": "Ribatejo",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato tradicional del Ribatejo, región de cultivo de arroz y caza de patos silvestres."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

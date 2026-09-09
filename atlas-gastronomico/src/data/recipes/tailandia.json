@@ -1,255 +1,488 @@
 [
   {
     "id": "thai-001",
-    "name": "Pad Thai",
-    "country": "Tailandia",
-    "description": "Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes. El plato tailandés más famoso internacionalmente, equilibrio perfecto de dulce, salado, ácido y picante.",
+    "dishName": "Pad Thai",
+    "summary": "Fideos de arroz salteados con camarones, tofu, huevo, brotes de soja y cacahuetes. El plato tailandés más famoso internacionalmente, equilibrio perfecto de dulce, salado, ácido y picante.",
+    "placeId": "Tailandia",
     "ingredients": [
-      "250g de fideos de arroz secos",
-      "200g de camarones pelados",
-      "150g de tofu firme en cubos",
-      "2 huevos",
-      "100g de brotes de soja frescos",
-      "3 cebolletas cortadas",
-      "50g de cacahuetes tostados molidos",
-      "3 cucharadas de salsa de pescado",
-      "2 cucharadas de azúcar de palma",
-      "2 cucharadas de tamarindo concentrado",
-      "1 cucharada de chili seco molido",
-      "Aceite vegetal",
-      "Lima en gajos",
-      "Cilantro fresco"
+      {
+        "ingredient": "250g de fideos de arroz secos"
+      },
+      {
+        "ingredient": "200g de camarones pelados"
+      },
+      {
+        "ingredient": "150g de tofu firme en cubos"
+      },
+      {
+        "ingredient": "2 huevos"
+      },
+      {
+        "ingredient": "100g de brotes de soja frescos"
+      },
+      {
+        "ingredient": "3 cebolletas cortadas"
+      },
+      {
+        "ingredient": "50g de cacahuetes tostados molidos"
+      },
+      {
+        "ingredient": "3 cucharadas de salsa de pescado"
+      },
+      {
+        "ingredient": "2 cucharadas de azúcar de palma"
+      },
+      {
+        "ingredient": "2 cucharadas de tamarindo concentrado"
+      },
+      {
+        "ingredient": "1 cucharada de chili seco molido"
+      },
+      {
+        "ingredient": "Aceite vegetal"
+      },
+      {
+        "ingredient": "Lima en gajos"
+      },
+      {
+        "ingredient": "Cilantro fresco"
+      }
     ],
-    "instructions": [
-      "Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir.",
-      "Mezclar salsa de pescado, azúcar de palma, tamarindo y chili.",
-      "Calentar wok con aceite a fuego alto.",
-      "Saltear camarones 2 minutos hasta rosados, reservar.",
-      "Saltear tofu hasta dorado, reservar.",
-      "Empujar ingredientes a lado, añadir huevos al wok.",
-      "Revolver huevos hasta cuajar parcialmente.",
-      "Añadir fideos escurridos y mezcla de salsa.",
-      "Saltear 3-4 minutos mezclando todo uniformemente.",
-      "Agregar brotes de soja, cebolletas, camarones y tofu.",
-      "Continuar salteando 2 minutos más.",
-      "Servir con cacahuetes, lima y cilantro."
+    "steps": [
+      {
+        "step": "Remojar fideos en agua tibia 30 minutos hasta blandos, escurrir.",
+        "number": 1
+      },
+      {
+        "step": "Mezclar salsa de pescado, azúcar de palma, tamarindo y chili.",
+        "number": 2
+      },
+      {
+        "step": "Calentar wok con aceite a fuego alto.",
+        "number": 3
+      },
+      {
+        "step": "Saltear camarones 2 minutos hasta rosados, reservar.",
+        "number": 4
+      },
+      {
+        "step": "Saltear tofu hasta dorado, reservar.",
+        "number": 5
+      },
+      {
+        "step": "Empujar ingredientes a lado, añadir huevos al wok.",
+        "number": 6
+      },
+      {
+        "step": "Revolver huevos hasta cuajar parcialmente.",
+        "number": 7
+      },
+      {
+        "step": "Añadir fideos escurridos y mezcla de salsa.",
+        "number": 8
+      },
+      {
+        "step": "Saltear 3-4 minutos mezclando todo uniformemente.",
+        "number": 9
+      },
+      {
+        "step": "Agregar brotes de soja, cebolletas, camarones y tofu.",
+        "number": 10
+      },
+      {
+        "step": "Continuar salteando 2 minutos más.",
+        "number": 11
+      },
+      {
+        "step": "Servir con cacahuetes, lima y cilantro.",
+        "number": 12
+      }
     ],
-    "prepTime": 45,
+    "prepTimeMin": 45,
+    "cookTimeMin": 0,
+    "totalTimeMin": 45,
     "servings": 4,
+    "imageUrl": "/images/recipes/tailandia/pad-thai.jpg",
+    "slug": "thai-001",
+    "cuisine": "tailandia",
     "difficulty": "Media",
-    "tags": [
-      "fideos",
-      "camarones",
-      "tailandia",
-      "bangkok",
-      "callejero",
-      "wok"
-    ],
-    "image": "/images/recipes/tailandia/pad-thai.jpg",
-    "region": "Central",
-    "city": "Bangkok",
-    "coordinates": [
-      13.7563,
-      100.5018
-    ],
-    "history": "Popularizado en los años 1930-40 durante el gobierno nacionalista de Plaek Phibunsongkhram para promover identidad tailandesa. Combinó influencias chinas (fideos) con sabores locales. Hoy es símbolo culinario de Tailandia y comida callejera emblemática."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "thai-002",
-    "name": "Tom Yum Goong",
-    "country": "Tailandia",
-    "description": "Sopa picante y ácida de camarones con hierbas aromáticas: galangal, hierba limón, hojas de lima kaffir. Explosión de sabores tailandeses en cada cucharada.",
+    "dishName": "Tom Yum Goong",
+    "summary": "Sopa picante y ácida de camarones con hierbas aromáticas: galangal, hierba limón, hojas de lima kaffir. Explosión de sabores tailandeses en cada cucharada.",
+    "placeId": "Tailandia",
     "ingredients": [
-      "500g de camarones grandes con cabeza",
-      "1 litro de caldo de pollo o camarón",
-      "3 tallos de hierba limón",
-      "5 rodajas de galangal fresco",
-      "5 hojas de lima kaffir",
-      "3 chiles tailandeses",
-      "200g de champiñones oyster",
-      "3 cucharadas de salsa de pescado",
-      "2 cucharadas de jugo de lima",
-      "1 cucharadita de pasta de chili",
-      "Cilantro fresco",
-      "Cebolletas"
+      {
+        "ingredient": "500g de camarones grandes con cabeza"
+      },
+      {
+        "ingredient": "1 litro de caldo de pollo o camarón"
+      },
+      {
+        "ingredient": "3 tallos de hierba limón"
+      },
+      {
+        "ingredient": "5 rodajas de galangal fresco"
+      },
+      {
+        "ingredient": "5 hojas de lima kaffir"
+      },
+      {
+        "ingredient": "3 chiles tailandeses"
+      },
+      {
+        "ingredient": "200g de champiñones oyster"
+      },
+      {
+        "ingredient": "3 cucharadas de salsa de pescado"
+      },
+      {
+        "ingredient": "2 cucharadas de jugo de lima"
+      },
+      {
+        "ingredient": "1 cucharadita de pasta de chili"
+      },
+      {
+        "ingredient": "Cilantro fresco"
+      },
+      {
+        "ingredient": "Cebolletas"
+      }
     ],
-    "instructions": [
-      "Limpiar camarones reservando cabezas y cáscaras.",
-      "Hervir cabezas y cáscaras con caldo 15 minutos, colar.",
-      "Aplastar ligeramente tallos de hierba limón.",
-      "Hervir caldo con hierba limón, galangal y hojas lima 5 minutos.",
-      "Añadir champiñones, cocinar 3 minutos.",
-      "Agregar camarones, cocinar 2-3 minutos hasta rosados.",
-      "Retirar del fuego, añadir salsa de pescado, lima y chili.",
-      "Probar y ajustar equilibrio ácido-picante-salado.",
-      "Decorar con cilantro y cebolletas.",
-      "Servir inmediatamente muy caliente."
+    "steps": [
+      {
+        "step": "Limpiar camarones reservando cabezas y cáscaras.",
+        "number": 1
+      },
+      {
+        "step": "Hervir cabezas y cáscaras con caldo 15 minutos, colar.",
+        "number": 2
+      },
+      {
+        "step": "Aplastar ligeramente tallos de hierba limón.",
+        "number": 3
+      },
+      {
+        "step": "Hervir caldo con hierba limón, galangal y hojas lima 5 minutos.",
+        "number": 4
+      },
+      {
+        "step": "Añadir champiñones, cocinar 3 minutos.",
+        "number": 5
+      },
+      {
+        "step": "Agregar camarones, cocinar 2-3 minutos hasta rosados.",
+        "number": 6
+      },
+      {
+        "step": "Retirar del fuego, añadir salsa de pescado, lima y chili.",
+        "number": 7
+      },
+      {
+        "step": "Probar y ajustar equilibrio ácido-picante-salado.",
+        "number": 8
+      },
+      {
+        "step": "Decorar con cilantro y cebolletas.",
+        "number": 9
+      },
+      {
+        "step": "Servir inmediatamente muy caliente.",
+        "number": 10
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/tailandia/tom-yum-goong.jpg",
+    "slug": "thai-002",
+    "cuisine": "tailandia",
     "difficulty": "Media",
-    "tags": [
-      "sopa",
-      "camarones",
-      "picante",
-      "tailandia",
-      "hierbas",
-      "agrio"
-    ],
-    "image": "/images/recipes/tailandia/tom-yum-goong.jpg",
-    "region": "Central",
-    "city": "Bangkok",
-    "coordinates": [
-      13.7563,
-      100.5018
-    ],
-    "history": "Sopa tradicional del centro de Tailandia que data de siglos. El 'tom yum' significa 'sopa mezclada'. La versión con camarones (goong) es la más popular. Representa la filosofía tailandesa de balancear los cinco sabores básicos."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "thai-003",
-    "name": "Green Curry (Gaeng Keow Wan)",
-    "country": "Tailandia",
-    "description": "Curry verde cremoso con leche de coco, berenjenas tailandesas, bambú y albahaca thai. Picante, aromático y ligeramente dulce.",
+    "dishName": "Green Curry (Gaeng Keow Wan)",
+    "summary": "Curry verde cremoso con leche de coco, berenjenas tailandesas, bambú y albahaca thai. Picante, aromático y ligeramente dulce.",
+    "placeId": "Tailandia",
     "ingredients": [
-      "400g de pechuga de pollo en trozos",
-      "400ml de leche de coco",
-      "3 cucharadas de pasta de curry verde",
-      "100g de berenjenas tailandesas pequeñas",
-      "100g de brotes de bambú",
-      "2 hojas de lima kaffir",
-      "1 tallo de hierba limón",
-      "1 cucharada de azúcar de palma",
-      "2 cucharadas de salsa de pescado",
-      "Albahaca thai fresca",
-      "Chiles rojos en rodajas",
-      "Aceite vegetal"
+      {
+        "ingredient": "400g de pechuga de pollo en trozos"
+      },
+      {
+        "ingredient": "400ml de leche de coco"
+      },
+      {
+        "ingredient": "3 cucharadas de pasta de curry verde"
+      },
+      {
+        "ingredient": "100g de berenjenas tailandesas pequeñas"
+      },
+      {
+        "ingredient": "100g de brotes de bambú"
+      },
+      {
+        "ingredient": "2 hojas de lima kaffir"
+      },
+      {
+        "ingredient": "1 tallo de hierba limón"
+      },
+      {
+        "ingredient": "1 cucharada de azúcar de palma"
+      },
+      {
+        "ingredient": "2 cucharadas de salsa de pescado"
+      },
+      {
+        "ingredient": "Albahaca thai fresca"
+      },
+      {
+        "ingredient": "Chiles rojos en rodajas"
+      },
+      {
+        "ingredient": "Aceite vegetal"
+      }
     ],
-    "instructions": [
-      "Calentar mitad de leche de coco en wok hasta separar aceite.",
-      "Freír pasta de curry verde 2-3 minutos hasta fragante.",
-      "Añadir pollo, cocinar sellando todos los lados.",
-      "Verter resto de leche de coco, llevar a ebullición.",
-      "Agregar berenjenas y bambú, cocinar 10 minutos.",
-      "Sazonar con azúcar de palma y salsa de pescado.",
-      "Añadir hojas de lima y hierba limón machacada.",
-      "Cocinar 5 minutos más hasta pollo tierno.",
-      "Incorporar albahaca thai justo antes de retirar.",
-      "Servir con arroz jazmín."
+    "steps": [
+      {
+        "step": "Calentar mitad de leche de coco en wok hasta separar aceite.",
+        "number": 1
+      },
+      {
+        "step": "Freír pasta de curry verde 2-3 minutos hasta fragante.",
+        "number": 2
+      },
+      {
+        "step": "Añadir pollo, cocinar sellando todos los lados.",
+        "number": 3
+      },
+      {
+        "step": "Verter resto de leche de coco, llevar a ebullición.",
+        "number": 4
+      },
+      {
+        "step": "Agregar berenjenas y bambú, cocinar 10 minutos.",
+        "number": 5
+      },
+      {
+        "step": "Sazonar con azúcar de palma y salsa de pescado.",
+        "number": 6
+      },
+      {
+        "step": "Añadir hojas de lima y hierba limón machacada.",
+        "number": 7
+      },
+      {
+        "step": "Cocinar 5 minutos más hasta pollo tierno.",
+        "number": 8
+      },
+      {
+        "step": "Incorporar albahaca thai justo antes de retirar.",
+        "number": 9
+      },
+      {
+        "step": "Servir con arroz jazmín.",
+        "number": 10
+      }
     ],
-    "prepTime": 25,
+    "prepTimeMin": 25,
+    "cookTimeMin": 0,
+    "totalTimeMin": 25,
     "servings": 4,
+    "imageUrl": "/images/recipes/tailandia/green-curry-(gaeng-keow-wan).jpg",
+    "slug": "thai-003",
+    "cuisine": "tailandia",
     "difficulty": "Media",
-    "tags": [
-      "curry",
-      "pollo",
-      "coco",
-      "verde",
-      "tailandia",
-      "picante"
-    ],
-    "image": "/images/recipes/tailandia/green-curry-(gaeng-keow-wan).jpg",
-    "region": "Central",
-    "city": "Bangkok",
-    "coordinates": [
-      13.7563,
-      100.5018
-    ],
-    "history": "El curry verde es el más joven de los curries tailandeses, creado en siglo XIX durante el reinado de Rama V. Su color viene de chiles verdes frescos. Es más picante que el rojo y representa la cocina real tailandesa refinada."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "thai-004",
-    "name": "Som Tum (Ensalada de Papaya)",
-    "country": "Tailandia",
-    "description": "Ensalada picante de papaya verde rallada con tomates cherry, judías verdes, cacahuetes y aderezo de lima-chili-gambas secas. Fresca, vibrante y explosiva.",
+    "dishName": "Som Tum (Ensalada de Papaya)",
+    "summary": "Ensalada picante de papaya verde rallada con tomates cherry, judías verdes, cacahuetes y aderezo de lima-chili-gambas secas. Fresca, vibrante y explosiva.",
+    "placeId": "Tailandia",
     "ingredients": [
-      "1 papaya verde grande sin madurar",
-      "10 tomates cherry",
-      "100g de judías verdes",
-      "3 dientes de ajo",
-      "3-5 chiles tailandeses",
-      "2 cucharadas de gambas secas",
-      "50g de cacahuetes tostados",
-      "3 cucharadas de jugo de lima",
-      "2 cucharadas de salsa de pescado",
-      "1 cucharada de azúcar de palma",
-      "Opcional: cangrejo fermentado"
+      {
+        "ingredient": "1 papaya verde grande sin madurar"
+      },
+      {
+        "ingredient": "10 tomates cherry"
+      },
+      {
+        "ingredient": "100g de judías verdes"
+      },
+      {
+        "ingredient": "3 dientes de ajo"
+      },
+      {
+        "ingredient": "3-5 chiles tailandeses"
+      },
+      {
+        "ingredient": "2 cucharadas de gambas secas"
+      },
+      {
+        "ingredient": "50g de cacahuetes tostados"
+      },
+      {
+        "ingredient": "3 cucharadas de jugo de lima"
+      },
+      {
+        "ingredient": "2 cucharadas de salsa de pescado"
+      },
+      {
+        "ingredient": "1 cucharada de azúcar de palma"
+      },
+      {
+        "ingredient": "Opcional: cangrejo fermentado"
+      }
     ],
-    "instructions": [
-      "Rallar papaya verde en tiras finas.",
-      "Machacar ajo y chiles en mortero.",
-      "Añadir gambas secas, machacar ligeramente.",
-      "Agregar judías verdes cortadas, golpear suavemente.",
-      "Incorporar tomates cherry, presionar para liberar jugos.",
-      "Añadir papaya rallada, mezclar bien.",
-      "Sazonar con lima, salsa de pescado y azúcar.",
-      "Mezclar todo vigorosamente con mortero y mano.",
-      "Probar y ajustar sabores: debe ser picante, ácido, salado y dulce.",
-      "Servir inmediatamente con arroz glutinoso."
+    "steps": [
+      {
+        "step": "Rallar papaya verde en tiras finas.",
+        "number": 1
+      },
+      {
+        "step": "Machacar ajo y chiles en mortero.",
+        "number": 2
+      },
+      {
+        "step": "Añadir gambas secas, machacar ligeramente.",
+        "number": 3
+      },
+      {
+        "step": "Agregar judías verdes cortadas, golpear suavemente.",
+        "number": 4
+      },
+      {
+        "step": "Incorporar tomates cherry, presionar para liberar jugos.",
+        "number": 5
+      },
+      {
+        "step": "Añadir papaya rallada, mezclar bien.",
+        "number": 6
+      },
+      {
+        "step": "Sazonar con lima, salsa de pescado y azúcar.",
+        "number": 7
+      },
+      {
+        "step": "Mezclar todo vigorosamente con mortero y mano.",
+        "number": 8
+      },
+      {
+        "step": "Probar y ajustar sabores: debe ser picante, ácido, salado y dulce.",
+        "number": 9
+      },
+      {
+        "step": "Servir inmediatamente con arroz glutinoso.",
+        "number": 10
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/tailandia/som-tum-(ensalada-de-papaya).jpg",
+    "slug": "thai-004",
+    "cuisine": "tailandia",
     "difficulty": "Media",
-    "tags": [
-      "ensalada",
-      "papaya",
-      "picante",
-      "isan",
-      "tailandia",
-      "crudo"
-    ],
-    "image": "/images/recipes/tailandia/som-tum-(ensalada-de-papaya).jpg",
-    "region": "Noreste (Isan)",
-    "city": "Udon Thani",
-    "coordinates": [
-      17.4138,
-      102.7878
-    ],
-    "history": "Originaria de la región de Isan (noreste de Tailandia), con influencias laosianas. El som tum era comida de campesinos que usaban ingredientes disponibles. Hoy es plato nacional tailandés amado por su frescura y picante intenso."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "thai-005",
-    "name": "Mango Sticky Rice (Khao Niao Mamuang)",
-    "country": "Tailandia",
-    "description": "Arroz glutinoso dulce con leche de coco servido con mango fresco maduro. Postre tailandés clásico, simple pero irresistible.",
+    "dishName": "Mango Sticky Rice (Khao Niao Mamuang)",
+    "summary": "Arroz glutinoso dulce con leche de coco servido con mango fresco maduro. Postre tailandés clásico, simple pero irresistible.",
+    "placeId": "Tailandia",
     "ingredients": [
-      "300g de arroz glutinoso",
-      "400ml de leche de coco",
-      "100g de azúcar",
-      "1/2 cucharadita de sal",
-      "2 mangos maduros tipo Nam Dok Mai",
-      "Sésamo tostado o mung beans crujientes para decorar",
-      "Hojas de pandano opcional"
+      {
+        "ingredient": "300g de arroz glutinoso"
+      },
+      {
+        "ingredient": "400ml de leche de coco"
+      },
+      {
+        "ingredient": "100g de azúcar"
+      },
+      {
+        "ingredient": "1/2 cucharadita de sal"
+      },
+      {
+        "ingredient": "2 mangos maduros tipo Nam Dok Mai"
+      },
+      {
+        "ingredient": "Sésamo tostado o mung beans crujientes para decorar"
+      },
+      {
+        "ingredient": "Hojas de pandano opcional"
+      }
     ],
-    "instructions": [
-      "Remojar arroz glutinoso 4 horas o toda la noche.",
-      "Escurrir arroz, cocinar al vapor 20-25 minutos hasta tierno.",
-      "Calentar 300ml de leche de coco con azúcar y sal.",
-      "Verter mezcla sobre arroz caliente, mezclar bien.",
-      "Dejar reposar 30 minutos para que arroz absorba líquido.",
-      "Pelar mangos, cortar en láminas gruesas.",
-      "Servir arroz con mango fresco al lado.",
-      "Rociar con leche de coco restante espesada.",
-      "Decorar con sésamo tostado.",
-      "Servir tibio o a temperatura ambiente."
+    "steps": [
+      {
+        "step": "Remojar arroz glutinoso 4 horas o toda la noche.",
+        "number": 1
+      },
+      {
+        "step": "Escurrir arroz, cocinar al vapor 20-25 minutos hasta tierno.",
+        "number": 2
+      },
+      {
+        "step": "Calentar 300ml de leche de coco con azúcar y sal.",
+        "number": 3
+      },
+      {
+        "step": "Verter mezcla sobre arroz caliente, mezclar bien.",
+        "number": 4
+      },
+      {
+        "step": "Dejar reposar 30 minutos para que arroz absorba líquido.",
+        "number": 5
+      },
+      {
+        "step": "Pelar mangos, cortar en láminas gruesas.",
+        "number": 6
+      },
+      {
+        "step": "Servir arroz con mango fresco al lado.",
+        "number": 7
+      },
+      {
+        "step": "Rociar con leche de coco restante espesada.",
+        "number": 8
+      },
+      {
+        "step": "Decorar con sésamo tostado.",
+        "number": 9
+      },
+      {
+        "step": "Servir tibio o a temperatura ambiente.",
+        "number": 10
+      }
     ],
-    "prepTime": 270,
+    "prepTimeMin": 270,
+    "cookTimeMin": 0,
+    "totalTimeMin": 270,
     "servings": 4,
+    "imageUrl": "/images/recipes/tailandia/mango-sticky-rice-(khao-niao-mamuang).jpg",
+    "slug": "thai-005",
+    "cuisine": "tailandia",
     "difficulty": "Baja",
-    "tags": [
-      "postre",
-      "mango",
-      "arroz",
-      "coco",
-      "tailandia",
-      "dulce"
-    ],
-    "image": "/images/recipes/tailandia/mango-sticky-rice-(khao-niao-mamuang).jpg",
-    "region": "Nacional",
-    "city": "Chiang Mai",
-    "coordinates": [
-      18.7883,
-      98.9853
-    ],
-    "history": "Postre tradicional tailandés que aprovecha la temporada de mangos (abril-junio). El arroz glutinoso ha sido cultivo básico del norte de Tailandia por siglos. Esta combinación perfecta de texturas y dulzor es favorita en mercados y restaurantes."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

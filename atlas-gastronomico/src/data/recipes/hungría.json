@@ -1,432 +1,742 @@
 [
   {
     "id": "hu-001",
-    "name": "Goulash",
-    "country": "Hungría",
-    "description": "Guiso húngaro de carne con pimentón, vegetales y pasta csipetke.",
+    "dishName": "Goulash",
+    "summary": "Guiso húngaro de carne con pimentón, vegetales y pasta csipetke.",
+    "placeId": "Hungría",
     "ingredients": [
-      "800g carne de res",
-      "2 cebollas grandes",
-      "3 cucharadas pimentón dulce",
-      "2 zanahorias",
-      "2 papas",
-      "1 pimiento verde",
-      "2 tomates",
-      "Caldo de carne",
-      "Csipetke (pasta pequeña)"
+      {
+        "ingredient": "800g carne de res"
+      },
+      {
+        "ingredient": "2 cebollas grandes"
+      },
+      {
+        "ingredient": "3 cucharadas pimentón dulce"
+      },
+      {
+        "ingredient": "2 zanahorias"
+      },
+      {
+        "ingredient": "2 papas"
+      },
+      {
+        "ingredient": "1 pimiento verde"
+      },
+      {
+        "ingredient": "2 tomates"
+      },
+      {
+        "ingredient": "Caldo de carne"
+      },
+      {
+        "ingredient": "Csipetke (pasta pequeña)"
+      }
     ],
-    "instructions": [
-      "Cortar carne en cubos",
-      "Sofreír cebolla hasta dorar",
-      "Añadir pimentón y mezclar rápido",
-      "Agregar carne y sellar",
-      "Añadir vegetales picados",
-      "Cocinar a fuego lento 2.5 horas",
-      "Agregar csipetke los últimos 15 minutos"
+    "steps": [
+      {
+        "step": "Cortar carne en cubos",
+        "number": 1
+      },
+      {
+        "step": "Sofreír cebolla hasta dorar",
+        "number": 2
+      },
+      {
+        "step": "Añadir pimentón y mezclar rápido",
+        "number": 3
+      },
+      {
+        "step": "Agregar carne y sellar",
+        "number": 4
+      },
+      {
+        "step": "Añadir vegetales picados",
+        "number": 5
+      },
+      {
+        "step": "Cocinar a fuego lento 2.5 horas",
+        "number": 6
+      },
+      {
+        "step": "Agregar csipetke los últimos 15 minutos",
+        "number": 7
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/hungría/goulash.jpg",
+    "slug": "hu-001",
+    "cuisine": "hungría",
     "difficulty": "Media",
-    "tags": [
-      "guiso",
-      "carne",
-      "pimentón",
-      "nacional",
-      "tradicional"
-    ],
-    "image": "/images/recipes/hungría/goulash.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato nacional húngaro desde el siglo IX. Originalmente preparado por pastores magiares. El pimentón llegó en el siglo XVI y lo transformó."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "hu-002",
-    "name": "Lángos",
-    "country": "Hungría",
-    "description": "Pan frito húngaro cubierto de ajo, crema agria y queso.",
+    "dishName": "Lángos",
+    "summary": "Pan frito húngaro cubierto de ajo, crema agria y queso.",
+    "placeId": "Hungría",
     "ingredients": [
-      "500g harina",
-      "250ml leche tibia",
-      "30g levadura fresca",
-      "1 cucharadita azúcar",
-      "Sal",
-      "Aceite para freír",
-      "Crema agria",
-      "Queso rallado",
-      "Ajo machacado"
+      {
+        "ingredient": "500g harina"
+      },
+      {
+        "ingredient": "250ml leche tibia"
+      },
+      {
+        "ingredient": "30g levadura fresca"
+      },
+      {
+        "ingredient": "1 cucharadita azúcar"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Aceite para freír"
+      },
+      {
+        "ingredient": "Crema agria"
+      },
+      {
+        "ingredient": "Queso rallado"
+      },
+      {
+        "ingredient": "Ajo machacado"
+      }
     ],
-    "instructions": [
-      "Activar levadura en leche con azúcar",
-      "Mezclar ingredientes y amasar",
-      "Dejar levar 1 hora",
-      "Formar discos planos con las manos",
-      "Freír en aceite abundante",
-      "Untar con ajo",
-      "Cubrir con crema agria y queso"
+    "steps": [
+      {
+        "step": "Activar levadura en leche con azúcar",
+        "number": 1
+      },
+      {
+        "step": "Mezclar ingredientes y amasar",
+        "number": 2
+      },
+      {
+        "step": "Dejar levar 1 hora",
+        "number": 3
+      },
+      {
+        "step": "Formar discos planos con las manos",
+        "number": 4
+      },
+      {
+        "step": "Freír en aceite abundante",
+        "number": 5
+      },
+      {
+        "step": "Untar con ajo",
+        "number": 6
+      },
+      {
+        "step": "Cubrir con crema agria y queso",
+        "number": 7
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 6,
+    "imageUrl": "/images/recipes/hungría/lángos.jpg",
+    "slug": "hu-002",
+    "cuisine": "hungría",
     "difficulty": "Media",
-    "tags": [
-      "pan frito",
-      "comida callejera",
-      "ajo",
-      "queso",
-      "popular"
-    ],
-    "image": "/images/recipes/hungría/lángos.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Comida callejera húngara desde la Edad Media. Originalmente pan de los pobres, hoy es el snack más popular en mercados y festivales."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "hu-003",
-    "name": "Chicken Paprikash",
-    "country": "Hungría",
-    "description": "Pollo guisado con pimentón y crema agria, servido con nokedli.",
+    "dishName": "Chicken Paprikash",
+    "summary": "Pollo guisado con pimentón y crema agria, servido con nokedli.",
+    "placeId": "Hungría",
     "ingredients": [
-      "1 pollo entero en piezas",
-      "2 cebollas",
-      "3 cucharadas pimentón",
-      "200ml crema agria",
-      "Harina",
-      "Manteca de cerdo",
-      "Caldo",
-      "Nokedli (spaetzle húngaro)"
+      {
+        "ingredient": "1 pollo entero en piezas"
+      },
+      {
+        "ingredient": "2 cebollas"
+      },
+      {
+        "ingredient": "3 cucharadas pimentón"
+      },
+      {
+        "ingredient": "200ml crema agria"
+      },
+      {
+        "ingredient": "Harina"
+      },
+      {
+        "ingredient": "Manteca de cerdo"
+      },
+      {
+        "ingredient": "Caldo"
+      },
+      {
+        "ingredient": "Nokedli (spaetzle húngaro)"
+      }
     ],
-    "instructions": [
-      "Dorar pollo en manteca",
-      "Sofreír cebolla picada",
-      "Añadir pimentón",
-      "Cocinar con caldo 45 minutos",
-      "Mezclar crema con harina",
-      "Espesar la salsa",
-      "Servir con nokedli"
+    "steps": [
+      {
+        "step": "Dorar pollo en manteca",
+        "number": 1
+      },
+      {
+        "step": "Sofreír cebolla picada",
+        "number": 2
+      },
+      {
+        "step": "Añadir pimentón",
+        "number": 3
+      },
+      {
+        "step": "Cocinar con caldo 45 minutos",
+        "number": 4
+      },
+      {
+        "step": "Mezclar crema con harina",
+        "number": 5
+      },
+      {
+        "step": "Espesar la salsa",
+        "number": 6
+      },
+      {
+        "step": "Servir con nokedli",
+        "number": 7
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/hungría/chicken-paprikash.jpg",
+    "slug": "hu-003",
+    "cuisine": "hungría",
     "difficulty": "Baja",
-    "tags": [
-      "pollo",
-      "pimentón",
-      "crema",
-      "guiso",
-      "familiar"
-    ],
-    "image": "/images/recipes/hungría/chicken-paprikash.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato familiar húngaro clásico. La combinación de pimentón y crema agria es característica de la cocina magiar."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "hu-004",
-    "name": "Dobos Torta",
-    "country": "Hungría",
-    "description": "Pastel húngaro de múltiples capas con chocolate y caramelo.",
+    "dishName": "Dobos Torta",
+    "summary": "Pastel húngaro de múltiples capas con chocolate y caramelo.",
+    "placeId": "Hungría",
     "ingredients": [
-      "Para 6 capas: 18 huevos",
-      "180g harina",
-      "180g azúcar",
-      "Relleno: 250g chocolate",
-      "250g mantequilla",
-      "250g azúcar",
-      "6 yemas",
-      "Glaseado: caramelo duro"
+      {
+        "ingredient": "Para 6 capas: 18 huevos"
+      },
+      {
+        "ingredient": "180g harina"
+      },
+      {
+        "ingredient": "180g azúcar"
+      },
+      {
+        "ingredient": "Relleno: 250g chocolate"
+      },
+      {
+        "ingredient": "250g mantequilla"
+      },
+      {
+        "ingredient": "250g azúcar"
+      },
+      {
+        "ingredient": "6 yemas"
+      },
+      {
+        "ingredient": "Glaseado: caramelo duro"
+      }
     ],
-    "instructions": [
-      "Batir huevos con azúcar",
-      "Incorporar harina suavemente",
-      "Hornear 6 capas delgadas",
-      "Preparar crema de chocolate",
-      "Rellenar entre capas",
-      "Cubrir con glaseado de caramelo",
-      "Cortar en triángulos"
+    "steps": [
+      {
+        "step": "Batir huevos con azúcar",
+        "number": 1
+      },
+      {
+        "step": "Incorporar harina suavemente",
+        "number": 2
+      },
+      {
+        "step": "Hornear 6 capas delgadas",
+        "number": 3
+      },
+      {
+        "step": "Preparar crema de chocolate",
+        "number": 4
+      },
+      {
+        "step": "Rellenar entre capas",
+        "number": 5
+      },
+      {
+        "step": "Cubrir con glaseado de caramelo",
+        "number": 6
+      },
+      {
+        "step": "Cortar en triángulos",
+        "number": 7
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 12,
+    "imageUrl": "/images/recipes/hungría/dobos-torta.jpg",
+    "slug": "hu-004",
+    "cuisine": "hungría",
     "difficulty": "Alta",
-    "tags": [
-      "pastel",
-      "chocolate",
-      "caramelo",
-      "elegante",
-      "repstería"
-    ],
-    "image": "/images/recipes/hungría/dobos-torta.jpg",
-    "region": "Budapest",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Creado en 1885 por József Dobos para la Exposición Nacional. Símbolo de la repostería húngara, receta guardada secretamente por décadas."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "hu-005",
-    "name": "Halászlé",
-    "country": "Hungría",
-    "description": "Sopa picante de pescado del Danubio con mucho pimentón.",
+    "dishName": "Halászlé",
+    "summary": "Sopa picante de pescado del Danubio con mucho pimentón.",
+    "placeId": "Hungría",
     "ingredients": [
-      "1kg pescado mixto (carpa, lucio)",
-      "3 cebollas",
-      "5 cucharadas pimentón picante",
-      "2 tomates",
-      "2 pimientos verdes",
-      "Agua",
-      "Sal",
-      "Fideos de huevo"
+      {
+        "ingredient": "1kg pescado mixto (carpa, lucio)"
+      },
+      {
+        "ingredient": "3 cebollas"
+      },
+      {
+        "ingredient": "5 cucharadas pimentón picante"
+      },
+      {
+        "ingredient": "2 tomates"
+      },
+      {
+        "ingredient": "2 pimientos verdes"
+      },
+      {
+        "ingredient": "Agua"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Fideos de huevo"
+      }
     ],
-    "instructions": [
-      "Limpiar y cortar pescado",
-      "Hacer caldo con cabezas y espinas",
-      "Sofreír cebolla con pimentón",
-      "Añadir al caldo colado",
-      "Agregar vegetales",
-      "Cocinar pescado en la sopa",
-      "Servir con fideos"
+    "steps": [
+      {
+        "step": "Limpiar y cortar pescado",
+        "number": 1
+      },
+      {
+        "step": "Hacer caldo con cabezas y espinas",
+        "number": 2
+      },
+      {
+        "step": "Sofreír cebolla con pimentón",
+        "number": 3
+      },
+      {
+        "step": "Añadir al caldo colado",
+        "number": 4
+      },
+      {
+        "step": "Agregar vegetales",
+        "number": 5
+      },
+      {
+        "step": "Cocinar pescado en la sopa",
+        "number": 6
+      },
+      {
+        "step": "Servir con fideos",
+        "number": 7
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/hungría/halászlé.jpg",
+    "slug": "hu-005",
+    "cuisine": "hungría",
     "difficulty": "Media",
-    "tags": [
-      "sopa",
-      "pescado",
-      "picante",
-      "río",
-      "tradicional"
-    ],
-    "image": "/images/recipes/hungría/halászlé.jpg",
-    "region": "Szeged",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato tradicional de pescadores del río Danubio. Cada ciudad ribereña tiene su variante. Szeged y Baja compiten por la mejor receta."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "hu-006",
-    "name": "Töltött Káposzta",
-    "country": "Hungría",
-    "description": "Hojas de repollo rellenas de carne y arroz en salsa de pimentón.",
+    "dishName": "Töltött Káposzta",
+    "summary": "Hojas de repollo rellenas de carne y arroz en salsa de pimentón.",
+    "placeId": "Hungría",
     "ingredients": [
-      "1 repollo grande encurtido",
-      "500g carne molida mixta",
-      "1 taza arroz",
-      "1 cebolla",
-      "Pimentón dulce y picante",
-      "Tocino ahumado",
-      "Costillas de cerdo",
-      "Crema agria"
+      {
+        "ingredient": "1 repollo grande encurtido"
+      },
+      {
+        "ingredient": "500g carne molida mixta"
+      },
+      {
+        "ingredient": "1 taza arroz"
+      },
+      {
+        "ingredient": "1 cebolla"
+      },
+      {
+        "ingredient": "Pimentón dulce y picante"
+      },
+      {
+        "ingredient": "Tocino ahumado"
+      },
+      {
+        "ingredient": "Costillas de cerdo"
+      },
+      {
+        "ingredient": "Crema agria"
+      }
     ],
-    "instructions": [
-      "Separar hojas de repollo",
-      "Mezclar carne, arroz y especias",
-      "Rellenar y enrollar hojas",
-      "Colocar en olla con tocino",
-      "Añadir costillas para sabor",
-      "Cocinar 2 horas a fuego lento",
-      "Servir con crema agria"
+    "steps": [
+      {
+        "step": "Separar hojas de repollo",
+        "number": 1
+      },
+      {
+        "step": "Mezclar carne, arroz y especias",
+        "number": 2
+      },
+      {
+        "step": "Rellenar y enrollar hojas",
+        "number": 3
+      },
+      {
+        "step": "Colocar en olla con tocino",
+        "number": 4
+      },
+      {
+        "step": "Añadir costillas para sabor",
+        "number": 5
+      },
+      {
+        "step": "Cocinar 2 horas a fuego lento",
+        "number": 6
+      },
+      {
+        "step": "Servir con crema agria",
+        "number": 7
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 8,
+    "imageUrl": "/images/recipes/hungría/töltött-káposzta.jpg",
+    "slug": "hu-006",
+    "cuisine": "hungría",
     "difficulty": "Media",
-    "tags": [
-      "repollo",
-      "carne",
-      "arroz",
-      "festivo",
-      "navidad"
-    ],
-    "image": "/images/recipes/hungría/töltött-káposzta.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato festivo húngaro de Navidad y bodas. Versión local del plato balcánico, con el toque único del pimentón húngaro."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "hu-007",
-    "name": "Kürtőskalács",
-    "country": "Hungría",
-    "description": "Pastel chimenea espiral cubierto de azúcar caramelizado.",
+    "dishName": "Kürtőskalács",
+    "summary": "Pastel chimenea espiral cubierto de azúcar caramelizado.",
+    "placeId": "Hungría",
     "ingredients": [
-      "500g harina",
-      "250ml leche",
-      "60g levadura",
-      "100g azúcar",
-      "100g mantequilla",
-      "4 yemas",
-      "Azúcar para cubrir",
-      "Canela opcional"
+      {
+        "ingredient": "500g harina"
+      },
+      {
+        "ingredient": "250ml leche"
+      },
+      {
+        "ingredient": "60g levadura"
+      },
+      {
+        "ingredient": "100g azúcar"
+      },
+      {
+        "ingredient": "100g mantequilla"
+      },
+      {
+        "ingredient": "4 yemas"
+      },
+      {
+        "ingredient": "Azúcar para cubrir"
+      },
+      {
+        "ingredient": "Canela opcional"
+      }
     ],
-    "instructions": [
-      "Preparar masa brioche",
-      "Dejar levar 1 hora",
-      "Estirar en tiras largas",
-      "Enrollar en cilindros metálicos",
-      "Hornear girando constantemente",
-      "Rodar en azúcar caliente",
-      "Servir tibio"
+    "steps": [
+      {
+        "step": "Preparar masa brioche",
+        "number": 1
+      },
+      {
+        "step": "Dejar levar 1 hora",
+        "number": 2
+      },
+      {
+        "step": "Estirar en tiras largas",
+        "number": 3
+      },
+      {
+        "step": "Enrollar en cilindros metálicos",
+        "number": 4
+      },
+      {
+        "step": "Hornear girando constantemente",
+        "number": 5
+      },
+      {
+        "step": "Rodar en azúcar caliente",
+        "number": 6
+      },
+      {
+        "step": "Servir tibio",
+        "number": 7
+      }
     ],
-    "prepTime": 120,
+    "prepTimeMin": 120,
+    "cookTimeMin": 0,
+    "totalTimeMin": 120,
     "servings": 8,
+    "imageUrl": "/images/recipes/hungría/kürtőskalács.jpg",
+    "slug": "hu-007",
+    "cuisine": "hungría",
     "difficulty": "Alta",
-    "tags": [
-      "dulce",
-      "chimenea",
-      "azúcar",
-      "navidad",
-      "callejero"
-    ],
-    "image": "/images/recipes/hungría/kürtőskalács.jpg",
-    "region": "Transilvania",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Dulce húngaro-transilvano del siglo XVIII. Se hornea sobre un cilindro giratorio. Popular en mercados navideños de toda Europa Central."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "hu-008",
-    "name": "Somlói Galuska",
-    "country": "Hungría",
-    "description": "Postre húngaro de crepes con chocolate, nueces y ron.",
+    "dishName": "Somlói Galuska",
+    "summary": "Postre húngaro de crepes con chocolate, nueces y ron.",
+    "placeId": "Hungría",
     "ingredients": [
-      "Para crepes: 3 huevos, 200g harina, 400ml leche",
-      "Relleno: 200g chocolate",
-      "200g nueces molidas",
-      "100g azúcar",
-      "Ron",
-      "Crema batida",
-      "Salsa de chocolate"
+      {
+        "ingredient": "Para crepes: 3 huevos, 200g harina, 400ml leche"
+      },
+      {
+        "ingredient": "Relleno: 200g chocolate"
+      },
+      {
+        "ingredient": "200g nueces molidas"
+      },
+      {
+        "ingredient": "100g azúcar"
+      },
+      {
+        "ingredient": "Ron"
+      },
+      {
+        "ingredient": "Crema batida"
+      },
+      {
+        "ingredient": "Salsa de chocolate"
+      }
     ],
-    "instructions": [
-      "Hacer crepes delgados",
-      "Mezclar nueces con chocolate y ron",
-      "Rellenar crepes y enrollar",
-      "Cortar en porciones",
-      "Disponer en copa",
-      "Cubrir con crema batida",
-      "Bañar con salsa de chocolate"
+    "steps": [
+      {
+        "step": "Hacer crepes delgados",
+        "number": 1
+      },
+      {
+        "step": "Mezclar nueces con chocolate y ron",
+        "number": 2
+      },
+      {
+        "step": "Rellenar crepes y enrollar",
+        "number": 3
+      },
+      {
+        "step": "Cortar en porciones",
+        "number": 4
+      },
+      {
+        "step": "Disponer en copa",
+        "number": 5
+      },
+      {
+        "step": "Cubrir con crema batida",
+        "number": 6
+      },
+      {
+        "step": "Bañar con salsa de chocolate",
+        "number": 7
+      }
     ],
-    "prepTime": 45,
+    "prepTimeMin": 45,
+    "cookTimeMin": 0,
+    "totalTimeMin": 45,
     "servings": 6,
+    "imageUrl": "/images/recipes/hungría/somlói-galuska.jpg",
+    "slug": "hu-008",
+    "cuisine": "hungría",
     "difficulty": "Media",
-    "tags": [
-      "postre",
-      "crepes",
-      "chocolate",
-      "ron",
-      "nueces"
-    ],
-    "image": "/images/recipes/hungría/somlói-galuska.jpg",
-    "region": "Budapest",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Creado en 1958 por el chef Károly Gollerich en el restaurante Somló. Uno de los postres húngaros más famosos internacionalmente."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "hu-009",
-    "name": "Hideg Meleggyümölcsleves",
-    "country": "Hungría",
-    "description": "Sopa fría dulce de frutas rojas con crema agria.",
+    "dishName": "Hideg Meleggyümölcsleves",
+    "summary": "Sopa fría dulce de frutas rojas con crema agria.",
+    "placeId": "Hungría",
     "ingredients": [
-      "500g frutas rojas mixtas",
-      "500ml agua",
-      "100g azúcar",
-      "Vino blanco dulce",
-      "Canela",
-      "Clavo",
-      "Crema agria",
-      "Menta fresca"
+      {
+        "ingredient": "500g frutas rojas mixtas"
+      },
+      {
+        "ingredient": "500ml agua"
+      },
+      {
+        "ingredient": "100g azúcar"
+      },
+      {
+        "ingredient": "Vino blanco dulce"
+      },
+      {
+        "ingredient": "Canela"
+      },
+      {
+        "ingredient": "Clavo"
+      },
+      {
+        "ingredient": "Crema agria"
+      },
+      {
+        "ingredient": "Menta fresca"
+      }
     ],
-    "instructions": [
-      "Cocer frutas con agua y azúcar",
-      "Añadir especias",
-      "Agregar vino",
-      "Enfriar completamente",
-      "Servir muy frío",
-      "Añadir crema agria",
-      "Decorar con menta"
+    "steps": [
+      {
+        "step": "Cocer frutas con agua y azúcar",
+        "number": 1
+      },
+      {
+        "step": "Añadir especias",
+        "number": 2
+      },
+      {
+        "step": "Agregar vino",
+        "number": 3
+      },
+      {
+        "step": "Enfriar completamente",
+        "number": 4
+      },
+      {
+        "step": "Servir muy frío",
+        "number": 5
+      },
+      {
+        "step": "Añadir crema agria",
+        "number": 6
+      },
+      {
+        "step": "Decorar con menta",
+        "number": 7
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 6,
+    "imageUrl": "/images/recipes/hungría/hideg-meleggyümölcsleves.jpg",
+    "slug": "hu-009",
+    "cuisine": "hungría",
     "difficulty": "Baja",
-    "tags": [
-      "sopa fría",
-      "frutas",
-      "dulce",
-      "verano",
-      "refrescante"
-    ],
-    "image": "/images/recipes/hungría/hideg-meleggyümölcsleves.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Sopa refrescante de verano húngara. Tradicionalmente se sirve como primer plato o postre en comidas calurosas."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "hu-010",
-    "name": "Hortobágyi Hús",
-    "country": "Hungría",
-    "description": "Crepe salado relleno de carne guisada con salsa de pimentón.",
+    "dishName": "Hortobágyi Hús",
+    "summary": "Crepe salado relleno de carne guisada con salsa de pimentón.",
+    "placeId": "Hungría",
     "ingredients": [
-      "Para crepes: 4 huevos, 200g harina, 400ml leche",
-      "Relleno: 400g ternera",
-      "1 cebolla",
-      "Pimentón",
-      "Champiñones",
-      "Crema agria",
-      "Queso para gratinar"
+      {
+        "ingredient": "Para crepes: 4 huevos, 200g harina, 400ml leche"
+      },
+      {
+        "ingredient": "Relleno: 400g ternera"
+      },
+      {
+        "ingredient": "1 cebolla"
+      },
+      {
+        "ingredient": "Pimentón"
+      },
+      {
+        "ingredient": "Champiñones"
+      },
+      {
+        "ingredient": "Crema agria"
+      },
+      {
+        "ingredient": "Queso para gratinar"
+      }
     ],
-    "instructions": [
-      "Hacer crepes salados",
-      "Guisar carne con pimentón",
-      "Rellenar crepes con carne",
-      "Enrollar y colocar en molde",
-      "Cubrir con salsa de crema",
-      "Espolvorear queso",
-      "Gratinar en horno"
+    "steps": [
+      {
+        "step": "Hacer crepes salados",
+        "number": 1
+      },
+      {
+        "step": "Guisar carne con pimentón",
+        "number": 2
+      },
+      {
+        "step": "Rellenar crepes con carne",
+        "number": 3
+      },
+      {
+        "step": "Enrollar y colocar en molde",
+        "number": 4
+      },
+      {
+        "step": "Cubrir con salsa de crema",
+        "number": 5
+      },
+      {
+        "step": "Espolvorear queso",
+        "number": 6
+      },
+      {
+        "step": "Gratinar en horno",
+        "number": 7
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 4,
+    "imageUrl": "/images/recipes/hungría/hortobágyi-hús.jpg",
+    "slug": "hu-010",
+    "cuisine": "hungría",
     "difficulty": "Alta",
-    "tags": [
-      "crepe salado",
-      "carne",
-      "pimentón",
-      "horneado",
-      "elegante"
-    ],
-    "image": "/images/recipes/hungría/hortobágyi-hús.jpg",
-    "region": "Hortobágy",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato creado en 1954 para el Concurso de Cocineros de Hungría. Nombrado por la llanura de Hortobágy. Ejemplo de cocina húngara moderna."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

@@ -1,262 +1,517 @@
 [
   {
     "id": "japo-001",
-    "name": "Sushi Nigiri",
-    "country": "Japón",
-    "description": "El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo. Arte culinario en su máxima expresión.",
+    "dishName": "Sushi Nigiri",
+    "summary": "El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo. Arte culinario en su máxima expresión.",
+    "placeId": "Japón",
     "ingredients": [
-      "500g de arroz japonés para sushi (grano corto)",
-      "600ml de agua",
-      "80ml de vinagre de arroz",
-      "3 cucharadas de azúcar",
-      "1 cucharadita de sal",
-      "400g de pescado fresco grado sashimi (salmón, atún, lubina)",
-      "Wasabi fresco rallado",
-      "Jengibre encurtido (gari)",
-      "Salsa de soja para servir"
+      {
+        "ingredient": "500g de arroz japonés para sushi (grano corto)"
+      },
+      {
+        "ingredient": "600ml de agua"
+      },
+      {
+        "ingredient": "80ml de vinagre de arroz"
+      },
+      {
+        "ingredient": "3 cucharadas de azúcar"
+      },
+      {
+        "ingredient": "1 cucharadita de sal"
+      },
+      {
+        "ingredient": "400g de pescado fresco grado sashimi (salmón, atún, lubina)"
+      },
+      {
+        "ingredient": "Wasabi fresco rallado"
+      },
+      {
+        "ingredient": "Jengibre encurtido (gari)"
+      },
+      {
+        "ingredient": "Salsa de soja para servir"
+      }
     ],
-    "instructions": [
-      "Lavar el arroz bajo agua fría hasta que el agua salga clara.",
-      "Cocinar arroz con agua en olla arrocera o cazuela tapada.",
-      "Mezclar vinagre, azúcar y sal en pequeño cazo hasta disolver.",
-      "Cuando el arroz esté cocido, transferir a hangiri (bol de madera).",
-      "Verter mezcla de vinagre sobre arroz caliente mezclando suavemente.",
-      "Abanicar el arroz mientras se mezcla para enfriarlo rápidamente.",
-      "Dejar reposar arroz tapado con paño húmedo a temperatura ambiente.",
-      "Cortar pescado en láminas de 5mm de grosor contra la fibra.",
-      "Mojar manos con agua avinagrada para manejar el arroz.",
-      "Formar pequeñas bolas de arroz (aproximadamente 20g cada una).",
-      "Colocar pequeña cantidad de wasabi sobre el pescado.",
-      "Presionar ligeramente pescado sobre bola de arroz dando forma ovalada.",
-      "Servir inmediatamente con jengibre y salsa de soja aparte."
+    "steps": [
+      {
+        "step": "Lavar el arroz bajo agua fría hasta que el agua salga clara.",
+        "number": 1
+      },
+      {
+        "step": "Cocinar arroz con agua en olla arrocera o cazuela tapada.",
+        "number": 2
+      },
+      {
+        "step": "Mezclar vinagre, azúcar y sal en pequeño cazo hasta disolver.",
+        "number": 3
+      },
+      {
+        "step": "Cuando el arroz esté cocido, transferir a hangiri (bol de madera).",
+        "number": 4
+      },
+      {
+        "step": "Verter mezcla de vinagre sobre arroz caliente mezclando suavemente.",
+        "number": 5
+      },
+      {
+        "step": "Abanicar el arroz mientras se mezcla para enfriarlo rápidamente.",
+        "number": 6
+      },
+      {
+        "step": "Dejar reposar arroz tapado con paño húmedo a temperatura ambiente.",
+        "number": 7
+      },
+      {
+        "step": "Cortar pescado en láminas de 5mm de grosor contra la fibra.",
+        "number": 8
+      },
+      {
+        "step": "Mojar manos con agua avinagrada para manejar el arroz.",
+        "number": 9
+      },
+      {
+        "step": "Formar pequeñas bolas de arroz (aproximadamente 20g cada una).",
+        "number": 10
+      },
+      {
+        "step": "Colocar pequeña cantidad de wasabi sobre el pescado.",
+        "number": 11
+      },
+      {
+        "step": "Presionar ligeramente pescado sobre bola de arroz dando forma ovalada.",
+        "number": 12
+      },
+      {
+        "step": "Servir inmediatamente con jengibre y salsa de soja aparte.",
+        "number": 13
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 4,
+    "imageUrl": "/images/recipes/japón/sushi-nigiri.jpg",
+    "slug": "japo-001",
+    "cuisine": "japón",
     "difficulty": "Alta",
-    "tags": [
-      "sushi",
-      "pescado",
-      "japon",
-      "tradicional",
-      "crudo",
-      "tokio"
-    ],
-    "image": "/images/recipes/japón/sushi-nigiri.jpg",
-    "region": "Nacional",
-    "city": "Tokio",
-    "coordinates": [
-      35.6762,
-      139.6503
-    ],
-    "history": "Originario del período Edo (siglo XVII) en Tokio, el nigiri-zushi fue creado por Hanaya Yohei como comida rápida para trabajadores. Evolucionó del narezushi (pescado fermentado) al sushi fresco que conocemos hoy. Es símbolo de la cocina japonesa mundialmente."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "japo-002",
-    "name": "Ramen Tonkotsu",
-    "country": "Japón",
-    "description": "Caldo cremoso de huesos de cerdo cocinado durante horas, con fideos alcalinos, chashu (cerdo braised), huevo marinado y cebollino. El ramen más popular de Japón.",
+    "dishName": "Ramen Tonkotsu",
+    "summary": "Caldo cremoso de huesos de cerdo cocinado durante horas, con fideos alcalinos, chashu (cerdo braised), huevo marinado y cebollino. El ramen más popular de Japón.",
+    "placeId": "Japón",
     "ingredients": [
-      "1kg de huesos de cerdo (huesos largos y vértebras)",
-      "500g de panceta de cerdo para chashu",
-      "400g de fideos ramen frescos",
-      "4 huevos",
-      "1 trozo de kombu (alga seca)",
-      "1 cebolla entera",
-      "1 cabeza de ajo cortada horizontalmente",
-      "Jengibre fresco en rodajas",
-      "Cebollino picado para decorar",
-      "Aceite de sésamo tostado",
-      "Salsa de soja",
-      "Mirin",
-      "Sake",
-      "Azúcar"
+      {
+        "ingredient": "1kg de huesos de cerdo (huesos largos y vértebras)"
+      },
+      {
+        "ingredient": "500g de panceta de cerdo para chashu"
+      },
+      {
+        "ingredient": "400g de fideos ramen frescos"
+      },
+      {
+        "ingredient": "4 huevos"
+      },
+      {
+        "ingredient": "1 trozo de kombu (alga seca)"
+      },
+      {
+        "ingredient": "1 cebolla entera"
+      },
+      {
+        "ingredient": "1 cabeza de ajo cortada horizontalmente"
+      },
+      {
+        "ingredient": "Jengibre fresco en rodajas"
+      },
+      {
+        "ingredient": "Cebollino picado para decorar"
+      },
+      {
+        "ingredient": "Aceite de sésamo tostado"
+      },
+      {
+        "ingredient": "Salsa de soja"
+      },
+      {
+        "ingredient": "Mirin"
+      },
+      {
+        "ingredient": "Sake"
+      },
+      {
+        "ingredient": "Azúcar"
+      }
     ],
-    "instructions": [
-      "Hervir huesos de cerdo 10 minutos para eliminar impurezas.",
-      "Enjuagar huesos bajo agua fría eliminando residuos.",
-      "Colocar huesos limpios en olla grande con agua fresca.",
-      "Añadir cebolla, ajo y jengibre a la olla.",
-      "Hervir a fuego alto manteniendo ebullición constante 12-18 horas.",
-      "Añadir agua según se evapore para mantener nivel.",
-      "Para el chashu: dorar panceta, añadir soja, mirin, sake y azúcar.",
-      "Cocinar chashu a fuego lento 2 horas hasta tierno.",
-      "Marinar huevos cocidos 6 minutos en mezcla de soja, mirin y agua.",
-      "Refrigerar huevos marinados toda la noche.",
-      "Colar caldo y ajustar sazón con sal y salsa de soja.",
-      "Cocer fideos ramen según instrucciones del paquete.",
-      "Montar bowls: fideos, caldo hirviendo, chashu en rodajas.",
-      "Añadir huevo marinado cortado, cebollino y aceite de sésamo."
+    "steps": [
+      {
+        "step": "Hervir huesos de cerdo 10 minutos para eliminar impurezas.",
+        "number": 1
+      },
+      {
+        "step": "Enjuagar huesos bajo agua fría eliminando residuos.",
+        "number": 2
+      },
+      {
+        "step": "Colocar huesos limpios en olla grande con agua fresca.",
+        "number": 3
+      },
+      {
+        "step": "Añadir cebolla, ajo y jengibre a la olla.",
+        "number": 4
+      },
+      {
+        "step": "Hervir a fuego alto manteniendo ebullición constante 12-18 horas.",
+        "number": 5
+      },
+      {
+        "step": "Añadir agua según se evapore para mantener nivel.",
+        "number": 6
+      },
+      {
+        "step": "Para el chashu: dorar panceta, añadir soja, mirin, sake y azúcar.",
+        "number": 7
+      },
+      {
+        "step": "Cocinar chashu a fuego lento 2 horas hasta tierno.",
+        "number": 8
+      },
+      {
+        "step": "Marinar huevos cocidos 6 minutos en mezcla de soja, mirin y agua.",
+        "number": 9
+      },
+      {
+        "step": "Refrigerar huevos marinados toda la noche.",
+        "number": 10
+      },
+      {
+        "step": "Colar caldo y ajustar sazón con sal y salsa de soja.",
+        "number": 11
+      },
+      {
+        "step": "Cocer fideos ramen según instrucciones del paquete.",
+        "number": 12
+      },
+      {
+        "step": "Montar bowls: fideos, caldo hirviendo, chashu en rodajas.",
+        "number": 13
+      },
+      {
+        "step": "Añadir huevo marinado cortado, cebollino y aceite de sésamo.",
+        "number": 14
+      }
     ],
-    "prepTime": 720,
+    "prepTimeMin": 720,
+    "cookTimeMin": 0,
+    "totalTimeMin": 720,
     "servings": 4,
+    "imageUrl": "/images/recipes/japón/ramen-tonkotsu.jpg",
+    "slug": "japo-002",
+    "cuisine": "japón",
     "difficulty": "Alta",
-    "tags": [
-      "ramen",
-      "cerdo",
-      "caldo",
-      "fukuoka",
-      "japon",
-      "fideos"
-    ],
-    "image": "/images/recipes/japón/ramen-tonkotsu.jpg",
-    "region": "Kyushu",
-    "city": "Fukuoka",
-    "coordinates": [
-      33.5904,
-      130.4017
-    ],
-    "history": "Nacido en Fukuoka (isla de Kyushu) después de la Segunda Guerra Mundial, el tonkotsu ramen utiliza huesos de cerdo hervidos durante 12-18 horas hasta que el colágeno se disuelve creando un caldo espeso y lechoso. Se hizo famoso en los años 70 y hoy es el estilo de ramen más imitado mundialmente."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "japo-003",
-    "name": "Tempura",
-    "country": "Japón",
-    "description": "Mariscos y verduras rebozados en masa ligera y fritos hasta quedar crujientes. Técnica perfecta que requiere precisión en temperatura y timing.",
+    "dishName": "Tempura",
+    "summary": "Mariscos y verduras rebozados en masa ligera y fritos hasta quedar crujientes. Técnica perfecta que requiere precisión en temperatura y timing.",
+    "placeId": "Japón",
     "ingredients": [
-      "200g de gambas grandes peladas (dejar cola)",
-      "1 calabaza dulce japonesa (satsuma imo) en rodajas",
-      "1 berenjena japonesa en rodajas",
-      "1 boniato en rodajas finas",
-      "Brócoli en pequeños ramilletes",
-      "200g de harina de trigo baja en proteínas",
-      "240ml de agua muy fría (con hielo)",
-      "1 yema de huevo fría",
-      "Aceite vegetal para freír (girasol o canola)",
-      "Sal fina",
-      "Daikon rallado para servir",
-      "Salsa tentsuyu (soja, dashi, mirin)"
+      {
+        "ingredient": "200g de gambas grandes peladas (dejar cola)"
+      },
+      {
+        "ingredient": "1 calabaza dulce japonesa (satsuma imo) en rodajas"
+      },
+      {
+        "ingredient": "1 berenjena japonesa en rodajas"
+      },
+      {
+        "ingredient": "1 boniato en rodajas finas"
+      },
+      {
+        "ingredient": "Brócoli en pequeños ramilletes"
+      },
+      {
+        "ingredient": "200g de harina de trigo baja en proteínas"
+      },
+      {
+        "ingredient": "240ml de agua muy fría (con hielo)"
+      },
+      {
+        "ingredient": "1 yema de huevo fría"
+      },
+      {
+        "ingredient": "Aceite vegetal para freír (girasol o canola)"
+      },
+      {
+        "ingredient": "Sal fina"
+      },
+      {
+        "ingredient": "Daikon rallado para servir"
+      },
+      {
+        "ingredient": "Salsa tentsuyu (soja, dashi, mirin)"
+      }
     ],
-    "instructions": [
-      "Mantener todos los ingredientes y utensilios muy fríos.",
-      "Pelar gambas dejando cola, hacer pequeños cortes en vientre para enderezar.",
-      "Secar perfectamente gambas y verduras con papel.",
-      "Espolvorear ligeramente ingredientes con harina (pre-rebozado).",
-      "Preparar masa: mezclar yema con agua helada.",
-      "Añadir harina tamizada de golpe y mezclar mínimamente (deben quedar grumos).",
-      "Calentar aceite a 170-180°C en wok o sartén profunda.",
-      "Sumergir ingredientes en masa justo antes de freír.",
-      "Freír gambas 2-3 minutos hasta dorar ligeramente.",
-      "Freír verduras 3-4 minutos según grosor.",
-      "Escurrir sobre rejilla inmediatamente (no usar papel).",
-      "Servir al instante con daikon rallado y salsa tentsuyu."
+    "steps": [
+      {
+        "step": "Mantener todos los ingredientes y utensilios muy fríos.",
+        "number": 1
+      },
+      {
+        "step": "Pelar gambas dejando cola, hacer pequeños cortes en vientre para enderezar.",
+        "number": 2
+      },
+      {
+        "step": "Secar perfectamente gambas y verduras con papel.",
+        "number": 3
+      },
+      {
+        "step": "Espolvorear ligeramente ingredientes con harina (pre-rebozado).",
+        "number": 4
+      },
+      {
+        "step": "Preparar masa: mezclar yema con agua helada.",
+        "number": 5
+      },
+      {
+        "step": "Añadir harina tamizada de golpe y mezclar mínimamente (deben quedar grumos).",
+        "number": 6
+      },
+      {
+        "step": "Calentar aceite a 170-180°C en wok o sartén profunda.",
+        "number": 7
+      },
+      {
+        "step": "Sumergir ingredientes en masa justo antes de freír.",
+        "number": 8
+      },
+      {
+        "step": "Freír gambas 2-3 minutos hasta dorar ligeramente.",
+        "number": 9
+      },
+      {
+        "step": "Freír verduras 3-4 minutos según grosor.",
+        "number": 10
+      },
+      {
+        "step": "Escurrir sobre rejilla inmediatamente (no usar papel).",
+        "number": 11
+      },
+      {
+        "step": "Servir al instante con daikon rallado y salsa tentsuyu.",
+        "number": 12
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 4,
+    "imageUrl": "/images/recipes/japón/tempura.jpg",
+    "slug": "japo-003",
+    "cuisine": "japón",
     "difficulty": "Media",
-    "tags": [
-      "tempura",
-      "frito",
-      "gambas",
-      "verduras",
-      "japon",
-      "crujiente"
-    ],
-    "image": "/images/recipes/japón/tempura.jpg",
-    "region": "Nacional",
-    "city": "Tokio",
-    "coordinates": [
-      35.6762,
-      139.6503
-    ],
-    "history": "Introducido por misioneros portugueses en el siglo XVI en Nagasaki, el nombre proviene del latín 'tempora' (tiempos de Cuaresma cuando no se comía carne). Los japoneses perfeccionaron la técnica creando una masa ultraligera que realza el sabor natural de los ingredientes."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "japo-004",
-    "name": "Wagyu A5 Yakiniku",
-    "country": "Japón",
-    "description": "La carne más prestigiosa del mundo: wagyu japonés grado A5 con marmoleo perfecto, cocinado ligeramente a la parrilla para derretir en boca.",
+    "dishName": "Wagyu A5 Yakiniku",
+    "summary": "La carne más prestigiosa del mundo: wagyu japonés grado A5 con marmoleo perfecto, cocinado ligeramente a la parrilla para derretir en boca.",
+    "placeId": "Japón",
     "ingredients": [
-      "400g de wagyu A5 corte ribeye o sirloin (Kobe, Matsusaka o Omi)",
-      "Sal marina en escamas (sal de Maldon)",
-      "Pimienta negra recién molida",
-      "Ajo laminado opcional",
-      "Wasabi fresco opcional",
-      "Salsa tare para yakiniku (soja, mirin, sake, azúcar, fruta)",
-      "Arroz blanco japonés para acompañar",
-      "Ensalada simple de lechuga"
+      {
+        "ingredient": "400g de wagyu A5 corte ribeye o sirloin (Kobe, Matsusaka o Omi)"
+      },
+      {
+        "ingredient": "Sal marina en escamas (sal de Maldon)"
+      },
+      {
+        "ingredient": "Pimienta negra recién molida"
+      },
+      {
+        "ingredient": "Ajo laminado opcional"
+      },
+      {
+        "ingredient": "Wasabi fresco opcional"
+      },
+      {
+        "ingredient": "Salsa tare para yakiniku (soja, mirin, sake, azúcar, fruta)"
+      },
+      {
+        "ingredient": "Arroz blanco japonés para acompañar"
+      },
+      {
+        "ingredient": "Ensalada simple de lechuga"
+      }
     ],
-    "instructions": [
-      "Sacar carne de refrigeración 30 minutos antes de cocinar.",
-      "Cortar wagyu en cubos o tiras de 2-3cm contra la fibra.",
-      "Calentar parrilla o plancha de hierro a temperatura muy alta.",
-      "No añadir aceite: la grasa del wagyu es suficiente.",
-      "Colocar carne en parrilla sin amontonar.",
-      "Cocinar 1-2 minutos por lado máximo (poco hecho).",
-      "El interior debe permanecer rosado y jugoso.",
-      "Retirar inmediatamente y dejar reposar 1 minuto.",
-      "Espolvorear con sal en escamas y pimienta fresca.",
-      "Servir con arroz blanco y salsa tare para mojar.",
-      "Opcionalmente acompañar con ajo asado o wasabi.",
-      "Disfrutar lentamente saboreando cada bocado."
+    "steps": [
+      {
+        "step": "Sacar carne de refrigeración 30 minutos antes de cocinar.",
+        "number": 1
+      },
+      {
+        "step": "Cortar wagyu en cubos o tiras de 2-3cm contra la fibra.",
+        "number": 2
+      },
+      {
+        "step": "Calentar parrilla o plancha de hierro a temperatura muy alta.",
+        "number": 3
+      },
+      {
+        "step": "No añadir aceite: la grasa del wagyu es suficiente.",
+        "number": 4
+      },
+      {
+        "step": "Colocar carne en parrilla sin amontonar.",
+        "number": 5
+      },
+      {
+        "step": "Cocinar 1-2 minutos por lado máximo (poco hecho).",
+        "number": 6
+      },
+      {
+        "step": "El interior debe permanecer rosado y jugoso.",
+        "number": 7
+      },
+      {
+        "step": "Retirar inmediatamente y dejar reposar 1 minuto.",
+        "number": 8
+      },
+      {
+        "step": "Espolvorear con sal en escamas y pimienta fresca.",
+        "number": 9
+      },
+      {
+        "step": "Servir con arroz blanco y salsa tare para mojar.",
+        "number": 10
+      },
+      {
+        "step": "Opcionalmente acompañar con ajo asado o wasabi.",
+        "number": 11
+      },
+      {
+        "step": "Disfrutar lentamente saboreando cada bocado.",
+        "number": 12
+      }
     ],
-    "prepTime": 10,
+    "prepTimeMin": 10,
+    "cookTimeMin": 0,
+    "totalTimeMin": 10,
     "servings": 2,
+    "imageUrl": "/images/recipes/japón/wagyu-a5-yakiniku.jpg",
+    "slug": "japo-004",
+    "cuisine": "japón",
     "difficulty": "Fácil",
-    "tags": [
-      "wagyu",
-      "kobe",
-      "carne",
-      "premium",
-      "japon",
-      "yakiniku"
-    ],
-    "image": "/images/recipes/japón/wagyu-a5-yakiniku.jpg",
-    "region": "Kobe/Hyogo",
-    "city": "Kobe",
-    "coordinates": [
-      34.6901,
-      135.1955
-    ],
-    "history": "El wagyu ('vaca japonesa') se cría en Japón desde hace siglos con técnicas especiales que incluyen masajes y dieta controlada. Kobe beef es el más famoso, con marmoleo único que crea textura mantecosa. Solo 3000 vacas anuales reciben certificación Kobe auténtica."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "japo-005",
-    "name": "Matcha Wagashi",
-    "country": "Japón",
-    "description": "Dulces tradicionales japoneses servidos con té matcha en la ceremonia del té. Delicadas creaciones estacionales que son auténticas obras de arte comestibles.",
+    "dishName": "Matcha Wagashi",
+    "summary": "Dulces tradicionales japoneses servidos con té matcha en la ceremonia del té. Delicadas creaciones estacionales que son auténticas obras de arte comestibles.",
+    "placeId": "Japón",
     "ingredients": [
-      "200g de pasta de judías rojas (anko)",
-      "150g de harina de arroz glutinoso (mochiko)",
-      "100g de azúcar",
-      "150ml de agua",
-      "2 cucharadas de matcha ceremonial en polvo",
-      "Colorante alimentario rosa opcional (flor de cerezo)",
-      "Almidón de patata para espolvorear",
-      "Moldes tradicionales de madera (wagashi mold)"
+      {
+        "ingredient": "200g de pasta de judías rojas (anko)"
+      },
+      {
+        "ingredient": "150g de harina de arroz glutinoso (mochiko)"
+      },
+      {
+        "ingredient": "100g de azúcar"
+      },
+      {
+        "ingredient": "150ml de agua"
+      },
+      {
+        "ingredient": "2 cucharadas de matcha ceremonial en polvo"
+      },
+      {
+        "ingredient": "Colorante alimentario rosa opcional (flor de cerezo)"
+      },
+      {
+        "ingredient": "Almidón de patata para espolvorear"
+      },
+      {
+        "ingredient": "Moldes tradicionales de madera (wagashi mold)"
+      }
     ],
-    "instructions": [
-      "Mezclar mochiko con azúcar y agua en cazo.",
-      "Cocinar a fuego medio removiendo constantemente hasta espesar.",
-      "Dividir masa en tres partes iguales.",
-      "Dejar una parte blanca, añadir matcha a otra, colorante rosa a tercera.",
-      "Amasar cada color hasta obtener textura suave.",
-      "Dividir anko en bolas de 20g cada una.",
-      "Estirar masa de arroz entre plásticos hasta 3mm.",
-      "Cortar círculos de masa y envolver bolas de anko.",
-      "Cerrar bien sellando extremos.",
-      "Presionar en moldes de madera espolvoreados con almidón.",
-      "Desmoldar cuidadosamente dando forma floral o tradicional.",
-      "Servir inmediatamente con té matcha preparado en ceremonia."
+    "steps": [
+      {
+        "step": "Mezclar mochiko con azúcar y agua en cazo.",
+        "number": 1
+      },
+      {
+        "step": "Cocinar a fuego medio removiendo constantemente hasta espesar.",
+        "number": 2
+      },
+      {
+        "step": "Dividir masa en tres partes iguales.",
+        "number": 3
+      },
+      {
+        "step": "Dejar una parte blanca, añadir matcha a otra, colorante rosa a tercera.",
+        "number": 4
+      },
+      {
+        "step": "Amasar cada color hasta obtener textura suave.",
+        "number": 5
+      },
+      {
+        "step": "Dividir anko en bolas de 20g cada una.",
+        "number": 6
+      },
+      {
+        "step": "Estirar masa de arroz entre plásticos hasta 3mm.",
+        "number": 7
+      },
+      {
+        "step": "Cortar círculos de masa y envolver bolas de anko.",
+        "number": 8
+      },
+      {
+        "step": "Cerrar bien sellando extremos.",
+        "number": 9
+      },
+      {
+        "step": "Presionar en moldes de madera espolvoreados con almidón.",
+        "number": 10
+      },
+      {
+        "step": "Desmoldar cuidadosamente dando forma floral o tradicional.",
+        "number": 11
+      },
+      {
+        "step": "Servir inmediatamente con té matcha preparado en ceremonia.",
+        "number": 12
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 12,
+    "imageUrl": "/images/recipes/japón/matcha-wagashi.jpg",
+    "slug": "japo-005",
+    "cuisine": "japón",
     "difficulty": "Alta",
-    "tags": [
-      "postre",
-      "matcha",
-      "tradicional",
-      "kioto",
-      "japon",
-      "wagashi",
-      "te"
-    ],
-    "image": "/images/recipes/japón/matcha-wagashi.jpg",
-    "region": "Kioto",
-    "city": "Kioto",
-    "coordinates": [
-      35.0116,
-      135.7681
-    ],
-    "history": "Los wagashi ('dulces japoneses') tienen más de 1000 años de historia, desarrollados junto a la ceremonia del té. En Kioto alcanzaron su máxima expresión artística. Cada dulce representa una estación, flor o poema clásico. Son Patrimonio Cultural Inmaterial de Japón."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

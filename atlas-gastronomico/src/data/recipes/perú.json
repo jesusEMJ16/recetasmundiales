@@ -1,212 +1,352 @@
 [
   {
     "id": "pe-ceviche-peruano",
-    "name": "Ceviche Peruano",
-    "country": "Perú",
-    "description": "Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+    "dishName": "Ceviche Peruano",
+    "summary": "Pescado fresco marinado en limón peruano con cebolla, ají y cilantro.",
+    "placeId": "Perú",
     "ingredients": [
-      "500g de pescado blanco fresco (lenguado o corvina)",
-      "6-8 limones peruanos",
-      "1 cebolla roja en julianas",
-      "1 ají limo picado",
-      "Cilantro fresco",
-      "Sal y pimienta",
-      "Camote cocido",
-      "Choclo desgranado"
+      {
+        "ingredient": "500g de pescado blanco fresco (lenguado o corvina)"
+      },
+      {
+        "ingredient": "6-8 limones peruanos"
+      },
+      {
+        "ingredient": "1 cebolla roja en julianas"
+      },
+      {
+        "ingredient": "1 ají limo picado"
+      },
+      {
+        "ingredient": "Cilantro fresco"
+      },
+      {
+        "ingredient": "Sal y pimienta"
+      },
+      {
+        "ingredient": "Camote cocido"
+      },
+      {
+        "ingredient": "Choclo desgranado"
+      }
     ],
-    "instructions": [
-      "Cortar el pescado en cubos de 2cm aproximadamente.",
-      "Marinar inmediatamente con jugo de limón y sal.",
-      "Agregar cebolla, ají y cilantro picado.",
-      "Mezclar suavemente y dejar reposar 2-3 minutos.",
-      "Servir inmediatamente con camote y choclo.",
-      "Acompañar con cancha serrana tostada."
+    "steps": [
+      {
+        "step": "Cortar el pescado en cubos de 2cm aproximadamente.",
+        "number": 1
+      },
+      {
+        "step": "Marinar inmediatamente con jugo de limón y sal.",
+        "number": 2
+      },
+      {
+        "step": "Agregar cebolla, ají y cilantro picado.",
+        "number": 3
+      },
+      {
+        "step": "Mezclar suavemente y dejar reposar 2-3 minutos.",
+        "number": 4
+      },
+      {
+        "step": "Servir inmediatamente con camote y choclo.",
+        "number": 5
+      },
+      {
+        "step": "Acompañar con cancha serrana tostada.",
+        "number": 6
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/perú/ceviche-peruano.jpg",
+    "slug": "pe-ceviche-peruano",
+    "cuisine": "perú",
     "difficulty": "Fácil",
-    "tags": [
-      "ceviche",
-      "pescado",
-      "limon",
-      "marino",
-      "patrimonio"
-    ],
-    "image": "/images/recipes/perú/ceviche-peruano.jpg",
-    "region": "Lima",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El ceviche es el plato bandera del Perú y patrimonio cultural de la nación. Sus orígenes se remontan a la época preincaica cuando los moches preparaban pescado fresco con jugo de tumbo (fruta ácida local). Con la llegada de los españoles se incorporó el limón cítrico. En 2004 fue declarado Patrimonio Cultural de la Nación Peruana."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pe-lomo-saltado",
-    "name": "Lomo Saltado",
-    "country": "Perú",
-    "description": "Saltado de carne de res con cebolla, tomate y papas fritas, fusión chino-peruana.",
+    "dishName": "Lomo Saltado",
+    "summary": "Saltado de carne de res con cebolla, tomate y papas fritas, fusión chino-peruana.",
+    "placeId": "Perú",
     "ingredients": [
-      "500g de lomo fino en tiras",
-      "2 cebollas rojas en gajos",
-      "2 tomates en gajos",
-      "1 ají amarillo en tiras",
-      "Salsa de soja",
-      "Vinagre tinto",
-      "Papas fritas",
-      "Arroz blanco"
+      {
+        "ingredient": "500g de lomo fino en tiras"
+      },
+      {
+        "ingredient": "2 cebollas rojas en gajos"
+      },
+      {
+        "ingredient": "2 tomates en gajos"
+      },
+      {
+        "ingredient": "1 ají amarillo en tiras"
+      },
+      {
+        "ingredient": "Salsa de soja"
+      },
+      {
+        "ingredient": "Vinagre tinto"
+      },
+      {
+        "ingredient": "Papas fritas"
+      },
+      {
+        "ingredient": "Arroz blanco"
+      }
     ],
-    "instructions": [
-      "Calentar wok o sartén a fuego muy alto.",
-      "Sellar la carne rápidamente con sal y pimienta.",
-      "Agregar cebolla, tomate y ají amarillo.",
-      "Añadir salsa de soja y vinagre.",
-      "Incorporar papas fritas al final.",
-      "Servir sobre arroz blanco graneado."
+    "steps": [
+      {
+        "step": "Calentar wok o sartén a fuego muy alto.",
+        "number": 1
+      },
+      {
+        "step": "Sellar la carne rápidamente con sal y pimienta.",
+        "number": 2
+      },
+      {
+        "step": "Agregar cebolla, tomate y ají amarillo.",
+        "number": 3
+      },
+      {
+        "step": "Añadir salsa de soja y vinagre.",
+        "number": 4
+      },
+      {
+        "step": "Incorporar papas fritas al final.",
+        "number": 5
+      },
+      {
+        "step": "Servir sobre arroz blanco graneado.",
+        "number": 6
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 4,
+    "imageUrl": "/images/recipes/perú/lomo-saltado.jpg",
+    "slug": "pe-lomo-saltado",
+    "cuisine": "perú",
     "difficulty": "Media",
-    "tags": [
-      "lomo",
-      "saltado",
-      "chifa",
-      "fusion",
-      "wok"
-    ],
-    "image": "/images/recipes/perú/lomo-saltado.jpg",
-    "region": "Lima",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El lomo saltado es el máximo exponente de la cocina chifa (fusión chino-peruana). Surgió en el siglo XIX cuando los inmigrantes chinos adaptaron sus técnicas de wok con ingredientes peruanos. La combinación única de salsa de soja oriental con ají amarillo peruano crea un sabor distintivo que representa la mestiza identidad culinaria del Perú."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pe-aji-de-gallina",
-    "name": "Ají de Gallina",
-    "country": "Perú",
-    "description": "Guiso cremoso de gallina con ají amarillo, nueces y leche.",
+    "dishName": "Ají de Gallina",
+    "summary": "Guiso cremoso de gallina con ají amarillo, nueces y leche.",
+    "placeId": "Perú",
     "ingredients": [
-      "1 gallina cocida y desmenuzada",
-      "6 ajíes amarillos",
-      "1 taza de nueces peladas",
-      "2 tazas de leche",
-      "Pan remojado en leche",
-      "Queso parmesano",
-      "Papas cocidas",
-      "Aceitunas negras"
+      {
+        "ingredient": "1 gallina cocida y desmenuzada"
+      },
+      {
+        "ingredient": "6 ajíes amarillos"
+      },
+      {
+        "ingredient": "1 taza de nueces peladas"
+      },
+      {
+        "ingredient": "2 tazas de leche"
+      },
+      {
+        "ingredient": "Pan remojado en leche"
+      },
+      {
+        "ingredient": "Queso parmesano"
+      },
+      {
+        "ingredient": "Papas cocidas"
+      },
+      {
+        "ingredient": "Aceitunas negras"
+      }
     ],
-    "instructions": [
-      "Licuar ajíes sin venas ni pepas con un poco de caldo.",
-      "Triturar nueces con pan remojado.",
-      "Sofreír pasta de ají y agregar mezcla de nueces.",
-      "Incorporar leche gradualmente hasta obtener crema.",
-      "Añadir gallina desmenuzada y queso.",
-      "Servir con papas cocidas y aceitunas."
+    "steps": [
+      {
+        "step": "Licuar ajíes sin venas ni pepas con un poco de caldo.",
+        "number": 1
+      },
+      {
+        "step": "Triturar nueces con pan remojado.",
+        "number": 2
+      },
+      {
+        "step": "Sofreír pasta de ají y agregar mezcla de nueces.",
+        "number": 3
+      },
+      {
+        "step": "Incorporar leche gradualmente hasta obtener crema.",
+        "number": 4
+      },
+      {
+        "step": "Añadir gallina desmenuzada y queso.",
+        "number": 5
+      },
+      {
+        "step": "Servir con papas cocidas y aceitunas.",
+        "number": 6
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 6,
+    "imageUrl": "/images/recipes/perú/ají-de-gallina.jpg",
+    "slug": "pe-aji-de-gallina",
+    "cuisine": "perú",
     "difficulty": "Media",
-    "tags": [
-      "aji",
-      "gallina",
-      "criollo",
-      "cremoso",
-      "convento"
-    ],
-    "image": "/images/recipes/perú/ají-de-gallina.jpg",
-    "region": "Lima",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El ají de gallina es un clásico de la cocina criolla peruana. Su origen se encuentra en los conventos limeños del siglo XVIII donde las monjas preparaban este guiso para alimentar a los necesitados. El uso del ají amarillo le da ese color dorado característico y un sabor único que combina lo picante con lo cremoso."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pe-causa-limeña",
-    "name": "Causa Limeña",
-    "country": "Perú",
-    "description": "Suflé frío de papa amarilla con relleno de pollo o atún y mayonesa.",
+    "dishName": "Causa Limeña",
+    "summary": "Suflé frío de papa amarilla con relleno de pollo o atún y mayonesa.",
+    "placeId": "Perú",
     "ingredients": [
-      "1 kg de papa amarilla",
-      "Jugo de 4 limones",
-      "Ají amarillo molido",
-      "Aceite vegetal",
-      "300g de pollo desmenuzado",
-      "Mayonesa",
-      "Palta en láminas",
-      "Huevo duro"
+      {
+        "ingredient": "1 kg de papa amarilla"
+      },
+      {
+        "ingredient": "Jugo de 4 limones"
+      },
+      {
+        "ingredient": "Ají amarillo molido"
+      },
+      {
+        "ingredient": "Aceite vegetal"
+      },
+      {
+        "ingredient": "300g de pollo desmenuzado"
+      },
+      {
+        "ingredient": "Mayonesa"
+      },
+      {
+        "ingredient": "Palta en láminas"
+      },
+      {
+        "ingredient": "Huevo duro"
+      }
     ],
-    "instructions": [
-      "Cocer papas y pasarlas por tamiz mientras están calientes.",
-      "Mezclar con limón, ají, aceite y sal hasta formar masa.",
-      "Preparar relleno mezclando pollo con mayonesa.",
-      "Armar capas de causa alternando con relleno y palta.",
-      "Decorar con huevo duro y aceitunas.",
-      "Refrigerar antes de servir."
+    "steps": [
+      {
+        "step": "Cocer papas y pasarlas por tamiz mientras están calientes.",
+        "number": 1
+      },
+      {
+        "step": "Mezclar con limón, ají, aceite y sal hasta formar masa.",
+        "number": 2
+      },
+      {
+        "step": "Preparar relleno mezclando pollo con mayonesa.",
+        "number": 3
+      },
+      {
+        "step": "Armar capas de causa alternando con relleno y palta.",
+        "number": 4
+      },
+      {
+        "step": "Decorar con huevo duro y aceitunas.",
+        "number": 5
+      },
+      {
+        "step": "Refrigerar antes de servir.",
+        "number": 6
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 6,
+    "imageUrl": "/images/recipes/perú/causa-limeña.jpg",
+    "slug": "pe-causa-limeña",
+    "cuisine": "perú",
     "difficulty": "Media",
-    "tags": [
-      "causa",
-      "papa",
-      "frio",
-      "lima",
-      "independencia"
-    ],
-    "image": "/images/recipes/perú/causa-limeña.jpg",
-    "region": "Lima",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "La causa limeña tiene origen en la época de la independencia del Perú. Cuenta la leyenda que Simón Bolívar pidió a las cocineras peruanas preparar un plato especial para sus tropas. Ellas crearon este suflé frío de papa que dio energía a los soldados libertadores. De ahí su nombre 'causa' - porque daba causa y fuerza para luchar."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pe-rocoto-relleno",
-    "name": "Rocoto Relleno",
-    "country": "Perú",
-    "description": "Rocotos rellenos de carne picada, horneados con queso derretido.",
+    "dishName": "Rocoto Relleno",
+    "summary": "Rocotos rellenos de carne picada, horneados con queso derretido.",
+    "placeId": "Perú",
     "ingredients": [
-      "6 rocotos grandes",
-      "300g de carne molida",
-      "1 cebolla picada",
-      "Aceitunas negras",
-      "Huevo duro",
-      "Queso fresco arequipeño",
-      "Leche",
-      "Especias"
+      {
+        "ingredient": "6 rocotos grandes"
+      },
+      {
+        "ingredient": "300g de carne molida"
+      },
+      {
+        "ingredient": "1 cebolla picada"
+      },
+      {
+        "ingredient": "Aceitunas negras"
+      },
+      {
+        "ingredient": "Huevo duro"
+      },
+      {
+        "ingredient": "Queso fresco arequipeño"
+      },
+      {
+        "ingredient": "Leche"
+      },
+      {
+        "ingredient": "Especias"
+      }
     ],
-    "instructions": [
-      "Desvenar rocotos y hervir en agua con sal para quitar picor.",
-      "Sofreír carne con cebolla y especias.",
-      "Rellenar rocotos con carne, aceituna y huevo.",
-      "Colocar en fuente con leche y hornear.",
-      "Cubrir con queso y gratinar.",
-      "Servir caliente con papas."
+    "steps": [
+      {
+        "step": "Desvenar rocotos y hervir en agua con sal para quitar picor.",
+        "number": 1
+      },
+      {
+        "step": "Sofreír carne con cebolla y especias.",
+        "number": 2
+      },
+      {
+        "step": "Rellenar rocotos con carne, aceituna y huevo.",
+        "number": 3
+      },
+      {
+        "step": "Colocar en fuente con leche y hornear.",
+        "number": 4
+      },
+      {
+        "step": "Cubrir con queso y gratinar.",
+        "number": 5
+      },
+      {
+        "step": "Servir caliente con papas.",
+        "number": 6
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 6,
+    "imageUrl": "/images/recipes/perú/rocoto-relleno.jpg",
+    "slug": "pe-rocoto-relleno",
+    "cuisine": "perú",
     "difficulty": "Media",
-    "tags": [
-      "rocoto",
-      "arequipa",
-      "picante",
-      "horno",
-      "domingo"
-    ],
-    "image": "/images/recipes/perú/rocoto-relleno.jpg",
-    "region": "Arequipa",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El rocoto relleno es el plato emblemático de Arequipa, ciudad blanca del sur peruano. Este platillo representa el carácter fuerte del arequipeño, conocido por su temperamento ardiente como el rocoto mismo. Es tradicional del domingo en familia y se acompaña con cerveza arequipeña helada."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

@@ -1,407 +1,673 @@
 [
   {
     "id": "ethiopia-001",
-    "name": "Doro Wat",
-    "country": "Etiopía",
-    "description": "El plato nacional de Etiopía: un guiso picante de pollo cocinado lentamente con berbere, una mezcla de especias única.",
+    "dishName": "Doro Wat",
+    "summary": "El plato nacional de Etiopía: un guiso picante de pollo cocinado lentamente con berbere, una mezcla de especias única.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "1 pollo entero cortado en piezas",
-      "4 cebollas grandes picadas",
-      "4 cucharadas de berbere (mezcla de especias)",
-      "4 dientes de ajo",
-      "Jengibre fresco rallado",
-      "Mantequilla clarificada (niter kibbeh)",
-      "6 huevos duros",
-      "Caldo de pollo",
-      "Sal al gusto"
+      {
+        "ingredient": "1 pollo entero cortado en piezas"
+      },
+      {
+        "ingredient": "4 cebollas grandes picadas"
+      },
+      {
+        "ingredient": "4 cucharadas de berbere (mezcla de especias)"
+      },
+      {
+        "ingredient": "4 dientes de ajo"
+      },
+      {
+        "ingredient": "Jengibre fresco rallado"
+      },
+      {
+        "ingredient": "Mantequilla clarificada (niter kibbeh)"
+      },
+      {
+        "ingredient": "6 huevos duros"
+      },
+      {
+        "ingredient": "Caldo de pollo"
+      },
+      {
+        "ingredient": "Sal al gusto"
+      }
     ],
-    "instructions": [
-      "Cocinar las cebollas a fuego lento sin aceite hasta que se sequen y caramelicen.",
-      "Agregar mantequilla clarificada y cocinar hasta dorar.",
-      "Añadir berbere, ajo y jengibre. Cocinar 5 minutos.",
-      "Incorporar el pollo y sellar por todos lados.",
-      "Agregar caldo suficiente para cubrir y cocinar a fuego lento 1 hora.",
-      "Añadir los huevos duros pelados los últimos 15 minutos.",
-      "Servir caliente sobre injera."
+    "steps": [
+      {
+        "step": "Cocinar las cebollas a fuego lento sin aceite hasta que se sequen y caramelicen.",
+        "number": 1
+      },
+      {
+        "step": "Agregar mantequilla clarificada y cocinar hasta dorar.",
+        "number": 2
+      },
+      {
+        "step": "Añadir berbere, ajo y jengibre. Cocinar 5 minutos.",
+        "number": 3
+      },
+      {
+        "step": "Incorporar el pollo y sellar por todos lados.",
+        "number": 4
+      },
+      {
+        "step": "Agregar caldo suficiente para cubrir y cocinar a fuego lento 1 hora.",
+        "number": 5
+      },
+      {
+        "step": "Añadir los huevos duros pelados los últimos 15 minutos.",
+        "number": 6
+      },
+      {
+        "step": "Servir caliente sobre injera.",
+        "number": 7
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/etiopía/doro-wat.jpg",
+    "slug": "ethiopia-001",
+    "cuisine": "etiopía",
     "difficulty": "Media",
-    "tags": [
-      "plato nacional",
-      "pollo",
-      "picante",
-      "tradicional",
-      "celebración"
-    ],
-    "image": "/images/recipes/etiopía/doro-wat.jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El Doro Wat es el plato más importante de la cocina etíope, tradicionalmente servido en celebraciones y domingos. Su preparación puede tomar varias horas."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ethiopia-002",
-    "name": "Injera",
-    "country": "Etiopía",
-    "description": "Pan plano fermentado hecho de teff, sirve como base para todos los platos etíopes y también como utensilio para comer.",
+    "dishName": "Injera",
+    "summary": "Pan plano fermentado hecho de teff, sirve como base para todos los platos etíopes y también como utensilio para comer.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "2 tazas de harina de teff",
-      "3 tazas de agua",
-      "1/2 cucharadita de sal",
-      "Masagre (iniciador fermentado)"
+      {
+        "ingredient": "2 tazas de harina de teff"
+      },
+      {
+        "ingredient": "3 tazas de agua"
+      },
+      {
+        "ingredient": "1/2 cucharadita de sal"
+      },
+      {
+        "ingredient": "Masagre (iniciador fermentado)"
+      }
     ],
-    "instructions": [
-      "Mezclar harina de teff con agua y dejar fermentar 2-3 días.",
-      "Agregar masagre y dejar reposar unas horas más.",
-      "La masa debe tener consistencia líquida como crepe.",
-      "Calentar sartén especial (mitad) sin aceite.",
-      "Verter masa en espiral desde el centro hacia afuera.",
-      "Tapar y cocinar hasta que se formen burbujas (no voltear).",
-      "Retirar cuando los bordes se despeguen."
+    "steps": [
+      {
+        "step": "Mezclar harina de teff con agua y dejar fermentar 2-3 días.",
+        "number": 1
+      },
+      {
+        "step": "Agregar masagre y dejar reposar unas horas más.",
+        "number": 2
+      },
+      {
+        "step": "La masa debe tener consistencia líquida como crepe.",
+        "number": 3
+      },
+      {
+        "step": "Calentar sartén especial (mitad) sin aceite.",
+        "number": 4
+      },
+      {
+        "step": "Verter masa en espiral desde el centro hacia afuera.",
+        "number": 5
+      },
+      {
+        "step": "Tapar y cocinar hasta que se formen burbujas (no voltear).",
+        "number": 6
+      },
+      {
+        "step": "Retirar cuando los bordes se despeguen.",
+        "number": 7
+      }
     ],
-    "prepTime": 48,
+    "prepTimeMin": 48,
+    "cookTimeMin": 0,
+    "totalTimeMin": 48,
     "servings": 8,
+    "imageUrl": "/images/recipes/etiopía/injera.jpg",
+    "slug": "ethiopia-002",
+    "cuisine": "etiopía",
     "difficulty": "Avanzada",
-    "tags": [
-      "pan",
-      "fermentado",
-      "sin gluten",
-      "base",
-      "tradicional"
-    ],
-    "image": "/images/recipes/etiopía/injera.jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El injera ha sido el corazón de la mesa etíope por más de 3000 años. Su fermentación única le da un sabor ligeramente ácido característico."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ethiopia-003",
-    "name": "Kitfo",
-    "country": "Etiopía",
-    "description": "Carne de res cruda marinada similar al steak tartare, sazonada con mitmita y mantequilla clarificada.",
+    "dishName": "Kitfo",
+    "summary": "Carne de res cruda marinada similar al steak tartare, sazonada con mitmita y mantequilla clarificada.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "500g de carne de res molida muy fina",
-      "3 cucharadas de mantequilla clarificada (niter kibbeh)",
-      "2 cucharaditas de mitmita (especia picante)",
-      "Ajo rallado",
-      "Jengibre rallado",
-      "Sal",
-      "Opcional: queso ayib"
+      {
+        "ingredient": "500g de carne de res molida muy fina"
+      },
+      {
+        "ingredient": "3 cucharadas de mantequilla clarificada (niter kibbeh)"
+      },
+      {
+        "ingredient": "2 cucharaditas de mitmita (especia picante)"
+      },
+      {
+        "ingredient": "Ajo rallado"
+      },
+      {
+        "ingredient": "Jengibre rallado"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Opcional: queso ayib"
+      }
     ],
-    "instructions": [
-      "Derretir la mantequilla clarificada y dejar enfriar ligeramente.",
-      "Mezclar carne con mitmita, ajo, jengibre y sal.",
-      "Verter mantequilla tibia sobre la carne y mezclar bien.",
-      "Puede servirse crudo o ligeramente salteado.",
-      "Acompañar con injera y queso ayib.",
-      "Consumir inmediatamente."
+    "steps": [
+      {
+        "step": "Derretir la mantequilla clarificada y dejar enfriar ligeramente.",
+        "number": 1
+      },
+      {
+        "step": "Mezclar carne con mitmita, ajo, jengibre y sal.",
+        "number": 2
+      },
+      {
+        "step": "Verter mantequilla tibia sobre la carne y mezclar bien.",
+        "number": 3
+      },
+      {
+        "step": "Puede servirse crudo o ligeramente salteado.",
+        "number": 4
+      },
+      {
+        "step": "Acompañar con injera y queso ayib.",
+        "number": 5
+      },
+      {
+        "step": "Consumir inmediatamente.",
+        "number": 6
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 4,
+    "imageUrl": "/images/recipes/etiopía/kitfo.jpg",
+    "slug": "ethiopia-003",
+    "cuisine": "etiopía",
     "difficulty": "Fácil",
-    "tags": [
-      "carne cruda",
-      "picante",
-      "proteico",
-      "gurage"
-    ],
-    "image": "/images/recipes/etiopía/kitfo.jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El kitfo es originario del pueblo Gurage y se ha convertido en un plato popular en toda Etiopía, especialmente apreciado por su textura suave."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ethiopia-004",
-    "name": "Tibs",
-    "country": "Etiopía",
-    "description": "Trozos de carne salteados con vegetales, cebolla, tomate y especias. Un plato versátil que varía por región.",
+    "dishName": "Tibs",
+    "summary": "Trozos de carne salteados con vegetales, cebolla, tomate y especias. Un plato versátil que varía por región.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "500g de carne de res o cordero en cubos",
-      "2 cebollas en rodajas",
-      "2 tomates en cubos",
-      "2 pimientos verdes",
-      "Ajo y jengibre",
-      "Berbere o mitmita",
-      "Mantequilla clarificada",
-      "Romero etíope (rue)"
+      {
+        "ingredient": "500g de carne de res o cordero en cubos"
+      },
+      {
+        "ingredient": "2 cebollas en rodajas"
+      },
+      {
+        "ingredient": "2 tomates en cubos"
+      },
+      {
+        "ingredient": "2 pimientos verdes"
+      },
+      {
+        "ingredient": "Ajo y jengibre"
+      },
+      {
+        "ingredient": "Berbere o mitmita"
+      },
+      {
+        "ingredient": "Mantequilla clarificada"
+      },
+      {
+        "ingredient": "Romero etíope (rue)"
+      }
     ],
-    "instructions": [
-      "Calentar mantequilla en sartén muy caliente.",
-      "Sellar la carne rápidamente manteniendo jugosidad.",
-      "Agregar cebollas y cocinar hasta transparentes.",
-      "Añadir ajo, jengibre y especias.",
-      "Incorporar tomates y pimientos.",
-      "Cocinar pocos minutos para mantener vegetales crujientes.",
-      "Servir humeante con injera."
+    "steps": [
+      {
+        "step": "Calentar mantequilla en sartén muy caliente.",
+        "number": 1
+      },
+      {
+        "step": "Sellar la carne rápidamente manteniendo jugosidad.",
+        "number": 2
+      },
+      {
+        "step": "Agregar cebollas y cocinar hasta transparentes.",
+        "number": 3
+      },
+      {
+        "step": "Añadir ajo, jengibre y especias.",
+        "number": 4
+      },
+      {
+        "step": "Incorporar tomates y pimientos.",
+        "number": 5
+      },
+      {
+        "step": "Cocinar pocos minutos para mantener vegetales crujientes.",
+        "number": 6
+      },
+      {
+        "step": "Servir humeante con injera.",
+        "number": 7
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/etiopía/tibs.jpg",
+    "slug": "ethiopia-004",
+    "cuisine": "etiopía",
     "difficulty": "Fácil",
-    "tags": [
-      "carne",
-      "salteado",
-      "rápido",
-      "restaurante"
-    ],
-    "image": "/images/recipes/etiopía/tibs.jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Los tibs son populares en restaurantes etíopes y se preparan frente al comensal en una pequeña sartén sobre brasas."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ethiopia-005",
-    "name": "Shiro Wat",
-    "country": "Etiopía",
-    "description": "Guiso espeso de harina de garbanzos o habas, altamente condimentado. Plato básico vegetariano muy nutritivo.",
+    "dishName": "Shiro Wat",
+    "summary": "Guiso espeso de harina de garbanzos o habas, altamente condimentado. Plato básico vegetariano muy nutritivo.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "2 tazas de harina de garbanzos tostados",
-      "4 cebollas picadas",
-      "3 cucharadas de berbere",
-      "4 dientes de ajo",
-      "Jengibre rallado",
-      "Mantequilla clarificada o aceite",
-      "Caldo de verduras",
-      "Sal"
+      {
+        "ingredient": "2 tazas de harina de garbanzos tostados"
+      },
+      {
+        "ingredient": "4 cebollas picadas"
+      },
+      {
+        "ingredient": "3 cucharadas de berbere"
+      },
+      {
+        "ingredient": "4 dientes de ajo"
+      },
+      {
+        "ingredient": "Jengibre rallado"
+      },
+      {
+        "ingredient": "Mantequilla clarificada o aceite"
+      },
+      {
+        "ingredient": "Caldo de verduras"
+      },
+      {
+        "ingredient": "Sal"
+      }
     ],
-    "instructions": [
-      "Sofreír cebollas hasta dorar.",
-      "Agregar ajo, jengibre y berbere. Cocinar 2 minutos.",
-      "Añadir harina de garbanzos y tostar ligeramente.",
-      "Verter caldo gradualmente mientras se revuelve.",
-      "Cocinar a fuego lento 30 minutos revolviendo constantemente.",
-      "Ajustar espesor con más caldo si es necesario.",
-      "Servir caliente sobre injera."
+    "steps": [
+      {
+        "step": "Sofreír cebollas hasta dorar.",
+        "number": 1
+      },
+      {
+        "step": "Agregar ajo, jengibre y berbere. Cocinar 2 minutos.",
+        "number": 2
+      },
+      {
+        "step": "Añadir harina de garbanzos y tostar ligeramente.",
+        "number": 3
+      },
+      {
+        "step": "Verter caldo gradualmente mientras se revuelve.",
+        "number": 4
+      },
+      {
+        "step": "Cocinar a fuego lento 30 minutos revolviendo constantemente.",
+        "number": 5
+      },
+      {
+        "step": "Ajustar espesor con más caldo si es necesario.",
+        "number": 6
+      },
+      {
+        "step": "Servir caliente sobre injera.",
+        "number": 7
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 6,
+    "imageUrl": "/images/recipes/etiopía/shiro-wat.jpg",
+    "slug": "ethiopia-005",
+    "cuisine": "etiopía",
     "difficulty": "Media",
-    "tags": [
-      "vegetariano",
-      "vegano",
-      "ayuno",
-      "proteico",
-      "garbanzos"
-    ],
-    "image": "/images/recipes/etiopía/shiro-wat.jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El shiro wat es fundamental durante los períodos de ayuno de la Iglesia Ortodoxa Etíope, donde no se consumen productos animales."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ethiopia-006",
-    "name": "Ayib",
-    "country": "Etiopía",
-    "description": "Queso fresco etíope suave y ligeramente ácido, similar al requesón pero con textura más firme.",
+    "dishName": "Ayib",
+    "summary": "Queso fresco etíope suave y ligeramente ácido, similar al requesón pero con textura más firme.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "2 litros de leche entera",
-      "Jugo de 2 limones o vinagre",
-      "Sal al gusto",
-      "Hierbas frescas (opcional)"
+      {
+        "ingredient": "2 litros de leche entera"
+      },
+      {
+        "ingredient": "Jugo de 2 limones o vinagre"
+      },
+      {
+        "ingredient": "Sal al gusto"
+      },
+      {
+        "ingredient": "Hierbas frescas (opcional)"
+      }
     ],
-    "instructions": [
-      "Calentar leche hasta casi ebullición (85°C).",
-      "Retirar del fuego y agregar jugo de limón gradualmente.",
-      "Revolver suavemente hasta que la leche se corte.",
-      "Dejar reposar 10 minutos.",
-      "Colar en tela de quesería.",
-      "Escurrir 2-3 horas según textura deseada.",
-      "Sazonar con sal y servir fresco."
+    "steps": [
+      {
+        "step": "Calentar leche hasta casi ebullición (85°C).",
+        "number": 1
+      },
+      {
+        "step": "Retirar del fuego y agregar jugo de limón gradualmente.",
+        "number": 2
+      },
+      {
+        "step": "Revolver suavemente hasta que la leche se corte.",
+        "number": 3
+      },
+      {
+        "step": "Dejar reposar 10 minutos.",
+        "number": 4
+      },
+      {
+        "step": "Colar en tela de quesería.",
+        "number": 5
+      },
+      {
+        "step": "Escurrir 2-3 horas según textura deseada.",
+        "number": 6
+      },
+      {
+        "step": "Sazonar con sal y servir fresco.",
+        "number": 7
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 8,
+    "imageUrl": "/images/recipes/etiopía/ayib.jpg",
+    "slug": "ethiopia-006",
+    "cuisine": "etiopía",
     "difficulty": "Fácil",
-    "tags": [
-      "queso",
-      "lácteo",
-      "fresco",
-      "acompañamiento"
-    ],
-    "image": "/images/recipes/etiopía/ayib.jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El ayib es un subproducto de la producción de mantequilla clarificada y ha sido parte de la dieta etíope por siglos."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ethiopia-007",
-    "name": "Misir Wat",
-    "country": "Etiopía",
-    "description": "Guiso de lentejas rojas altamente condimentado con berbere. Un plato principal durante los ayunos religiosos.",
+    "dishName": "Misir Wat",
+    "summary": "Guiso de lentejas rojas altamente condimentado con berbere. Un plato principal durante los ayunos religiosos.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "2 tazas de lentejas rojas",
-      "3 cebollas grandes picadas",
-      "4 cucharadas de berbere",
-      "4 dientes de ajo",
-      "Jengibre rallado",
-      "Aceite o mantequilla clarificada",
-      "Sal",
-      "Comino"
+      {
+        "ingredient": "2 tazas de lentejas rojas"
+      },
+      {
+        "ingredient": "3 cebollas grandes picadas"
+      },
+      {
+        "ingredient": "4 cucharadas de berbere"
+      },
+      {
+        "ingredient": "4 dientes de ajo"
+      },
+      {
+        "ingredient": "Jengibre rallado"
+      },
+      {
+        "ingredient": "Aceite o mantequilla clarificada"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Comino"
+      }
     ],
-    "instructions": [
-      "Lavar y escurrir las lentejas.",
-      "Cocinar cebollas hasta caramelizar.",
-      "Agregar berbere, ajo y jengibre. Tostar 2 minutos.",
-      "Añadir lentejas y cubrir con agua.",
-      "Cocinar a fuego lento 45 minutos hasta que estén tiernas.",
-      "Condimentar con sal y comino.",
-      "Servir sobre injera."
+    "steps": [
+      {
+        "step": "Lavar y escurrir las lentejas.",
+        "number": 1
+      },
+      {
+        "step": "Cocinar cebollas hasta caramelizar.",
+        "number": 2
+      },
+      {
+        "step": "Agregar berbere, ajo y jengibre. Tostar 2 minutos.",
+        "number": 3
+      },
+      {
+        "step": "Añadir lentejas y cubrir con agua.",
+        "number": 4
+      },
+      {
+        "step": "Cocinar a fuego lento 45 minutos hasta que estén tiernas.",
+        "number": 5
+      },
+      {
+        "step": "Condimentar con sal y comino.",
+        "number": 6
+      },
+      {
+        "step": "Servir sobre injera.",
+        "number": 7
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 6,
+    "imageUrl": "/images/recipes/etiopía/misir-wat.jpg",
+    "slug": "ethiopia-007",
+    "cuisine": "etiopía",
     "difficulty": "Fácil",
-    "tags": [
-      "vegetariano",
-      "vegano",
-      "lentejas",
-      "ayuno",
-      "proteico"
-    ],
-    "image": "/images/recipes/etiopía/misir-wat.jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Las lentejas son un cultivo antiguo en Etiopía y el misir wat es uno de los platos más comunes en la mesa etíope."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ethiopia-008",
-    "name": "Kocho",
-    "country": "Etiopía",
-    "description": "Pan fermentado hecho del tronco de la planta de ensete (falso plátano), alimento básico del sur de Etiopía.",
+    "dishName": "Kocho",
+    "summary": "Pan fermentado hecho del tronco de la planta de ensete (falso plátano), alimento básico del sur de Etiopía.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "Tronco de ensete procesado",
-      "Agua",
-      "Hoja de ensete para envolver"
+      {
+        "ingredient": "Tronco de ensete procesado"
+      },
+      {
+        "ingredient": "Agua"
+      },
+      {
+        "ingredient": "Hoja de ensete para envolver"
+      }
     ],
-    "instructions": [
-      "Extraer la pulpa del tronco de ensete.",
-      "Fermentar la pulpa enterrada por varios meses.",
-      "Mezclar con agua para formar masa.",
-      "Extender en hojas de ensete.",
-      "Cocinar sobre piedras calientes o sartén.",
-      "Servir tibio con diversos acompañamientos."
+    "steps": [
+      {
+        "step": "Extraer la pulpa del tronco de ensete.",
+        "number": 1
+      },
+      {
+        "step": "Fermentar la pulpa enterrada por varios meses.",
+        "number": 2
+      },
+      {
+        "step": "Mezclar con agua para formar masa.",
+        "number": 3
+      },
+      {
+        "step": "Extender en hojas de ensete.",
+        "number": 4
+      },
+      {
+        "step": "Cocinar sobre piedras calientes o sartén.",
+        "number": 5
+      },
+      {
+        "step": "Servir tibio con diversos acompañamientos.",
+        "number": 6
+      }
     ],
-    "prepTime": 180,
+    "prepTimeMin": 180,
+    "cookTimeMin": 0,
+    "totalTimeMin": 180,
     "servings": 10,
+    "imageUrl": "/images/recipes/etiopía/kocho.jpg",
+    "slug": "ethiopia-008",
+    "cuisine": "etiopía",
     "difficulty": "Avanzada",
-    "tags": [
-      "pan",
-      "fermentado",
-      "ensete",
-      "sidama",
-      "tradicional"
-    ],
-    "image": "/images/recipes/etiopía/kocho.jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El kocho es central para la cultura del pueblo Sidama y otras etnias del sur. El ensete puede crecer en condiciones donde otros cultivos fallan."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ethiopia-009",
-    "name": "Tella",
-    "country": "Etiopía",
-    "description": "Cerveza tradicional etíope hecha de cebada, trigo o mijo, con un sabor ligeramente ácido y espumoso.",
+    "dishName": "Tella",
+    "summary": "Cerveza tradicional etíope hecha de cebada, trigo o mijo, con un sabor ligeramente ácido y espumoso.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "2 kg de cebada o trigo",
-      "1 kg de mijo",
-      "Hojas de gesho (Rhamnus prinoides)",
-      "Agua",
-      "Levadura natural"
+      {
+        "ingredient": "2 kg de cebada o trigo"
+      },
+      {
+        "ingredient": "1 kg de mijo"
+      },
+      {
+        "ingredient": "Hojas de gesho (Rhamnus prinoides)"
+      },
+      {
+        "ingredient": "Agua"
+      },
+      {
+        "ingredient": "Levadura natural"
+      }
     ],
-    "instructions": [
-      "Germinar los granos por 2-3 días.",
-      "Secar y moler los granos germinados.",
-      "Hervir hojas de gesho en agua.",
-      "Mezclar granos molidos con el líquido.",
-      "Dejar fermentar 3-5 días.",
-      "Colar y servir ligeramente espumoso."
+    "steps": [
+      {
+        "step": "Germinar los granos por 2-3 días.",
+        "number": 1
+      },
+      {
+        "step": "Secar y moler los granos germinados.",
+        "number": 2
+      },
+      {
+        "step": "Hervir hojas de gesho en agua.",
+        "number": 3
+      },
+      {
+        "step": "Mezclar granos molidos con el líquido.",
+        "number": 4
+      },
+      {
+        "step": "Dejar fermentar 3-5 días.",
+        "number": 5
+      },
+      {
+        "step": "Colar y servir ligeramente espumoso.",
+        "number": 6
+      }
     ],
-    "prepTime": 120,
+    "prepTimeMin": 120,
+    "cookTimeMin": 0,
+    "totalTimeMin": 120,
     "servings": 20,
+    "imageUrl": "/images/recipes/etiopía/tella.jpg",
+    "slug": "ethiopia-009",
+    "cuisine": "etiopía",
     "difficulty": "Avanzada",
-    "tags": [
-      "bebida",
-      "fermentado",
-      "cerveza",
-      "tradicional",
-      "gesho"
-    ],
-    "image": "/images/recipes/etiopía/tella.jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "La tella se ha brewado en Etiopía por miles de años y es central en ceremonias sociales y religiosas."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "ethiopia-010",
-    "name": "Buna (Café Etíope)",
-    "country": "Etiopía",
-    "description": "Ceremonia tradicional del café etíope, donde los granos se tuestan, muelen y preparan frente a los invitados.",
+    "dishName": "Buna (Café Etíope)",
+    "summary": "Ceremonia tradicional del café etíope, donde los granos se tuestan, muelen y preparan frente a los invitados.",
+    "placeId": "Etiopía",
     "ingredients": [
-      "Granos de café verde Arábica",
-      "Agua",
-      "Incienso",
-      "Palomitas de maíz o cebada tostada",
-      "Azúcar o sal (opcional)"
+      {
+        "ingredient": "Granos de café verde Arábica"
+      },
+      {
+        "ingredient": "Agua"
+      },
+      {
+        "ingredient": "Incienso"
+      },
+      {
+        "ingredient": "Palomitas de maíz o cebada tostada"
+      },
+      {
+        "ingredient": "Azúcar o sal (opcional)"
+      }
     ],
-    "instructions": [
-      "Lavar los granos de café verdes.",
-      "Tostar los granos en sartén sobre carbón, moviendo constantemente.",
-      "Moler los granos tostados en mortero.",
-      "Colocar en jebena (olla tradicional de barro).",
-      "Hervir agua y verter sobre el café.",
-      "Servir en tazas pequeñas sin asa (cini).",
-      "Repetir hasta tres rondas de preparación."
+    "steps": [
+      {
+        "step": "Lavar los granos de café verdes.",
+        "number": 1
+      },
+      {
+        "step": "Tostar los granos en sartén sobre carbón, moviendo constantemente.",
+        "number": 2
+      },
+      {
+        "step": "Moler los granos tostados en mortero.",
+        "number": 3
+      },
+      {
+        "step": "Colocar en jebena (olla tradicional de barro).",
+        "number": 4
+      },
+      {
+        "step": "Hervir agua y verter sobre el café.",
+        "number": 5
+      },
+      {
+        "step": "Servir en tazas pequeñas sin asa (cini).",
+        "number": 6
+      },
+      {
+        "step": "Repetir hasta tres rondas de preparación.",
+        "number": 7
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/etiopía/buna-(café-etíope).jpg",
+    "slug": "ethiopia-010",
+    "cuisine": "etiopía",
     "difficulty": "Media",
-    "tags": [
-      "bebida",
-      "café",
-      "ceremonia",
-      "tradicional",
-      "hospitalidad"
-    ],
-    "image": "/images/recipes/etiopía/buna-(café-etíope).jpg",
-    "region": "África Oriental",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Etiopía es la cuna mundial del café. La ceremonia del buna es un ritual social que puede durar horas y simboliza hospitalidad."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

@@ -1,207 +1,336 @@
 [
   {
     "id": "co-bandeja-paisa",
-    "name": "Bandeja Paisa",
-    "country": "Colombia",
-    "description": "Abundante plato antioqueño con frijoles, arroz, carne molida, chicharrón, huevo y más.",
+    "dishName": "Bandeja Paisa",
+    "summary": "Abundante plato antioqueño con frijoles, arroz, carne molida, chicharrón, huevo y más.",
+    "placeId": "Colombia",
     "ingredients": [
-      "300g de frijoles rojos",
-      "200g de arroz blanco",
-      "150g de carne molida",
-      "150g de chicharrón",
-      "1 huevo frito",
-      "1 chorizo antioqueño",
-      "Aguacate",
-      "Arepa",
-      "Plátano maduro"
+      {
+        "ingredient": "300g de frijoles rojos"
+      },
+      {
+        "ingredient": "200g de arroz blanco"
+      },
+      {
+        "ingredient": "150g de carne molida"
+      },
+      {
+        "ingredient": "150g de chicharrón"
+      },
+      {
+        "ingredient": "1 huevo frito"
+      },
+      {
+        "ingredient": "1 chorizo antioqueño"
+      },
+      {
+        "ingredient": "Aguacate"
+      },
+      {
+        "ingredient": "Arepa"
+      },
+      {
+        "ingredient": "Plátano maduro"
+      }
     ],
-    "instructions": [
-      "Cocinar frijoles con hogao (cebolla y tomate) hasta ablandar.",
-      "Preparar arroz blanco graneado.",
-      "Sofreír carne molida con especias.",
-      "Freír chicharrón hasta dorar y crujiente.",
-      "Freír huevo y chorizo.",
-      "Servir todo en bandeja grande con aguacate y arepa."
+    "steps": [
+      {
+        "step": "Cocinar frijoles con hogao (cebolla y tomate) hasta ablandar.",
+        "number": 1
+      },
+      {
+        "step": "Preparar arroz blanco graneado.",
+        "number": 2
+      },
+      {
+        "step": "Sofreír carne molida con especias.",
+        "number": 3
+      },
+      {
+        "step": "Freír chicharrón hasta dorar y crujiente.",
+        "number": 4
+      },
+      {
+        "step": "Freír huevo y chorizo.",
+        "number": 5
+      },
+      {
+        "step": "Servir todo en bandeja grande con aguacate y arepa.",
+        "number": 6
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 1,
+    "imageUrl": "/images/recipes/colombia/bandeja-paisa.jpg",
+    "slug": "co-bandeja-paisa",
+    "cuisine": "colombia",
     "difficulty": "Media",
-    "tags": [
-      "paisa",
-      "frijoles",
-      "contundente",
-      "antioquia",
-      "nacional"
-    ],
-    "image": "/images/recipes/colombia/bandeja-paisa.jpg",
-    "region": "Antioquia",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "La bandeja paisa es el plato emblemático de la región antioqueña colombiana. Nació como alimento de los campesinos y arrieros que necesitaban una comida contundente para soportar las largas jornadas de trabajo en las montañas. En 2005 fue declarada plato nacional de Colombia y hoy es símbolo de la generosidad paisa."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "co-ajiaco-santafereo",
-    "name": "Ajiaco Santafereño",
-    "country": "Colombia",
-    "description": "Sopa espesa de tres papas, pollo y guascas, servida con crema y alcaparras.",
+    "dishName": "Ajiaco Santafereño",
+    "summary": "Sopa espesa de tres papas, pollo y guascas, servida con crema y alcaparras.",
+    "placeId": "Colombia",
     "ingredients": [
-      "500g de papa criolla",
-      "300g de papa sabanera",
-      "300g de papa pastusa",
-      "300g de pechuga de pollo",
-      "Guascas frescas",
-      "Crema de leche",
-      "Alcaparras",
-      "Aguacate"
+      {
+        "ingredient": "500g de papa criolla"
+      },
+      {
+        "ingredient": "300g de papa sabanera"
+      },
+      {
+        "ingredient": "300g de papa pastusa"
+      },
+      {
+        "ingredient": "300g de pechuga de pollo"
+      },
+      {
+        "ingredient": "Guascas frescas"
+      },
+      {
+        "ingredient": "Crema de leche"
+      },
+      {
+        "ingredient": "Alcaparras"
+      },
+      {
+        "ingredient": "Aguacate"
+      }
     ],
-    "instructions": [
-      "Cocer pollo con verduras para obtener caldo sabroso.",
-      "Agregar las tres variedades de papa en trozos.",
-      "Añadir guascas que dan el sabor característico.",
-      "Cocinar hasta que las papas se deshagan parcialmente.",
-      "Desmenuzar el pollo y devolverlo a la sopa.",
-      "Servir con crema, alcaparras y aguacate aparte."
+    "steps": [
+      {
+        "step": "Cocer pollo con verduras para obtener caldo sabroso.",
+        "number": 1
+      },
+      {
+        "step": "Agregar las tres variedades de papa en trozos.",
+        "number": 2
+      },
+      {
+        "step": "Añadir guascas que dan el sabor característico.",
+        "number": 3
+      },
+      {
+        "step": "Cocinar hasta que las papas se deshagan parcialmente.",
+        "number": 4
+      },
+      {
+        "step": "Desmenuzar el pollo y devolverlo a la sopa.",
+        "number": 5
+      },
+      {
+        "step": "Servir con crema, alcaparras y aguacate aparte.",
+        "number": 6
+      }
     ],
-    "prepTime": 120,
+    "prepTimeMin": 120,
+    "cookTimeMin": 0,
+    "totalTimeMin": 120,
     "servings": 6,
+    "imageUrl": "/images/recipes/colombia/ajiaco-santafereño.jpg",
+    "slug": "co-ajiaco-santafereo",
+    "cuisine": "colombia",
     "difficulty": "Media",
-    "tags": [
-      "sopa",
-      "papa",
-      "bogota",
-      "domingo",
-      "tradicional"
-    ],
-    "image": "/images/recipes/colombia/ajiaco-santafereño.jpg",
-    "region": "Cundinamarca",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El ajiaco santafereño es la sopa insignia de Bogotá. Sus orígenes son precolombinos, preparado por los muiscas con papas nativas de la región. Las tres variedades de papa representan la diversidad del altiplano cundiboyacense. Es tradicionalmente el plato del domingo en familia bogotana y se dice que cura la resaca."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "co-arepas-colombianas",
-    "name": "Arepas Colombianas",
-    "country": "Colombia",
-    "description": "Pan redondo de maíz que acompaña todas las comidas colombianas.",
+    "dishName": "Arepas Colombianas",
+    "summary": "Pan redondo de maíz que acompaña todas las comidas colombianas.",
+    "placeId": "Colombia",
     "ingredients": [
-      "2 tazas de harina de maíz precocida",
-      "2 tazas de agua tibia",
-      "1 cucharadita de sal",
-      "Queso costeño (opcional)",
-      "Mantequilla"
+      {
+        "ingredient": "2 tazas de harina de maíz precocida"
+      },
+      {
+        "ingredient": "2 tazas de agua tibia"
+      },
+      {
+        "ingredient": "1 cucharadita de sal"
+      },
+      {
+        "ingredient": "Queso costeño (opcional)"
+      },
+      {
+        "ingredient": "Mantequilla"
+      }
     ],
-    "instructions": [
-      "Mezclar harina con agua y sal hasta formar masa homogénea.",
-      "Formar bolas y aplastar hasta obtener discos de 1cm.",
-      "Cocinar en plancha o sartén sin aceite por ambos lados.",
-      "Voltear cuando se doren ligeramente.",
-      "Servir calientes con mantequilla o queso."
+    "steps": [
+      {
+        "step": "Mezclar harina con agua y sal hasta formar masa homogénea.",
+        "number": 1
+      },
+      {
+        "step": "Formar bolas y aplastar hasta obtener discos de 1cm.",
+        "number": 2
+      },
+      {
+        "step": "Cocinar en plancha o sartén sin aceite por ambos lados.",
+        "number": 3
+      },
+      {
+        "step": "Voltear cuando se doren ligeramente.",
+        "number": 4
+      },
+      {
+        "step": "Servir calientes con mantequilla o queso.",
+        "number": 5
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 8,
+    "imageUrl": "/images/recipes/colombia/arepas-colombianas.jpg",
+    "slug": "co-arepas-colombianas",
+    "cuisine": "colombia",
     "difficulty": "Fácil",
-    "tags": [
-      "arepa",
-      "maíz",
-      "pan",
-      "diario",
-      "indígena"
-    ],
-    "image": "/images/recipes/colombia/arepas-colombianas.jpg",
-    "region": "Todo el país",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "La arepa es el pan diario de Colombia, presente en desayunos, almuerzos y cenas. De origen indígena, era preparada por los pueblos originarios mucho antes de la llegada de los españoles. Cada región tiene su variante: arepa de huevo en la costa, arepa boyacense con queso, arepa santandereana asada. Es símbolo de unidad nacional."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "co-lechona-tolimense",
-    "name": "Lechona Tolimense",
-    "country": "Colombia",
-    "description": "Cerdo relleno de arroz y especias, cocinado lentamente envuelto en hojas de plátano.",
+    "dishName": "Lechona Tolimense",
+    "summary": "Cerdo relleno de arroz y especias, cocinado lentamente envuelto en hojas de plátano.",
+    "placeId": "Colombia",
     "ingredients": [
-      "1 lechón entero destazado",
-      "2 kg de arroz",
-      "500g de arvejas",
-      "500g de zanahorias",
-      "Cebolla, ajo, comino",
-      "Hojas de plátano",
-      "Sal y pimienta"
+      {
+        "ingredient": "1 lechón entero destazado"
+      },
+      {
+        "ingredient": "2 kg de arroz"
+      },
+      {
+        "ingredient": "500g de arvejas"
+      },
+      {
+        "ingredient": "500g de zanahorias"
+      },
+      {
+        "ingredient": "Cebolla, ajo, comino"
+      },
+      {
+        "ingredient": "Hojas de plátano"
+      },
+      {
+        "ingredient": "Sal y pimienta"
+      }
     ],
-    "instructions": [
-      "Condimentar la carne del cerdo con especias.",
-      "Cocinar arroz con verduras y mezclar con carne picada.",
-      "Rellenar el cuero del cerdo con la mezcla.",
-      "Envolver en hojas de plátano y coser.",
-      "Hornear a temperatura baja por 4-5 horas.",
-      "Servir cortado en rodajas con arepa."
+    "steps": [
+      {
+        "step": "Condimentar la carne del cerdo con especias.",
+        "number": 1
+      },
+      {
+        "step": "Cocinar arroz con verduras y mezclar con carne picada.",
+        "number": 2
+      },
+      {
+        "step": "Rellenar el cuero del cerdo con la mezcla.",
+        "number": 3
+      },
+      {
+        "step": "Envolver en hojas de plátano y coser.",
+        "number": 4
+      },
+      {
+        "step": "Hornear a temperatura baja por 4-5 horas.",
+        "number": 5
+      },
+      {
+        "step": "Servir cortado en rodajas con arepa.",
+        "number": 6
+      }
     ],
-    "prepTime": 360,
+    "prepTimeMin": 360,
+    "cookTimeMin": 0,
+    "totalTimeMin": 360,
     "servings": 12,
+    "imageUrl": "/images/recipes/colombia/lechona-tolimense.jpg",
+    "slug": "co-lechona-tolimense",
+    "cuisine": "colombia",
     "difficulty": "Difícil",
-    "tags": [
-      "lechona",
-      "cerdo",
-      "tolima",
-      "festivo",
-      "patrimonio"
-    ],
-    "image": "/images/recipes/colombia/lechona-tolimense.jpg",
-    "region": "Tolima",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "La lechona tolimense es considerada patrimonio gastronómico del Tolima. Su preparación es todo un ritual que requiere tiempo y dedicación. Tradicionalmente se prepara para fiestas patronales y celebraciones especiales. El secreto está en la cocción lenta que permite que la carne absorba todos los sabores del relleno."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "co-mote-de-queso",
-    "name": "Mote de Queso",
-    "country": "Colombia",
-    "description": "Guiso cremoso de ñame con queso costeño y suero atollabuey.",
+    "dishName": "Mote de Queso",
+    "summary": "Guiso cremoso de ñame con queso costeño y suero atollabuey.",
+    "placeId": "Colombia",
     "ingredients": [
-      "1 kg de ñame",
-      "500g de queso costeño",
-      "2 litros de suero atollabuey",
-      "Cebolla cabezona",
-      "Ajo",
-      "Cilantro",
-      "Sal"
+      {
+        "ingredient": "1 kg de ñame"
+      },
+      {
+        "ingredient": "500g de queso costeño"
+      },
+      {
+        "ingredient": "2 litros de suero atollabuey"
+      },
+      {
+        "ingredient": "Cebolla cabezona"
+      },
+      {
+        "ingredient": "Ajo"
+      },
+      {
+        "ingredient": "Cilantro"
+      },
+      {
+        "ingredient": "Sal"
+      }
     ],
-    "instructions": [
-      "Pelar y cortar el ñame en cubos.",
-      "Cocer el ñame en agua con sal hasta ablandar.",
-      "Agregar el suero y dejar hervir.",
-      "Incorporar el queso en trozos.",
-      "Sazonar con cebolla, ajo y cilantro.",
-      "Servir caliente con arroz blanco."
+    "steps": [
+      {
+        "step": "Pelar y cortar el ñame en cubos.",
+        "number": 1
+      },
+      {
+        "step": "Cocer el ñame en agua con sal hasta ablandar.",
+        "number": 2
+      },
+      {
+        "step": "Agregar el suero y dejar hervir.",
+        "number": 3
+      },
+      {
+        "step": "Incorporar el queso en trozos.",
+        "number": 4
+      },
+      {
+        "step": "Sazonar con cebolla, ajo y cilantro.",
+        "number": 5
+      },
+      {
+        "step": "Servir caliente con arroz blanco.",
+        "number": 6
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 6,
+    "imageUrl": "/images/recipes/colombia/mote-de-queso.jpg",
+    "slug": "co-mote-de-queso",
+    "cuisine": "colombia",
     "difficulty": "Fácil",
-    "tags": [
-      "mote",
-      "ñame",
-      "caribe",
-      "queso",
-      "costeño"
-    ],
-    "image": "/images/recipes/colombia/mote-de-queso.jpg",
-    "region": "Costa Caribe",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El mote de queso es el plato insignia de la Costa Caribe colombiana. De origen humilde, nació como alimento de los pescadores y campesinos que aprovechaban el ñame abundante en la región. El queso costeño y el suero atollabuey le dan ese sabor único que representa la alegría y calidez del caribe colombiano."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

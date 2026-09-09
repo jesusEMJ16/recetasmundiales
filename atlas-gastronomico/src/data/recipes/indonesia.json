@@ -1,273 +1,543 @@
 [
   {
     "id": "indo-001",
-    "name": "Nasi Goreng (Arroz Frito Indonesio)",
-    "country": "Indonesia",
-    "description": "Arroz frito con kecap manis (salsa de soja dulce), huevo, camarones y pollo. Plato nacional indonesio, versátil y lleno de umami.",
+    "dishName": "Nasi Goreng (Arroz Frito Indonesio)",
+    "summary": "Arroz frito con kecap manis (salsa de soja dulce), huevo, camarones y pollo. Plato nacional indonesio, versátil y lleno de umami.",
+    "placeId": "Indonesia",
     "ingredients": [
-      "400g de arroz cocido del día anterior",
-      "150g de camarones pelados",
-      "150g de pollo en cubos pequeños",
-      "2 huevos",
-      "3 chalotas picadas",
-      "3 dientes de ajo picados",
-      "2 chiles rojos picados",
-      "3 cucharadas de kecap manis (soja dulce indonesia)",
-      "1 cucharada de salsa de pescado",
-      "Tomates cherry cortados",
-      "Pepino en rodajas",
-      "Cebollino picado",
-      "Krupuk (crackers de camarón)",
-      "Aceite vegetal"
+      {
+        "ingredient": "400g de arroz cocido del día anterior"
+      },
+      {
+        "ingredient": "150g de camarones pelados"
+      },
+      {
+        "ingredient": "150g de pollo en cubos pequeños"
+      },
+      {
+        "ingredient": "2 huevos"
+      },
+      {
+        "ingredient": "3 chalotas picadas"
+      },
+      {
+        "ingredient": "3 dientes de ajo picados"
+      },
+      {
+        "ingredient": "2 chiles rojos picados"
+      },
+      {
+        "ingredient": "3 cucharadas de kecap manis (soja dulce indonesia)"
+      },
+      {
+        "ingredient": "1 cucharada de salsa de pescado"
+      },
+      {
+        "ingredient": "Tomates cherry cortados"
+      },
+      {
+        "ingredient": "Pepino en rodajas"
+      },
+      {
+        "ingredient": "Cebollino picado"
+      },
+      {
+        "ingredient": "Krupuk (crackers de camarón)"
+      },
+      {
+        "ingredient": "Aceite vegetal"
+      }
     ],
-    "instructions": [
-      "Calentar wok con aceite a fuego alto.",
-      "Saltear chalotas, ajo y chiles hasta fragantes.",
-      "Añadir pollo, cocinar hasta dorar.",
-      "Agregar camarones, cocinar 2 minutos hasta rosados.",
-      "Empujar ingredientes al lado, añadir huevos al wok.",
-      "Revolver huevos hasta cuajar parcialmente.",
-      "Incorporar arroz frío, romper grumos con espátula.",
-      "Añadir kecap manis y salsa de pescado.",
-      "Saltear todo junto 5-7 minutos mezclando bien.",
-      "El arroz debe quedar oscuro y ligeramente caramelizado.",
-      "Servir con tomate, pepino, cebollino y krupuk."
+    "steps": [
+      {
+        "step": "Calentar wok con aceite a fuego alto.",
+        "number": 1
+      },
+      {
+        "step": "Saltear chalotas, ajo y chiles hasta fragantes.",
+        "number": 2
+      },
+      {
+        "step": "Añadir pollo, cocinar hasta dorar.",
+        "number": 3
+      },
+      {
+        "step": "Agregar camarones, cocinar 2 minutos hasta rosados.",
+        "number": 4
+      },
+      {
+        "step": "Empujar ingredientes al lado, añadir huevos al wok.",
+        "number": 5
+      },
+      {
+        "step": "Revolver huevos hasta cuajar parcialmente.",
+        "number": 6
+      },
+      {
+        "step": "Incorporar arroz frío, romper grumos con espátula.",
+        "number": 7
+      },
+      {
+        "step": "Añadir kecap manis y salsa de pescado.",
+        "number": 8
+      },
+      {
+        "step": "Saltear todo junto 5-7 minutos mezclando bien.",
+        "number": 9
+      },
+      {
+        "step": "El arroz debe quedar oscuro y ligeramente caramelizado.",
+        "number": 10
+      },
+      {
+        "step": "Servir con tomate, pepino, cebollino y krupuk.",
+        "number": 11
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/indonesia/nasi-goreng-(arroz-frito-indonesio).jpg",
+    "slug": "indo-001",
+    "cuisine": "indonesia",
     "difficulty": "Media",
-    "tags": [
-      "arroz",
-      "frito",
-      "pollo",
-      "camarones",
-      "indonesia",
-      "nacional"
-    ],
-    "image": "/images/recipes/indonesia/nasi-goreng-(arroz-frito-indonesio).jpg",
-    "region": "Java",
-    "city": "Yakarta",
-    "coordinates": [
-      -6.2088,
-      106.8456
-    ],
-    "history": "El nasi goreng surgió de la necesidad de usar arroz sobrante del día anterior. Con influencias chinas de los inmigrantes que trajeron el wok, evolucionó con ingredientes locales como el kecap manis. Es desayuno, almuerzo y cena en Indonesia, vendido por vendedores callejeros con carritos."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "indo-002",
-    "name": "Rendang (Curry Seco de Res de Padang)",
-    "country": "Indonesia",
-    "description": "Carne de res cocinada lentamente en leche de coco y especias hasta caramelizarse. Uno de los platos más sabrosos del mundo según CNN Travel.",
+    "dishName": "Rendang (Curry Seco de Res de Padang)",
+    "summary": "Carne de res cocinada lentamente en leche de coco y especias hasta caramelizarse. Uno de los platos más sabrosos del mundo según CNN Travel.",
+    "placeId": "Indonesia",
     "ingredients": [
-      "1kg de res (nalga o brisket) en cubos grandes",
-      "800ml de leche de coco espesa",
-      "200ml de leche de coco ligera",
-      "3 tallos de hierba limón machacados",
-      "2 hojas de lima kaffir",
-      "2 hojas de daun salam",
-      "1 trozo de galangal machacado",
-      "Pasta de especias: 8 chalotas, 6 dientes de ajo, 5 chiles rojos, 3cm de cúrcuma, 3cm de jengibre, 2cm de galangal",
-      "1 cucharadita de comino molido",
-      "1 cucharadita de cilantro molido",
-      "Sal y azúcar de palma al gusto",
-      "Aceite vegetal"
+      {
+        "ingredient": "1kg de res (nalga o brisket) en cubos grandes"
+      },
+      {
+        "ingredient": "800ml de leche de coco espesa"
+      },
+      {
+        "ingredient": "200ml de leche de coco ligera"
+      },
+      {
+        "ingredient": "3 tallos de hierba limón machacados"
+      },
+      {
+        "ingredient": "2 hojas de lima kaffir"
+      },
+      {
+        "ingredient": "2 hojas de daun salam"
+      },
+      {
+        "ingredient": "1 trozo de galangal machacado"
+      },
+      {
+        "ingredient": "Pasta de especias: 8 chalotas, 6 dientes de ajo, 5 chiles rojos, 3cm de cúrcuma, 3cm de jengibre, 2cm de galangal"
+      },
+      {
+        "ingredient": "1 cucharadita de comino molido"
+      },
+      {
+        "ingredient": "1 cucharadita de cilantro molido"
+      },
+      {
+        "ingredient": "Sal y azúcar de palma al gusto"
+      },
+      {
+        "ingredient": "Aceite vegetal"
+      }
     ],
-    "instructions": [
-      "Moler todos los ingredientes de la pasta de especias hasta suave.",
-      "En olla grande, calentar poco aceite, sofreír pasta de especias 5 minutos.",
-      "Añadir carne, sellar por todos lados.",
-      "Verter leche de coco ligera, llevar a ebullición.",
-      "Agregar hierba limón, hojas de lima, daun salam y galangal.",
-      "Cocinar a fuego medio-alto revolviendo ocasionalmente.",
-      "Cuando líquido se reduzca, añadir leche de coco espesa.",
-      "Bajar fuego al mínimo, cocinar 3-4 horas revolviendo regularmente.",
-      "La carne debe estar muy tierna y salsa oscura caramelizada.",
-      "El aceite de coco debe separarse y freír la carne.",
-      "Servir con arroz blanco y sambal."
+    "steps": [
+      {
+        "step": "Moler todos los ingredientes de la pasta de especias hasta suave.",
+        "number": 1
+      },
+      {
+        "step": "En olla grande, calentar poco aceite, sofreír pasta de especias 5 minutos.",
+        "number": 2
+      },
+      {
+        "step": "Añadir carne, sellar por todos lados.",
+        "number": 3
+      },
+      {
+        "step": "Verter leche de coco ligera, llevar a ebullición.",
+        "number": 4
+      },
+      {
+        "step": "Agregar hierba limón, hojas de lima, daun salam y galangal.",
+        "number": 5
+      },
+      {
+        "step": "Cocinar a fuego medio-alto revolviendo ocasionalmente.",
+        "number": 6
+      },
+      {
+        "step": "Cuando líquido se reduzca, añadir leche de coco espesa.",
+        "number": 7
+      },
+      {
+        "step": "Bajar fuego al mínimo, cocinar 3-4 horas revolviendo regularmente.",
+        "number": 8
+      },
+      {
+        "step": "La carne debe estar muy tierna y salsa oscura caramelizada.",
+        "number": 9
+      },
+      {
+        "step": "El aceite de coco debe separarse y freír la carne.",
+        "number": 10
+      },
+      {
+        "step": "Servir con arroz blanco y sambal.",
+        "number": 11
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/indonesia/rendang-(curry-seco-de-res-de-padang).jpg",
+    "slug": "indo-002",
+    "cuisine": "indonesia",
     "difficulty": "Alta",
-    "tags": [
-      "res",
-      "curry",
-      "coco",
-      "padang",
-      "indonesia",
-      "lento"
-    ],
-    "image": "/images/recipes/indonesia/rendang-(curry-seco-de-res-de-padang).jpg",
-    "region": "Sumatra Occidental",
-    "city": "Padang",
-    "coordinates": [
-      -0.9471,
-      100.4172
-    ],
-    "history": "El rendang es plato ceremonial de los Minangkabau de Sumatra, cocinado tradicionalmente durante 4-5 horas para ceremonias y bodas. La técnica de cocción lenta conserva la carne sin refrigeración. En 2011 fue votado como el plato más delicioso del mundo."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "indo-003",
-    "name": "Satay (Brochetas a la Parrilla con Salsa de Maní)",
-    "country": "Indonesia",
-    "description": "Brochetas de carne marinada grilladas sobre carbón, servidas con salsa de maní dulce-picante, arroz comprimido (ketupat) y ensalada de vegetales.",
+    "dishName": "Satay (Brochetas a la Parrilla con Salsa de Maní)",
+    "summary": "Brochetas de carne marinada grilladas sobre carbón, servidas con salsa de maní dulce-picante, arroz comprimido (ketupat) y ensalada de vegetales.",
+    "placeId": "Indonesia",
     "ingredients": [
-      "500g de pollo o cordero en cubos",
-      "2 cucharadas de kecap manis",
-      "1 cucharada de cúrcuma molida",
-      "1 cucharada de comino molido",
-      "2 dientes de ajo machacados",
-      "1 cucharada de azúcar de palma",
-      "Jugo de 1 lima",
-      "Palitos de bambú remojados",
-      "Para salsa de maní: 200g de maní tostado",
-      "3 chiles rojos",
-      "2 dientes de ajo",
-      "2 cucharadas de tamarindo",
-      "2 cucharadas de kecap manis",
-      "Agua caliente",
-      "Sal"
+      {
+        "ingredient": "500g de pollo o cordero en cubos"
+      },
+      {
+        "ingredient": "2 cucharadas de kecap manis"
+      },
+      {
+        "ingredient": "1 cucharada de cúrcuma molida"
+      },
+      {
+        "ingredient": "1 cucharada de comino molido"
+      },
+      {
+        "ingredient": "2 dientes de ajo machacados"
+      },
+      {
+        "ingredient": "1 cucharada de azúcar de palma"
+      },
+      {
+        "ingredient": "Jugo de 1 lima"
+      },
+      {
+        "ingredient": "Palitos de bambú remojados"
+      },
+      {
+        "ingredient": "Para salsa de maní: 200g de maní tostado"
+      },
+      {
+        "ingredient": "3 chiles rojos"
+      },
+      {
+        "ingredient": "2 dientes de ajo"
+      },
+      {
+        "ingredient": "2 cucharadas de tamarindo"
+      },
+      {
+        "ingredient": "2 cucharadas de kecap manis"
+      },
+      {
+        "ingredient": "Agua caliente"
+      },
+      {
+        "ingredient": "Sal"
+      }
     ],
-    "instructions": [
-      "Marinar carne con kecap manis, cúrcuma, comino, ajo, azúcar y lima mínimo 2 horas.",
-      "Ensartar carne en palitos de bambú remojados.",
-      "Grillar sobre carbón bien caliente 3-4 minutos por lado.",
-      "Para salsa: moler maní, chiles y ajo hasta pasta.",
-      "Mezclar con tamarindo, kecap manis y agua caliente hasta consistencia deseada.",
-      "Ajustar sal y dulzor.",
-      "Servir satay caliente con salsa de maní tibia.",
-      "Acompañar con ketupat (arroz comprimido) y acar (ensalada de vegetales)."
+    "steps": [
+      {
+        "step": "Marinar carne con kecap manis, cúrcuma, comino, ajo, azúcar y lima mínimo 2 horas.",
+        "number": 1
+      },
+      {
+        "step": "Ensartar carne en palitos de bambú remojados.",
+        "number": 2
+      },
+      {
+        "step": "Grillar sobre carbón bien caliente 3-4 minutos por lado.",
+        "number": 3
+      },
+      {
+        "step": "Para salsa: moler maní, chiles y ajo hasta pasta.",
+        "number": 4
+      },
+      {
+        "step": "Mezclar con tamarindo, kecap manis y agua caliente hasta consistencia deseada.",
+        "number": 5
+      },
+      {
+        "step": "Ajustar sal y dulzor.",
+        "number": 6
+      },
+      {
+        "step": "Servir satay caliente con salsa de maní tibia.",
+        "number": 7
+      },
+      {
+        "step": "Acompañar con ketupat (arroz comprimido) y acar (ensalada de vegetales).",
+        "number": 8
+      }
     ],
-    "prepTime": 150,
+    "prepTimeMin": 150,
+    "cookTimeMin": 0,
+    "totalTimeMin": 150,
     "servings": 4,
+    "imageUrl": "/images/recipes/indonesia/satay-(brochetas-a-la-parrilla-con-salsa-de-maní).jpg",
+    "slug": "indo-003",
+    "cuisine": "indonesia",
     "difficulty": "Media",
-    "tags": [
-      "brochetas",
-      "parrilla",
-      "mani",
-      "pollo",
-      "indonesia",
-      "callejero"
-    ],
-    "image": "/images/recipes/indonesia/satay-(brochetas-a-la-parrilla-con-salsa-de-maní).jpg",
-    "region": "Java",
-    "city": "Surabaya",
-    "coordinates": [
-      -7.2575,
-      112.7521
-    ],
-    "history": "El satay tiene origen en Java, influenciado por kebabs árabes traídos por comerciantes musulmanes en siglo XIX. Cada región indonesia tiene su variante. Es comida callejera icónica, preparada por vendedores que fanean las brochetas sobre braseros de carbón."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "indo-004",
-    "name": "Gado-Gado (Ensalada Indonesia con Salsa de Maní)",
-    "country": "Indonesia",
-    "description": "Ensalada tibia de vegetales blanqueados, tofu, tempeh y huevo duro con abundante salsa de maní. Plato vegetariano nutritivo y colorido.",
+    "dishName": "Gado-Gado (Ensalada Indonesia con Salsa de Maní)",
+    "summary": "Ensalada tibia de vegetales blanqueados, tofu, tempeh y huevo duro con abundante salsa de maní. Plato vegetariano nutritivo y colorido.",
+    "placeId": "Indonesia",
     "ingredients": [
-      "200g de repollo cortado grueso",
-      "200g de judías verdes",
-      "200g de brotes de soja",
-      "2 zanahorias en rodajas",
-      "200g de espinacas",
-      "200g de tofu frito en cubos",
-      "200g de tempeh frito en cubos",
-      "4 huevos duros cortados",
-      "2 papas cocidas en rodajas",
-      "Para salsa: 200g de maní tostado",
-      "3 chiles rojos",
-      "2 dientes de ajo",
-      "1 cucharada de azúcar de palma",
-      "Jugo de 1 lima",
-      "Salsa de soja dulce",
-      "Agua caliente",
-      "Krupuk para decorar"
+      {
+        "ingredient": "200g de repollo cortado grueso"
+      },
+      {
+        "ingredient": "200g de judías verdes"
+      },
+      {
+        "ingredient": "200g de brotes de soja"
+      },
+      {
+        "ingredient": "2 zanahorias en rodajas"
+      },
+      {
+        "ingredient": "200g de espinacas"
+      },
+      {
+        "ingredient": "200g de tofu frito en cubos"
+      },
+      {
+        "ingredient": "200g de tempeh frito en cubos"
+      },
+      {
+        "ingredient": "4 huevos duros cortados"
+      },
+      {
+        "ingredient": "2 papas cocidas en rodajas"
+      },
+      {
+        "ingredient": "Para salsa: 200g de maní tostado"
+      },
+      {
+        "ingredient": "3 chiles rojos"
+      },
+      {
+        "ingredient": "2 dientes de ajo"
+      },
+      {
+        "ingredient": "1 cucharada de azúcar de palma"
+      },
+      {
+        "ingredient": "Jugo de 1 lima"
+      },
+      {
+        "ingredient": "Salsa de soja dulce"
+      },
+      {
+        "ingredient": "Agua caliente"
+      },
+      {
+        "ingredient": "Krupuk para decorar"
+      }
     ],
-    "instructions": [
-      "Blanquear cada vegetal por separado en agua hirviendo con sal.",
-      "Espinacas y brotes solo 30 segundos, reservar.",
-      "Freír tofu y tempeh hasta dorados.",
-      "Preparar salsa: moler maní, chiles y ajo.",
-      "Mezclar con azúcar, lima, soja y agua caliente hasta cremosa.",
-      "Montar plato: disponer vegetales en secciones.",
-      "Añadir tofu, tempeh, huevo y papas.",
-      "Verter generosamente salsa de maní tibia.",
-      "Decorar con krupuk y cebollino frito.",
-      "Servir inmediatamente."
+    "steps": [
+      {
+        "step": "Blanquear cada vegetal por separado en agua hirviendo con sal.",
+        "number": 1
+      },
+      {
+        "step": "Espinacas y brotes solo 30 segundos, reservar.",
+        "number": 2
+      },
+      {
+        "step": "Freír tofu y tempeh hasta dorados.",
+        "number": 3
+      },
+      {
+        "step": "Preparar salsa: moler maní, chiles y ajo.",
+        "number": 4
+      },
+      {
+        "step": "Mezclar con azúcar, lima, soja y agua caliente hasta cremosa.",
+        "number": 5
+      },
+      {
+        "step": "Montar plato: disponer vegetales en secciones.",
+        "number": 6
+      },
+      {
+        "step": "Añadir tofu, tempeh, huevo y papas.",
+        "number": 7
+      },
+      {
+        "step": "Verter generosamente salsa de maní tibia.",
+        "number": 8
+      },
+      {
+        "step": "Decorar con krupuk y cebollino frito.",
+        "number": 9
+      },
+      {
+        "step": "Servir inmediatamente.",
+        "number": 10
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 4,
+    "imageUrl": "/images/recipes/indonesia/gado-gado-(ensalada-indonesia-con-salsa-de-maní).jpg",
+    "slug": "indo-004",
+    "cuisine": "indonesia",
     "difficulty": "Media",
-    "tags": [
-      "vegetariano",
-      "ensalada",
-      "mani",
-      "tofu",
-      "indonesia",
-      "saludable"
-    ],
-    "image": "/images/recipes/indonesia/gado-gado-(ensalada-indonesia-con-salsa-de-maní).jpg",
-    "region": "Java",
-    "city": "Yakarta",
-    "coordinates": [
-      -6.2088,
-      106.8456
-    ],
-    "history": "El gado-gado ('mezcla' en bahasa Indonesia) es plato popular javanés que combina influencias locales y chinas. Surgió como comida económica de vendedores callejeros. Hoy es símbolo de cocina vegetariana indonesia, servido en restaurantes y puestos callejeros."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "indo-005",
-    "name": "Soto Ayam (Sopa de Pollo Indonesía)",
-    "country": "Indonesia",
-    "description": "Sopa aromática de pollo con cúrcuma, jengibre y hierbas, servida con fideos de arroz, huevo y crackers. Comfort food indonesio reconfortante.",
+    "dishName": "Soto Ayam (Sopa de Pollo Indonesía)",
+    "summary": "Sopa aromática de pollo con cúrcuma, jengibre y hierbas, servida con fideos de arroz, huevo y crackers. Comfort food indonesio reconfortante.",
+    "placeId": "Indonesia",
     "ingredients": [
-      "1 pollo entero o 1kg de piezas de pollo",
-      "2 litros de agua",
-      "3 tallos de hierba limón machacados",
-      "3 hojas de lima kaffir",
-      "2 hojas de daun salam",
-      "1 trozo de galangal machacado",
-      "Pasta de especias: 6 chalotas, 4 dientes de ajo, 3cm de cúrcuma fresca, 2cm de jengibre, 1 cucharadita de pimienta blanca",
-      "200g de fideos de arroz",
-      "4 huevos duros",
-      "2 papas medianas fritas en cubos",
-      "Cebollino frito",
-      "Apio fresco picado",
-      "Krupuk",
-      "Lima en gajos",
-      "Sambal"
+      {
+        "ingredient": "1 pollo entero o 1kg de piezas de pollo"
+      },
+      {
+        "ingredient": "2 litros de agua"
+      },
+      {
+        "ingredient": "3 tallos de hierba limón machacados"
+      },
+      {
+        "ingredient": "3 hojas de lima kaffir"
+      },
+      {
+        "ingredient": "2 hojas de daun salam"
+      },
+      {
+        "ingredient": "1 trozo de galangal machacado"
+      },
+      {
+        "ingredient": "Pasta de especias: 6 chalotas, 4 dientes de ajo, 3cm de cúrcuma fresca, 2cm de jengibre, 1 cucharadita de pimienta blanca"
+      },
+      {
+        "ingredient": "200g de fideos de arroz"
+      },
+      {
+        "ingredient": "4 huevos duros"
+      },
+      {
+        "ingredient": "2 papas medianas fritas en cubos"
+      },
+      {
+        "ingredient": "Cebollino frito"
+      },
+      {
+        "ingredient": "Apio fresco picado"
+      },
+      {
+        "ingredient": "Krupuk"
+      },
+      {
+        "ingredient": "Lima en gajos"
+      },
+      {
+        "ingredient": "Sambal"
+      }
     ],
-    "instructions": [
-      "Hervir pollo en agua con sal 30 minutos hasta cocido.",
-      "Retirar pollo, desmenuzar carne, reservar.",
-      "Colar caldo, reservar 1.5 litros.",
-      "Moler todos los ingredientes de la pasta de especias.",
-      "Sofreír pasta de especias 5 minutos hasta fragante.",
-      "Añadir caldo reservado, llevar a ebullición.",
-      "Agregar hierba limón, hojas de lima, daun salam y galangal.",
-      "Cocinar 15 minutos para infusionar sabores.",
-      "Hidratar fideos de arroz según instrucciones.",
-      "Montar bowls: fideos, pollo desmenuzado, huevo, papas fritas.",
-      "Verter sopa hirviendo sobre ingredientes.",
-      "Decorar con cebollino frito, apio, krupuk y lima.",
-      "Servir con sambal aparte."
+    "steps": [
+      {
+        "step": "Hervir pollo en agua con sal 30 minutos hasta cocido.",
+        "number": 1
+      },
+      {
+        "step": "Retirar pollo, desmenuzar carne, reservar.",
+        "number": 2
+      },
+      {
+        "step": "Colar caldo, reservar 1.5 litros.",
+        "number": 3
+      },
+      {
+        "step": "Moler todos los ingredientes de la pasta de especias.",
+        "number": 4
+      },
+      {
+        "step": "Sofreír pasta de especias 5 minutos hasta fragante.",
+        "number": 5
+      },
+      {
+        "step": "Añadir caldo reservado, llevar a ebullición.",
+        "number": 6
+      },
+      {
+        "step": "Agregar hierba limón, hojas de lima, daun salam y galangal.",
+        "number": 7
+      },
+      {
+        "step": "Cocinar 15 minutos para infusionar sabores.",
+        "number": 8
+      },
+      {
+        "step": "Hidratar fideos de arroz según instrucciones.",
+        "number": 9
+      },
+      {
+        "step": "Montar bowls: fideos, pollo desmenuzado, huevo, papas fritas.",
+        "number": 10
+      },
+      {
+        "step": "Verter sopa hirviendo sobre ingredientes.",
+        "number": 11
+      },
+      {
+        "step": "Decorar con cebollino frito, apio, krupuk y lima.",
+        "number": 12
+      },
+      {
+        "step": "Servir con sambal aparte.",
+        "number": 13
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/indonesia/soto-ayam-(sopa-de-pollo-indonesía).jpg",
+    "slug": "indo-005",
+    "cuisine": "indonesia",
     "difficulty": "Media",
-    "tags": [
-      "sopa",
-      "pollo",
-      "curcuma",
-      "java",
-      "indonesia",
-      "comfort"
-    ],
-    "image": "/images/recipes/indonesia/soto-ayam-(sopa-de-pollo-indonesía).jpg",
-    "region": "Java Oriental",
-    "city": "Surabaya",
-    "coordinates": [
-      -7.2575,
-      112.7521
-    ],
-    "history": "El soto ayam existe en muchas variantes regionales en Indonesia. La versión de Java Oriental usa cúrcuma para el color amarillo característico. Es desayuno popular y comida curativa cuando alguien está enfermo. Cada familia tiene su receta secreta."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

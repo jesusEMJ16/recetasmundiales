@@ -1,426 +1,724 @@
 [
   {
     "id": "cu-001",
-    "name": "Ropa Vieja",
-    "country": "Cuba",
-    "description": "Carne de res desmenuzada en salsa de tomate con vegetales.",
+    "dishName": "Ropa Vieja",
+    "summary": "Carne de res desmenuzada en salsa de tomate con vegetales.",
+    "placeId": "Cuba",
     "ingredients": [
-      "1kg falda de res",
-      "1 cebolla grande",
-      "1 pimiento verde",
-      "4 dientes de ajo",
-      "400g tomate triturado",
-      "1/2 taza vino blanco",
-      "Comino",
-      "Orégano",
-      "Aceitunas y alcaparras"
+      {
+        "ingredient": "1kg falda de res"
+      },
+      {
+        "ingredient": "1 cebolla grande"
+      },
+      {
+        "ingredient": "1 pimiento verde"
+      },
+      {
+        "ingredient": "4 dientes de ajo"
+      },
+      {
+        "ingredient": "400g tomate triturado"
+      },
+      {
+        "ingredient": "1/2 taza vino blanco"
+      },
+      {
+        "ingredient": "Comino"
+      },
+      {
+        "ingredient": "Orégano"
+      },
+      {
+        "ingredient": "Aceitunas y alcaparras"
+      }
     ],
-    "instructions": [
-      "Cocer la carne hasta que esté muy tierna (2 horas)",
-      "Desmenuzar la carne en hebras",
-      "Sofreír cebolla, pimiento y ajo",
-      "Añadir tomate y vino",
-      "Agregar la carne desmenuzada",
-      "Cocinar 30 minutos más",
-      "Servir con arroz blanco y frijoles negros"
+    "steps": [
+      {
+        "step": "Cocer la carne hasta que esté muy tierna (2 horas)",
+        "number": 1
+      },
+      {
+        "step": "Desmenuzar la carne en hebras",
+        "number": 2
+      },
+      {
+        "step": "Sofreír cebolla, pimiento y ajo",
+        "number": 3
+      },
+      {
+        "step": "Añadir tomate y vino",
+        "number": 4
+      },
+      {
+        "step": "Agregar la carne desmenuzada",
+        "number": 5
+      },
+      {
+        "step": "Cocinar 30 minutos más",
+        "number": 6
+      },
+      {
+        "step": "Servir con arroz blanco y frijoles negros",
+        "number": 7
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/cuba/ropa-vieja.jpg",
+    "slug": "cu-001",
+    "cuisine": "cuba",
     "difficulty": "Media",
-    "tags": [
-      "carne",
-      "desmenuzada",
-      "tomate",
-      "nacional",
-      "tradicional"
-    ],
-    "image": "/images/recipes/cuba/ropa-vieja.jpg",
-    "region": "La Habana",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato nacional cubano desde el siglo XIX. El nombre viene del aspecto deshilachado de la carne. Es el plato más representativo de Cuba."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cu-002",
-    "name": "Moros y Cristianos",
-    "country": "Cuba",
-    "description": "Arroz blanco mezclado con frijoles negros cocidos juntos.",
+    "dishName": "Moros y Cristianos",
+    "summary": "Arroz blanco mezclado con frijoles negros cocidos juntos.",
+    "placeId": "Cuba",
     "ingredients": [
-      "2 tazas arroz",
-      "1 taza frijoles negros",
-      "1 cebolla",
-      "1 pimiento verde",
-      "4 dientes de ajo",
-      "2 hojas de laurel",
-      "Comino",
-      "Aceite de oliva",
-      "Caldo de frijoles"
+      {
+        "ingredient": "2 tazas arroz"
+      },
+      {
+        "ingredient": "1 taza frijoles negros"
+      },
+      {
+        "ingredient": "1 cebolla"
+      },
+      {
+        "ingredient": "1 pimiento verde"
+      },
+      {
+        "ingredient": "4 dientes de ajo"
+      },
+      {
+        "ingredient": "2 hojas de laurel"
+      },
+      {
+        "ingredient": "Comino"
+      },
+      {
+        "ingredient": "Aceite de oliva"
+      },
+      {
+        "ingredient": "Caldo de frijoles"
+      }
     ],
-    "instructions": [
-      "Remojar frijoles overnight",
-      "Cocer frijoles con laurel",
-      "Sofreír cebolla, pimiento y ajo",
-      "Mezclar arroz con frijoles cocidos",
-      "Añadir sofrito y caldo",
-      "Cocinar hasta que el arroz absorba líquido",
-      "Dejar reposar 10 minutos"
+    "steps": [
+      {
+        "step": "Remojar frijoles overnight",
+        "number": 1
+      },
+      {
+        "step": "Cocer frijoles con laurel",
+        "number": 2
+      },
+      {
+        "step": "Sofreír cebolla, pimiento y ajo",
+        "number": 3
+      },
+      {
+        "step": "Mezclar arroz con frijoles cocidos",
+        "number": 4
+      },
+      {
+        "step": "Añadir sofrito y caldo",
+        "number": 5
+      },
+      {
+        "step": "Cocinar hasta que el arroz absorba líquido",
+        "number": 6
+      },
+      {
+        "step": "Dejar reposar 10 minutos",
+        "number": 7
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 8,
+    "imageUrl": "/images/recipes/cuba/moros-y-cristianos.jpg",
+    "slug": "cu-002",
+    "cuisine": "cuba",
     "difficulty": "Baja",
-    "tags": [
-      "arroz",
-      "frijoles",
-      "acompañamiento",
-      "nacional",
-      "simbólico"
-    ],
-    "image": "/images/recipes/cuba/moros-y-cristianos.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato simbólico cubano que representa la mezcla racial. Los 'moros' son los frijoles negros y los 'cristianos' el arroz blanco."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cu-003",
-    "name": "Lechón Asado",
-    "country": "Cuba",
-    "description": "Cerdo entero marinado en mojo y asado lentamente.",
+    "dishName": "Lechón Asado",
+    "summary": "Cerdo entero marinado en mojo y asado lentamente.",
+    "placeId": "Cuba",
     "ingredients": [
-      "1 cerdo entero o pernil",
-      "2 cabezas de ajo",
-      "Jugo de 6 naranjas agrias",
-      "Orégano",
-      "Comino",
-      "Sal",
-      "Pimienta",
-      "Agua"
+      {
+        "ingredient": "1 cerdo entero o pernil"
+      },
+      {
+        "ingredient": "2 cabezas de ajo"
+      },
+      {
+        "ingredient": "Jugo de 6 naranjas agrias"
+      },
+      {
+        "ingredient": "Orégano"
+      },
+      {
+        "ingredient": "Comino"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Pimienta"
+      },
+      {
+        "ingredient": "Agua"
+      }
     ],
-    "instructions": [
-      "Preparar mojo con ajo, naranja y especias",
-      "Marinar el cerdo 24 horas",
-      "Colocar en vara o horno",
-      "Asar lentamente 5 horas",
-      "Bañar constantemente con mojo",
-      "Cocinar hasta que la piel esté crujiente",
-      "Servir con congrí y plátanos"
+    "steps": [
+      {
+        "step": "Preparar mojo con ajo, naranja y especias",
+        "number": 1
+      },
+      {
+        "step": "Marinar el cerdo 24 horas",
+        "number": 2
+      },
+      {
+        "step": "Colocar en vara o horno",
+        "number": 3
+      },
+      {
+        "step": "Asar lentamente 5 horas",
+        "number": 4
+      },
+      {
+        "step": "Bañar constantemente con mojo",
+        "number": 5
+      },
+      {
+        "step": "Cocinar hasta que la piel esté crujiente",
+        "number": 6
+      },
+      {
+        "step": "Servir con congrí y plátanos",
+        "number": 7
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 12,
+    "imageUrl": "/images/recipes/cuba/lechón-asado.jpg",
+    "slug": "cu-003",
+    "cuisine": "cuba",
     "difficulty": "Alta",
-    "tags": [
-      "cerdo",
-      "asado",
-      "festivo",
-      "navidad",
-      "tradicional"
-    ],
-    "image": "/images/recipes/cuba/lechón-asado.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato festivo cubano por excelencia. Central en Nochebuena y celebraciones. El mojo (ajo, naranja agria) es esencial."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cu-004",
-    "name": "Tostones",
-    "country": "Cuba",
-    "description": "Rodajas de plátano verde fritas dos veces hasta quedar crujientes.",
+    "dishName": "Tostones",
+    "summary": "Rodajas de plátano verde fritas dos veces hasta quedar crujientes.",
+    "placeId": "Cuba",
     "ingredients": [
-      "4 plátanos verdes",
-      "Aceite para freír",
-      "Sal",
-      "Ajo machacado",
-      "Agua con sal"
+      {
+        "ingredient": "4 plátanos verdes"
+      },
+      {
+        "ingredient": "Aceite para freír"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Ajo machacado"
+      },
+      {
+        "ingredient": "Agua con sal"
+      }
     ],
-    "instructions": [
-      "Pelar y cortar plátanos en rodajas gruesas",
-      "Freír primera vez 3-4 minutos",
-      "Sacar y aplastar cada rodaja",
-      "Sumergir brevemente en agua con sal y ajo",
-      "Freír segunda vez hasta dorar",
-      "Escurrir y salar",
-      "Servir inmediatamente"
+    "steps": [
+      {
+        "step": "Pelar y cortar plátanos en rodajas gruesas",
+        "number": 1
+      },
+      {
+        "step": "Freír primera vez 3-4 minutos",
+        "number": 2
+      },
+      {
+        "step": "Sacar y aplastar cada rodaja",
+        "number": 3
+      },
+      {
+        "step": "Sumergir brevemente en agua con sal y ajo",
+        "number": 4
+      },
+      {
+        "step": "Freír segunda vez hasta dorar",
+        "number": 5
+      },
+      {
+        "step": "Escurrir y salar",
+        "number": 6
+      },
+      {
+        "step": "Servir inmediatamente",
+        "number": 7
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 4,
+    "imageUrl": "/images/recipes/cuba/tostones.jpg",
+    "slug": "cu-004",
+    "cuisine": "cuba",
     "difficulty": "Baja",
-    "tags": [
-      "plátano",
-      "frito",
-      "acompañamiento",
-      "crujiente",
-      "popular"
-    ],
-    "image": "/images/recipes/cuba/tostones.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Acompañamiento cubano ubiquitous. Versión caribeña del patacón. Se sirven con casi todo, especialmente con mojo."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cu-005",
-    "name": "Picadillo",
-    "country": "Cuba",
-    "description": "Carne molida guisada con tomate, aceitunas y pasas.",
+    "dishName": "Picadillo",
+    "summary": "Carne molida guisada con tomate, aceitunas y pasas.",
+    "placeId": "Cuba",
     "ingredients": [
-      "500g carne molida de res",
-      "1 cebolla",
-      "1 pimiento verde",
-      "4 dientes de ajo",
-      "400g tomate triturado",
-      "1/2 taza aceitunas",
-      "1/4 taza pasas",
-      "1/2 taza vino blanco",
-      "Comino, orégano"
+      {
+        "ingredient": "500g carne molida de res"
+      },
+      {
+        "ingredient": "1 cebolla"
+      },
+      {
+        "ingredient": "1 pimiento verde"
+      },
+      {
+        "ingredient": "4 dientes de ajo"
+      },
+      {
+        "ingredient": "400g tomate triturado"
+      },
+      {
+        "ingredient": "1/2 taza aceitunas"
+      },
+      {
+        "ingredient": "1/4 taza pasas"
+      },
+      {
+        "ingredient": "1/2 taza vino blanco"
+      },
+      {
+        "ingredient": "Comino, orégano"
+      }
     ],
-    "instructions": [
-      "Sofreír cebolla, pimiento y ajo",
-      "Añadir carne y dorar",
-      "Agregar tomate y vino",
-      "Cocinar 20 minutos",
-      "Añadir aceitunas y pasas",
-      "Sazonar con especias",
-      "Servir con arroz blanco"
+    "steps": [
+      {
+        "step": "Sofreír cebolla, pimiento y ajo",
+        "number": 1
+      },
+      {
+        "step": "Añadir carne y dorar",
+        "number": 2
+      },
+      {
+        "step": "Agregar tomate y vino",
+        "number": 3
+      },
+      {
+        "step": "Cocinar 20 minutos",
+        "number": 4
+      },
+      {
+        "step": "Añadir aceitunas y pasas",
+        "number": 5
+      },
+      {
+        "step": "Sazonar con especias",
+        "number": 6
+      },
+      {
+        "step": "Servir con arroz blanco",
+        "number": 7
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 4,
+    "imageUrl": "/images/recipes/cuba/picadillo.jpg",
+    "slug": "cu-005",
+    "cuisine": "cuba",
     "difficulty": "Baja",
-    "tags": [
-      "carne molida",
-      "tomate",
-      "aceitunas",
-      "pasas",
-      "cotidiano"
-    ],
-    "image": "/images/recipes/cuba/picadillo.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato cotidiano cubano con influencia española. La combinación dulce-salada de pasas y aceitunas es característica."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cu-006",
-    "name": "Yuca con Mojo",
-    "country": "Cuba",
-    "description": "Raíz de yuca hervida bañada en salsa de ajo y naranja agria.",
+    "dishName": "Yuca con Mojo",
+    "summary": "Raíz de yuca hervida bañada en salsa de ajo y naranja agria.",
+    "placeId": "Cuba",
     "ingredients": [
-      "1kg yuca fresca",
-      "1 cabeza de ajo",
-      "Jugo de 4 naranjas agrias",
-      "Aceite de oliva",
-      "Cebolla picada",
-      "Sal",
-      "Orégano"
+      {
+        "ingredient": "1kg yuca fresca"
+      },
+      {
+        "ingredient": "1 cabeza de ajo"
+      },
+      {
+        "ingredient": "Jugo de 4 naranjas agrias"
+      },
+      {
+        "ingredient": "Aceite de oliva"
+      },
+      {
+        "ingredient": "Cebolla picada"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Orégano"
+      }
     ],
-    "instructions": [
-      "Pelar y cortar yuca en trozos",
-      "Hervir hasta estar tierna (30 min)",
-      "Sofreír ajo y cebolla en aceite",
-      "Añadir jugo de naranja",
-      "Cocinar mojo 5 minutos",
-      "Bañar la yuca con mojo caliente",
-      "Servir inmediatamente"
+    "steps": [
+      {
+        "step": "Pelar y cortar yuca en trozos",
+        "number": 1
+      },
+      {
+        "step": "Hervir hasta estar tierna (30 min)",
+        "number": 2
+      },
+      {
+        "step": "Sofreír ajo y cebolla en aceite",
+        "number": 3
+      },
+      {
+        "step": "Añadir jugo de naranja",
+        "number": 4
+      },
+      {
+        "step": "Cocinar mojo 5 minutos",
+        "number": 5
+      },
+      {
+        "step": "Bañar la yuca con mojo caliente",
+        "number": 6
+      },
+      {
+        "step": "Servir inmediatamente",
+        "number": 7
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 6,
+    "imageUrl": "/images/recipes/cuba/yuca-con-mojo.jpg",
+    "slug": "cu-006",
+    "cuisine": "cuba",
     "difficulty": "Baja",
-    "tags": [
-      "yuca",
-      "mojo",
-      "ajo",
-      "naranja",
-      "tradicional"
-    ],
-    "image": "/images/recipes/cuba/yuca-con-mojo.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Acompañamiento tradicional de origen taíno. El mojo es la salsa cubana por excelencia, presente en toda comida."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cu-007",
-    "name": "Flan Cubano",
-    "country": "Cuba",
-    "description": "Postre de huevo caramelizado cremoso con leche condensada.",
+    "dishName": "Flan Cubano",
+    "summary": "Postre de huevo caramelizado cremoso con leche condensada.",
+    "placeId": "Cuba",
     "ingredients": [
-      "1 taza azúcar para caramelo",
-      "4 huevos",
-      "1 lata leche condensada",
-      "1 lata leche evaporada",
-      "1 cucharadita vainilla",
-      "Pizca de sal"
+      {
+        "ingredient": "1 taza azúcar para caramelo"
+      },
+      {
+        "ingredient": "4 huevos"
+      },
+      {
+        "ingredient": "1 lata leche condensada"
+      },
+      {
+        "ingredient": "1 lata leche evaporada"
+      },
+      {
+        "ingredient": "1 cucharadita vainilla"
+      },
+      {
+        "ingredient": "Pizca de sal"
+      }
     ],
-    "instructions": [
-      "Derretir azúcar hasta hacer caramelo",
-      "Forrar molde con caramelo",
-      "Batir huevos con leches y vainilla",
-      "Verter mezcla en molde",
-      "Cocinar a baño María 1 hora",
-      "Enfriar completamente",
-      "Desmoldar y servir frío"
+    "steps": [
+      {
+        "step": "Derretir azúcar hasta hacer caramelo",
+        "number": 1
+      },
+      {
+        "step": "Forrar molde con caramelo",
+        "number": 2
+      },
+      {
+        "step": "Batir huevos con leches y vainilla",
+        "number": 3
+      },
+      {
+        "step": "Verter mezcla en molde",
+        "number": 4
+      },
+      {
+        "step": "Cocinar a baño María 1 hora",
+        "number": 5
+      },
+      {
+        "step": "Enfriar completamente",
+        "number": 6
+      },
+      {
+        "step": "Desmoldar y servir frío",
+        "number": 7
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 8,
+    "imageUrl": "/images/recipes/cuba/flan-cubano.jpg",
+    "slug": "cu-007",
+    "cuisine": "cuba",
     "difficulty": "Media",
-    "tags": [
-      "postre",
-      "flan",
-      "caramelo",
-      "huevo",
-      "cremoso"
-    ],
-    "image": "/images/recipes/cuba/flan-cubano.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Postre cubano por excelencia con herencia española. Presente en toda celebración familiar. Cada abuela tiene su receta secreta."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cu-008",
-    "name": "Croquetas de Jamón",
-    "country": "Cuba",
-    "description": "Bolas de bechamel con jamón, empanizadas y fritas.",
+    "dishName": "Croquetas de Jamón",
+    "summary": "Bolas de bechamel con jamón, empanizadas y fritas.",
+    "placeId": "Cuba",
     "ingredients": [
-      "200g jamón picado",
-      "3 cucharadas mantequilla",
-      "3 cucharadas harina",
-      "2 tazas leche",
-      "2 huevos",
-      "Pan rallado",
-      "Sal, pimienta",
-      "Nuez moscada"
+      {
+        "ingredient": "200g jamón picado"
+      },
+      {
+        "ingredient": "3 cucharadas mantequilla"
+      },
+      {
+        "ingredient": "3 cucharadas harina"
+      },
+      {
+        "ingredient": "2 tazas leche"
+      },
+      {
+        "ingredient": "2 huevos"
+      },
+      {
+        "ingredient": "Pan rallado"
+      },
+      {
+        "ingredient": "Sal, pimienta"
+      },
+      {
+        "ingredient": "Nuez moscada"
+      }
     ],
-    "instructions": [
-      "Hacer roux con mantequilla y harina",
-      "Añadir leche gradualmente",
-      "Incorporar jamón picado",
-      "Enfriar mezcla hasta solidificar",
-      "Formar croquetas",
-      "Empanizar: huevo y pan rallado",
-      "Freír hasta dorar"
+    "steps": [
+      {
+        "step": "Hacer roux con mantequilla y harina",
+        "number": 1
+      },
+      {
+        "step": "Añadir leche gradualmente",
+        "number": 2
+      },
+      {
+        "step": "Incorporar jamón picado",
+        "number": 3
+      },
+      {
+        "step": "Enfriar mezcla hasta solidificar",
+        "number": 4
+      },
+      {
+        "step": "Formar croquetas",
+        "number": 5
+      },
+      {
+        "step": "Empanizar: huevo y pan rallado",
+        "number": 6
+      },
+      {
+        "step": "Freír hasta dorar",
+        "number": 7
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/cuba/croquetas-de-jamón.jpg",
+    "slug": "cu-008",
+    "cuisine": "cuba",
     "difficulty": "Media",
-    "tags": [
-      "croquetas",
-      "jamón",
-      "bechamel",
-      "frito",
-      "tapas"
-    ],
-    "image": "/images/recipes/cuba/croquetas-de-jamón.jpg",
-    "region": "La Habana",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Tapas cubanas de influencia española. Popular en cafeterías y hogares. Snack perfecto para cualquier ocasión."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cu-009",
-    "name": "Ajiaco",
-    "country": "Cuba",
-    "description": "Sopa espesa cubana con múltiples viandas y carnes.",
+    "dishName": "Ajiaco",
+    "summary": "Sopa espesa cubana con múltiples viandas y carnes.",
+    "placeId": "Cuba",
     "ingredients": [
-      "500g carne de res",
-      "200g tocino",
-      "2 papas",
-      "2 boniatos",
-      "2 plátanos verdes",
-      "1 yuca",
-      "1 maíz",
-      "Calabaza",
-      "Cilantro"
+      {
+        "ingredient": "500g carne de res"
+      },
+      {
+        "ingredient": "200g tocino"
+      },
+      {
+        "ingredient": "2 papas"
+      },
+      {
+        "ingredient": "2 boniatos"
+      },
+      {
+        "ingredient": "2 plátanos verdes"
+      },
+      {
+        "ingredient": "1 yuca"
+      },
+      {
+        "ingredient": "1 maíz"
+      },
+      {
+        "ingredient": "Calabaza"
+      },
+      {
+        "ingredient": "Cilantro"
+      }
     ],
-    "instructions": [
-      "Cocer carnes hasta tiernas",
-      "Añadir viandas en orden de cocción",
-      "Agregar maíz y calabaza",
-      "Cocinar hasta espesar",
-      "Machacar algunas viandas",
-      "Sazonar con cilantro",
-      "Servir bien caliente"
+    "steps": [
+      {
+        "step": "Cocer carnes hasta tiernas",
+        "number": 1
+      },
+      {
+        "step": "Añadir viandas en orden de cocción",
+        "number": 2
+      },
+      {
+        "step": "Agregar maíz y calabaza",
+        "number": 3
+      },
+      {
+        "step": "Cocinar hasta espesar",
+        "number": 4
+      },
+      {
+        "step": "Machacar algunas viandas",
+        "number": 5
+      },
+      {
+        "step": "Sazonar con cilantro",
+        "number": 6
+      },
+      {
+        "step": "Servir bien caliente",
+        "number": 7
+      }
     ],
-    "prepTime": 40,
+    "prepTimeMin": 40,
+    "cookTimeMin": 0,
+    "totalTimeMin": 40,
     "servings": 8,
+    "imageUrl": "/images/recipes/cuba/ajiaco.jpg",
+    "slug": "cu-009",
+    "cuisine": "cuba",
     "difficulty": "Media",
-    "tags": [
-      "sopa",
-      "viandas",
-      "carne",
-      "espesa",
-      "criollo"
-    ],
-    "image": "/images/recipes/cuba/ajiaco.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Sopa criolla cubana con raíces africanas y españolas. Plato único que combina todo en una olla. Cada región tiene su versión."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cu-010",
-    "name": "Café Cubano",
-    "country": "Cuba",
-    "description": "Espresso fuerte endulzado con espuma de azúcar durante la extracción.",
+    "dishName": "Café Cubano",
+    "summary": "Espresso fuerte endulzado con espuma de azúcar durante la extracción.",
+    "placeId": "Cuba",
     "ingredients": [
-      "Café molido fino (tipo espresso)",
-      "4 cucharadas azúcar blanca",
-      "Agua",
-      "Cafetera moka o espresso"
+      {
+        "ingredient": "Café molido fino (tipo espresso)"
+      },
+      {
+        "ingredient": "4 cucharadas azúcar blanca"
+      },
+      {
+        "ingredient": "Agua"
+      },
+      {
+        "ingredient": "Cafetera moka o espresso"
+      }
     ],
-    "instructions": [
-      "Preparar cafetera con café molido",
-      "Poner azúcar en recipiente",
-      "Extraer primeras gotas de café",
-      "Batir azúcar con café hasta espumar",
-      "Terminar extracción del café",
-      "Mezclar espuma con resto del café",
-      "Servir en tacitas pequeñas"
+    "steps": [
+      {
+        "step": "Preparar cafetera con café molido",
+        "number": 1
+      },
+      {
+        "step": "Poner azúcar en recipiente",
+        "number": 2
+      },
+      {
+        "step": "Extraer primeras gotas de café",
+        "number": 3
+      },
+      {
+        "step": "Batir azúcar con café hasta espumar",
+        "number": 4
+      },
+      {
+        "step": "Terminar extracción del café",
+        "number": 5
+      },
+      {
+        "step": "Mezclar espuma con resto del café",
+        "number": 6
+      },
+      {
+        "step": "Servir en tacitas pequeñas",
+        "number": 7
+      }
     ],
-    "prepTime": 5,
+    "prepTimeMin": 5,
+    "cookTimeMin": 0,
+    "totalTimeMin": 5,
     "servings": 4,
+    "imageUrl": "/images/recipes/cuba/café-cubano.jpg",
+    "slug": "cu-010",
+    "cuisine": "cuba",
     "difficulty": "Baja",
-    "tags": [
-      "café",
-      "espresso",
-      "azúcar",
-      "ritual",
-      "social"
-    ],
-    "image": "/images/recipes/cuba/café-cubano.jpg",
-    "region": "Nacional",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Símbolo de la cultura cubana. Más que una bebida, es un ritual social. Se comparte en pequeños traguitos llamados 'cafetitos'."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

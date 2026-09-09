@@ -1,217 +1,377 @@
 [
   {
     "id": "us-001",
-    "name": "Hamburguesa Clásica Americana",
-    "country": "Estados Unidos",
-    "description": "Carne de res a la parrilla con queso americano, lechuga, tomate y salsa especial.",
+    "dishName": "Hamburguesa Clásica Americana",
+    "summary": "Carne de res a la parrilla con queso americano, lechuga, tomate y salsa especial.",
+    "placeId": "Estados Unidos",
     "ingredients": [
-      "600g de carne de res molida (80/20)",
-      "4 panes de hamburguesa",
-      "4 lonchas de queso americano",
-      "Lechuga iceberg",
-      "2 tomates en rodajas",
-      "1 cebolla morada en rodajas",
-      "Pepinillos en vinagre",
-      "Ketchup, mostaza y mayonesa"
+      {
+        "ingredient": "600g de carne de res molida (80/20)"
+      },
+      {
+        "ingredient": "4 panes de hamburguesa"
+      },
+      {
+        "ingredient": "4 lonchas de queso americano"
+      },
+      {
+        "ingredient": "Lechuga iceberg"
+      },
+      {
+        "ingredient": "2 tomates en rodajas"
+      },
+      {
+        "ingredient": "1 cebolla morada en rodajas"
+      },
+      {
+        "ingredient": "Pepinillos en vinagre"
+      },
+      {
+        "ingredient": "Ketchup, mostaza y mayonesa"
+      }
     ],
-    "instructions": [
-      "Formar 4 patties ligeramente más grandes que el pan",
-      "Hacer un hoyo en el centro con el pulgar",
-      "Sazonar generosamente con sal y pimienta",
-      "Calentar parrilla o sartén a fuego alto",
-      "Cocinar 4-5 minutos por lado para término medio",
-      "Añadir queso los últimos 2 minutos",
-      "Tostar ligeramente los panes",
-      "Montar con verduras y salsas al gusto"
+    "steps": [
+      {
+        "step": "Formar 4 patties ligeramente más grandes que el pan",
+        "number": 1
+      },
+      {
+        "step": "Hacer un hoyo en el centro con el pulgar",
+        "number": 2
+      },
+      {
+        "step": "Sazonar generosamente con sal y pimienta",
+        "number": 3
+      },
+      {
+        "step": "Calentar parrilla o sartén a fuego alto",
+        "number": 4
+      },
+      {
+        "step": "Cocinar 4-5 minutos por lado para término medio",
+        "number": 5
+      },
+      {
+        "step": "Añadir queso los últimos 2 minutos",
+        "number": 6
+      },
+      {
+        "step": "Tostar ligeramente los panes",
+        "number": 7
+      },
+      {
+        "step": "Montar con verduras y salsas al gusto",
+        "number": 8
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/estados-unidos/hamburguesa-clásica-americana.jpg",
+    "slug": "us-001",
+    "cuisine": "estados-unidos",
     "difficulty": "Fácil",
-    "tags": [
-      "res",
-      "parrilla",
-      "clásico",
-      "rápido",
-      "americano"
-    ],
-    "image": "/images/recipes/estados-unidos/hamburguesa-clásica-americana.jpg",
-    "region": "Medio Oeste",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Símbolo de la cultura americana desde principios del siglo XX. Su origen se disputa entre varias ciudades estadounidenses."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "us-002",
-    "name": "Mac and Cheese",
-    "country": "Estados Unidos",
-    "description": "Pasta con queso cheddar fundido y gratinado.",
+    "dishName": "Mac and Cheese",
+    "summary": "Pasta con queso cheddar fundido y gratinado.",
+    "placeId": "Estados Unidos",
     "ingredients": [
-      "500g de macarrones",
-      "60g de mantequilla",
-      "60g de harina",
-      "700ml de leche entera",
-      "400g de queso cheddar rallado",
-      "100g de queso gruyere rallado",
-      "Sal, pimienta y nuez moscada",
-      "Pan rallado para gratinar"
+      {
+        "ingredient": "500g de macarrones"
+      },
+      {
+        "ingredient": "60g de mantequilla"
+      },
+      {
+        "ingredient": "60g de harina"
+      },
+      {
+        "ingredient": "700ml de leche entera"
+      },
+      {
+        "ingredient": "400g de queso cheddar rallado"
+      },
+      {
+        "ingredient": "100g de queso gruyere rallado"
+      },
+      {
+        "ingredient": "Sal, pimienta y nuez moscada"
+      },
+      {
+        "ingredient": "Pan rallado para gratinar"
+      }
     ],
-    "instructions": [
-      "Cocinar pasta según instrucciones, escurrir",
-      "Derretir mantequilla y añadir harina (roux)",
-      "Agregar leche gradualmente sin dejar de remover",
-      "Cocinar hasta espesar como bechamel",
-      "Incorporar quesos hasta fundir",
-      "Mezclar con pasta cocida",
-      "Transferir a molde y cubrir con pan rallado",
-      "Hornear 190°C por 25-30 minutos hasta dorar"
+    "steps": [
+      {
+        "step": "Cocinar pasta según instrucciones, escurrir",
+        "number": 1
+      },
+      {
+        "step": "Derretir mantequilla y añadir harina (roux)",
+        "number": 2
+      },
+      {
+        "step": "Agregar leche gradualmente sin dejar de remover",
+        "number": 3
+      },
+      {
+        "step": "Cocinar hasta espesar como bechamel",
+        "number": 4
+      },
+      {
+        "step": "Incorporar quesos hasta fundir",
+        "number": 5
+      },
+      {
+        "step": "Mezclar con pasta cocida",
+        "number": 6
+      },
+      {
+        "step": "Transferir a molde y cubrir con pan rallado",
+        "number": 7
+      },
+      {
+        "step": "Hornear 190°C por 25-30 minutos hasta dorar",
+        "number": 8
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 6,
+    "imageUrl": "/images/recipes/estados-unidos/mac-and-cheese.jpg",
+    "slug": "us-002",
+    "cuisine": "estados-unidos",
     "difficulty": "Media",
-    "tags": [
-      "pasta",
-      "queso",
-      "horno",
-      "confort",
-      "sureño"
-    ],
-    "image": "/images/recipes/estados-unidos/mac-and-cheese.jpg",
-    "region": "Sur",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato favorito de Thomas Jefferson quien lo sirvió en la Casa Blanca en 1802. Se popularizó en el Sur durante el siglo XIX."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "us-003",
-    "name": "BBQ Ribs",
-    "country": "Estados Unidos",
-    "description": "Costillas de cerdo ahumadas lentamente con salsa BBQ.",
+    "dishName": "BBQ Ribs",
+    "summary": "Costillas de cerdo ahumadas lentamente con salsa BBQ.",
+    "placeId": "Estados Unidos",
     "ingredients": [
-      "2kg de costillas de cerdo (baby back ribs)",
-      "Para dry rub: 2 cucharadas de pimentón, 1 de azúcar moreno, 1 de sal, ajo en polvo, cebolla en polvo, pimienta negra",
-      "200ml de salsa BBQ",
-      "Vinagre de manzana para rociar"
+      {
+        "ingredient": "2kg de costillas de cerdo (baby back ribs)"
+      },
+      {
+        "ingredient": "Para dry rub: 2 cucharadas de pimentón, 1 de azúcar moreno, 1 de sal, ajo en polvo, cebolla en polvo, pimienta negra"
+      },
+      {
+        "ingredient": "200ml de salsa BBQ"
+      },
+      {
+        "ingredient": "Vinagre de manzana para rociar"
+      }
     ],
-    "instructions": [
-      "Retirar membrana de las costillas",
-      "Aplicar dry rub generosamente por ambos lados",
-      "Refrigerar mínimo 4 horas o toda la noche",
-      "Precalentar ahumador o parrilla a 110°C",
-      "Ahumar 3-4 horas con madera de manzano o roble",
-      "Rociar con vinagre cada hora",
-      "Barnizar con salsa BBQ los últimos 30 minutos",
-      "Dejar reposar 15 minutos antes de cortar"
+    "steps": [
+      {
+        "step": "Retirar membrana de las costillas",
+        "number": 1
+      },
+      {
+        "step": "Aplicar dry rub generosamente por ambos lados",
+        "number": 2
+      },
+      {
+        "step": "Refrigerar mínimo 4 horas o toda la noche",
+        "number": 3
+      },
+      {
+        "step": "Precalentar ahumador o parrilla a 110°C",
+        "number": 4
+      },
+      {
+        "step": "Ahumar 3-4 horas con madera de manzano o roble",
+        "number": 5
+      },
+      {
+        "step": "Rociar con vinagre cada hora",
+        "number": 6
+      },
+      {
+        "step": "Barnizar con salsa BBQ los últimos 30 minutos",
+        "number": 7
+      },
+      {
+        "step": "Dejar reposar 15 minutos antes de cortar",
+        "number": 8
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 4,
+    "imageUrl": "/images/recipes/estados-unidos/bbq-ribs.jpg",
+    "slug": "us-003",
+    "cuisine": "estados-unidos",
     "difficulty": "Alta",
-    "tags": [
-      "cerdo",
-      "costillas",
-      "ahumado",
-      "bbq",
-      "memphis"
-    ],
-    "image": "/images/recipes/estados-unidos/bbq-ribs.jpg",
-    "region": "Sur",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Tradición del Sur profundo. Memphis es capital mundial del BBQ con festivales anuales desde 1973."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "us-004",
-    "name": "Clam Chowder",
-    "country": "Estados Unidos",
-    "description": "Sopa cremosa de almejas, papas y bacon.",
+    "dishName": "Clam Chowder",
+    "summary": "Sopa cremosa de almejas, papas y bacon.",
+    "placeId": "Estados Unidos",
     "ingredients": [
-      "1kg de almejas frescas",
-      "4 tiras de bacon picado",
-      "1 cebolla picada",
-      "2 tallos de apio picados",
-      "3 papas en cubos",
-      "500ml de caldo de pescado",
-      "500ml de crema espesa",
-      "2 hojas de laurel, tomillo fresco"
+      {
+        "ingredient": "1kg de almejas frescas"
+      },
+      {
+        "ingredient": "4 tiras de bacon picado"
+      },
+      {
+        "ingredient": "1 cebolla picada"
+      },
+      {
+        "ingredient": "2 tallos de apio picados"
+      },
+      {
+        "ingredient": "3 papas en cubos"
+      },
+      {
+        "ingredient": "500ml de caldo de pescado"
+      },
+      {
+        "ingredient": "500ml de crema espesa"
+      },
+      {
+        "ingredient": "2 hojas de laurel, tomillo fresco"
+      }
     ],
-    "instructions": [
-      "Cocinar almejas en agua hasta abrir, reservar líquido",
-      "Colar y picar almejas",
-      "Freír bacon hasta crujiente",
-      "Sofreír cebolla y apio en grasa de bacon",
-      "Añadir papas, caldo y líquido de almejas",
-      "Cocinar hasta papas tiernas (20 min)",
-      "Agregar crema, almejas y hierbas",
-      "Servir caliente con galletas saladas"
+    "steps": [
+      {
+        "step": "Cocinar almejas en agua hasta abrir, reservar líquido",
+        "number": 1
+      },
+      {
+        "step": "Colar y picar almejas",
+        "number": 2
+      },
+      {
+        "step": "Freír bacon hasta crujiente",
+        "number": 3
+      },
+      {
+        "step": "Sofreír cebolla y apio en grasa de bacon",
+        "number": 4
+      },
+      {
+        "step": "Añadir papas, caldo y líquido de almejas",
+        "number": 5
+      },
+      {
+        "step": "Cocinar hasta papas tiernas (20 min)",
+        "number": 6
+      },
+      {
+        "step": "Agregar crema, almejas y hierbas",
+        "number": 7
+      },
+      {
+        "step": "Servir caliente con galletas saladas",
+        "number": 8
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/estados-unidos/clam-chowder.jpg",
+    "slug": "us-004",
+    "cuisine": "estados-unidos",
     "difficulty": "Media",
-    "tags": [
-      "almejas",
-      "sopa",
-      "crema",
-      "mariscos",
-      "boston"
-    ],
-    "image": "/images/recipes/estados-unidos/clam-chowder.jpg",
-    "region": "Noreste",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Sopa de marineros de Nueva Inglaterra desde el siglo XVIII. El estilo 'New England' usa crema, no tomate."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "us-005",
-    "name": "Apple Pie",
-    "country": "Estados Unidos",
-    "description": "Pastel de manzana con masa quebrada y canela.",
+    "dishName": "Apple Pie",
+    "summary": "Pastel de manzana con masa quebrada y canela.",
+    "placeId": "Estados Unidos",
     "ingredients": [
-      "Para masa: 350g de harina, 200g de mantequilla fría, sal, agua helada",
-      "8 manzanas Granny Smith peladas y en rodajas",
-      "150g de azúcar moreno",
-      "2 cucharadas de harina",
-      "2 cucharaditas de canela",
-      "1 huevo batido para barnizar",
-      "Azúcar para espolvorear"
+      {
+        "ingredient": "Para masa: 350g de harina, 200g de mantequilla fría, sal, agua helada"
+      },
+      {
+        "ingredient": "8 manzanas Granny Smith peladas y en rodajas"
+      },
+      {
+        "ingredient": "150g de azúcar moreno"
+      },
+      {
+        "ingredient": "2 cucharadas de harina"
+      },
+      {
+        "ingredient": "2 cucharaditas de canela"
+      },
+      {
+        "ingredient": "1 huevo batido para barnizar"
+      },
+      {
+        "ingredient": "Azúcar para espolvorear"
+      }
     ],
-    "instructions": [
-      "Preparar masa quebrada y refrigerar 1 hora",
-      "Mezclar manzanas con azúcar, harina y canela",
-      "Extender mitad de masa en molde",
-      "Rellenar con mezcla de manzanas",
-      "Cubrir con otra capa de masa o hacer rejilla",
-      "Barnizar con huevo y espolvorear azúcar",
-      "Hornear 190°C por 50-55 minutos",
-      "Enfriar completamente antes de servir"
+    "steps": [
+      {
+        "step": "Preparar masa quebrada y refrigerar 1 hora",
+        "number": 1
+      },
+      {
+        "step": "Mezclar manzanas con azúcar, harina y canela",
+        "number": 2
+      },
+      {
+        "step": "Extender mitad de masa en molde",
+        "number": 3
+      },
+      {
+        "step": "Rellenar con mezcla de manzanas",
+        "number": 4
+      },
+      {
+        "step": "Cubrir con otra capa de masa o hacer rejilla",
+        "number": 5
+      },
+      {
+        "step": "Barnizar con huevo y espolvorear azúcar",
+        "number": 6
+      },
+      {
+        "step": "Hornear 190°C por 50-55 minutos",
+        "number": 7
+      },
+      {
+        "step": "Enfriar completamente antes de servir",
+        "number": 8
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 8,
+    "imageUrl": "/images/recipes/estados-unidos/apple-pie.jpg",
+    "slug": "us-005",
+    "cuisine": "estados-unidos",
     "difficulty": "Media",
-    "tags": [
-      "manzana",
-      "pastel",
-      "postre",
-      "canela",
-      "clásico"
-    ],
-    "image": "/images/recipes/estados-unidos/apple-pie.jpg",
-    "region": "Noreste",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Símbolo americano aunque sus raíces son europeas. La frase 'as American as apple pie' data de 1920."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

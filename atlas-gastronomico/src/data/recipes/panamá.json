@@ -1,206 +1,334 @@
 [
   {
     "id": "pa-sancocho-panameno",
-    "name": "Sancocho Panameño",
-    "country": "Panamá",
-    "description": "Sopa reconfortante de gallina con ñame, yuca y culantro.",
+    "dishName": "Sancocho Panameño",
+    "summary": "Sopa reconfortante de gallina con ñame, yuca y culantro.",
+    "placeId": "Panamá",
     "ingredients": [
-      "1 gallina criolla",
-      "500g de ñame",
-      "300g de yuca",
-      "2 elotes",
-      "Culantro al gusto",
-      "Cebolla, ajo",
-      "Sal y pimienta"
+      {
+        "ingredient": "1 gallina criolla"
+      },
+      {
+        "ingredient": "500g de ñame"
+      },
+      {
+        "ingredient": "300g de yuca"
+      },
+      {
+        "ingredient": "2 elotes"
+      },
+      {
+        "ingredient": "Culantro al gusto"
+      },
+      {
+        "ingredient": "Cebolla, ajo"
+      },
+      {
+        "ingredient": "Sal y pimienta"
+      }
     ],
-    "instructions": [
-      "Cocer gallina con verduras para caldo sabroso.",
-      "Agregar ñame y yuca en trozos grandes.",
-      "Incorporar elotes partidos.",
-      "Cocinar hasta que todo esté tierno.",
-      "Añadir culantro picado al final.",
-      "Servir caliente con arroz blanco."
+    "steps": [
+      {
+        "step": "Cocer gallina con verduras para caldo sabroso.",
+        "number": 1
+      },
+      {
+        "step": "Agregar ñame y yuca en trozos grandes.",
+        "number": 2
+      },
+      {
+        "step": "Incorporar elotes partidos.",
+        "number": 3
+      },
+      {
+        "step": "Cocinar hasta que todo esté tierno.",
+        "number": 4
+      },
+      {
+        "step": "Añadir culantro picado al final.",
+        "number": 5
+      },
+      {
+        "step": "Servir caliente con arroz blanco.",
+        "number": 6
+      }
     ],
-    "prepTime": 120,
+    "prepTimeMin": 120,
+    "cookTimeMin": 0,
+    "totalTimeMin": 120,
     "servings": 6,
+    "imageUrl": "/images/recipes/panamá/sancocho-panameño.jpg",
+    "slug": "pa-sancocho-panameno",
+    "cuisine": "panamá",
     "difficulty": "Media",
-    "tags": [
-      "sancocho",
-      "gallina",
-      "ñame",
-      "nacional",
-      "domingo"
-    ],
-    "image": "/images/recipes/panamá/sancocho-panameño.jpg",
-    "region": "Todo el país",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El sancocho es el plato nacional de Panamá, declarado patrimonio cultural. Es la comida de los domingos en familia y el remedio infalible para la resaca o el frío. Cada provincia tiene su variante: sancocho de gallina criolla (el más tradicional), de pata, de rabo. El ñame panameño es considerado el mejor del mundo por su textura única."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pa-ceviche-panameno",
-    "name": "Ceviche Panameño",
-    "country": "Panamá",
-    "description": "Pescado marinado en limón con cebolla, cilantro y galletas saladas.",
+    "dishName": "Ceviche Panameño",
+    "summary": "Pescado marinado en limón con cebolla, cilantro y galletas saladas.",
+    "placeId": "Panamá",
     "ingredients": [
-      "500g de corvina fresca",
-      "Jugo de 8 limones",
-      "1 cebolla roja picada fina",
-      "Cilantro fresco",
-      "1 chile habanero (opcional)",
-      "Sal",
-      "Galletas saladas"
+      {
+        "ingredient": "500g de corvina fresca"
+      },
+      {
+        "ingredient": "Jugo de 8 limones"
+      },
+      {
+        "ingredient": "1 cebolla roja picada fina"
+      },
+      {
+        "ingredient": "Cilantro fresco"
+      },
+      {
+        "ingredient": "1 chile habanero (opcional)"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Galletas saladas"
+      }
     ],
-    "instructions": [
-      "Cortar pescado en cubos pequeños.",
-      "Marinar inmediatamente con jugo de limón.",
-      "Dejar reposar 15-20 minutos hasta blanquear.",
-      "Agregar cebolla, cilantro y chile picado.",
-      "Sazonar con sal al gusto.",
-      "Servir frío con galletas saladas."
+    "steps": [
+      {
+        "step": "Cortar pescado en cubos pequeños.",
+        "number": 1
+      },
+      {
+        "step": "Marinar inmediatamente con jugo de limón.",
+        "number": 2
+      },
+      {
+        "step": "Dejar reposar 15-20 minutos hasta blanquear.",
+        "number": 3
+      },
+      {
+        "step": "Agregar cebolla, cilantro y chile picado.",
+        "number": 4
+      },
+      {
+        "step": "Sazonar con sal al gusto.",
+        "number": 5
+      },
+      {
+        "step": "Servir frío con galletas saladas.",
+        "number": 6
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 4,
+    "imageUrl": "/images/recipes/panamá/ceviche-panameño.jpg",
+    "slug": "pa-ceviche-panameno",
+    "cuisine": "panamá",
     "difficulty": "Fácil",
-    "tags": [
-      "ceviche",
-      "corvina",
-      "limon",
-      "aperitivo",
-      "costa"
-    ],
-    "image": "/images/recipes/panamá/ceviche-panameño.jpg",
-    "region": "Costas",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El ceviche panameño se distingue por usar exclusivamente corvina y servirse con galletas saladas tipo soda. Es el aperitivo nacional, presente en todas las reuniones sociales y bares del país. Panamá, siendo puente entre dos océanos, tiene acceso a pescados frescos de primera calidad que hacen de su ceviche uno de los mejores de la región."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pa-tamales-bocas-del-toro",
-    "name": "Tamales de Olla",
-    "country": "Panamá",
-    "description": "Masa de maíz envuelta en hoja de bijao, hervida hasta cuajar.",
+    "dishName": "Tamales de Olla",
+    "summary": "Masa de maíz envuelta en hoja de bijao, hervida hasta cuajar.",
+    "placeId": "Panamá",
     "ingredients": [
-      "1 kg de masa de maíz",
-      "Caldo de pollo o cerdo",
-      "Achiote para color",
-      "Hojas de bijao",
-      "Pabilo",
-      "Sal"
+      {
+        "ingredient": "1 kg de masa de maíz"
+      },
+      {
+        "ingredient": "Caldo de pollo o cerdo"
+      },
+      {
+        "ingredient": "Achiote para color"
+      },
+      {
+        "ingredient": "Hojas de bijao"
+      },
+      {
+        "ingredient": "Pabilo"
+      },
+      {
+        "ingredient": "Sal"
+      }
     ],
-    "instructions": [
-      "Mezclar masa con caldo y achiote.",
-      "Extender sobre hojas de bijao limpias.",
-      "Envolver firmemente formando cilindros.",
-      "Amarrar con pabilo.",
-      "Hervir por 2 horas aproximadamente.",
-      "Servir caliente como acompañante."
+    "steps": [
+      {
+        "step": "Mezclar masa con caldo y achiote.",
+        "number": 1
+      },
+      {
+        "step": "Extender sobre hojas de bijao limpias.",
+        "number": 2
+      },
+      {
+        "step": "Envolver firmemente formando cilindros.",
+        "number": 3
+      },
+      {
+        "step": "Amarrar con pabilo.",
+        "number": 4
+      },
+      {
+        "step": "Hervir por 2 horas aproximadamente.",
+        "number": 5
+      },
+      {
+        "step": "Servir caliente como acompañante.",
+        "number": 6
+      }
     ],
-    "prepTime": 180,
+    "prepTimeMin": 180,
+    "cookTimeMin": 0,
+    "totalTimeMin": 180,
     "servings": 12,
+    "imageUrl": "/images/recipes/panamá/tamales-de-olla.jpg",
+    "slug": "pa-tamales-bocas-del-toro",
+    "cuisine": "panamá",
     "difficulty": "Media",
-    "tags": [
-      "tamales",
-      "maiz",
-      "bijao",
-      "acompañante",
-      "colon"
-    ],
-    "image": "/images/recipes/panamá/tamales-de-olla.jpg",
-    "region": "Bocas del Toro",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Los tamales de olla panameños son diferentes a los de otros países: no llevan relleno y se cuecen directamente en agua. Son el acompañante perfecto para el sancocho y otros guisos. Las hojas de bijao les dan un aroma característico que los hace únicos. En Bocas del Toro y Colón son parte fundamental de la identidad afroantillana."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pa-patacones-con-todo",
-    "name": "Patacones con Todo",
-    "country": "Panamá",
-    "description": "Rodajas de plátano verde fritas y aplastadas, rellenas de diversos ingredientes.",
+    "dishName": "Patacones con Todo",
+    "summary": "Rodajas de plátano verde fritas y aplastadas, rellenas de diversos ingredientes.",
+    "placeId": "Panamá",
     "ingredients": [
-      "4 plátanos verdes",
-      "Aceite para freír",
-      "Carne molida guisada",
-      "Ensalada de repollo",
-      "Queso rallado",
-      "Salsa de ajo",
-      "Tostones"
+      {
+        "ingredient": "4 plátanos verdes"
+      },
+      {
+        "ingredient": "Aceite para freír"
+      },
+      {
+        "ingredient": "Carne molida guisada"
+      },
+      {
+        "ingredient": "Ensalada de repollo"
+      },
+      {
+        "ingredient": "Queso rallado"
+      },
+      {
+        "ingredient": "Salsa de ajo"
+      },
+      {
+        "ingredient": "Tostones"
+      }
     ],
-    "instructions": [
-      "Cortar plátanos en rodajas gruesas.",
-      "Freír hasta dorar ligeramente.",
-      "Aplastar cada rodaja con pataconera.",
-      "Volver a freír hasta quedar crujientes.",
-      "Rellenar con carne, ensalada y queso.",
-      "Servir inmediatamente."
+    "steps": [
+      {
+        "step": "Cortar plátanos en rodajas gruesas.",
+        "number": 1
+      },
+      {
+        "step": "Freír hasta dorar ligeramente.",
+        "number": 2
+      },
+      {
+        "step": "Aplastar cada rodaja con pataconera.",
+        "number": 3
+      },
+      {
+        "step": "Volver a freír hasta quedar crujientes.",
+        "number": 4
+      },
+      {
+        "step": "Rellenar con carne, ensalada y queso.",
+        "number": 5
+      },
+      {
+        "step": "Servir inmediatamente.",
+        "number": 6
+      }
     ],
-    "prepTime": 45,
+    "prepTimeMin": 45,
+    "cookTimeMin": 0,
+    "totalTimeMin": 45,
     "servings": 4,
+    "imageUrl": "/images/recipes/panamá/patacones-con-todo.jpg",
+    "slug": "pa-patacones-con-todo",
+    "cuisine": "panamá",
     "difficulty": "Media",
-    "tags": [
-      "patacones",
-      "platanos",
-      "callejero",
-      "frito",
-      "merienda"
-    ],
-    "image": "/images/recipes/panamá/patacones-con-todo.jpg",
-    "region": "Todo el país",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Los patacones son la comida callejera más popular de Panamá. Se venden en puestos llamados 'pataconerías' donde puedes elegir entre decenas de toppings: carne, pollo, camarones, mariscos, vegetales. Son la merienda favorita después de una noche de fiesta y representan la creatividad culinaria urbana panameña."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "pa-arroz-con-pollo",
-    "name": "Arroz con Pollo Panameño",
-    "country": "Panamá",
-    "description": "Arroz amarillo cocinado con pollo, verduras y especias.",
+    "dishName": "Arroz con Pollo Panameño",
+    "summary": "Arroz amarillo cocinado con pollo, verduras y especias.",
+    "placeId": "Panamá",
     "ingredients": [
-      "1 pollo entero cortado en piezas",
-      "3 tazas de arroz",
-      "Cúrcuma o colorante alimentario",
-      "Guantes (arveja dulce)",
-      "Zanahorias en cubos",
-      "Cebolla, ajo, culantro",
-      "Caldo de pollo"
+      {
+        "ingredient": "1 pollo entero cortado en piezas"
+      },
+      {
+        "ingredient": "3 tazas de arroz"
+      },
+      {
+        "ingredient": "Cúrcuma o colorante alimentario"
+      },
+      {
+        "ingredient": "Guantes (arveja dulce)"
+      },
+      {
+        "ingredient": "Zanahorias en cubos"
+      },
+      {
+        "ingredient": "Cebolla, ajo, culantro"
+      },
+      {
+        "ingredient": "Caldo de pollo"
+      }
     ],
-    "instructions": [
-      "Sazonar pollo con especias y dorar.",
-      "Sofreír arroz con cebolla y ajo.",
-      "Agregar cúrcuma para color amarillo.",
-      "Añadir caldo caliente y verduras.",
-      "Cocinar tapado hasta absorber líquido.",
-      "Servir con ensalada fresca."
+    "steps": [
+      {
+        "step": "Sazonar pollo con especias y dorar.",
+        "number": 1
+      },
+      {
+        "step": "Sofreír arroz con cebolla y ajo.",
+        "number": 2
+      },
+      {
+        "step": "Agregar cúrcuma para color amarillo.",
+        "number": 3
+      },
+      {
+        "step": "Añadir caldo caliente y verduras.",
+        "number": 4
+      },
+      {
+        "step": "Cocinar tapado hasta absorber líquido.",
+        "number": 5
+      },
+      {
+        "step": "Servir con ensalada fresca.",
+        "number": 6
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 8,
+    "imageUrl": "/images/recipes/panamá/arroz-con-pollo-panameño.jpg",
+    "slug": "pa-arroz-con-pollo",
+    "cuisine": "panamá",
     "difficulty": "Media",
-    "tags": [
-      "arroz",
-      "pollo",
-      "amarillo",
-      "festivo",
-      "interior"
-    ],
-    "image": "/images/recipes/panamá/arroz-con-pollo-panameño.jpg",
-    "region": "Interior",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El arroz con pollo es el plato festivo por excelencia en Panamá, especialmente en las provincias del interior. Es infaltable en cumpleaños, bautizos y celebraciones patronales. El secreto está en el punto exacto del arroz: ni muy seco ni muy húmedo. En Las Tablas, durante las fiestas de la Virgen de la Caridad, se preparan ollas gigantescas para toda la comunidad."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]
