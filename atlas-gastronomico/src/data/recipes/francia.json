@@ -1,425 +1,758 @@
 [
   {
     "id": "fr-001",
-    "name": "Coq au Vin",
-    "country": "Francia",
-    "description": "Gallo estofado en vino tinto con champiñones, cebollitas y bacon.",
+    "dishName": "Coq au Vin",
+    "summary": "Gallo estofado en vino tinto con champiñones, cebollitas y bacon.",
+    "placeId": "Francia",
     "ingredients": [
-      "1 gallo o pollo troceado",
-      "750ml vino tinto Borgoña",
-      "200g bacon",
-      "250g champiñones",
-      "12 cebollitas francesas",
-      "2 zanahorias",
-      "Bouquet garni",
-      "Sal",
-      "Pimienta"
+      {
+        "ingredient": "1 gallo o pollo troceado"
+      },
+      {
+        "ingredient": "750ml vino tinto Borgoña"
+      },
+      {
+        "ingredient": "200g bacon"
+      },
+      {
+        "ingredient": "250g champiñones"
+      },
+      {
+        "ingredient": "12 cebollitas francesas"
+      },
+      {
+        "ingredient": "2 zanahorias"
+      },
+      {
+        "ingredient": "Bouquet garni"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Pimienta"
+      }
     ],
-    "instructions": [
-      "Marinar el pollo en vino tinto toda la noche",
-      "Dorar el bacon y reservar",
-      "Sellar el pollo en la grasa del bacon",
-      "Añadir verduras y sofreír",
-      "Verter el vino de marinada",
-      "Cocinar tapado 1.5 horas a fuego lento",
-      "Añadir champiñones los últimos 20 minutos",
-      "Espesar la salsa si es necesario"
+    "steps": [
+      {
+        "step": "Marinar el pollo en vino tinto toda la noche",
+        "number": 1
+      },
+      {
+        "step": "Dorar el bacon y reservar",
+        "number": 2
+      },
+      {
+        "step": "Sellar el pollo en la grasa del bacon",
+        "number": 3
+      },
+      {
+        "step": "Añadir verduras y sofreír",
+        "number": 4
+      },
+      {
+        "step": "Verter el vino de marinada",
+        "number": 5
+      },
+      {
+        "step": "Cocinar tapado 1.5 horas a fuego lento",
+        "number": 6
+      },
+      {
+        "step": "Añadir champiñones los últimos 20 minutos",
+        "number": 7
+      },
+      {
+        "step": "Espesar la salsa si es necesario",
+        "number": 8
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 6,
+    "imageUrl": "/images/recipes/francia/coq-au-vin.jpg",
+    "slug": "fr-001",
+    "cuisine": "francia",
     "difficulty": "Media",
-    "tags": [
-      "pollo",
-      "vino",
-      "borgoña",
-      "plato principal"
-    ],
-    "image": "/images/recipes/francia/coq-au-vin.jpg",
-    "region": "Borgoña",
-    "city": "Dijon",
-    "coordinates": [
-      47.322,
-      5.0415
-    ],
-    "history": "Plato tradicional borgoñón que data de la época romana. Se preparaba originalmente con gallo viejo cocinado lentamente para ablandar la carne."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "fr-002",
-    "name": "Ratatouille",
-    "country": "Francia",
-    "description": "Guiso de verduras provenzales: berenjena, calabacín, pimientos y tomate.",
+    "dishName": "Ratatouille",
+    "summary": "Guiso de verduras provenzales: berenjena, calabacín, pimientos y tomate.",
+    "placeId": "Francia",
     "ingredients": [
-      "2 berenjenas",
-      "2 calabacines",
-      "2 pimientos rojos",
-      "4 tomates maduros",
-      "1 cebolla",
-      "3 dientes de ajo",
-      "Aceite de oliva",
-      "Tomillo",
-      "Albahaca"
+      {
+        "ingredient": "2 berenjenas"
+      },
+      {
+        "ingredient": "2 calabacines"
+      },
+      {
+        "ingredient": "2 pimientos rojos"
+      },
+      {
+        "ingredient": "4 tomates maduros"
+      },
+      {
+        "ingredient": "1 cebolla"
+      },
+      {
+        "ingredient": "3 dientes de ajo"
+      },
+      {
+        "ingredient": "Aceite de oliva"
+      },
+      {
+        "ingredient": "Tomillo"
+      },
+      {
+        "ingredient": "Albahaca"
+      }
     ],
-    "instructions": [
-      "Cortar todas las verduras en rodajas finas",
-      "Sofreír cebolla y ajo",
-      "Añadir pimientos y cocinar 5 minutos",
-      "Incorporar tomates triturados",
-      "Colocar berenjenas y calabacines",
-      "Cocinar tapado 30 minutos a fuego lento",
-      "Sazonar con hierbas provenzales"
+    "steps": [
+      {
+        "step": "Cortar todas las verduras en rodajas finas",
+        "number": 1
+      },
+      {
+        "step": "Sofreír cebolla y ajo",
+        "number": 2
+      },
+      {
+        "step": "Añadir pimientos y cocinar 5 minutos",
+        "number": 3
+      },
+      {
+        "step": "Incorporar tomates triturados",
+        "number": 4
+      },
+      {
+        "step": "Colocar berenjenas y calabacines",
+        "number": 5
+      },
+      {
+        "step": "Cocinar tapado 30 minutos a fuego lento",
+        "number": 6
+      },
+      {
+        "step": "Sazonar con hierbas provenzales",
+        "number": 7
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/francia/ratatouille.jpg",
+    "slug": "fr-002",
+    "cuisine": "francia",
     "difficulty": "Fácil",
-    "tags": [
-      "verduras",
-      "provenza",
-      "vegano",
-      "plato principal"
-    ],
-    "image": "/images/recipes/francia/ratatouille.jpg",
-    "region": "Provenza",
-    "city": "Niza",
-    "coordinates": [
-      43.7102,
-      7.262
-    ],
-    "history": "Plato campesino originario de Niza. Popularizado mundialmente por la película de Pixar. Era comida de agricultores que aprovechaban las verduras de verano."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "fr-003",
-    "name": "Croissants",
-    "country": "Francia",
-    "description": "Bollería hojaldrada francesa en forma de media luna. Crujientes por fuera, esponjosos por dentro.",
+    "dishName": "Croissants",
+    "summary": "Bollería hojaldrada francesa en forma de media luna. Crujientes por fuera, esponjosos por dentro.",
+    "placeId": "Francia",
     "ingredients": [
-      "500g harina fuerza",
-      "280ml leche",
-      "50g azúcar",
-      "10g sal",
-      "10g levadura",
-      "250g mantequilla fría",
-      "1 huevo para pincelar"
+      {
+        "ingredient": "500g harina fuerza"
+      },
+      {
+        "ingredient": "280ml leche"
+      },
+      {
+        "ingredient": "50g azúcar"
+      },
+      {
+        "ingredient": "10g sal"
+      },
+      {
+        "ingredient": "10g levadura"
+      },
+      {
+        "ingredient": "250g mantequilla fría"
+      },
+      {
+        "ingredient": "1 huevo para pincelar"
+      }
     ],
-    "instructions": [
-      "Amasar todos los ingredientes menos mantequilla",
-      "Dejar levar 1 hora",
-      "Estirar masa en rectángulo",
-      "Colocar mantequilla en centro y doblar",
-      "Hacer 3 dobleces simples refrigerando entre ellos",
-      "Estirar y cortar triángulos",
-      "Enrollar desde base hasta punta",
-      "Dejar levar 2 horas",
-      "Pincelar con huevo y hornear 15 min a 200°C"
+    "steps": [
+      {
+        "step": "Amasar todos los ingredientes menos mantequilla",
+        "number": 1
+      },
+      {
+        "step": "Dejar levar 1 hora",
+        "number": 2
+      },
+      {
+        "step": "Estirar masa en rectángulo",
+        "number": 3
+      },
+      {
+        "step": "Colocar mantequilla en centro y doblar",
+        "number": 4
+      },
+      {
+        "step": "Hacer 3 dobleces simples refrigerando entre ellos",
+        "number": 5
+      },
+      {
+        "step": "Estirar y cortar triángulos",
+        "number": 6
+      },
+      {
+        "step": "Enrollar desde base hasta punta",
+        "number": 7
+      },
+      {
+        "step": "Dejar levar 2 horas",
+        "number": 8
+      },
+      {
+        "step": "Pincelar con huevo y hornear 15 min a 200°C",
+        "number": 9
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 8,
+    "imageUrl": "/images/recipes/francia/croissants.jpg",
+    "slug": "fr-003",
+    "cuisine": "francia",
     "difficulty": "Difícil",
-    "tags": [
-      "bollería",
-      "desayuno",
-      "paris",
-      "dulce"
-    ],
-    "image": "/images/recipes/francia/croissants.jpg",
-    "region": "Isla de Francia",
-    "city": "París",
-    "coordinates": [
-      48.8566,
-      2.3522
-    ],
-    "history": "Aunque asociados a Francia, su origen es vienés. Llegaron a París en el siglo XIX. Hoy son símbolo del desayuno francés."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "fr-004",
-    "name": "Boeuf Bourguignon",
-    "country": "Francia",
-    "description": "Estofado de ternera cocinado lentamente en vino tinto de Borgoña.",
+    "dishName": "Boeuf Bourguignon",
+    "summary": "Estofado de ternera cocinado lentamente en vino tinto de Borgoña.",
+    "placeId": "Francia",
     "ingredients": [
-      "1kg ternera en cubos",
-      "750ml vino tinto Borgoña",
-      "200g bacon",
-      "24 cebollitas",
-      "250g champiñones",
-      "2 zanahorias",
-      "Caldo de carne",
-      "Bouquet garni"
+      {
+        "ingredient": "1kg ternera en cubos"
+      },
+      {
+        "ingredient": "750ml vino tinto Borgoña"
+      },
+      {
+        "ingredient": "200g bacon"
+      },
+      {
+        "ingredient": "24 cebollitas"
+      },
+      {
+        "ingredient": "250g champiñones"
+      },
+      {
+        "ingredient": "2 zanahorias"
+      },
+      {
+        "ingredient": "Caldo de carne"
+      },
+      {
+        "ingredient": "Bouquet garni"
+      }
     ],
-    "instructions": [
-      "Dorar la carne en batches y reservar",
-      "Sofreír bacon y verduras",
-      "Volver a poner la carne",
-      "Añadir vino y caldo hasta cubrir",
-      "Cocinar tapado 3 horas a fuego muy lento",
-      "Añadir champiñones los últimos 30 minutos",
-      "Corregir sazón antes de servir"
+    "steps": [
+      {
+        "step": "Dorar la carne en batches y reservar",
+        "number": 1
+      },
+      {
+        "step": "Sofreír bacon y verduras",
+        "number": 2
+      },
+      {
+        "step": "Volver a poner la carne",
+        "number": 3
+      },
+      {
+        "step": "Añadir vino y caldo hasta cubrir",
+        "number": 4
+      },
+      {
+        "step": "Cocinar tapado 3 horas a fuego muy lento",
+        "number": 5
+      },
+      {
+        "step": "Añadir champiñones los últimos 30 minutos",
+        "number": 6
+      },
+      {
+        "step": "Corregir sazón antes de servir",
+        "number": 7
+      }
     ],
-    "prepTime": 40,
+    "prepTimeMin": 40,
+    "cookTimeMin": 0,
+    "totalTimeMin": 40,
     "servings": 6,
+    "imageUrl": "/images/recipes/francia/boeuf-bourguignon.jpg",
+    "slug": "fr-004",
+    "cuisine": "francia",
     "difficulty": "Media",
-    "tags": [
-      "carne",
-      "vino",
-      "borgoña",
-      "plato principal"
-    ],
-    "image": "/images/recipes/francia/boeuf-bourguignon.jpg",
-    "region": "Borgoña",
-    "city": "Beaune",
-    "coordinates": [
-      47.0261,
-      4.8388
-    ],
-    "history": "Plato emblemático de la cocina francesa popularizado por Julia Child. Originalmente era guiso campesino que se cocinaba durante horas."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "fr-005",
-    "name": "Quiche Lorraine",
-    "country": "Francia",
-    "description": "Tarta salada de masa quebrada rellena de crema, huevos y bacon.",
+    "dishName": "Quiche Lorraine",
+    "summary": "Tarta salada de masa quebrada rellena de crema, huevos y bacon.",
+    "placeId": "Francia",
     "ingredients": [
-      "1 masa quebrada",
-      "200g bacon ahumado",
-      "4 huevos",
-      "300ml nata líquida",
-      "100g queso gruyère",
-      "Nuez moscada",
-      "Sal",
-      "Pimienta"
+      {
+        "ingredient": "1 masa quebrada"
+      },
+      {
+        "ingredient": "200g bacon ahumado"
+      },
+      {
+        "ingredient": "4 huevos"
+      },
+      {
+        "ingredient": "300ml nata líquida"
+      },
+      {
+        "ingredient": "100g queso gruyère"
+      },
+      {
+        "ingredient": "Nuez moscada"
+      },
+      {
+        "ingredient": "Sal"
+      },
+      {
+        "ingredient": "Pimienta"
+      }
     ],
-    "instructions": [
-      "Precalentar horno a 180°C",
-      "Forrar molde con masa y pinchar base",
-      "Dorar bacon en sartén",
-      "Batir huevos con nata y especias",
-      "Distribuir bacon sobre masa",
-      "Verter mezcla de huevos",
-      "Espolvorear queso rallado",
-      "Hornear 30-35 minutos hasta cuajar"
+    "steps": [
+      {
+        "step": "Precalentar horno a 180°C",
+        "number": 1
+      },
+      {
+        "step": "Forrar molde con masa y pinchar base",
+        "number": 2
+      },
+      {
+        "step": "Dorar bacon en sartén",
+        "number": 3
+      },
+      {
+        "step": "Batir huevos con nata y especias",
+        "number": 4
+      },
+      {
+        "step": "Distribuir bacon sobre masa",
+        "number": 5
+      },
+      {
+        "step": "Verter mezcla de huevos",
+        "number": 6
+      },
+      {
+        "step": "Espolvorear queso rallado",
+        "number": 7
+      },
+      {
+        "step": "Hornear 30-35 minutos hasta cuajar",
+        "number": 8
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 6,
+    "imageUrl": "/images/recipes/francia/quiche-lorraine.jpg",
+    "slug": "fr-005",
+    "cuisine": "francia",
     "difficulty": "Fácil",
-    "tags": [
-      "tarta",
-      "huevos",
-      "lorena",
-      "plato principal"
-    ],
-    "image": "/images/recipes/francia/quiche-lorraine.jpg",
-    "region": "Lorena",
-    "city": "Metz",
-    "coordinates": [
-      49.1193,
-      6.1757
-    ],
-    "history": "Originaria de Lorena, era plato de campesinos. El nombre viene del alemán 'Kuchen' (pastel). Tradicionalmente no llevaba queso."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "fr-006",
-    "name": "Crêpes",
-    "country": "Francia",
-    "description": "Finos pancakes franceses que pueden ser dulces o salados.",
+    "dishName": "Crêpes",
+    "summary": "Finos pancakes franceses que pueden ser dulces o salados.",
+    "placeId": "Francia",
     "ingredients": [
-      "250g harina",
-      "3 huevos",
-      "500ml leche",
-      "50g mantequilla derretida",
-      "1 cucharada azúcar",
-      "Pizca de sal",
-      "Mantequilla para cocinar"
+      {
+        "ingredient": "250g harina"
+      },
+      {
+        "ingredient": "3 huevos"
+      },
+      {
+        "ingredient": "500ml leche"
+      },
+      {
+        "ingredient": "50g mantequilla derretida"
+      },
+      {
+        "ingredient": "1 cucharada azúcar"
+      },
+      {
+        "ingredient": "Pizca de sal"
+      },
+      {
+        "ingredient": "Mantequilla para cocinar"
+      }
     ],
-    "instructions": [
-      "Mezclar harina, huevos y leche gradualmente",
-      "Añadir mantequilla derretida y azúcar",
-      "Dejar reposar 30 minutos",
-      "Calentar sartén antiadherente",
-      "Verter poco batido y extender",
-      "Cocinar 1 minuto por lado",
-      "Rellenar al gusto: Nutella, azúcar, limón..."
+    "steps": [
+      {
+        "step": "Mezclar harina, huevos y leche gradualmente",
+        "number": 1
+      },
+      {
+        "step": "Añadir mantequilla derretida y azúcar",
+        "number": 2
+      },
+      {
+        "step": "Dejar reposar 30 minutos",
+        "number": 3
+      },
+      {
+        "step": "Calentar sartén antiadherente",
+        "number": 4
+      },
+      {
+        "step": "Verter poco batido y extender",
+        "number": 5
+      },
+      {
+        "step": "Cocinar 1 minuto por lado",
+        "number": 6
+      },
+      {
+        "step": "Rellenar al gusto: Nutella, azúcar, limón...",
+        "number": 7
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 8,
+    "imageUrl": "/images/recipes/francia/crêpes.jpg",
+    "slug": "fr-006",
+    "cuisine": "francia",
     "difficulty": "Fácil",
-    "tags": [
-      "postre",
-      "crepes",
-      "bretaña",
-      "dulce"
-    ],
-    "image": "/images/recipes/francia/crêpes.jpg",
-    "region": "Bretaña",
-    "city": "Rennes",
-    "coordinates": [
-      48.1173,
-      -1.6778
-    ],
-    "history": "Originarias de Bretaña donde se hacían con trigo sarraceno. Hoy son populares en toda Francia, especialmente el Día de la Crêpe (2 febrero)."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "fr-007",
-    "name": "Soupe à l'Oignon",
-    "country": "Francia",
-    "description": "Sopa de cebolla gratinada con pan tostado y queso gruyère.",
+    "dishName": "Soupe à l'Oignon",
+    "summary": "Sopa de cebolla gratinada con pan tostado y queso gruyère.",
+    "placeId": "Francia",
     "ingredients": [
-      "6 cebollas grandes",
-      "1L caldo de carne",
-      "100ml vino blanco seco",
-      "Rebanadas pan baguette",
-      "200g queso gruyère rallado",
-      "50g mantequilla",
-      "Tomillo"
+      {
+        "ingredient": "6 cebollas grandes"
+      },
+      {
+        "ingredient": "1L caldo de carne"
+      },
+      {
+        "ingredient": "100ml vino blanco seco"
+      },
+      {
+        "ingredient": "Rebanadas pan baguette"
+      },
+      {
+        "ingredient": "200g queso gruyère rallado"
+      },
+      {
+        "ingredient": "50g mantequilla"
+      },
+      {
+        "ingredient": "Tomillo"
+      }
     ],
-    "instructions": [
-      "Cortar cebollas en juliana fina",
-      "Pochar lentamente 45 minutos hasta dorar",
-      "Desglasar con vino blanco",
-      "Añadir caldo y cocinar 20 minutos",
-      "Servir en bowls resistentes al horno",
-      "Colocar pan tostado encima",
-      "Cubrir con abundante queso",
-      "Gratinar bajo grill 5 minutos"
+    "steps": [
+      {
+        "step": "Cortar cebollas en juliana fina",
+        "number": 1
+      },
+      {
+        "step": "Pochar lentamente 45 minutos hasta dorar",
+        "number": 2
+      },
+      {
+        "step": "Desglasar con vino blanco",
+        "number": 3
+      },
+      {
+        "step": "Añadir caldo y cocinar 20 minutos",
+        "number": 4
+      },
+      {
+        "step": "Servir en bowls resistentes al horno",
+        "number": 5
+      },
+      {
+        "step": "Colocar pan tostado encima",
+        "number": 6
+      },
+      {
+        "step": "Cubrir con abundante queso",
+        "number": 7
+      },
+      {
+        "step": "Gratinar bajo grill 5 minutos",
+        "number": 8
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/francia/soupe-à-l'oignon.jpg",
+    "slug": "fr-007",
+    "cuisine": "francia",
     "difficulty": "Media",
-    "tags": [
-      "sopa",
-      "cebolla",
-      "paris",
-      "plato principal"
-    ],
-    "image": "/images/recipes/francia/soupe-à-l'oignon.jpg",
-    "region": "Isla de Francia",
-    "city": "París",
-    "coordinates": [
-      48.8566,
-      2.3522
-    ],
-    "history": "Plato humilde parisino que se servía en los mercados nocturnos. Popular entre trabajadores nocturnos y juerguistas."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "fr-008",
-    "name": "Macarons Parisiens",
-    "country": "Francia",
-    "description": "Delicados pastelitos de almendra con relleno ganache. Colores vibrantes y sabores variados.",
+    "dishName": "Macarons Parisiens",
+    "summary": "Delicados pastelitos de almendra con relleno ganache. Colores vibrantes y sabores variados.",
+    "placeId": "Francia",
     "ingredients": [
-      "150g almendra molida",
-      "150g azúcar glas",
-      "55g claras huevo",
-      "55g azúcar",
-      "Colorante alimenticio",
-      "Para ganache: chocolate y nata"
+      {
+        "ingredient": "150g almendra molida"
+      },
+      {
+        "ingredient": "150g azúcar glas"
+      },
+      {
+        "ingredient": "55g claras huevo"
+      },
+      {
+        "ingredient": "55g azúcar"
+      },
+      {
+        "ingredient": "Colorante alimenticio"
+      },
+      {
+        "ingredient": "Para ganache: chocolate y nata"
+      }
     ],
-    "instructions": [
-      "Tamizar almendra y azúcar glas",
-      "Montar claras a punto de nieve con azúcar",
-      "Incorporar secos con movimientos envolventes",
-      "Añadir colorante",
-      "Formar círculos en bandeja silicona",
-      "Dejar secar 30 minutos hasta formar piel",
-      "Hornear 12 minutos a 150°C",
-      "Rellenar con ganache cuando enfríen"
+    "steps": [
+      {
+        "step": "Tamizar almendra y azúcar glas",
+        "number": 1
+      },
+      {
+        "step": "Montar claras a punto de nieve con azúcar",
+        "number": 2
+      },
+      {
+        "step": "Incorporar secos con movimientos envolventes",
+        "number": 3
+      },
+      {
+        "step": "Añadir colorante",
+        "number": 4
+      },
+      {
+        "step": "Formar círculos en bandeja silicona",
+        "number": 5
+      },
+      {
+        "step": "Dejar secar 30 minutos hasta formar piel",
+        "number": 6
+      },
+      {
+        "step": "Hornear 12 minutos a 150°C",
+        "number": 7
+      },
+      {
+        "step": "Rellenar con ganache cuando enfríen",
+        "number": 8
+      }
     ],
-    "prepTime": 45,
+    "prepTimeMin": 45,
+    "cookTimeMin": 0,
+    "totalTimeMin": 45,
     "servings": 20,
+    "imageUrl": "/images/recipes/francia/macarons-parisiens.jpg",
+    "slug": "fr-008",
+    "cuisine": "francia",
     "difficulty": "Difícil",
-    "tags": [
-      "postre",
-      "almendra",
-      "paris",
-      "dulce"
-    ],
-    "image": "/images/recipes/francia/macarons-parisiens.jpg",
-    "region": "Isla de Francia",
-    "city": "París",
-    "coordinates": [
-      48.8566,
-      2.3522
-    ],
-    "history": "Popularizados por Ladurée en París. Aunque su origen es italiano, los franceses perfeccionaron la técnica del macaron moderno."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "fr-009",
-    "name": "Cassoulet",
-    "country": "Francia",
-    "description": "Guiso de alubias blancas con confit de pato, salchicha Toulouse y panceta.",
+    "dishName": "Cassoulet",
+    "summary": "Guiso de alubias blancas con confit de pato, salchicha Toulouse y panceta.",
+    "placeId": "Francia",
     "ingredients": [
-      "500g alubias blancas",
-      "4 confits de pato",
-      "400g salchicha Toulouse",
-      "200g panceta",
-      "1 cebolla",
-      "2 zanahorias",
-      "Tomate concentrado",
-      "Caldo"
+      {
+        "ingredient": "500g alubias blancas"
+      },
+      {
+        "ingredient": "4 confits de pato"
+      },
+      {
+        "ingredient": "400g salchicha Toulouse"
+      },
+      {
+        "ingredient": "200g panceta"
+      },
+      {
+        "ingredient": "1 cebolla"
+      },
+      {
+        "ingredient": "2 zanahorias"
+      },
+      {
+        "ingredient": "Tomate concentrado"
+      },
+      {
+        "ingredient": "Caldo"
+      }
     ],
-    "instructions": [
-      "Remojar alubias noche anterior",
-      "Cocer alubias con verduras",
-      "Dorar carnes por separado",
-      "En cazuela de barro alternar capas",
-      "Cubrir con caldo de cocción",
-      "Hornear 2 horas a 160°C",
-      "Romper costra varias veces durante cocción"
+    "steps": [
+      {
+        "step": "Remojar alubias noche anterior",
+        "number": 1
+      },
+      {
+        "step": "Cocer alubias con verduras",
+        "number": 2
+      },
+      {
+        "step": "Dorar carnes por separado",
+        "number": 3
+      },
+      {
+        "step": "En cazuela de barro alternar capas",
+        "number": 4
+      },
+      {
+        "step": "Cubrir con caldo de cocción",
+        "number": 5
+      },
+      {
+        "step": "Hornear 2 horas a 160°C",
+        "number": 6
+      },
+      {
+        "step": "Romper costra varias veces durante cocción",
+        "number": 7
+      }
     ],
-    "prepTime": 40,
+    "prepTimeMin": 40,
+    "cookTimeMin": 0,
+    "totalTimeMin": 40,
     "servings": 6,
+    "imageUrl": "/images/recipes/francia/cassoulet.jpg",
+    "slug": "fr-009",
+    "cuisine": "francia",
     "difficulty": "Media",
-    "tags": [
-      "legumbres",
-      "pato",
-      "occitania",
-      "plato principal"
-    ],
-    "image": "/images/recipes/francia/cassoulet.jpg",
-    "region": "Occitania",
-    "city": "Toulouse",
-    "coordinates": [
-      43.6047,
-      1.4442
-    ],
-    "history": "Plato emblemático del suroeste francés. Cada ciudad (Toulouse, Carcassonne, Castelnaudary) reclama la receta auténtica."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "fr-010",
-    "name": "Tartiflette",
-    "country": "Francia",
-    "description": "Gratinado de patatas con queso Reblochon, bacon y cebolla. Plato invernal de montaña.",
+    "dishName": "Tartiflette",
+    "summary": "Gratinado de patatas con queso Reblochon, bacon y cebolla. Plato invernal de montaña.",
+    "placeId": "Francia",
     "ingredients": [
-      "1kg patatas",
-      "2 Reblochon",
-      "200g bacon ahumado",
-      "2 cebollas",
-      "200ml nata",
-      "Mantequilla",
-      "Pimienta"
+      {
+        "ingredient": "1kg patatas"
+      },
+      {
+        "ingredient": "2 Reblochon"
+      },
+      {
+        "ingredient": "200g bacon ahumado"
+      },
+      {
+        "ingredient": "2 cebollas"
+      },
+      {
+        "ingredient": "200ml nata"
+      },
+      {
+        "ingredient": "Mantequilla"
+      },
+      {
+        "ingredient": "Pimienta"
+      }
     ],
-    "instructions": [
-      "Cocer patatas con piel 15 minutos",
-      "Pelar y cortar en rodajas",
-      "Dorar bacon y cebolla",
-      "Colocar patatas en fuente horno",
-      "Añadir bacon y cebolla",
-      "Verter nata",
-      "Colocar Reblochon cortado por mitad",
-      "Hornear 20 minutos a 200°C hasta gratinar"
+    "steps": [
+      {
+        "step": "Cocer patatas con piel 15 minutos",
+        "number": 1
+      },
+      {
+        "step": "Pelar y cortar en rodajas",
+        "number": 2
+      },
+      {
+        "step": "Dorar bacon y cebolla",
+        "number": 3
+      },
+      {
+        "step": "Colocar patatas en fuente horno",
+        "number": 4
+      },
+      {
+        "step": "Añadir bacon y cebolla",
+        "number": 5
+      },
+      {
+        "step": "Verter nata",
+        "number": 6
+      },
+      {
+        "step": "Colocar Reblochon cortado por mitad",
+        "number": 7
+      },
+      {
+        "step": "Hornear 20 minutos a 200°C hasta gratinar",
+        "number": 8
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/francia/tartiflette.jpg",
+    "slug": "fr-010",
+    "cuisine": "francia",
     "difficulty": "Fácil",
-    "tags": [
-      "patatas",
-      "queso",
-      "saboya",
-      "plato principal"
-    ],
-    "image": "/images/recipes/francia/tartiflette.jpg",
-    "region": "Saboya",
-    "city": "Chambéry",
-    "coordinates": [
-      45.5646,
-      5.9178
-    ],
-    "history": "Creado en los años 80 para promover el queso Reblochon. Inspirado en platos tradicionales de pastores saboyanos."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

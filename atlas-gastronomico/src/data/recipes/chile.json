@@ -1,207 +1,337 @@
 [
   {
     "id": "cl-pastel-de-choclo",
-    "name": "Pastel de Choclo",
-    "country": "Chile",
-    "description": "Pastel chileno de maíz dulce con pino de carne y pollo.",
+    "dishName": "Pastel de Choclo",
+    "summary": "Pastel chileno de maíz dulce con pino de carne y pollo.",
+    "placeId": "Chile",
     "ingredients": [
-      "6 choclos (mazorcas de maíz tierno)",
-      "500g de carne molida",
-      "1 pollo cocido desmenuzado",
-      "2 cebollas grandes",
-      "Aceitunas negras",
-      "Huevos duros",
-      "Pasas rubias",
-      "Azúcar"
+      {
+        "ingredient": "6 choclos (mazorcas de maíz tierno)"
+      },
+      {
+        "ingredient": "500g de carne molida"
+      },
+      {
+        "ingredient": "1 pollo cocido desmenuzado"
+      },
+      {
+        "ingredient": "2 cebollas grandes"
+      },
+      {
+        "ingredient": "Aceitunas negras"
+      },
+      {
+        "ingredient": "Huevos duros"
+      },
+      {
+        "ingredient": "Pasas rubias"
+      },
+      {
+        "ingredient": "Azúcar"
+      }
     ],
-    "instructions": [
-      "Rallar los choclos y cocinar hasta formar crema espesa.",
-      "Preparar pino sofriendo carne con cebolla.",
-      "En fuente de greda alternar capas de pino y pollo.",
-      "Cubrir con crema de choclo.",
-      "Espolvorear azúcar y hornear hasta dorar.",
-      "Servir caliente en la misma fuente."
+    "steps": [
+      {
+        "step": "Rallar los choclos y cocinar hasta formar crema espesa.",
+        "number": 1
+      },
+      {
+        "step": "Preparar pino sofriendo carne con cebolla.",
+        "number": 2
+      },
+      {
+        "step": "En fuente de greda alternar capas de pino y pollo.",
+        "number": 3
+      },
+      {
+        "step": "Cubrir con crema de choclo.",
+        "number": 4
+      },
+      {
+        "step": "Espolvorear azúcar y hornear hasta dorar.",
+        "number": 5
+      },
+      {
+        "step": "Servir caliente en la misma fuente.",
+        "number": 6
+      }
     ],
-    "prepTime": 120,
+    "prepTimeMin": 120,
+    "cookTimeMin": 0,
+    "totalTimeMin": 120,
     "servings": 8,
+    "imageUrl": "/images/recipes/chile/pastel-de-choclo.jpg",
+    "slug": "cl-pastel-de-choclo",
+    "cuisine": "chile",
     "difficulty": "Media",
-    "tags": [
-      "pastel",
-      "choclo",
-      "maiz",
-      "tradicional",
-      "verano"
-    ],
-    "image": "/images/recipes/chile/pastel-de-choclo.jpg",
-    "region": "Valle Central",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El pastel de choclo es uno de los platos más tradicionales de Chile, especialmente en verano cuando el maíz está en su punto. Su origen combina la tradición mapuche del uso del maíz con influencias españolas. Se prepara en fuentes de greda que le dan ese sabor característico y es infaltable en las celebraciones chilenas."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cl-empanadas-de-pino",
-    "name": "Empanadas de Pino",
-    "country": "Chile",
-    "description": "Empanadas horneadas rellenas de carne, cebolla, aceituna y huevo.",
+    "dishName": "Empanadas de Pino",
+    "summary": "Empanadas horneadas rellenas de carne, cebolla, aceituna y huevo.",
+    "placeId": "Chile",
     "ingredients": [
-      "500g de carne molida (posta negra)",
-      "3 cebollas picadas finamente",
-      "Comino, orégano, ají de color",
-      "Aceitunas negras",
-      "Huevos duros",
-      "Tapa de empanadas",
-      "Caldo de carne"
+      {
+        "ingredient": "500g de carne molida (posta negra)"
+      },
+      {
+        "ingredient": "3 cebollas picadas finamente"
+      },
+      {
+        "ingredient": "Comino, orégano, ají de color"
+      },
+      {
+        "ingredient": "Aceitunas negras"
+      },
+      {
+        "ingredient": "Huevos duros"
+      },
+      {
+        "ingredient": "Tapa de empanadas"
+      },
+      {
+        "ingredient": "Caldo de carne"
+      }
     ],
-    "instructions": [
-      "Cocinar cebolla hasta ablandar, agregar carne y especias.",
-      "Reducir líquido hasta obtener pino jugoso pero no líquido.",
-      "Enfriar completamente el relleno.",
-      "Rellenar tapas con pino, aceituna y trozo de huevo.",
-      "Cerrar sellando bien los bordes.",
-      "Hornear a 200°C por 20-25 minutos."
+    "steps": [
+      {
+        "step": "Cocinar cebolla hasta ablandar, agregar carne y especias.",
+        "number": 1
+      },
+      {
+        "step": "Reducir líquido hasta obtener pino jugoso pero no líquido.",
+        "number": 2
+      },
+      {
+        "step": "Enfriar completamente el relleno.",
+        "number": 3
+      },
+      {
+        "step": "Rellenar tapas con pino, aceituna y trozo de huevo.",
+        "number": 4
+      },
+      {
+        "step": "Cerrar sellando bien los bordes.",
+        "number": 5
+      },
+      {
+        "step": "Hornear a 200°C por 20-25 minutos.",
+        "number": 6
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 10,
+    "imageUrl": "/images/recipes/chile/empanadas-de-pino.jpg",
+    "slug": "cl-empanadas-de-pino",
+    "cuisine": "chile",
     "difficulty": "Media",
-    "tags": [
-      "empanadas",
-      "pino",
-      "patrias",
-      "horno",
-      "septiembre"
-    ],
-    "image": "/images/recipes/chile/empanadas-de-pino.jpg",
-    "region": "Todo el país",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Las empanadas de pino son el símbolo culinario de Chile, especialmente durante las Fiestas Patrias en septiembre. El 'pino' viene del quechua y significa 'relleno'. Cada familia chilena tiene su receta secreta transmitida por generaciones. Son inseparables de la ramada, el vino tinto y la cueca durante el dieciocho."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cl-cazuela-chilena",
-    "name": "Cazuela Chilena",
-    "country": "Chile",
-    "description": "Sopa campesina con carne, papas, zapallo y arroz o fideos.",
+    "dishName": "Cazuela Chilena",
+    "summary": "Sopa campesina con carne, papas, zapallo y arroz o fideos.",
+    "placeId": "Chile",
     "ingredients": [
-      "500g de carne (vacuno o pollo)",
-      "2 papas grandes",
-      "300g de zapallo camote",
-      "1/2 taza de arroz",
-      "1 zanahoria",
-      "Porotitos verdes",
-      "Cebolla, ajo, cilantro"
+      {
+        "ingredient": "500g de carne (vacuno o pollo)"
+      },
+      {
+        "ingredient": "2 papas grandes"
+      },
+      {
+        "ingredient": "300g de zapallo camote"
+      },
+      {
+        "ingredient": "1/2 taza de arroz"
+      },
+      {
+        "ingredient": "1 zanahoria"
+      },
+      {
+        "ingredient": "Porotitos verdes"
+      },
+      {
+        "ingredient": "Cebolla, ajo, cilantro"
+      }
     ],
-    "instructions": [
-      "Cocer carne con verduras para caldo sabroso.",
-      "Agregar papas, zapallo y zanahoria en trozos grandes.",
-      "Incorporar arroz o fideos al final.",
-      "Cocinar hasta que todo esté tierno.",
-      "Servir en plato hondo con mucho caldo.",
-      "Acompañar con ají verde y pebre."
+    "steps": [
+      {
+        "step": "Cocer carne con verduras para caldo sabroso.",
+        "number": 1
+      },
+      {
+        "step": "Agregar papas, zapallo y zanahoria en trozos grandes.",
+        "number": 2
+      },
+      {
+        "step": "Incorporar arroz o fideos al final.",
+        "number": 3
+      },
+      {
+        "step": "Cocinar hasta que todo esté tierno.",
+        "number": 4
+      },
+      {
+        "step": "Servir en plato hondo con mucho caldo.",
+        "number": 5
+      },
+      {
+        "step": "Acompañar con ají verde y pebre.",
+        "number": 6
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 6,
+    "imageUrl": "/images/recipes/chile/cazuela-chilena.jpg",
+    "slug": "cl-cazuela-chilena",
+    "cuisine": "chile",
     "difficulty": "Fácil",
-    "tags": [
-      "cazuela",
-      "sopa",
-      "domingo",
-      "campesino",
-      "familiar"
-    ],
-    "image": "/images/recipes/chile/cazuela-chilena.jpg",
-    "region": "Todo el país",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "La cazuela es el plato de todos los días en Chile, presente en almuerzos familiares desde tiempos coloniales. Es un guiso nutritivo que aprovecha los ingredientes de la tierra chilena. Tradicionalmente se come los domingos después de misa y es considerada comida reconfortante por excelencia."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cl-completo-chileno",
-    "name": "Completo Chileno",
-    "country": "Chile",
-    "description": "Hot dog cargado con palta, tomate, mayonesa y ají.",
+    "dishName": "Completo Chileno",
+    "summary": "Hot dog cargado con palta, tomate, mayonesa y ají.",
+    "placeId": "Chile",
     "ingredients": [
-      "Pan de hot dog",
-      "Salchicha vienesa",
-      "1 palta grande madura",
-      "2 tomates picados",
-      "Mayonesa abundante",
-      "Ají verde o salsa americana",
-      "Opcional: sauerkraut (chucrut)"
+      {
+        "ingredient": "Pan de hot dog"
+      },
+      {
+        "ingredient": "Salchicha vienesa"
+      },
+      {
+        "ingredient": "1 palta grande madura"
+      },
+      {
+        "ingredient": "2 tomates picados"
+      },
+      {
+        "ingredient": "Mayonesa abundante"
+      },
+      {
+        "ingredient": "Ají verde o salsa americana"
+      },
+      {
+        "ingredient": "Opcional: sauerkraut (chucrut)"
+      }
     ],
-    "instructions": [
-      "Cocinar salchichas en agua caliente o plancha.",
-      "Calentar ligeramente el pan.",
-      "Colocar salchicha en pan.",
-      "Agregar palta aplastada con sal.",
-      "Añadir tomate picado y mayonesa generosa.",
-      "Terminar con ají verde al gusto."
+    "steps": [
+      {
+        "step": "Cocinar salchichas en agua caliente o plancha.",
+        "number": 1
+      },
+      {
+        "step": "Calentar ligeramente el pan.",
+        "number": 2
+      },
+      {
+        "step": "Colocar salchicha en pan.",
+        "number": 3
+      },
+      {
+        "step": "Agregar palta aplastada con sal.",
+        "number": 4
+      },
+      {
+        "step": "Añadir tomate picado y mayonesa generosa.",
+        "number": 5
+      },
+      {
+        "step": "Terminar con ají verde al gusto.",
+        "number": 6
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 1,
+    "imageUrl": "/images/recipes/chile/completo-chileno.jpg",
+    "slug": "cl-completo-chileno",
+    "cuisine": "chile",
     "difficulty": "Fácil",
-    "tags": [
-      "completo",
-      "rapido",
-      "callejero",
-      "vienesa",
-      "palta"
-    ],
-    "image": "/images/recipes/chile/completo-chileno.jpg",
-    "region": "Todo el país",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El completo es la comida rápida por excelencia en Chile. Los chilenos consumen millones de completos al año y existen innumerables variedades: italiano (con palta, tomate y mayonesa), alemán (con sauerkraut), dinámico (con todo). Las fuentes de soda y carritos de completos son parte fundamental de la cultura urbana chilena."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "cl-curanto",
-    "name": "Curanto",
-    "country": "Chile",
-    "description": "Tradicional preparación chilota de mariscos y carnes cocidos bajo tierra.",
+    "dishName": "Curanto",
+    "summary": "Tradicional preparación chilota de mariscos y carnes cocidos bajo tierra.",
+    "placeId": "Chile",
     "ingredients": [
-      "Variedad de mariscos (choritos, almejas, centolla)",
-      "Carne de cerdo y vacuno",
-      "Longanizas",
-      "Papas nativas chilotes",
-      "Papas milcao (ralladas)",
-      "Hojas de nalca (pangue)"
+      {
+        "ingredient": "Variedad de mariscos (choritos, almejas, centolla)"
+      },
+      {
+        "ingredient": "Carne de cerdo y vacuno"
+      },
+      {
+        "ingredient": "Longanizas"
+      },
+      {
+        "ingredient": "Papas nativas chilotes"
+      },
+      {
+        "ingredient": "Papas milcao (ralladas)"
+      },
+      {
+        "ingredient": "Hojas de nalca (pangue)"
+      }
     ],
-    "instructions": [
-      "Cavar hoyo en tierra y hacer fogata hasta tener brasas.",
-      "Colocar piedras grandes sobre brasas hasta calentar.",
-      "Poner hojas de nalca sobre piedras.",
-      "Disponer capas de mariscos, carnes y papas.",
-      "Cubrir con más hojas y tierra para sellar.",
-      "Cocinar por 1 hora aproximadamente."
+    "steps": [
+      {
+        "step": "Cavar hoyo en tierra y hacer fogata hasta tener brasas.",
+        "number": 1
+      },
+      {
+        "step": "Colocar piedras grandes sobre brasas hasta calentar.",
+        "number": 2
+      },
+      {
+        "step": "Poner hojas de nalca sobre piedras.",
+        "number": 3
+      },
+      {
+        "step": "Disponer capas de mariscos, carnes y papas.",
+        "number": 4
+      },
+      {
+        "step": "Cubrir con más hojas y tierra para sellar.",
+        "number": 5
+      },
+      {
+        "step": "Cocinar por 1 hora aproximadamente.",
+        "number": 6
+      }
     ],
-    "prepTime": 180,
+    "prepTimeMin": 180,
+    "cookTimeMin": 0,
+    "totalTimeMin": 180,
     "servings": 10,
+    "imageUrl": "/images/recipes/chile/curanto.jpg",
+    "slug": "cl-curanto",
+    "cuisine": "chile",
     "difficulty": "Difícil",
-    "tags": [
-      "curanto",
-      "chiloe",
-      "mariscos",
-      "ancestral",
-      "comunitario"
-    ],
-    "image": "/images/recipes/chile/curanto.jpg",
-    "region": "Chiloé",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El curanto es la preparación ancestral del pueblo chilote que data de antes de la llegada de los españoles. Originalmente se cocinaba exclusivamente bajo tierra (curanto en hoyo), aunque hoy también se prepara en olla (pulmay). Es un ritual comunitario que representa la generosidad y hospitalidad chilota, acompañado de licor de oro y música tradicional."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

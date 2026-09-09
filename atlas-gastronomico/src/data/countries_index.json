@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Alemania",
+    "slug": "alemania",
+    "recipeCount": 5,
+    "dataFile": "recipes/alemania.json"
+  },
+  {
+    "name": "Argentina",
+    "slug": "argentina",
+    "recipeCount": 5,
+    "dataFile": "recipes/argentina.json"
+  },
+  {
+    "name": "Brasil",
+    "slug": "brasil",
+    "recipeCount": 5,
+    "dataFile": "recipes/brasil.json"
+  },
+  {
+    "name": "Canadá",
+    "slug": "canadá",
+    "recipeCount": 5,
+    "dataFile": "recipes/canadá.json"
+  },
+  {
+    "name": "Chile",
+    "slug": "chile",
+    "recipeCount": 5,
+    "dataFile": "recipes/chile.json"
+  },
+  {
+    "name": "China",
+    "slug": "china",
+    "recipeCount": 5,
+    "dataFile": "recipes/china.json"
+  },
+  {
+    "name": "Colombia",
+    "slug": "colombia",
+    "recipeCount": 5,
+    "dataFile": "recipes/colombia.json"
+  },
+  {
+    "name": "Corea del sur",
+    "slug": "corea-del-sur",
+    "recipeCount": 5,
+    "dataFile": "recipes/corea-del-sur.json"
+  },
+  {
+    "name": "Costa rica",
+    "slug": "costa-rica",
+    "recipeCount": 5,
+    "dataFile": "recipes/costa-rica.json"
+  },
+  {
+    "name": "Cuba",
+    "slug": "cuba",
+    "recipeCount": 10,
+    "dataFile": "recipes/cuba.json"
+  },
+  {
+    "name": "Ecuador",
+    "slug": "ecuador",
+    "recipeCount": 5,
+    "dataFile": "recipes/ecuador.json"
+  },
+  {
+    "name": "Egipto",
+    "slug": "egipto",
+    "recipeCount": 10,
+    "dataFile": "recipes/egipto.json"
+  },
+  {
+    "name": "España",
+    "slug": "españa",
+    "recipeCount": 10,
+    "dataFile": "recipes/españa.json"
+  },
+  {
+    "name": "Estados unidos",
+    "slug": "estados-unidos",
+    "recipeCount": 5,
+    "dataFile": "recipes/estados-unidos.json"
+  },
+  {
+    "name": "Etiopía",
+    "slug": "etiopía",
+    "recipeCount": 10,
+    "dataFile": "recipes/etiopía.json"
+  },
+  {
+    "name": "Filipinas",
+    "slug": "filipinas",
+    "recipeCount": 5,
+    "dataFile": "recipes/filipinas.json"
+  },
+  {
+    "name": "Francia",
+    "slug": "francia",
+    "recipeCount": 10,
+    "dataFile": "recipes/francia.json"
+  },
+  {
+    "name": "Grecia",
+    "slug": "grecia",
+    "recipeCount": 5,
+    "dataFile": "recipes/grecia.json"
+  },
+  {
+    "name": "Hungría",
+    "slug": "hungría",
+    "recipeCount": 10,
+    "dataFile": "recipes/hungría.json"
+  },
+  {
+    "name": "India",
+    "slug": "india",
+    "recipeCount": 5,
+    "dataFile": "recipes/india.json"
+  },
+  {
+    "name": "Indonesia",
+    "slug": "indonesia",
+    "recipeCount": 5,
+    "dataFile": "recipes/indonesia.json"
+  },
+  {
+    "name": "Italia",
+    "slug": "italia",
+    "recipeCount": 10,
+    "dataFile": "recipes/italia.json"
+  },
+  {
+    "name": "Japón",
+    "slug": "japón",
+    "recipeCount": 5,
+    "dataFile": "recipes/japón.json"
+  },
+  {
+    "name": "Malasia",
+    "slug": "malasia",
+    "recipeCount": 5,
+    "dataFile": "recipes/malasia.json"
+  },
+  {
+    "name": "México",
+    "slug": "méxico",
+    "recipeCount": 5,
+    "dataFile": "recipes/méxico.json"
+  },
+  {
+    "name": "Nueva zelanda",
+    "slug": "nueva-zelanda",
+    "recipeCount": 5,
+    "dataFile": "recipes/nueva-zelanda.json"
+  },
+  {
+    "name": "Panamá",
+    "slug": "panamá",
+    "recipeCount": 5,
+    "dataFile": "recipes/panamá.json"
+  },
+  {
+    "name": "Países bajos",
+    "slug": "países-bajos",
+    "recipeCount": 5,
+    "dataFile": "recipes/países-bajos.json"
+  },
+  {
+    "name": "Perú",
+    "slug": "perú",
+    "recipeCount": 5,
+    "dataFile": "recipes/perú.json"
+  },
+  {
+    "name": "Polonia",
+    "slug": "polonia",
+    "recipeCount": 10,
+    "dataFile": "recipes/polonia.json"
+  },
+  {
+    "name": "Portugal",
+    "slug": "portugal",
+    "recipeCount": 5,
+    "dataFile": "recipes/portugal.json"
+  },
+  {
+    "name": "Reino unido",
+    "slug": "reino-unido",
+    "recipeCount": 5,
+    "dataFile": "recipes/reino-unido.json"
+  },
+  {
+    "name": "Singapur",
+    "slug": "singapur",
+    "recipeCount": 5,
+    "dataFile": "recipes/singapur.json"
+  },
+  {
+    "name": "Tailandia",
+    "slug": "tailandia",
+    "recipeCount": 5,
+    "dataFile": "recipes/tailandia.json"
+  },
+  {
+    "name": "Turquía",
+    "slug": "turquía",
+    "recipeCount": 5,
+    "dataFile": "recipes/turquía.json"
+  },
+  {
+    "name": "Ucrania",
+    "slug": "ucrania",
+    "recipeCount": 10,
+    "dataFile": "recipes/ucrania.json"
+  },
+  {
+    "name": "Venezuela",
+    "slug": "venezuela",
+    "recipeCount": 5,
+    "dataFile": "recipes/venezuela.json"
+  },
+  {
+    "name": "Vietnam",
+    "slug": "vietnam",
+    "recipeCount": 5,
+    "dataFile": "recipes/vietnam.json"
+  }
+]

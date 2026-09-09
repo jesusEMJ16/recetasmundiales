@@ -1,212 +1,360 @@
 [
   {
     "id": "tr-001",
-    "name": "Kebap",
-    "country": "Turquía",
-    "description": "Carne de cordero marinada y asada en brocheta vertical, servida en pan pita.",
+    "dishName": "Kebap",
+    "summary": "Carne de cordero marinada y asada en brocheta vertical, servida en pan pita.",
+    "placeId": "Turquía",
     "ingredients": [
-      "1kg de cordero en cubos",
-      "200g de grasa de cordero",
-      "1 cebolla rallada",
-      "2 dientes de ajo machacados",
-      "1 cucharadita de comino",
-      "1 cucharadita de pimentón",
-      "Sal y pimienta al gusto",
-      "Pan pita para servir"
+      {
+        "ingredient": "1kg de cordero en cubos"
+      },
+      {
+        "ingredient": "200g de grasa de cordero"
+      },
+      {
+        "ingredient": "1 cebolla rallada"
+      },
+      {
+        "ingredient": "2 dientes de ajo machacados"
+      },
+      {
+        "ingredient": "1 cucharadita de comino"
+      },
+      {
+        "ingredient": "1 cucharadita de pimentón"
+      },
+      {
+        "ingredient": "Sal y pimienta al gusto"
+      },
+      {
+        "ingredient": "Pan pita para servir"
+      }
     ],
-    "instructions": [
-      "Mezclar carne con cebolla, ajo y especias",
-      "Marinar mínimo 2 horas en refrigeración",
-      "Ensartar carne alternando con grasa en brocheta vertical",
-      "Asar lentamente girando la brocheta",
-      "Cortar lonchas finas conforme se dora",
-      "Servir en pan pita con verduras",
-      "Acompañar con yogur y sumac"
+    "steps": [
+      {
+        "step": "Mezclar carne con cebolla, ajo y especias",
+        "number": 1
+      },
+      {
+        "step": "Marinar mínimo 2 horas en refrigeración",
+        "number": 2
+      },
+      {
+        "step": "Ensartar carne alternando con grasa en brocheta vertical",
+        "number": 3
+      },
+      {
+        "step": "Asar lentamente girando la brocheta",
+        "number": 4
+      },
+      {
+        "step": "Cortar lonchas finas conforme se dora",
+        "number": 5
+      },
+      {
+        "step": "Servir en pan pita con verduras",
+        "number": 6
+      },
+      {
+        "step": "Acompañar con yogur y sumac",
+        "number": 7
+      }
     ],
-    "prepTime": 120,
+    "prepTimeMin": 120,
+    "cookTimeMin": 0,
+    "totalTimeMin": 120,
     "servings": 6,
+    "imageUrl": "/images/recipes/turquía/kebap.jpg",
+    "slug": "tr-001",
+    "cuisine": "turquía",
     "difficulty": "Media",
-    "tags": [
-      "cordero",
-      "brocheta",
-      "parrilla",
-      "otomano",
-      "gaziantep"
-    ],
-    "image": "/images/recipes/turquía/kebap.jpg",
-    "region": "Gaziantep",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Plato otomano del siglo XIX. Gaziantep es considerada la capital mundial del kebap con más de 20 variedades regionales."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "tr-002",
-    "name": "Baklava Turco",
-    "country": "Turquía",
-    "description": "Capas ultrafinas de masa yufka con pistachos y almíbar.",
+    "dishName": "Baklava Turco",
+    "summary": "Capas ultrafinas de masa yufka con pistachos y almíbar.",
+    "placeId": "Turquía",
     "ingredients": [
-      "500g de masa yufka (filo turco)",
-      "300g de pistachos molidos",
-      "250g de mantequilla clarificada",
-      "Para almíbar: 400g de azúcar, 300ml de agua, jugo de ½ limón"
+      {
+        "ingredient": "500g de masa yufka (filo turco)"
+      },
+      {
+        "ingredient": "300g de pistachos molidos"
+      },
+      {
+        "ingredient": "250g de mantequilla clarificada"
+      },
+      {
+        "ingredient": "Para almíbar: 400g de azúcar, 300ml de agua, jugo de ½ limón"
+      }
     ],
-    "instructions": [
-      "Preparar almíbar hirviendo ingredientes 15 minutos",
-      "Extender capas de yufka engrasadas con mantequilla",
-      "Cada 5 capas, espolvorear pistachos",
-      "Repetir hasta terminar ingredientes",
-      "Cortar en diamantes antes de hornear",
-      "Hornear 160°C por 45-50 minutos",
-      "Verter almíbar frío sobre baklava caliente",
-      "Dejar absorber toda la noche"
+    "steps": [
+      {
+        "step": "Preparar almíbar hirviendo ingredientes 15 minutos",
+        "number": 1
+      },
+      {
+        "step": "Extender capas de yufka engrasadas con mantequilla",
+        "number": 2
+      },
+      {
+        "step": "Cada 5 capas, espolvorear pistachos",
+        "number": 3
+      },
+      {
+        "step": "Repetir hasta terminar ingredientes",
+        "number": 4
+      },
+      {
+        "step": "Cortar en diamantes antes de hornear",
+        "number": 5
+      },
+      {
+        "step": "Hornear 160°C por 45-50 minutos",
+        "number": 6
+      },
+      {
+        "step": "Verter almíbar frío sobre baklava caliente",
+        "number": 7
+      },
+      {
+        "step": "Dejar absorber toda la noche",
+        "number": 8
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 20,
+    "imageUrl": "/images/recipes/turquía/baklava-turco.jpg",
+    "slug": "tr-002",
+    "cuisine": "turquía",
     "difficulty": "Alta",
-    "tags": [
-      "postre",
-      "pistacho",
-      "yufka",
-      "imperial",
-      "dulce"
-    ],
-    "image": "/images/recipes/turquía/baklava-turco.jpg",
-    "region": "Estambul",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Dulce imperial otomano servido en el Palacio Topkapi. Cada sultán tenía su propio maestro baklavacı."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "tr-003",
-    "name": "Menemen",
-    "country": "Turquía",
-    "description": "Revuelto de huevos con tomates, pimientos y especias turcas.",
+    "dishName": "Menemen",
+    "summary": "Revuelto de huevos con tomates, pimientos y especias turcas.",
+    "placeId": "Turquía",
     "ingredients": [
-      "6 huevos",
-      "4 tomates maduros picados",
-      "2 pimientos verdes picados",
-      "1 cebolla picada (opcional)",
-      "2 cucharadas de aceite de oliva",
-      "1 cucharadita de pimentón turco",
-      "Sal y pimienta al gusto",
-      "Perejil fresco para decorar"
+      {
+        "ingredient": "6 huevos"
+      },
+      {
+        "ingredient": "4 tomates maduros picados"
+      },
+      {
+        "ingredient": "2 pimientos verdes picados"
+      },
+      {
+        "ingredient": "1 cebolla picada (opcional)"
+      },
+      {
+        "ingredient": "2 cucharadas de aceite de oliva"
+      },
+      {
+        "ingredient": "1 cucharadita de pimentón turco"
+      },
+      {
+        "ingredient": "Sal y pimienta al gusto"
+      },
+      {
+        "ingredient": "Perejil fresco para decorar"
+      }
     ],
-    "instructions": [
-      "Calentar aceite y sofreír pimientos",
-      "Agregar cebolla si se usa, cocinar hasta transparente",
-      "Añadir tomates y cocinar hasta reducir líquido",
-      "Sazonar con pimentón, sal y pimienta",
-      "Batir huevos ligeramente y verter sobre verduras",
-      "Remover suavemente hasta cuajar parcialmente",
-      "Servir inmediatamente con pan turco",
-      "Decorar con perejil fresco"
+    "steps": [
+      {
+        "step": "Calentar aceite y sofreír pimientos",
+        "number": 1
+      },
+      {
+        "step": "Agregar cebolla si se usa, cocinar hasta transparente",
+        "number": 2
+      },
+      {
+        "step": "Añadir tomates y cocinar hasta reducir líquido",
+        "number": 3
+      },
+      {
+        "step": "Sazonar con pimentón, sal y pimienta",
+        "number": 4
+      },
+      {
+        "step": "Batir huevos ligeramente y verter sobre verduras",
+        "number": 5
+      },
+      {
+        "step": "Remover suavemente hasta cuajar parcialmente",
+        "number": 6
+      },
+      {
+        "step": "Servir inmediatamente con pan turco",
+        "number": 7
+      },
+      {
+        "step": "Decorar con perejil fresco",
+        "number": 8
+      }
     ],
-    "prepTime": 15,
+    "prepTimeMin": 15,
+    "cookTimeMin": 0,
+    "totalTimeMin": 15,
     "servings": 4,
+    "imageUrl": "/images/recipes/turquía/menemen.jpg",
+    "slug": "tr-003",
+    "cuisine": "turquía",
     "difficulty": "Fácil",
-    "tags": [
-      "huevos",
-      "tomate",
-      "desayuno",
-      "egeo",
-      "vegetariano"
-    ],
-    "image": "/images/recipes/turquía/menemen.jpg",
-    "region": "Egeo",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Desayuno tradicional del Egeo. El nombre viene del pueblo de Menemen cerca de İzmir."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "tr-004",
-    "name": "Lahmacun",
-    "country": "Turquía",
-    "description": "Pizza turca fina con carne picada, verduras y especias.",
+    "dishName": "Lahmacun",
+    "summary": "Pizza turca fina con carne picada, verduras y especias.",
+    "placeId": "Turquía",
     "ingredients": [
-      "Para masa: 500g de harina, 300ml de agua tibia, levadura, sal",
-      "Para topping: 300g de cordero picado",
-      "2 tomates picados",
-      "2 pimientos rojos picados",
-      "1 cebolla picada",
-      "Perejil fresco picado",
-      "Comino, pimentón, sal"
+      {
+        "ingredient": "Para masa: 500g de harina, 300ml de agua tibia, levadura, sal"
+      },
+      {
+        "ingredient": "Para topping: 300g de cordero picado"
+      },
+      {
+        "ingredient": "2 tomates picados"
+      },
+      {
+        "ingredient": "2 pimientos rojos picados"
+      },
+      {
+        "ingredient": "1 cebolla picada"
+      },
+      {
+        "ingredient": "Perejil fresco picado"
+      },
+      {
+        "ingredient": "Comino, pimentón, sal"
+      }
     ],
-    "instructions": [
-      "Preparar masa y dejar levar 1 hora",
-      "Dividir en 8 bolas y estirar muy finas",
-      "Mezclar carne con verduras picadas finamente",
-      "Sazonar generosamente con especias",
-      "Extender mezcla sobre cada masa",
-      "Hornear a máxima temperatura 10-12 minutos",
-      "Servir con limón, perejil y ayran"
+    "steps": [
+      {
+        "step": "Preparar masa y dejar levar 1 hora",
+        "number": 1
+      },
+      {
+        "step": "Dividir en 8 bolas y estirar muy finas",
+        "number": 2
+      },
+      {
+        "step": "Mezclar carne con verduras picadas finamente",
+        "number": 3
+      },
+      {
+        "step": "Sazonar generosamente con especias",
+        "number": 4
+      },
+      {
+        "step": "Extender mezcla sobre cada masa",
+        "number": 5
+      },
+      {
+        "step": "Hornear a máxima temperatura 10-12 minutos",
+        "number": 6
+      },
+      {
+        "step": "Servir con limón, perejil y ayran",
+        "number": 7
+      }
     ],
-    "prepTime": 45,
+    "prepTimeMin": 45,
+    "cookTimeMin": 0,
+    "totalTimeMin": 45,
     "servings": 8,
+    "imageUrl": "/images/recipes/turquía/lahmacun.jpg",
+    "slug": "tr-004",
+    "cuisine": "turquía",
     "difficulty": "Media",
-    "tags": [
-      "carne",
-      "masa fina",
-      "horno",
-      "callejero",
-      "sureste"
-    ],
-    "image": "/images/recipes/turquía/lahmacun.jpg",
-    "region": "Sanliurfa",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Originario del sureste de Turquía. Su nombre significa 'carne con masa' en árabe. Es comida callejera popular desde el Imperio Otomano."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "tr-005",
-    "name": "Iskender Kebap",
-    "country": "Turquía",
-    "description": "Lonchas de döner sobre pan pita, bañadas en salsa de tomate y mantequilla.",
+    "dishName": "Iskender Kebap",
+    "summary": "Lonchas de döner sobre pan pita, bañadas en salsa de tomate y mantequilla.",
+    "placeId": "Turquía",
     "ingredients": [
-      "500g de carne de cordero para döner",
-      "4 panes pita",
-      "200g de yogur griego",
-      "Para salsa: 200g de tomate triturado, 100g de mantequilla",
-      "Pimienta de Alepo al gusto"
+      {
+        "ingredient": "500g de carne de cordero para döner"
+      },
+      {
+        "ingredient": "4 panes pita"
+      },
+      {
+        "ingredient": "200g de yogur griego"
+      },
+      {
+        "ingredient": "Para salsa: 200g de tomate triturado, 100g de mantequilla"
+      },
+      {
+        "ingredient": "Pimienta de Alepo al gusto"
+      }
     ],
-    "instructions": [
-      "Cortar pan pita en cuadrados y tostar",
-      "Preparar döner o usar carne asada en lonchas finas",
-      "Colocar pan en plato, cubrir con carne",
-      "Preparar salsa de tomate caliente",
-      "Derretir mantequilla hasta dorar",
-      "Verter salsa de tomate sobre carne",
-      "Rociar con mantequilla dorada",
-      "Servir con yogur al lado"
+    "steps": [
+      {
+        "step": "Cortar pan pita en cuadrados y tostar",
+        "number": 1
+      },
+      {
+        "step": "Preparar döner o usar carne asada en lonchas finas",
+        "number": 2
+      },
+      {
+        "step": "Colocar pan en plato, cubrir con carne",
+        "number": 3
+      },
+      {
+        "step": "Preparar salsa de tomate caliente",
+        "number": 4
+      },
+      {
+        "step": "Derretir mantequilla hasta dorar",
+        "number": 5
+      },
+      {
+        "step": "Verter salsa de tomate sobre carne",
+        "number": 6
+      },
+      {
+        "step": "Rociar con mantequilla dorada",
+        "number": 7
+      },
+      {
+        "step": "Servir con yogur al lado",
+        "number": 8
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 4,
+    "imageUrl": "/images/recipes/turquía/iskender-kebap.jpg",
+    "slug": "tr-005",
+    "cuisine": "turquía",
     "difficulty": "Media",
-    "tags": [
-      "cordero",
-      "döner",
-      "salsa",
-      "bursa",
-      "clásico"
-    ],
-    "image": "/images/recipes/turquía/iskender-kebap.jpg",
-    "region": "Bursa",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Creado en 1867 por İskender Efendi en Bursa. Fue el primero en servir kebap horizontalmente en lugar de vertical."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

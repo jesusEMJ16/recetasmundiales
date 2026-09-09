@@ -1,211 +1,359 @@
 [
   {
     "id": "nz-001",
-    "name": "Hangi",
-    "country": "Nueva Zelanda",
-    "description": "Carne y verduras cocidas lentamente en horno subterráneo geotérmico.",
+    "dishName": "Hangi",
+    "summary": "Carne y verduras cocidas lentamente en horno subterráneo geotérmico.",
+    "placeId": "Nueva Zelanda",
     "ingredients": [
-      "2kg de cordero en trozos grandes",
-      "1kg de papas kumara (camote)",
-      "1kg de papas normales",
-      "500g de zanahorias",
-      "1 repollo cortado en cuartos",
-      "Hojas de plátano o aluminio para envolver",
-      "Piedras volcánicas calientes (tradicional)"
+      {
+        "ingredient": "2kg de cordero en trozos grandes"
+      },
+      {
+        "ingredient": "1kg de papas kumara (camote)"
+      },
+      {
+        "ingredient": "1kg de papas normales"
+      },
+      {
+        "ingredient": "500g de zanahorias"
+      },
+      {
+        "ingredient": "1 repollo cortado en cuartos"
+      },
+      {
+        "ingredient": "Hojas de plátano o aluminio para envolver"
+      },
+      {
+        "ingredient": "Piedras volcánicas calientes (tradicional)"
+      }
     ],
-    "instructions": [
-      "Cavar hoyo en tierra de 1 metro de profundidad",
-      "Calentar piedras volcánicas hasta rojo vivo",
-      "Colocar piedras en fondo del hoyo",
-      "Envolver carnes y verduras en hojas",
-      "Disponer sobre piedras en capas",
-      "Cubrir con tierra para sellar calor",
-      "Cocinar 3-4 horas lentamente",
-      "Desenterrar y servir inmediatamente"
+    "steps": [
+      {
+        "step": "Cavar hoyo en tierra de 1 metro de profundidad",
+        "number": 1
+      },
+      {
+        "step": "Calentar piedras volcánicas hasta rojo vivo",
+        "number": 2
+      },
+      {
+        "step": "Colocar piedras en fondo del hoyo",
+        "number": 3
+      },
+      {
+        "step": "Envolver carnes y verduras en hojas",
+        "number": 4
+      },
+      {
+        "step": "Disponer sobre piedras en capas",
+        "number": 5
+      },
+      {
+        "step": "Cubrir con tierra para sellar calor",
+        "number": 6
+      },
+      {
+        "step": "Cocinar 3-4 horas lentamente",
+        "number": 7
+      },
+      {
+        "step": "Desenterrar y servir inmediatamente",
+        "number": 8
+      }
     ],
-    "prepTime": 60,
+    "prepTimeMin": 60,
+    "cookTimeMin": 0,
+    "totalTimeMin": 60,
     "servings": 12,
+    "imageUrl": "/images/recipes/nueva-zelanda/hangi.jpg",
+    "slug": "nz-001",
+    "cuisine": "nueva-zelanda",
     "difficulty": "Alta",
-    "tags": [
-      "cordero",
-      "horno subterráneo",
-      "maorí",
-      "tradicional",
-      "geotérmico"
-    ],
-    "image": "/images/recipes/nueva-zelanda/hangi.jpg",
-    "region": "Rotorua",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Método de cocción maorí tradicional usado por siglos antes de la llegada europea. Aún se prepara para ocasiones especiales."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "nz-002",
-    "name": "Pavlova",
-    "country": "Nueva Zelanda",
-    "description": "Merengue crujiente por fuera, suave por dentro, con crema y frutas frescas.",
+    "dishName": "Pavlova",
+    "summary": "Merengue crujiente por fuera, suave por dentro, con crema y frutas frescas.",
+    "placeId": "Nueva Zelanda",
     "ingredients": [
-      "6 claras de huevo a temperatura ambiente",
-      "350g de azúcar blanca",
-      "2 cucharaditas de vinagre blanco",
-      "2 cucharaditas de maicena",
-      "1 cucharadita de extracto de vainilla",
-      "500ml de crema para batir",
-      "Frutas frescas: kiwi, fresas, maracuyá, frambuesas"
+      {
+        "ingredient": "6 claras de huevo a temperatura ambiente"
+      },
+      {
+        "ingredient": "350g de azúcar blanca"
+      },
+      {
+        "ingredient": "2 cucharaditas de vinagre blanco"
+      },
+      {
+        "ingredient": "2 cucharaditas de maicena"
+      },
+      {
+        "ingredient": "1 cucharadita de extracto de vainilla"
+      },
+      {
+        "ingredient": "500ml de crema para batir"
+      },
+      {
+        "ingredient": "Frutas frescas: kiwi, fresas, maracuyá, frambuesas"
+      }
     ],
-    "instructions": [
-      "Precalentar horno a 150°C, preparar molde con papel manteca",
-      "Batir claras hasta punto de nieve firme",
-      "Agregar azúcar gradualmente hasta brillo intenso",
-      "Incorporar vinagre, maicena y vainilla suavemente",
-      "Formar círculo en bandeja, crear depresión central",
-      "Bajar temperatura a 120°C y hornear 1 hora",
-      "Apagar horno y dejar enfriar dentro con puerta entreabierta",
-      "Cubrir con crema batida y frutas al servir"
+    "steps": [
+      {
+        "step": "Precalentar horno a 150°C, preparar molde con papel manteca",
+        "number": 1
+      },
+      {
+        "step": "Batir claras hasta punto de nieve firme",
+        "number": 2
+      },
+      {
+        "step": "Agregar azúcar gradualmente hasta brillo intenso",
+        "number": 3
+      },
+      {
+        "step": "Incorporar vinagre, maicena y vainilla suavemente",
+        "number": 4
+      },
+      {
+        "step": "Formar círculo en bandeja, crear depresión central",
+        "number": 5
+      },
+      {
+        "step": "Bajar temperatura a 120°C y hornear 1 hora",
+        "number": 6
+      },
+      {
+        "step": "Apagar horno y dejar enfriar dentro con puerta entreabierta",
+        "number": 7
+      },
+      {
+        "step": "Cubrir con crema batida y frutas al servir",
+        "number": 8
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 8,
+    "imageUrl": "/images/recipes/nueva-zelanda/pavlova.jpg",
+    "slug": "nz-002",
+    "cuisine": "nueva-zelanda",
     "difficulty": "Media",
-    "tags": [
-      "merengue",
-      "postre",
-      "frutas",
-      "crema",
-      "clásico"
-    ],
-    "image": "/images/recipes/nueva-zelanda/pavlova.jpg",
-    "region": "Auckland",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Creado en honor a la bailarina rusa Anna Pavlova en los años 1920. NZ y Australia disputan su origen."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "nz-003",
-    "name": "Green Lipped Mussels",
-    "country": "Nueva Zelanda",
-    "description": "Mejillones de labio verde al vapor con vino blanco y hierbas.",
+    "dishName": "Green Lipped Mussels",
+    "summary": "Mejillones de labio verde al vapor con vino blanco y hierbas.",
+    "placeId": "Nueva Zelanda",
     "ingredients": [
-      "2kg de mejillones de labio verde frescos",
-      "250ml de vino blanco Sauvignon Blanc",
-      "4 chalotas picadas finamente",
-      "3 dientes de ajo picados",
-      "50g de mantequilla",
-      "Perejil fresco picado",
-      "Pan crusty para acompañar"
+      {
+        "ingredient": "2kg de mejillones de labio verde frescos"
+      },
+      {
+        "ingredient": "250ml de vino blanco Sauvignon Blanc"
+      },
+      {
+        "ingredient": "4 chalotas picadas finamente"
+      },
+      {
+        "ingredient": "3 dientes de ajo picados"
+      },
+      {
+        "ingredient": "50g de mantequilla"
+      },
+      {
+        "ingredient": "Perejil fresco picado"
+      },
+      {
+        "ingredient": "Pan crusty para acompañar"
+      }
     ],
-    "instructions": [
-      "Limpiar mejillones, retirar barbas y descartar abiertos",
-      "Derretir mantequilla en olla grande",
-      "Sofreír chalotas y ajo hasta fragantes",
-      "Añadir vino blanco y llevar a ebullición",
-      "Agregar mejillones y tapar",
-      "Cocinar 5-7 minutos hasta que abran",
-      "Descartar mejillones que no abrieron",
-      "Servir con perejil y pan para mojar el caldo"
+    "steps": [
+      {
+        "step": "Limpiar mejillones, retirar barbas y descartar abiertos",
+        "number": 1
+      },
+      {
+        "step": "Derretir mantequilla en olla grande",
+        "number": 2
+      },
+      {
+        "step": "Sofreír chalotas y ajo hasta fragantes",
+        "number": 3
+      },
+      {
+        "step": "Añadir vino blanco y llevar a ebullición",
+        "number": 4
+      },
+      {
+        "step": "Agregar mejillones y tapar",
+        "number": 5
+      },
+      {
+        "step": "Cocinar 5-7 minutos hasta que abran",
+        "number": 6
+      },
+      {
+        "step": "Descartar mejillones que no abrieron",
+        "number": 7
+      },
+      {
+        "step": "Servir con perejil y pan para mojar el caldo",
+        "number": 8
+      }
     ],
-    "prepTime": 20,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "totalTimeMin": 20,
     "servings": 4,
+    "imageUrl": "/images/recipes/nueva-zelanda/green-lipped-mussels.jpg",
+    "slug": "nz-003",
+    "cuisine": "nueva-zelanda",
     "difficulty": "Fácil",
-    "tags": [
-      "mejillones",
-      "mariscos",
-      "vino blanco",
-      "marlborough",
-      "endémico"
-    ],
-    "image": "/images/recipes/nueva-zelanda/green-lipped-mussels.jpg",
-    "region": "Marlborough Sounds",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Especie endémica de NZ cultivada comercialmente desde los años 1970. Considerados de los mejores del mundo."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "nz-004",
-    "name": "Lamb Roast with Mint Sauce",
-    "country": "Nueva Zelanda",
-    "description": "Pierna de cordero asada con salsa de menta fresca.",
+    "dishName": "Lamb Roast with Mint Sauce",
+    "summary": "Pierna de cordero asada con salsa de menta fresca.",
+    "placeId": "Nueva Zelanda",
     "ingredients": [
-      "1 pierna de cordero entera (aprox. 2.5kg)",
-      "6 ramas de romero fresco",
-      "6 dientes de ajo en láminas",
-      "Aceite de oliva virgen extra",
-      "Sal marina y pimienta negra",
-      "Para salsa de menta: 100g de hojas de menta, 2 cucharadas de azúcar, 100ml de vinagre de vino blanco"
+      {
+        "ingredient": "1 pierna de cordero entera (aprox. 2.5kg)"
+      },
+      {
+        "ingredient": "6 ramas de romero fresco"
+      },
+      {
+        "ingredient": "6 dientes de ajo en láminas"
+      },
+      {
+        "ingredient": "Aceite de oliva virgen extra"
+      },
+      {
+        "ingredient": "Sal marina y pimienta negra"
+      },
+      {
+        "ingredient": "Para salsa de menta: 100g de hojas de menta, 2 cucharadas de azúcar, 100ml de vinagre de vino blanco"
+      }
     ],
-    "instructions": [
-      "Hacer incisiones en el cordero e insertar ajo y romero",
-      "Masajear con aceite, sal y pimienta",
-      "Dejar a temperatura ambiente 1 hora",
-      "Asar a 200°C por 20 min, luego bajar a 160°C por 90 min",
-      "Para salsa: picar menta finamente, mezclar con azúcar y vinagre",
-      "Retirar cordero cuando termómetro marque 60°C interno",
-      "Reposar 20 minutos antes de tallar",
-      "Servir con salsa de menta y verduras asadas"
+    "steps": [
+      {
+        "step": "Hacer incisiones en el cordero e insertar ajo y romero",
+        "number": 1
+      },
+      {
+        "step": "Masajear con aceite, sal y pimienta",
+        "number": 2
+      },
+      {
+        "step": "Dejar a temperatura ambiente 1 hora",
+        "number": 3
+      },
+      {
+        "step": "Asar a 200°C por 20 min, luego bajar a 160°C por 90 min",
+        "number": 4
+      },
+      {
+        "step": "Para salsa: picar menta finamente, mezclar con azúcar y vinagre",
+        "number": 5
+      },
+      {
+        "step": "Retirar cordero cuando termómetro marque 60°C interno",
+        "number": 6
+      },
+      {
+        "step": "Reposar 20 minutos antes de tallar",
+        "number": 7
+      },
+      {
+        "step": "Servir con salsa de menta y verduras asadas",
+        "number": 8
+      }
     ],
-    "prepTime": 30,
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 30,
     "servings": 8,
+    "imageUrl": "/images/recipes/nueva-zelanda/lamb-roast-with-mint-sauce.jpg",
+    "slug": "nz-004",
+    "cuisine": "nueva-zelanda",
     "difficulty": "Media",
-    "tags": [
-      "cordero",
-      "asado",
-      "menta",
-      "domingo",
-      "tradicional"
-    ],
-    "image": "/images/recipes/nueva-zelanda/lamb-roast-with-mint-sauce.jpg",
-    "region": "Canterbury",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "NZ es mayor exportador mundial de cordero. El asado dominical es tradición familiar desde la colonización británica."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "nz-005",
-    "name": "Hokey Pokey Ice Cream",
-    "country": "Nueva Zelanda",
-    "description": "Helado de vainilla con trozos de caramelo aireado.",
+    "dishName": "Hokey Pokey Ice Cream",
+    "summary": "Helado de vainilla con trozos de caramelo aireado.",
+    "placeId": "Nueva Zelanda",
     "ingredients": [
-      "Para helado: 500ml de crema espesa, 400ml de leche condensada, 2 cucharaditas de extracto de vainilla",
-      "Para hokey pokey: 100g de azúcar, 2 cucharadas de jarabe de maíz, 1 cucharadita de bicarbonato"
+      {
+        "ingredient": "Para helado: 500ml de crema espesa, 400ml de leche condensada, 2 cucharaditas de extracto de vainilla"
+      },
+      {
+        "ingredient": "Para hokey pokey: 100g de azúcar, 2 cucharadas de jarabe de maíz, 1 cucharadita de bicarbonato"
+      }
     ],
-    "instructions": [
-      "Batir crema hasta punto medio",
-      "Incorporar leche condensada y vainilla suavemente",
-      "Verter en molde y congelar 4 horas",
-      "Para caramelo: derretir azúcar con jarabe hasta dorar",
-      "Retirar del fuego y añadir bicarbonato rápidamente",
-      "Verter sobre superficie engrasada y dejar endurecer",
-      "Romper en trozos pequeños",
-      "Picar helado parcialmente congelado y mezclar con caramelo"
+    "steps": [
+      {
+        "step": "Batir crema hasta punto medio",
+        "number": 1
+      },
+      {
+        "step": "Incorporar leche condensada y vainilla suavemente",
+        "number": 2
+      },
+      {
+        "step": "Verter en molde y congelar 4 horas",
+        "number": 3
+      },
+      {
+        "step": "Para caramelo: derretir azúcar con jarabe hasta dorar",
+        "number": 4
+      },
+      {
+        "step": "Retirar del fuego y añadir bicarbonato rápidamente",
+        "number": 5
+      },
+      {
+        "step": "Verter sobre superficie engrasada y dejar endurecer",
+        "number": 6
+      },
+      {
+        "step": "Romper en trozos pequeños",
+        "number": 7
+      },
+      {
+        "step": "Picar helado parcialmente congelado y mezclar con caramelo",
+        "number": 8
+      }
     ],
-    "prepTime": 45,
+    "prepTimeMin": 45,
+    "cookTimeMin": 0,
+    "totalTimeMin": 45,
     "servings": 10,
+    "imageUrl": "/images/recipes/nueva-zelanda/hokey-pokey-ice-cream.jpg",
+    "slug": "nz-005",
+    "cuisine": "nueva-zelanda",
     "difficulty": "Media",
-    "tags": [
-      "helado",
-      "caramelo",
-      "vainilla",
-      "postre",
-      "icónico"
-    ],
-    "image": "/images/recipes/nueva-zelanda/hokey-pokey-ice-cream.jpg",
-    "region": "Taranaki",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Sabor icónico neozelandés desde los años 1920. El nombre viene de una canción popular de la época."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]

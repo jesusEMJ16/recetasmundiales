@@ -1,214 +1,358 @@
 [
   {
     "id": "mx-tacos-al-pastor",
-    "name": "Tacos al Pastor",
-    "country": "México",
-    "description": "Deliciosos tacos de cerdo marinado con achiote y piña, cocinados en trompo vertical.",
+    "dishName": "Tacos al Pastor",
+    "summary": "Deliciosos tacos de cerdo marinado con achiote y piña, cocinados en trompo vertical.",
+    "placeId": "México",
     "ingredients": [
-      "1 kg de carne de cerdo en rebanadas delgadas",
-      "3 chiles guajillos",
-      "2 chiles anchos",
-      "1/4 taza de vinagre",
-      "1 cucharada de achiote",
-      "3 dientes de ajo",
-      "1 piña fresca",
-      "Cilantro fresco",
-      "Cebolla blanca picada",
-      "Tortillas de maíz"
+      {
+        "ingredient": "1 kg de carne de cerdo en rebanadas delgadas"
+      },
+      {
+        "ingredient": "3 chiles guajillos"
+      },
+      {
+        "ingredient": "2 chiles anchos"
+      },
+      {
+        "ingredient": "1/4 taza de vinagre"
+      },
+      {
+        "ingredient": "1 cucharada de achiote"
+      },
+      {
+        "ingredient": "3 dientes de ajo"
+      },
+      {
+        "ingredient": "1 piña fresca"
+      },
+      {
+        "ingredient": "Cilantro fresco"
+      },
+      {
+        "ingredient": "Cebolla blanca picada"
+      },
+      {
+        "ingredient": "Tortillas de maíz"
+      }
     ],
-    "instructions": [
-      "Hidratar los chiles en agua caliente por 15 minutos.",
-      "Licuar chiles con vinagre, achiote, ajo y especias.",
-      "Marinar la carne de cerdo por al menos 4 horas o toda la noche.",
-      "Colocar la carne en capas formando un trompo (o usar sartén).",
-      "Cocinar girando constantemente hasta dorar.",
-      "Rebanar finamente y servir en tortillas calientes.",
-      "Agregar piña asada, cilantro, cebolla y salsa al gusto."
+    "steps": [
+      {
+        "step": "Hidratar los chiles en agua caliente por 15 minutos.",
+        "number": 1
+      },
+      {
+        "step": "Licuar chiles con vinagre, achiote, ajo y especias.",
+        "number": 2
+      },
+      {
+        "step": "Marinar la carne de cerdo por al menos 4 horas o toda la noche.",
+        "number": 3
+      },
+      {
+        "step": "Colocar la carne en capas formando un trompo (o usar sartén).",
+        "number": 4
+      },
+      {
+        "step": "Cocinar girando constantemente hasta dorar.",
+        "number": 5
+      },
+      {
+        "step": "Rebanar finamente y servir en tortillas calientes.",
+        "number": 6
+      },
+      {
+        "step": "Agregar piña asada, cilantro, cebolla y salsa al gusto.",
+        "number": 7
+      }
     ],
-    "prepTime": 240,
+    "prepTimeMin": 240,
+    "cookTimeMin": 0,
+    "totalTimeMin": 240,
     "servings": 6,
+    "imageUrl": "/images/recipes/méxico/tacos-al-pastor.jpg",
+    "slug": "mx-tacos-al-pastor",
+    "cuisine": "méxico",
     "difficulty": "Media",
-    "tags": [
-      "tacos",
-      "mexicano",
-      "callejero",
-      "cerdo",
-      "tradicional"
-    ],
-    "image": "/images/recipes/méxico/tacos-al-pastor.jpg",
-    "region": "Ciudad de México",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Los tacos al pastor surgieron en la Ciudad de México en los años 1930, creados por inmigrantes libaneses que adaptaron el shawarma árabe usando ingredientes mexicanos. El trompo vertical y la técnica de cocción son herencia directa del método árabe, pero con chiles, achiote y piña que lo hicieron completamente mexicano."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "mx-mole-poblano",
-    "name": "Mole Poblano",
-    "country": "México",
-    "description": "Salsa compleja y aromática con chocolate, chiles y especias, servida sobre pollo.",
+    "dishName": "Mole Poblano",
+    "summary": "Salsa compleja y aromática con chocolate, chiles y especias, servida sobre pollo.",
+    "placeId": "México",
     "ingredients": [
-      "6 chiles mulatos",
-      "4 chiles anchos",
-      "3 chiles pasillas",
-      "1/4 taza de almendras",
-      "1/4 taza de pasas",
-      "2 tortillas fritas",
-      "1 barra de chocolate mexicano",
-      "Canela, clavo, anís",
-      "Sésamo tostado",
-      "Pollo cocido"
+      {
+        "ingredient": "6 chiles mulatos"
+      },
+      {
+        "ingredient": "4 chiles anchos"
+      },
+      {
+        "ingredient": "3 chiles pasillas"
+      },
+      {
+        "ingredient": "1/4 taza de almendras"
+      },
+      {
+        "ingredient": "1/4 taza de pasas"
+      },
+      {
+        "ingredient": "2 tortillas fritas"
+      },
+      {
+        "ingredient": "1 barra de chocolate mexicano"
+      },
+      {
+        "ingredient": "Canela, clavo, anís"
+      },
+      {
+        "ingredient": "Sésamo tostado"
+      },
+      {
+        "ingredient": "Pollo cocido"
+      }
     ],
-    "instructions": [
-      "Tostar ligeramente todos los chiles y remojar en agua caliente.",
-      "Freír por separado almendras, pasas, tortillas y especias.",
-      "Licuar todo con caldo de pollo hasta obtener pasta suave.",
-      "Cocer la salsa a fuego lento por 45 minutos revolviendo constantemente.",
-      "Agregar el chocolate y ajustar sazón.",
-      "Servir sobre pollo espolvoreado con ajonjolí."
+    "steps": [
+      {
+        "step": "Tostar ligeramente todos los chiles y remojar en agua caliente.",
+        "number": 1
+      },
+      {
+        "step": "Freír por separado almendras, pasas, tortillas y especias.",
+        "number": 2
+      },
+      {
+        "step": "Licuar todo con caldo de pollo hasta obtener pasta suave.",
+        "number": 3
+      },
+      {
+        "step": "Cocer la salsa a fuego lento por 45 minutos revolviendo constantemente.",
+        "number": 4
+      },
+      {
+        "step": "Agregar el chocolate y ajustar sazón.",
+        "number": 5
+      },
+      {
+        "step": "Servir sobre pollo espolvoreado con ajonjolí.",
+        "number": 6
+      }
     ],
-    "prepTime": 180,
+    "prepTimeMin": 180,
+    "cookTimeMin": 0,
+    "totalTimeMin": 180,
     "servings": 8,
+    "imageUrl": "/images/recipes/méxico/mole-poblano.jpg",
+    "slug": "mx-mole-poblano",
+    "cuisine": "méxico",
     "difficulty": "Difícil",
-    "tags": [
-      "mole",
-      "poblano",
-      "pollo",
-      "chocolate",
-      "festivo"
-    ],
-    "image": "/images/recipes/méxico/mole-poblano.jpg",
-    "region": "Puebla",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "El mole poblano es considerado el platillo nacional de México. La leyenda cuenta que fue creado en el Convento de Santa Rosa en Puebla durante el siglo XVII por monjas que querían honrar a un virrey visitante. Combinaron ingredientes indígenas y españoles creando esta obra maestra culinaria que representa la fusión cultural mexicana."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "mx-cochinita-pibil",
-    "name": "Cochinita Pibil",
-    "country": "México",
-    "description": "Cerdo marinado en achiote y naranja agria, cocinado lentamente envuelto en hojas de plátano.",
+    "dishName": "Cochinita Pibil",
+    "summary": "Cerdo marinado en achiote y naranja agria, cocinado lentamente envuelto en hojas de plátano.",
+    "placeId": "México",
     "ingredients": [
-      "2 kg de carne de cerdo (pierna o espalda)",
-      "3 cucharadas de pasta de achiote",
-      "1/2 taza de jugo de naranja agria",
-      "4 dientes de ajo",
-      "Comino, orégano, pimienta",
-      "Hojas de plátano",
-      "Cebolla morada encurtida",
-      "Habenero"
+      {
+        "ingredient": "2 kg de carne de cerdo (pierna o espalda)"
+      },
+      {
+        "ingredient": "3 cucharadas de pasta de achiote"
+      },
+      {
+        "ingredient": "1/2 taza de jugo de naranja agria"
+      },
+      {
+        "ingredient": "4 dientes de ajo"
+      },
+      {
+        "ingredient": "Comino, orégano, pimienta"
+      },
+      {
+        "ingredient": "Hojas de plátano"
+      },
+      {
+        "ingredient": "Cebolla morada encurtida"
+      },
+      {
+        "ingredient": "Habenero"
+      }
     ],
-    "instructions": [
-      "Mezclar achiote con naranja agria, ajo y especias.",
-      "Marinar la carne por al menos 4 horas.",
-      "Envolver la carne en hojas de plátano previamente flameadas.",
-      "Cocinar en horno a 160°C por 3-4 horas hasta deshacerse.",
-      "Dejar reposar 15 minutos antes de deshebrar.",
-      "Servir con cebolla encurtida y tortillas."
+    "steps": [
+      {
+        "step": "Mezclar achiote con naranja agria, ajo y especias.",
+        "number": 1
+      },
+      {
+        "step": "Marinar la carne por al menos 4 horas.",
+        "number": 2
+      },
+      {
+        "step": "Envolver la carne en hojas de plátano previamente flameadas.",
+        "number": 3
+      },
+      {
+        "step": "Cocinar en horno a 160°C por 3-4 horas hasta deshacerse.",
+        "number": 4
+      },
+      {
+        "step": "Dejar reposar 15 minutos antes de deshebrar.",
+        "number": 5
+      },
+      {
+        "step": "Servir con cebolla encurtida y tortillas.",
+        "number": 6
+      }
     ],
-    "prepTime": 300,
+    "prepTimeMin": 300,
+    "cookTimeMin": 0,
+    "totalTimeMin": 300,
     "servings": 8,
+    "imageUrl": "/images/recipes/méxico/cochinita-pibil.jpg",
+    "slug": "mx-cochinita-pibil",
+    "cuisine": "méxico",
     "difficulty": "Media",
-    "tags": [
-      "yucateco",
-      "cerdo",
-      "achiote",
-      "maya",
-      "tradicional"
-    ],
-    "image": "/images/recipes/méxico/cochinita-pibil.jpg",
-    "region": "Yucatán",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "La cochinita pibil es el platillo emblemático de la gastronomía yucateca. Su nombre viene del maya 'pib' que significa 'enterrado', ya que tradicionalmente se cocinaba en un hoyo bajo tierra con piedras calientes. Es una receta precolombina que ha sobrevivido casi intacta hasta hoy, representando la esencia de la cultura maya."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "mx-chiles-en-nogada",
-    "name": "Chiles en Nogada",
-    "country": "México",
-    "description": "Chiles poblanos rellenos de picadillo, cubiertos con salsa de nuez y granada. Colores de la bandera mexicana.",
+    "dishName": "Chiles en Nogada",
+    "summary": "Chiles poblanos rellenos de picadillo, cubiertos con salsa de nuez y granada. Colores de la bandera mexicana.",
+    "placeId": "México",
     "ingredients": [
-      "8 chiles poblanos grandes",
-      "500g de carne molida (cerdo y res)",
-      "Frutas de temporada (manzana, pera, durazno)",
-      "Nuez de castilla",
-      "Queso fresco",
-      "Granada",
-      "Especias: canela, clavo"
+      {
+        "ingredient": "8 chiles poblanos grandes"
+      },
+      {
+        "ingredient": "500g de carne molida (cerdo y res)"
+      },
+      {
+        "ingredient": "Frutas de temporada (manzana, pera, durazno)"
+      },
+      {
+        "ingredient": "Nuez de castilla"
+      },
+      {
+        "ingredient": "Queso fresco"
+      },
+      {
+        "ingredient": "Granada"
+      },
+      {
+        "ingredient": "Especias: canela, clavo"
+      }
     ],
-    "instructions": [
-      "Asar y pelar los chiles, hacer corte lateral y desvenar.",
-      "Preparar picadillo con carne, frutas picadas y especias.",
-      "Rellenar los chiles con el picadillo caliente.",
-      "Preparar nogada licuando nuez con queso y leche.",
-      "Bañar los chiles con nogada fría.",
-      "Decorar con granada y perejil."
+    "steps": [
+      {
+        "step": "Asar y pelar los chiles, hacer corte lateral y desvenar.",
+        "number": 1
+      },
+      {
+        "step": "Preparar picadillo con carne, frutas picadas y especias.",
+        "number": 2
+      },
+      {
+        "step": "Rellenar los chiles con el picadillo caliente.",
+        "number": 3
+      },
+      {
+        "step": "Preparar nogada licuando nuez con queso y leche.",
+        "number": 4
+      },
+      {
+        "step": "Bañar los chiles con nogada fría.",
+        "number": 5
+      },
+      {
+        "step": "Decorar con granada y perejil.",
+        "number": 6
+      }
     ],
-    "prepTime": 120,
+    "prepTimeMin": 120,
+    "cookTimeMin": 0,
+    "totalTimeMin": 120,
     "servings": 8,
+    "imageUrl": "/images/recipes/méxico/chiles-en-nogada.jpg",
+    "slug": "mx-chiles-en-nogada",
+    "cuisine": "méxico",
     "difficulty": "Difícil",
-    "tags": [
-      "poblano",
-      "independencia",
-      "estacional",
-      "nogada",
-      "festivo"
-    ],
-    "image": "/images/recipes/méxico/chiles-en-nogada.jpg",
-    "region": "Puebla",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "Los chiles en nogada fueron creados en 1821 por las monjas agustinas del convento de Santa Mónica en Puebla para celebrar la firma del Tratado de Córdoba que dio independencia a México. Los colores verde (perejil), blanco (nogada) y rojo (granada) representan la bandera del ejército tricolor. Es un platillo estacional que solo se prepara entre julio y septiembre."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   },
   {
     "id": "mx-sopa-de-lima",
-    "name": "Sopa de Lima",
-    "country": "México",
-    "description": "Sopa ligera y aromática con lima yucateca, pollo y tortillas fritas.",
+    "dishName": "Sopa de Lima",
+    "summary": "Sopa ligera y aromática con lima yucateca, pollo y tortillas fritas.",
+    "placeId": "México",
     "ingredients": [
-      "1 pollo entero",
-      "6 limas yucatecas",
-      "2 jitomates",
-      "1 cebolla",
-      "Tortillas de maíz fritas",
-      "Aguacate",
-      "Cilantro"
+      {
+        "ingredient": "1 pollo entero"
+      },
+      {
+        "ingredient": "6 limas yucatecas"
+      },
+      {
+        "ingredient": "2 jitomates"
+      },
+      {
+        "ingredient": "1 cebolla"
+      },
+      {
+        "ingredient": "Tortillas de maíz fritas"
+      },
+      {
+        "ingredient": "Aguacate"
+      },
+      {
+        "ingredient": "Cilantro"
+      }
     ],
-    "instructions": [
-      "Cocer el pollo con verduras para obtener buen caldo.",
-      "Deshebrar la carne y reservar.",
-      "Sofreír jitomate y cebolla, agregar al caldo.",
-      "Añadir el jugo y ralladura de lima.",
-      "Servir con pollo, tortillas fritas y aguacate."
+    "steps": [
+      {
+        "step": "Cocer el pollo con verduras para obtener buen caldo.",
+        "number": 1
+      },
+      {
+        "step": "Deshebrar la carne y reservar.",
+        "number": 2
+      },
+      {
+        "step": "Sofreír jitomate y cebolla, agregar al caldo.",
+        "number": 3
+      },
+      {
+        "step": "Añadir el jugo y ralladura de lima.",
+        "number": 4
+      },
+      {
+        "step": "Servir con pollo, tortillas fritas y aguacate.",
+        "number": 5
+      }
     ],
-    "prepTime": 90,
+    "prepTimeMin": 90,
+    "cookTimeMin": 0,
+    "totalTimeMin": 90,
     "servings": 6,
+    "imageUrl": "/images/recipes/méxico/sopa-de-lima.jpg",
+    "slug": "mx-sopa-de-lima",
+    "cuisine": "méxico",
     "difficulty": "Fácil",
-    "tags": [
-      "sopa",
-      "yucateco",
-      "lima",
-      "pollo",
-      "ligero"
-    ],
-    "image": "/images/recipes/méxico/sopa-de-lima.jpg",
-    "region": "Yucatán",
-    "city": "",
-    "coordinates": [
-      0,
-      0
-    ],
-    "history": "La sopa de lima es otro tesoro de la cocina yucateca. Se dice que fue creada accidentalmente cuando una cocinera agregó lima a una sopa de pollo que estaba muy simple. La lima yucateca, más pequeña y aromática que el limón común, es esencial para el sabor auténtico de este plato."
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
   }
 ]
