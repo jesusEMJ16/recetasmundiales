@@ -1,0 +1,439 @@
+[
+  {
+    "id": "r-mal-001",
+    "dishName": "Nasi Lemak (Arroz en Leche de Coco)",
+    "slug": "nasi-lemak-(arroz-en-leche-de-coco)",
+    "placeId": "my-kl",
+    "summary": "Arroz fragante cocinado en leche de coco y pandano, servido con sambal picante, anchoas fritas, cacahuetes, huevo y pepino. Plato nacional malasio.",
+    "history": "El nasi lemak ('arroz afortunado') es plato tradicional malayo que data de siglos. Originalmente desayuno de pescadores, ahora se consume todo el día. La combinación de arroz cremoso con sambal picante representa la esencia de la cocina malaya. Es símbolo de identidad nacional.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400g de arroz jazmín"
+      },
+      {
+        "text": "400ml de leche de coco"
+      },
+      {
+        "text": "200ml de agua"
+      },
+      {
+        "text": "2 hojas de pandano atadas"
+      },
+      {
+        "text": "1 trozo de jengibre machacado"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "Para sambal: 10 chiles rojos secos remojados"
+      },
+      {
+        "text": "5 chalotas"
+      },
+      {
+        "text": "3 dientes de ajo"
+      },
+      {
+        "text": "2 cucharadas de pasta de camarón (belacan)"
+      },
+      {
+        "text": "1 cucharada de tamarindo"
+      },
+      {
+        "text": "Azúcar de palma"
+      },
+      {
+        "text": "100g de anchoas pequeñas (ikan bilis)"
+      },
+      {
+        "text": "100g de cacahuetes fritos"
+      },
+      {
+        "text": "4 huevos duros o fritos"
+      },
+      {
+        "text": "1 pepino en rodajas"
+      },
+      {
+        "text": "Hojas de plátano para servir"
+      }
+    ],
+    "steps": [
+      "Lavar arroz hasta agua clara.",
+      "Cocinar arroz con leche de coco, agua, pandano, jengibre y sal.",
+      "Usar olla arrocera o cocinar tapado 18 minutos.",
+      "Para sambal: moler chiles, chalotas, ajo y belacan hasta pasta.",
+      "Sofreír pasta 5 minutos, añadir tamarindo y azúcar.",
+      "Cocinar hasta aceite separarse y salsa espesa.",
+      "Freír anchoas hasta crujientes, escurrir.",
+      "Freír cacahuetes hasta dorados.",
+      "Freír huevos si prefiere sobre duros.",
+      "Montar en hojas de plátano: arroz, sambal, anchoas, cacahuetes, huevo, pepino.",
+      "Servir inmediatamente."
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 142,
+    "popularityScore": 66,
+    "publishedAt": "2024-07-01",
+    "image": "/images/recipes/malasia/nasi-lemak-(arroz-en-leche-de-coco).jpg",
+    "sources": [
+      "Cocina tradicional de Malasia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-mal-002",
+    "dishName": "Char Kway Teow (Fideos Salteados Wok)",
+    "slug": "char-kway-teow-(fideos-salteados-wok)",
+    "placeId": "my-kl",
+    "summary": "Fideos de arroz planos salteados a fuego alto con camarones, almejas, huevo, brotes de soja y lap cheong (salchicha china). Icono de comida callejera de Penang.",
+    "history": "El char kway teow fue creado por trabajadores chinos en Penang como comida rápida y económica. El secreto está en el 'wok hei' (aliento del wok) que da sabor ahumado. Es considerado el mejor plato callejero de Malasia, vendido en hawker centers por toda la isla.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400g de kway teow (fideos de arroz planos frescos)"
+      },
+      {
+        "text": "200g de camarones grandes pelados"
+      },
+      {
+        "text": "100g de almejas pequeñas"
+      },
+      {
+        "text": "100g de lap cheong (salchicha china) en rodajas"
+      },
+      {
+        "text": "2 huevos batidos"
+      },
+      {
+        "text": "200g de brotes de soja frescos"
+      },
+      {
+        "text": "3 cebolletas verdes cortadas"
+      },
+      {
+        "text": "3 dientes de ajo picados"
+      },
+      {
+        "text": "2 cucharadas de salsa de soja oscura"
+      },
+      {
+        "text": "1 cucharada de salsa de soja ligera"
+      },
+      {
+        "text": "1 cucharada de salsa de pescado"
+      },
+      {
+        "text": "1 cucharadita de chili en pasta"
+      },
+      {
+        "text": "Aceite vegetal para wok"
+      },
+      {
+        "text": "Chili padi opcional"
+      }
+    ],
+    "steps": [
+      "Calentar wok hasta humear ligeramente con aceite abundante.",
+      "Añadir ajo, saltear 10 segundos hasta fragante.",
+      "Incorporar lap cheong, freír 1 minuto.",
+      "Agregar camarones, cocinar hasta rosados.",
+      "Empujar ingredientes al lado, verter huevos al centro.",
+      "Revolver huevos hasta cuajar parcialmente.",
+      "Añadir fideos, brotes de soja y cebolletas.",
+      "Verter salsas de soja, pescado y chili pasta.",
+      "Saltear a fuego máximo 3-4 minutos mezclando constantemente.",
+      "Los fideos deben caramelizarse ligeramente en bordes.",
+      "Añadir almejas los últimos 2 minutos hasta abrir.",
+      "Servir inmediatamente muy caliente."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 246,
+    "popularityScore": 55,
+    "publishedAt": "2024-02-24",
+    "image": "/images/recipes/malasia/char-kway-teow-(fideos-salteados-wok).jpg",
+    "sources": [
+      "Cocina tradicional de Malasia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-mal-003",
+    "dishName": "Satay Malasio con Salsa de Maní",
+    "slug": "satay-malasio-con-salsa-de-mani",
+    "placeId": "my-kl",
+    "summary": "Brochetas de carne marinada con especias malayas, grilladas sobre carbón y servidas con salsa de maní dulce, ketupat y ensalada de pepino-cebolla.",
+    "history": "El satay malasio tiene influencias javanesas pero desarrolló características propias con marinadas más dulces y salsa de maní más cremosa. Es comida social por excelencia, reunida en familias alrededor de braseros. Popular en bodas malayas y celebraciones.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 150,
+    "cookTimeMin": 30,
+    "totalTimeMin": 180,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de pollo o cordero en cubos"
+      },
+      {
+        "text": "2 cucharadas de curry en polvo"
+      },
+      {
+        "text": "1 cucharada de cúrcuma molida"
+      },
+      {
+        "text": "1 cucharada de comino molido"
+      },
+      {
+        "text": "3 chalotas minced"
+      },
+      {
+        "text": "2 dientes de ajo minced"
+      },
+      {
+        "text": "1 cucharada de azúcar moreno"
+      },
+      {
+        "text": "2 cucharadas de leche de coco"
+      },
+      {
+        "text": "Jugo de 1 lima"
+      },
+      {
+        "text": "Palitos de bambú remojados"
+      },
+      {
+        "text": "Para salsa: 200g de maní tostado molido"
+      },
+      {
+        "text": "2 cucharadas de kecap manis"
+      },
+      {
+        "text": "1 cucharada de tamarindo"
+      },
+      {
+        "text": "1 chili rojo minced"
+      },
+      {
+        "text": "Agua caliente"
+      },
+      {
+        "text": "Para acompañar: ketupat, cebolla en rodajas, pepino en rodajas"
+      }
+    ],
+    "steps": [
+      "Marinar carne con curry, cúrcuma, comino, chalotas, ajo, azúcar, leche de coco y lime mínimo 2 horas.",
+      "Ensartar carne en palitos de bambú remojados.",
+      "Grillar sobre carbón medio-alto 3-4 minutos por lado.",
+      "Para salsa: mezclar maní molido con kecap manis, tamarindo y chili.",
+      "Añadir agua caliente gradualmente hasta consistencia cremosa.",
+      "Ajustar dulzor y picante al gusto.",
+      "Preparar ensalada: mezclar cebolla, pepino con poco vinagre y azúcar.",
+      "Servir satay caliente con salsa tibia, ketupat y ensalada.",
+      "Tradición: comer varios satays seguidos."
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 274,
+    "popularityScore": 74,
+    "publishedAt": "2024-08-18",
+    "image": "/images/recipes/malasia/satay-malasio-con-salsa-de-maní.jpg",
+    "sources": [
+      "Cocina tradicional de Malasia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-mal-004",
+    "dishName": "Laksa de Penang (Sopa de Fideos Picante)",
+    "slug": "laksa-de-penang-(sopa-de-fideos-picante)",
+    "placeId": "my-kl",
+    "summary": "Sopa de fideos de arroz con caldo picante de tamarindo y pescado, garnished con menta, piña, pepino y cebolla. Sabor único agrio-picante-dulce.",
+    "history": "El laksa de Penang (asam laksa) es plato Peranakan (chino-malayo) que combina ingredientes chinos con técnicas malayas. El caldo se hace desmenuzando pescado mackerel hervido. Es especialidad orgullo de Penang, diferente del laksa cremoso de coco de otras regiones.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de fideos de arroz gruesos frescos"
+      },
+      {
+        "text": "400g de caballa o sardina fresca"
+      },
+      {
+        "text": "1 litro de agua"
+      },
+      {
+        "text": "3 tallos de hierba limón machacados"
+      },
+      {
+        "text": "2 hojas de kesum (persicaria odorata)"
+      },
+      {
+        "text": "Pasta de especias: 8 chiles rojos secos"
+      },
+      {
+        "text": "5 chalotas"
+      },
+      {
+        "text": "3 dientes de ajo"
+      },
+      {
+        "text": "2cm de cúrcuma"
+      },
+      {
+        "text": "2cm de galangal"
+      },
+      {
+        "text": "1 cucharada de pasta de camarón"
+      },
+      {
+        "text": "2 cucharadas de tamarindo"
+      },
+      {
+        "text": "1 cebolla roja en rodajas finas"
+      },
+      {
+        "text": "1/2 piña en cubos pequeños"
+      },
+      {
+        "text": "1 pepino en juliana"
+      },
+      {
+        "text": "Menta fresca"
+      },
+      {
+        "text": "Brotas de jengibre (daun kesum)"
+      },
+      {
+        "text": "Sambal opcional"
+      }
+    ],
+    "steps": [
+      "Hervir pescado en agua con sal 15 minutos.",
+      "Retirar pescado, desmenuzar carne, reservar.",
+      "Colar caldo, reservar líquido.",
+      "Moler todos los ingredientes de pasta de especias hasta suave.",
+      "Sofreír pasta de especias 5 minutos hasta fragante.",
+      "Añadir caldo reservado, llevar a ebullición.",
+      "Agregar hierba limón y hojas kesum.",
+      "Incorporar pescado desmenuzado, cocinar 10 minutos.",
+      "Añadir tamarindo, ajustar acidez.",
+      "Hidratar fideos según instrucciones.",
+      "Montar bowls: fideos, cubrir con sopa hirviendo.",
+      "Garnish generosamente: cebolla, piña, pepino, menta, daun kesum.",
+      "Servir inmediatamente con sambal aparte."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 295,
+    "popularityScore": 68,
+    "publishedAt": "2024-07-26",
+    "image": "/images/recipes/malasia/laksa-de-penang-(sopa-de-fideos-picante).jpg",
+    "sources": [
+      "Cocina tradicional de Malasia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-mal-005",
+    "dishName": "Cendol (Postre de Hielo con Gula Melaka)",
+    "slug": "cendol-(postre-de-hielo-con-gula-melaka)",
+    "placeId": "my-kl",
+    "summary": "Postre refrescante de hielo raspado, 'gusanos' de arroz verde de pandano, leche de coco y gula melaka (azúcar de palma). Dulce, cremoso y perfecto para clima tropical.",
+    "history": "El cendol es postre popular en todo el sudeste asiático con variaciones locales. La versión malasia usa gula melaka de Melaka, famosa por su calidad. Los 'cendol' son tiras de gelatina de arroz y pandano hechas con prensa especial. Es merienda favorita en mercados nocturnos.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "postre",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "Para cendol: 200g de harina de arroz"
+      },
+      {
+        "text": "50g de fécula de tapioca"
+      },
+      {
+        "text": "300ml de jugo de pandano (hojas licuadas y coladas)"
+      },
+      {
+        "text": "1/2 cucharadita de sal"
+      },
+      {
+        "text": "400ml de agua"
+      },
+      {
+        "text": "Para servir: 500g de hielo raspado"
+      },
+      {
+        "text": "300ml de leche de coco espesa"
+      },
+      {
+        "text": "200g de gula melaka (azúcar de palma)"
+      },
+      {
+        "text": "100ml de agua"
+      },
+      {
+        "text": "2 hojas de pandano"
+      },
+      {
+        "text": "Frijoles rojos dulces cocidos opcional"
+      },
+      {
+        "text": "Maíz dulce opcional"
+      },
+      {
+        "text": "Vasos altos transparentes"
+      }
+    ],
+    "steps": [
+      "Para cendol: mezclar harina de arroz, tapioca, sal, jugo pandano y agua.",
+      "Cocinar mezcla revolviendo constantemente hasta espesar como pudding.",
+      "Verter masa caliente en prensa de cendol sobre agua helada.",
+      "Las tiras caerán formando 'gusanos' verdes.",
+      "Dejar reposar en agua helada 10 minutos, escurrir.",
+      "Para jarabe: hervir gula melaka con agua y pandano 10 minutos.",
+      "Colar jarabe, dejar enfriar hasta espesar ligeramente.",
+      "Montar vaso: capa de cendol en fondo.",
+      "Añadir frijoles rojos y maíz si usa.",
+      "Cubrir generosamente con hielo raspado.",
+      "Verter leche de coco sobre hielo.",
+      "Rociar jarabe de gula melaka abundantemente.",
+      "Servir inmediatamente con cuchara y popote."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 415,
+    "popularityScore": 71,
+    "publishedAt": "2024-11-13",
+    "image": "/images/recipes/malasia/cendol-(postre-de-hielo-con-gula-melaka).jpg",
+    "sources": [
+      "Cocina tradicional de Malasia"
+    ],
+    "translations": {}
+  }
+]

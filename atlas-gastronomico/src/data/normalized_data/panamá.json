@@ -1,0 +1,206 @@
+[
+  {
+    "id": "pa-sancocho-panameno",
+    "name": "Sancocho Panameño",
+    "country": "Panamá",
+    "description": "Sopa reconfortante de gallina con ñame, yuca y culantro.",
+    "ingredients": [
+      "1 gallina criolla",
+      "500g de ñame",
+      "300g de yuca",
+      "2 elotes",
+      "Culantro al gusto",
+      "Cebolla, ajo",
+      "Sal y pimienta"
+    ],
+    "instructions": [
+      "Cocer gallina con verduras para caldo sabroso.",
+      "Agregar ñame y yuca en trozos grandes.",
+      "Incorporar elotes partidos.",
+      "Cocinar hasta que todo esté tierno.",
+      "Añadir culantro picado al final.",
+      "Servir caliente con arroz blanco."
+    ],
+    "prepTime": 120,
+    "servings": 6,
+    "difficulty": "Media",
+    "tags": [
+      "sancocho",
+      "gallina",
+      "ñame",
+      "nacional",
+      "domingo"
+    ],
+    "image": "/images/recipes/panamá/sancocho-panameño.jpg",
+    "region": "Todo el país",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "El sancocho es el plato nacional de Panamá, declarado patrimonio cultural. Es la comida de los domingos en familia y el remedio infalible para la resaca o el frío. Cada provincia tiene su variante: sancocho de gallina criolla (el más tradicional), de pata, de rabo. El ñame panameño es considerado el mejor del mundo por su textura única."
+  },
+  {
+    "id": "pa-ceviche-panameno",
+    "name": "Ceviche Panameño",
+    "country": "Panamá",
+    "description": "Pescado marinado en limón con cebolla, cilantro y galletas saladas.",
+    "ingredients": [
+      "500g de corvina fresca",
+      "Jugo de 8 limones",
+      "1 cebolla roja picada fina",
+      "Cilantro fresco",
+      "1 chile habanero (opcional)",
+      "Sal",
+      "Galletas saladas"
+    ],
+    "instructions": [
+      "Cortar pescado en cubos pequeños.",
+      "Marinar inmediatamente con jugo de limón.",
+      "Dejar reposar 15-20 minutos hasta blanquear.",
+      "Agregar cebolla, cilantro y chile picado.",
+      "Sazonar con sal al gusto.",
+      "Servir frío con galletas saladas."
+    ],
+    "prepTime": 30,
+    "servings": 4,
+    "difficulty": "Fácil",
+    "tags": [
+      "ceviche",
+      "corvina",
+      "limon",
+      "aperitivo",
+      "costa"
+    ],
+    "image": "/images/recipes/panamá/ceviche-panameño.jpg",
+    "region": "Costas",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "El ceviche panameño se distingue por usar exclusivamente corvina y servirse con galletas saladas tipo soda. Es el aperitivo nacional, presente en todas las reuniones sociales y bares del país. Panamá, siendo puente entre dos océanos, tiene acceso a pescados frescos de primera calidad que hacen de su ceviche uno de los mejores de la región."
+  },
+  {
+    "id": "pa-tamales-bocas-del-toro",
+    "name": "Tamales de Olla",
+    "country": "Panamá",
+    "description": "Masa de maíz envuelta en hoja de bijao, hervida hasta cuajar.",
+    "ingredients": [
+      "1 kg de masa de maíz",
+      "Caldo de pollo o cerdo",
+      "Achiote para color",
+      "Hojas de bijao",
+      "Pabilo",
+      "Sal"
+    ],
+    "instructions": [
+      "Mezclar masa con caldo y achiote.",
+      "Extender sobre hojas de bijao limpias.",
+      "Envolver firmemente formando cilindros.",
+      "Amarrar con pabilo.",
+      "Hervir por 2 horas aproximadamente.",
+      "Servir caliente como acompañante."
+    ],
+    "prepTime": 180,
+    "servings": 12,
+    "difficulty": "Media",
+    "tags": [
+      "tamales",
+      "maiz",
+      "bijao",
+      "acompañante",
+      "colon"
+    ],
+    "image": "/images/recipes/panamá/tamales-de-olla.jpg",
+    "region": "Bocas del Toro",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Los tamales de olla panameños son diferentes a los de otros países: no llevan relleno y se cuecen directamente en agua. Son el acompañante perfecto para el sancocho y otros guisos. Las hojas de bijao les dan un aroma característico que los hace únicos. En Bocas del Toro y Colón son parte fundamental de la identidad afroantillana."
+  },
+  {
+    "id": "pa-patacones-con-todo",
+    "name": "Patacones con Todo",
+    "country": "Panamá",
+    "description": "Rodajas de plátano verde fritas y aplastadas, rellenas de diversos ingredientes.",
+    "ingredients": [
+      "4 plátanos verdes",
+      "Aceite para freír",
+      "Carne molida guisada",
+      "Ensalada de repollo",
+      "Queso rallado",
+      "Salsa de ajo",
+      "Tostones"
+    ],
+    "instructions": [
+      "Cortar plátanos en rodajas gruesas.",
+      "Freír hasta dorar ligeramente.",
+      "Aplastar cada rodaja con pataconera.",
+      "Volver a freír hasta quedar crujientes.",
+      "Rellenar con carne, ensalada y queso.",
+      "Servir inmediatamente."
+    ],
+    "prepTime": 45,
+    "servings": 4,
+    "difficulty": "Media",
+    "tags": [
+      "patacones",
+      "platanos",
+      "callejero",
+      "frito",
+      "merienda"
+    ],
+    "image": "/images/recipes/panamá/patacones-con-todo.jpg",
+    "region": "Todo el país",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "Los patacones son la comida callejera más popular de Panamá. Se venden en puestos llamados 'pataconerías' donde puedes elegir entre decenas de toppings: carne, pollo, camarones, mariscos, vegetales. Son la merienda favorita después de una noche de fiesta y representan la creatividad culinaria urbana panameña."
+  },
+  {
+    "id": "pa-arroz-con-pollo",
+    "name": "Arroz con Pollo Panameño",
+    "country": "Panamá",
+    "description": "Arroz amarillo cocinado con pollo, verduras y especias.",
+    "ingredients": [
+      "1 pollo entero cortado en piezas",
+      "3 tazas de arroz",
+      "Cúrcuma o colorante alimentario",
+      "Guantes (arveja dulce)",
+      "Zanahorias en cubos",
+      "Cebolla, ajo, culantro",
+      "Caldo de pollo"
+    ],
+    "instructions": [
+      "Sazonar pollo con especias y dorar.",
+      "Sofreír arroz con cebolla y ajo.",
+      "Agregar cúrcuma para color amarillo.",
+      "Añadir caldo caliente y verduras.",
+      "Cocinar tapado hasta absorber líquido.",
+      "Servir con ensalada fresca."
+    ],
+    "prepTime": 90,
+    "servings": 8,
+    "difficulty": "Media",
+    "tags": [
+      "arroz",
+      "pollo",
+      "amarillo",
+      "festivo",
+      "interior"
+    ],
+    "image": "/images/recipes/panamá/arroz-con-pollo-panameño.jpg",
+    "region": "Interior",
+    "city": "",
+    "coordinates": [
+      0,
+      0
+    ],
+    "history": "El arroz con pollo es el plato festivo por excelencia en Panamá, especialmente en las provincias del interior. Es infaltable en cumpleaños, bautizos y celebraciones patronales. El secreto está en el punto exacto del arroz: ni muy seco ni muy húmedo. En Las Tablas, durante las fiestas de la Virgen de la Caridad, se preparan ollas gigantescas para toda la comunidad."
+  }
+]

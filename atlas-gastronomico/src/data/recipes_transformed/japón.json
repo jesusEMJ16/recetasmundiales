@@ -1,0 +1,363 @@
+[
+  {
+    "id": "r-japo-001",
+    "dishName": "Sushi Nigiri",
+    "slug": "sushi-nigiri",
+    "placeId": "jp-tok",
+    "summary": "El sushi más tradicional japonés: pequeñas porciones de arroz avinagrado cubiertas con pescado fresco crudo. Arte culinario en su máxima expresión.",
+    "history": "Originario del período Edo (siglo XVII) en Tokio, el nigiri-zushi fue creado por Hanaya Yohei como comida rápida para trabajadores. Evolucionó del narezushi (pescado fermentado) al sushi fresco que conocemos hoy. Es símbolo de la cocina japonesa mundialmente.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de arroz japonés para sushi (grano corto)"
+      },
+      {
+        "text": "600ml de agua"
+      },
+      {
+        "text": "80ml de vinagre de arroz"
+      },
+      {
+        "text": "3 cucharadas de azúcar"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "400g de pescado fresco grado sashimi (salmón, atún, lubina)"
+      },
+      {
+        "text": "Wasabi fresco rallado"
+      },
+      {
+        "text": "Jengibre encurtido (gari)"
+      },
+      {
+        "text": "Salsa de soja para servir"
+      }
+    ],
+    "steps": [
+      "Lavar el arroz bajo agua fría hasta que el agua salga clara.",
+      "Cocinar arroz con agua en olla arrocera o cazuela tapada.",
+      "Mezclar vinagre, azúcar y sal en pequeño cazo hasta disolver.",
+      "Cuando el arroz esté cocido, transferir a hangiri (bol de madera).",
+      "Verter mezcla de vinagre sobre arroz caliente mezclando suavemente.",
+      "Abanicar el arroz mientras se mezcla para enfriarlo rápidamente.",
+      "Dejar reposar arroz tapado con paño húmedo a temperatura ambiente.",
+      "Cortar pescado en láminas de 5mm de grosor contra la fibra.",
+      "Mojar manos con agua avinagrada para manejar el arroz.",
+      "Formar pequeñas bolas de arroz (aproximadamente 20g cada una).",
+      "Colocar pequeña cantidad de wasabi sobre el pescado.",
+      "Presionar ligeramente pescado sobre bola de arroz dando forma ovalada.",
+      "Servir inmediatamente con jengibre y salsa de soja aparte."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 148,
+    "popularityScore": 87,
+    "publishedAt": "2024-10-28",
+    "image": "/images/recipes/japón/sushi-nigiri.jpg",
+    "sources": [
+      "Cocina tradicional de Japón"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-japo-002",
+    "dishName": "Ramen Tonkotsu",
+    "slug": "ramen-tonkotsu",
+    "placeId": "jp-tok",
+    "summary": "Caldo cremoso de huesos de cerdo cocinado durante horas, con fideos alcalinos, chashu (cerdo braised), huevo marinado y cebollino. El ramen más popular de Japón.",
+    "history": "Nacido en Fukuoka (isla de Kyushu) después de la Segunda Guerra Mundial, el tonkotsu ramen utiliza huesos de cerdo hervidos durante 12-18 horas hasta que el colágeno se disuelve creando un caldo espeso y lechoso. Se hizo famoso en los años 70 y hoy es el estilo de ramen más imitado mundialmente.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 720,
+    "cookTimeMin": 30,
+    "totalTimeMin": 750,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de huesos de cerdo (huesos largos y vértebras)"
+      },
+      {
+        "text": "500g de panceta de cerdo para chashu"
+      },
+      {
+        "text": "400g de fideos ramen frescos"
+      },
+      {
+        "text": "4 huevos"
+      },
+      {
+        "text": "1 trozo de kombu (alga seca)"
+      },
+      {
+        "text": "1 cebolla entera"
+      },
+      {
+        "text": "1 cabeza de ajo cortada horizontalmente"
+      },
+      {
+        "text": "Jengibre fresco en rodajas"
+      },
+      {
+        "text": "Cebollino picado para decorar"
+      },
+      {
+        "text": "Aceite de sésamo tostado"
+      },
+      {
+        "text": "Salsa de soja"
+      },
+      {
+        "text": "Mirin"
+      },
+      {
+        "text": "Sake"
+      },
+      {
+        "text": "Azúcar"
+      }
+    ],
+    "steps": [
+      "Hervir huesos de cerdo 10 minutos para eliminar impurezas.",
+      "Enjuagar huesos bajo agua fría eliminando residuos.",
+      "Colocar huesos limpios en olla grande con agua fresca.",
+      "Añadir cebolla, ajo y jengibre a la olla.",
+      "Hervir a fuego alto manteniendo ebullición constante 12-18 horas.",
+      "Añadir agua según se evapore para mantener nivel.",
+      "Para el chashu: dorar panceta, añadir soja, mirin, sake y azúcar.",
+      "Cocinar chashu a fuego lento 2 horas hasta tierno.",
+      "Marinar huevos cocidos 6 minutos en mezcla de soja, mirin y agua.",
+      "Refrigerar huevos marinados toda la noche.",
+      "Colar caldo y ajustar sazón con sal y salsa de soja.",
+      "Cocer fideos ramen según instrucciones del paquete.",
+      "Montar bowls: fideos, caldo hirviendo, chashu en rodajas.",
+      "Añadir huevo marinado cortado, cebollino y aceite de sésamo."
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 285,
+    "popularityScore": 88,
+    "publishedAt": "2024-04-20",
+    "image": "/images/recipes/japón/ramen-tonkotsu.jpg",
+    "sources": [
+      "Cocina tradicional de Japón"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-japo-003",
+    "dishName": "Tempura",
+    "slug": "tempura",
+    "placeId": "jp-tok",
+    "summary": "Mariscos y verduras rebozados en masa ligera y fritos hasta quedar crujientes. Técnica perfecta que requiere precisión en temperatura y timing.",
+    "history": "Introducido por misioneros portugueses en el siglo XVI en Nagasaki, el nombre proviene del latín 'tempora' (tiempos de Cuaresma cuando no se comía carne). Los japoneses perfeccionaron la técnica creando una masa ultraligera que realza el sabor natural de los ingredientes.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "200g de gambas grandes peladas (dejar cola)"
+      },
+      {
+        "text": "1 calabaza dulce japonesa (satsuma imo) en rodajas"
+      },
+      {
+        "text": "1 berenjena japonesa en rodajas"
+      },
+      {
+        "text": "1 boniato en rodajas finas"
+      },
+      {
+        "text": "Brócoli en pequeños ramilletes"
+      },
+      {
+        "text": "200g de harina de trigo baja en proteínas"
+      },
+      {
+        "text": "240ml de agua muy fría (con hielo)"
+      },
+      {
+        "text": "1 yema de huevo fría"
+      },
+      {
+        "text": "Aceite vegetal para freír (girasol o canola)"
+      },
+      {
+        "text": "Sal fina"
+      },
+      {
+        "text": "Daikon rallado para servir"
+      },
+      {
+        "text": "Salsa tentsuyu (soja, dashi, mirin)"
+      }
+    ],
+    "steps": [
+      "Mantener todos los ingredientes y utensilios muy fríos.",
+      "Pelar gambas dejando cola, hacer pequeños cortes en vientre para enderezar.",
+      "Secar perfectamente gambas y verduras con papel.",
+      "Espolvorear ligeramente ingredientes con harina (pre-rebozado).",
+      "Preparar masa: mezclar yema con agua helada.",
+      "Añadir harina tamizada de golpe y mezclar mínimamente (deben quedar grumos).",
+      "Calentar aceite a 170-180°C en wok o sartén profunda.",
+      "Sumergir ingredientes en masa justo antes de freír.",
+      "Freír gambas 2-3 minutos hasta dorar ligeramente.",
+      "Freír verduras 3-4 minutos según grosor.",
+      "Escurrir sobre rejilla inmediatamente (no usar papel).",
+      "Servir al instante con daikon rallado y salsa tentsuyu."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 53,
+    "popularityScore": 95,
+    "publishedAt": "2024-07-08",
+    "image": "/images/recipes/japón/tempura.jpg",
+    "sources": [
+      "Cocina tradicional de Japón"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-japo-004",
+    "dishName": "Wagyu A5 Yakiniku",
+    "slug": "wagyu-a5-yakiniku",
+    "placeId": "jp-tok",
+    "summary": "La carne más prestigiosa del mundo: wagyu japonés grado A5 con marmoleo perfecto, cocinado ligeramente a la parrilla para derretir en boca.",
+    "history": "El wagyu ('vaca japonesa') se cría en Japón desde hace siglos con técnicas especiales que incluyen masajes y dieta controlada. Kobe beef es el más famoso, con marmoleo único que crea textura mantecosa. Solo 3000 vacas anuales reciben certificación Kobe auténtica.",
+    "originConfidence": "confirmed",
+    "servings": 2,
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 40,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400g de wagyu A5 corte ribeye o sirloin (Kobe, Matsusaka o Omi)"
+      },
+      {
+        "text": "Sal marina en escamas (sal de Maldon)"
+      },
+      {
+        "text": "Pimienta negra recién molida"
+      },
+      {
+        "text": "Ajo laminado opcional"
+      },
+      {
+        "text": "Wasabi fresco opcional"
+      },
+      {
+        "text": "Salsa tare para yakiniku (soja, mirin, sake, azúcar, fruta)"
+      },
+      {
+        "text": "Arroz blanco japonés para acompañar"
+      },
+      {
+        "text": "Ensalada simple de lechuga"
+      }
+    ],
+    "steps": [
+      "Sacar carne de refrigeración 30 minutos antes de cocinar.",
+      "Cortar wagyu en cubos o tiras de 2-3cm contra la fibra.",
+      "Calentar parrilla o plancha de hierro a temperatura muy alta.",
+      "No añadir aceite: la grasa del wagyu es suficiente.",
+      "Colocar carne en parrilla sin amontonar.",
+      "Cocinar 1-2 minutos por lado máximo (poco hecho).",
+      "El interior debe permanecer rosado y jugoso.",
+      "Retirar inmediatamente y dejar reposar 1 minuto.",
+      "Espolvorear con sal en escamas y pimienta fresca.",
+      "Servir con arroz blanco y salsa tare para mojar.",
+      "Opcionalmente acompañar con ajo asado o wasabi.",
+      "Disfrutar lentamente saboreando cada bocado."
+    ],
+    "ratingAvg": 4.3,
+    "ratingCount": 145,
+    "popularityScore": 65,
+    "publishedAt": "2024-09-16",
+    "image": "/images/recipes/japón/wagyu-a5-yakiniku.jpg",
+    "sources": [
+      "Cocina tradicional de Japón"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-japo-005",
+    "dishName": "Matcha Wagashi",
+    "slug": "matcha-wagashi",
+    "placeId": "jp-tok",
+    "summary": "Dulces tradicionales japoneses servidos con té matcha en la ceremonia del té. Delicadas creaciones estacionales que son auténticas obras de arte comestibles.",
+    "history": "Los wagashi ('dulces japoneses') tienen más de 1000 años de historia, desarrollados junto a la ceremonia del té. En Kioto alcanzaron su máxima expresión artística. Cada dulce representa una estación, flor o poema clásico. Son Patrimonio Cultural Inmaterial de Japón.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "200g de pasta de judías rojas (anko)"
+      },
+      {
+        "text": "150g de harina de arroz glutinoso (mochiko)"
+      },
+      {
+        "text": "100g de azúcar"
+      },
+      {
+        "text": "150ml de agua"
+      },
+      {
+        "text": "2 cucharadas de matcha ceremonial en polvo"
+      },
+      {
+        "text": "Colorante alimentario rosa opcional (flor de cerezo)"
+      },
+      {
+        "text": "Almidón de patata para espolvorear"
+      },
+      {
+        "text": "Moldes tradicionales de madera (wagashi mold)"
+      }
+    ],
+    "steps": [
+      "Mezclar mochiko con azúcar y agua en cazo.",
+      "Cocinar a fuego medio removiendo constantemente hasta espesar.",
+      "Dividir masa en tres partes iguales.",
+      "Dejar una parte blanca, añadir matcha a otra, colorante rosa a tercera.",
+      "Amasar cada color hasta obtener textura suave.",
+      "Dividir anko en bolas de 20g cada una.",
+      "Estirar masa de arroz entre plásticos hasta 3mm.",
+      "Cortar círculos de masa y envolver bolas de anko.",
+      "Cerrar bien sellando extremos.",
+      "Presionar en moldes de madera espolvoreados con almidón.",
+      "Desmoldar cuidadosamente dando forma floral o tradicional.",
+      "Servir inmediatamente con té matcha preparado en ceremonia."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 50,
+    "popularityScore": 65,
+    "publishedAt": "2024-07-10",
+    "image": "/images/recipes/japón/matcha-wagashi.jpg",
+    "sources": [
+      "Cocina tradicional de Japón"
+    ],
+    "translations": {}
+  }
+]

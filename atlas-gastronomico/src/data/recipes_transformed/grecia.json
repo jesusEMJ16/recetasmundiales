@@ -1,0 +1,300 @@
+[
+  {
+    "id": "r-gr-001",
+    "dishName": "Moussaka",
+    "slug": "moussaka",
+    "placeId": "gr-att",
+    "summary": "Lasaña griega de berenjenas con carne picada y salsa bechamel gratinada.",
+    "history": "Plato tradicional con raíces otomanas. La versión moderna con bechamel fue creada por el chef Nikolaos Tselementes en los años 1920.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "3 berenjenas grandes"
+      },
+      {
+        "text": "500g de carne de cordero molida"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "2 dientes de ajo"
+      },
+      {
+        "text": "400g de tomate triturado"
+      },
+      {
+        "text": "50g de mantequilla"
+      },
+      {
+        "text": "50g de harina"
+      },
+      {
+        "text": "500ml de leche"
+      },
+      {
+        "text": "100g de queso parmesano rallado"
+      },
+      {
+        "text": "Aceite de oliva virgen extra"
+      }
+    ],
+    "steps": [
+      "Cortar berenjenas en rodajas, salar y dejar sudar 30 minutos",
+      "Freír berenjenas hasta dorar y escurrir",
+      "Sofreír cebolla y ajo, agregar carne y cocinar",
+      "Añadir tomate y cocinar 20 minutos",
+      "Preparar bechamel: derretir mantequilla, añadir harina y leche gradualmente",
+      "Montar capas: berenjena, carne, berenjena, bechamel",
+      "Espolvorear parmesano y hornear 180°C por 45 minutos",
+      "Dejar reposar 15 minutos antes de servir"
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 109,
+    "popularityScore": 74,
+    "publishedAt": "2024-05-31",
+    "image": "/images/recipes/grecia/moussaka.jpg",
+    "sources": [
+      "Cocina tradicional de Grecia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-gr-002",
+    "dishName": "Souvlaki",
+    "slug": "souvlaki",
+    "placeId": "gr-att",
+    "summary": "Brochetas de carne marinada a la parrilla, servidas con pan pita y tzatziki.",
+    "history": "Comida callejera griega desde la antigüedad. Homero ya mencionaba carne asada en brochetas en la Odisea.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "600g de cerdo o pollo en cubos"
+      },
+      {
+        "text": "3 cucharadas de aceite de oliva"
+      },
+      {
+        "text": "Jugo de 1 limón"
+      },
+      {
+        "text": "2 dientes de ajo machacados"
+      },
+      {
+        "text": "1 cucharadita de orégano seco"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      },
+      {
+        "text": "4 panes pita"
+      },
+      {
+        "text": "Tzatziki para servir"
+      }
+    ],
+    "steps": [
+      "Marinar carne con aceite, limón, ajo y orégano 2 horas",
+      "Ensartar carne en brochetas de madera remojadas",
+      "Precalentar parrilla a fuego alto",
+      "Asar brochetas 10-12 minutos girando ocasionalmente",
+      "Calentar pan pita brevemente en parrilla",
+      "Servir souvlaki en pita con tzatziki y verduras"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 280,
+    "popularityScore": 90,
+    "publishedAt": "2024-10-08",
+    "image": "/images/recipes/grecia/souvlaki.jpg",
+    "sources": [
+      "Cocina tradicional de Grecia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-gr-003",
+    "dishName": "Spanakopita",
+    "slug": "spanakopita",
+    "placeId": "gr-att",
+    "summary": "Pastel salado de espinacas y queso feta envuelto en masa filo.",
+    "history": "Plato bizantino tradicional. Las espinacas eran consideradas alimento de sabios en la antigua Grecia.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de espinacas frescas"
+      },
+      {
+        "text": "300g de queso feta desmenuzado"
+      },
+      {
+        "text": "3 huevos batidos"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "2 cucharadas de eneldo fresco"
+      },
+      {
+        "text": "8 láminas de masa filo"
+      },
+      {
+        "text": "100ml de aceite de oliva"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      }
+    ],
+    "steps": [
+      "Lavar y cocinar espinacas hasta reducir volumen",
+      "Escurrir bien y picar finamente",
+      "Mezclar espinacas, feta, huevos, cebolla y eneldo",
+      "Extender láminas de filo en molde engrasado",
+      "Alternar capas de filo con relleno",
+      "Cerrar pastel y pincelar con aceite",
+      "Hornear 180°C por 45-50 minutos hasta dorar",
+      "Servir tibio o a temperatura ambiente"
+    ],
+    "ratingAvg": 5.0,
+    "ratingCount": 255,
+    "popularityScore": 55,
+    "publishedAt": "2024-04-20",
+    "image": "/images/recipes/grecia/spanakopita.jpg",
+    "sources": [
+      "Cocina tradicional de Grecia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-gr-004",
+    "dishName": "Baklava",
+    "slug": "baklava",
+    "placeId": "gr-att",
+    "summary": "Postre dulce de capas de masa filo con nueces y almíbar de miel.",
+    "history": "Dulce del Imperio Otomano adoptado por Grecia. Cada región tiene su propia versión con diferentes frutos secos.",
+    "originConfidence": "confirmed",
+    "servings": 16,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "12 láminas de masa filo"
+      },
+      {
+        "text": "300g de nueces molidas"
+      },
+      {
+        "text": "100g de almendras molidas"
+      },
+      {
+        "text": "200g de mantequilla derretida"
+      },
+      {
+        "text": "1 cucharadita de canela"
+      },
+      {
+        "text": "Para almíbar: 200g de azúcar, 200ml de agua, 100ml de miel, 1 rama de canela"
+      }
+    ],
+    "steps": [
+      "Mezclar nueces, almendras y canela",
+      "Extender lámina de filo, pincelar con mantequilla",
+      "Repetir 6 veces, espolvorear mezcla de nueces",
+      "Continuar alternando filo y nueces",
+      "Cortar en rombos antes de hornear",
+      "Hornear 170°C por 45-50 minutos",
+      "Preparar almíbar hirviendo ingredientes 10 minutos",
+      "Verter almíbar frío sobre baklava caliente"
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 101,
+    "popularityScore": 67,
+    "publishedAt": "2024-01-28",
+    "image": "/images/recipes/grecia/baklava.jpg",
+    "sources": [
+      "Cocina tradicional de Grecia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-gr-005",
+    "dishName": "Tzatziki",
+    "slug": "tzatziki",
+    "placeId": "gr-att",
+    "summary": "Salsa cremosa de yogur griego, pepino, ajo y hierbas frescas.",
+    "history": "Salsa ancestral mediterránea. El nombre proviene del turco 'cacık', pero es esencial en la cocina griega moderna.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de yogur griego escurrido"
+      },
+      {
+        "text": "1 pepino grande rallado"
+      },
+      {
+        "text": "3 dientes de ajo machacados"
+      },
+      {
+        "text": "2 cucharadas de aceite de oliva"
+      },
+      {
+        "text": "1 cucharada de vinagre de vino blanco"
+      },
+      {
+        "text": "2 cucharadas de eneldo fresco picado"
+      },
+      {
+        "text": "Sal al gusto"
+      }
+    ],
+    "steps": [
+      "Rallar pepino y escurrir líquido con las manos",
+      "Mezclar yogur, pepino y ajo",
+      "Añadir aceite, vinagre y eneldo",
+      "Sazonar con sal y mezclar bien",
+      "Refrigerar mínimo 2 horas antes de servir",
+      "Acompañar con pan pita o como salsa para souvlaki"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 291,
+    "popularityScore": 58,
+    "publishedAt": "2024-08-14",
+    "image": "/images/recipes/grecia/tzatziki.jpg",
+    "sources": [
+      "Cocina tradicional de Grecia"
+    ],
+    "translations": {}
+  }
+]

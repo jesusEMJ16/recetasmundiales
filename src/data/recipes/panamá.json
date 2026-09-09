@@ -1,0 +1,206 @@
+[
+  {
+    "id": "pa-sancocho-panameno",
+    "slug": "sancocho-paname-o",
+    "dishName": "Sancocho Panameño",
+    "summary": "Sopa reconfortante de gallina con ñame, yuca y culantro.",
+    "country": "Panamá",
+    "cuisine": "panamá",
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "1 gallina criolla",
+      "500g de ñame",
+      "300g de yuca",
+      "2 elotes",
+      "Culantro al gusto",
+      "Cebolla, ajo",
+      "Sal y pimienta"
+    ],
+    "instructions": [
+      "Cocer gallina con verduras para caldo sabroso.",
+      "Agregar ñame y yuca en trozos grandes.",
+      "Incorporar elotes partidos.",
+      "Cocinar hasta que todo esté tierno.",
+      "Añadir culantro picado al final.",
+      "Servir caliente con arroz blanco."
+    ],
+    "imagePath": "/images/recipes/panamá/sancocho-paname-o.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "sancocho",
+      "gallina",
+      "ñame",
+      "nacional",
+      "domingo"
+    ],
+    "seoTitle": "Sancocho Panameño - Receta Auténtica de Panamá",
+    "seoDescription": "Aprende a cocinar sancocho panameño, un plato tradicional de panamá. Sopa reconfortante de gallina con ñame, yuca y culantro...."
+  },
+  {
+    "id": "pa-ceviche-panameno",
+    "slug": "ceviche-paname-o",
+    "dishName": "Ceviche Panameño",
+    "summary": "Pescado marinado en limón con cebolla, cilantro y galletas saladas.",
+    "country": "Panamá",
+    "cuisine": "panamá",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "500g de corvina fresca",
+      "Jugo de 8 limones",
+      "1 cebolla roja picada fina",
+      "Cilantro fresco",
+      "1 chile habanero (opcional)",
+      "Sal",
+      "Galletas saladas"
+    ],
+    "instructions": [
+      "Cortar pescado en cubos pequeños.",
+      "Marinar inmediatamente con jugo de limón.",
+      "Dejar reposar 15-20 minutos hasta blanquear.",
+      "Agregar cebolla, cilantro y chile picado.",
+      "Sazonar con sal al gusto.",
+      "Servir frío con galletas saladas."
+    ],
+    "imagePath": "/images/recipes/panamá/ceviche-paname-o.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "ceviche",
+      "corvina",
+      "limon",
+      "aperitivo",
+      "costa"
+    ],
+    "seoTitle": "Ceviche Panameño - Receta Auténtica de Panamá",
+    "seoDescription": "Aprende a cocinar ceviche panameño, un plato tradicional de panamá. Pescado marinado en limón con cebolla, cilantro y galletas saladas...."
+  },
+  {
+    "id": "pa-tamales-bocas-del-toro",
+    "slug": "tamales-de-olla",
+    "dishName": "Tamales de Olla",
+    "summary": "Masa de maíz envuelta en hoja de bijao, hervida hasta cuajar.",
+    "country": "Panamá",
+    "cuisine": "panamá",
+    "prepTimeMin": 180,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 12,
+    "calories": 0,
+    "ingredients": [
+      "1 kg de masa de maíz",
+      "Caldo de pollo o cerdo",
+      "Achiote para color",
+      "Hojas de bijao",
+      "Pabilo",
+      "Sal"
+    ],
+    "instructions": [
+      "Mezclar masa con caldo y achiote.",
+      "Extender sobre hojas de bijao limpias.",
+      "Envolver firmemente formando cilindros.",
+      "Amarrar con pabilo.",
+      "Hervir por 2 horas aproximadamente.",
+      "Servir caliente como acompañante."
+    ],
+    "imagePath": "/images/recipes/panamá/tamales-de-olla.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "tamales",
+      "maiz",
+      "bijao",
+      "acompañante",
+      "colon"
+    ],
+    "seoTitle": "Tamales de Olla - Receta Auténtica de Panamá",
+    "seoDescription": "Aprende a cocinar tamales de olla, un plato tradicional de panamá. Masa de maíz envuelta en hoja de bijao, hervida hasta cuajar...."
+  },
+  {
+    "id": "pa-patacones-con-todo",
+    "slug": "patacones-con-todo",
+    "dishName": "Patacones con Todo",
+    "summary": "Rodajas de plátano verde fritas y aplastadas, rellenas de diversos ingredientes.",
+    "country": "Panamá",
+    "cuisine": "panamá",
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "4 plátanos verdes",
+      "Aceite para freír",
+      "Carne molida guisada",
+      "Ensalada de repollo",
+      "Queso rallado",
+      "Salsa de ajo",
+      "Tostones"
+    ],
+    "instructions": [
+      "Cortar plátanos en rodajas gruesas.",
+      "Freír hasta dorar ligeramente.",
+      "Aplastar cada rodaja con pataconera.",
+      "Volver a freír hasta quedar crujientes.",
+      "Rellenar con carne, ensalada y queso.",
+      "Servir inmediatamente."
+    ],
+    "imagePath": "/images/recipes/panamá/patacones-con-todo.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "patacones",
+      "platanos",
+      "callejero",
+      "frito",
+      "merienda"
+    ],
+    "seoTitle": "Patacones con Todo - Receta Auténtica de Panamá",
+    "seoDescription": "Aprende a cocinar patacones con todo, un plato tradicional de panamá. Rodajas de plátano verde fritas y aplastadas, rellenas de diversos ingredientes...."
+  },
+  {
+    "id": "pa-arroz-con-pollo",
+    "slug": "arroz-con-pollo-paname-o",
+    "dishName": "Arroz con Pollo Panameño",
+    "summary": "Arroz amarillo cocinado con pollo, verduras y especias.",
+    "country": "Panamá",
+    "cuisine": "panamá",
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "1 pollo entero cortado en piezas",
+      "3 tazas de arroz",
+      "Cúrcuma o colorante alimentario",
+      "Guantes (arveja dulce)",
+      "Zanahorias en cubos",
+      "Cebolla, ajo, culantro",
+      "Caldo de pollo"
+    ],
+    "instructions": [
+      "Sazonar pollo con especias y dorar.",
+      "Sofreír arroz con cebolla y ajo.",
+      "Agregar cúrcuma para color amarillo.",
+      "Añadir caldo caliente y verduras.",
+      "Cocinar tapado hasta absorber líquido.",
+      "Servir con ensalada fresca."
+    ],
+    "imagePath": "/images/recipes/panamá/arroz-con-pollo-paname-o.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "arroz",
+      "pollo",
+      "amarillo",
+      "festivo",
+      "interior"
+    ],
+    "seoTitle": "Arroz con Pollo Panameño - Receta Auténtica de Panamá",
+    "seoDescription": "Aprende a cocinar arroz con pollo panameño, un plato tradicional de panamá. Arroz amarillo cocinado con pollo, verduras y especias...."
+  }
+]

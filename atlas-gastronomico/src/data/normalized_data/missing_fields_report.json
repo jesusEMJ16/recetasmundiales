@@ -1,0 +1,5301 @@
+{
+  "metadata": {
+    "total_recetas": 235,
+    "recetas_con_imagen": 0,
+    "recetas_sin_imagen": 235,
+    "recetas_con_tiempos": 235,
+    "recetas_sin_tiempos": 0,
+    "recetas_con_ingredientes": 235,
+    "recetas_sin_ingredientes": 0,
+    "recetas_con_pasos": 235,
+    "recetas_sin_pasos": 0
+  },
+  "problemas_por_categoria": {
+    "sin_imagen": [
+      {
+        "pais": "Alemania",
+        "id": "de-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Alemania",
+        "id": "de-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Alemania",
+        "id": "de-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Alemania",
+        "id": "de-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Alemania",
+        "id": "de-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-asado-criollo",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-empanadas-salteñas",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-milanesa-napolitana",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-locro",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-dulce-de-leche",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-feijoada-completa",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-moqueca-bahiana",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-pao-de-queijo",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-coxinha-de-frango",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-acaraje",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-pastel-de-choclo",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-empanadas-de-pino",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-cazuela-chilena",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-completo-chileno",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-curanto",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "China",
+        "id": "chin-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "China",
+        "id": "chin-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "China",
+        "id": "chin-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "China",
+        "id": "chin-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "China",
+        "id": "chin-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-bandeja-paisa",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-ajiaco-santafereo",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-arepas-colombianas",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-lechona-tolimense",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-mote-de-queso",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-gallo-pinto",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-casado",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-olla-de-carne",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-tamales-navidenos",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-chifrijo",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-006",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-007",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-008",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-009",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-010",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-ceviche-de-camarones",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-llapingachos",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-encebollado",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-hornado-panguense",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-cuy-asado",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-006",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-007",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-008",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-009",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-010",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-006",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-007",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-008",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-009",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "España",
+        "id": "espa-010",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-006",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-007",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-008",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-009",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-010",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-006",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-007",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-008",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-009",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-010",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-006",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-007",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-008",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-009",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-010",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "India",
+        "id": "ind-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "India",
+        "id": "ind-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "India",
+        "id": "ind-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "India",
+        "id": "ind-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "India",
+        "id": "ind-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-006",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-007",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-008",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-009",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-010",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "México",
+        "id": "mx-tacos-al-pastor",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "México",
+        "id": "mx-mole-poblano",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "México",
+        "id": "mx-cochinita-pibil",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "México",
+        "id": "mx-chiles-en-nogada",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "México",
+        "id": "mx-sopa-de-lima",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-sancocho-panameno",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-ceviche-panameno",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-tamales-bocas-del-toro",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-patacones-con-todo",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-arroz-con-pollo",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-ceviche-peruano",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-lomo-saltado",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-aji-de-gallina",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-causa-limeña",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-rocoto-relleno",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-006",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-007",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-008",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-009",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-010",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-006",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-007",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-008",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-009",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-010",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-arepa-rellena",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-pabellon-criollo",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-cachapa-con-mano",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-hallaca-navidena",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-tequenos",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-001",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-002",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-003",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-004",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-005",
+        "slug": "unknown",
+        "titulo": "Sin título"
+      }
+    ],
+    "sin_tiempos": [],
+    "sin_ingredientes": [],
+    "sin_pasos": [],
+    "campos_vacios": [
+      {
+        "pais": "Alemania",
+        "id": "de-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Alemania",
+        "id": "de-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Alemania",
+        "id": "de-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Alemania",
+        "id": "de-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Alemania",
+        "id": "de-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-asado-criollo",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-empanadas-salteñas",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-milanesa-napolitana",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-locro",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Argentina",
+        "id": "ar-dulce-de-leche",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-feijoada-completa",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-moqueca-bahiana",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-pao-de-queijo",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-coxinha-de-frango",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Brasil",
+        "id": "br-acaraje",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Canadá",
+        "id": "ca-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-pastel-de-choclo",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-empanadas-de-pino",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-cazuela-chilena",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-completo-chileno",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Chile",
+        "id": "cl-curanto",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "China",
+        "id": "chin-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "China",
+        "id": "chin-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "China",
+        "id": "chin-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "China",
+        "id": "chin-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "China",
+        "id": "chin-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-bandeja-paisa",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-ajiaco-santafereo",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-arepas-colombianas",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-lechona-tolimense",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Colombia",
+        "id": "co-mote-de-queso",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Corea del Sur",
+        "id": "kor-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-gallo-pinto",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-casado",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-olla-de-carne",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-tamales-navidenos",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Costa Rica",
+        "id": "cr-chifrijo",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-006",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-007",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-008",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-009",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Cuba",
+        "id": "cu-010",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-ceviche-de-camarones",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-llapingachos",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-encebollado",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-hornado-panguense",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ecuador",
+        "id": "ec-cuy-asado",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-006",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-007",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-008",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-009",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Egipto",
+        "id": "egypt-010",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-006",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-007",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-008",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-009",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "España",
+        "id": "espa-010",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Estados Unidos",
+        "id": "us-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-006",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-007",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-008",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-009",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Etiopía",
+        "id": "ethiopia-010",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Filipinas",
+        "id": "phil-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-006",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-007",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-008",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-009",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Francia",
+        "id": "fr-010",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Grecia",
+        "id": "gr-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-006",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-007",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-008",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-009",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Hungría",
+        "id": "hu-010",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "India",
+        "id": "ind-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "India",
+        "id": "ind-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "India",
+        "id": "ind-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "India",
+        "id": "ind-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "India",
+        "id": "ind-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Indonesia",
+        "id": "indo-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-006",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-007",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-008",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-009",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Italia",
+        "id": "ital-010",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Japón",
+        "id": "japo-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Malasia",
+        "id": "mal-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "México",
+        "id": "mx-tacos-al-pastor",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "México",
+        "id": "mx-mole-poblano",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "México",
+        "id": "mx-cochinita-pibil",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "México",
+        "id": "mx-chiles-en-nogada",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "México",
+        "id": "mx-sopa-de-lima",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "id": "nz-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-sancocho-panameno",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-ceviche-panameno",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-tamales-bocas-del-toro",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-patacones-con-todo",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Panamá",
+        "id": "pa-arroz-con-pollo",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Países Bajos",
+        "id": "nl-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-ceviche-peruano",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-lomo-saltado",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-aji-de-gallina",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-causa-limeña",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Perú",
+        "id": "pe-rocoto-relleno",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-006",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-007",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-008",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-009",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Polonia",
+        "id": "pl-010",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Portugal",
+        "id": "pt-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Reino Unido",
+        "id": "uk-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Singapur",
+        "id": "sing-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Tailandia",
+        "id": "thai-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Turquía",
+        "id": "tr-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-005",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-006",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-007",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-008",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-009",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Ucrania",
+        "id": "ua-010",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-arepa-rellena",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-pabellon-criollo",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-cachapa-con-mano",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-hallaca-navidena",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Venezuela",
+        "id": "ve-tequenos",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-001",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-002",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-003",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-004",
+        "campo": "title",
+        "valor": ""
+      },
+      {
+        "pais": "Vietnam",
+        "id": "viet-005",
+        "campo": "title",
+        "valor": ""
+      }
+    ]
+  },
+  "detalle_por_pais": {
+    "Alemania": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "de-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "de-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "de-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "de-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "de-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Argentina": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "ar-asado-criollo",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ar-empanadas-salteñas",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ar-milanesa-napolitana",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ar-locro",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ar-dulce-de-leche",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Brasil": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "br-feijoada-completa",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "br-moqueca-bahiana",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "br-pao-de-queijo",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "br-coxinha-de-frango",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "br-acaraje",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Canadá": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "ca-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ca-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ca-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ca-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ca-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Chile": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "cl-pastel-de-choclo",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cl-empanadas-de-pino",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cl-cazuela-chilena",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cl-completo-chileno",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cl-curanto",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "China": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "chin-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "chin-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "chin-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "chin-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "chin-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Colombia": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "co-bandeja-paisa",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "co-ajiaco-santafereo",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "co-arepas-colombianas",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "co-lechona-tolimense",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "co-mote-de-queso",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Corea del Sur": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "kor-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "kor-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "kor-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "kor-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "kor-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Costa Rica": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "cr-gallo-pinto",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cr-casado",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cr-olla-de-carne",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cr-tamales-navidenos",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cr-chifrijo",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Cuba": {
+      "total": 10,
+      "sin_imagen": 10,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "cu-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cu-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cu-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cu-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cu-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cu-006",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cu-007",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cu-008",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cu-009",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "cu-010",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Ecuador": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "ec-ceviche-de-camarones",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ec-llapingachos",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ec-encebollado",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ec-hornado-panguense",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ec-cuy-asado",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Egipto": {
+      "total": 10,
+      "sin_imagen": 10,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "egypt-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "egypt-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "egypt-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "egypt-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "egypt-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "egypt-006",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "egypt-007",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "egypt-008",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "egypt-009",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "egypt-010",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "España": {
+      "total": 10,
+      "sin_imagen": 10,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "espa-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "espa-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "espa-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "espa-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "espa-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "espa-006",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "espa-007",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "espa-008",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "espa-009",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "espa-010",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Estados Unidos": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "us-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "us-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "us-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "us-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "us-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Etiopía": {
+      "total": 10,
+      "sin_imagen": 10,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "ethiopia-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ethiopia-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ethiopia-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ethiopia-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ethiopia-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ethiopia-006",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ethiopia-007",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ethiopia-008",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ethiopia-009",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ethiopia-010",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Filipinas": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "phil-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "phil-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "phil-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "phil-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "phil-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Francia": {
+      "total": 10,
+      "sin_imagen": 10,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "fr-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "fr-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "fr-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "fr-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "fr-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "fr-006",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "fr-007",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "fr-008",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "fr-009",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "fr-010",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Grecia": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "gr-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "gr-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "gr-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "gr-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "gr-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Hungría": {
+      "total": 10,
+      "sin_imagen": 10,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "hu-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "hu-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "hu-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "hu-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "hu-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "hu-006",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "hu-007",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "hu-008",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "hu-009",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "hu-010",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "India": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "ind-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ind-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ind-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ind-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ind-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Indonesia": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "indo-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "indo-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "indo-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "indo-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "indo-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Italia": {
+      "total": 10,
+      "sin_imagen": 10,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "ital-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ital-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ital-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ital-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ital-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ital-006",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ital-007",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ital-008",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ital-009",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ital-010",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Japón": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "japo-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "japo-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "japo-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "japo-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "japo-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Malasia": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "mal-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "mal-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "mal-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "mal-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "mal-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "México": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "mx-tacos-al-pastor",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "mx-mole-poblano",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "mx-cochinita-pibil",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "mx-chiles-en-nogada",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "mx-sopa-de-lima",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Nueva Zelanda": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "nz-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "nz-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "nz-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "nz-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "nz-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Panamá": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "pa-sancocho-panameno",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pa-ceviche-panameno",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pa-tamales-bocas-del-toro",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pa-patacones-con-todo",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pa-arroz-con-pollo",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Países Bajos": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "nl-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "nl-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "nl-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "nl-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "nl-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Perú": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "pe-ceviche-peruano",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pe-lomo-saltado",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pe-aji-de-gallina",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pe-causa-limeña",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pe-rocoto-relleno",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Polonia": {
+      "total": 10,
+      "sin_imagen": 10,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "pl-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pl-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pl-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pl-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pl-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pl-006",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pl-007",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pl-008",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pl-009",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pl-010",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Portugal": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "pt-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pt-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pt-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pt-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "pt-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Reino Unido": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "uk-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "uk-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "uk-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "uk-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "uk-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Singapur": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "sing-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "sing-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "sing-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "sing-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "sing-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Tailandia": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "thai-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "thai-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "thai-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "thai-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "thai-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Turquía": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "tr-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "tr-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "tr-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "tr-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "tr-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Ucrania": {
+      "total": 10,
+      "sin_imagen": 10,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "ua-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ua-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ua-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ua-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ua-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ua-006",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ua-007",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ua-008",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ua-009",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ua-010",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Venezuela": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "ve-arepa-rellena",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ve-pabellon-criollo",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ve-cachapa-con-mano",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ve-hallaca-navidena",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "ve-tequenos",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    },
+    "Vietnam": {
+      "total": 5,
+      "sin_imagen": 5,
+      "sin_tiempos": 0,
+      "sin_ingredientes": 0,
+      "sin_pasos": 0,
+      "recetas_problema": [
+        {
+          "id": "viet-001",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "viet-002",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "viet-003",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "viet-004",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        },
+        {
+          "id": "viet-005",
+          "slug": "unknown",
+          "titulo": "Sin título",
+          "problemas": [
+            "sin_imagen",
+            "campo_vacio_title"
+          ]
+        }
+      ]
+    }
+  }
+}

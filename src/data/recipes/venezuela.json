@@ -1,0 +1,207 @@
+[
+  {
+    "id": "ve-arepa-rellena",
+    "slug": "arepa-rellena-venezolana",
+    "dishName": "Arepa Rellena Venezolana",
+    "summary": "Pan redondo de maíz relleno de queso, carne mechada y otros ingredientes.",
+    "country": "Venezuela",
+    "cuisine": "venezuela",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "2 tazas de harina de maíz precocida",
+      "2 tazas de agua tibia",
+      "1 cucharadita de sal",
+      "Queso blanco rallado",
+      "Carne mechada",
+      "Caraotas negras",
+      "Plátano frito",
+      "Aguacate"
+    ],
+    "instructions": [
+      "Mezclar harina con agua y sal hasta formar masa suave.",
+      "Formar bolas y aplastar en discos de 1cm de grosor.",
+      "Cocinar en plancha caliente por ambos lados.",
+      "Abrir al medio sin separar completamente.",
+      "Rellenar generosamente con los ingredientes.",
+      "Servir inmediatamente."
+    ],
+    "imagePath": "/images/recipes/venezuela/arepa-rellena-venezolana.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "arepa",
+      "maiz",
+      "rellena",
+      "diario",
+      "venezolana"
+    ],
+    "seoTitle": "Arepa Rellena Venezolana - Receta Auténtica de Venezuela",
+    "seoDescription": "Aprende a cocinar arepa rellena venezolana, un plato tradicional de venezuela. Pan redondo de maíz relleno de queso, carne mechada y otros ingredientes...."
+  },
+  {
+    "id": "ve-pabellon-criollo",
+    "slug": "pabell-n-criollo",
+    "dishName": "Pabellón Criollo",
+    "summary": "Plato nacional venezolano con arroz, caraotas negras, carne mechada y plátano frito.",
+    "country": "Venezuela",
+    "cuisine": "venezuela",
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "500g de carne de res (falda o pecho)",
+      "2 tazas de arroz blanco",
+      "2 tazas de caraotas negras cocidas",
+      "2 plátanos maduros",
+      "Cebolla, ajo, pimentón",
+      "Comino, orégano",
+      "Aceite para freír"
+    ],
+    "instructions": [
+      "Cocer carne con verduras hasta ablandar.",
+      "Desmechar la carne y sofreír con cebolla y especias.",
+      "Preparar arroz blanco graneado.",
+      "Freír plátanos en rodajas hasta dorar.",
+      "Calentar caraotas con un poco de caldo.",
+      "Servir todo junto en plato grande."
+    ],
+    "imagePath": "/images/recipes/venezuela/pabell-n-criollo.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "pabellon",
+      "nacional",
+      "carne",
+      "caraotas",
+      "criollo"
+    ],
+    "seoTitle": "Pabellón Criollo - Receta Auténtica de Venezuela",
+    "seoDescription": "Aprende a cocinar pabellón criollo, un plato tradicional de venezuela. Plato nacional venezolano con arroz, caraotas negras, carne mechada y plátano frito...."
+  },
+  {
+    "id": "ve-cachapa-con-mano",
+    "slug": "cachapa-con-queso-de-mano",
+    "dishName": "Cachapa con Queso de Mano",
+    "summary": "Tortilla dulce de maíz tierno rellena de queso de mano fresco.",
+    "country": "Venezuela",
+    "cuisine": "venezuela",
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "4 choclos tiernos desgranados",
+      "2 cucharadas de azúcar",
+      "Sal al gusto",
+      "Harina de maíz (opcional para espesar)",
+      "300g de queso de mano",
+      "Mantequilla"
+    ],
+    "instructions": [
+      "Licuar granos de maíz con un poco de agua.",
+      "Mezclar con azúcar y sal hasta obtener pasta.",
+      "Cocinar porciones en budare o plancha engrasada.",
+      "Voltear cuando dore por un lado.",
+      "Rellenar caliente con trozos de queso de mano.",
+      "Doblar por la mitad y servir."
+    ],
+    "imagePath": "/images/recipes/venezuela/cachapa-con-queso-de-mano.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "cachapa",
+      "maiz",
+      "queso",
+      "oriente",
+      "dulce"
+    ],
+    "seoTitle": "Cachapa con Queso de Mano - Receta Auténtica de Venezuela",
+    "seoDescription": "Aprende a cocinar cachapa con queso de mano, un plato tradicional de venezuela. Tortilla dulce de maíz tierno rellena de queso de mano fresco...."
+  },
+  {
+    "id": "ve-hallaca-navidena",
+    "slug": "hallaca-navide-a",
+    "dishName": "Hallaca Navideña",
+    "summary": "Tamal venezolano navideño con guiso de carnes, envuelto en hoja de plátano.",
+    "country": "Venezuela",
+    "cuisine": "venezuela",
+    "prepTimeMin": 240,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 20,
+    "calories": 0,
+    "ingredients": [
+      "1 kg de harina de maíz precocida",
+      "Caldo de gallina",
+      "Achiote para color",
+      "Carne de cerdo, res y pollo",
+      "Pasas, aceitunas, alcaparras",
+      "Hojas de plátano",
+      "Papel de cocina o pabilo"
+    ],
+    "instructions": [
+      "Preparar guiso con las tres carnes y condimentos.",
+      "Amasar harina con caldo coloreado con achiote.",
+      "Extender masa sobre hoja de plátano engrasada.",
+      "Colocar guiso, pasas, aceitunas y alcaparras.",
+      "Envolver firmemente y amarrar con pabilo.",
+      "Hervir por 45 minutos aproximadamente."
+    ],
+    "imagePath": "/images/recipes/venezuela/hallaca-navide-a.jpg",
+    "difficulty": "Difícil",
+    "tags": [
+      "hallaca",
+      "navidad",
+      "tamal",
+      "festivo",
+      "familiar"
+    ],
+    "seoTitle": "Hallaca Navideña - Receta Auténtica de Venezuela",
+    "seoDescription": "Aprende a cocinar hallaca navideña, un plato tradicional de venezuela. Tamal venezolano navideño con guiso de carnes, envuelto en hoja de plátano...."
+  },
+  {
+    "id": "ve-tequenos",
+    "slug": "teque-os",
+    "dishName": "Tequeños",
+    "summary": "Palitos de queso blanco envueltos en masa y fritos hasta dorar.",
+    "country": "Venezuela",
+    "cuisine": "venezuela",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 30,
+    "calories": 0,
+    "ingredients": [
+      "500g de queso blanco semiduro",
+      "400g de harina de trigo",
+      "2 huevos",
+      "100g de mantequilla",
+      "Azúcar",
+      "Sal",
+      "Aceite para freír"
+    ],
+    "instructions": [
+      "Cortar queso en bastones de 1cm x 5cm.",
+      "Preparar masa con harina, huevos y mantequilla.",
+      "Estirar masa y cortar tiras.",
+      "Envolver cada bastón de queso sin dejar espacios.",
+      "Freír en aceite caliente hasta dorar.",
+      "Servir calientes con salsa de ajo o guasacaca."
+    ],
+    "imagePath": "/images/recipes/venezuela/teque-os.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "tequeños",
+      "queso",
+      "frito",
+      "fiesta",
+      "aperitivo"
+    ],
+    "seoTitle": "Tequeños - Receta Auténtica de Venezuela",
+    "seoDescription": "Aprende a cocinar tequeños, un plato tradicional de venezuela. Palitos de queso blanco envueltos en masa y fritos hasta dorar...."
+  }
+]

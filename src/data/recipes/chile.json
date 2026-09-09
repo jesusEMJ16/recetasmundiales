@@ -1,0 +1,207 @@
+[
+  {
+    "id": "cl-pastel-de-choclo",
+    "slug": "pastel-de-choclo",
+    "dishName": "Pastel de Choclo",
+    "summary": "Pastel chileno de maíz dulce con pino de carne y pollo.",
+    "country": "Chile",
+    "cuisine": "chile",
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "6 choclos (mazorcas de maíz tierno)",
+      "500g de carne molida",
+      "1 pollo cocido desmenuzado",
+      "2 cebollas grandes",
+      "Aceitunas negras",
+      "Huevos duros",
+      "Pasas rubias",
+      "Azúcar"
+    ],
+    "instructions": [
+      "Rallar los choclos y cocinar hasta formar crema espesa.",
+      "Preparar pino sofriendo carne con cebolla.",
+      "En fuente de greda alternar capas de pino y pollo.",
+      "Cubrir con crema de choclo.",
+      "Espolvorear azúcar y hornear hasta dorar.",
+      "Servir caliente en la misma fuente."
+    ],
+    "imagePath": "/images/recipes/chile/pastel-de-choclo.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "pastel",
+      "choclo",
+      "maiz",
+      "tradicional",
+      "verano"
+    ],
+    "seoTitle": "Pastel de Choclo - Receta Auténtica de Chile",
+    "seoDescription": "Aprende a cocinar pastel de choclo, un plato tradicional de chile. Pastel chileno de maíz dulce con pino de carne y pollo...."
+  },
+  {
+    "id": "cl-empanadas-de-pino",
+    "slug": "empanadas-de-pino",
+    "dishName": "Empanadas de Pino",
+    "summary": "Empanadas horneadas rellenas de carne, cebolla, aceituna y huevo.",
+    "country": "Chile",
+    "cuisine": "chile",
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 10,
+    "calories": 0,
+    "ingredients": [
+      "500g de carne molida (posta negra)",
+      "3 cebollas picadas finamente",
+      "Comino, orégano, ají de color",
+      "Aceitunas negras",
+      "Huevos duros",
+      "Tapa de empanadas",
+      "Caldo de carne"
+    ],
+    "instructions": [
+      "Cocinar cebolla hasta ablandar, agregar carne y especias.",
+      "Reducir líquido hasta obtener pino jugoso pero no líquido.",
+      "Enfriar completamente el relleno.",
+      "Rellenar tapas con pino, aceituna y trozo de huevo.",
+      "Cerrar sellando bien los bordes.",
+      "Hornear a 200°C por 20-25 minutos."
+    ],
+    "imagePath": "/images/recipes/chile/empanadas-de-pino.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "empanadas",
+      "pino",
+      "patrias",
+      "horno",
+      "septiembre"
+    ],
+    "seoTitle": "Empanadas de Pino - Receta Auténtica de Chile",
+    "seoDescription": "Aprende a cocinar empanadas de pino, un plato tradicional de chile. Empanadas horneadas rellenas de carne, cebolla, aceituna y huevo...."
+  },
+  {
+    "id": "cl-cazuela-chilena",
+    "slug": "cazuela-chilena",
+    "dishName": "Cazuela Chilena",
+    "summary": "Sopa campesina con carne, papas, zapallo y arroz o fideos.",
+    "country": "Chile",
+    "cuisine": "chile",
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "500g de carne (vacuno o pollo)",
+      "2 papas grandes",
+      "300g de zapallo camote",
+      "1/2 taza de arroz",
+      "1 zanahoria",
+      "Porotitos verdes",
+      "Cebolla, ajo, cilantro"
+    ],
+    "instructions": [
+      "Cocer carne con verduras para caldo sabroso.",
+      "Agregar papas, zapallo y zanahoria en trozos grandes.",
+      "Incorporar arroz o fideos al final.",
+      "Cocinar hasta que todo esté tierno.",
+      "Servir en plato hondo con mucho caldo.",
+      "Acompañar con ají verde y pebre."
+    ],
+    "imagePath": "/images/recipes/chile/cazuela-chilena.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "cazuela",
+      "sopa",
+      "domingo",
+      "campesino",
+      "familiar"
+    ],
+    "seoTitle": "Cazuela Chilena - Receta Auténtica de Chile",
+    "seoDescription": "Aprende a cocinar cazuela chilena, un plato tradicional de chile. Sopa campesina con carne, papas, zapallo y arroz o fideos...."
+  },
+  {
+    "id": "cl-completo-chileno",
+    "slug": "completo-chileno",
+    "dishName": "Completo Chileno",
+    "summary": "Hot dog cargado con palta, tomate, mayonesa y ají.",
+    "country": "Chile",
+    "cuisine": "chile",
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 1,
+    "calories": 0,
+    "ingredients": [
+      "Pan de hot dog",
+      "Salchicha vienesa",
+      "1 palta grande madura",
+      "2 tomates picados",
+      "Mayonesa abundante",
+      "Ají verde o salsa americana",
+      "Opcional: sauerkraut (chucrut)"
+    ],
+    "instructions": [
+      "Cocinar salchichas en agua caliente o plancha.",
+      "Calentar ligeramente el pan.",
+      "Colocar salchicha en pan.",
+      "Agregar palta aplastada con sal.",
+      "Añadir tomate picado y mayonesa generosa.",
+      "Terminar con ají verde al gusto."
+    ],
+    "imagePath": "/images/recipes/chile/completo-chileno.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "completo",
+      "rapido",
+      "callejero",
+      "vienesa",
+      "palta"
+    ],
+    "seoTitle": "Completo Chileno - Receta Auténtica de Chile",
+    "seoDescription": "Aprende a cocinar completo chileno, un plato tradicional de chile. Hot dog cargado con palta, tomate, mayonesa y ají...."
+  },
+  {
+    "id": "cl-curanto",
+    "slug": "curanto",
+    "dishName": "Curanto",
+    "summary": "Tradicional preparación chilota de mariscos y carnes cocidos bajo tierra.",
+    "country": "Chile",
+    "cuisine": "chile",
+    "prepTimeMin": 180,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 10,
+    "calories": 0,
+    "ingredients": [
+      "Variedad de mariscos (choritos, almejas, centolla)",
+      "Carne de cerdo y vacuno",
+      "Longanizas",
+      "Papas nativas chilotes",
+      "Papas milcao (ralladas)",
+      "Hojas de nalca (pangue)"
+    ],
+    "instructions": [
+      "Cavar hoyo en tierra y hacer fogata hasta tener brasas.",
+      "Colocar piedras grandes sobre brasas hasta calentar.",
+      "Poner hojas de nalca sobre piedras.",
+      "Disponer capas de mariscos, carnes y papas.",
+      "Cubrir con más hojas y tierra para sellar.",
+      "Cocinar por 1 hora aproximadamente."
+    ],
+    "imagePath": "/images/recipes/chile/curanto.jpg",
+    "difficulty": "Difícil",
+    "tags": [
+      "curanto",
+      "chiloe",
+      "mariscos",
+      "ancestral",
+      "comunitario"
+    ],
+    "seoTitle": "Curanto - Receta Auténtica de Chile",
+    "seoDescription": "Aprende a cocinar curanto, un plato tradicional de chile. Tradicional preparación chilota de mariscos y carnes cocidos bajo tierra...."
+  }
+]

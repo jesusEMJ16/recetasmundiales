@@ -1,0 +1,296 @@
+[
+  {
+    "id": "r-nl-001",
+    "dishName": "Stroopwafel",
+    "slug": "stroopwafel",
+    "placeId": "nl-nh",
+    "summary": "Gofre delgado relleno de caramelo líquido y especias.",
+    "history": "Creado en Gouda en 1784 por panaderos que usaban sobras de masa. Hoy es el souvenir holandés más popular.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de harina de trigo"
+      },
+      {
+        "text": "250g de mantequilla fría"
+      },
+      {
+        "text": "100g de azúcar"
+      },
+      {
+        "text": "1 huevo"
+      },
+      {
+        "text": "100ml de leche tibia"
+      },
+      {
+        "text": "25g de levadura fresca"
+      },
+      {
+        "text": "Para relleno: 200g de jarabe de maíz, 100g de azúcar moreno, 50g de mantequilla, canela"
+      }
+    ],
+    "steps": [
+      "Disolver levadura en leche tibia",
+      "Mezclar harina, azúcar y mantequilla fría",
+      "Agregar huevo y leche con levadura",
+      "Amasar hasta obtener masa suave, reposar 1 hora",
+      "Formar bolas pequeñas y aplanar",
+      "Cocinar en gofrera hasta dorar",
+      "Cortar por la mitad mientras están calientes",
+      "Rellenar con mezcla de caramelo caliente y cerrar"
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 281,
+    "popularityScore": 75,
+    "publishedAt": "2024-10-17",
+    "image": "/images/recipes/países-bajos/stroopwafel.jpg",
+    "sources": [
+      "Cocina tradicional de Países Bajos"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-nl-002",
+    "dishName": "Bitterballen",
+    "slug": "bitterballen",
+    "placeId": "nl-nh",
+    "summary": "Bolas de carne estofada empanizadas y fritas, servidas con mostaza.",
+    "history": "Aperitivo tradicional de bares holandeses desde el siglo XIX. Originalmente acompañamiento de bebidas alcohólicas ('bitter').",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de carne de res para guiso"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "500ml de caldo de carne"
+      },
+      {
+        "text": "50g de mantequilla"
+      },
+      {
+        "text": "50g de harina"
+      },
+      {
+        "text": "2 huevos batidos"
+      },
+      {
+        "text": "Pan rallado"
+      },
+      {
+        "text": "Aceite para freír"
+      },
+      {
+        "text": "Mostaza para servir"
+      }
+    ],
+    "steps": [
+      "Cocinar carne en caldo 2 horas hasta tierna",
+      "Desmenuzar carne finamente",
+      "Preparar roux con mantequilla y harina",
+      "Agregar caldo gradualmente hasta espesar",
+      "Mezclar con carne desmenuzada",
+      "Enfriar mezcla hasta solidificar",
+      "Formar bolas, pasar por huevo y pan rallado",
+      "Freír hasta dorar y servir con mostaza"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 192,
+    "popularityScore": 58,
+    "publishedAt": "2024-05-02",
+    "image": "/images/recipes/países-bajos/bitterballen.jpg",
+    "sources": [
+      "Cocina tradicional de Países Bajos"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-nl-003",
+    "dishName": "Erwtensoep",
+    "slug": "erwtensoep",
+    "placeId": "nl-nh",
+    "summary": "Sopa espesa de guisantes con cerdo ahumado y verduras.",
+    "history": "Sopa invernal tradicional holandesa. Se dice que debe ser tan espesa que una cuchara se mantiene vertical en ella.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de guisantes partidos secos"
+      },
+      {
+        "text": "300g de cerdo ahumado (rococo)"
+      },
+      {
+        "text": "200g de tocino"
+      },
+      {
+        "text": "2 zanahorias en rodajas"
+      },
+      {
+        "text": "2 nabos en cubos"
+      },
+      {
+        "text": "1 puerro en rodajas"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "2 litros de agua"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      }
+    ],
+    "steps": [
+      "Remojar guisantes toda la noche",
+      "Cocinar guisantes con agua y cerdo 1.5 horas",
+      "Añadir verduras y continuar cocción 30 minutos",
+      "Retirar carne, deshuesar y cortar",
+      "Triturar parcialmente la sopa",
+      "Regresar carne a la olla",
+      "Servir muy caliente con pan centeno",
+      "Tradicionalmente se come después de patinar sobre hielo"
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 453,
+    "popularityScore": 87,
+    "publishedAt": "2024-03-13",
+    "image": "/images/recipes/países-bajos/erwtensoep.jpg",
+    "sources": [
+      "Cocina tradicional de Países Bajos"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-nl-004",
+    "dishName": "Haring met Uitjes",
+    "slug": "haring-met-uitjes",
+    "placeId": "nl-nh",
+    "summary": "Arenque crudo curado en salmuera, servido con cebolla picada.",
+    "history": "Tradición pesquera holandesa desde el siglo XIV. El 'Hollandse Nieuwe' solo se vende de junio a diciembre.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 filetes de arenque fresco curado"
+      },
+      {
+        "text": "2 cebollas blancas picadas finamente"
+      },
+      {
+        "text": "Pepinillos en vinagre (opcional)"
+      },
+      {
+        "text": "Pan para acompañar"
+      }
+    ],
+    "steps": [
+      "Mantener arenque refrigerado hasta servir",
+      "Picar cebollas muy finamente",
+      "Colocar filetes de arenque en plato",
+      "Cubrir generosamente con cebolla",
+      "Servir inmediatamente con pepinillos",
+      "Tradicionalmente se come sosteniendo el filete por la cola"
+    ],
+    "ratingAvg": 4.3,
+    "ratingCount": 320,
+    "popularityScore": 58,
+    "publishedAt": "2024-12-06",
+    "image": "/images/recipes/países-bajos/haring-met-uitjes.jpg",
+    "sources": [
+      "Cocina tradicional de Países Bajos"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-nl-005",
+    "dishName": "Poffertjes",
+    "slug": "poffertjes",
+    "placeId": "nl-nh",
+    "summary": "Mini panqueques esponjosos hechos con harina de trigo sarraceno.",
+    "history": "Originarios del siglo XVIII cuando la harina de trigo sarraceno era abundante. Hoy son populares en ferias y mercados.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "250g de harina de trigo sarraceno"
+      },
+      {
+        "text": "250ml de leche tibia"
+      },
+      {
+        "text": "25g de levadura fresca"
+      },
+      {
+        "text": "2 huevos separados"
+      },
+      {
+        "text": "50g de azúcar"
+      },
+      {
+        "text": "Pizca de sal"
+      },
+      {
+        "text": "Azúcar glass para espolvorear"
+      },
+      {
+        "text": "Mantequilla derretida"
+      }
+    ],
+    "steps": [
+      "Disolver levadura en leche tibia",
+      "Mezclar harinas, agregar leche y yemas",
+      "Dejar fermentar 30 minutos",
+      "Batir claras a punto de nieve",
+      "Incorporar claras suavemente a la masa",
+      "Calentar sartén especial para poffertjes",
+      "Verter pequeñas cantidades y voltear cuando burbujeen",
+      "Servir calientes con azúcar glass y mantequilla"
+    ],
+    "ratingAvg": 4.1,
+    "ratingCount": 326,
+    "popularityScore": 87,
+    "publishedAt": "2024-09-18",
+    "image": "/images/recipes/países-bajos/poffertjes.jpg",
+    "sources": [
+      "Cocina tradicional de Países Bajos"
+    ],
+    "translations": {}
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "id": "espa-001",
+    "slug": "paella-valenciana",
+    "dishName": "Paella Valenciana",
+    "summary": "El plato más emblemático de España con arroz, pollo, conejo y judías verdes.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "400g arroz bomba",
+      "1 pollo troceado",
+      "1 conejo troceado",
+      "200g judías verdes",
+      "100g garrofó",
+      "1 tomate rallado",
+      "Azafrán",
+      "Pimentón dulce",
+      "Aceite de oliva",
+      "Sal",
+      "Agua"
+    ],
+    "instructions": [
+      "Calentar aceite y dorar carnes",
+      "Añadir verduras y sofreír",
+      "Agregar tomate y pimentón",
+      "Verter agua y cocinar 20 min",
+      "Añadir azafrán y arroz",
+      "Cocinar 18 minutos",
+      "Dejar reposar 5 min"
+    ],
+    "imagePath": "/images/recipes/españa/paella-valenciana.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "arroz",
+      "valencia",
+      "tradicional"
+    ],
+    "seoTitle": "Paella Valenciana - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar paella valenciana, un plato tradicional de españa. El plato más emblemático de España con arroz, pollo, conejo y judías verdes...."
+  },
+  {
+    "id": "espa-002",
+    "slug": "tortilla-espa-ola",
+    "dishName": "Tortilla Española",
+    "summary": "Clásica tortilla de patatas y cebolla, plato nacional español.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "6 huevos",
+      "500g patatas",
+      "1 cebolla",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "instructions": [
+      "Cortar patatas en láminas",
+      "Freír patatas y cebolla",
+      "Mezclar con huevos batidos",
+      "Cuajar en sartén por ambos lados"
+    ],
+    "imagePath": "/images/recipes/españa/tortilla-espa-ola.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "huevos",
+      "patatas",
+      "tradicional"
+    ],
+    "seoTitle": "Tortilla Española - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar tortilla española, un plato tradicional de españa. Clásica tortilla de patatas y cebolla, plato nacional español...."
+  },
+  {
+    "id": "espa-003",
+    "slug": "gazpacho-andaluz",
+    "dishName": "Gazpacho Andaluz",
+    "summary": "Sopa fría de tomate y verduras, perfecta para el verano.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "1kg tomates",
+      "1 pimiento verde",
+      "1 pepino",
+      "1 ajo",
+      "100g pan duro",
+      "100ml aceite de oliva",
+      "50ml vinagre",
+      "Sal"
+    ],
+    "instructions": [
+      "Trocear verduras",
+      "Triturar todo con aceite y vinagre",
+      "Colar",
+      "Refrigerar 2 horas",
+      "Servir frío"
+    ],
+    "imagePath": "/images/recipes/españa/gazpacho-andaluz.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "sopa fría",
+      "tomate",
+      "andalucía",
+      "vegano"
+    ],
+    "seoTitle": "Gazpacho Andaluz - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar gazpacho andaluz, un plato tradicional de españa. Sopa fría de tomate y verduras, perfecta para el verano...."
+  },
+  {
+    "id": "espa-004",
+    "slug": "jam-n-ib-rico-de-bellota",
+    "dishName": "Jamón Ibérico de Bellota",
+    "summary": "Jamón curado de cerdos ibéricos alimentados con bellotas.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "1 jamón ibérico de bellota curado"
+    ],
+    "instructions": [
+      "Colocar en jamonero",
+      "Limpiar superficie",
+      "Cortar lonchas finas",
+      "Servir a temperatura ambiente"
+    ],
+    "imagePath": "/images/recipes/españa/jam-n-ib-rico-de-bellota.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "embutido",
+      "ibérico",
+      "curado",
+      "gourmet"
+    ],
+    "seoTitle": "Jamón Ibérico de Bellota - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar jamón ibérico de bellota, un plato tradicional de españa. Jamón curado de cerdos ibéricos alimentados con bellotas...."
+  },
+  {
+    "id": "espa-005",
+    "slug": "churros-con-chocolate",
+    "dishName": "Churros con Chocolate",
+    "summary": "Churros crujientes con chocolate espeso para mojar.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "250g harina",
+      "250ml agua",
+      "Sal",
+      "Aceite para freír",
+      "Azúcar",
+      "200g chocolate negro",
+      "500ml leche",
+      "Maicena"
+    ],
+    "instructions": [
+      "Hervir agua con sal",
+      "Añadir harina y amasar",
+      "Formar churros con manga",
+      "Freír hasta dorar",
+      "Preparar chocolate espeso",
+      "Servir juntos"
+    ],
+    "imagePath": "/images/recipes/españa/churros-con-chocolate.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "postre",
+      "chocolate",
+      "desayuno"
+    ],
+    "seoTitle": "Churros con Chocolate - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar churros con chocolate, un plato tradicional de españa. Churros crujientes con chocolate espeso para mojar...."
+  },
+  {
+    "id": "espa-006",
+    "slug": "pulpo-a-la-gallega",
+    "dishName": "Pulpo a la Gallega",
+    "summary": "Pulpo tierno sobre patatas con pimentón y aceite de oliva.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "1 pulpo 2-3kg",
+      "4 patatas",
+      "Pimentón dulce y picante",
+      "Sal gorda",
+      "Aceite de oliva"
+    ],
+    "instructions": [
+      "Cocer pulpo 40-50 min",
+      "Dejar reposar",
+      "Cortar en rodajas",
+      "Servir sobre patatas con pimentón y aceite"
+    ],
+    "imagePath": "/images/recipes/españa/pulpo-a-la-gallega.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "marisco",
+      "galicia",
+      "pescado"
+    ],
+    "seoTitle": "Pulpo a la Gallega - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar pulpo a la gallega, un plato tradicional de españa. Pulpo tierno sobre patatas con pimentón y aceite de oliva...."
+  },
+  {
+    "id": "espa-007",
+    "slug": "fabada-asturiana",
+    "dishName": "Fabada Asturiana",
+    "summary": "Guiso de alubias blancas con embutidos asturianos.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "500g fabes",
+      "200g lacón",
+      "200g chorizo",
+      "200g morcilla",
+      "100g tocino",
+      "Azafrán",
+      "Sal"
+    ],
+    "instructions": [
+      "Remojar fabes noche anterior",
+      "Cocer con embutidos 2-3 horas",
+      "Añadir azafrán al final",
+      "Dejar reposar"
+    ],
+    "imagePath": "/images/recipes/españa/fabada-asturiana.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "legumbres",
+      "asturias",
+      "guiso"
+    ],
+    "seoTitle": "Fabada Asturiana - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar fabada asturiana, un plato tradicional de españa. Guiso de alubias blancas con embutidos asturianos...."
+  },
+  {
+    "id": "espa-008",
+    "slug": "salmorejo-cordob-s",
+    "dishName": "Salmorejo Cordobés",
+    "summary": "Crema fría de tomate con jamón y huevo duro.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "1kg tomates",
+      "200g pan duro",
+      "2 ajos",
+      "100ml aceite de oliva",
+      "Sal",
+      "Jamón serrano",
+      "Huevo duro"
+    ],
+    "instructions": [
+      "Triturar tomates con pan, ajos y aceite",
+      "Colar",
+      "Refrigerar",
+      "Servir con jamón y huevo picados"
+    ],
+    "imagePath": "/images/recipes/españa/salmorejo-cordob-s.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "sopa fría",
+      "tomate",
+      "andalucía"
+    ],
+    "seoTitle": "Salmorejo Cordobés - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar salmorejo cordobés, un plato tradicional de españa. Crema fría de tomate con jamón y huevo duro...."
+  },
+  {
+    "id": "espa-009",
+    "slug": "pisto-manchego",
+    "dishName": "Pisto Manchego",
+    "summary": "Guiso de verduras similar al ratatouille francés.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "2 calabacines",
+      "2 pimientos verdes",
+      "1 pimiento rojo",
+      "4 tomates",
+      "1 cebolla",
+      "2 ajos",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "instructions": [
+      "Cortar verduras en dados",
+      "Pochar cebolla y ajos",
+      "Añadir pimientos y calabacín",
+      "Incorporar tomate",
+      "Cocinar 20 min"
+    ],
+    "imagePath": "/images/recipes/españa/pisto-manchego.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "verduras",
+      "la mancha",
+      "vegano"
+    ],
+    "seoTitle": "Pisto Manchego - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar pisto manchego, un plato tradicional de españa. Guiso de verduras similar al ratatouille francés...."
+  },
+  {
+    "id": "espa-010",
+    "slug": "crema-catalana",
+    "dishName": "Crema Catalana",
+    "summary": "Postre cremoso con costra de azúcar caramelizado.",
+    "country": "España",
+    "cuisine": "españa",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "500ml leche",
+      "6 yemas",
+      "100g azúcar",
+      "40g maicena",
+      "Canela",
+      "Piel de naranja y limón",
+      "Azúcar moreno"
+    ],
+    "instructions": [
+      "Infusionar leche con canela y cítricos",
+      "Mezclar yemas con azúcar y maicena",
+      "Cocinar hasta espesar",
+      "Refrigerar 4 horas",
+      "Quemar azúcar encima"
+    ],
+    "imagePath": "/images/recipes/españa/crema-catalana.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "postre",
+      "cataluña",
+      "crema"
+    ],
+    "seoTitle": "Crema Catalana - Receta Auténtica de España",
+    "seoDescription": "Aprende a cocinar crema catalana, un plato tradicional de españa. Postre cremoso con costra de azúcar caramelizado...."
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "r-kor-001",
+    "dishName": "Kimchi Jjigae (Estofado de Kimchi)",
+    "slug": "kimchi-jjigae-(estofado-de-kimchi)",
+    "placeId": "kr-sel",
+    "summary": "Estofado picante y reconfortante de kimchi fermentado con cerdo, tofu y verduras. Plato casero coreano por excelencia, perfecto para días fríos.",
+    "history": "El kimchi jjigae surgió como forma de usar kimchi muy fermentado (mugeunji) que era demasiado ácido para comer solo. Durante la guerra de Corea se popularizó como plato económico y nutritivo. Hoy es comida reconfortante nacional servida en hogares y restaurantes.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400g de kimchi bien fermentado"
+      },
+      {
+        "text": "200g de panceta de cerdo en rodajas"
+      },
+      {
+        "text": "200g de tofu firme"
+      },
+      {
+        "text": "100g de brotes de soja"
+      },
+      {
+        "text": "2 cebolletas verdes"
+      },
+      {
+        "text": "2 dientes de ajo picados"
+      },
+      {
+        "text": "1 cucharada de gochujang (pasta de chili coreana)"
+      },
+      {
+        "text": "1 cucharada de gochugaru (chili en polvo coreano)"
+      },
+      {
+        "text": "1 cucharada de salsa de soja"
+      },
+      {
+        "text": "1 cucharadita de azúcar"
+      },
+      {
+        "text": "Caldo de anchoas o agua"
+      },
+      {
+        "text": "Aceite de sésamo"
+      },
+      {
+        "text": "Semillas de sésamo"
+      }
+    ],
+    "steps": [
+      "Cortar kimchi en trozos medianos, reservar jugo.",
+      "Saltear cerdo en olla hasta dorar ligeramente.",
+      "Añadir kimchi, sofreír 5 minutos hasta ablandar.",
+      "Agregar ajo, gochujang, gochugaru, mezclar bien.",
+      "Verter caldo o agua hasta cubrir ingredientes.",
+      "Añadir jugo de kimchi reservado.",
+      "Incorporar salsa de soja y azúcar.",
+      "Hervir 10 minutos a fuego medio.",
+      "Añadir tofu en cubos, cocinar 5 minutos más.",
+      "Agregar brotes de soja y cebolletas.",
+      "Terminar con aceite de sésamo y semillas.",
+      "Servir hirviendo con arroz blanco."
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 398,
+    "popularityScore": 88,
+    "publishedAt": "2024-09-19",
+    "image": "/images/recipes/corea-del-sur/kimchi-jjigae-(estofado-de-kimchi).jpg",
+    "sources": [
+      "Cocina tradicional de Corea del Sur"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-kor-002",
+    "dishName": "Bibimbap",
+    "slug": "bibimbap",
+    "placeId": "kr-sel",
+    "summary": "Arroz mezclado con vegetales salteados, carne, huevo frito y gochujang. Plato colorido y balanceado que representa la filosofía coreana de armonía.",
+    "history": "Originario de Jeonju (capital culinaria de Corea), el bibimbap era comida real durante la dinastía Joseon. El nombre significa 'arroz mezclado'. Se sirve tradicionalmente en bowl de piedra caliente (dolsot) creando capa crujiente. Es ícono de la cocina coreana saludable.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400g de arroz blanco coreano"
+      },
+      {
+        "text": "150g de carne de res en tiras finas"
+      },
+      {
+        "text": "1 zanahoria en juliana"
+      },
+      {
+        "text": "1 calabacín en juliana"
+      },
+      {
+        "text": "200g de espinacas"
+      },
+      {
+        "text": "200g de brotes de soja"
+      },
+      {
+        "text": "100g de setas shiitake"
+      },
+      {
+        "text": "4 huevos"
+      },
+      {
+        "text": "4 cucharadas de gochujang"
+      },
+      {
+        "text": "2 cucharadas de aceite de sésamo"
+      },
+      {
+        "text": "Ajo picado"
+      },
+      {
+        "text": "Salsa de soja"
+      },
+      {
+        "text": "Azúcar"
+      },
+      {
+        "text": "Semillas de sésamo"
+      },
+      {
+        "text": "Aceite vegetal"
+      }
+    ],
+    "steps": [
+      "Cocinar arroz según método coreano.",
+      "Marinar carne con soja, ajo, azúcar y aceite de sésamo.",
+      "Saltear carne rápidamente, reservar.",
+      "Saltear cada vegetal por separado con sal y aceite de sésamo.",
+      "Escaldar espinacas 1 minuto, enfriar, escurrir, sazonar.",
+      "Freír huevos con yema líquida.",
+      "Montar bowls: arroz caliente en base.",
+      "Disponer vegetales y carne en secciones separadas sobre arroz.",
+      "Colocar huevo fijo en centro.",
+      "Servir con gochujang aparte.",
+      "Mezclar todo antes de comer rompiendo yema."
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 278,
+    "popularityScore": 51,
+    "publishedAt": "2024-05-03",
+    "image": "/images/recipes/corea-del-sur/bibimbap.jpg",
+    "sources": [
+      "Cocina tradicional de Corea del Sur"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-kor-003",
+    "dishName": "Korean BBQ (Bulgogi)",
+    "slug": "korean-bbq-(bulgogi)",
+    "placeId": "kr-sel",
+    "summary": "Finas láminas de res marinadas en salsa dulce-salada de pera asiática, soja y sésamo, grilladas en mesa. Experiencia social coreana icónica.",
+    "history": "El bulgogi ('carne de fuego') desciende del neobiani, plato real de la dinastía Goryeo. La marinada moderna con pera asiática se desarrolló en siglo XX. El BBQ coreano se hizo global en años 2000, representando la cultura de comer compartido coreano.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 150,
+    "cookTimeMin": 30,
+    "totalTimeMin": 180,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "800g de ribeye o lomo en láminas muy finas"
+      },
+      {
+        "text": "1 pera asiática rallada"
+      },
+      {
+        "text": "4 cucharadas de salsa de soja"
+      },
+      {
+        "text": "2 cucharadas de azúcar moreno"
+      },
+      {
+        "text": "2 cucharadas de mirin o sake"
+      },
+      {
+        "text": "3 dientes de ajo machacados"
+      },
+      {
+        "text": "1 cucharada de aceite de sésamo"
+      },
+      {
+        "text": "Pimienta negra molida"
+      },
+      {
+        "text": "2 cebolletas verdes en trozos"
+      },
+      {
+        "text": "1 cebolla en gajos"
+      },
+      {
+        "text": "Semillas de sésamo"
+      },
+      {
+        "text": "Lechuga para envolver"
+      },
+      {
+        "text": "Ssamjang (pasta para envolver)"
+      },
+      {
+        "text": "Ajo crudo en láminas"
+      },
+      {
+        "text": "Chiles verdes"
+      }
+    ],
+    "steps": [
+      "Cortar carne en láminas lo más finas posible.",
+      "Mezclar pera rallada, soja, azúcar, mirin, ajo y aceite de sésamo.",
+      "Marinar carne mínimo 2 horas, idealmente toda la noche.",
+      "Precalentar grill o sartén a temperatura muy alta.",
+      "Grillar carne en batches sin sobrecargar, 2-3 minutos por lado.",
+      "Añadir cebolla y cebolletas al grill los últimos minutos.",
+      "Espolvorear semillas de sésamo.",
+      "Servir inmediatamente con lechugas frescas.",
+      "Cada comensal crea ssam: lechuga + carne + ssamjang + ajo + chili.",
+      "Comer de un bocado."
+    ],
+    "ratingAvg": 5.0,
+    "ratingCount": 250,
+    "popularityScore": 51,
+    "publishedAt": "2024-11-23",
+    "image": "/images/recipes/corea-del-sur/korean-bbq-(bulgogi).jpg",
+    "sources": [
+      "Cocina tradicional de Corea del Sur"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-kor-004",
+    "dishName": "Tteokbokki (Pasteles de Arroz Picantes)",
+    "slug": "tteokbokki-(pasteles-de-arroz-picantes)",
+    "placeId": "kr-sel",
+    "summary": "Pasteles de arroz masticables en salsa roja picante de gochujang con pasteles de pescado y huevos duros. Snack callejero coreano más popular.",
+    "history": "El tteokbokki original era versión no picante de la dinastía Joseon. En los años 1950, Ma Bok-rim de Seoul añadió gochujang creando la versión moderna. Se convirtió en comida callejera emblemática, especialmente popular entre estudiantes y jóvenes.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de tteok (pasteles de arroz cilíndricos)"
+      },
+      {
+        "text": "200g de eomuk (pasteles de pescado coreanos)"
+      },
+      {
+        "text": "4 huevos duros"
+      },
+      {
+        "text": "3 cucharadas de gochujang"
+      },
+      {
+        "text": "2 cucharadas de gochugaru"
+      },
+      {
+        "text": "2 cucharadas de salsa de soja"
+      },
+      {
+        "text": "1 cucharada de azúcar"
+      },
+      {
+        "text": "1 litro de caldo de anchoas"
+      },
+      {
+        "text": "2 cebolletas verdes picadas"
+      },
+      {
+        "text": "2 dientes de ajo picados"
+      },
+      {
+        "text": "Semillas de sésamo"
+      },
+      {
+        "text": "Aceite vegetal"
+      }
+    ],
+    "steps": [
+      "Remojar tteok en agua 10 minutos si están duros.",
+      "Preparar caldo de anchoas hirviendo 10 minutos, colar.",
+      "En sartén amplia, mezclar gochujang, gochugaru, soja, azúcar y ajo.",
+      "Verter caldo, llevar a ebullición.",
+      "Añadir tteok, cocinar 10 minutos removiendo ocasionalmente.",
+      "Agregar pasteles de pescado cortados en triángulos.",
+      "Cocinar 5 minutos más hasta salsa espesa.",
+      "Incorporar huevos duros pelados.",
+      "La salsa debe reducirse y glasear los tteok.",
+      "Decorar con cebolletas y semillas de sésamo.",
+      "Servir caliente directamente de la sartén."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 223,
+    "popularityScore": 80,
+    "publishedAt": "2024-04-06",
+    "image": "/images/recipes/corea-del-sur/tteokbokki-(pasteles-de-arroz-picantes).jpg",
+    "sources": [
+      "Cocina tradicional de Corea del Sur"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-kor-005",
+    "dishName": "Japchae (Fideos de Vidrio Salteados)",
+    "slug": "japchae-(fideos-de-vidrio-salteados)",
+    "placeId": "kr-sel",
+    "summary": "Fideos transparentes de almidón de batata salteados con vegetales y res en salsa de soja dulce. Plato festivo elegante y versátil.",
+    "history": "Creado en siglo XVII durante la dinastía Joseon para banquetes reales. Originalmente solo vegetales, se añadió carne en siglo XX. El japchae es plato obligatorio en celebraciones coreanas como bodas y cumpleaños, simbolizando longevidad.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "200g de dangmyeon (fideos de vidrio coreanos)"
+      },
+      {
+        "text": "150g de lomo de res en tiras finas"
+      },
+      {
+        "text": "1 zanahoria en juliana"
+      },
+      {
+        "text": "1 cebolla en juliana"
+      },
+      {
+        "text": "100g de espinacas"
+      },
+      {
+        "text": "100g de setas shiitake hidratadas"
+      },
+      {
+        "text": "2 dientes de ajo picados"
+      },
+      {
+        "text": "3 cucharadas de salsa de soja"
+      },
+      {
+        "text": "2 cucharadas de azúcar"
+      },
+      {
+        "text": "2 cucharadas de aceite de sésamo"
+      },
+      {
+        "text": "Pimienta negra"
+      },
+      {
+        "text": "Semillas de sésamo"
+      },
+      {
+        "text": "Aceite vegetal"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Cocinar fideos según paquete, escurrir, cortar en largos manejables.",
+      "Marinar carne con 1 cda de soja, ajo, pimienta y aceite de sésamo.",
+      "Saltear carne rápidamente, reservar.",
+      "Saltear cada vegetal por separado con sal y poco aceite.",
+      "Escaldar espinacas, escurrir, sazonar con sal y aceite de sésamo.",
+      "Mezclar resto de soja con azúcar hasta disolver.",
+      "En wok grande, combinar fideos con mezcla de soja.",
+      "Saltear 2-3 minutos hasta fideos translúcidos.",
+      "Incorporar todos los vegetales y carne.",
+      "Añadir aceite de sésamo restante, mezclar bien.",
+      "Espolvorear semillas de sésamo.",
+      "Servir tibio o a temperatura ambiente."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 74,
+    "popularityScore": 74,
+    "publishedAt": "2024-11-09",
+    "image": "/images/recipes/corea-del-sur/japchae-(fideos-de-vidrio-salteados).jpg",
+    "sources": [
+      "Cocina tradicional de Corea del Sur"
+    ],
+    "translations": {}
+  }
+]

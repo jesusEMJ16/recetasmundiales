@@ -1,0 +1,206 @@
+[
+  {
+    "id": "ar-asado-criollo",
+    "slug": "asado-criollo",
+    "dishName": "Asado Criollo",
+    "summary": "Tradicional parrillada argentina con diversos cortes de carne cocinados a las brasas.",
+    "country": "Argentina",
+    "cuisine": "argentina",
+    "prepTimeMin": 180,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "2 kg de asado de tira",
+      "1 kg de vacío",
+      "1 kg de chorizos criollos",
+      "1 kg de morcilla",
+      "Sal gruesa",
+      "Carbón o leña",
+      "Chimichurri"
+    ],
+    "instructions": [
+      "Encender el fuego y esperar a tener brasas consistentes.",
+      "Colocar la carne con sal gruesa sobre la parrilla.",
+      "Cocinar lentamente moviendo según intensidad del calor.",
+      "Voltear la carne solo una vez cuando esté dorada.",
+      "Agregar chorizos y morcilla al final.",
+      "Servir con chimichurri y pan."
+    ],
+    "imagePath": "/images/recipes/argentina/asado-criollo.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "asado",
+      "parrilla",
+      "carne",
+      "tradicional",
+      "social"
+    ],
+    "seoTitle": "Asado Criollo - Receta Auténtica de Argentina",
+    "seoDescription": "Aprende a cocinar asado criollo, un plato tradicional de argentina. Tradicional parrillada argentina con diversos cortes de carne cocinados a las brasas...."
+  },
+  {
+    "id": "ar-empanadas-salteñas",
+    "slug": "empanadas-salte-as",
+    "dishName": "Empanadas Salteñas",
+    "summary": "Empanadas de carne cortada a cuchillo con especias, horneadas hasta dorar.",
+    "country": "Argentina",
+    "cuisine": "argentina",
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 12,
+    "calories": 0,
+    "ingredients": [
+      "500g de carne de res cortada a cuchillo",
+      "2 cebollas grandes",
+      "Pimentón dulce y picante",
+      "Comino",
+      "Aceitunas verdes",
+      "Huevos duros",
+      "Tapa de empanadas",
+      "Caldo de carne"
+    ],
+    "instructions": [
+      "Cocinar la carne con cebolla y especias hasta reducir líquido.",
+      "Dejar enfriar completamente el relleno (fundamental).",
+      "Rellenar las tapas con carne, aceituna y huevo.",
+      "Cerrar repulgando los bordes característicos.",
+      "Hornear a 200°C por 15-20 minutos hasta dorar.",
+      "Servir calientes con limón."
+    ],
+    "imagePath": "/images/recipes/argentina/empanadas-salte-as.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "empanadas",
+      "salteñas",
+      "horno",
+      "carne",
+      "domingo"
+    ],
+    "seoTitle": "Empanadas Salteñas - Receta Auténtica de Argentina",
+    "seoDescription": "Aprende a cocinar empanadas salteñas, un plato tradicional de argentina. Empanadas de carne cortada a cuchillo con especias, horneadas hasta dorar...."
+  },
+  {
+    "id": "ar-milanesa-napolitana",
+    "slug": "milanesa-napolitana",
+    "dishName": "Milanesa Napolitana",
+    "summary": "Milanesa de carne empanizada cubierta con jamón, queso y salsa de tomate.",
+    "country": "Argentina",
+    "cuisine": "argentina",
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "calories": 0,
+    "ingredients": [
+      "4 bifes de nalga o peceto",
+      "2 huevos batidos",
+      "Pan rallado",
+      "4 fetas de jamón cocido",
+      "4 fetas de queso mozzarella",
+      "Salsa de tomate",
+      "Orégano",
+      "Aceite para freír"
+    ],
+    "instructions": [
+      "Aplanar la carne y pasarla por huevo y pan rallado.",
+      "Freír en aceite caliente hasta dorar ambos lados.",
+      "Colocar en fuente para horno.",
+      "Cubrir con salsa de tomate, jamón y queso.",
+      "Gratinar hasta que el queso se derrita.",
+      "Espolvorear orégano y servir."
+    ],
+    "imagePath": "/images/recipes/argentina/milanesa-napolitana.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "milanesa",
+      "napolitana",
+      "queso",
+      "rápido",
+      "clásico"
+    ],
+    "seoTitle": "Milanesa Napolitana - Receta Auténtica de Argentina",
+    "seoDescription": "Aprende a cocinar milanesa napolitana, un plato tradicional de argentina. Milanesa de carne empanizada cubierta con jamón, queso y salsa de tomate...."
+  },
+  {
+    "id": "ar-locro",
+    "slug": "locro",
+    "dishName": "Locro",
+    "summary": "Guiso espeso y contundente con maíz, porotos, zapallo y carnes variadas.",
+    "country": "Argentina",
+    "cuisine": "argentina",
+    "prepTimeMin": 180,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "500g de maíz blanco pisado",
+      "300g de porotos pallares",
+      "500g de zapallo anco",
+      "300g de carne de cerdo",
+      "200g de chorizo colorado",
+      "200g de panceta",
+      "Cebolla de verdeo",
+      "Ají molido"
+    ],
+    "instructions": [
+      "Remojar maíz y porotos desde la noche anterior.",
+      "Cocinar granos con carnes durante 2 horas aproximadamente.",
+      "Agregar zapallo en cubos cuando los granos estén tiernos.",
+      "Cocinar hasta obtener consistencia cremosa.",
+      "Preparar quiquirimichi (salsa picante) para acompañar.",
+      "Servir bien caliente en plato hondo."
+    ],
+    "imagePath": "/images/recipes/argentina/locro.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "locro",
+      "guiso",
+      "maíz",
+      "andino",
+      "festivo"
+    ],
+    "seoTitle": "Locro - Receta Auténtica de Argentina",
+    "seoDescription": "Aprende a cocinar locro, un plato tradicional de argentina. Guiso espeso y contundente con maíz, porotos, zapallo y carnes variadas...."
+  },
+  {
+    "id": "ar-dulce-de-leche",
+    "slug": "dulce-de-leche-casero",
+    "dishName": "Dulce de Leche Casero",
+    "summary": "Dulce tradicional argentino hecho cociendo leche con azúcar hasta caramelizar.",
+    "country": "Argentina",
+    "cuisine": "argentina",
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 20,
+    "calories": 0,
+    "ingredients": [
+      "1 litro de leche entera",
+      "300g de azúcar",
+      "1 cucharadita de esencia de vainilla",
+      "1 pizca de bicarbonato de sodio"
+    ],
+    "instructions": [
+      "Colocar todos los ingredientes en olla de fondo grueso.",
+      "Cocinar a fuego medio-bajo revolviendo constantemente.",
+      "Continuar por 1-2 horas hasta obtener consistencia espesa.",
+      "El punto correcto es cuando al pasar la cuchara deja marca.",
+      "Enfriar y guardar en recipiente hermético."
+    ],
+    "imagePath": "/images/recipes/argentina/dulce-de-leche-casero.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "dulce",
+      "leche",
+      "postre",
+      "tradicional",
+      "dulce"
+    ],
+    "seoTitle": "Dulce de Leche Casero - Receta Auténtica de Argentina",
+    "seoDescription": "Aprende a cocinar dulce de leche casero, un plato tradicional de argentina. Dulce tradicional argentino hecho cociendo leche con azúcar hasta caramelizar...."
+  }
+]

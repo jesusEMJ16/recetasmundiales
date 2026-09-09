@@ -1,0 +1,284 @@
+[
+  {
+    "id": "r-co-bandeja-paisa",
+    "dishName": "Bandeja Paisa",
+    "slug": "bandeja-paisa",
+    "placeId": "co-dc",
+    "summary": "Abundante plato antioqueño con frijoles, arroz, carne molida, chicharrón, huevo y más.",
+    "history": "La bandeja paisa es el plato emblemático de la región antioqueña colombiana. Nació como alimento de los campesinos y arrieros que necesitaban una comida contundente para soportar las largas jornadas de trabajo en las montañas. En 2005 fue declarada plato nacional de Colombia y hoy es símbolo de la generosidad paisa.",
+    "originConfidence": "confirmed",
+    "servings": 1,
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 120,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "300g de frijoles rojos"
+      },
+      {
+        "text": "200g de arroz blanco"
+      },
+      {
+        "text": "150g de carne molida"
+      },
+      {
+        "text": "150g de chicharrón"
+      },
+      {
+        "text": "1 huevo frito"
+      },
+      {
+        "text": "1 chorizo antioqueño"
+      },
+      {
+        "text": "Aguacate"
+      },
+      {
+        "text": "Arepa"
+      },
+      {
+        "text": "Plátano maduro"
+      }
+    ],
+    "steps": [
+      "Cocinar frijoles con hogao (cebolla y tomate) hasta ablandar.",
+      "Preparar arroz blanco graneado.",
+      "Sofreír carne molida con especias.",
+      "Freír chicharrón hasta dorar y crujiente.",
+      "Freír huevo y chorizo.",
+      "Servir todo en bandeja grande con aguacate y arepa."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 432,
+    "popularityScore": 50,
+    "publishedAt": "2024-07-20",
+    "image": "/images/recipes/colombia/bandeja-paisa.jpg",
+    "sources": [
+      "Cocina tradicional de Colombia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-co-ajiaco-santafereo",
+    "dishName": "Ajiaco Santafereño",
+    "slug": "ajiaco-santafereño",
+    "placeId": "co-dc",
+    "summary": "Sopa espesa de tres papas, pollo y guascas, servida con crema y alcaparras.",
+    "history": "El ajiaco santafereño es la sopa insignia de Bogotá. Sus orígenes son precolombinos, preparado por los muiscas con papas nativas de la región. Las tres variedades de papa representan la diversidad del altiplano cundiboyacense. Es tradicionalmente el plato del domingo en familia bogotana y se dice que cura la resaca.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 150,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de papa criolla"
+      },
+      {
+        "text": "300g de papa sabanera"
+      },
+      {
+        "text": "300g de papa pastusa"
+      },
+      {
+        "text": "300g de pechuga de pollo"
+      },
+      {
+        "text": "Guascas frescas"
+      },
+      {
+        "text": "Crema de leche"
+      },
+      {
+        "text": "Alcaparras"
+      },
+      {
+        "text": "Aguacate"
+      }
+    ],
+    "steps": [
+      "Cocer pollo con verduras para obtener caldo sabroso.",
+      "Agregar las tres variedades de papa en trozos.",
+      "Añadir guascas que dan el sabor característico.",
+      "Cocinar hasta que las papas se deshagan parcialmente.",
+      "Desmenuzar el pollo y devolverlo a la sopa.",
+      "Servir con crema, alcaparras y aguacate aparte."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 323,
+    "popularityScore": 100,
+    "publishedAt": "2024-05-25",
+    "image": "/images/recipes/colombia/ajiaco-santafereño.jpg",
+    "sources": [
+      "Cocina tradicional de Colombia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-co-arepas-colombianas",
+    "dishName": "Arepas Colombianas",
+    "slug": "arepas-colombianas",
+    "placeId": "co-dc",
+    "summary": "Pan redondo de maíz que acompaña todas las comidas colombianas.",
+    "history": "La arepa es el pan diario de Colombia, presente en desayunos, almuerzos y cenas. De origen indígena, era preparada por los pueblos originarios mucho antes de la llegada de los españoles. Cada región tiene su variante: arepa de huevo en la costa, arepa boyacense con queso, arepa santandereana asada. Es símbolo de unidad nacional.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 tazas de harina de maíz precocida"
+      },
+      {
+        "text": "2 tazas de agua tibia"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "Queso costeño (opcional)"
+      },
+      {
+        "text": "Mantequilla"
+      }
+    ],
+    "steps": [
+      "Mezclar harina con agua y sal hasta formar masa homogénea.",
+      "Formar bolas y aplastar hasta obtener discos de 1cm.",
+      "Cocinar en plancha o sartén sin aceite por ambos lados.",
+      "Voltear cuando se doren ligeramente.",
+      "Servir calientes con mantequilla o queso."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 274,
+    "popularityScore": 92,
+    "publishedAt": "2024-12-09",
+    "image": "/images/recipes/colombia/arepas-colombianas.jpg",
+    "sources": [
+      "Cocina tradicional de Colombia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-co-lechona-tolimense",
+    "dishName": "Lechona Tolimense",
+    "slug": "lechona-tolimense",
+    "placeId": "co-dc",
+    "summary": "Cerdo relleno de arroz y especias, cocinado lentamente envuelto en hojas de plátano.",
+    "history": "La lechona tolimense es considerada patrimonio gastronómico del Tolima. Su preparación es todo un ritual que requiere tiempo y dedicación. Tradicionalmente se prepara para fiestas patronales y celebraciones especiales. El secreto está en la cocción lenta que permite que la carne absorba todos los sabores del relleno.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 360,
+    "cookTimeMin": 30,
+    "totalTimeMin": 390,
+    "difficulty": "dificil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 lechón entero destazado"
+      },
+      {
+        "text": "2 kg de arroz"
+      },
+      {
+        "text": "500g de arvejas"
+      },
+      {
+        "text": "500g de zanahorias"
+      },
+      {
+        "text": "Cebolla, ajo, comino"
+      },
+      {
+        "text": "Hojas de plátano"
+      },
+      {
+        "text": "Sal y pimienta"
+      }
+    ],
+    "steps": [
+      "Condimentar la carne del cerdo con especias.",
+      "Cocinar arroz con verduras y mezclar con carne picada.",
+      "Rellenar el cuero del cerdo con la mezcla.",
+      "Envolver en hojas de plátano y coser.",
+      "Hornear a temperatura baja por 4-5 horas.",
+      "Servir cortado en rodajas con arepa."
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 135,
+    "popularityScore": 63,
+    "publishedAt": "2024-11-04",
+    "image": "/images/recipes/colombia/lechona-tolimense.jpg",
+    "sources": [
+      "Cocina tradicional de Colombia"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-co-mote-de-queso",
+    "dishName": "Mote de Queso",
+    "slug": "mote-de-queso",
+    "placeId": "co-dc",
+    "summary": "Guiso cremoso de ñame con queso costeño y suero atollabuey.",
+    "history": "El mote de queso es el plato insignia de la Costa Caribe colombiana. De origen humilde, nació como alimento de los pescadores y campesinos que aprovechaban el ñame abundante en la región. El queso costeño y el suero atollabuey le dan ese sabor único que representa la alegría y calidez del caribe colombiano.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 kg de ñame"
+      },
+      {
+        "text": "500g de queso costeño"
+      },
+      {
+        "text": "2 litros de suero atollabuey"
+      },
+      {
+        "text": "Cebolla cabezona"
+      },
+      {
+        "text": "Ajo"
+      },
+      {
+        "text": "Cilantro"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Pelar y cortar el ñame en cubos.",
+      "Cocer el ñame en agua con sal hasta ablandar.",
+      "Agregar el suero y dejar hervir.",
+      "Incorporar el queso en trozos.",
+      "Sazonar con cebolla, ajo y cilantro.",
+      "Servir caliente con arroz blanco."
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 274,
+    "popularityScore": 55,
+    "publishedAt": "2024-11-08",
+    "image": "/images/recipes/colombia/mote-de-queso.jpg",
+    "sources": [
+      "Cocina tradicional de Colombia"
+    ],
+    "translations": {}
+  }
+]

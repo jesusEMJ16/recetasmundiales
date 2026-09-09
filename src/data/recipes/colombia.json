@@ -1,0 +1,207 @@
+[
+  {
+    "id": "co-bandeja-paisa",
+    "slug": "bandeja-paisa",
+    "dishName": "Bandeja Paisa",
+    "summary": "Abundante plato antioqueño con frijoles, arroz, carne molida, chicharrón, huevo y más.",
+    "country": "Colombia",
+    "cuisine": "colombia",
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 1,
+    "calories": 0,
+    "ingredients": [
+      "300g de frijoles rojos",
+      "200g de arroz blanco",
+      "150g de carne molida",
+      "150g de chicharrón",
+      "1 huevo frito",
+      "1 chorizo antioqueño",
+      "Aguacate",
+      "Arepa",
+      "Plátano maduro"
+    ],
+    "instructions": [
+      "Cocinar frijoles con hogao (cebolla y tomate) hasta ablandar.",
+      "Preparar arroz blanco graneado.",
+      "Sofreír carne molida con especias.",
+      "Freír chicharrón hasta dorar y crujiente.",
+      "Freír huevo y chorizo.",
+      "Servir todo en bandeja grande con aguacate y arepa."
+    ],
+    "imagePath": "/images/recipes/colombia/bandeja-paisa.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "paisa",
+      "frijoles",
+      "contundente",
+      "antioquia",
+      "nacional"
+    ],
+    "seoTitle": "Bandeja Paisa - Receta Auténtica de Colombia",
+    "seoDescription": "Aprende a cocinar bandeja paisa, un plato tradicional de colombia. Abundante plato antioqueño con frijoles, arroz, carne molida, chicharrón, huevo y más...."
+  },
+  {
+    "id": "co-ajiaco-santafereo",
+    "slug": "ajiaco-santafere-o",
+    "dishName": "Ajiaco Santafereño",
+    "summary": "Sopa espesa de tres papas, pollo y guascas, servida con crema y alcaparras.",
+    "country": "Colombia",
+    "cuisine": "colombia",
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "500g de papa criolla",
+      "300g de papa sabanera",
+      "300g de papa pastusa",
+      "300g de pechuga de pollo",
+      "Guascas frescas",
+      "Crema de leche",
+      "Alcaparras",
+      "Aguacate"
+    ],
+    "instructions": [
+      "Cocer pollo con verduras para obtener caldo sabroso.",
+      "Agregar las tres variedades de papa en trozos.",
+      "Añadir guascas que dan el sabor característico.",
+      "Cocinar hasta que las papas se deshagan parcialmente.",
+      "Desmenuzar el pollo y devolverlo a la sopa.",
+      "Servir con crema, alcaparras y aguacate aparte."
+    ],
+    "imagePath": "/images/recipes/colombia/ajiaco-santafere-o.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "sopa",
+      "papa",
+      "bogota",
+      "domingo",
+      "tradicional"
+    ],
+    "seoTitle": "Ajiaco Santafereño - Receta Auténtica de Colombia",
+    "seoDescription": "Aprende a cocinar ajiaco santafereño, un plato tradicional de colombia. Sopa espesa de tres papas, pollo y guascas, servida con crema y alcaparras...."
+  },
+  {
+    "id": "co-arepas-colombianas",
+    "slug": "arepas-colombianas",
+    "dishName": "Arepas Colombianas",
+    "summary": "Pan redondo de maíz que acompaña todas las comidas colombianas.",
+    "country": "Colombia",
+    "cuisine": "colombia",
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "2 tazas de harina de maíz precocida",
+      "2 tazas de agua tibia",
+      "1 cucharadita de sal",
+      "Queso costeño (opcional)",
+      "Mantequilla"
+    ],
+    "instructions": [
+      "Mezclar harina con agua y sal hasta formar masa homogénea.",
+      "Formar bolas y aplastar hasta obtener discos de 1cm.",
+      "Cocinar en plancha o sartén sin aceite por ambos lados.",
+      "Voltear cuando se doren ligeramente.",
+      "Servir calientes con mantequilla o queso."
+    ],
+    "imagePath": "/images/recipes/colombia/arepas-colombianas.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "arepa",
+      "maíz",
+      "pan",
+      "diario",
+      "indígena"
+    ],
+    "seoTitle": "Arepas Colombianas - Receta Auténtica de Colombia",
+    "seoDescription": "Aprende a cocinar arepas colombianas, un plato tradicional de colombia. Pan redondo de maíz que acompaña todas las comidas colombianas...."
+  },
+  {
+    "id": "co-lechona-tolimense",
+    "slug": "lechona-tolimense",
+    "dishName": "Lechona Tolimense",
+    "summary": "Cerdo relleno de arroz y especias, cocinado lentamente envuelto en hojas de plátano.",
+    "country": "Colombia",
+    "cuisine": "colombia",
+    "prepTimeMin": 360,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 12,
+    "calories": 0,
+    "ingredients": [
+      "1 lechón entero destazado",
+      "2 kg de arroz",
+      "500g de arvejas",
+      "500g de zanahorias",
+      "Cebolla, ajo, comino",
+      "Hojas de plátano",
+      "Sal y pimienta"
+    ],
+    "instructions": [
+      "Condimentar la carne del cerdo con especias.",
+      "Cocinar arroz con verduras y mezclar con carne picada.",
+      "Rellenar el cuero del cerdo con la mezcla.",
+      "Envolver en hojas de plátano y coser.",
+      "Hornear a temperatura baja por 4-5 horas.",
+      "Servir cortado en rodajas con arepa."
+    ],
+    "imagePath": "/images/recipes/colombia/lechona-tolimense.jpg",
+    "difficulty": "Difícil",
+    "tags": [
+      "lechona",
+      "cerdo",
+      "tolima",
+      "festivo",
+      "patrimonio"
+    ],
+    "seoTitle": "Lechona Tolimense - Receta Auténtica de Colombia",
+    "seoDescription": "Aprende a cocinar lechona tolimense, un plato tradicional de colombia. Cerdo relleno de arroz y especias, cocinado lentamente envuelto en hojas de plátano...."
+  },
+  {
+    "id": "co-mote-de-queso",
+    "slug": "mote-de-queso",
+    "dishName": "Mote de Queso",
+    "summary": "Guiso cremoso de ñame con queso costeño y suero atollabuey.",
+    "country": "Colombia",
+    "cuisine": "colombia",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "1 kg de ñame",
+      "500g de queso costeño",
+      "2 litros de suero atollabuey",
+      "Cebolla cabezona",
+      "Ajo",
+      "Cilantro",
+      "Sal"
+    ],
+    "instructions": [
+      "Pelar y cortar el ñame en cubos.",
+      "Cocer el ñame en agua con sal hasta ablandar.",
+      "Agregar el suero y dejar hervir.",
+      "Incorporar el queso en trozos.",
+      "Sazonar con cebolla, ajo y cilantro.",
+      "Servir caliente con arroz blanco."
+    ],
+    "imagePath": "/images/recipes/colombia/mote-de-queso.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "mote",
+      "ñame",
+      "caribe",
+      "queso",
+      "costeño"
+    ],
+    "seoTitle": "Mote de Queso - Receta Auténtica de Colombia",
+    "seoDescription": "Aprende a cocinar mote de queso, un plato tradicional de colombia. Guiso cremoso de ñame con queso costeño y suero atollabuey...."
+  }
+]

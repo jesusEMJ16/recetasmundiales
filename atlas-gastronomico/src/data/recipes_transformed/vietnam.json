@@ -1,0 +1,412 @@
+[
+  {
+    "id": "r-viet-001",
+    "dishName": "Pho Bo (Sopa de Fideos con Ternera)",
+    "slug": "pho-bo-(sopa-de-fideos-con-ternera)",
+    "placeId": "vn-han",
+    "summary": "Sopa aromática de fideos de arroz con caldo de ternera cocinado durante horas, hierbas frescas y rodajas de carne. Plato nacional vietnamita por excelencia.",
+    "history": "El pho nació en el norte de Vietnam a principios del siglo XX, posiblemente influenciado por el pot-au-feu francés. El nombre podría derivar de 'feu'. Se popularizó en los años 1950 cuando muchos norvietnamitas migraron al sur. Hoy es símbolo de Vietnam mundialmente.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de huesos de ternera"
+      },
+      {
+        "text": "500g de brisket de ternera"
+      },
+      {
+        "text": "500g de fideos de arroz secos"
+      },
+      {
+        "text": "1 cebolla grande"
+      },
+      {
+        "text": "Trozo de jengibre de 5cm"
+      },
+      {
+        "text": "3 estrellas de anís"
+      },
+      {
+        "text": "6 clavos de olor"
+      },
+      {
+        "text": "1 rama de canela"
+      },
+      {
+        "text": "Cardamomo negro"
+      },
+      {
+        "text": "Salsa de pescado"
+      },
+      {
+        "text": "Brotes de soja"
+      },
+      {
+        "text": "Albahaca thai"
+      },
+      {
+        "text": "Cilantro"
+      },
+      {
+        "text": "Menta"
+      },
+      {
+        "text": "Cebolletas"
+      },
+      {
+        "text": "Lima"
+      },
+      {
+        "text": "Chiles frescos"
+      }
+    ],
+    "steps": [
+      "Quemar cebolla y jengibre sobre fuego directo hasta carbonizar ligeramente.",
+      "Hervir huesos 10 minutos, descartar agua, limpiar huesos.",
+      "Colocar huesos limpios en olla grande con agua fresca.",
+      "Añadir cebolla, jengibre y especias tostadas.",
+      "Cocinar a fuego mínimo 6-8 horas espumando regularmente.",
+      "Añadir brisket las últimas 2 horas de cocción.",
+      "Colar caldo, debe ser claro y aromático.",
+      "Sazonar con salsa de pescado y sal.",
+      "Hidratar fideos según instrucciones del paquete.",
+      "Montar bowls: fideos, brisket en rodajas, carne cruda fina.",
+      "Verter caldo hirviendo sobre la carne.",
+      "Servir con plato de hierbas, brotes, lima y chiles aparte."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 391,
+    "popularityScore": 77,
+    "publishedAt": "2024-09-28",
+    "image": "/images/recipes/vietnam/pho-bo-(sopa-de-fideos-con-ternera).jpg",
+    "sources": [
+      "Cocina tradicional de Vietnam"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-viet-002",
+    "dishName": "Banh Mi",
+    "slug": "banh-mi",
+    "placeId": "vn-han",
+    "summary": "Baguette vietnamita rellena de paté, carnes frías, vegetales encurtidos, cilantro y chiles. Fusión perfecta de influencias francesas y sabores locales.",
+    "history": "Creado durante la colonización francesa en los años 1950-60. Los vietnamitas adaptaron el sándwich francés usando baguette local más ligera y rellenos tradicionales. Tras la guerra, se convirtió en comida callejera icónica. Hoy es emblema de fusión culinaria exitosa.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 baguettes vietnamitas o baguettes pequeñas"
+      },
+      {
+        "text": "200g de paté de hígado"
+      },
+      {
+        "text": "200g de cerdo asado o jamón vietnamita"
+      },
+      {
+        "text": "100g de panceta crujiente"
+      },
+      {
+        "text": "2 zanahorias medianas"
+      },
+      {
+        "text": "1 daikon (rábano blanco)"
+      },
+      {
+        "text": "1 pepino"
+      },
+      {
+        "text": "Cilantro fresco"
+      },
+      {
+        "text": "Chiles verdes tailandeses"
+      },
+      {
+        "text": "Mayonesa"
+      },
+      {
+        "text": "Salsa de soja"
+      },
+      {
+        "text": "Azúcar"
+      },
+      {
+        "text": "Vinagre de arroz"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Cortar zanahoria y daikon en juliana fina.",
+      "Mezclar con sal, dejar sudar 10 minutos, enjuagar.",
+      "Marinar con vinagre, azúcar y agua 30 minutos.",
+      "Cortar baguettes longitudinalmente sin separar completamente.",
+      "Tostar ligeramente el pan hasta crujiente.",
+      "Untar paté generosamente en ambas mitades.",
+      "Añadir capa de mayonesa.",
+      "Colocar carnes en rodajas finas.",
+      "Agregar vegetales encurtidos escurridos.",
+      "Poner rodajas de pepino fresco.",
+      "Decorar con cilantro entero y chiles en rodajas.",
+      "Cerrar sándwich, servir inmediatamente."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 204,
+    "popularityScore": 53,
+    "publishedAt": "2024-05-25",
+    "image": "/images/recipes/vietnam/banh-mi.jpg",
+    "sources": [
+      "Cocina tradicional de Vietnam"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-viet-003",
+    "dishName": "Goi Cuon (Rollitos de Primavera Frescos)",
+    "slug": "goi-cuon-(rollitos-de-primavera-frescos)",
+    "placeId": "vn-han",
+    "summary": "Rollitos frescos de papel de arroz rellenos de camarones, cerdo, vermicelli y hierbas. Ligeros, saludables y servidos con salsa de inmersión nuoc cham.",
+    "history": "Los goi cuon son originarios del sur de Vietnam, creados como alternativa fresca a los rollitos fritos. Representan la filosofía vietnamita de comidas balanceadas con texturas y temperaturas contrastantes. Son populares en celebraciones y comida diaria.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 40,
+    "cookTimeMin": 30,
+    "totalTimeMin": 70,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "16 wrappers de papel de arroz"
+      },
+      {
+        "text": "200g de camarones grandes"
+      },
+      {
+        "text": "200g de panceta de cerdo"
+      },
+      {
+        "text": "200g de vermicelli de arroz"
+      },
+      {
+        "text": "Lechuga romana"
+      },
+      {
+        "text": "Menta fresca"
+      },
+      {
+        "text": "Cilantro"
+      },
+      {
+        "text": "Albahaca thai"
+      },
+      {
+        "text": "Brotes de soja"
+      },
+      {
+        "text": "Para nuoc cham: 3 cucharadas de salsa de pescado"
+      },
+      {
+        "text": "2 cucharadas de jugo de lima"
+      },
+      {
+        "text": "2 cucharadas de azúcar"
+      },
+      {
+        "text": "1 diente de ajo picado"
+      },
+      {
+        "text": "Chili tailandés picado"
+      },
+      {
+        "text": "Agua tibia"
+      }
+    ],
+    "steps": [
+      "Cocinar cerdo en agua con sal 20 minutos, enfriar, cortar en tiras.",
+      "Cocinar camarones 3 minutos hasta rosados, cortar por la mitad.",
+      "Hidratar vermicelli en agua caliente 5 minutos, escurrir.",
+      "Preparar nuoc cham: mezclar todos los ingredientes hasta disolver azúcar.",
+      "Llenar bowl poco profundo con agua tibia.",
+      "Sumergir wrapper de arroz 5 segundos hasta flexible.",
+      "Colocar en superficie limpia, añadir lechuga.",
+      "Agregar vermicelli, hierbas, cerdo y camarones.",
+      "Doblar lados del wrapper, enrollar firmemente desde abajo.",
+      "Repetir con restantes ingredientes.",
+      "Servir inmediatamente con nuoc cham para mojar."
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 379,
+    "popularityScore": 88,
+    "publishedAt": "2024-05-11",
+    "image": "/images/recipes/vietnam/goi-cuon-(rollitos-de-primavera-frescos).jpg",
+    "sources": [
+      "Cocina tradicional de Vietnam"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-viet-004",
+    "dishName": "Bun Cha (Cerdo a la Parrilla con Fideos)",
+    "slug": "bun-cha-(cerdo-a-la-parrilla-con-fideos)",
+    "placeId": "vn-han",
+    "summary": "Albóndigas y panceta de cerdo marinadas y grilladas, servidas sobre fideos de arroz con hierbas y aderezo nuoc mam. Plato veraniego refrescante.",
+    "history": "Plato tradicional de Hanoi que data de siglos. El bun cha era comida de trabajadores por su portabilidad y nutrición. Ganó fama internacional cuando Anthony Bourdain y Obama lo compartieron en Hanoi en 2016. Es desayuno o almuerzo típico del norte.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de carne de cerdo picada"
+      },
+      {
+        "text": "300g de panceta de cerdo en láminas finas"
+      },
+      {
+        "text": "200g de fideos bun (vermicelli redondos)"
+      },
+      {
+        "text": "2 cebolletas picadas"
+      },
+      {
+        "text": "3 dientes de ajo machacados"
+      },
+      {
+        "text": "2 cucharadas de salsa de pescado"
+      },
+      {
+        "text": "1 cucharada de azúcar moreno"
+      },
+      {
+        "text": "1 cucharadita de pimienta negra"
+      },
+      {
+        "text": "1 cucharada de aceite vegetal"
+      },
+      {
+        "text": "Lechuga, menta, perilla, cilantro"
+      },
+      {
+        "text": "Para aderezo: salsa de pescado, lima, azúcar, ajo, chili, agua"
+      }
+    ],
+    "steps": [
+      "Mezclar cerdo picado con cebolletas, ajo, 1 cda de salsa de pescado, azúcar y pimienta.",
+      "Marinar 30 minutos mínimo.",
+      "Marinar panceta con resto de salsa de pescado y ajo.",
+      "Formar albóndigas pequeñas con mezcla de cerdo.",
+      "Precalentar parrilla o sartén grill a alto calor.",
+      "Grillar albóndigas 4-5 minutos por lado hasta caramelizadas.",
+      "Grillar panceta 3 minutos por lado hasta crujiente.",
+      "Preparar aderezo mezclando todos los ingredientes.",
+      "Cocinar fideos según paquete, escurrir, enfriar.",
+      "Montar bowls: fideos, hierbas frescas, cerdo grillado.",
+      "Servir con aderezo aparte para verter al gusto."
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 284,
+    "popularityScore": 57,
+    "publishedAt": "2024-04-21",
+    "image": "/images/recipes/vietnam/bun-cha-(cerdo-a-la-parrilla-con-fideos).jpg",
+    "sources": [
+      "Cocina tradicional de Vietnam"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-viet-005",
+    "dishName": "Ca Kho To (Pescado Caramelizado en Olla de Barro)",
+    "slug": "ca-kho-to-(pescado-caramelizado-en-olla-de-barro)",
+    "placeId": "vn-han",
+    "summary": "Pescado (tradicionalmente catfish) braised en olla de barro con salsa de pescado caramelizada, azúcar de coco y pimienta. Plato casero reconfortante del delta.",
+    "history": "Plato campesino del delta del Mekong donde el pescado de río es abundante. 'Kho' significa braised, 'to' indica olla grande de barro. La técnica de caramelizar azúcar con salsa de pescado crea un glaseado único. Es comida familiar dominical tradicional.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "800g de filete de pescado blanco firme (catfish, lubina o bacalao)"
+      },
+      {
+        "text": "4 cucharadas de azúcar de palma o moreno"
+      },
+      {
+        "text": "3 cucharadas de salsa de pescado"
+      },
+      {
+        "text": "1 cucharada de salsa de soja"
+      },
+      {
+        "text": "2 chalotas picadas"
+      },
+      {
+        "text": "3 dientes de ajo picados"
+      },
+      {
+        "text": "2 chiles rojos"
+      },
+      {
+        "text": "Jugo de 1 coco joven o agua de coco"
+      },
+      {
+        "text": "Pimienta negra molida generosamente"
+      },
+      {
+        "text": "Cebollino verde"
+      },
+      {
+        "text": "Aceite vegetal"
+      },
+      {
+        "text": "Arroz blanco al vapor"
+      }
+    ],
+    "steps": [
+      "Cortar pescado en trozos de 4cm, marinar con mitad de salsa de pescado 15 minutos.",
+      "En olla de barro o cazuela, derretir azúcar a fuego medio hasta caramelo oscuro.",
+      "Añadir chalotas y ajo, saltear 1 minuto hasta fragantes.",
+      "Incorporar resto de salsa de pescado y soja cuidadosamente.",
+      "Verter agua de coco, llevar a ebullición.",
+      "Colocar trozos de pescado en una sola capa.",
+      "Añadir chiles enteros, reducir fuego a mínimo.",
+      "Cocinar tapado 25-30 minutos sin remover para no romper pescado.",
+      "Dar vuelta pescado cuidadosamente a mitad de cocción.",
+      "La salsa debe reducirse a glaseado espeso y oscuro.",
+      "Espolvorear pimienta negra y cebollino.",
+      "Servir muy caliente sobre arroz blanco."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 114,
+    "popularityScore": 58,
+    "publishedAt": "2024-10-16",
+    "image": "/images/recipes/vietnam/ca-kho-to-(pescado-caramelizado-en-olla-de-barro).jpg",
+    "sources": [
+      "Cocina tradicional de Vietnam"
+    ],
+    "translations": {}
+  }
+]

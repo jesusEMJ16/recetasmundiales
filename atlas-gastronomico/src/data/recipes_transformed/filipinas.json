@@ -1,0 +1,375 @@
+[
+  {
+    "id": "r-phil-001",
+    "dishName": "Adobo Filipino (Pollo o Cerdo en Vinagre y Soja)",
+    "slug": "adobo-filipino-(pollo-o-cerdo-en-vinagre-y-soja)",
+    "placeId": "ph-man",
+    "summary": "Carne marinada y cocinada en vinagre, salsa de soja, ajo, pimienta y laurel. Plato nacional filipino, ácido-salado y profundamente sabroso.",
+    "history": "El adobo filipino predates la colonización española. Los españoles le dieron el nombre 'adobo' por su similitud con técnicas de marinado europeas. Originalmente era método de conservación en clima tropical. Cada familia filipina tiene su receta secreta transmitida por generaciones.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 75,
+    "cookTimeMin": 30,
+    "totalTimeMin": 105,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg de pollo en piezas o cerdo en cubos"
+      },
+      {
+        "text": "1/2 taza de vinagre de caña"
+      },
+      {
+        "text": "1/3 taza de salsa de soja"
+      },
+      {
+        "text": "6 dientes de ajo machacados"
+      },
+      {
+        "text": "1 cucharadita de pimienta negra en grano"
+      },
+      {
+        "text": "3 hojas de laurel"
+      },
+      {
+        "text": "1 cebolla grande cortada en cuartos"
+      },
+      {
+        "text": "2 cucharadas de aceite vegetal"
+      },
+      {
+        "text": "1 cucharada de azúcar moreno opcional"
+      },
+      {
+        "text": "Agua según necesidad"
+      },
+      {
+        "text": "Sal al gusto"
+      }
+    ],
+    "steps": [
+      "Marinar carne con vinagre, soja, ajo, pimienta y laurel mínimo 1 hora.",
+      "Calentar aceite en olla grande a fuego medio-alto.",
+      "Dorar carne por todos lados sin cocinar completamente.",
+      "Añadir marinada completa, cebolla y agua hasta cubrir.",
+      "Llevar a ebullición, luego reducir fuego al mínimo.",
+      "Cocinar tapado 45 minutos para cerdo, 30 para pollo.",
+      "Destapar, aumentar fuego para reducir salsa.",
+      "La salsa debe espesar y glasear la carne.",
+      "Probar y ajustar sazón con sal o azúcar si necesario.",
+      "Servir caliente sobre arroz blanco abundante."
+    ],
+    "ratingAvg": 4.7,
+    "ratingCount": 308,
+    "popularityScore": 96,
+    "publishedAt": "2024-06-13",
+    "image": "/images/recipes/filipinas/adobo-filipino-(pollo-o-cerdo-en-vinagre-y-soja).jpg",
+    "sources": [
+      "Cocina tradicional de Filipinas"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-phil-002",
+    "dishName": "Sinigang (Sopa Ácida de Tamarindo)",
+    "slug": "sinigang-(sopa-acida-de-tamarindo)",
+    "placeId": "ph-man",
+    "summary": "Sopa agria de tamarindo con camarones o cerdo, vegetales variados. Comfort food filipino perfecto para días lluviosos.",
+    "history": "El sinigang es sopa tradicional filipina que usa tamarindo como base ácida. Existen versiones regionales con diferentes proteínas. Es plato hogareño por excelencia, conocido por sus propiedades reconfortantes y curativas cuando alguien está resfriado.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de camarones grandes o cerdo en trozos"
+      },
+      {
+        "text": "2 litros de agua"
+      },
+      {
+        "text": "2 tomates maduros cortados en cuartos"
+      },
+      {
+        "text": "1 cebolla grande en cuartos"
+      },
+      {
+        "text": "200g de tamarindo fresco o pasta concentrada"
+      },
+      {
+        "text": "1 daikon (rábano blanco) en rodajas gruesas"
+      },
+      {
+        "text": "200g de judías verdes"
+      },
+      {
+        "text": "1 berenjena cortada"
+      },
+      {
+        "text": "200g de espinacas o kangkong"
+      },
+      {
+        "text": "2 chiles verdes enteros"
+      },
+      {
+        "text": "Salsa de pescado al gusto"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Hervir agua con cerdo (si usa) 30 minutos hasta tierno.",
+      "Añadir tomates y cebolla, cocinar 5 minutos.",
+      "Agregar tamarindo, si es fresco machacar y colar semillas.",
+      "Incorporar daikon y judías verdes, cocinar 5 minutos.",
+      "Añadir berenjena y chiles, cocinar 3 minutos.",
+      "Si usa camarones, agregar ahora, cocinar 3-4 minutos.",
+      "Sazonar con salsa de pescado y sal.",
+      "Las espinacas solo 30 segundos antes de apagar.",
+      "El caldo debe estar claramente ácido del tamarindo.",
+      "Servir hirviendo con arroz blanco."
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 485,
+    "popularityScore": 94,
+    "publishedAt": "2024-08-26",
+    "image": "/images/recipes/filipinas/sinigang-(sopa-ácida-de-tamarindo).jpg",
+    "sources": [
+      "Cocina tradicional de Filipinas"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-phil-003",
+    "dishName": "Lechón Asado (Cerdo Entero a la Parrilla)",
+    "slug": "lechon-asado-(cerdo-entero-a-la-parrilla)",
+    "placeId": "ph-man",
+    "summary": "Cerdo entero asado lentamente sobre carbón con piel crujiente dorada. Plato festivo central en celebraciones filipinas.",
+    "history": "El lechón llegó con los españoles pero los filipinos lo perfeccionaron. El lechón de Cebú es famoso mundialmente por su piel ultra-crujiente y carne jugosa. Es obligatorio en bodas, fiestas patronales y Navidad. La técnica de asado lento toma varias horas.",
+    "originConfidence": "confirmed",
+    "servings": 30,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 cerdo entero de 20-30kg limpio"
+      },
+      {
+        "text": "Sal gruesa abundante"
+      },
+      {
+        "text": "Pimienta negra molida"
+      },
+      {
+        "text": "4 cabezas de ajo machacado"
+      },
+      {
+        "text": "2 cebollas grandes picadas"
+      },
+      {
+        "text": "4 tallos de hierba limón machacados"
+      },
+      {
+        "text": "6 hojas de laurel"
+      },
+      {
+        "text": "1 botella de cerveza o vinagre"
+      },
+      {
+        "text": "Aceite vegetal para pincelar"
+      },
+      {
+        "text": "Carbón de leña abundante"
+      }
+    ],
+    "steps": [
+      "Limpiar cerdo interiormente, secar bien con papel.",
+      "Frotar interior con sal, pimienta, ajo, cebolla, hierba limón y laurel.",
+      "Coser abertura con aguja e hilo resistente de cocina.",
+      "Colocar cerdo en vara horizontal sobre parrilla.",
+      "Encender carbón, mantener fuego medio-bajo constante.",
+      "Asar 4-6 horas rotando regularmente para cocción uniforme.",
+      "Pincelar con aceite o mezcla de cerveza cada 30 minutos.",
+      "La piel debe dorar y burbujear formando costra crujiente.",
+      "Verificar cocción insertando cuchillo: jugos deben salir claros.",
+      "Dejar reposar 15 minutos antes de cortar.",
+      "Servir con salsa de hígado (lechon sauce) y arroz."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 90,
+    "popularityScore": 76,
+    "publishedAt": "2024-11-10",
+    "image": "/images/recipes/filipinas/lechón-asado-(cerdo-entero-a-la-parrilla).jpg",
+    "sources": [
+      "Cocina tradicional de Filipinas"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-phil-004",
+    "dishName": "Halo-Halo (Postre Mezclado de Hielo)",
+    "slug": "halo-halo-(postre-mezclado-de-hielo)",
+    "placeId": "ph-man",
+    "summary": "Postre de hielo raspado con leche evaporada, frijoles, frutas, gelatina y ube. Colorido, refrescante y texturizado.",
+    "history": "El halo-halo ('mezcla') evolucionó durante la ocupación japonesa en WWII cuando se popularizó el hielo raspado. Incorpora influencias americanas (helado), japonesas (hielo raspado) e ingredientes locales. Es el postre filipino más icónico para combatir el calor tropical.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "postre",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "4 tazas de hielo raspado o granizado"
+      },
+      {
+        "text": "200ml de leche evaporada"
+      },
+      {
+        "text": "200g de frijoles rojos dulces en lata"
+      },
+      {
+        "text": "200g de garbanzos dulces"
+      },
+      {
+        "text": "100g de gelatina de coco en cubos (nata de coco)"
+      },
+      {
+        "text": "100g de plátano saba cocido en almíbar"
+      },
+      {
+        "text": "100g de camote morado (ube) cocido"
+      },
+      {
+        "text": "100g de jackfruit en almíbar"
+      },
+      {
+        "text": "Helado de ube o vainilla"
+      },
+      {
+        "text": "Leche condensada para decorar"
+      },
+      {
+        "text": "Vaso alto transparente"
+      }
+    ],
+    "steps": [
+      "En vaso alto, colocar capa de frijoles rojos dulces.",
+      "Añadir capa de garbanzos dulces.",
+      "Agregar gelatina de coco en cubos.",
+      "Colocar plátano saba en rodajas.",
+      "Añadir camote ube en cubos.",
+      "Incorporar jackfruit en trozos.",
+      "Llenar vaso con hielo raspado hasta el borde.",
+      "Verter leche evaporada generosamente sobre el hielo.",
+      "Coronar con bola de helado de ube o vainilla.",
+      "Rociar leche condensada en zigzag.",
+      "Servir inmediatamente con cuchara larga y popote.",
+      "Mezclar todo antes de comer."
+    ],
+    "ratingAvg": 4.3,
+    "ratingCount": 109,
+    "popularityScore": 84,
+    "publishedAt": "2024-09-23",
+    "image": "/images/recipes/filipinas/halo-halo-(postre-mezclado-de-hielo).jpg",
+    "sources": [
+      "Cocina tradicional de Filipinas"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-phil-005",
+    "dishName": "Lumpiang Shanghai (Rollitos Fritos Filipinos)",
+    "slug": "lumpiang-shanghai-(rollitos-fritos-filipinos)",
+    "placeId": "ph-man",
+    "summary": "Rollitos primavera fritos rellenos de cerdo picado y vegetales. Aperitivo popular en fiestas y reuniones familiares.",
+    "history": "El lumpiang shanghai es versión filipina de rollitos primavera chinos, adaptado con ingredientes locales. 'Shanghai' refiere a influencia china. Es finger food esencial en cumpleaños infantiles y celebraciones. Se prepara en grandes cantidades para compartir.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de carne de cerdo picada"
+      },
+      {
+        "text": "200g de camarones pequeños picados"
+      },
+      {
+        "text": "1 zanahoria mediana rallada"
+      },
+      {
+        "text": "100g de judías verdes picadas finas"
+      },
+      {
+        "text": "4 cebolletas verdes picadas"
+      },
+      {
+        "text": "3 dientes de ajo minced"
+      },
+      {
+        "text": "1 cebolla pequeña picada"
+      },
+      {
+        "text": "2 huevos batidos"
+      },
+      {
+        "text": "2 cucharadas de salsa de soja"
+      },
+      {
+        "text": "1 cucharadita de pimienta negra"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "30 wrappers de lumpia o spring roll"
+      },
+      {
+        "text": "Aceite para freír profundo"
+      },
+      {
+        "text": "Para dipping: salsa agridulce o vinagre con ajo y chili"
+      }
+    ],
+    "steps": [
+      "Mezclar cerdo, camarones, zanahoria, judías, cebolletas.",
+      "Añadir ajo, cebolla, huevos, soja, pimienta y sal.",
+      "Mezclar bien hasta todos los ingredientes distribuidos.",
+      "Colocar 1-2 cucharadas de relleno en cada wrapper.",
+      "Enrollar firmemente sellando borde con agua o huevo batido.",
+      "Calentar aceite a 175°C en wok o freidora profunda.",
+      "Freír rollitos en batches sin sobrecargar.",
+      "Cocinar 4-5 minutos hasta dorados y crujientes.",
+      "Escurrir sobre papel absorbente.",
+      "Servir calientes con salsa agridulce o dip de vinagre.",
+      "Se pueden congelar crudos y freír después."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 86,
+    "popularityScore": 86,
+    "publishedAt": "2024-10-26",
+    "image": "/images/recipes/filipinas/lumpiang-shanghai-(rollitos-fritos-filipinos).jpg",
+    "sources": [
+      "Cocina tradicional de Filipinas"
+    ],
+    "translations": {}
+  }
+]

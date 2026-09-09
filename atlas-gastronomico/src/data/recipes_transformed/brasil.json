@@ -1,0 +1,288 @@
+[
+  {
+    "id": "r-br-feijoada-completa",
+    "dishName": "Feijoada Completa",
+    "slug": "feijoada-completa",
+    "placeId": "br-sp",
+    "summary": "Guiso brasileño de frijoles negros con diversas carnes de cerdo y res.",
+    "history": "La feijoada es considerada el plato nacional de Brasil. Sus orígenes se remontan a la época colonial cuando los esclavos africanos preparaban este guiso con las partes menos nobles del cerdo que los dueños les daban. Hoy es tradición comerla los sábados o domingos en familia, acompañada de caipiriña y samba.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 180,
+    "cookTimeMin": 30,
+    "totalTimeMin": 210,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de frijoles negros"
+      },
+      {
+        "text": "300g de carne seca (charque)"
+      },
+      {
+        "text": "300g de lomo de cerdo salado"
+      },
+      {
+        "text": "200g de tocino ahumado"
+      },
+      {
+        "text": "200g de chorizo portugués"
+      },
+      {
+        "text": "Hojas de laurel"
+      },
+      {
+        "text": "Ajo, cebolla"
+      },
+      {
+        "text": "Arroz blanco, farofa, col rizada"
+      }
+    ],
+    "steps": [
+      "Remojar carnes saladas desde la noche anterior.",
+      "Cocinar carnes por separado para quitar exceso de sal.",
+      "Cocinar frijoles con laurel hasta ablandar.",
+      "Agregar carnes cortadas en trozos a los frijoles.",
+      "Cocinar lentamente hasta integrar sabores.",
+      "Servir con arroz, farofa, col rizada y gajos de naranja."
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 251,
+    "popularityScore": 63,
+    "publishedAt": "2024-02-26",
+    "image": "/images/recipes/brasil/feijoada-completa.jpg",
+    "sources": [
+      "Cocina tradicional de Brasil"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-br-moqueca-bahiana",
+    "dishName": "Moqueca Bahiana",
+    "slug": "moqueca-bahiana",
+    "placeId": "br-sp",
+    "summary": "Estofado de pescado con leche de coco, aceite de dendê y cilantro.",
+    "history": "La moqueca bahiana es un tesoro de la cocina afro-brasileña de Bahía. El uso del aceite de dendê (palma africana) y la leche de coco refleja la herencia culinaria de los esclavos yorubá. Se prepara tradicionalmente en ollas de barro que realzan los sabores. Es un plato festivo que representa la riqueza cultural del nordeste brasileño.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 kg de pescado firme (mero o robalo)"
+      },
+      {
+        "text": "2 cebollas en rodajas"
+      },
+      {
+        "text": "3 tomates en rodajas"
+      },
+      {
+        "text": "400ml de leche de coco"
+      },
+      {
+        "text": "3 cucharadas de aceite de dendê"
+      },
+      {
+        "text": "Cilantro fresco"
+      },
+      {
+        "text": "Pimiento verde"
+      },
+      {
+        "text": "Limón"
+      }
+    ],
+    "steps": [
+      "Marinar pescado con limón, ajo y sal por 30 minutos.",
+      "En olla de barro, alternar capas de verduras y pescado.",
+      "Agregar leche de coco y aceite de dendê.",
+      "Cocinar tapado a fuego bajo por 20 minutos.",
+      "No revolver, solo mover la olla suavemente.",
+      "Servir caliente con arroz y pirão."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 480,
+    "popularityScore": 53,
+    "publishedAt": "2024-05-10",
+    "image": "/images/recipes/brasil/moqueca-bahiana.jpg",
+    "sources": [
+      "Cocina tradicional de Brasil"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-br-pao-de-queijo",
+    "dishName": "Pão de Queijo",
+    "slug": "pão-de-queijo",
+    "placeId": "br-sp",
+    "summary": "Panecillos horneados de almidón de yuca y queso, sin gluten.",
+    "history": "El pão de queijo es el snack más popular de Brasil, originario de Minas Gerais. Fue creado por los esclavos africanos que usaban el almidón de yuca descartado por los portugueses. Hoy se consume en todo momento del día, especialmente en el café de la tarde. Las panaderías brasileñas venden millones diarios y es símbolo de hospitalidad mineira.",
+    "originConfidence": "confirmed",
+    "servings": 30,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de almidón de yuca agrio (polvilho azedo)"
+      },
+      {
+        "text": "2 tazas de leche"
+      },
+      {
+        "text": "1 taza de aceite vegetal"
+      },
+      {
+        "text": "3 huevos"
+      },
+      {
+        "text": "300g de queso minas rallado"
+      },
+      {
+        "text": "Sal al gusto"
+      }
+    ],
+    "steps": [
+      "Hervir leche con aceite y sal.",
+      "Verter líquido caliente sobre el almidón y mezclar.",
+      "Dejar enfriar ligeramente.",
+      "Agregar huevos uno a uno y el queso.",
+      "Formar bolitas y colocar en bandeja.",
+      "Hornear a 200°C por 20-25 minutos hasta dorar."
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 156,
+    "popularityScore": 80,
+    "publishedAt": "2024-02-16",
+    "image": "/images/recipes/brasil/pão-de-queijo.jpg",
+    "sources": [
+      "Cocina tradicional de Brasil"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-br-coxinha-de-frango",
+    "dishName": "Coxinha de Frango",
+    "slug": "coxinha-de-frango",
+    "placeId": "br-sp",
+    "summary": "Bolitas fritas de masa de papa rellenas de pollo desmenuzado.",
+    "history": "La coxinha nació en São Paulo a finales del siglo XIX, creada para el Conde d'Eu quien era muy exigente con la comida. Su nombre viene de 'coxa' (muslo) porque originalmente imitaba la forma de un muslo de pollo. Hoy es el salgado más popular de Brasil, infaltable en fiestas infantiles y reuniones.",
+    "originConfidence": "confirmed",
+    "servings": 20,
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 120,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de pechuga de pollo cocida"
+      },
+      {
+        "text": "3 papas medianas cocidas"
+      },
+      {
+        "text": "2 tazas de harina de trigo"
+      },
+      {
+        "text": "Caldo de pollo"
+      },
+      {
+        "text": "Cebolla, ajo, perejil"
+      },
+      {
+        "text": "Aceite para freír"
+      },
+      {
+        "text": "Huevo batido y pan rallado"
+      }
+    ],
+    "steps": [
+      "Desmenuzar pollo y sofreír con cebolla y especias.",
+      "Hacer puré de papas con caldo de pollo.",
+      "Mezclar puré con harina hasta formar masa.",
+      "Rellenar porciones de masa con pollo.",
+      "Formar gota, pasar por huevo y pan rallado.",
+      "Freír hasta dorar y servir caliente."
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 301,
+    "popularityScore": 92,
+    "publishedAt": "2024-11-25",
+    "image": "/images/recipes/brasil/coxinha-de-frango.jpg",
+    "sources": [
+      "Cocina tradicional de Brasil"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-br-acaraje",
+    "dishName": "Acarajé",
+    "slug": "acaraje",
+    "placeId": "br-sp",
+    "summary": "Bolitas de frijol de ojo negro fritas en aceite de dendê con relleno picante.",
+    "history": "El acarajé es un símbolo de la religión y cultura afro-brasileña en Bahía. Preparado tradicionalmente por las baianas (mujeres vestidas con trajes blancos típicos), tiene origen directo en el akará de Nigeria. Cada tablero de acarajé en las calles de Salvador es un punto de preservación cultural y devoción religiosa.",
+    "originConfidence": "confirmed",
+    "servings": 15,
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 150,
+    "difficulty": "dificil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g de frijol de ojo negro"
+      },
+      {
+        "text": "1 cebolla grande"
+      },
+      {
+        "text": "Sal al gusto"
+      },
+      {
+        "text": "Aceite de dendê para freír"
+      },
+      {
+        "text": "Vatapá (pasta de camarones)"
+      },
+      {
+        "text": "Caruru (okra cocida)"
+      },
+      {
+        "text": "Camarones secos"
+      },
+      {
+        "text": "Salsa picante"
+      }
+    ],
+    "steps": [
+      "Remojar frijoles y quitar cáscaras frotando.",
+      "Licuar frijoles con cebolla hasta pasta espesa.",
+      "Batir masa hasta incorporar aire.",
+      "Freír porciones en abundante aceite de dendê caliente.",
+      "Abrir bolitas y rellenar con vatapá y caruru.",
+      "Servir con camarones y salsa picante."
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 401,
+    "popularityScore": 59,
+    "publishedAt": "2024-05-13",
+    "image": "/images/recipes/brasil/acarajé.jpg",
+    "sources": [
+      "Cocina tradicional de Brasil"
+    ],
+    "translations": {}
+  }
+]

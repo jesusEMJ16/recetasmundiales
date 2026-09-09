@@ -1,0 +1,541 @@
+[
+  {
+    "id": "r-espa-001",
+    "dishName": "Paella Valenciana",
+    "slug": "paella-valenciana",
+    "placeId": "es-mad",
+    "summary": "El plato más emblemático de España con arroz, pollo, conejo y judías verdes.",
+    "history": "La paella nació en el siglo XVIII en los campos de arroz de Valencia.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400g arroz bomba"
+      },
+      {
+        "text": "1 pollo troceado"
+      },
+      {
+        "text": "1 conejo troceado"
+      },
+      {
+        "text": "200g judías verdes"
+      },
+      {
+        "text": "100g garrofó"
+      },
+      {
+        "text": "1 tomate rallado"
+      },
+      {
+        "text": "Azafrán"
+      },
+      {
+        "text": "Pimentón dulce"
+      },
+      {
+        "text": "Aceite de oliva"
+      },
+      {
+        "text": "Sal"
+      },
+      {
+        "text": "Agua"
+      }
+    ],
+    "steps": [
+      "Calentar aceite y dorar carnes",
+      "Añadir verduras y sofreír",
+      "Agregar tomate y pimentón",
+      "Verter agua y cocinar 20 min",
+      "Añadir azafrán y arroz",
+      "Cocinar 18 minutos",
+      "Dejar reposar 5 min"
+    ],
+    "ratingAvg": 4.5,
+    "ratingCount": 484,
+    "popularityScore": 65,
+    "publishedAt": "2024-05-12",
+    "image": "",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-espa-002",
+    "dishName": "Tortilla Española",
+    "slug": "tortilla-española",
+    "placeId": "es-mad",
+    "summary": "Clásica tortilla de patatas y cebolla, plato nacional español.",
+    "history": "Originaria del siglo XIX en Navarra, se convirtió en símbolo de la cocina española.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "6 huevos"
+      },
+      {
+        "text": "500g patatas"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "Aceite de oliva"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Cortar patatas en láminas",
+      "Freír patatas y cebolla",
+      "Mezclar con huevos batidos",
+      "Cuajar en sartén por ambos lados"
+    ],
+    "ratingAvg": 4.0,
+    "ratingCount": 362,
+    "popularityScore": 61,
+    "publishedAt": "2024-04-30",
+    "image": "",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-espa-003",
+    "dishName": "Gazpacho Andaluz",
+    "slug": "gazpacho-andaluz",
+    "placeId": "es-mad",
+    "summary": "Sopa fría de tomate y verduras, perfecta para el verano.",
+    "history": "Con raíces romanas y árabes, evolucionó con la llegada del tomate de América.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg tomates"
+      },
+      {
+        "text": "1 pimiento verde"
+      },
+      {
+        "text": "1 pepino"
+      },
+      {
+        "text": "1 ajo"
+      },
+      {
+        "text": "100g pan duro"
+      },
+      {
+        "text": "100ml aceite de oliva"
+      },
+      {
+        "text": "50ml vinagre"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Trocear verduras",
+      "Triturar todo con aceite y vinagre",
+      "Colar",
+      "Refrigerar 2 horas",
+      "Servir frío"
+    ],
+    "ratingAvg": 4.8,
+    "ratingCount": 77,
+    "popularityScore": 98,
+    "publishedAt": "2024-10-04",
+    "image": "/images/recipes/españa/gazpacho-andaluz.jpg",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-espa-004",
+    "dishName": "Jamón Ibérico de Bellota",
+    "slug": "jamon-iberico-de-bellota",
+    "placeId": "es-mad",
+    "summary": "Jamón curado de cerdos ibéricos alimentados con bellotas.",
+    "history": "Tradición que viene de celtas y romanos. Curación de hasta 48 meses.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 40,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 jamón ibérico de bellota curado"
+      }
+    ],
+    "steps": [
+      "Colocar en jamonero",
+      "Limpiar superficie",
+      "Cortar lonchas finas",
+      "Servir a temperatura ambiente"
+    ],
+    "ratingAvg": 4.3,
+    "ratingCount": 134,
+    "popularityScore": 100,
+    "publishedAt": "2024-11-05",
+    "image": "/images/recipes/españa/jamón-ibérico-de-bellota.jpg",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-espa-005",
+    "dishName": "Churros con Chocolate",
+    "slug": "churros-con-chocolate",
+    "placeId": "es-mad",
+    "summary": "Churros crujientes con chocolate espeso para mojar.",
+    "history": "Traídos de China por los portugueses, popularizados como desayuno de pastores.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "250g harina"
+      },
+      {
+        "text": "250ml agua"
+      },
+      {
+        "text": "Sal"
+      },
+      {
+        "text": "Aceite para freír"
+      },
+      {
+        "text": "Azúcar"
+      },
+      {
+        "text": "200g chocolate negro"
+      },
+      {
+        "text": "500ml leche"
+      },
+      {
+        "text": "Maicena"
+      }
+    ],
+    "steps": [
+      "Hervir agua con sal",
+      "Añadir harina y amasar",
+      "Formar churros con manga",
+      "Freír hasta dorar",
+      "Preparar chocolate espeso",
+      "Servir juntos"
+    ],
+    "ratingAvg": 4.6,
+    "ratingCount": 316,
+    "popularityScore": 81,
+    "publishedAt": "2024-07-22",
+    "image": "/images/recipes/españa/churros-con-chocolate.jpg",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-espa-006",
+    "dishName": "Pulpo a la Gallega",
+    "slug": "pulpo-a-la-gallega",
+    "placeId": "es-mad",
+    "summary": "Pulpo tierno sobre patatas con pimentón y aceite de oliva.",
+    "history": "Típico de fiestas gallegas, se cuece tradicionalmente en ollas de cobre.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 pulpo 2-3kg"
+      },
+      {
+        "text": "4 patatas"
+      },
+      {
+        "text": "Pimentón dulce y picante"
+      },
+      {
+        "text": "Sal gorda"
+      },
+      {
+        "text": "Aceite de oliva"
+      }
+    ],
+    "steps": [
+      "Cocer pulpo 40-50 min",
+      "Dejar reposar",
+      "Cortar en rodajas",
+      "Servir sobre patatas con pimentón y aceite"
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 51,
+    "popularityScore": 92,
+    "publishedAt": "2024-10-22",
+    "image": "/images/recipes/españa/pulpo-a-la-gallega.jpg",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-espa-007",
+    "dishName": "Fabada Asturiana",
+    "slug": "fabada-asturiana",
+    "placeId": "es-mad",
+    "summary": "Guiso de alubias blancas con embutidos asturianos.",
+    "history": "Plato humilde de campesinos asturianos, cada familia tiene su receta secreta.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500g fabes"
+      },
+      {
+        "text": "200g lacón"
+      },
+      {
+        "text": "200g chorizo"
+      },
+      {
+        "text": "200g morcilla"
+      },
+      {
+        "text": "100g tocino"
+      },
+      {
+        "text": "Azafrán"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Remojar fabes noche anterior",
+      "Cocer con embutidos 2-3 horas",
+      "Añadir azafrán al final",
+      "Dejar reposar"
+    ],
+    "ratingAvg": 4.9,
+    "ratingCount": 209,
+    "popularityScore": 88,
+    "publishedAt": "2024-12-06",
+    "image": "/images/recipes/españa/fabada-asturiana.jpg",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-espa-008",
+    "dishName": "Salmorejo Cordobés",
+    "slug": "salmorejo-cordobes",
+    "placeId": "es-mad",
+    "summary": "Crema fría de tomate con jamón y huevo duro.",
+    "history": "Anterior al gazpacho, típico del verano cordobés.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1kg tomates"
+      },
+      {
+        "text": "200g pan duro"
+      },
+      {
+        "text": "2 ajos"
+      },
+      {
+        "text": "100ml aceite de oliva"
+      },
+      {
+        "text": "Sal"
+      },
+      {
+        "text": "Jamón serrano"
+      },
+      {
+        "text": "Huevo duro"
+      }
+    ],
+    "steps": [
+      "Triturar tomates con pan, ajos y aceite",
+      "Colar",
+      "Refrigerar",
+      "Servir con jamón y huevo picados"
+    ],
+    "ratingAvg": 4.2,
+    "ratingCount": 225,
+    "popularityScore": 91,
+    "publishedAt": "2024-06-04",
+    "image": "/images/recipes/españa/salmorejo-cordobés.jpg",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-espa-009",
+    "dishName": "Pisto Manchego",
+    "slug": "pisto-manchego",
+    "placeId": "es-mad",
+    "summary": "Guiso de verduras similar al ratatouille francés.",
+    "history": "Plato humilde de agricultores manchegos que aprovechaban las verduras de la huerta.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 30,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "2 calabacines"
+      },
+      {
+        "text": "2 pimientos verdes"
+      },
+      {
+        "text": "1 pimiento rojo"
+      },
+      {
+        "text": "4 tomates"
+      },
+      {
+        "text": "1 cebolla"
+      },
+      {
+        "text": "2 ajos"
+      },
+      {
+        "text": "Aceite de oliva"
+      },
+      {
+        "text": "Sal"
+      }
+    ],
+    "steps": [
+      "Cortar verduras en dados",
+      "Pochar cebolla y ajos",
+      "Añadir pimientos y calabacín",
+      "Incorporar tomate",
+      "Cocinar 20 min"
+    ],
+    "ratingAvg": 4.4,
+    "ratingCount": 322,
+    "popularityScore": 91,
+    "publishedAt": "2024-11-19",
+    "image": "/images/recipes/españa/pisto-manchego.jpg",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  },
+  {
+    "id": "r-espa-010",
+    "dishName": "Crema Catalana",
+    "slug": "crema-catalana",
+    "placeId": "es-mad",
+    "summary": "Postre cremoso con costra de azúcar caramelizado.",
+    "history": "Postre catalán desde el siglo XIV, tradicional el día de San José.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 30,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500ml leche"
+      },
+      {
+        "text": "6 yemas"
+      },
+      {
+        "text": "100g azúcar"
+      },
+      {
+        "text": "40g maicena"
+      },
+      {
+        "text": "Canela"
+      },
+      {
+        "text": "Piel de naranja y limón"
+      },
+      {
+        "text": "Azúcar moreno"
+      }
+    ],
+    "steps": [
+      "Infusionar leche con canela y cítricos",
+      "Mezclar yemas con azúcar y maicena",
+      "Cocinar hasta espesar",
+      "Refrigerar 4 horas",
+      "Quemar azúcar encima"
+    ],
+    "ratingAvg": 5.0,
+    "ratingCount": 429,
+    "popularityScore": 62,
+    "publishedAt": "2024-04-16",
+    "image": "/images/recipes/españa/crema-catalana.jpg",
+    "sources": [
+      "Cocina tradicional de España"
+    ],
+    "translations": {}
+  }
+]

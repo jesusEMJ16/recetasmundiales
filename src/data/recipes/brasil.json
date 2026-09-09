@@ -1,0 +1,209 @@
+[
+  {
+    "id": "br-feijoada-completa",
+    "slug": "feijoada-completa",
+    "dishName": "Feijoada Completa",
+    "summary": "Guiso brasileño de frijoles negros con diversas carnes de cerdo y res.",
+    "country": "Brasil",
+    "cuisine": "brasil",
+    "prepTimeMin": 180,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 8,
+    "calories": 0,
+    "ingredients": [
+      "500g de frijoles negros",
+      "300g de carne seca (charque)",
+      "300g de lomo de cerdo salado",
+      "200g de tocino ahumado",
+      "200g de chorizo portugués",
+      "Hojas de laurel",
+      "Ajo, cebolla",
+      "Arroz blanco, farofa, col rizada"
+    ],
+    "instructions": [
+      "Remojar carnes saladas desde la noche anterior.",
+      "Cocinar carnes por separado para quitar exceso de sal.",
+      "Cocinar frijoles con laurel hasta ablandar.",
+      "Agregar carnes cortadas en trozos a los frijoles.",
+      "Cocinar lentamente hasta integrar sabores.",
+      "Servir con arroz, farofa, col rizada y gajos de naranja."
+    ],
+    "imagePath": "/images/recipes/brasil/feijoada-completa.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "feijoada",
+      "frijoles",
+      "cerdo",
+      "nacional",
+      "sabado"
+    ],
+    "seoTitle": "Feijoada Completa - Receta Auténtica de Brasil",
+    "seoDescription": "Aprende a cocinar feijoada completa, un plato tradicional de brasil. Guiso brasileño de frijoles negros con diversas carnes de cerdo y res...."
+  },
+  {
+    "id": "br-moqueca-bahiana",
+    "slug": "moqueca-bahiana",
+    "dishName": "Moqueca Bahiana",
+    "summary": "Estofado de pescado con leche de coco, aceite de dendê y cilantro.",
+    "country": "Brasil",
+    "cuisine": "brasil",
+    "prepTimeMin": 60,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 6,
+    "calories": 0,
+    "ingredients": [
+      "1 kg de pescado firme (mero o robalo)",
+      "2 cebollas en rodajas",
+      "3 tomates en rodajas",
+      "400ml de leche de coco",
+      "3 cucharadas de aceite de dendê",
+      "Cilantro fresco",
+      "Pimiento verde",
+      "Limón"
+    ],
+    "instructions": [
+      "Marinar pescado con limón, ajo y sal por 30 minutos.",
+      "En olla de barro, alternar capas de verduras y pescado.",
+      "Agregar leche de coco y aceite de dendê.",
+      "Cocinar tapado a fuego bajo por 20 minutos.",
+      "No revolver, solo mover la olla suavemente.",
+      "Servir caliente con arroz y pirão."
+    ],
+    "imagePath": "/images/recipes/brasil/moqueca-bahiana.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "moqueca",
+      "pescado",
+      "bahia",
+      "dende",
+      "afro"
+    ],
+    "seoTitle": "Moqueca Bahiana - Receta Auténtica de Brasil",
+    "seoDescription": "Aprende a cocinar moqueca bahiana, un plato tradicional de brasil. Estofado de pescado con leche de coco, aceite de dendê y cilantro...."
+  },
+  {
+    "id": "br-pao-de-queijo",
+    "slug": "p-o-de-queijo",
+    "dishName": "Pão de Queijo",
+    "summary": "Panecillos horneados de almidón de yuca y queso, sin gluten.",
+    "country": "Brasil",
+    "cuisine": "brasil",
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 30,
+    "calories": 0,
+    "ingredients": [
+      "500g de almidón de yuca agrio (polvilho azedo)",
+      "2 tazas de leche",
+      "1 taza de aceite vegetal",
+      "3 huevos",
+      "300g de queso minas rallado",
+      "Sal al gusto"
+    ],
+    "instructions": [
+      "Hervir leche con aceite y sal.",
+      "Verter líquido caliente sobre el almidón y mezclar.",
+      "Dejar enfriar ligeramente.",
+      "Agregar huevos uno a uno y el queso.",
+      "Formar bolitas y colocar en bandeja.",
+      "Hornear a 200°C por 20-25 minutos hasta dorar."
+    ],
+    "imagePath": "/images/recipes/brasil/p-o-de-queijo.jpg",
+    "difficulty": "Fácil",
+    "tags": [
+      "pao",
+      "queijo",
+      "yuca",
+      "sin-gluten",
+      "cafe"
+    ],
+    "seoTitle": "Pão de Queijo - Receta Auténtica de Brasil",
+    "seoDescription": "Aprende a cocinar pão de queijo, un plato tradicional de brasil. Panecillos horneados de almidón de yuca y queso, sin gluten...."
+  },
+  {
+    "id": "br-coxinha-de-frango",
+    "slug": "coxinha-de-frango",
+    "dishName": "Coxinha de Frango",
+    "summary": "Bolitas fritas de masa de papa rellenas de pollo desmenuzado.",
+    "country": "Brasil",
+    "cuisine": "brasil",
+    "prepTimeMin": 90,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 20,
+    "calories": 0,
+    "ingredients": [
+      "500g de pechuga de pollo cocida",
+      "3 papas medianas cocidas",
+      "2 tazas de harina de trigo",
+      "Caldo de pollo",
+      "Cebolla, ajo, perejil",
+      "Aceite para freír",
+      "Huevo batido y pan rallado"
+    ],
+    "instructions": [
+      "Desmenuzar pollo y sofreír con cebolla y especias.",
+      "Hacer puré de papas con caldo de pollo.",
+      "Mezclar puré con harina hasta formar masa.",
+      "Rellenar porciones de masa con pollo.",
+      "Formar gota, pasar por huevo y pan rallado.",
+      "Freír hasta dorar y servir caliente."
+    ],
+    "imagePath": "/images/recipes/brasil/coxinha-de-frango.jpg",
+    "difficulty": "Media",
+    "tags": [
+      "coxinha",
+      "pollo",
+      "frito",
+      "fiesta",
+      "salgado"
+    ],
+    "seoTitle": "Coxinha de Frango - Receta Auténtica de Brasil",
+    "seoDescription": "Aprende a cocinar coxinha de frango, un plato tradicional de brasil. Bolitas fritas de masa de papa rellenas de pollo desmenuzado...."
+  },
+  {
+    "id": "br-acaraje",
+    "slug": "acaraj",
+    "dishName": "Acarajé",
+    "summary": "Bolitas de frijol de ojo negro fritas en aceite de dendê con relleno picante.",
+    "country": "Brasil",
+    "cuisine": "brasil",
+    "prepTimeMin": 120,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 15,
+    "calories": 0,
+    "ingredients": [
+      "500g de frijol de ojo negro",
+      "1 cebolla grande",
+      "Sal al gusto",
+      "Aceite de dendê para freír",
+      "Vatapá (pasta de camarones)",
+      "Caruru (okra cocida)",
+      "Camarones secos",
+      "Salsa picante"
+    ],
+    "instructions": [
+      "Remojar frijoles y quitar cáscaras frotando.",
+      "Licuar frijoles con cebolla hasta pasta espesa.",
+      "Batir masa hasta incorporar aire.",
+      "Freír porciones en abundante aceite de dendê caliente.",
+      "Abrir bolitas y rellenar con vatapá y caruru.",
+      "Servir con camarones y salsa picante."
+    ],
+    "imagePath": "/images/recipes/brasil/acaraj.jpg",
+    "difficulty": "Difícil",
+    "tags": [
+      "acaraje",
+      "frijol",
+      "bahia",
+      "afro",
+      "baiana"
+    ],
+    "seoTitle": "Acarajé - Receta Auténtica de Brasil",
+    "seoDescription": "Aprende a cocinar acarajé, un plato tradicional de brasil. Bolitas de frijol de ojo negro fritas en aceite de dendê con relleno picante...."
+  }
+]
