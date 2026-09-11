@@ -478,5 +478,60 @@
     "sourceText": "Add flour and cook for a minute; whisk in the milk until the gravy thickens.",
     "translatedText": "小麦粉を加えて1分炒め、牛乳を泡立て器で混ぜ込み、グレービーが濃くなるまで加熱する。",
     "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-ne-new-england-clam-chowder/steps/2": {
+    "sourceText": "Saute the onion and celery until translucent; sprinkle in the flour and cook for a minute.",
+    "translatedText": "玉ねぎとセロリを透き通るまで炒め、小麦粉を振り入れて1分炒める。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-ne-ny-pizza-slice/steps/1": {
+    "sourceText": "Let it ferment, covered, at least 1 hour until doubled in volume (better overnight in the refrigerator).",
+    "translatedText": "覆って少なくとも1時間、体積が2倍になるまで発酵させる（冷蔵庫で一晩がよりよい）。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-ne-boston-baked-beans/steps/4": {
+    "sourceText": "Uncover for the last hour so they thicken and brown, then serve.",
+    "translatedText": "最後の1時間は覆いを外し、煮詰めて焼き色をつけ、供する。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-ne-whoopie-pie/steps/4": {
+    "sourceText": "Join the cakes in pairs with a generous layer of filling.",
+    "translatedText": "ケーキを2枚1組にし、たっぷりのフィリングで挟む。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-ne-soft-pretzel/steps/1": {
+    "sourceText": "Let it rest, covered, until doubled in volume.",
+    "translatedText": "覆って体積が2倍になるまで休ませる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-it-pizza-napoletana/steps/1": {
+    "sourceText": "Divide dough in two and stretch by hand, keeping a thicker rim.",
+    "translatedText": "生地を2等分し、縁を厚めに残して手で伸ばす。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-it-risotto-milanese/steps/0": {
+    "sourceText": "Soak saffron in a ladle of hot stock. Gently sauté the onion in 25 g butter and the marrow.",
+    "translatedText": "温かいストックおたま1杯にサフランを浸す。バター25 gと骨髄で玉ねぎを弱めの火で炒める。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-it-risotto-milanese/steps/2": {
+    "sourceText": "Add hot stock a ladle at a time, stirring often and adding more as it is absorbed.",
+    "translatedText": "温かいストックをおたま1杯ずつ加え、よく混ぜながら吸収されたら足す。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-fr-crêpes/steps/3": {
+    "sourceText": "Fold crêpes into quarters and warm in the sauce. If using liqueur, remove from heat to add it, then warm gently.",
+    "translatedText": "クレープを4つ折りにしてソースで温める。リキュールを使う場合は火を外して加え、再び穏やかに温める。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-de-spaetzle/tips/0": {
+    "sourceText": "The thick batter must pass through the utensil; add water a spoonful at a time.",
+    "translatedText": "濃い生地が器具を通る硬さにし、水はスプーン1杯ずつ加える。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
+  },
+  "ja/r-pt-pasteis/steps/3": {
+    "sourceText": "Strain and fill molds three-quarters full. Bake 15-20 minutes until pastry is cooked and custard has browned spots.",
+    "translatedText": "こして型の3/4まで注ぐ。15-20分、生地に火が通りカスタードに焼き斑点がつくまで焼く。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
   }
 }

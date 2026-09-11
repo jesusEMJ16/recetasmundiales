@@ -1,22 +1,19 @@
-# Recipe translation progress — 2026-09-11
+# Recipe translations and Netlify build repair
 
-The catalog contains 198 recipes. Spanish and English remain the only fully available recipe-content languages. The requested Chinese, Hindi, French, Arabic, Bengali, Portuguese, Russian, Urdu, Indonesian and Japanese catalogs are **not complete**.
+The 198-recipe catalog is complete in Spanish, English, Chinese, Hindi, Arabic, Bengali, Urdu and Japanese. Saved application catalogs are partial in French (140), Portuguese (60), Russian (45) and Indonesian (60). Translation work remains paused; this repair does not add or rewrite recipe translations.
 
-## Completed in this change
+## Build repair
 
-- Recipe-page direction follows Arabic and Urdu; untranslated Spanish body text keeps its own left-to-right direction.
-- Recipe cards can use the correct direction as additional catalogs become available.
-- The six nutrition labels use the selected language in all 12 locales.
-- The 198 recipe records, geographic origins, map counts and existing Spanish/English translations are unchanged.
+The saved checkpoint updated UniversalSearch to expect `names[locale]`, but its committed search index still used `dishName` and `en`. Netlify therefore failed TypeScript compilation. The checkpoint also threw for missing translations, which would prevent static generation after the type error was fixed.
 
-## Translation validation
+- Regenerate and commit the lightweight title index in its new twelve-label schema.
+- Run `npm run recipes:index` before `next build`; Netlify now calls `npm run build`.
+- Resolve translation availability per recipe. Missing entries display the Spanish original, with Spanish language/direction attributes and a notice in the selected language.
+- Include only available translations in recipe hreflang and the sitemap (1889 recipe-language URLs). Missing translations remain accessible but have `noindex`.
+- Check every saved translation and preserve ingredient flags, recipe IDs, geographic counts, sources and quantities. Eleven Japanese word-to-digit equivalents remaining from the checkpoint were reviewed explicitly; recipe text was unchanged.
 
-Public local-model samples were evaluated before attempting full-catalog generation. M2M100, MADLAD-400 and Qwen3.5-4B samples were rejected because of substantive ingredient/technique errors, especially in Arabic, Bengali and Urdu. None of those generated samples is imported by the app or included in this repository. A structural or numeric check alone would not establish semantic translation quality.
+## Resuming translations
 
-Hugging Face authentication succeeded, but the minimal translation preflight job was rejected by the service with HTTP 402 Payment Required. No cloud job was created. Current Jobs documentation permits accounts with positive compute credits; a Pro subscription is not itself mandatory.
+The original snapshot and its exact counts remain in `translation-checkpoint-2026-09-11/`. It includes separate tail fragments for Portuguese, Russian and Indonesian; those fragments are still preserved without merging. Complete remaining records, merge fragments by ID, regenerate the index and update coverage assertions when translation work resumes.
 
-## Remaining work
-
-Translate all six editorial fields (dish name, summary, history, ingredients, steps, tips) for all 198 recipes in each pending language. Preserve bibliographic source titles/URLs, recipe IDs, routes, quantities, temperatures, timings, optional flags and geographic origins. Review culinary meaning as well as complete field coverage; register a locale only after all 198 entries pass. Then update localized search titles, sitemap/hreflang coverage and the catalog audit, and run tests plus the production build.
-
-This is a preparation change, not completion of the twelve-language request.
+Run `npm test` and `npm run build` from `atlas-gastronomico` before delivery. No TypeScript error suppression is enabled.

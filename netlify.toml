@@ -3,7 +3,7 @@
 
 [build]
   base = "atlas-gastronomico"
-  command = "next build"
+  command = "npm run build"
   # Carpeta de salida de Next.js, RELATIVA al base (atlas-gastronomico).
   # Resultado final: atlas-gastronomico/.next
   publish = ".next"

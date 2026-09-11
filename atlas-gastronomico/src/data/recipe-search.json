@@ -1,1 +1,3566 @@
-[{"id":"r-tlayudas","slug":"tlayudas-oaxaquenas","dishName":"Tlayudas oaxaqueñas","en":"Oaxacan tlayudas"},{"id":"r-mole-negro","slug":"mole-negro-oaxaqueno","dishName":"Mole negro","en":"Mole negro"},{"id":"r-chiles-nogada","slug":"chiles-en-nogada","dishName":"Chiles en nogada","en":"Chiles en nogada"},{"id":"r-birria","slug":"birria-de-res","dishName":"Birria de res","en":"Beef birria"},{"id":"r-gumbo","slug":"gumbo-criollo","dishName":"Gumbo","en":"Chicken and andouille gumbo"},{"id":"r-brisket","slug":"brisket-ahumado-texano","dishName":"Brisket ahumado","en":"Smoked Texas-style brisket"},{"id":"r-pizza","slug":"pizza-napolitana","dishName":"Pizza napolitana","en":"Home-style Neapolitan pizza"},{"id":"r-cacio","slug":"cacio-e-pepe","dishName":"Cacio e pepe","en":"Cacio e pepe"},{"id":"r-okonomiyaki","slug":"okonomiyaki-osaka","dishName":"Okonomiyaki","en":"Okonomiyaki"},{"id":"r-ramen","slug":"ramen-shoyu","dishName":"Ramen shoyu","en":"Quick shoyu ramen"},{"id":"r-padthai","slug":"pad-thai","dishName":"Pad Thai","en":"Vegetarian pad Thai"},{"id":"r-khaosoi","slug":"khao-soi","dishName":"Khao Soi","en":"Khao soi"},{"id":"r-tacos-pastor","slug":"tacos-al-pastor","dishName":"Tacos al pastor","en":"Skillet tacos al pastor"},{"id":"r-tiramisu","slug":"tiramisu","dishName":"Tiramisú","en":"Tiramisu"},{"id":"r-pancakes","slug":"buttermilk-pancakes","dishName":"Buttermilk pancakes","en":"Buttermilk pancakes"},{"id":"r-mochi","slug":"ichigo-daifuku","dishName":"Mochi de fresa (daifuku)","en":"Strawberry daifuku mochi"},{"id":"r-guacamole","slug":"guacamole","dishName":"Guacamole","en":"Guacamole"},{"id":"r-somtam","slug":"som-tam","dishName":"Som tam","en":"Som tam"},{"id":"r-jambalaya","slug":"jambalaya","dishName":"Jambalaya","en":"Jambalaya"},{"id":"r-cemita","slug":"cemita-poblana","dishName":"Cemita poblana","en":"Pueblan cemita"},{"id":"r-mxn-machaca-huevo","slug":"machaca-con-huevo","dishName":"Machaca con huevo","en":"Machaca con huevo (shredded dried beef with eggs)"},{"id":"r-mxn-caldo-queso","slug":"caldo-de-queso-sonorense","dishName":"Caldo de queso sonorense","en":"Caldo de queso sonorense (Sonoran cheese soup)"},{"id":"r-mxn-coyotas","slug":"coyotas-de-villa-de-seris","dishName":"Coyotas de Villa de Seris","en":"Coyotas de Villa de Seris (piloncillo-filled pastries)"},{"id":"r-mxn-chilorio","slug":"chilorio","dishName":"Chilorio","en":"Chilorio"},{"id":"r-mxn-aguachile","slug":"aguachile-verde","dishName":"Aguachile verde con camarón cocido","en":"Green aguachile with cooked shrimp"},{"id":"r-mxn-cabrito-pastor","slug":"cabrito-al-pastor","dishName":"Cabrito al pastor","en":"Cabrito al pastor (spit-roasted kid goat)"},{"id":"r-mxn-frijoles-charros","slug":"frijoles-charros","dishName":"Frijoles charros","en":"Frijoles charros (cowboy beans)"},{"id":"r-mxn-discada","slug":"discada-nortena","dishName":"Discada norteña","en":"Discada norteña (northern plow-disc mixed grill)"},{"id":"r-mxn-asado-puerco","slug":"asado-de-puerco-chihuahuense","dishName":"Asado de puerco chihuahuense","en":"Asado de puerco chihuahuense (Chihuahua-style pork in red chile)"},{"id":"r-mxn-caldillo-durango","slug":"caldillo-duranguense","dishName":"Caldillo duranguense","en":"Caldillo duranguense (Durango beef stew)"},{"id":"r-mxn-asado-boda","slug":"asado-de-boda-zacatecano","dishName":"Asado de boda zacatecano","en":"Asado de boda zacatecano (Zacatecas wedding stew)"},{"id":"r-mxn-carne-asada","slug":"tacos-de-carne-asada-nortenos","dishName":"Tacos de carne asada norteños","en":"Tacos de carne asada norteños (northern grilled beef tacos)"},{"id":"r-mxn-tacos-pescado","slug":"tacos-de-pescado-estilo-baja","dishName":"Tacos de pescado estilo Baja","en":"Tacos de pescado estilo Baja (Baja-style fish tacos)"},{"id":"r-mxn-almejas-tatemadas","slug":"almejas-tatemadas","dishName":"Almejas tatemadas","en":"Almejas tatemadas (fire-roasted clams)"},{"id":"r-mxn-carne-tampiquena","slug":"carne-asada-a-la-tampiquena","dishName":"Carne asada a la tampiqueña","en":"Carne asada a la tampiqueña (Tampico-style grilled beef plate)"},{"id":"r-mxc-pollo-san-marcos","slug":"pollo-de-san-marcos","dishName":"Pollo de San Marcos","en":"Pollo de San Marcos (San Marcos-style chicken)"},{"id":"r-mxc-enchiladas-mineras","slug":"enchiladas-mineras","dishName":"Enchiladas mineras","en":"Enchiladas mineras (miner's enchiladas)"},{"id":"r-mxc-guacamayas","slug":"guacamayas-leon","dishName":"Guacamayas","en":"Guacamayas (León pork-rind rolls)"},{"id":"r-mxc-gorditas-queretanas","slug":"gorditas-maiz-quebrado-queretanas","dishName":"Gorditas de maíz quebrado","en":"Gorditas de maíz quebrado (cracked-corn gorditas)"},{"id":"r-mxc-enchiladas-potosinas","slug":"enchiladas-potosinas","dishName":"Enchiladas potosinas","en":"Enchiladas potosinas (San Luis Potosí enchiladas)"},{"id":"r-mxc-zacahuil","slug":"zacahuil-huasteca-potosina","dishName":"Zacahuil","en":"Zacahuil (giant Huastec tamal)"},{"id":"r-mxc-tortas-ahogadas","slug":"tortas-ahogadas","dishName":"Tortas ahogadas","en":"Tortas ahogadas (drowned sandwiches)"},{"id":"r-mxc-carne-en-su-jugo","slug":"carne-en-su-jugo","dishName":"Carne en su jugo","en":"Carne en su jugo (beef in its juices)"},{"id":"r-mxc-pescado-zarandeado","slug":"pescado-zarandeado-nayarit","dishName":"Pescado zarandeado","en":"Pescado zarandeado (Nayarit grilled fish)"},{"id":"r-mxc-sopitos-colima","slug":"sopitos-colimenses","dishName":"Sopitos colimenses","en":"Sopitos colimenses (Colima sopitos)"},{"id":"r-mxc-carnitas","slug":"carnitas-michoacanas","dishName":"Carnitas michoacanas","en":"Carnitas michoacanas (Michoacán carnitas)"},{"id":"r-mxc-corundas","slug":"corundas-michoacanas","dishName":"Corundas","en":"Corundas (Michoacán triangular tamales)"},{"id":"r-mxc-barbacoa","slug":"barbacoa-de-borrego","dishName":"Barbacoa de borrego","en":"Barbacoa de borrego (pit-cooked lamb)"},{"id":"r-mxc-tacos-canasta","slug":"tacos-de-canasta","dishName":"Tacos de canasta","en":"Tacos de canasta (basket tacos)"},{"id":"r-mxc-quesadillas-cdmx","slug":"quesadillas-de-comal-cdmx","dishName":"Quesadillas de comal","en":"Quesadillas de comal (griddle quesadillas)"},{"id":"r-mxc-pastes","slug":"pastes-hidalguenses","dishName":"Pastes hidalguenses","en":"Pastes hidalguenses (Hidalgo pasties)"},{"id":"r-mxc-cecina-yecapixtla","slug":"cecina-de-yecapixtla","dishName":"Cecina de Yecapixtla","en":"Cecina de Yecapixtla (Yecapixtla salted beef)"},{"id":"r-mxc-mixiotes","slug":"mixiotes-de-pollo","dishName":"Mixiotes de pollo","en":"Mixiotes de pollo (chicken mixiotes)"},{"id":"r-mxs-cochinita","slug":"cochinita-pibil","dishName":"Cochinita pibil","en":"Cochinita pibil"},{"id":"r-mxs-sopa-lima","slug":"sopa-de-lima","dishName":"Sopa de lima","en":"Sopa de lima (lime soup)"},{"id":"r-mxs-panuchos","slug":"panuchos-yucatecos","dishName":"Panuchos","en":"Panuchos"},{"id":"r-mxs-papadzules","slug":"papadzules","dishName":"Papadzules","en":"Papadzules"},{"id":"r-mxs-pan-cazon","slug":"pan-de-cazon","dishName":"Pan de cazón","en":"Pan de cazon"},{"id":"r-mxs-pozole-verde","slug":"pozole-verde-guerrerense","dishName":"Pozole verde","en":"Pozole verde (green pozole)"},{"id":"r-mxs-pescado-talla","slug":"pescado-a-la-talla","dishName":"Pescado a la talla","en":"Pescado a la talla (grilled chile-rubbed fish)"},{"id":"r-mxs-mole-amarillo","slug":"mole-amarillo-oaxaqueno","dishName":"Mole amarillo","en":"Mole amarillo (yellow mole)"},{"id":"r-mxs-memelas","slug":"memelas-oaxaquenas","dishName":"Memelas oaxaqueñas","en":"Oaxacan memelas"},{"id":"r-mxs-tejate","slug":"tejate-oaxaqueno","dishName":"Tejate","en":"Tejate"},{"id":"r-mxs-cochito","slug":"cochito-horneado-chiapaneco","dishName":"Cochito horneado","en":"Cochito horneado (baked pork)"},{"id":"r-mxs-tamales-chipilin","slug":"tamales-de-chipilin","dishName":"Tamales de chipilín","en":"Chipilin tamales"},{"id":"r-mxs-pejelagarto","slug":"pejelagarto-asado","dishName":"Pejelagarto asado","en":"Pejelagarto asado (grilled gar)"},{"id":"r-mxs-huachinango-ver","slug":"huachinango-a-la-veracruzana","dishName":"Huachinango a la veracruzana","en":"Huachinango a la veracruzana (Veracruz-style red snapper)"},{"id":"r-mxs-picadas","slug":"picadas-veracruzanas","dishName":"Picadas veracruzanas","en":"Veracruz-style picadas"},{"id":"r-mxs-tikin-xic","slug":"tikin-xic","dishName":"Tikin xic","en":"Tikin xic"},{"id":"r-mxs-mole-poblano","slug":"mole-poblano","dishName":"Mole poblano","en":"Mole poblano"},{"id":"r-mxs-tinga-poblana","slug":"tinga-poblana","dishName":"Tinga poblana","en":"Tinga poblana"},{"id":"r-pm-n-gallina-pinta","slug":"gallina-pinta","dishName":"Gallina pinta","en":"Gallina pinta"},{"id":"r-pm-n-coricos-de-mocorito","slug":"coricos-de-mocorito","dishName":"Coricos de Mocorito","en":"Coricos de Mocorito"},{"id":"r-pm-n-pescado-zarandeado-mazatlan","slug":"pescado-zarandeado-mazatlan","dishName":"Pescado zarandeado estilo Mazatlán","en":"Mazatlan-style pescado zarandeado"},{"id":"r-pm-n-trucha-de-la-sierra-tarahumara","slug":"trucha-de-la-sierra-tarahumara","dishName":"Trucha de la Sierra Tarahumara","en":"Sierra Tarahumara trout"},{"id":"r-pm-n-pan-de-pulque-de-saltillo","slug":"pan-de-pulque-de-saltillo","dishName":"Pan de pulque de Saltillo","en":"Saltillo pan de pulque (pulque bread)"},{"id":"r-pm-n-cortadillo-de-cuatro-cienegas","slug":"cortadillo-de-cuatro-cienegas","dishName":"Cortadillo de Cuatro Ciénegas","en":"Cortadillo de Cuatro Cienegas"},{"id":"r-pm-n-glorias-de-linares","slug":"glorias-de-linares","dishName":"Glorias de Linares","en":"Glorias de Linares"},{"id":"r-pm-n-enchiladas-tultecas","slug":"enchiladas-tultecas","dishName":"Enchiladas tultecas","en":"Enchiladas tultecas"},{"id":"r-pm-n-gorditas-de-horno-duranguenses","slug":"gorditas-de-horno-duranguenses","dishName":"Gorditas de horno duranguenses","en":"Durango-style baked gorditas"},{"id":"r-pm-n-enchiladas-zacatecanas","slug":"enchiladas-zacatecanas","dishName":"Enchiladas zacatecanas","en":"Enchiladas zacatecanas"},{"id":"r-pm-n-langosta-estilo-puerto-nuevo","slug":"langosta-estilo-puerto-nuevo","dishName":"Langosta estilo Puerto Nuevo","en":"Puerto Nuevo-style lobster"},{"id":"r-pm-n-ceviche-de-marlin-ahumado","slug":"ceviche-de-marlin-ahumado","dishName":"Ceviche de marlín ahumado","en":"Smoked marlin ceviche"},{"id":"r-pm-c-charales-fritos","slug":"charales-fritos-de-patzcuaro","dishName":"Charales fritos de Pátzcuaro","en":"Pátzcuaro Fried Charales"},{"id":"r-pm-c-churipo","slug":"churipo-purepecha","dishName":"Churipo","en":"Churipo"},{"id":"r-pm-c-cantaritos","slug":"cantaritos-de-tequila","dishName":"Cantaritos de Tequila","en":"Cantaritos de Tequila"},{"id":"r-pm-c-el-bote","slug":"el-bote-de-mazamitla","dishName":"El bote de Mazamitla","en":"El Bote de Mazamitla"},{"id":"r-pm-c-borrego-al-pastor","slug":"borrego-al-pastor-de-tapalpa","dishName":"Borrego al pastor de Tapalpa","en":"Tapalpa-Style Borrego al Pastor (Lamb)"},{"id":"r-pm-c-nieve-aguacate","slug":"nieve-de-aguacate-dolores-hidalgo","dishName":"Nieve de aguacate de Dolores Hidalgo","en":"Dolores Hidalgo Avocado Ice"},{"id":"r-pm-c-fiambre-san-miguel","slug":"fiambre-estilo-san-miguel-de-allende","dishName":"Fiambre estilo San Miguel de Allende","en":"San Miguel de Allende-Style Fiambre"},{"id":"r-pm-c-gorditas-migajas","slug":"gorditas-de-migajas-de-bernal","dishName":"Gorditas de migajas de Bernal","en":"Bernal Migajas Gorditas"},{"id":"r-pm-c-lengua-mechada","slug":"lengua-mechada-de-tequisquiapan","dishName":"Lengua mechada de Tequisquiapan","en":"Tequisquiapan Larded Beef Tongue"},{"id":"r-pm-c-gorditas-horno","slug":"gorditas-de-horno-real-de-catorce","dishName":"Gorditas de horno de Real de Catorce","en":"Real de Catorce Oven-Baked Gorditas"},{"id":"r-pm-c-bocoles","slug":"bocoles-huastecos-de-xilitla","dishName":"Bocoles huastecos de Xilitla","en":"Xilitla Huastec Bocoles"},{"id":"r-pm-c-itacates","slug":"itacates-de-tepoztlan","dishName":"Itacates de Tepoztlán","en":"Tepoztlán Itacates"},{"id":"r-pm-c-trucha-valle-bravo","slug":"trucha-al-mojo-de-ajo-valle-de-bravo","dishName":"Trucha al mojo de ajo de Valle de Bravo","en":"Valle de Bravo Garlic Trout"},{"id":"r-pm-c-naranjete","slug":"naranjete-de-huasca-de-ocampo","dishName":"Naranjete de Huasca de Ocampo","en":"Huasca de Ocampo Naranjete"},{"id":"r-pm-c-tatemado-comala","slug":"tatemado-de-puerco-estilo-comala","dishName":"Tatemado de puerco estilo Comala","en":"Comala-Style Pork Tatemado"},{"id":"r-pm-s-sopa-de-pan-coleta","slug":"sopa-de-pan-coleta","dishName":"Sopa de pan coleta","en":"Sopa de Pan Coleta (Coleto Bread Soup)"},{"id":"r-pm-s-pepita-con-tasajo","slug":"pepita-con-tasajo","dishName":"Pepita con tasajo","en":"Pepita con Tasajo"},{"id":"r-pm-s-comiteco","slug":"comiteco","dishName":"Comiteco","en":"Comiteco"},{"id":"r-pm-s-tlayoyos","slug":"tlayoyos-cuetzalan","dishName":"Tlayoyos","en":"Tlayoyos"},{"id":"r-pm-s-sidra-zacatlan","slug":"sidra-de-manzana-zacatlan","dishName":"Sidra de manzana sin gas, versión doméstica","en":"Still apple cider, home version"},{"id":"r-pm-s-cecina-atlixco","slug":"cecina-de-atlixco","dishName":"Cecina de Atlixco","en":"Atlixco Cecina"},{"id":"r-pm-s-cafe-coatepec","slug":"cafe-de-coatepec","dishName":"Café de Coatepec","en":"Coatepec Coffee"},{"id":"r-pm-s-mole-xiqueno","slug":"mole-xiqueno","dishName":"Mole xiqueño","en":"Mole Xiqueño"},{"id":"r-pm-s-zacahuil","slug":"zacahuil-papantla","dishName":"Zacahuil","en":"Zacahuil"},{"id":"r-pm-s-arroz-a-la-tumbada","slug":"arroz-a-la-tumbada","dishName":"Arroz a la tumbada","en":"Arroz a la Tumbada"},{"id":"r-pm-s-lomitos-valladolid","slug":"lomitos-de-valladolid","dishName":"Lomitos de Valladolid","en":"Lomitos de Valladolid"},{"id":"r-pm-s-relleno-negro","slug":"relleno-negro-izamal","dishName":"Relleno negro","en":"Relleno Negro"},{"id":"r-pm-s-salsa-de-jumiles","slug":"salsa-de-jumiles-taxco","dishName":"Salsa de jumiles","en":"Jumil Salsa"},{"id":"r-pm-s-trucha-capulalpam","slug":"trucha-de-la-sierra-capulalpam","dishName":"Trucha de la sierra","en":"Sierra Trout"},{"id":"r-pm-s-rice-and-beans-bacalar","slug":"rice-and-beans-bacalar","dishName":"Rice and beans caribeño","en":"Caribbean Rice and Beans"},{"id":"r-pm-s-pampano-escabeche","slug":"pampano-en-escabeche-palizada","dishName":"Pámpano en escabeche","en":"Pámpano en Escabeche"},{"id":"r-us-s-shrimp-and-grits","slug":"shrimp-and-grits","dishName":"Shrimp and grits","en":"Shrimp and grits"},{"id":"r-us-s-nashville-hot-chicken","slug":"nashville-hot-chicken","dishName":"Nashville hot chicken","en":"Nashville hot chicken"},{"id":"r-us-s-kentucky-hot-brown","slug":"kentucky-hot-brown","dishName":"Kentucky Hot Brown","en":"Kentucky Hot Brown"},{"id":"r-us-s-cuban-sandwich","slug":"cuban-sandwich-tampa","dishName":"Cuban sandwich (Cubano)","en":"Cuban sandwich (Cubano)"},{"id":"r-us-s-key-lime-pie","slug":"key-lime-pie","dishName":"Key lime pie","en":"Key lime pie"},{"id":"r-us-s-carolina-pulled-pork","slug":"carolina-pulled-pork","dishName":"Pulled pork BBQ estilo Carolina del Norte","en":"North Carolina-style pulled pork BBQ"},{"id":"r-us-s-chili-con-carne","slug":"chili-con-carne-texano","dishName":"Chili con carne","en":"Chili con carne"},{"id":"r-us-s-breakfast-tacos","slug":"breakfast-tacos-texanos","dishName":"Breakfast tacos","en":"Breakfast tacos"},{"id":"r-us-s-shrimp-poboy","slug":"shrimp-poboy","dishName":"Po'boy de camarón","en":"Shrimp po'boy"},{"id":"r-us-s-southern-fried-chicken","slug":"southern-fried-chicken","dishName":"Pollo frito sureño","en":"Southern fried chicken"},{"id":"r-us-s-country-ham","slug":"country-ham-virginia","dishName":"Country ham (jamón curado de Virginia)","en":"Country ham (Virginia cured ham)"},{"id":"r-us-s-collard-greens","slug":"collard-greens","dishName":"Collard greens","en":"Collard greens"},{"id":"r-us-s-cornbread","slug":"southern-cornbread","dishName":"Cornbread (pan de maíz sureño)","en":"Cornbread (Southern corn bread)"},{"id":"r-us-s-banana-pudding","slug":"banana-pudding","dishName":"Banana pudding","en":"Banana pudding"},{"id":"r-us-s-chicken-fried-steak","slug":"chicken-fried-steak","dishName":"Chicken fried steak","en":"Chicken fried steak"},{"id":"r-us-s-fried-pickles","slug":"fried-pickles","dishName":"Fried pickles (pepinillos fritos)","en":"Fried pickles"},{"id":"r-us-ne-new-england-clam-chowder","slug":"new-england-clam-chowder","dishName":"New England clam chowder","en":"New England clam chowder"},{"id":"r-us-ne-lobster-roll","slug":"lobster-roll-maine","dishName":"Lobster roll (estilo Maine)","en":"Lobster roll (Maine style)"},{"id":"r-us-ne-maryland-crab-cakes","slug":"maryland-crab-cakes","dishName":"Maryland crab cakes","en":"Maryland crab cakes"},{"id":"r-us-ne-philly-cheesesteak","slug":"philly-cheesesteak","dishName":"Philly cheesesteak","en":"Philly cheesesteak"},{"id":"r-us-ne-ny-pizza-slice","slug":"rebanada-pizza-nueva-york","dishName":"Rebanada de pizza estilo Nueva York","en":"New York-style pizza slice"},{"id":"r-us-ne-bagel-lox","slug":"bagel-con-lox","dishName":"Bagel con lox","en":"Bagel with lox"},{"id":"r-us-ne-pastrami-on-rye","slug":"pastrami-on-rye","dishName":"Pastrami on rye","en":"Pastrami on rye"},{"id":"r-us-ne-buffalo-wings","slug":"buffalo-wings","dishName":"Buffalo wings","en":"Buffalo wings"},{"id":"r-us-ne-boston-baked-beans","slug":"boston-baked-beans","dishName":"Boston baked beans","en":"Boston baked beans"},{"id":"r-us-ne-whoopie-pie","slug":"whoopie-pie","dishName":"Whoopie pie","en":"Whoopie pie"},{"id":"r-us-ne-clam-cakes","slug":"clam-cakes-rhode-island","dishName":"Clam cakes de Rhode Island","en":"Rhode Island clam cakes"},{"id":"r-us-ne-coffee-milk","slug":"coffee-milk","dishName":"Coffee milk","en":"Coffee milk"},{"id":"r-us-ne-new-haven-clam-apizza","slug":"white-clam-apizza-new-haven","dishName":"White clam apizza de New Haven","en":"New Haven white clam apizza"},{"id":"r-us-ne-pork-roll-egg-cheese","slug":"pork-roll-egg-cheese","dishName":"Pork roll, egg and cheese (Taylor ham)","en":"Pork roll, egg and cheese (Taylor ham)"},{"id":"r-us-ne-soft-pretzel","slug":"philadelphia-soft-pretzel","dishName":"Philadelphia soft pretzel","en":"Philadelphia soft pretzel"},{"id":"r-us-ne-sugar-on-snow","slug":"sugar-on-snow-vermont","dishName":"Sugar on snow (jarabe de arce sobre nieve)","en":"Sugar on snow (maple syrup on snow)"},{"id":"r-us-mw-chicago-deep-dish","slug":"pizza-deep-dish-de-chicago","dishName":"Pizza deep-dish de Chicago","en":"Chicago deep-dish pizza"},{"id":"r-us-mw-chicago-hot-dog","slug":"hot-dog-estilo-chicago","dishName":"Hot dog estilo Chicago","en":"Chicago-style hot dog"},{"id":"r-us-mw-italian-beef","slug":"italian-beef-de-chicago","dishName":"Italian beef de Chicago","en":"Chicago Italian beef"},{"id":"r-us-mw-detroit-pizza","slug":"pizza-estilo-detroit","dishName":"Pizza estilo Detroit","en":"Detroit-style pizza"},{"id":"r-us-mw-coney-dog","slug":"coney-dog-de-detroit","dishName":"Coney dog de Detroit","en":"Detroit coney dog"},{"id":"r-us-mw-cincinnati-chili","slug":"chili-de-cincinnati","dishName":"Chili de Cincinnati","en":"Cincinnati chili"},{"id":"r-us-mw-kc-burnt-ends","slug":"burnt-ends-de-kansas-city","dishName":"Burnt ends de Kansas City","en":"Kansas City burnt ends"},{"id":"r-us-mw-toasted-ravioli","slug":"ravioles-fritos-de-san-luis","dishName":"Ravioles fritos de San Luis","en":"St. Louis toasted ravioli"},{"id":"r-us-mw-gooey-butter-cake","slug":"gooey-butter-cake-de-san-luis","dishName":"Gooey butter cake de San Luis","en":"St. Louis gooey butter cake"},{"id":"r-us-mw-cheese-curds","slug":"cheese-curds-fritos-de-wisconsin","dishName":"Cheese curds fritos de Wisconsin","en":"Wisconsin fried cheese curds"},{"id":"r-us-mw-sheboygan-brat","slug":"bratwurst-estilo-sheboygan","dishName":"Bratwurst estilo Sheboygan","en":"Sheboygan-style bratwurst"},{"id":"r-us-mw-juicy-lucy","slug":"juicy-lucy","dishName":"Juicy Lucy","en":"Juicy Lucy"},{"id":"r-us-mw-tater-tot-hotdish","slug":"hotdish-de-tater-tots","dishName":"Hotdish de tater tots","en":"Tater tot hotdish"},{"id":"r-us-mw-runza","slug":"runza","dishName":"Runza","en":"Runza"},{"id":"r-us-mw-pork-tenderloin-sandwich","slug":"sandwich-de-lomo-de-cerdo-empanizado","dishName":"Sándwich de lomo de cerdo empanizado","en":"Breaded pork tenderloin sandwich"},{"id":"r-us-mw-chislic","slug":"chislic-de-dakota-del-sur","dishName":"Chislic de Dakota del Sur","en":"South Dakota chislic"},{"id":"r-us-w-cioppino","slug":"cioppino-san-francisco","dishName":"Cioppino","en":"Cioppino"},{"id":"r-us-w-mission-burrito","slug":"mission-burrito-san-francisco","dishName":"Mission burrito","en":"Mission burrito"},{"id":"r-us-w-french-dip","slug":"french-dip-los-angeles","dishName":"French dip","en":"French dip"},{"id":"r-us-w-green-chile-stew","slug":"green-chile-stew-nuevo-mexico","dishName":"Green chile stew","en":"Green chile stew"},{"id":"r-us-w-nm-enchiladas","slug":"enchiladas-nuevo-mexico-apiladas","dishName":"Enchiladas neomexicanas apiladas","en":"New Mexico stacked enchiladas"},{"id":"r-us-w-sonoran-hot-dog","slug":"sonoran-hot-dog-tucson","dishName":"Sonoran hot dog","en":"Sonoran hot dog"},{"id":"r-us-w-navajo-taco","slug":"navajo-taco-fry-bread","dishName":"Navajo taco (fry bread)","en":"Navajo taco (fry bread)"},{"id":"r-us-w-rocky-mountain-trout","slug":"trucha-montanas-rocosas","dishName":"Trucha de las Montañas Rocosas","en":"Rocky Mountain trout"},{"id":"r-us-w-denver-omelette","slug":"denver-omelette","dishName":"Denver omelette","en":"Denver omelette"},{"id":"r-us-w-cedar-plank-salmon","slug":"salmon-tabla-cedro-pacifico","dishName":"Salmón a la tabla de cedro","en":"Cedar plank salmon"},{"id":"r-us-w-marionberry-pie","slug":"marionberry-pie-oregon","dishName":"Marionberry pie","en":"Marionberry pie"},{"id":"r-us-w-poke","slug":"poke-ahi-hawai","dishName":"Poke de atún (ahi poke)","en":"Ahi poke"},{"id":"r-us-w-loco-moco","slug":"loco-moco-hawai","dishName":"Loco moco","en":"Loco moco"},{"id":"r-us-w-spam-musubi","slug":"spam-musubi-hawai","dishName":"Spam musubi","en":"Spam musubi"},{"id":"r-us-w-funeral-potatoes","slug":"funeral-potatoes-utah","dishName":"Funeral potatoes","en":"Funeral potatoes"},{"id":"r-us-w-alaskan-king-crab","slug":"cangrejo-real-alaska","dishName":"Cangrejo real de Alaska","en":"Alaskan king crab"},{"id":"r-it-pasta-carbonara","slug":"pasta-carbonara","dishName":"Pasta carbonara","en":"Pasta carbonara"},{"id":"r-it-pizza-napoletana","slug":"pizza-napoletana","dishName":"Pizza napolitana con mozzarella de búfala","en":"Neapolitan-style buffalo mozzarella pizza"},{"id":"r-it-risotto-milanese","slug":"risotto-alla-milanese","dishName":"Risotto a la milanesa","en":"Risotto alla milanese"},{"id":"r-fr-coq-au-vin","slug":"coq-au-vin","dishName":"Coq au Vin","en":"Coq au vin"},{"id":"r-fr-bouillabaisse","slug":"bouillabaisse","dishName":"Bouillabaisse","en":"Bouillabaisse"},{"id":"r-es-paella-valenciana","slug":"paella-valenciana","dishName":"Paella valenciana","en":"Valencian paella"},{"id":"r-es-gazpacho","slug":"gazpacho-andaluz","dishName":"Gazpacho andaluz","en":"Andalusian gazpacho"},{"id":"r-de-sauerbraten","slug":"sauerbraten","dishName":"Sauerbraten","en":"Sauerbraten"},{"id":"r-gr-moussaka","slug":"moussaka","dishName":"Moussaka","en":"Moussaka"},{"id":"r-pt-bacalhau","slug":"bacalhau-a-bras","dishName":"Bacalhau à Brás","en":"Bacalhau à Brás"},{"id":"r-it-tiramisu","slug":"tiramisu-con-marsala","dishName":"Tiramisú con Marsala","en":"Tiramisu with optional Marsala"},{"id":"r-it-osso-buco","slug":"osso-buco","dishName":"Ossobuco a la milanesa","en":"Ossobuco alla milanese"},{"id":"r-fr-ratatouille","slug":"ratatouille","dishName":"Ratatouille","en":"Ratatouille"},{"id":"r-fr-crêpes","slug":"crepes-suzette","dishName":"Crêpes Suzette","en":"Crêpes Suzette"},{"id":"r-es-tortilla","slug":"tortilla-espanola","dishName":"Tortilla española de papa","en":"Spanish potato tortilla"},{"id":"r-es-pulpo-gallego","slug":"pulpo-a-la-gallega","dishName":"Pulpo a la gallega","en":"Galician-style octopus"},{"id":"r-de-schnitzel","slug":"wiener-schnitzel","dishName":"Wiener Schnitzel","en":"Wiener Schnitzel"},{"id":"r-de-spaetzle","slug":"kasespatzle","dishName":"Käsespätzle","en":"Käsespätzle"},{"id":"r-gr-souvlaki","slug":"souvlaki","dishName":"Souvlaki","en":"Chicken souvlaki"},{"id":"r-pt-pasteis","slug":"pasteis-de-nata","dishName":"Pastéis de nata","en":"Pastéis de nata"}]
+[
+  {
+    "id": "r-tlayudas",
+    "slug": "tlayudas-oaxaquenas",
+    "names": {
+      "es": "Tlayudas oaxaqueñas",
+      "en": "Oaxacan tlayudas",
+      "zh": "瓦哈卡大脆饼",
+      "hi": "ओआहाका की त्लायुदास",
+      "fr": "Tlayudas d’Oaxaca",
+      "ar": "تلايوداس أواكساكا",
+      "bn": "ওয়াহাকার ত্লায়ুদা",
+      "pt": "Tlayudas de Oaxaca",
+      "ru": "Оахакские тлайуды",
+      "ur": "اوآخاکا کے تلیوداس",
+      "id": "Tlayuda Oaxaca",
+      "ja": "オアハカ風トラユーダ"
+    }
+  },
+  {
+    "id": "r-mole-negro",
+    "slug": "mole-negro-oaxaqueno",
+    "names": {
+      "es": "Mole negro",
+      "en": "Mole negro",
+      "zh": "黑摩尔酱",
+      "hi": "मोले नेग्रो",
+      "fr": "Mole negro",
+      "ar": "مولي نيغرو",
+      "bn": "মোলে নেগ্রো",
+      "pt": "Mole negro",
+      "ru": "Моле негро",
+      "ur": "مولے نیگرو",
+      "id": "Mole negro",
+      "ja": "モレ・ネグロ"
+    }
+  },
+  {
+    "id": "r-chiles-nogada",
+    "slug": "chiles-en-nogada",
+    "names": {
+      "es": "Chiles en nogada",
+      "en": "Chiles en nogada",
+      "zh": "核桃酱酿辣椒",
+      "hi": "चिलेस एन नोगादा",
+      "fr": "Chiles en nogada",
+      "ar": "تشيليس إن نوغادا",
+      "bn": "চিলেস এন নোগাদা",
+      "pt": "Chiles en nogada",
+      "ru": "Чилес эн ногада",
+      "ur": "چیلیس این نوگادا",
+      "id": "Chiles en nogada",
+      "ja": "チレス・エン・ノガダ"
+    }
+  },
+  {
+    "id": "r-birria",
+    "slug": "birria-de-res",
+    "names": {
+      "es": "Birria de res",
+      "en": "Beef birria",
+      "zh": "比里亚炖牛肉",
+      "hi": "गोमांस की बिर्रिया",
+      "fr": "Birria de bœuf",
+      "ar": "بيريا باللحم البقري",
+      "bn": "গরুর মাংসের বিরিয়া",
+      "pt": "Birria de carne bovina",
+      "ru": "Говяжья биррия",
+      "ur": "گائے کے گوشت کی بیریا",
+      "id": "Birria sapi",
+      "ja": "牛肉のビリア"
+    }
+  },
+  {
+    "id": "r-gumbo",
+    "slug": "gumbo-criollo",
+    "names": {
+      "es": "Gumbo",
+      "en": "Chicken and andouille gumbo",
+      "zh": "鸡肉安杜伊香肠浓汤",
+      "hi": "चिकन और आन्दूई गम्बो",
+      "fr": "Gumbo au poulet et à l’andouille",
+      "ar": "غامبو الدجاج وأندوي",
+      "bn": "মুরগি ও আন্দুই সসেজের গাম্বো",
+      "pt": "Gumbo de frango e andouille",
+      "ru": "Гамбо с курицей и андуй",
+      "ur": "مرغی اور آنڈوئی ساسیج کا گمبو",
+      "id": "Gumbo ayam dan andouille",
+      "ja": "鶏肉とアンドゥイユのガンボ"
+    }
+  },
+  {
+    "id": "r-brisket",
+    "slug": "brisket-ahumado-texano",
+    "names": {
+      "es": "Brisket ahumado",
+      "en": "Smoked Texas-style brisket",
+      "zh": "得克萨斯风味烟熏牛胸肉",
+      "hi": "टेक्सस शैली का स्मोक्ड ब्रिस्केट",
+      "fr": "Poitrine de bœuf fumée à la texane",
+      "ar": "صدر بقري مدخن على طريقة تكساس",
+      "bn": "টেক্সাস ধাঁচের ধোঁয়ায় রান্না ব্রিসকেট",
+      "pt": "Peito bovino defumado à moda do Texas",
+      "ru": "Копчёный брискет по-техасски",
+      "ur": "ٹیکساس طرز کا دھوئیں میں پکا بریسکٹ",
+      "id": "Brisket asap ala Texas",
+      "ja": "テキサス風スモーク・ブリスケット"
+    }
+  },
+  {
+    "id": "r-pizza",
+    "slug": "pizza-napolitana",
+    "names": {
+      "es": "Pizza napolitana",
+      "en": "Home-style Neapolitan pizza",
+      "zh": "家常那不勒斯披萨",
+      "hi": "घरेलू नेपोलिटन पिज़्ज़ा",
+      "fr": "Pizza napolitaine maison",
+      "ar": "بيتزا نابولية منزلية",
+      "bn": "ঘরোয়া নেপলস ধাঁচের পিৎজা",
+      "pt": "Pizza napolitana caseira",
+      "ru": "Неаполитанская пицца по-домашнему",
+      "ur": "گھریلو طرز کا نیپولیٹن پیزا",
+      "id": "Pizza Napoli rumahan",
+      "ja": "家庭で作るナポリ風ピッツァ"
+    }
+  },
+  {
+    "id": "r-cacio",
+    "slug": "cacio-e-pepe",
+    "names": {
+      "es": "Cacio e pepe",
+      "en": "Cacio e pepe",
+      "zh": "佩科里诺黑胡椒意面",
+      "hi": "काचो ए पेपे",
+      "fr": "Cacio e pepe",
+      "ar": "كاتشو إي بيبي",
+      "bn": "কাচো এ পেপে",
+      "pt": "Cacio e pepe",
+      "ru": "Качо э пепе",
+      "ur": "کاچو اے پیپے",
+      "id": "Cacio e pepe",
+      "ja": "カチョ・エ・ペペ"
+    }
+  },
+  {
+    "id": "r-okonomiyaki",
+    "slug": "okonomiyaki-osaka",
+    "names": {
+      "es": "Okonomiyaki",
+      "en": "Okonomiyaki",
+      "zh": "大阪烧",
+      "hi": "ओकोनोमियाकी",
+      "fr": "Okonomiyaki",
+      "ar": "أوكونومياكي",
+      "bn": "ওকোনোমিয়াকি",
+      "pt": "Okonomiyaki",
+      "ru": "Окономияки",
+      "ur": "اوکونومیاکی",
+      "id": "Okonomiyaki",
+      "ja": "お好み焼き"
+    }
+  },
+  {
+    "id": "r-ramen",
+    "slug": "ramen-shoyu",
+    "names": {
+      "es": "Ramen shoyu",
+      "en": "Quick shoyu ramen",
+      "zh": "快手酱油拉面",
+      "hi": "झटपट शोयू रामेन",
+      "fr": "Ramen shoyu rapide",
+      "ar": "رامن شويو سريع",
+      "bn": "দ্রুত শোয়ু রামেন",
+      "pt": "Lámen shoyu rápido",
+      "ru": "Быстрый сёю-рамен",
+      "ur": "فوری شویو رامن",
+      "id": "Ramen shoyu cepat",
+      "ja": "手軽な醤油ラーメン"
+    }
+  },
+  {
+    "id": "r-padthai",
+    "slug": "pad-thai",
+    "names": {
+      "es": "Pad Thai",
+      "en": "Vegetarian pad Thai",
+      "zh": "素食泰式炒河粉",
+      "hi": "शाकाहारी पैड थाई",
+      "fr": "Pad thaï végétarien",
+      "ar": "باد تاي نباتي",
+      "bn": "নিরামিষ প্যাড থাই",
+      "pt": "Pad thai vegetariano",
+      "ru": "Вегетарианский пад-тай",
+      "ur": "سبزی خور پیڈ تھائی",
+      "id": "Pad Thai vegetarian",
+      "ja": "ベジタリアン・パッタイ"
+    }
+  },
+  {
+    "id": "r-khaosoi",
+    "slug": "khao-soi",
+    "names": {
+      "es": "Khao Soi",
+      "en": "Khao soi",
+      "zh": "泰北咖喱面",
+      "hi": "खाओ सोई",
+      "fr": "Khao soi",
+      "ar": "خاو سوي",
+      "bn": "খাও সোই",
+      "pt": "Khao soi",
+      "ru": "Кхао сой",
+      "ur": "کھاؤ سوئی",
+      "id": "Khao soi",
+      "ja": "カオソーイ"
+    }
+  },
+  {
+    "id": "r-tacos-pastor",
+    "slug": "tacos-al-pastor",
+    "names": {
+      "es": "Tacos al pastor",
+      "en": "Skillet tacos al pastor",
+      "zh": "平底锅牧人式猪肉塔可",
+      "hi": "तवे पर बने टाकोस अल पास्तोर",
+      "fr": "Tacos al pastor à la poêle",
+      "ar": "تاكو آل باستور بالمقلاة",
+      "bn": "প্যানে তৈরি টাকোস আল পাস্তোর",
+      "pt": "Tacos al pastor de frigideira",
+      "ru": "Тако аль пастор на сковороде",
+      "ur": "پین میں بنے ٹاکوس ال پاستور",
+      "id": "Taco al pastor dengan wajan",
+      "ja": "フライパンで作るタコス・アル・パストール"
+    }
+  },
+  {
+    "id": "r-tiramisu",
+    "slug": "tiramisu",
+    "names": {
+      "es": "Tiramisú",
+      "en": "Tiramisu",
+      "zh": "提拉米苏",
+      "hi": "तिरामिसू",
+      "fr": "Tiramisu",
+      "ar": "تيراميسو",
+      "bn": "তিরামিসু",
+      "pt": "Tiramisù",
+      "ru": "Тирамису",
+      "ur": "تیرامیسو",
+      "id": "Tiramisu",
+      "ja": "ティラミス"
+    }
+  },
+  {
+    "id": "r-pancakes",
+    "slug": "buttermilk-pancakes",
+    "names": {
+      "es": "Buttermilk pancakes",
+      "en": "Buttermilk pancakes",
+      "zh": "酪乳松饼",
+      "hi": "बटरमिल्क पैनकेक",
+      "fr": "Pancakes au babeurre",
+      "ar": "بانكيك باللبن المخيض",
+      "bn": "বাটারমিল্ক প্যানকেক",
+      "pt": "Panquecas de buttermilk",
+      "ru": "Панкейки на пахте",
+      "ur": "بٹرملک پین کیک",
+      "id": "Panekuk buttermilk",
+      "ja": "バターミルク・パンケーキ"
+    }
+  },
+  {
+    "id": "r-mochi",
+    "slug": "ichigo-daifuku",
+    "names": {
+      "es": "Mochi de fresa (daifuku)",
+      "en": "Strawberry daifuku mochi",
+      "zh": "草莓大福",
+      "hi": "स्ट्रॉबेरी दाइफुकु मोची",
+      "fr": "Mochi daifuku à la fraise",
+      "ar": "موتشي دايفوكو بالفراولة",
+      "bn": "স্ট্রবেরি দাইফুকু মোচি",
+      "pt": "Daifuku mochi de morango",
+      "ru": "Клубничные дайфуку моти",
+      "ur": "اسٹرابیری دائیفوکو موچی",
+      "id": "Mochi daifuku stroberi",
+      "ja": "いちご大福"
+    }
+  },
+  {
+    "id": "r-guacamole",
+    "slug": "guacamole",
+    "names": {
+      "es": "Guacamole",
+      "en": "Guacamole",
+      "zh": "鳄梨酱",
+      "hi": "गुआकामोले",
+      "fr": "Guacamole",
+      "ar": "غواكامولي",
+      "bn": "গুয়াকামোলে",
+      "pt": "Guacamole",
+      "ru": "Гуакамоле",
+      "ur": "گواکامولے",
+      "id": "Guacamole",
+      "ja": "ワカモレ"
+    }
+  },
+  {
+    "id": "r-somtam",
+    "slug": "som-tam",
+    "names": {
+      "es": "Som tam",
+      "en": "Som tam",
+      "zh": "泰式青木瓜沙拉",
+      "hi": "सोम तम",
+      "fr": "Som tam",
+      "ar": "سوم تام",
+      "bn": "সোম তাম",
+      "pt": "Som tam",
+      "ru": "Сом там",
+      "ur": "سوم تام",
+      "id": "Som tam",
+      "ja": "ソムタム"
+    }
+  },
+  {
+    "id": "r-jambalaya",
+    "slug": "jambalaya",
+    "names": {
+      "es": "Jambalaya",
+      "en": "Jambalaya",
+      "zh": "路易斯安那什锦饭",
+      "hi": "जाम्बलाया",
+      "fr": "Jambalaya",
+      "ar": "جامبالايا",
+      "bn": "জাম্বালায়া",
+      "pt": "Jambalaya",
+      "ru": "Джамбалайя",
+      "ur": "جامبالایا",
+      "id": "Jambalaya",
+      "ja": "ジャンバラヤ"
+    }
+  },
+  {
+    "id": "r-cemita",
+    "slug": "cemita-poblana",
+    "names": {
+      "es": "Cemita poblana",
+      "en": "Pueblan cemita",
+      "zh": "普埃布拉芝麻肉排堡",
+      "hi": "पुएब्ला की सेमिता",
+      "fr": "Cemita de Puebla",
+      "ar": "سيميتا بويبلا",
+      "bn": "পুয়েবলার সেমিতা",
+      "pt": "Cemita de Puebla",
+      "ru": "Семита из Пуэблы",
+      "ur": "پوئیبلا کی سیمیتا",
+      "id": "Cemita Puebla",
+      "ja": "プエブラのセミータ"
+    }
+  },
+  {
+    "id": "r-mxn-machaca-huevo",
+    "slug": "machaca-con-huevo",
+    "names": {
+      "es": "Machaca con huevo",
+      "en": "Machaca con huevo (shredded dried beef with eggs)",
+      "zh": "干牛肉丝炒蛋（Machaca con huevo）",
+      "hi": "मचाका कोन हुएवो (अंडों के साथ रेशेदार सूखा गोमांस)",
+      "fr": "Machaca con huevo (bœuf séché effiloché aux œufs)",
+      "ar": "ماتشاكا بالبيض (لحم بقري مجفف ومفتت بالبيض)",
+      "bn": "মাচাকা কন উয়েভো (শুকনো ঝুরো গরুর মাংস ও ডিম)",
+      "pt": "Machaca com ovos",
+      "ru": "Мачака кон уэво (сушёная говядина с яйцами)",
+      "ur": "ماچاکا کون اوئیوو (انڈوں کے ساتھ خشک ریشہ کیا گائے کا گوشت)",
+      "id": "Machaca con huevo (sapi kering suwir dengan telur)",
+      "ja": "マチャカ・コン・ウエボ（干し牛肉の卵炒め）"
+    }
+  },
+  {
+    "id": "r-mxn-caldo-queso",
+    "slug": "caldo-de-queso-sonorense",
+    "names": {
+      "es": "Caldo de queso sonorense",
+      "en": "Caldo de queso sonorense (Sonoran cheese soup)",
+      "zh": "索诺拉奶酪汤",
+      "hi": "काल्दो दे केसो सोनोरेंस (सोनोरा का चीज़ सूप)",
+      "fr": "Caldo de queso sonorense (soupe au fromage de Sonora)",
+      "ar": "كالدو دي كيسو سونورينسي (حساء الجبن من سونورا)",
+      "bn": "কালদো দে কেসো সোনোরেন্সে (সোনোরার চিজ স্যুপ)",
+      "pt": "Caldo de queijo de Sonora",
+      "ru": "Кальдо де кесо по-сонорски (сырный суп)",
+      "ur": "کالدو دے کیسو سونورینسے (سونورا کا پنیر سوپ)",
+      "id": "Caldo de queso sonorense (sup keju Sonora)",
+      "ja": "ソノラ風カルド・デ・ケソ（チーズスープ）"
+    }
+  },
+  {
+    "id": "r-mxn-coyotas",
+    "slug": "coyotas-de-villa-de-seris",
+    "names": {
+      "es": "Coyotas de Villa de Seris",
+      "en": "Coyotas de Villa de Seris (piloncillo-filled pastries)",
+      "zh": "塞里斯村黑糖馅酥饼（Coyotas）",
+      "hi": "विया दे सेरिस की कोयोतास (पिलोंसियो भरी पेस्ट्री)",
+      "fr": "Coyotas de Villa de Seris (biscuits fourrés au piloncillo)",
+      "ar": "كويوتاس فيا دي سيريس (معجنات محشوة بالبيلونسيو)",
+      "bn": "ভিয়া দে সেরিসের কোয়োতা (পিলোনসিয়োভরা পেস্ট্রি)",
+      "pt": "Coyotas de Villa de Seris",
+      "ru": "Койотас из Вилья-де-Серис (выпечка с пилонсильо)",
+      "ur": "ویا دے سیریس کی کویوتاس (پیلونسییو بھری پیسٹری)",
+      "id": "Coyota Villa de Seris (pastri isi piloncillo)",
+      "ja": "ビジャ・デ・セリスのコヨータ（ピロンシージョ入り焼き菓子）"
+    }
+  },
+  {
+    "id": "r-mxn-chilorio",
+    "slug": "chilorio",
+    "names": {
+      "es": "Chilorio",
+      "en": "Chilorio",
+      "zh": "奇洛里奥辣酱猪肉丝",
+      "hi": "चिलोरियो",
+      "fr": "Chilorio",
+      "ar": "تشيلوريو",
+      "bn": "চিলোরিও",
+      "pt": "Chilorio",
+      "ru": "Чилорио",
+      "ur": "چیلوریو",
+      "id": "Chilorio",
+      "ja": "チロリオ"
+    }
+  },
+  {
+    "id": "r-mxn-aguachile",
+    "slug": "aguachile-verde",
+    "names": {
+      "es": "Aguachile verde con camarón cocido",
+      "en": "Green aguachile with cooked shrimp",
+      "zh": "青辣椒酸汁拌熟虾",
+      "hi": "पके झींगों वाला हरा अगुआचिले",
+      "fr": "Aguachile vert aux crevettes cuites",
+      "ar": "أغواتشيلي أخضر بروبيان مطهو",
+      "bn": "রান্না করা চিংড়ির সবুজ আগুয়াচিলে",
+      "pt": "Aguachile verde com camarão cozido",
+      "ru": "Зелёный агуачиле с варёными креветками",
+      "ur": "پکے جھینگوں والا سبز آگواچیلے",
+      "id": "Aguachile hijau dengan udang matang",
+      "ja": "ゆでえびの緑のアグアチレ"
+    }
+  },
+  {
+    "id": "r-mxn-cabrito-pastor",
+    "slug": "cabrito-al-pastor",
+    "names": {
+      "es": "Cabrito al pastor",
+      "en": "Cabrito al pastor (spit-roasted kid goat)",
+      "zh": "牧人式叉烤乳山羊",
+      "hi": "काब्रीतो अल पास्तोर (सींख पर भुना बकरी का बच्चा)",
+      "fr": "Cabrito al pastor (chevreau rôti à la broche)",
+      "ar": "كابريتو آل باستور (جدي مشوي على سيخ)",
+      "bn": "কাব্রিতো আল পাস্তোর (শিকে রোস্ট করা ছাগশিশু)",
+      "pt": "Cabrito al pastor",
+      "ru": "Кабрито аль пастор (козлёнок на вертеле)",
+      "ur": "کابریتو ال پاستور (سیخ پر بھنا بکری کا بچہ)",
+      "id": "Cabrito al pastor (anak kambing panggang tusuk)",
+      "ja": "カブリート・アル・パストール（仔ヤギの串焼き）"
+    }
+  },
+  {
+    "id": "r-mxn-frijoles-charros",
+    "slug": "frijoles-charros",
+    "names": {
+      "es": "Frijoles charros",
+      "en": "Frijoles charros (cowboy beans)",
+      "zh": "牛仔炖豆",
+      "hi": "फ्रीहोलेस चार्रोस (काउबॉय राजमा)",
+      "fr": "Frijoles charros (haricots façon cow-boy)",
+      "ar": "فريخوليس تشاروس (فاصوليا رعاة البقر)",
+      "bn": "ফ্রিহোলেস চারোস (কাউবয় বিন)",
+      "pt": "Frijoles charros",
+      "ru": "Фрихолес чаррос (ковбойская фасоль)",
+      "ur": "فریخولیس چاروس (چرواہوں کا لوبیا)",
+      "id": "Frijoles charros (kacang koboi)",
+      "ja": "フリホーレス・チャロス（カウボーイ風豆煮込み）"
+    }
+  },
+  {
+    "id": "r-mxn-discada",
+    "slug": "discada-nortena",
+    "names": {
+      "es": "Discada norteña",
+      "en": "Discada norteña (northern plow-disc mixed grill)",
+      "zh": "北部铁犁盘什锦烤肉",
+      "hi": "दिस्कादा नोर्तेन्या (हल की तश्तरी पर उत्तरी मिश्रित मांस)",
+      "fr": "Discada norteña (viandes mélangées sur disque de charrue)",
+      "ar": "ديسكادا نورتينيا (مشويات الشمال المشكلة على قرص المحراث)",
+      "bn": "দিসকাদা নোর্তেনিয়া (লাঙলের চাকতিতে উত্তরের মিশ্র গ্রিল)",
+      "pt": "Discada do norte",
+      "ru": "Дискада нортенья (мясное ассорти на диске плуга)",
+      "ur": "شمالی دیسکادا (ہل کی ڈسک پر ملا جلا گرل گوشت)",
+      "id": "Discada norteña (panggang campur di cakram bajak ala utara)",
+      "ja": "北部風ディスカーダ（耕作用円盤のミックスグリル）"
+    }
+  },
+  {
+    "id": "r-mxn-asado-puerco",
+    "slug": "asado-de-puerco-chihuahuense",
+    "names": {
+      "es": "Asado de puerco chihuahuense",
+      "en": "Asado de puerco chihuahuense (Chihuahua-style pork in red chile)",
+      "zh": "奇瓦瓦红辣椒炖猪肉",
+      "hi": "असादो दे पुएर्को चिहुआहुएन्से (लाल मिर्च में चिहुआहुआ शैली का सूअर का मांस)",
+      "fr": "Asado de puerco chihuahuense (porc au piment rouge de Chihuahua)",
+      "ar": "أسادو دي بويركو تشيواوينسي (لحم خنزير بفلفل أحمر على طريقة تشيواوا)",
+      "bn": "আসাদো দে পুয়েরকো চিহুয়াহুয়েন্সে (চিহুয়াহুয়ার লাল লঙ্কায় শূকরের মাংস)",
+      "pt": "Ensopado de porco de Chihuahua",
+      "ru": "Асадо де пуэрко по-чиуауански (свинина в красном чили)",
+      "ur": "آسادو دے پوئرکو چیواوینسے (چیواوا طرز کا سرخ مرچ میں سور کا گوشت)",
+      "id": "Asado de puerco chihuahuense (babi cabai merah ala Chihuahua)",
+      "ja": "チワワ風アサード・デ・プエルコ（豚肉の赤唐辛子煮）"
+    }
+  },
+  {
+    "id": "r-mxn-caldillo-durango",
+    "slug": "caldillo-duranguense",
+    "names": {
+      "es": "Caldillo duranguense",
+      "en": "Caldillo duranguense (Durango beef stew)",
+      "zh": "杜兰戈牛肉汤炖菜",
+      "hi": "काल्दियो दुरांगुएन्से (दुरांगो का गोमांस स्टू)",
+      "fr": "Caldillo duranguense (ragoût de bœuf de Durango)",
+      "ar": "كالديو دورانغينسي (يخنة لحم بقري من دورانغو)",
+      "bn": "কালদিয়ো দুরাঙ্গেন্সে (দুরাঙ্গোর গরুর মাংসের স্ট্যু)",
+      "pt": "Caldillo de Durango",
+      "ru": "Кальдильо дурангенсе (говяжья похлёбка Дуранго)",
+      "ur": "کالدییو دورانگینسے (دورانگو کا گائے کے گوشت کا شوربہ)",
+      "id": "Caldillo duranguense (rebusan sapi Durango)",
+      "ja": "カルディージョ・ドゥランゲーニョ（ドゥランゴの牛肉煮込み）"
+    }
+  },
+  {
+    "id": "r-mxn-asado-boda",
+    "slug": "asado-de-boda-zacatecano",
+    "names": {
+      "es": "Asado de boda zacatecano",
+      "en": "Asado de boda zacatecano (Zacatecas wedding stew)",
+      "zh": "萨卡特卡斯婚宴炖肉",
+      "hi": "असादो दे बोदा साकातेकानो (साकातेकास का विवाह स्टू)",
+      "fr": "Asado de boda zacatecano (ragoût de noces de Zacatecas)",
+      "ar": "أسادو دي بودا ساكاتيكانو (يخنة الأعراس من ساكاتيكاس)",
+      "bn": "আসাদো দে বোদা সাকাতেকানো (সাকাতেকাসের বিয়ের স্ট্যু)",
+      "pt": "Ensopado de casamento de Zacatecas",
+      "ru": "Асадо де бода из Сакатекаса (свадебное рагу)",
+      "ur": "زاکاتیکاس کا آسادو دے بودا (شادی کا سالن)",
+      "id": "Asado de boda zacatecano (rebusan pernikahan Zacatecas)",
+      "ja": "サカテカスのアサード・デ・ボダ（婚礼の煮込み）"
+    }
+  },
+  {
+    "id": "r-mxn-carne-asada",
+    "slug": "tacos-de-carne-asada-nortenos",
+    "names": {
+      "es": "Tacos de carne asada norteños",
+      "en": "Tacos de carne asada norteños (northern grilled beef tacos)",
+      "zh": "北部烤牛肉塔可",
+      "hi": "टाकोस दे कार्ने असादा नोर्तेन्योस (उत्तरी ग्रिल किए गोमांस के टाको)",
+      "fr": "Tacos de carne asada norteños (tacos de bœuf grillé du nord)",
+      "ar": "تاكو كارني أسادا الشمالي (تاكو اللحم البقري المشوي)",
+      "bn": "উত্তরের কার্নে আসাদা টাকো (গ্রিল করা গরুর মাংসের টাকো)",
+      "pt": "Tacos de carne grelhada do norte",
+      "ru": "Северные тако с карне асада",
+      "ur": "شمالی کارنے آسادا ٹاکو (گرل شدہ گائے کے گوشت کے ٹاکو)",
+      "id": "Taco carne asada utara (taco sapi panggang)",
+      "ja": "北部風カルネ・アサダのタコス（牛肉の炭火焼きタコス）"
+    }
+  },
+  {
+    "id": "r-mxn-tacos-pescado",
+    "slug": "tacos-de-pescado-estilo-baja",
+    "names": {
+      "es": "Tacos de pescado estilo Baja",
+      "en": "Tacos de pescado estilo Baja (Baja-style fish tacos)",
+      "zh": "下加利福尼亚炸鱼塔可",
+      "hi": "टाकोस दे पेस्कादो एस्तिलो बाहा (बाहा शैली के मछली टाको)",
+      "fr": "Tacos de pescado estilo Baja (tacos de poisson de Basse-Californie)",
+      "ar": "تاكو السمك على طريقة باخا",
+      "bn": "বাহা ধাঁচের মাছের টাকো",
+      "pt": "Tacos de peixe ao estilo da Baja",
+      "ru": "Рыбные тако в стиле Бахи",
+      "ur": "باخا طرز کے مچھلی ٹاکو",
+      "id": "Taco ikan ala Baja",
+      "ja": "バハ風フィッシュタコス"
+    }
+  },
+  {
+    "id": "r-mxn-almejas-tatemadas",
+    "slug": "almejas-tatemadas",
+    "names": {
+      "es": "Almejas tatemadas",
+      "en": "Almejas tatemadas (fire-roasted clams)",
+      "zh": "火烤巧克力蛤",
+      "hi": "अल्मेहास तातेमादास (आग पर भुने क्लैम)",
+      "fr": "Almejas tatemadas (palourdes rôties au feu)",
+      "ar": "ألميخاس تاتيماداس (محار مشوي على النار)",
+      "bn": "আলমেহাস তাতেমাদাস (আগুনে রোস্ট করা ক্ল্যাম)",
+      "pt": "Almejas tatemadas (amêijoas assadas no fogo)",
+      "ru": "Альмехас татемадас (моллюски, запечённые на огне)",
+      "ur": "المیخاس تاتیماداس (آگ پر بھنی کلیم سیپیاں)",
+      "id": "Almejas tatemadas (kerang panggang api)",
+      "ja": "アルメハス・タテマダス（貝の直火焼き）"
+    }
+  },
+  {
+    "id": "r-mxn-carne-tampiquena",
+    "slug": "carne-asada-a-la-tampiquena",
+    "names": {
+      "es": "Carne asada a la tampiqueña",
+      "en": "Carne asada a la tampiqueña (Tampico-style grilled beef plate)",
+      "zh": "坦皮科烤牛肉拼盘",
+      "hi": "कार्ने असादा आ ला ताम्पिकेन्या (ताम्पिको शैली की ग्रिल किए गोमांस की प्लेट)",
+      "fr": "Carne asada a la tampiqueña (assiette de bœuf grillé façon Tampico)",
+      "ar": "كارني أسادا آ لا تامبيكينيا (طبق لحم بقري مشوي على طريقة تامبيكو)",
+      "bn": "কার্নে আসাদা আ লা তাম্পিকেনিয়া (তাম্পিকো ধাঁচের গ্রিল করা গরুর মাংস)",
+      "pt": "Carne grelhada à moda de Tampico",
+      "ru": "Карне асада а-ля тампикенья (говядина на гриле по-тампикски)",
+      "ur": "کارنے آسادا آ لا تامپیکینیا (تامپیکو کی گرل شدہ گائے کے گوشت کی پلیٹ)",
+      "id": "Carne asada a la tampiqueña (sapi panggang ala Tampico)",
+      "ja": "カルネ・アサダ・ア・ラ・タンピケーニャ（タンピコ風牛肉グリルの盛り合わせ）"
+    }
+  },
+  {
+    "id": "r-mxc-pollo-san-marcos",
+    "slug": "pollo-de-san-marcos",
+    "names": {
+      "es": "Pollo de San Marcos",
+      "en": "Pollo de San Marcos (San Marcos-style chicken)",
+      "zh": "圣马科斯风味鸡",
+      "hi": "पोयो दे सान मार्कोस (सान मार्कोस शैली का चिकन)",
+      "fr": "Pollo de San Marcos (poulet façon San Marcos)",
+      "ar": "دجاج سان ماركوس",
+      "bn": "পোইয়ো দে সান মার্কোস (সান মার্কোস ধাঁচের মুরগি)",
+      "pt": "Frango de San Marcos",
+      "ru": "Курица Сан-Маркос",
+      "ur": "پویو دے سان مارکوس (سان مارکوس طرز کی مرغی)",
+      "id": "Pollo de San Marcos (ayam ala San Marcos)",
+      "ja": "ポジョ・デ・サン・マルコス（サン・マルコス風鶏肉）"
+    }
+  },
+  {
+    "id": "r-mxc-enchiladas-mineras",
+    "slug": "enchiladas-mineras",
+    "names": {
+      "es": "Enchiladas mineras",
+      "en": "Enchiladas mineras (miner's enchiladas)",
+      "zh": "矿工辣酱卷饼",
+      "hi": "एन्चिलादास मिनेरास (खनिकों की एन्चिलादास)",
+      "fr": "Enchiladas mineras (enchiladas des mineurs)",
+      "ar": "إنشيلاداس مينيراس (إنشيلادا عمال المناجم)",
+      "bn": "এনচিলাদাস মিনেরাস (খনিশ্রমিকের এনচিলাদা)",
+      "pt": "Enchiladas dos mineiros",
+      "ru": "Энчиладас минерас (шахтёрские энчилады)",
+      "ur": "اینچیلاداس مینیراس (کان کنوں کے اینچیلادا)",
+      "id": "Enchiladas mineras (enchilada penambang)",
+      "ja": "エンチラーダス・ミネーラス（鉱夫のエンチラーダ）"
+    }
+  },
+  {
+    "id": "r-mxc-guacamayas",
+    "slug": "guacamayas-leon",
+    "names": {
+      "es": "Guacamayas",
+      "en": "Guacamayas (León pork-rind rolls)",
+      "zh": "莱昂炸猪皮面包（Guacamayas）",
+      "hi": "गुआकामायास (लेओन के सूअर की कुरकुरी खाल वाले रोल)",
+      "fr": "Guacamayas (petits pains au chicharrón de León)",
+      "ar": "غواكامايا (خبز بجلد الخنزير المقلي من ليون)",
+      "bn": "গুয়াকামায়াস (লেওনের শূকরের চামড়াভরা রোল)",
+      "pt": "Guacamayas (pães com torresmo de León)",
+      "ru": "Гуакамайяс (леонские булочки со свиными шкварками)",
+      "ur": "گواکامایاس (لیون کے سور کی کھال والے رول)",
+      "id": "Guacamayas (roti kulit babi León)",
+      "ja": "グアカマヤス（レオンの豚皮サンド）"
+    }
+  },
+  {
+    "id": "r-mxc-gorditas-queretanas",
+    "slug": "gorditas-maiz-quebrado-queretanas",
+    "names": {
+      "es": "Gorditas de maíz quebrado",
+      "en": "Gorditas de maíz quebrado (cracked-corn gorditas)",
+      "zh": "粗磨玉米厚饼",
+      "hi": "गोर्दितास दे माइज़ केब्रादो (दरदरी मकई की गोर्दितास)",
+      "fr": "Gorditas de maíz quebrado (galettes épaisses de maïs concassé)",
+      "ar": "غورديتاس بالذرة المجروشة",
+      "bn": "গোরদিতাস দে মাইস কেব্রাদো (ভাঙা ভুট্টার গোরদিতা)",
+      "pt": "Gorditas de milho quebrado",
+      "ru": "Гордитас из дроблёной кукурузы",
+      "ur": "موٹی پسی مکئی کی گوردیتاس",
+      "id": "Gorditas de maíz quebrado (gordita jagung pecah)",
+      "ja": "ゴルディータス・デ・マイス・ケブラード（粗びきとうもろこしのゴルディータ）"
+    }
+  },
+  {
+    "id": "r-mxc-enchiladas-potosinas",
+    "slug": "enchiladas-potosinas",
+    "names": {
+      "es": "Enchiladas potosinas",
+      "en": "Enchiladas potosinas (San Luis Potosí enchiladas)",
+      "zh": "圣路易斯波托西辣椒馅饼",
+      "hi": "एन्चिलादास पोतोसिनास (सान लुइस पोतोसी की एन्चिलादास)",
+      "fr": "Enchiladas potosinas (enchiladas de San Luis Potosí)",
+      "ar": "إنشيلاداس بوتوسيناس (إنشيلادا سان لويس بوتوسي)",
+      "bn": "এনচিলাদাস পোতোসিনাস (সান লুইস পোতোসির এনচিলাদা)",
+      "pt": "Enchiladas de San Luis Potosí",
+      "ru": "Энчиладас потосинас (энчилады Сан-Луис-Потоси)",
+      "ur": "اینچیلاداس پوتوسیناس (سان لوئیس پوتوسی کے اینچیلادا)",
+      "id": "Enchiladas potosinas (enchilada San Luis Potosí)",
+      "ja": "エンチラーダス・ポトシーナス（サン・ルイス・ポトシのエンチラーダ）"
+    }
+  },
+  {
+    "id": "r-mxc-zacahuil",
+    "slug": "zacahuil-huasteca-potosina",
+    "names": {
+      "es": "Zacahuil",
+      "en": "Zacahuil (giant Huastec tamal)",
+      "zh": "瓦斯特克巨型玉米粽（Zacahuil）",
+      "hi": "साकाहुइल (हुआस्तेक का विशाल तमाल)",
+      "fr": "Zacahuil (tamal géant de la Huasteca)",
+      "ar": "ساكاويل (تامال هواستيكي عملاق)",
+      "bn": "সাকাউইল (বিশাল হুয়াস্তেক তামাল)",
+      "pt": "Zacahuil (tamal gigante huasteco)",
+      "ru": "Сакауиль (гигантский уастекский тамаль)",
+      "ur": "زاکاویل (ہواستیکا کا بڑا تمال)",
+      "id": "Zacahuil (tamal raksasa Huastec)",
+      "ja": "サカウイル（ワステカ地方の巨大タマル）"
+    }
+  },
+  {
+    "id": "r-mxc-tortas-ahogadas",
+    "slug": "tortas-ahogadas",
+    "names": {
+      "es": "Tortas ahogadas",
+      "en": "Tortas ahogadas (drowned sandwiches)",
+      "zh": "酱汁浸肉面包",
+      "hi": "तोर्तास आहोगादास (सॉस में डूबे सैंडविच)",
+      "fr": "Tortas ahogadas (sandwichs noyés dans la sauce)",
+      "ar": "تورتاس أغوغاداس (شطائر مغمورة)",
+      "bn": "তোর্তাস আওগাদাস (সসে ডোবা স্যান্ডউইচ)",
+      "pt": "Tortas ahogadas (sanduíches banhados em molho)",
+      "ru": "Тортас аогадас (утопленные сэндвичи)",
+      "ur": "تورتاس آوگاداس (چٹنی میں ڈوبے سینڈوچ)",
+      "id": "Tortas ahogadas (roti lapis terendam)",
+      "ja": "トルタス・アオガーダス（ソースに浸したサンドイッチ）"
+    }
+  },
+  {
+    "id": "r-mxc-carne-en-su-jugo",
+    "slug": "carne-en-su-jugo",
+    "names": {
+      "es": "Carne en su jugo",
+      "en": "Carne en su jugo (beef in its juices)",
+      "zh": "原汁牛肉",
+      "hi": "कार्ने एन सु हूगो (अपने रस में गोमांस)",
+      "fr": "Carne en su jugo (bœuf dans son jus)",
+      "ar": "كارني إن سو خوغو (لحم بقري في عصارته)",
+      "bn": "কার্নে এন সু হুগো (নিজের রসে গরুর মাংস)",
+      "pt": "Carne no próprio caldo",
+      "ru": "Карне эн су хуго (говядина в собственном соку)",
+      "ur": "کارنے این سو خوگو (اپنے رس میں گائے کا گوشت)",
+      "id": "Carne en su jugo (sapi dalam sarinya)",
+      "ja": "カルネ・エン・ス・フーゴ（牛肉の肉汁煮）"
+    }
+  },
+  {
+    "id": "r-mxc-pescado-zarandeado",
+    "slug": "pescado-zarandeado-nayarit",
+    "names": {
+      "es": "Pescado zarandeado",
+      "en": "Pescado zarandeado (Nayarit grilled fish)",
+      "zh": "纳亚里特炭烤鱼",
+      "hi": "पेस्कादो सारान्देआदो (नायारित की ग्रिल की हुई मछली)",
+      "fr": "Pescado zarandeado (poisson grillé de Nayarit)",
+      "ar": "بيسكادو ساراندِيادو (سمك مشوي من ناياريت)",
+      "bn": "পেস্কাদো সারানদেয়াদো (নায়ারিতের গ্রিল করা মাছ)",
+      "pt": "Pescado zarandeado (peixe grelhado de Nayarit)",
+      "ru": "Пескадо сарандеадо (рыба на гриле из Наярита)",
+      "ur": "پیسکاڈو زارانڈیاڈو (نایاریت کی گرل مچھلی)",
+      "id": "Pescado zarandeado (ikan panggang Nayarit)",
+      "ja": "ペスカド・サランデアード（ナヤリットの魚のグリル）"
+    }
+  },
+  {
+    "id": "r-mxc-sopitos-colima",
+    "slug": "sopitos-colimenses",
+    "names": {
+      "es": "Sopitos colimenses",
+      "en": "Sopitos colimenses (Colima sopitos)",
+      "zh": "科利马迷你玉米托饼",
+      "hi": "सोपितोस कोलिमेन्सेस (कोलिमा के सोपितोस)",
+      "fr": "Sopitos colimenses (petites galettes garnies de Colima)",
+      "ar": "سوبيتوس كوليما",
+      "bn": "সোপিতোস কোলিমেন্সেস (কোলিমার সোপিতো)",
+      "pt": "Sopitos de Colima",
+      "ru": "Сопитос из Колимы",
+      "ur": "سوپیتوس کولیمینسیس (کولیما کے سوپیتوس)",
+      "id": "Sopitos colimenses (sopito Colima)",
+      "ja": "ソピートス・コリメンセス（コリマのソピートス）"
+    }
+  },
+  {
+    "id": "r-mxc-carnitas",
+    "slug": "carnitas-michoacanas",
+    "names": {
+      "es": "Carnitas michoacanas",
+      "en": "Carnitas michoacanas (Michoacán carnitas)",
+      "zh": "米却肯慢煮猪肉（Carnitas）",
+      "hi": "कार्नितास मिचोआकानास (मिचोआकान की कार्नितास)",
+      "fr": "Carnitas michoacanas (porc confit du Michoacán)",
+      "ar": "كارنيتاس ميتشواكان",
+      "bn": "মিচোয়াকানের কার্নিতাস",
+      "pt": "Carnitas de Michoacán",
+      "ru": "Carnitas michoacanas",
+      "ur": "میچوآکان کی کارنیتاس",
+      "id": "Carnitas michoacanas (carnitas Michoacán)",
+      "ja": "ミチョアカンのカルニータス"
+    }
+  },
+  {
+    "id": "r-mxc-corundas",
+    "slug": "corundas-michoacanas",
+    "names": {
+      "es": "Corundas",
+      "en": "Corundas (Michoacán triangular tamales)",
+      "zh": "米却肯三角玉米粽（Corundas）",
+      "hi": "कोरुन्दास (मिचोआकान के तिकोने तमाले)",
+      "fr": "Corundas (tamales triangulaires du Michoacán)",
+      "ar": "كورونداس (تاماليس مثلثة من ميتشواكان)",
+      "bn": "কোরুন্দাস (মিচোয়াকানের ত্রিকোণ তামাল)",
+      "pt": "Corundas (tamales triangulares de Michoacán)",
+      "ru": "Corundas",
+      "ur": "کورونداس (میچوآکان کے تکونی تمال)",
+      "id": "Corundas (tamal segitiga Michoacán)",
+      "ja": "コルンダ（ミチョアカンの三角タマレス）"
+    }
+  },
+  {
+    "id": "r-mxc-barbacoa",
+    "slug": "barbacoa-de-borrego",
+    "names": {
+      "es": "Barbacoa de borrego",
+      "en": "Barbacoa de borrego (pit-cooked lamb)",
+      "zh": "地炉慢烤羊肉",
+      "hi": "बार्बाकोआ दे बोरेगो (गड्ढे में पका मेमना)",
+      "fr": "Barbacoa de borrego (agneau cuit à l’étouffée en fosse)",
+      "ar": "بارباكوا دي بوريغو (لحم ضأن مطهو في حفرة)",
+      "bn": "বারবাকোয়া দে বোরেগো (গর্তে রান্না ভেড়ার মাংস)",
+      "pt": "Barbacoa de cordeiro em forno de terra",
+      "ru": "Barbacoa de borrego",
+      "ur": "بارباکوآ دے بوریگو (گڑھے میں پکا بھیڑ کا گوشت)",
+      "id": "Barbacoa de borrego (domba masak lubang tanah)",
+      "ja": "バルバコア・デ・ボレゴ（羊肉の地中蒸し焼き）"
+    }
+  },
+  {
+    "id": "r-mxc-tacos-canasta",
+    "slug": "tacos-de-canasta",
+    "names": {
+      "es": "Tacos de canasta",
+      "en": "Tacos de canasta (basket tacos)",
+      "zh": "篮蒸塔可",
+      "hi": "टाकोस दे कानास्ता (टोकरी के टाको)",
+      "fr": "Tacos de canasta (tacos au panier)",
+      "ar": "تاكو دي كاناستا (تاكو السلة)",
+      "bn": "টাকোস দে কানাস্তা (ঝুড়ির টাকো)",
+      "pt": "Tacos de canasta (tacos de cesta)",
+      "ru": "Tacos de canasta",
+      "ur": "ٹاکوس دے کناستا (ٹوکری کے ٹاکو)",
+      "id": "Tacos de canasta (taco keranjang)",
+      "ja": "タコス・デ・カナスタ（籠のタコス）"
+    }
+  },
+  {
+    "id": "r-mxc-quesadillas-cdmx",
+    "slug": "quesadillas-de-comal-cdmx",
+    "names": {
+      "es": "Quesadillas de comal",
+      "en": "Quesadillas de comal (griddle quesadillas)",
+      "zh": "平烤盘墨西哥馅饼",
+      "hi": "केसादियास दे कोमाल (तवे की केसादियास)",
+      "fr": "Quesadillas de comal (quesadillas sur plaque)",
+      "ar": "كيسادياس دي كومال (كيساديا على الصاج)",
+      "bn": "কেসাদিয়াস দে কোমাল (তাওয়ার কেসাদিয়া)",
+      "pt": "Quesadillas de comal",
+      "ru": "Quesadillas de comal",
+      "ur": "توے کے کیسادیا",
+      "id": "Quesadillas de comal (quesadilla pelat panggang)",
+      "ja": "ケサディージャス・デ・コマル（鉄板焼きケサディージャ）"
+    }
+  },
+  {
+    "id": "r-mxc-pastes",
+    "slug": "pastes-hidalguenses",
+    "names": {
+      "es": "Pastes hidalguenses",
+      "en": "Pastes hidalguenses (Hidalgo pasties)",
+      "zh": "伊达尔戈肉馅酥饼",
+      "hi": "पास्तेस इदाल्गुएन्सेस (इदाल्गो की पेस्टी)",
+      "fr": "Pastes hidalguenses (chaussons de Hidalgo)",
+      "ar": "باستيس إيدالغو (فطائر محشوة من إيدالغو)",
+      "bn": "পাস্তেস ইদালগেন্সেস (ইদালগোর প্যাস্টি)",
+      "pt": "Pastes de Hidalgo",
+      "ru": "Pastes hidalguenses",
+      "ur": "ایدالگو کے پاستیس (بھری پیسٹری)",
+      "id": "Pastes hidalguenses (pastel Hidalgo)",
+      "ja": "パステス・イダルゲンセス（イダルゴのパスティ）"
+    }
+  },
+  {
+    "id": "r-mxc-cecina-yecapixtla",
+    "slug": "cecina-de-yecapixtla",
+    "names": {
+      "es": "Cecina de Yecapixtla",
+      "en": "Cecina de Yecapixtla (Yecapixtla salted beef)",
+      "zh": "耶卡皮斯特拉盐腌牛肉",
+      "hi": "सेसीना दे येकापिस्त्ला (येकापिस्त्ला का नमकीन गोमांस)",
+      "fr": "Cecina de Yecapixtla (bœuf salé de Yecapixtla)",
+      "ar": "سيسينا ييكابيكستلا (لحم بقري مملح من ييكابيكستلا)",
+      "bn": "সেসিনা দে ইয়েকাপিস্তলা (ইয়েকাপিস্তলার নোনতা গরুর মাংস)",
+      "pt": "Cecina de Yecapixtla (carne bovina salgada)",
+      "ru": "Cecina de Yecapixtla",
+      "ur": "ییکاپکستلا کی سیسینا (نمک لگا گائے کا گوشت)",
+      "id": "Cecina de Yecapixtla (sapi asin Yecapixtla)",
+      "ja": "ジェカピストラのセシーナ（塩漬け牛肉）"
+    }
+  },
+  {
+    "id": "r-mxc-mixiotes",
+    "slug": "mixiotes-de-pollo",
+    "names": {
+      "es": "Mixiotes de pollo",
+      "en": "Mixiotes de pollo (chicken mixiotes)",
+      "zh": "叶包蒸鸡（Mixiotes）",
+      "hi": "मिक्सियोतेस दे पोयो (चिकन मिक्सियोतेस)",
+      "fr": "Mixiotes de pollo (papillotes de poulet en adobo)",
+      "ar": "ميشيوتيس بالدجاج",
+      "bn": "মিশিওতেস দে পোইয়ো (মুরগির মিশিওতে)",
+      "pt": "Mixiotes de frango",
+      "ru": "Mixiotes de pollo",
+      "ur": "مرغی کے مکسیوتے",
+      "id": "Mixiotes de pollo (mixiote ayam)",
+      "ja": "鶏肉のミシオテ"
+    }
+  },
+  {
+    "id": "r-mxs-cochinita",
+    "slug": "cochinita-pibil",
+    "names": {
+      "es": "Cochinita pibil",
+      "en": "Cochinita pibil",
+      "zh": "尤卡坦蕉叶慢烤猪肉",
+      "hi": "कोचिनिता पिबिल",
+      "fr": "Cochinita pibil",
+      "ar": "كوتشينيتا بيبيل",
+      "bn": "কোচিনিতা পিবিল",
+      "pt": "Cochinita pibil",
+      "ru": "Cochinita pibil",
+      "ur": "کوچینیتا پیبیل",
+      "id": "Cochinita pibil",
+      "ja": "コチニータ・ピビル"
+    }
+  },
+  {
+    "id": "r-mxs-sopa-lima",
+    "slug": "sopa-de-lima",
+    "names": {
+      "es": "Sopa de lima",
+      "en": "Sopa de lima (lime soup)",
+      "zh": "尤卡坦利马柑橘汤",
+      "hi": "सोपा दे लीमा (लीमा सूप)",
+      "fr": "Sopa de lima (soupe à la lima du Yucatán)",
+      "ar": "سوبا دي ليما (حساء الليما)",
+      "bn": "সোপা দে লিমা (লিমার স্যুপ)",
+      "pt": "Sopa de lima",
+      "ru": "Sopa de lima",
+      "ur": "سوپا دے لیما (لیما سوپ)",
+      "id": "Sopa de lima",
+      "ja": "ソパ・デ・リマ（リマのスープ）"
+    }
+  },
+  {
+    "id": "r-mxs-panuchos",
+    "slug": "panuchos-yucatecos",
+    "names": {
+      "es": "Panuchos",
+      "en": "Panuchos",
+      "zh": "豆馅炸玉米饼（Panuchos）",
+      "hi": "पानूचोस",
+      "fr": "Panuchos",
+      "ar": "بانوتشوس",
+      "bn": "পানুচোস",
+      "pt": "Panuchos",
+      "ru": "Panuchos",
+      "ur": "پانوچوس",
+      "id": "Panuchos",
+      "ja": "パヌーチョ"
+    }
+  },
+  {
+    "id": "r-mxs-papadzules",
+    "slug": "papadzules",
+    "names": {
+      "es": "Papadzules",
+      "en": "Papadzules",
+      "zh": "南瓜籽酱鸡蛋卷饼（Papadzules）",
+      "hi": "पापात्सूलेस",
+      "fr": "Papadzules",
+      "ar": "بابادسوليس",
+      "bn": "পাপাদসুলেস",
+      "pt": "Papadzules",
+      "ru": "Papadzules",
+      "ur": "پاپادسولیس",
+      "id": "Papadzules",
+      "ja": "パパズレス"
+    }
+  },
+  {
+    "id": "r-mxs-pan-cazon",
+    "slug": "pan-de-cazon",
+    "names": {
+      "es": "Pan de cazón",
+      "en": "Pan de cazon",
+      "zh": "角鲨玉米饼塔",
+      "hi": "पान दे कासोन",
+      "fr": "Pan de cazón (étagé de tortillas au petit requin)",
+      "ar": "بان دي كاسون",
+      "bn": "পান দে কাসোন",
+      "pt": "Pan de cazón",
+      "ru": "Pan de cazón",
+      "ur": "پان دے کاسون",
+      "id": "Pan de cazón",
+      "ja": "パン・デ・カソン"
+    }
+  },
+  {
+    "id": "r-mxs-pozole-verde",
+    "slug": "pozole-verde-guerrerense",
+    "names": {
+      "es": "Pozole verde",
+      "en": "Pozole verde (green pozole)",
+      "zh": "绿酱大玉米汤（Pozole verde）",
+      "hi": "पोसोले वेर्दे (हरा पोसोले)",
+      "fr": "Pozole verde (pozole vert)",
+      "ar": "بوسولي فيردي (بوسولي أخضر)",
+      "bn": "পোসোলে ভের্দে (সবুজ পোসোলে)",
+      "pt": "Pozole verde",
+      "ru": "Pozole verde",
+      "ur": "پوسولے ویردے (سبز پوسولے)",
+      "id": "Pozole verde",
+      "ja": "ポソレ・ベルデ（緑のポソレ）"
+    }
+  },
+  {
+    "id": "r-mxs-pescado-talla",
+    "slug": "pescado-a-la-talla",
+    "names": {
+      "es": "Pescado a la talla",
+      "en": "Pescado a la talla (grilled chile-rubbed fish)",
+      "zh": "格雷罗辣酱烤鱼",
+      "hi": "पेस्कादो आ ला ताया (मिर्च लगी ग्रिल मछली)",
+      "fr": "Pescado a la talla (poisson grillé en adobo)",
+      "ar": "بيسكادو آ لا تايا (سمك مشوي مدعوك بالفلفل)",
+      "bn": "পেস্কাদো আ লা তাইয়া (লঙ্কা মাখানো গ্রিল মাছ)",
+      "pt": "Pescado a la talla",
+      "ru": "Pescado a la talla",
+      "ur": "پیسکاڈو آ لا تایا (مرچ لگا گرل مچھلی)",
+      "id": "Pescado a la talla",
+      "ja": "ペスカド・ア・ラ・タジャ（唐辛子だれの魚のグリル）"
+    }
+  },
+  {
+    "id": "r-mxs-mole-amarillo",
+    "slug": "mole-amarillo-oaxaqueno",
+    "names": {
+      "es": "Mole amarillo",
+      "en": "Mole amarillo (yellow mole)",
+      "zh": "黄摩尔酱炖菜",
+      "hi": "मोले अमारियो (पीला मोले)",
+      "fr": "Mole amarillo (mole jaune)",
+      "ar": "مولي أماريو (مولي أصفر)",
+      "bn": "মোলে আমারিয়ো (হলুদ মোলে)",
+      "pt": "Mole amarillo",
+      "ru": "Mole amarillo",
+      "ur": "مولے آمارییو (زرد مولے)",
+      "id": "Mole amarillo",
+      "ja": "モレ・アマリージョ（黄色いモレ）"
+    }
+  },
+  {
+    "id": "r-mxs-memelas",
+    "slug": "memelas-oaxaquenas",
+    "names": {
+      "es": "Memelas oaxaqueñas",
+      "en": "Oaxacan memelas",
+      "zh": "瓦哈卡椭圆玉米托饼",
+      "hi": "ओआहाका की मेमेलास",
+      "fr": "Memelas d’Oaxaca",
+      "ar": "ميميلاس أواكساكا",
+      "bn": "ওয়াহাকার মেমেলাস",
+      "pt": "Memelas oaxaqueñas",
+      "ru": "Memelas oaxaqueñas",
+      "ur": "اوآخاکا کی میمیلاس",
+      "id": "Memelas oaxaqueñas",
+      "ja": "オアハカのメメラス"
+    }
+  },
+  {
+    "id": "r-mxs-tejate",
+    "slug": "tejate-oaxaqueno",
+    "names": {
+      "es": "Tejate",
+      "en": "Tejate",
+      "zh": "玉米可可饮（Tejate）",
+      "hi": "तेहाते",
+      "fr": "Tejate",
+      "ar": "تيخاتي",
+      "bn": "তেহাতে",
+      "pt": "Tejate",
+      "ru": "Tejate",
+      "ur": "تیخاتے",
+      "id": "Tejate",
+      "ja": "テハテ"
+    }
+  },
+  {
+    "id": "r-mxs-cochito",
+    "slug": "cochito-horneado-chiapaneco",
+    "names": {
+      "es": "Cochito horneado",
+      "en": "Cochito horneado (baked pork)",
+      "zh": "恰帕斯腌烤猪肉",
+      "hi": "कोचितो ओर्नेआदो (बेक किया सूअर का मांस)",
+      "fr": "Cochito horneado (porc au four)",
+      "ar": "كوتشيتو أورنيادو (لحم خنزير بالفرن)",
+      "bn": "কোচিতো ওরনেয়াদো (বেক করা শূকরের মাংস)",
+      "pt": "Cochito horneado",
+      "ru": "Cochito horneado",
+      "ur": "کوچیتو اورنیادو (بیک کیا سور کا گوشت)",
+      "id": "Cochito horneado",
+      "ja": "コチート・オルネアード（豚肉のオーブン焼き）"
+    }
+  },
+  {
+    "id": "r-mxs-tamales-chipilin",
+    "slug": "tamales-de-chipilin",
+    "names": {
+      "es": "Tamales de chipilín",
+      "en": "Chipilin tamales",
+      "zh": "奇皮林叶玉米粽",
+      "hi": "चिपिलीन तमाले",
+      "fr": "Tamales au chipilín",
+      "ar": "تاماليس تشيبيلين",
+      "bn": "চিপিলিন তামালেস",
+      "pt": "Tamales de chipilín",
+      "ru": "Tamales de chipilín",
+      "ur": "چیپیلین تمال",
+      "id": "Tamales de chipilín",
+      "ja": "チピリンのタマレス"
+    }
+  },
+  {
+    "id": "r-mxs-pejelagarto",
+    "slug": "pejelagarto-asado",
+    "names": {
+      "es": "Pejelagarto asado",
+      "en": "Pejelagarto asado (grilled gar)",
+      "zh": "炭烤雀鳝",
+      "hi": "पेहेलागार्तो असादो (ग्रिल की गार मछली)",
+      "fr": "Pejelagarto asado (lépisosté grillé)",
+      "ar": "بيخي لاغارتو أسادو (سمك الغار المشوي)",
+      "bn": "পেহেলাগারতো আসাদো (গ্রিল করা গার মাছ)",
+      "pt": "Pejelagarto asado",
+      "ru": "Pejelagarto asado",
+      "ur": "پیخےلاگارتو آسادو (گرل گار مچھلی)",
+      "id": "Pejelagarto asado",
+      "ja": "ペヘラガルト・アサード（ガーの炭火焼き）"
+    }
+  },
+  {
+    "id": "r-mxs-huachinango-ver",
+    "slug": "huachinango-a-la-veracruzana",
+    "names": {
+      "es": "Huachinango a la veracruzana",
+      "en": "Huachinango a la veracruzana (Veracruz-style red snapper)",
+      "zh": "韦拉克鲁斯红笛鲷",
+      "hi": "हुआचिनांगो आ ला वेराक्रूसाना (वेराक्रूस शैली का रेड स्नैपर)",
+      "fr": "Huachinango a la veracruzana (vivaneau rouge de Veracruz)",
+      "ar": "واتشينانغو آ لا فيراكروسانا (نهاش أحمر على طريقة فيراكروز)",
+      "bn": "উয়াচিনাঙ্গো আ লা ভেরাক্রুসানা (ভেরাক্রুসের রেড স্ন্যাপার)",
+      "pt": "Huachinango a la veracruzana",
+      "ru": "Huachinango a la veracruzana",
+      "ur": "واچینانگو آ لا ویراکروسانا (ویراکروز طرز کی ریڈ اسنیپر)",
+      "id": "Huachinango a la veracruzana",
+      "ja": "ウアチナンゴ・ア・ラ・ベラクルサーナ（ベラクルス風レッドスナッパー）"
+    }
+  },
+  {
+    "id": "r-mxs-picadas",
+    "slug": "picadas-veracruzanas",
+    "names": {
+      "es": "Picadas veracruzanas",
+      "en": "Veracruz-style picadas",
+      "zh": "韦拉克鲁斯玉米托饼",
+      "hi": "वेराक्रूस शैली की पिकादास",
+      "fr": "Picadas de Veracruz",
+      "ar": "بيكاداس على طريقة فيراكروز",
+      "bn": "ভেরাক্রুস ধাঁচের পিকাদাস",
+      "pt": "Picadas veracruzanas",
+      "ru": "Picadas veracruzanas",
+      "ur": "ویراکروز طرز کی پیکاداس",
+      "id": "Picadas veracruzanas",
+      "ja": "ベラクルス風ピカーダス"
+    }
+  },
+  {
+    "id": "r-mxs-tikin-xic",
+    "slug": "tikin-xic",
+    "names": {
+      "es": "Tikin xic",
+      "en": "Tikin xic",
+      "zh": "蕉叶胭脂树籽烤鱼（Tikin xic）",
+      "hi": "तिकीन शिक",
+      "fr": "Tikin xic",
+      "ar": "تيكين شيك",
+      "bn": "তিকিন শিক",
+      "pt": "Tikin xic",
+      "ru": "Tikin xic",
+      "ur": "تیکین شیک",
+      "id": "Tikin xic",
+      "ja": "ティキン・シック"
+    }
+  },
+  {
+    "id": "r-mxs-mole-poblano",
+    "slug": "mole-poblano",
+    "names": {
+      "es": "Mole poblano",
+      "en": "Mole poblano",
+      "zh": "普埃布拉摩尔酱",
+      "hi": "मोले पोब्लानो",
+      "fr": "Mole poblano",
+      "ar": "مولي بوبلانو",
+      "bn": "মোলে পোবলানো",
+      "pt": "Mole poblano",
+      "ru": "Mole poblano",
+      "ur": "مولے پوبلانو",
+      "id": "Mole poblano",
+      "ja": "モレ・ポブラーノ"
+    }
+  },
+  {
+    "id": "r-mxs-tinga-poblana",
+    "slug": "tinga-poblana",
+    "names": {
+      "es": "Tinga poblana",
+      "en": "Tinga poblana",
+      "zh": "普埃布拉烟熏辣椒炖鸡丝",
+      "hi": "तिंगा पोब्लाना",
+      "fr": "Tinga poblana",
+      "ar": "تينغا بوبلانا",
+      "bn": "তিঙ্গা পোবলানা",
+      "pt": "Tinga poblana",
+      "ru": "Tinga poblana",
+      "ur": "تینگا پوبلانا",
+      "id": "Tinga poblana",
+      "ja": "ティンガ・ポブラーナ"
+    }
+  },
+  {
+    "id": "r-pm-n-gallina-pinta",
+    "slug": "gallina-pinta",
+    "names": {
+      "es": "Gallina pinta",
+      "en": "Gallina pinta",
+      "zh": "索诺拉斑豆牛肉玉米汤（Gallina pinta）",
+      "hi": "गायीना पिन्ता",
+      "fr": "Gallina pinta",
+      "ar": "غايينا بينتا",
+      "bn": "গাইয়িনা পিন্তা",
+      "pt": "Gallina pinta",
+      "ru": "Gallina pinta",
+      "ur": "گایینا پینتا",
+      "id": "Gallina pinta",
+      "ja": "ガジーナ・ピンタ"
+    }
+  },
+  {
+    "id": "r-pm-n-coricos-de-mocorito",
+    "slug": "coricos-de-mocorito",
+    "names": {
+      "es": "Coricos de Mocorito",
+      "en": "Coricos de Mocorito",
+      "zh": "莫科里托玉米环饼",
+      "hi": "कोरीकोस दे मोकोरीतो",
+      "fr": "Coricos de Mocorito",
+      "ar": "كوريكوس موكوريتو",
+      "bn": "মোকোরিতোর কোরিকোস",
+      "pt": "Coricos de Mocorito",
+      "ru": "Coricos de Mocorito",
+      "ur": "موکوریتو کے کوریکوس",
+      "id": "Coricos de Mocorito",
+      "ja": "モコリトのコリコス"
+    }
+  },
+  {
+    "id": "r-pm-n-pescado-zarandeado-mazatlan",
+    "slug": "pescado-zarandeado-mazatlan",
+    "names": {
+      "es": "Pescado zarandeado estilo Mazatlán",
+      "en": "Mazatlan-style pescado zarandeado",
+      "zh": "马萨特兰夹架烤鱼",
+      "hi": "मासात्लान शैली का पेस्कादो सारान्देआदो",
+      "fr": "Pescado zarandeado de Mazatlán",
+      "ar": "بيسكادو ساراندِيادو على طريقة ماساتلان",
+      "bn": "মাসাতলান ধাঁচের পেস্কাদো সারানদেয়াদো",
+      "pt": "Pescado zarandeado estilo Mazatlán",
+      "ru": "Pescado zarandeado estilo Mazatlán",
+      "ur": "ماساتلان طرز کی پیسکاڈو زارانڈیاڈو",
+      "id": "Pescado zarandeado estilo Mazatlán",
+      "ja": "マサトラン風ペスカド・サランデアード"
+    }
+  },
+  {
+    "id": "r-pm-n-trucha-de-la-sierra-tarahumara",
+    "slug": "trucha-de-la-sierra-tarahumara",
+    "names": {
+      "es": "Trucha de la Sierra Tarahumara",
+      "en": "Sierra Tarahumara trout",
+      "zh": "塔拉乌马拉山区鳟鱼",
+      "hi": "सिएरा ताराहुमारा की ट्राउट",
+      "fr": "Truite de la Sierra Tarahumara",
+      "ar": "تروتة سييرا تاراهومارا",
+      "bn": "সিয়েরা তারাউমারার ট্রাউট",
+      "pt": "Trucha de la Sierra Tarahumara",
+      "ru": "Trucha de la Sierra Tarahumara",
+      "ur": "سییرا تاراؤمارا کی ٹراؤٹ",
+      "id": "Trucha de la Sierra Tarahumara",
+      "ja": "シエラ・タラウマラのます"
+    }
+  },
+  {
+    "id": "r-pm-n-pan-de-pulque-de-saltillo",
+    "slug": "pan-de-pulque-de-saltillo",
+    "names": {
+      "es": "Pan de pulque de Saltillo",
+      "en": "Saltillo pan de pulque (pulque bread)",
+      "zh": "萨尔蒂约普尔克面包",
+      "hi": "साल्तीयो का पान दे पुल्के (पुल्के ब्रेड)",
+      "fr": "Pan de pulque de Saltillo (pain au pulque)",
+      "ar": "خبز البولكي من سالتيو",
+      "bn": "সালতিয়োর পান দে পুলকে (পুলকের রুটি)",
+      "pt": "Pan de pulque de Saltillo",
+      "ru": "Pan de pulque de Saltillo",
+      "ur": "سالتییو کی پان دے پلکے (پلکے روٹی)",
+      "id": "Pan de pulque de Saltillo",
+      "ja": "サルティージョのパン・デ・プルケ（プルケのパン）"
+    }
+  },
+  {
+    "id": "r-pm-n-cortadillo-de-cuatro-cienegas",
+    "slug": "cortadillo-de-cuatro-cienegas",
+    "names": {
+      "es": "Cortadillo de Cuatro Ciénegas",
+      "en": "Cortadillo de Cuatro Cienegas",
+      "zh": "夸特罗谢内加斯番茄炖牛肉",
+      "hi": "कोर्तादियो दे कुआत्रो सिएनेगास",
+      "fr": "Cortadillo de Cuatro Ciénegas",
+      "ar": "كورتاديو كواترو سيينيغاس",
+      "bn": "কুয়াত্রো সিয়েনেগাসের কোরতাদিয়ো",
+      "pt": "Cortadillo de Cuatro Ciénegas",
+      "ru": "Cortadillo de Cuatro Ciénegas",
+      "ur": "کواترو سیینیگاس کا کورتادییو",
+      "id": "Cortadillo de Cuatro Ciénegas",
+      "ja": "クアトロ・シエネガスのコルタディージョ"
+    }
+  },
+  {
+    "id": "r-pm-n-glorias-de-linares",
+    "slug": "glorias-de-linares",
+    "names": {
+      "es": "Glorias de Linares",
+      "en": "Glorias de Linares",
+      "zh": "利纳雷斯碧根果焦奶糖",
+      "hi": "ग्लोरियास दे लिनारेस",
+      "fr": "Glorias de Linares",
+      "ar": "غلورياس ليناريس",
+      "bn": "লিনারেসের গ্লোরিয়াস",
+      "pt": "Glorias de Linares",
+      "ru": "Glorias de Linares",
+      "ur": "لیناریس کی گلوریاس",
+      "id": "Glorias de Linares",
+      "ja": "リナレスのグロリアス"
+    }
+  },
+  {
+    "id": "r-pm-n-enchiladas-tultecas",
+    "slug": "enchiladas-tultecas",
+    "names": {
+      "es": "Enchiladas tultecas",
+      "en": "Enchiladas tultecas",
+      "zh": "图拉辣酱卷饼",
+      "hi": "एन्चिलादास तुल्तेकास",
+      "fr": "Enchiladas tultecas",
+      "ar": "إنشيلاداس تولتيكاس",
+      "bn": "এনচিলাদাস তুলতেকাস",
+      "pt": "Enchiladas tultecas",
+      "ru": "Enchiladas tultecas",
+      "ur": "اینچیلاداس تولتیکاس",
+      "id": "Enchiladas tultecas",
+      "ja": "エンチラーダス・トゥルテカス"
+    }
+  },
+  {
+    "id": "r-pm-n-gorditas-de-horno-duranguenses",
+    "slug": "gorditas-de-horno-duranguenses",
+    "names": {
+      "es": "Gorditas de horno duranguenses",
+      "en": "Durango-style baked gorditas",
+      "zh": "杜兰戈甜味烤厚饼",
+      "hi": "दुरांगो शैली की बेक की गोर्दितास",
+      "fr": "Gorditas sucrées au four de Durango",
+      "ar": "غورديتاس مخبوزة على طريقة دورانغو",
+      "bn": "দুরাঙ্গো ধাঁচের বেক করা গোরদিতা",
+      "pt": "Gorditas de horno duranguenses",
+      "ru": "Gorditas de horno duranguenses",
+      "ur": "دورانگو طرز کی بیک گوردیتاس",
+      "id": "Gorditas de horno duranguenses",
+      "ja": "ドゥランゴ風焼きゴルディータ"
+    }
+  },
+  {
+    "id": "r-pm-n-enchiladas-zacatecanas",
+    "slug": "enchiladas-zacatecanas",
+    "names": {
+      "es": "Enchiladas zacatecanas",
+      "en": "Enchiladas zacatecanas",
+      "zh": "萨卡特卡斯辣酱卷饼",
+      "hi": "एन्चिलादास साकातेकानास",
+      "fr": "Enchiladas zacatecanas",
+      "ar": "إنشيلاداس ساكاتيكاناس",
+      "bn": "এনচিলাদাস সাকাতেকানাস",
+      "pt": "Enchiladas zacatecanas",
+      "ru": "Enchiladas zacatecanas",
+      "ur": "زاکاتیکاس کے اینچیلادا",
+      "id": "Enchiladas zacatecanas",
+      "ja": "エンチラーダス・サカテカーナス"
+    }
+  },
+  {
+    "id": "r-pm-n-langosta-estilo-puerto-nuevo",
+    "slug": "langosta-estilo-puerto-nuevo",
+    "names": {
+      "es": "Langosta estilo Puerto Nuevo",
+      "en": "Puerto Nuevo-style lobster",
+      "zh": "新港风味龙虾",
+      "hi": "पुएर्तो नुएवो शैली का लॉब्स्टर",
+      "fr": "Langouste façon Puerto Nuevo",
+      "ar": "كركند على طريقة بويرتو نويفو",
+      "bn": "পুয়েরতো নুয়েভো ধাঁচের লবস্টার",
+      "pt": "Langosta estilo Puerto Nuevo",
+      "ru": "Langosta estilo Puerto Nuevo",
+      "ur": "پوئرٹو نوئیوو طرز کا لابسٹر",
+      "id": "Langosta estilo Puerto Nuevo",
+      "ja": "プエルト・ヌエボ風ロブスター"
+    }
+  },
+  {
+    "id": "r-pm-n-ceviche-de-marlin-ahumado",
+    "slug": "ceviche-de-marlin-ahumado",
+    "names": {
+      "es": "Ceviche de marlín ahumado",
+      "en": "Smoked marlin ceviche",
+      "zh": "烟熏枪鱼酸橘汁沙拉",
+      "hi": "स्मोक्ड मार्लिन सेविचे",
+      "fr": "Ceviche de marlin fumé",
+      "ar": "سيفيتشي المارلن المدخن",
+      "bn": "স্মোক করা মার্লিনের সেভিচে",
+      "pt": "Ceviche de marlín ahumado",
+      "ru": "Ceviche de marlín ahumado",
+      "ur": "دھوئیں میں پکی مارلن کا سیویچے",
+      "id": "Ceviche de marlín ahumado",
+      "ja": "燻製カジキのセビーチェ"
+    }
+  },
+  {
+    "id": "r-pm-c-charales-fritos",
+    "slug": "charales-fritos-de-patzcuaro",
+    "names": {
+      "es": "Charales fritos de Pátzcuaro",
+      "en": "Pátzcuaro Fried Charales",
+      "zh": "帕茨夸罗炸湖鱼",
+      "hi": "पात्सकुआरो की तली चारालेस",
+      "fr": "Charales frits de Pátzcuaro",
+      "ar": "تشاراليس باتسكوارو المقلية",
+      "bn": "পাৎসকুয়ারোর ভাজা চারালেস",
+      "pt": "Charales fritos de Pátzcuaro",
+      "ru": "Charales fritos de Pátzcuaro",
+      "ur": "پاتسکوارو کے تلے چارالیس",
+      "id": "Charales goreng Pátzcuaro",
+      "ja": "パツクアロのチャラレスの唐揚げ"
+    }
+  },
+  {
+    "id": "r-pm-c-churipo",
+    "slug": "churipo-purepecha",
+    "names": {
+      "es": "Churipo",
+      "en": "Churipo",
+      "zh": "普雷佩查红汤炖牛肉（Churipo）",
+      "hi": "चुरीपो",
+      "fr": "Churipo",
+      "ar": "تشوريبو",
+      "bn": "চুরিপো",
+      "pt": "Churipo",
+      "ru": "Churipo",
+      "ur": "چوریپو",
+      "id": "Churipo",
+      "ja": "チュリポ"
+    }
+  },
+  {
+    "id": "r-pm-c-cantaritos",
+    "slug": "cantaritos-de-tequila",
+    "names": {
+      "es": "Cantaritos de Tequila",
+      "en": "Cantaritos de Tequila",
+      "zh": "特基拉陶罐鸡尾酒",
+      "hi": "तेकीला के कान्तारितोस",
+      "fr": "Cantaritos de Tequila",
+      "ar": "كانتاريتوس تيكيلا",
+      "bn": "তেকিলার কান্তারিতোস",
+      "pt": "Cantaritos de Tequila",
+      "ru": "Cantaritos de Tequila",
+      "ur": "تیکیلا کے کانتاریتوس",
+      "id": "Cantaritos de Tequila",
+      "ja": "テキーラのカンタリートス"
+    }
+  },
+  {
+    "id": "r-pm-c-el-bote",
+    "slug": "el-bote-de-mazamitla",
+    "names": {
+      "es": "El bote de Mazamitla",
+      "en": "El Bote de Mazamitla",
+      "zh": "马萨米特拉三肉乡村汤（El Bote）",
+      "hi": "मासामित्ला का एल बोते",
+      "fr": "El Bote de Mazamitla",
+      "ar": "إل بوتي دي ماساميتلا",
+      "bn": "মাসামিতলার এল বোতে",
+      "pt": "El Bote de Mazamitla",
+      "ru": "El bote de Mazamitla",
+      "ur": "مازامیتلا کا ایل بوتے",
+      "id": "El Bote de Mazamitla",
+      "ja": "マサミトラのエル・ボテ"
+    }
+  },
+  {
+    "id": "r-pm-c-borrego-al-pastor",
+    "slug": "borrego-al-pastor-de-tapalpa",
+    "names": {
+      "es": "Borrego al pastor de Tapalpa",
+      "en": "Tapalpa-Style Borrego al Pastor (Lamb)",
+      "zh": "塔帕尔帕牧人式羊肉",
+      "hi": "तापाल्पा शैली का बोरेगो अल पास्तोर (मेमना)",
+      "fr": "Borrego al pastor de Tapalpa (agneau rôti)",
+      "ar": "بوريغو آل باستور على طريقة تابالبا (لحم حمل)",
+      "bn": "তাপালপা ধাঁচের বোরেগো আল পাস্তোর (ভেড়ার মাংস)",
+      "pt": "Cordeiro al pastor ao estilo de Tapalpa",
+      "ru": "Borrego al pastor de Tapalpa",
+      "ur": "تاپالپا طرز کا بوریگو ال پاستور (بھیڑ کا گوشت)",
+      "id": "Borrego al pastor ala Tapalpa (domba)",
+      "ja": "タパルパ風ボレゴ・アル・パストール（羊肉）"
+    }
+  },
+  {
+    "id": "r-pm-c-nieve-aguacate",
+    "slug": "nieve-de-aguacate-dolores-hidalgo",
+    "names": {
+      "es": "Nieve de aguacate de Dolores Hidalgo",
+      "en": "Dolores Hidalgo Avocado Ice",
+      "zh": "多洛雷斯伊达尔戈牛油果冰",
+      "hi": "दोलोरेस इदाल्गो की एवोकाडो आइस",
+      "fr": "Sorbet à l’avocat de Dolores Hidalgo",
+      "ar": "مثلجات الأفوكادو من دولوريس إيدالغو",
+      "bn": "দোলোরেস ইদালগোর অ্যাভোকাডো বরফ-মিষ্টি",
+      "pt": "Sorvete de abacate de Dolores Hidalgo",
+      "ru": "Nieve de aguacate de Dolores Hidalgo",
+      "ur": "دولوریس ایدالگو کی ایووکاڈو آئس",
+      "id": "Es alpukat Dolores Hidalgo",
+      "ja": "ドローレス・イダルゴのアボカドアイス"
+    }
+  },
+  {
+    "id": "r-pm-c-fiambre-san-miguel",
+    "slug": "fiambre-estilo-san-miguel-de-allende",
+    "names": {
+      "es": "Fiambre estilo San Miguel de Allende",
+      "en": "San Miguel de Allende-Style Fiambre",
+      "zh": "圣米格尔德阿连德冷肉沙拉",
+      "hi": "सान मिगेल दे आयेन्दे शैली का फिआम्ब्रे",
+      "fr": "Fiambre de San Miguel de Allende",
+      "ar": "فيامبري على طريقة سان ميغيل دي أليندي",
+      "bn": "সান মিগেল দে আইয়েন্দে ধাঁচের ফিয়ামব্রে",
+      "pt": "Fiambre à moda de San Miguel de Allende",
+      "ru": "Fiambre estilo San Miguel de Allende",
+      "ur": "سان میگیل دے آیندے طرز کا فیامبرے",
+      "id": "Fiambre ala San Miguel de Allende",
+      "ja": "サン・ミゲル・デ・アジェンデ風フィアンブレ"
+    }
+  },
+  {
+    "id": "r-pm-c-gorditas-migajas",
+    "slug": "gorditas-de-migajas-de-bernal",
+    "names": {
+      "es": "Gorditas de migajas de Bernal",
+      "en": "Bernal Migajas Gorditas",
+      "zh": "贝尔纳尔猪皮碎厚饼",
+      "hi": "बेरनाल की मिगाहास गोर्दितास",
+      "fr": "Gorditas aux migajas de Bernal",
+      "ar": "غورديتاس ميغاخاس من برنال",
+      "bn": "বেরনালের মিগাহাস গোরদিতা",
+      "pt": "Gorditas de migajas de Bernal",
+      "ru": "Gorditas de migajas de Bernal",
+      "ur": "برنال کی میگاخاس گوردیتاس",
+      "id": "Gorditas de migajas de Bernal",
+      "ja": "ベルナルのミガハス入りゴルディータ"
+    }
+  },
+  {
+    "id": "r-pm-c-lengua-mechada",
+    "slug": "lengua-mechada-de-tequisquiapan",
+    "names": {
+      "es": "Lengua mechada de Tequisquiapan",
+      "en": "Tequisquiapan Larded Beef Tongue",
+      "zh": "特基斯基亚潘嵌馅牛舌",
+      "hi": "तेकिस्कियापान की बेकन भरी गोमांस की जीभ",
+      "fr": "Langue de bœuf lardée de Tequisquiapan",
+      "ar": "لسان بقري مدسوس باللحم المقدد من تيكيسكيابان",
+      "bn": "তেকিসকিয়াপানের বেকন ঢোকানো গরুর জিভ",
+      "pt": "Lengua mechada de Tequisquiapan",
+      "ru": "Lengua mechada de Tequisquiapan",
+      "ur": "تیکیِسکیاپان کی بھری گائے کی زبان",
+      "id": "Lengua mechada de Tequisquiapan",
+      "ja": "テキスキアパンの詰め物入り牛タン"
+    }
+  },
+  {
+    "id": "r-pm-c-gorditas-horno",
+    "slug": "gorditas-de-horno-real-de-catorce",
+    "names": {
+      "es": "Gorditas de horno de Real de Catorce",
+      "en": "Real de Catorce Oven-Baked Gorditas",
+      "zh": "皇家卡托尔塞炉烤厚饼",
+      "hi": "रेआल दे कातोर्से की ओवन में बेक की गोर्दितास",
+      "fr": "Gorditas au four de Real de Catorce",
+      "ar": "غورديتاس مخبوزة من ريال دي كاتورسي",
+      "bn": "রেয়াল দে কাতোরসের ওভেনে বেক করা গোরদিতা",
+      "pt": "Gorditas de horno de Real de Catorce",
+      "ru": "Gorditas de horno de Real de Catorce",
+      "ur": "ریال دے کاتورسے کی اوون میں بیک گوردیتاس",
+      "id": "Gorditas de horno de Real de Catorce",
+      "ja": "レアル・デ・カトルセの窯焼きゴルディータ"
+    }
+  },
+  {
+    "id": "r-pm-c-bocoles",
+    "slug": "bocoles-huastecos-de-xilitla",
+    "names": {
+      "es": "Bocoles huastecos de Xilitla",
+      "en": "Xilitla Huastec Bocoles",
+      "zh": "希利特拉瓦斯特克豆玉米厚饼",
+      "hi": "शिलित्ला के हुआस्तेक बोकोलेस",
+      "fr": "Bocoles huastèques de Xilitla",
+      "ar": "بوكوليس هواستيكية من شيليتلا",
+      "bn": "শিলিতলার হুয়াস্তেক বোকোলেস",
+      "pt": "Bocoles huastecos de Xilitla",
+      "ru": "Bocoles huastecos de Xilitla",
+      "ur": "خیلیتلا کے ہواستیک بوکولیس",
+      "id": "Bocoles huastecos de Xilitla",
+      "ja": "ヒリトラのワステカ風ボコレス"
+    }
+  },
+  {
+    "id": "r-pm-c-itacates",
+    "slug": "itacates-de-tepoztlan",
+    "names": {
+      "es": "Itacates de Tepoztlán",
+      "en": "Tepoztlán Itacates",
+      "zh": "特波兹特兰三角馅饼（Itacates）",
+      "hi": "तेपोस्त्लान के इताकातेस",
+      "fr": "Itacates de Tepoztlán",
+      "ar": "إيتاكاتيس تيبوستلان",
+      "bn": "তেপোস্তলানের ইতাকাতেস",
+      "pt": "Itacates de Tepoztlán",
+      "ru": "Itacates de Tepoztlán",
+      "ur": "تیپوستلان کے ایتاکاتیس",
+      "id": "Itacates de Tepoztlán",
+      "ja": "テポストランのイタカテ"
+    }
+  },
+  {
+    "id": "r-pm-c-trucha-valle-bravo",
+    "slug": "trucha-al-mojo-de-ajo-valle-de-bravo",
+    "names": {
+      "es": "Trucha al mojo de ajo de Valle de Bravo",
+      "en": "Valle de Bravo Garlic Trout",
+      "zh": "巴耶德布拉沃蒜香鳟鱼",
+      "hi": "वाये दे ब्रावो की लहसुन वाली ट्राउट",
+      "fr": "Truite à l’ail de Valle de Bravo",
+      "ar": "تروتة بالثوم من فايي دي برافو",
+      "bn": "ভাইয়ে দে ব্রাভোর রসুনের ট্রাউট",
+      "pt": "Trucha al mojo de ajo de Valle de Bravo",
+      "ru": "Trucha al mojo de ajo de Valle de Bravo",
+      "ur": "وایے دے براوو کی لہسن والی ٹراؤٹ",
+      "id": "Trucha al mojo de ajo de Valle de Bravo",
+      "ja": "バジェ・デ・ブラボのますのにんにく焼き"
+    }
+  },
+  {
+    "id": "r-pm-c-naranjete",
+    "slug": "naranjete-de-huasca-de-ocampo",
+    "names": {
+      "es": "Naranjete de Huasca de Ocampo",
+      "en": "Huasca de Ocampo Naranjete",
+      "zh": "瓦斯卡德奥坎波橙香利口酒",
+      "hi": "हुआस्का दे ओकाम्पो का नारान्हेते",
+      "fr": "Naranjete de Huasca de Ocampo",
+      "ar": "نارانخيتي من واسكا دي أوكامبو",
+      "bn": "উয়াসকা দে ওকাম্পোর নারানহেতে",
+      "pt": "Naranjete de Huasca de Ocampo",
+      "ru": "Naranjete de Huasca de Ocampo",
+      "ur": "واسکا دے اوکامپو کا ناراںخیتے",
+      "id": "Naranjete de Huasca de Ocampo",
+      "ja": "ウアスカ・デ・オカンポのナランヘテ"
+    }
+  },
+  {
+    "id": "r-pm-c-tatemado-comala",
+    "slug": "tatemado-de-puerco-estilo-comala",
+    "names": {
+      "es": "Tatemado de puerco estilo Comala",
+      "en": "Comala-Style Pork Tatemado",
+      "zh": "科马拉辣酱慢炖猪肉",
+      "hi": "कोमाला शैली का सूअर के मांस का तातेमादो",
+      "fr": "Tatemado de porc de Comala",
+      "ar": "تاتيمادو لحم الخنزير على طريقة كومالا",
+      "bn": "কোমালা ধাঁচের শূকরের তাতেমাদো",
+      "pt": "Tatemado de puerco estilo Comala",
+      "ru": "Tatemado de puerco estilo Comala",
+      "ur": "کومالا طرز کا سور کے گوشت کا تاتیمادو",
+      "id": "Tatemado de puerco estilo Comala",
+      "ja": "コマラ風豚肉のタテマード"
+    }
+  },
+  {
+    "id": "r-pm-s-sopa-de-pan-coleta",
+    "slug": "sopa-de-pan-coleta",
+    "names": {
+      "es": "Sopa de pan coleta",
+      "en": "Sopa de Pan Coleta (Coleto Bread Soup)",
+      "zh": "科莱托面包汤",
+      "hi": "सोपा दे पान कोलेता (कोलेतो ब्रेड सूप)",
+      "fr": "Sopa de pan coleta (soupe au pain coleto)",
+      "ar": "سوبا دي بان كوليتا (حساء خبز كوليتو)",
+      "bn": "সোপা দে পান কোলেতা (কোলেতো রুটির স্যুপ)",
+      "pt": "Sopa de pan coleta",
+      "ru": "Sopa de pan coleta",
+      "ur": "سوپا دے پان کولیتا (کولیتو روٹی کا سوپ)",
+      "id": "Sopa de pan coleta",
+      "ja": "ソパ・デ・パン・コレタ（コレトパンのスープ）"
+    }
+  },
+  {
+    "id": "r-pm-s-pepita-con-tasajo",
+    "slug": "pepita-con-tasajo",
+    "names": {
+      "es": "Pepita con tasajo",
+      "en": "Pepita con Tasajo",
+      "zh": "南瓜籽酱干牛肉",
+      "hi": "पेपिता कोन तसाहो",
+      "fr": "Pepita con tasajo (bœuf séché à la sauce aux graines de courge)",
+      "ar": "بيبيتا كون تاساخو",
+      "bn": "পেপিতা কন তাসাহো",
+      "pt": "Pepita con tasajo",
+      "ru": "Pepita con tasajo",
+      "ur": "پیپیتا کون تاساخو",
+      "id": "Pepita con tasajo",
+      "ja": "ペピータ・コン・タサホ"
+    }
+  },
+  {
+    "id": "r-pm-s-comiteco",
+    "slug": "comiteco",
+    "names": {
+      "es": "Comiteco",
+      "en": "Comiteco",
+      "zh": "科米特科酒",
+      "hi": "कोमितेको",
+      "fr": "Comiteco",
+      "ar": "كوميتيكو",
+      "bn": "কোমিতেকো",
+      "pt": "Comiteco",
+      "ru": "Comiteco",
+      "ur": "کومیتیکو",
+      "id": "Comiteco",
+      "ja": "コミテコ"
+    }
+  },
+  {
+    "id": "r-pm-s-tlayoyos",
+    "slug": "tlayoyos-cuetzalan",
+    "names": {
+      "es": "Tlayoyos",
+      "en": "Tlayoyos",
+      "zh": "豌豆馅椭圆玉米饼（Tlayoyos）",
+      "hi": "त्लायोयोस",
+      "fr": "Tlayoyos",
+      "ar": "تلايويوس",
+      "bn": "ত্লায়োয়োস",
+      "pt": "Tlayoyos",
+      "ru": "Tlayoyos",
+      "ur": "تلایویوس",
+      "id": "Tlayoyos",
+      "ja": "トラヨヨス"
+    }
+  },
+  {
+    "id": "r-pm-s-sidra-zacatlan",
+    "slug": "sidra-de-manzana-zacatlan",
+    "names": {
+      "es": "Sidra de manzana sin gas, versión doméstica",
+      "en": "Still apple cider, home version",
+      "zh": "家酿无气泡苹果酒",
+      "hi": "बिना बुलबुलों की सेब साइडर, घरेलू रूप",
+      "fr": "Cidre de pomme tranquille, version maison",
+      "ar": "سيدر تفاح غير فوار، نسخة منزلية",
+      "bn": "বুদবুদহীন আপেলের সাইডার, ঘরোয়া সংস্করণ",
+      "pt": "Sidra de manzana sin gas, versión doméstica",
+      "ru": "Sidra de manzana sin gas, versión doméstica",
+      "ur": "بغیر گیس کی سیب سائڈر، گھریلو نسخہ",
+      "id": "Sidra de manzana sin gas, versión doméstica",
+      "ja": "家庭で作る無炭酸アップルサイダー"
+    }
+  },
+  {
+    "id": "r-pm-s-cecina-atlixco",
+    "slug": "cecina-de-atlixco",
+    "names": {
+      "es": "Cecina de Atlixco",
+      "en": "Atlixco Cecina",
+      "zh": "阿特利斯科盐腌牛肉",
+      "hi": "अत्लिक्स्को की सेसीना",
+      "fr": "Cecina d’Atlixco",
+      "ar": "سيسينا أتليكسكو",
+      "bn": "আতলিসকোর সেসিনা",
+      "pt": "Cecina de Atlixco",
+      "ru": "Cecina de Atlixco",
+      "ur": "اتلیکسکو کی سیسینا",
+      "id": "Cecina de Atlixco",
+      "ja": "アトリスコのセシーナ"
+    }
+  },
+  {
+    "id": "r-pm-s-cafe-coatepec",
+    "slug": "cafe-de-coatepec",
+    "names": {
+      "es": "Café de Coatepec",
+      "en": "Coatepec Coffee",
+      "zh": "科阿特佩克咖啡",
+      "hi": "कोआतेपेक कॉफी",
+      "fr": "Café de Coatepec",
+      "ar": "قهوة كواتيبيك",
+      "bn": "কোয়াতেপেকের কফি",
+      "pt": "Café de Coatepec",
+      "ru": "Café de Coatepec",
+      "ur": "کوآتیپیک کافی",
+      "id": "Café de Coatepec",
+      "ja": "コアテペックのコーヒー"
+    }
+  },
+  {
+    "id": "r-pm-s-mole-xiqueno",
+    "slug": "mole-xiqueno",
+    "names": {
+      "es": "Mole xiqueño",
+      "en": "Mole Xiqueño",
+      "zh": "希科摩尔酱",
+      "hi": "मोले शिकेन्यो",
+      "fr": "Mole xiqueño",
+      "ar": "مولي شيكينيو",
+      "bn": "মোলে শিকেনিয়ো",
+      "pt": "Mole xiqueño",
+      "ru": "Mole xiqueño",
+      "ur": "مولے خیکینیو",
+      "id": "Mole xiqueño",
+      "ja": "モレ・シケーニョ"
+    }
+  },
+  {
+    "id": "r-pm-s-zacahuil",
+    "slug": "zacahuil-papantla",
+    "names": {
+      "es": "Zacahuil",
+      "en": "Zacahuil",
+      "zh": "巨型玉米粽（Zacahuil）",
+      "hi": "साकाहुइल",
+      "fr": "Zacahuil",
+      "ar": "ساكاويل",
+      "bn": "সাকাউইল",
+      "pt": "Zacahuil",
+      "ru": "Zacahuil",
+      "ur": "زاکاویل",
+      "id": "Zacahuil",
+      "ja": "サカウイル"
+    }
+  },
+  {
+    "id": "r-pm-s-arroz-a-la-tumbada",
+    "slug": "arroz-a-la-tumbada",
+    "names": {
+      "es": "Arroz a la tumbada",
+      "en": "Arroz a la Tumbada",
+      "zh": "韦拉克鲁斯海鲜汤饭",
+      "hi": "अरोस आ ला तुम्बादा",
+      "fr": "Arroz a la tumbada (riz en bouillon aux fruits de mer)",
+      "ar": "أروز آ لا تومبادا",
+      "bn": "আরোস আ লা তুম্বাদা",
+      "pt": "Arroz a la tumbada",
+      "ru": "Arroz a la tumbada",
+      "ur": "آروس آ لا تومبادا",
+      "id": "Arroz a la tumbada",
+      "ja": "アロス・ア・ラ・トゥンバーダ"
+    }
+  },
+  {
+    "id": "r-pm-s-lomitos-valladolid",
+    "slug": "lomitos-de-valladolid",
+    "names": {
+      "es": "Lomitos de Valladolid",
+      "en": "Lomitos de Valladolid",
+      "zh": "巴利亚多利德番茄炖猪里脊",
+      "hi": "लोमितोस दे वायादोलिद",
+      "fr": "Lomitos de Valladolid (longe de porc mijotée)",
+      "ar": "لوميتوس فايادوليد",
+      "bn": "ভাইয়াদোলিদের লোমিতোস",
+      "pt": "Lomitos de Valladolid",
+      "ru": "Lomitos de Valladolid",
+      "ur": "وایادولید کے لومیتوس",
+      "id": "Lomitos de Valladolid",
+      "ja": "バジャドリドのロミートス"
+    }
+  },
+  {
+    "id": "r-pm-s-relleno-negro",
+    "slug": "relleno-negro-izamal",
+    "names": {
+      "es": "Relleno negro",
+      "en": "Relleno Negro",
+      "zh": "黑酱炖肉（Relleno Negro）",
+      "hi": "रेयेनो नेग्रो",
+      "fr": "Relleno negro",
+      "ar": "ريينو نيغرو",
+      "bn": "রেইয়েনো নেগ্রো",
+      "pt": "Relleno negro",
+      "ru": "Relleno negro",
+      "ur": "ریینو نیگرو",
+      "id": "Relleno negro",
+      "ja": "レジェノ・ネグロ"
+    }
+  },
+  {
+    "id": "r-pm-s-salsa-de-jumiles",
+    "slug": "salsa-de-jumiles-taxco",
+    "names": {
+      "es": "Salsa de jumiles",
+      "en": "Jumil Salsa",
+      "zh": "朱米尔食用蝽莎莎酱",
+      "hi": "हुमील साल्सा",
+      "fr": "Sauce aux jumiles",
+      "ar": "سالسا الخوميليس",
+      "bn": "হুমিল সালসা",
+      "pt": "Salsa de jumiles",
+      "ru": "Salsa de jumiles",
+      "ur": "خومیل سالسا",
+      "id": "Salsa de jumiles",
+      "ja": "フミルのサルサ"
+    }
+  },
+  {
+    "id": "r-pm-s-trucha-capulalpam",
+    "slug": "trucha-de-la-sierra-capulalpam",
+    "names": {
+      "es": "Trucha de la sierra",
+      "en": "Sierra Trout",
+      "zh": "山区鳟鱼",
+      "hi": "पहाड़ी ट्राउट",
+      "fr": "Truite de la Sierra",
+      "ar": "تروتة الجبال",
+      "bn": "পাহাড়ি ট্রাউট",
+      "pt": "Trucha de la sierra",
+      "ru": "Trucha de la sierra",
+      "ur": "پہاڑی ٹراؤٹ",
+      "id": "Trucha de la sierra",
+      "ja": "山地のます料理"
+    }
+  },
+  {
+    "id": "r-pm-s-rice-and-beans-bacalar",
+    "slug": "rice-and-beans-bacalar",
+    "names": {
+      "es": "Rice and beans caribeño",
+      "en": "Caribbean Rice and Beans",
+      "zh": "加勒比椰奶豆饭",
+      "hi": "कैरेबियाई चावल और राजमा",
+      "fr": "Riz et haricots des Caraïbes",
+      "ar": "الأرز والفاصوليا الكاريبيان",
+      "bn": "ক্যারিবীয় ভাত ও বিন",
+      "pt": "Rice and beans caribeño",
+      "ru": "Rice and beans caribeño",
+      "ur": "کیریبین چاول اور لوبیا",
+      "id": "Rice and beans caribeño",
+      "ja": "カリブ風ライス・アンド・ビーンズ"
+    }
+  },
+  {
+    "id": "r-pm-s-pampano-escabeche",
+    "slug": "pampano-en-escabeche-palizada",
+    "names": {
+      "es": "Pámpano en escabeche",
+      "en": "Pámpano en Escabeche",
+      "zh": "醋香腌煮鲳鲹",
+      "hi": "पाम्पानो एन एस्काबेचे",
+      "fr": "Pámpano en escabeche (pompano mariné)",
+      "ar": "بامبانو إن إسكابيتشي",
+      "bn": "পামপানো এন এসকাবেচে",
+      "pt": "Pámpano en escabeche",
+      "ru": "Pámpano en escabeche",
+      "ur": "پامپانو این ایسکابیچے",
+      "id": "Pámpano en escabeche",
+      "ja": "パンパノ・エン・エスカベチェ"
+    }
+  },
+  {
+    "id": "r-us-s-shrimp-and-grits",
+    "slug": "shrimp-and-grits",
+    "names": {
+      "es": "Shrimp and grits",
+      "en": "Shrimp and grits",
+      "zh": "鲜虾奶油玉米糊",
+      "hi": "झींगे और ग्रिट्स",
+      "fr": "Shrimp and grits",
+      "ar": "روبيان وغريتس",
+      "bn": "শ্রিম্প অ্যান্ড গ্রিটস",
+      "pt": "Shrimp and grits",
+      "ru": "Shrimp and grits",
+      "ur": "جھینگے اور گرٹس",
+      "id": "Shrimp and grits",
+      "ja": "シュリンプ・アンド・グリッツ"
+    }
+  },
+  {
+    "id": "r-us-s-nashville-hot-chicken",
+    "slug": "nashville-hot-chicken",
+    "names": {
+      "es": "Nashville hot chicken",
+      "en": "Nashville hot chicken",
+      "zh": "纳什维尔辣炸鸡",
+      "hi": "नैशविल हॉट चिकन",
+      "fr": "Nashville hot chicken",
+      "ar": "دجاج ناشفيل الحار",
+      "bn": "ন্যাশভিল হট চিকেন",
+      "pt": "Nashville hot chicken",
+      "ru": "Nashville hot chicken",
+      "ur": "نیش ول ہاٹ چکن",
+      "id": "Nashville hot chicken",
+      "ja": "ナッシュビル・ホットチキン"
+    }
+  },
+  {
+    "id": "r-us-s-kentucky-hot-brown",
+    "slug": "kentucky-hot-brown",
+    "names": {
+      "es": "Kentucky Hot Brown",
+      "en": "Kentucky Hot Brown",
+      "zh": "肯塔基热布朗三明治",
+      "hi": "केंटकी हॉट ब्राउन",
+      "fr": "Kentucky Hot Brown",
+      "ar": "هوت براون كنتاكي",
+      "bn": "কেন্টাকি হট ব্রাউন",
+      "pt": "Kentucky Hot Brown",
+      "ru": "Kentucky Hot Brown",
+      "ur": "کینٹکی ہاٹ براؤن",
+      "id": "Kentucky Hot Brown",
+      "ja": "ケンタッキー・ホットブラウン"
+    }
+  },
+  {
+    "id": "r-us-s-cuban-sandwich",
+    "slug": "cuban-sandwich-tampa",
+    "names": {
+      "es": "Cuban sandwich (Cubano)",
+      "en": "Cuban sandwich (Cubano)",
+      "zh": "古巴三明治",
+      "hi": "क्यूबन सैंडविच (कुबानो)",
+      "fr": "Cuban sandwich (Cubano)",
+      "ar": "الشطيرة الكوبية (كوبانو)",
+      "bn": "কিউবান স্যান্ডউইচ (কুবানো)",
+      "pt": "Cuban sandwich (Cubano)",
+      "ru": "Cuban sandwich (Cubano)",
+      "ur": "کیوبن سینڈوچ (کوبانو)",
+      "id": "Cuban sandwich (Cubano)",
+      "ja": "キューバン・サンドイッチ（クバーノ）"
+    }
+  },
+  {
+    "id": "r-us-s-key-lime-pie",
+    "slug": "key-lime-pie",
+    "names": {
+      "es": "Key lime pie",
+      "en": "Key lime pie",
+      "zh": "青柠派",
+      "hi": "की लाइम पाई",
+      "fr": "Key lime pie",
+      "ar": "فطيرة كي لايم",
+      "bn": "কি লাইম পাই",
+      "pt": "Key lime pie",
+      "ru": "Key lime pie",
+      "ur": "کی لائم پائی",
+      "id": "Key lime pie",
+      "ja": "キーライム・パイ"
+    }
+  },
+  {
+    "id": "r-us-s-carolina-pulled-pork",
+    "slug": "carolina-pulled-pork",
+    "names": {
+      "es": "Pulled pork BBQ estilo Carolina del Norte",
+      "en": "North Carolina-style pulled pork BBQ",
+      "zh": "北卡罗来纳醋汁手撕猪肉",
+      "hi": "नॉर्थ कैरोलाइना शैली का पुल्ड पोर्क बारबेक्यू",
+      "fr": "Pulled pork BBQ estilo Carolina del Norte",
+      "ar": "باربكيو لحم خنزير مفتت على طريقة كارولاينا الشمالية",
+      "bn": "নর্থ ক্যারোলাইনা ধাঁচের পুলড পর্ক বারবিকিউ",
+      "pt": "Pulled pork BBQ estilo Carolina del Norte",
+      "ru": "Pulled pork BBQ estilo Carolina del Norte",
+      "ur": "شمالی کیرولائنا طرز کا پلڈ پورک باربی کیو",
+      "id": "Pulled pork BBQ estilo Carolina del Norte",
+      "ja": "ノースカロライナ風プルドポークBBQ"
+    }
+  },
+  {
+    "id": "r-us-s-chili-con-carne",
+    "slug": "chili-con-carne-texano",
+    "names": {
+      "es": "Chili con carne",
+      "en": "Chili con carne",
+      "zh": "得克萨斯辣椒炖牛肉",
+      "hi": "चिली कोन कार्ने",
+      "fr": "Chili con carne",
+      "ar": "تشيلي كون كارني",
+      "bn": "চিলি কন কার্নে",
+      "pt": "Chili con carne",
+      "ru": "Chili con carne",
+      "ur": "چِلی کون کارنے",
+      "id": "Chili con carne",
+      "ja": "チリコンカン"
+    }
+  },
+  {
+    "id": "r-us-s-breakfast-tacos",
+    "slug": "breakfast-tacos-texanos",
+    "names": {
+      "es": "Breakfast tacos",
+      "en": "Breakfast tacos",
+      "zh": "得克萨斯早餐塔可",
+      "hi": "नाश्ते के टाको",
+      "fr": "Breakfast tacos",
+      "ar": "تاكو الإفطار",
+      "bn": "প্রাতরাশের টাকো",
+      "pt": "Breakfast tacos",
+      "ru": "Breakfast tacos",
+      "ur": "ناشتے کے ٹاکو",
+      "id": "Breakfast tacos",
+      "ja": "ブレックファスト・タコス"
+    }
+  },
+  {
+    "id": "r-us-s-shrimp-poboy",
+    "slug": "shrimp-poboy",
+    "names": {
+      "es": "Po'boy de camarón",
+      "en": "Shrimp po'boy",
+      "zh": "新奥尔良炸虾长面包（Po'boy）",
+      "hi": "झींगा पो'बॉय",
+      "fr": "Po'boy de camarón",
+      "ar": "بو بوي بالروبيان",
+      "bn": "চিংড়ির পো'বয়",
+      "pt": "Po'boy de camarón",
+      "ru": "Po'boy de camarón",
+      "ur": "جھینگے کا پو بوائے",
+      "id": "Po'boy de camarón",
+      "ja": "シュリンプ・ポーボーイ"
+    }
+  },
+  {
+    "id": "r-us-s-southern-fried-chicken",
+    "slug": "southern-fried-chicken",
+    "names": {
+      "es": "Pollo frito sureño",
+      "en": "Southern fried chicken",
+      "zh": "美国南方炸鸡",
+      "hi": "दक्षिणी फ्राइड चिकन",
+      "fr": "Pollo frito sureño",
+      "ar": "الدجاج المقلي الجنوبي",
+      "bn": "দক্ষিণী ফ্রায়েড চিকেন",
+      "pt": "Pollo frito sureño",
+      "ru": "Pollo frito sureño",
+      "ur": "جنوبی تلی مرغی",
+      "id": "Pollo frito sureño",
+      "ja": "南部風フライドチキン"
+    }
+  },
+  {
+    "id": "r-us-s-country-ham",
+    "slug": "country-ham-virginia",
+    "names": {
+      "es": "Country ham (jamón curado de Virginia)",
+      "en": "Country ham (Virginia cured ham)",
+      "zh": "弗吉尼亚乡村腌火腿",
+      "hi": "कंट्री हैम (वर्जीनिया का संरक्षित हैम)",
+      "fr": "Country ham (jamón curado de Virginia)",
+      "ar": "الهام الريفي (هام فرجينيا المعالج)",
+      "bn": "কান্ট্রি হ্যাম (ভার্জিনিয়ার লবণে সংরক্ষিত হ্যাম)",
+      "pt": "Country ham (jamón curado de Virginia)",
+      "ru": "Country ham (jamón curado de Virginia)",
+      "ur": "کنٹری ہیم (ورجینیا کا محفوظ ہیم)",
+      "id": "Country ham (jamón curado de Virginia)",
+      "ja": "カントリーハム（バージニアの塩漬けハム）"
+    }
+  },
+  {
+    "id": "r-us-s-collard-greens",
+    "slug": "collard-greens",
+    "names": {
+      "es": "Collard greens",
+      "en": "Collard greens",
+      "zh": "烟熏肉慢炖散叶甘蓝",
+      "hi": "कॉलर्ड ग्रीन्स",
+      "fr": "Collard greens",
+      "ar": "أوراق الكولارد",
+      "bn": "কলার্ড শাক",
+      "pt": "Collard greens",
+      "ru": "Collard greens",
+      "ur": "کولارڈ ساگ",
+      "id": "Collard greens",
+      "ja": "コラードグリーンの煮込み"
+    }
+  },
+  {
+    "id": "r-us-s-cornbread",
+    "slug": "southern-cornbread",
+    "names": {
+      "es": "Cornbread (pan de maíz sureño)",
+      "en": "Cornbread (Southern corn bread)",
+      "zh": "南方玉米面包",
+      "hi": "कॉर्नब्रेड (दक्षिणी मकई ब्रेड)",
+      "fr": "Cornbread (pan de maíz sureño)",
+      "ar": "خبز الذرة الجنوبي",
+      "bn": "কর্নব্রেড (দক্ষিণী ভুট্টার রুটি)",
+      "pt": "Cornbread (pan de maíz sureño)",
+      "ru": "Cornbread (pan de maíz sureño)",
+      "ur": "کارن بریڈ (جنوبی مکئی کی روٹی)",
+      "id": "Cornbread (pan de maíz sureño)",
+      "ja": "コーンブレッド（南部のとうもろこしパン）"
+    }
+  },
+  {
+    "id": "r-us-s-banana-pudding",
+    "slug": "banana-pudding",
+    "names": {
+      "es": "Banana pudding",
+      "en": "Banana pudding",
+      "zh": "香蕉布丁",
+      "hi": "बनाना पुडिंग",
+      "fr": "Banana pudding",
+      "ar": "بودينغ الموز",
+      "bn": "কলার পুডিং",
+      "pt": "Banana pudding",
+      "ru": "Banana pudding",
+      "ur": "کیلے کی پڈنگ",
+      "id": "Banana pudding",
+      "ja": "バナナプディング"
+    }
+  },
+  {
+    "id": "r-us-s-chicken-fried-steak",
+    "slug": "chicken-fried-steak",
+    "names": {
+      "es": "Chicken fried steak",
+      "en": "Chicken fried steak",
+      "zh": "炸鸡式牛排",
+      "hi": "चिकन फ्राइड स्टेक",
+      "fr": "Chicken fried steak",
+      "ar": "ستيك مقلي على طريقة الدجاج",
+      "bn": "চিকেন ফ্রায়েড স্টেক",
+      "pt": "Chicken fried steak",
+      "ru": "Chicken fried steak",
+      "ur": "چکن فرائیڈ اسٹیک",
+      "id": "Chicken fried steak",
+      "ja": "チキンフライドステーキ"
+    }
+  },
+  {
+    "id": "r-us-s-fried-pickles",
+    "slug": "fried-pickles",
+    "names": {
+      "es": "Fried pickles (pepinillos fritos)",
+      "en": "Fried pickles",
+      "zh": "炸腌黄瓜",
+      "hi": "तला खीरे का अचार",
+      "fr": "Fried pickles (pepinillos fritos)",
+      "ar": "مخللات مقلية",
+      "bn": "ফ্রায়েড পিকলস",
+      "pt": "Fried pickles (pepinillos fritos)",
+      "ru": "Fried pickles (pepinillos fritos)",
+      "ur": "تلا اچار",
+      "id": "Fried pickles (pepinillos fritos)",
+      "ja": "フライドピクルス"
+    }
+  },
+  {
+    "id": "r-us-ne-new-england-clam-chowder",
+    "slug": "new-england-clam-chowder",
+    "names": {
+      "es": "New England clam chowder",
+      "en": "New England clam chowder",
+      "zh": "新英格兰蛤蜊浓汤",
+      "hi": "न्यू इंग्लैंड क्लैम चाउडर",
+      "fr": "New England clam chowder",
+      "ar": "تشاودر المحار من نيو إنغلاند",
+      "bn": "নিউ ইংল্যান্ড ক্ল্যাম চাউডার",
+      "pt": "New England clam chowder",
+      "ru": "New England clam chowder",
+      "ur": "نیو انگلینڈ کلیم چاؤڈر",
+      "id": "New England clam chowder",
+      "ja": "ニューイングランド・クラムチャウダー"
+    }
+  },
+  {
+    "id": "r-us-ne-lobster-roll",
+    "slug": "lobster-roll-maine",
+    "names": {
+      "es": "Lobster roll (estilo Maine)",
+      "en": "Lobster roll (Maine style)",
+      "zh": "缅因龙虾卷",
+      "hi": "लॉब्स्टर रोल (मेन शैली)",
+      "fr": "Lobster roll (estilo Maine)",
+      "ar": "شطيرة الكركند (على طريقة مين)",
+      "bn": "লবস্টার রোল (মেইন ধাঁচ)",
+      "pt": "Lobster roll (estilo Maine)",
+      "ru": "Lobster roll (estilo Maine)",
+      "ur": "لابسٹر رول (مین طرز)",
+      "id": "Lobster roll (estilo Maine)",
+      "ja": "ロブスターロール（メイン風）"
+    }
+  },
+  {
+    "id": "r-us-ne-maryland-crab-cakes",
+    "slug": "maryland-crab-cakes",
+    "names": {
+      "es": "Maryland crab cakes",
+      "en": "Maryland crab cakes",
+      "zh": "马里兰蟹肉饼",
+      "hi": "मैरीलैंड क्रैब केक",
+      "fr": "Maryland crab cakes",
+      "ar": "أقراص السلطعون من ماريلاند",
+      "bn": "মেরিল্যান্ড ক্র্যাব কেক",
+      "pt": "Maryland crab cakes",
+      "ru": "Maryland crab cakes",
+      "ur": "میری لینڈ کریب کیک",
+      "id": "Maryland crab cakes",
+      "ja": "メリーランドのクラブケーキ"
+    }
+  },
+  {
+    "id": "r-us-ne-philly-cheesesteak",
+    "slug": "philly-cheesesteak",
+    "names": {
+      "es": "Philly cheesesteak",
+      "en": "Philly cheesesteak",
+      "zh": "费城奶酪牛肉三明治",
+      "hi": "फिली चीज़स्टेक",
+      "fr": "Philly cheesesteak",
+      "ar": "فيلي تشيزستيك",
+      "bn": "ফিলি চিজস্টেক",
+      "pt": "Philly cheesesteak",
+      "ru": "Philly cheesesteak",
+      "ur": "فلی چیز اسٹیک",
+      "id": "Philly cheesesteak",
+      "ja": "フィリー・チーズステーキ"
+    }
+  },
+  {
+    "id": "r-us-ne-ny-pizza-slice",
+    "slug": "rebanada-pizza-nueva-york",
+    "names": {
+      "es": "Rebanada de pizza estilo Nueva York",
+      "en": "New York-style pizza slice",
+      "zh": "纽约风味披萨片",
+      "hi": "न्यूयॉर्क शैली का पिज़्ज़ा स्लाइस",
+      "fr": "Rebanada de pizza estilo Nueva York",
+      "ar": "شريحة بيتزا على طريقة نيويورك",
+      "bn": "নিউ ইয়র্ক ধাঁচের পিৎজার স্লাইস",
+      "pt": "Rebanada de pizza estilo Nueva York",
+      "ru": "Rebanada de pizza estilo Nueva York",
+      "ur": "نیویارک طرز کا پیزا سلائس",
+      "id": "Rebanada de pizza estilo Nueva York",
+      "ja": "ニューヨーク風スライスピザ"
+    }
+  },
+  {
+    "id": "r-us-ne-bagel-lox",
+    "slug": "bagel-con-lox",
+    "names": {
+      "es": "Bagel con lox",
+      "en": "Bagel with lox",
+      "zh": "腌三文鱼贝果",
+      "hi": "लॉक्स वाला बेगल",
+      "fr": "Bagel con lox",
+      "ar": "بيغل باللوكس",
+      "bn": "লক্সসহ বেগেল",
+      "pt": "Bagel con lox",
+      "ru": "Bagel con lox",
+      "ur": "لوکس والا بیگل",
+      "id": "Bagel con lox",
+      "ja": "ロックスのベーグル"
+    }
+  },
+  {
+    "id": "r-us-ne-pastrami-on-rye",
+    "slug": "pastrami-on-rye",
+    "names": {
+      "es": "Pastrami on rye",
+      "en": "Pastrami on rye",
+      "zh": "黑麦面包烟熏牛肉三明治",
+      "hi": "राई ब्रेड पर पास्त्रामी",
+      "fr": "Pastrami on rye",
+      "ar": "بسترامي على خبز الجاودار",
+      "bn": "রাই রুটিতে পাস্ত্রামি",
+      "pt": "Pastrami on rye",
+      "ru": "Pastrami on rye",
+      "ur": "رائی روٹی پر پاسٹرامی",
+      "id": "Pastrami on rye",
+      "ja": "パストラミ・オン・ライ"
+    }
+  },
+  {
+    "id": "r-us-ne-buffalo-wings",
+    "slug": "buffalo-wings",
+    "names": {
+      "es": "Buffalo wings",
+      "en": "Buffalo wings",
+      "zh": "布法罗辣鸡翅",
+      "hi": "बफ़ेलो विंग्स",
+      "fr": "Buffalo wings",
+      "ar": "أجنحة بافالو",
+      "bn": "বাফেলো উইংস",
+      "pt": "Buffalo wings",
+      "ru": "Buffalo wings",
+      "ur": "بفلو ونگز",
+      "id": "Buffalo wings",
+      "ja": "バッファローウィング"
+    }
+  },
+  {
+    "id": "r-us-ne-boston-baked-beans",
+    "slug": "boston-baked-beans",
+    "names": {
+      "es": "Boston baked beans",
+      "en": "Boston baked beans",
+      "zh": "波士顿烤豆",
+      "hi": "बोस्टन बेक्ड बीन्स",
+      "fr": "Boston baked beans",
+      "ar": "فاصوليا بوسطن المخبوزة",
+      "bn": "বোস্টন বেকড বিনস",
+      "pt": "Boston baked beans",
+      "ru": "Boston baked beans",
+      "ur": "بوسٹن بیکڈ بینز",
+      "id": "Boston baked beans",
+      "ja": "ボストン・ベイクドビーンズ"
+    }
+  },
+  {
+    "id": "r-us-ne-whoopie-pie",
+    "slug": "whoopie-pie",
+    "names": {
+      "es": "Whoopie pie",
+      "en": "Whoopie pie",
+      "zh": "巧克力奶油夹心软饼（Whoopie pie）",
+      "hi": "हूपी पाई",
+      "fr": "Whoopie pie",
+      "ar": "ووبي باي",
+      "bn": "হুপি পাই",
+      "pt": "Whoopie pie",
+      "ru": "Whoopie pie",
+      "ur": "ووپی پائی",
+      "id": "Whoopie pie",
+      "ja": "ウーピーパイ"
+    }
+  },
+  {
+    "id": "r-us-ne-clam-cakes",
+    "slug": "clam-cakes-rhode-island",
+    "names": {
+      "es": "Clam cakes de Rhode Island",
+      "en": "Rhode Island clam cakes",
+      "zh": "罗得岛炸蛤蜊球",
+      "hi": "रोड आइलैंड क्लैम केक",
+      "fr": "Clam cakes de Rhode Island",
+      "ar": "لقيمات المحار من رود آيلاند",
+      "bn": "রোড আইল্যান্ড ক্ল্যাম কেক",
+      "pt": "Clam cakes de Rhode Island",
+      "ru": "Clam cakes de Rhode Island",
+      "ur": "روڈ آئی لینڈ کلیم کیک",
+      "id": "Clam cakes de Rhode Island",
+      "ja": "ロードアイランドのクラムケーキ"
+    }
+  },
+  {
+    "id": "r-us-ne-coffee-milk",
+    "slug": "coffee-milk",
+    "names": {
+      "es": "Coffee milk",
+      "en": "Coffee milk",
+      "zh": "咖啡糖浆牛奶",
+      "hi": "कॉफी मिल्क",
+      "fr": "Coffee milk",
+      "ar": "حليب القهوة",
+      "bn": "কফি মিল্ক",
+      "pt": "Coffee milk",
+      "ru": "Coffee milk",
+      "ur": "کافی مِلک",
+      "id": "Coffee milk",
+      "ja": "コーヒーミルク"
+    }
+  },
+  {
+    "id": "r-us-ne-new-haven-clam-apizza",
+    "slug": "white-clam-apizza-new-haven",
+    "names": {
+      "es": "White clam apizza de New Haven",
+      "en": "New Haven white clam apizza",
+      "zh": "纽黑文白蛤蜊披萨",
+      "hi": "न्यू हेवन व्हाइट क्लैम अपीत्सा",
+      "fr": "White clam apizza de New Haven",
+      "ar": "أبيتزا المحار البيضاء من نيو هيفن",
+      "bn": "নিউ হেভেনের সাদা ক্ল্যাম আপিৎজা",
+      "pt": "White clam apizza de New Haven",
+      "ru": "White clam apizza de New Haven",
+      "ur": "نیو ہیون وائٹ کلیم اپیزا",
+      "id": "White clam apizza de New Haven",
+      "ja": "ニューヘイブンのホワイトクラム・アピッツァ"
+    }
+  },
+  {
+    "id": "r-us-ne-pork-roll-egg-cheese",
+    "slug": "pork-roll-egg-cheese",
+    "names": {
+      "es": "Pork roll, egg and cheese (Taylor ham)",
+      "en": "Pork roll, egg and cheese (Taylor ham)",
+      "zh": "猪肉卷片鸡蛋奶酪三明治",
+      "hi": "पोर्क रोल, अंडा और चीज़ (टेलर हैम)",
+      "fr": "Pork roll, egg and cheese (Taylor ham)",
+      "ar": "بورك رول بالبيض والجبن (تايلور هام)",
+      "bn": "পর্ক রোল, ডিম ও চিজ (টেলর হ্যাম)",
+      "pt": "Pork roll, egg and cheese (Taylor ham)",
+      "ru": "Pork roll, egg and cheese (Taylor ham)",
+      "ur": "پورک رول، انڈا اور پنیر (ٹیلر ہیم)",
+      "id": "Pork roll, egg and cheese (Taylor ham)",
+      "ja": "ポークロール・エッグ・アンド・チーズ（テイラーハム）"
+    }
+  },
+  {
+    "id": "r-us-ne-soft-pretzel",
+    "slug": "philadelphia-soft-pretzel",
+    "names": {
+      "es": "Philadelphia soft pretzel",
+      "en": "Philadelphia soft pretzel",
+      "zh": "费城软椒盐卷饼",
+      "hi": "फिलाडेल्फिया सॉफ्ट प्रेट्ज़ेल",
+      "fr": "Philadelphia soft pretzel",
+      "ar": "بريتزل فيلادلفيا الطري",
+      "bn": "ফিলাডেলফিয়ার নরম প্রেটজেল",
+      "pt": "Philadelphia soft pretzel",
+      "ru": "Philadelphia soft pretzel",
+      "ur": "فلاڈیلفیا کا نرم پریٹزل",
+      "id": "Philadelphia soft pretzel",
+      "ja": "フィラデルフィアのソフトプレッツェル"
+    }
+  },
+  {
+    "id": "r-us-ne-sugar-on-snow",
+    "slug": "sugar-on-snow-vermont",
+    "names": {
+      "es": "Sugar on snow (jarabe de arce sobre nieve)",
+      "en": "Sugar on snow (maple syrup on snow)",
+      "zh": "雪上枫糖",
+      "hi": "शुगर ऑन स्नो (बर्फ पर मेपल सिरप)",
+      "fr": "Sugar on snow (jarabe de arce sobre nieve)",
+      "ar": "سكر على الثلج (شراب القيقب على الثلج)",
+      "bn": "সুগার অন স্নো (তুষারের ওপর মেপল সিরাপ)",
+      "pt": "Sugar on snow (jarabe de arce sobre nieve)",
+      "ru": "Sugar on snow (jarabe de arce sobre nieve)",
+      "ur": "شوگر آن سنو (برف پر میپل سیرپ)",
+      "id": "Sugar on snow (jarabe de arce sobre nieve)",
+      "ja": "シュガー・オン・スノー（雪の上のメープルシロップ）"
+    }
+  },
+  {
+    "id": "r-us-mw-chicago-deep-dish",
+    "slug": "pizza-deep-dish-de-chicago",
+    "names": {
+      "es": "Pizza deep-dish de Chicago",
+      "en": "Chicago deep-dish pizza",
+      "zh": "芝加哥深盘披萨",
+      "hi": "शिकागो डीप-डिश पिज़्ज़ा",
+      "fr": "Pizza deep-dish de Chicago",
+      "ar": "بيتزا شيكاغو العميقة",
+      "bn": "শিকাগোর ডিপ-ডিশ পিৎজা",
+      "pt": "Pizza deep-dish de Chicago",
+      "ru": "Pizza deep-dish de Chicago",
+      "ur": "شکاگو ڈیپ ڈش پیزا",
+      "id": "Pizza deep-dish de Chicago",
+      "ja": "シカゴのディープディッシュ・ピザ"
+    }
+  },
+  {
+    "id": "r-us-mw-chicago-hot-dog",
+    "slug": "hot-dog-estilo-chicago",
+    "names": {
+      "es": "Hot dog estilo Chicago",
+      "en": "Chicago-style hot dog",
+      "zh": "芝加哥风味热狗",
+      "hi": "शिकागो शैली का हॉट डॉग",
+      "fr": "Hot-dog de Chicago",
+      "ar": "هوت دوغ على طريقة شيكاغو",
+      "bn": "শিকাগো ধাঁচের হট ডগ",
+      "pt": "Hot dog estilo Chicago",
+      "ru": "Hot dog estilo Chicago",
+      "ur": "شکاگو طرز کا ہاٹ ڈاگ",
+      "id": "Hot dog estilo Chicago",
+      "ja": "シカゴ風ホットドッグ"
+    }
+  },
+  {
+    "id": "r-us-mw-italian-beef",
+    "slug": "italian-beef-de-chicago",
+    "names": {
+      "es": "Italian beef de Chicago",
+      "en": "Chicago Italian beef",
+      "zh": "芝加哥意式牛肉三明治",
+      "hi": "शिकागो इतालवी बीफ",
+      "fr": "Italian beef de Chicago",
+      "ar": "اللحم البقري الإيطالي من شيكاغو",
+      "bn": "শিকাগোর ইতালিয়ান বিফ",
+      "pt": "Italian beef de Chicago",
+      "ru": "Italian beef de Chicago",
+      "ur": "شکاگو اطالوی بیف",
+      "id": "Italian beef de Chicago",
+      "ja": "シカゴのイタリアンビーフ"
+    }
+  },
+  {
+    "id": "r-us-mw-detroit-pizza",
+    "slug": "pizza-estilo-detroit",
+    "names": {
+      "es": "Pizza estilo Detroit",
+      "en": "Detroit-style pizza",
+      "zh": "底特律风味披萨",
+      "hi": "डेट्रॉइट शैली का पिज़्ज़ा",
+      "fr": "Pizza de Detroit",
+      "ar": "بيتزا على طريقة ديترويت",
+      "bn": "ডেট্রয়েট ধাঁচের পিৎজা",
+      "pt": "Pizza estilo Detroit",
+      "ru": "Pizza estilo Detroit",
+      "ur": "ڈیٹرائٹ طرز کا پیزا",
+      "id": "Pizza estilo Detroit",
+      "ja": "デトロイト風ピザ"
+    }
+  },
+  {
+    "id": "r-us-mw-coney-dog",
+    "slug": "coney-dog-de-detroit",
+    "names": {
+      "es": "Coney dog de Detroit",
+      "en": "Detroit coney dog",
+      "zh": "底特律康尼热狗",
+      "hi": "डेट्रॉइट कोनी डॉग",
+      "fr": "Coney dog de Detroit",
+      "ar": "كوني دوغ ديترويت",
+      "bn": "ডেট্রয়েটের কোনি ডগ",
+      "pt": "Coney dog de Detroit",
+      "ru": "Coney dog de Detroit",
+      "ur": "ڈیٹرائٹ کونی ڈاگ",
+      "id": "Coney dog de Detroit",
+      "ja": "デトロイトのコニードッグ"
+    }
+  },
+  {
+    "id": "r-us-mw-cincinnati-chili",
+    "slug": "chili-de-cincinnati",
+    "names": {
+      "es": "Chili de Cincinnati",
+      "en": "Cincinnati chili",
+      "zh": "辛辛那提香料肉酱意面",
+      "hi": "सिनसिनाटी चिली",
+      "fr": "Chili de Cincinnati",
+      "ar": "تشيلي سينسيناتي",
+      "bn": "সিনসিনাটির চিলি",
+      "pt": "Chili de Cincinnati",
+      "ru": "Chili de Cincinnati",
+      "ur": "سنسناٹی چِلی",
+      "id": "Chili de Cincinnati",
+      "ja": "シンシナティ・チリ"
+    }
+  },
+  {
+    "id": "r-us-mw-kc-burnt-ends",
+    "slug": "burnt-ends-de-kansas-city",
+    "names": {
+      "es": "Burnt ends de Kansas City",
+      "en": "Kansas City burnt ends",
+      "zh": "堪萨斯城焦香牛胸肉块",
+      "hi": "कैनसस सिटी बर्न्ट एंड्स",
+      "fr": "Burnt ends de Kansas City",
+      "ar": "بيرنت إندز كانساس سيتي",
+      "bn": "কানসাস সিটির বার্ন্ট এন্ডস",
+      "pt": "Burnt ends de Kansas City",
+      "ru": "Burnt ends de Kansas City",
+      "ur": "کنساس سٹی برنٹ اینڈز",
+      "id": "Burnt ends de Kansas City",
+      "ja": "カンザスシティのバーントエンズ"
+    }
+  },
+  {
+    "id": "r-us-mw-toasted-ravioli",
+    "slug": "ravioles-fritos-de-san-luis",
+    "names": {
+      "es": "Ravioles fritos de San Luis",
+      "en": "St. Louis toasted ravioli",
+      "zh": "圣路易斯炸意式饺",
+      "hi": "सेंट लुइस की टोस्टेड रैविओली",
+      "fr": "Ravioli frits de Saint-Louis",
+      "ar": "رافيولي سانت لويس المحمص",
+      "bn": "সেন্ট লুইসের টোস্টেড রাভিওলি",
+      "pt": "Ravioles fritos de San Luis",
+      "ru": "Ravioles fritos de San Luis",
+      "ur": "سینٹ لوئیس کی ٹوسٹڈ راویولی",
+      "id": "Ravioles fritos de San Luis",
+      "ja": "セントルイスのトーステッド・ラビオリ"
+    }
+  },
+  {
+    "id": "r-us-mw-gooey-butter-cake",
+    "slug": "gooey-butter-cake-de-san-luis",
+    "names": {
+      "es": "Gooey butter cake de San Luis",
+      "en": "St. Louis gooey butter cake",
+      "zh": "圣路易斯黏心黄油蛋糕",
+      "hi": "सेंट लुइस गूई बटर केक",
+      "fr": "Gooey butter cake de Saint-Louis",
+      "ar": "كيكة الزبدة اللزجة من سانت لويس",
+      "bn": "সেন্ট লুইসের আঠালো বাটার কেক",
+      "pt": "Gooey butter cake de San Luis",
+      "ru": "Gooey butter cake de San Luis",
+      "ur": "سینٹ لوئیس کا گوئی بٹر کیک",
+      "id": "Gooey butter cake de San Luis",
+      "ja": "セントルイスのグーイー・バターケーキ"
+    }
+  },
+  {
+    "id": "r-us-mw-cheese-curds",
+    "slug": "cheese-curds-fritos-de-wisconsin",
+    "names": {
+      "es": "Cheese curds fritos de Wisconsin",
+      "en": "Wisconsin fried cheese curds",
+      "zh": "威斯康星炸奶酪凝乳块",
+      "hi": "विस्कॉन्सिन के तले चीज़ कर्ड्स",
+      "fr": "Fromage en grains frit du Wisconsin",
+      "ar": "خثرات الجبن المقلية من ويسكونسن",
+      "bn": "উইসকনসিনের ভাজা চিজ কার্ড",
+      "pt": "Cheese curds fritos de Wisconsin",
+      "ru": "Cheese curds fritos de Wisconsin",
+      "ur": "وسکانسن کے تلے چیز کرڈز",
+      "id": "Cheese curds fritos de Wisconsin",
+      "ja": "ウィスコンシンの揚げチーズカード"
+    }
+  },
+  {
+    "id": "r-us-mw-sheboygan-brat",
+    "slug": "bratwurst-estilo-sheboygan",
+    "names": {
+      "es": "Bratwurst estilo Sheboygan",
+      "en": "Sheboygan-style bratwurst",
+      "zh": "希博伊根德式烤肠",
+      "hi": "शेबॉयगन शैली की ब्राटवुर्स्ट",
+      "fr": "Bratwurst de Sheboygan",
+      "ar": "براتفورست على طريقة شيبويغان",
+      "bn": "শিবয়গান ধাঁচের ব্রাটভুর্স্ট",
+      "pt": "Bratwurst estilo Sheboygan",
+      "ru": "Bratwurst estilo Sheboygan",
+      "ur": "شیبوئیگن طرز کی براٹ ورسٹ",
+      "id": "Bratwurst estilo Sheboygan",
+      "ja": "シボイガン風ブラートヴルスト"
+    }
+  },
+  {
+    "id": "r-us-mw-juicy-lucy",
+    "slug": "juicy-lucy",
+    "names": {
+      "es": "Juicy Lucy",
+      "en": "Juicy Lucy",
+      "zh": "爆浆奶酪汉堡（Juicy Lucy）",
+      "hi": "जूसी लूसी",
+      "fr": "Juicy Lucy",
+      "ar": "جوسي لوسي",
+      "bn": "জুসি লুসি",
+      "pt": "Juicy Lucy",
+      "ru": "Juicy Lucy",
+      "ur": "جوسی لوسی",
+      "id": "Juicy Lucy",
+      "ja": "ジューシー・ルーシー"
+    }
+  },
+  {
+    "id": "r-us-mw-tater-tot-hotdish",
+    "slug": "hotdish-de-tater-tots",
+    "names": {
+      "es": "Hotdish de tater tots",
+      "en": "Tater tot hotdish",
+      "zh": "薯球牛肉焗烤",
+      "hi": "टेटर टॉट हॉटडिश",
+      "fr": "Tater tot hotdish",
+      "ar": "تاتر توت هوتديش",
+      "bn": "টেটার টট হটডিশ",
+      "pt": "Hotdish de tater tots",
+      "ru": "Hotdish de tater tots",
+      "ur": "ٹیٹر ٹاٹ ہاٹ ڈش",
+      "id": "Hotdish de tater tots",
+      "ja": "テイタートッツ・ホットディッシュ"
+    }
+  },
+  {
+    "id": "r-us-mw-runza",
+    "slug": "runza",
+    "names": {
+      "es": "Runza",
+      "en": "Runza",
+      "zh": "内布拉斯加肉菜馅面包（Runza）",
+      "hi": "रुनज़ा",
+      "fr": "Runza",
+      "ar": "رونزا",
+      "bn": "রুনজা",
+      "pt": "Runza",
+      "ru": "Runza",
+      "ur": "رونزا",
+      "id": "Runza",
+      "ja": "ランザ"
+    }
+  },
+  {
+    "id": "r-us-mw-pork-tenderloin-sandwich",
+    "slug": "sandwich-de-lomo-de-cerdo-empanizado",
+    "names": {
+      "es": "Sándwich de lomo de cerdo empanizado",
+      "en": "Breaded pork tenderloin sandwich",
+      "zh": "炸猪里脊三明治",
+      "hi": "ब्रेडक्रम्ब वाला पोर्क टेंडरलॉइन सैंडविच",
+      "fr": "Sandwich au filet de porc pané",
+      "ar": "شطيرة فيليه الخنزير بالبقسماط",
+      "bn": "ব্রেডক্রাম্ব মাখানো শূকরের টেন্ডারলয়েন স্যান্ডউইচ",
+      "pt": "Sándwich de lomo de cerdo empanizado",
+      "ru": "Sándwich de lomo de cerdo empanizado",
+      "ur": "بریڈ کرمب والے سور کے ٹینڈرلوئن کا سینڈوچ",
+      "id": "Sándwich de lomo de cerdo empanizado",
+      "ja": "豚ヒレカツのサンドイッチ"
+    }
+  },
+  {
+    "id": "r-us-mw-chislic",
+    "slug": "chislic-de-dakota-del-sur",
+    "names": {
+      "es": "Chislic de Dakota del Sur",
+      "en": "South Dakota chislic",
+      "zh": "南达科他香料肉块（Chislic）",
+      "hi": "साउथ डकोटा चिसलिक",
+      "fr": "Chislic du Dakota du Sud",
+      "ar": "تشيسليك داكوتا الجنوبية",
+      "bn": "সাউথ ডাকোটার চিসলিক",
+      "pt": "Chislic de Dakota del Sur",
+      "ru": "Chislic de Dakota del Sur",
+      "ur": "جنوبی ڈکوٹا کا چسلک",
+      "id": "Chislic de Dakota del Sur",
+      "ja": "サウスダコタのチズリック"
+    }
+  },
+  {
+    "id": "r-us-w-cioppino",
+    "slug": "cioppino-san-francisco",
+    "names": {
+      "es": "Cioppino",
+      "en": "Cioppino",
+      "zh": "旧金山意式海鲜汤（Cioppino）",
+      "hi": "चोपीनो",
+      "fr": "Cioppino",
+      "ar": "تشوبينو",
+      "bn": "চিওপিনো",
+      "pt": "Cioppino",
+      "ru": "Cioppino",
+      "ur": "چوپینو",
+      "id": "Cioppino",
+      "ja": "チョッピーノ"
+    }
+  },
+  {
+    "id": "r-us-w-mission-burrito",
+    "slug": "mission-burrito-san-francisco",
+    "names": {
+      "es": "Mission burrito",
+      "en": "Mission burrito",
+      "zh": "米慎区巨型布里托",
+      "hi": "मिशन बरीटो",
+      "fr": "Burrito Mission",
+      "ar": "بوريتو ميشن",
+      "bn": "মিশন বুরিতো",
+      "pt": "Mission burrito",
+      "ru": "Mission burrito",
+      "ur": "مشن بریٹو",
+      "id": "Mission burrito",
+      "ja": "ミッション・ブリトー"
+    }
+  },
+  {
+    "id": "r-us-w-french-dip",
+    "slug": "french-dip-los-angeles",
+    "names": {
+      "es": "French dip",
+      "en": "French dip",
+      "zh": "蘸汁烤牛肉三明治",
+      "hi": "फ्रेंच डिप",
+      "fr": "French dip (sandwich au bœuf et au jus)",
+      "ar": "فرنش ديب",
+      "bn": "ফ্রেঞ্চ ডিপ",
+      "pt": "French dip",
+      "ru": "French dip",
+      "ur": "فرنچ ڈپ",
+      "id": "French dip",
+      "ja": "フレンチディップ"
+    }
+  },
+  {
+    "id": "r-us-w-green-chile-stew",
+    "slug": "green-chile-stew-nuevo-mexico",
+    "names": {
+      "es": "Green chile stew",
+      "en": "Green chile stew",
+      "zh": "新墨西哥青辣椒炖肉",
+      "hi": "हरी मिर्च का स्टू",
+      "fr": "Ragoût au piment vert du Nouveau-Mexique",
+      "ar": "يخنة الفلفل الأخضر",
+      "bn": "সবুজ লঙ্কার স্ট্যু",
+      "pt": "Green chile stew",
+      "ru": "Green chile stew",
+      "ur": "ہری مرچ کا سالن",
+      "id": "Green chile stew",
+      "ja": "グリーンチリ・シチュー"
+    }
+  },
+  {
+    "id": "r-us-w-nm-enchiladas",
+    "slug": "enchiladas-nuevo-mexico-apiladas",
+    "names": {
+      "es": "Enchiladas neomexicanas apiladas",
+      "en": "New Mexico stacked enchiladas",
+      "zh": "新墨西哥叠层辣酱玉米饼",
+      "hi": "न्यू मैक्सिको की परतदार एन्चिलादास",
+      "fr": "Enchiladas empilées du Nouveau-Mexique",
+      "ar": "إنشيلادا نيومكسيكو المكدسة",
+      "bn": "নিউ মেক্সিকোর স্তরে সাজানো এনচিলাদা",
+      "pt": "Enchiladas neomexicanas apiladas",
+      "ru": "Enchiladas neomexicanas apiladas",
+      "ur": "نیو میکسیکو کے تہہ دار اینچیلادا",
+      "id": "Enchiladas neomexicanas apiladas",
+      "ja": "ニューメキシコの重ねエンチラーダ"
+    }
+  },
+  {
+    "id": "r-us-w-sonoran-hot-dog",
+    "slug": "sonoran-hot-dog-tucson",
+    "names": {
+      "es": "Sonoran hot dog",
+      "en": "Sonoran hot dog",
+      "zh": "索诺拉热狗",
+      "hi": "सोनोरा का हॉट डॉग",
+      "fr": "Hot-dog de Sonora",
+      "ar": "هوت دوغ سونوري",
+      "bn": "সোনোরার হট ডগ",
+      "pt": "Sonoran hot dog",
+      "ru": "Sonoran hot dog",
+      "ur": "سونورا کا ہاٹ ڈاگ",
+      "id": "Sonoran hot dog",
+      "ja": "ソノラ風ホットドッグ"
+    }
+  },
+  {
+    "id": "r-us-w-navajo-taco",
+    "slug": "navajo-taco-fry-bread",
+    "names": {
+      "es": "Navajo taco (fry bread)",
+      "en": "Navajo taco (fry bread)",
+      "zh": "纳瓦霍炸面饼塔可",
+      "hi": "नवाजो टाको (फ्राई ब्रेड)",
+      "fr": "Taco navajo sur pain frit",
+      "ar": "تاكو نافاهو (خبز مقلي)",
+      "bn": "নাভাহো টাকো (ফ্রাই ব্রেড)",
+      "pt": "Navajo taco (fry bread)",
+      "ru": "Navajo taco (fry bread)",
+      "ur": "ناواہو ٹاکو (تلی روٹی)",
+      "id": "Navajo taco (fry bread)",
+      "ja": "ナバホ・タコ（フライブレッド）"
+    }
+  },
+  {
+    "id": "r-us-w-rocky-mountain-trout",
+    "slug": "trucha-montanas-rocosas",
+    "names": {
+      "es": "Trucha de las Montañas Rocosas",
+      "en": "Rocky Mountain trout",
+      "zh": "落基山鳟鱼",
+      "hi": "रॉकी माउंटेन ट्राउट",
+      "fr": "Truite des montagnes Rocheuses",
+      "ar": "تروتة جبال روكي",
+      "bn": "রকি মাউন্টেন ট্রাউট",
+      "pt": "Trucha de las Montañas Rocosas",
+      "ru": "Trucha de las Montañas Rocosas",
+      "ur": "راکی ماؤنٹین ٹراؤٹ",
+      "id": "Trucha de las Montañas Rocosas",
+      "ja": "ロッキー山脈のます料理"
+    }
+  },
+  {
+    "id": "r-us-w-denver-omelette",
+    "slug": "denver-omelette",
+    "names": {
+      "es": "Denver omelette",
+      "en": "Denver omelette",
+      "zh": "丹佛欧姆蛋",
+      "hi": "डेनवर ऑमलेट",
+      "fr": "Omelette de Denver",
+      "ar": "أومليت دنفر",
+      "bn": "ডেনভার অমলেট",
+      "pt": "Denver omelette",
+      "ru": "Denver omelette",
+      "ur": "ڈینور آملیٹ",
+      "id": "Denver omelette",
+      "ja": "デンバー・オムレツ"
+    }
+  },
+  {
+    "id": "r-us-w-cedar-plank-salmon",
+    "slug": "salmon-tabla-cedro-pacifico",
+    "names": {
+      "es": "Salmón a la tabla de cedro",
+      "en": "Cedar plank salmon",
+      "zh": "雪松木板烤三文鱼",
+      "hi": "सीडर तख्ते पर सैल्मन",
+      "fr": "Saumon sur planche de cèdre",
+      "ar": "سلمون على لوح الأرز",
+      "bn": "সিডার কাঠের পাটায় স্যামন",
+      "pt": "Salmón a la tabla de cedro",
+      "ru": "Salmón a la tabla de cedro",
+      "ur": "دیودار کے تختے پر سالمن",
+      "id": "Salmón a la tabla de cedro",
+      "ja": "シダープランク・サーモン"
+    }
+  },
+  {
+    "id": "r-us-w-marionberry-pie",
+    "slug": "marionberry-pie-oregon",
+    "names": {
+      "es": "Marionberry pie",
+      "en": "Marionberry pie",
+      "zh": "马里恩莓派",
+      "hi": "मैरियनबेरी पाई",
+      "fr": "Marionberry pie",
+      "ar": "فطيرة توت ماريون",
+      "bn": "ম্যারিয়নবেরি পাই",
+      "pt": "Marionberry pie",
+      "ru": "Marionberry pie",
+      "ur": "میریئن بیری پائی",
+      "id": "Marionberry pie",
+      "ja": "マリオンベリー・パイ"
+    }
+  },
+  {
+    "id": "r-us-w-poke",
+    "slug": "poke-ahi-hawai",
+    "names": {
+      "es": "Poke de atún (ahi poke)",
+      "en": "Ahi poke",
+      "zh": "夏威夷金枪鱼波奇",
+      "hi": "आही पोके",
+      "fr": "Poke de atún (ahi poke)",
+      "ar": "آهي بوكي",
+      "bn": "আহি পোকে",
+      "pt": "Poke de atún (ahi poke)",
+      "ru": "Poke de atún (ahi poke)",
+      "ur": "آہی پوکے",
+      "id": "Poke de atún (ahi poke)",
+      "ja": "アヒ・ポケ"
+    }
+  },
+  {
+    "id": "r-us-w-loco-moco",
+    "slug": "loco-moco-hawai",
+    "names": {
+      "es": "Loco moco",
+      "en": "Loco moco",
+      "zh": "夏威夷汉堡肉排饭（Loco moco）",
+      "hi": "लोको मोको",
+      "fr": "Loco moco",
+      "ar": "لوكو موكو",
+      "bn": "লোকো মোকো",
+      "pt": "Loco moco",
+      "ru": "Loco moco",
+      "ur": "لوکو موکو",
+      "id": "Loco moco",
+      "ja": "ロコモコ"
+    }
+  },
+  {
+    "id": "r-us-w-spam-musubi",
+    "slug": "spam-musubi-hawai",
+    "names": {
+      "es": "Spam musubi",
+      "en": "Spam musubi",
+      "zh": "午餐肉海苔饭团",
+      "hi": "स्पैम मुसुबी",
+      "fr": "Spam musubi",
+      "ar": "سبام موسوبي",
+      "bn": "স্প্যাম মুসুবি",
+      "pt": "Spam musubi",
+      "ru": "Spam musubi",
+      "ur": "اسپیم موسوبی",
+      "id": "Spam musubi",
+      "ja": "スパムむすび"
+    }
+  },
+  {
+    "id": "r-us-w-funeral-potatoes",
+    "slug": "funeral-potatoes-utah",
+    "names": {
+      "es": "Funeral potatoes",
+      "en": "Funeral potatoes",
+      "zh": "犹他奶酪焗薯丝（Funeral potatoes）",
+      "hi": "फ्यूनरल पोटैटोज़",
+      "fr": "Funeral potatoes",
+      "ar": "بطاطس الجنائز",
+      "bn": "ফিউনারেল পটেটোস",
+      "pt": "Funeral potatoes",
+      "ru": "Funeral potatoes",
+      "ur": "فیونرل پوٹیٹوز",
+      "id": "Funeral potatoes",
+      "ja": "フューネラル・ポテト"
+    }
+  },
+  {
+    "id": "r-us-w-alaskan-king-crab",
+    "slug": "cangrejo-real-alaska",
+    "names": {
+      "es": "Cangrejo real de Alaska",
+      "en": "Alaskan king crab",
+      "zh": "阿拉斯加帝王蟹",
+      "hi": "अलास्का किंग क्रैब",
+      "fr": "Cangrejo real de Alaska",
+      "ar": "سلطعون ملك ألاسكا",
+      "bn": "আলাস্কার কিং ক্র্যাব",
+      "pt": "Cangrejo real de Alaska",
+      "ru": "Cangrejo real de Alaska",
+      "ur": "الاسکا کا کنگ کریب",
+      "id": "Cangrejo real de Alaska",
+      "ja": "アラスカのタラバガニ"
+    }
+  },
+  {
+    "id": "r-it-pasta-carbonara",
+    "slug": "pasta-carbonara",
+    "names": {
+      "es": "Pasta carbonara",
+      "en": "Pasta carbonara",
+      "zh": "卡邦尼意面",
+      "hi": "पास्ता कार्बोनारा",
+      "fr": "Pasta carbonara",
+      "ar": "معكرونة كاربونارا",
+      "bn": "পাস্তা কার্বোনারা",
+      "pt": "Pasta carbonara",
+      "ru": "Pasta carbonara",
+      "ur": "پاستا کاربونارا",
+      "id": "Pasta carbonara",
+      "ja": "パスタ・カルボナーラ"
+    }
+  },
+  {
+    "id": "r-it-pizza-napoletana",
+    "slug": "pizza-napoletana",
+    "names": {
+      "es": "Pizza napolitana con mozzarella de búfala",
+      "en": "Neapolitan-style buffalo mozzarella pizza",
+      "zh": "那不勒斯水牛马苏里拉披萨",
+      "hi": "नेपोलिटन शैली का भैंस के दूध के मोज़रेला वाला पिज़्ज़ा",
+      "fr": "Pizza napolitana con mozzarella de búfala",
+      "ar": "بيتزا موزاريلا الجاموس على الطريقة النابولية",
+      "bn": "নেপলস ধাঁচের মহিষের মোৎসারেলার পিৎজা",
+      "pt": "Pizza napolitana con mozzarella de búfala",
+      "ru": "Pizza napolitana con mozzarella de búfala",
+      "ur": "نیپولیٹن طرز کا بھینس کے دودھ کے موزریلا کا پیزا",
+      "id": "Pizza napolitana con mozzarella de búfala",
+      "ja": "ナポリ風水牛モッツァレラのピッツァ"
+    }
+  },
+  {
+    "id": "r-it-risotto-milanese",
+    "slug": "risotto-alla-milanese",
+    "names": {
+      "es": "Risotto a la milanesa",
+      "en": "Risotto alla milanese",
+      "zh": "米兰藏红花烩饭",
+      "hi": "रिज़ोत्तो अल्ला मिलानेज़े",
+      "fr": "Risotto a la milanesa",
+      "ar": "ريزوتو آلا ميلانيزي",
+      "bn": "রিসোত্তো আল্লা মিলানেসে",
+      "pt": "Risotto a la milanesa",
+      "ru": "Risotto a la milanesa",
+      "ur": "ریزوتو آلا میلانیسے",
+      "id": "Risotto a la milanesa",
+      "ja": "リゾット・アッラ・ミラネーゼ"
+    }
+  },
+  {
+    "id": "r-fr-coq-au-vin",
+    "slug": "coq-au-vin",
+    "names": {
+      "es": "Coq au Vin",
+      "en": "Coq au vin",
+      "zh": "红酒炖鸡",
+      "hi": "कोक ओ वैं",
+      "fr": "Coq au Vin",
+      "ar": "كوك أو فان",
+      "bn": "কক ও ভ্যাঁ",
+      "pt": "Coq au Vin",
+      "ru": "Coq au Vin",
+      "ur": "کوک او وین",
+      "id": "Coq au Vin",
+      "ja": "コック・オー・ヴァン"
+    }
+  },
+  {
+    "id": "r-fr-bouillabaisse",
+    "slug": "bouillabaisse",
+    "names": {
+      "es": "Bouillabaisse",
+      "en": "Bouillabaisse",
+      "zh": "马赛鱼汤",
+      "hi": "बूयाबेस",
+      "fr": "Bouillabaisse",
+      "ar": "بويابيس",
+      "bn": "বুইয়াবেস",
+      "pt": "Bouillabaisse",
+      "ru": "Bouillabaisse",
+      "ur": "بویابیس",
+      "id": "Bouillabaisse",
+      "ja": "ブイヤベース"
+    }
+  },
+  {
+    "id": "r-es-paella-valenciana",
+    "slug": "paella-valenciana",
+    "names": {
+      "es": "Paella valenciana",
+      "en": "Valencian paella",
+      "zh": "瓦伦西亚烩饭",
+      "hi": "वेलेंसिया की पाएया",
+      "fr": "Paella valenciana",
+      "ar": "باييّا فالنسية",
+      "bn": "ভালেন্সিয়ার পায়েয়া",
+      "pt": "Paella valenciana",
+      "ru": "Paella valenciana",
+      "ur": "والینسیا کی پائییا",
+      "id": "Paella valenciana",
+      "ja": "バレンシアのパエリア"
+    }
+  },
+  {
+    "id": "r-es-gazpacho",
+    "slug": "gazpacho-andaluz",
+    "names": {
+      "es": "Gazpacho andaluz",
+      "en": "Andalusian gazpacho",
+      "zh": "安达卢西亚冷蔬菜汤",
+      "hi": "अंदालूसी गज़पाचो",
+      "fr": "Gazpacho andaluz",
+      "ar": "غاسباتشو أندلسي",
+      "bn": "আন্দালুসিয়ার গাসপাচো",
+      "pt": "Gazpacho andaluz",
+      "ru": "Gazpacho andaluz",
+      "ur": "اندلسی گازپاچو",
+      "id": "Gazpacho andaluz",
+      "ja": "アンダルシアのガスパチョ"
+    }
+  },
+  {
+    "id": "r-de-sauerbraten",
+    "slug": "sauerbraten",
+    "names": {
+      "es": "Sauerbraten",
+      "en": "Sauerbraten",
+      "zh": "德国酸腌炖牛肉",
+      "hi": "ज़ाउअरब्राटेन",
+      "fr": "Sauerbraten",
+      "ar": "زاوربراتن",
+      "bn": "সাওয়ারব্রাটেন",
+      "pt": "Sauerbraten",
+      "ru": "Sauerbraten",
+      "ur": "زاؤربراٹن",
+      "id": "Sauerbraten",
+      "ja": "ザウアーブラーテン"
+    }
+  },
+  {
+    "id": "r-gr-moussaka",
+    "slug": "moussaka",
+    "names": {
+      "es": "Moussaka",
+      "en": "Moussaka",
+      "zh": "希腊茄子羊肉焗菜（Moussaka）",
+      "hi": "मूसाका",
+      "fr": "Moussaka",
+      "ar": "موساكا",
+      "bn": "মুসাকা",
+      "pt": "Moussaka",
+      "ru": "Moussaka",
+      "ur": "موساکا",
+      "id": "Moussaka",
+      "ja": "ムサカ"
+    }
+  },
+  {
+    "id": "r-pt-bacalhau",
+    "slug": "bacalhau-a-bras",
+    "names": {
+      "es": "Bacalhau à Brás",
+      "en": "Bacalhau à Brás",
+      "zh": "葡式鳕鱼薯丝炒蛋（Bacalhau à Brás）",
+      "hi": "बाकाल्याउ आ ब्रास",
+      "fr": "Bacalhau à Brás",
+      "ar": "باكالاو آ براش",
+      "bn": "বাকালিয়াউ আ ব্রাশ",
+      "pt": "Bacalhau à Brás",
+      "ru": "Bacalhau à Brás",
+      "ur": "باکالیاؤ آ براش",
+      "id": "Bacalhau à Brás",
+      "ja": "バカリャウ・ア・ブラス"
+    }
+  },
+  {
+    "id": "r-it-tiramisu",
+    "slug": "tiramisu-con-marsala",
+    "names": {
+      "es": "Tiramisú con Marsala",
+      "en": "Tiramisu with optional Marsala",
+      "zh": "提拉米苏（可加马萨拉酒）",
+      "hi": "वैकल्पिक मार्साला वाला तिरामिसू",
+      "fr": "Tiramisú con Marsala",
+      "ar": "تيراميسو بمارسالا اختياري",
+      "bn": "ঐচ্ছিক মারসালাসহ তিরামিসু",
+      "pt": "Tiramisú con Marsala",
+      "ru": "Tiramisú con Marsala",
+      "ur": "اختیاری مارسالا کے ساتھ تیرامیسو",
+      "id": "Tiramisú con Marsala",
+      "ja": "好みでマルサラを加えるティラミス"
+    }
+  },
+  {
+    "id": "r-it-osso-buco",
+    "slug": "osso-buco",
+    "names": {
+      "es": "Ossobuco a la milanesa",
+      "en": "Ossobuco alla milanese",
+      "zh": "米兰炖小牛膝",
+      "hi": "ओसोबूको अल्ला मिलानेज़े",
+      "fr": "Ossobuco a la milanesa",
+      "ar": "أوسوبوكو آلا ميلانيزي",
+      "bn": "ওসোবুকো আল্লা মিলানেসে",
+      "pt": "Ossobuco a la milanesa",
+      "ru": "Ossobuco a la milanesa",
+      "ur": "اوسوبوکو آلا میلانیسے",
+      "id": "Ossobuco a la milanesa",
+      "ja": "オッソブーコ・アッラ・ミラネーゼ"
+    }
+  },
+  {
+    "id": "r-fr-ratatouille",
+    "slug": "ratatouille",
+    "names": {
+      "es": "Ratatouille",
+      "en": "Ratatouille",
+      "zh": "普罗旺斯炖蔬菜",
+      "hi": "रातातूई",
+      "fr": "Ratatouille",
+      "ar": "راتاتوي",
+      "bn": "রাতাতুই",
+      "pt": "Ratatouille",
+      "ru": "Ratatouille",
+      "ur": "راتاتوی",
+      "id": "Ratatouille",
+      "ja": "ラタトゥイユ"
+    }
+  },
+  {
+    "id": "r-fr-crêpes",
+    "slug": "crepes-suzette",
+    "names": {
+      "es": "Crêpes Suzette",
+      "en": "Crêpes Suzette",
+      "zh": "苏泽特橙香可丽饼（Crêpes Suzette）",
+      "hi": "क्रेप सुज़ेत",
+      "fr": "Crêpes Suzette",
+      "ar": "كريب سوزيت",
+      "bn": "ক্রেপ সুজেত",
+      "pt": "Crêpes Suzette",
+      "ru": "Crêpes Suzette",
+      "ur": "کریپ سوزیت",
+      "id": "Crêpes Suzette",
+      "ja": "クレープ・シュゼット"
+    }
+  },
+  {
+    "id": "r-es-tortilla",
+    "slug": "tortilla-espanola",
+    "names": {
+      "es": "Tortilla española de papa",
+      "en": "Spanish potato tortilla",
+      "zh": "西班牙土豆蛋饼",
+      "hi": "स्पेनी आलू टॉर्टिया",
+      "fr": "Tortilla española de papa",
+      "ar": "تورتيلا البطاطس الإسبانية",
+      "bn": "স্প্যানিশ আলুর তোর্তিয়া",
+      "pt": "Tortilla española de papa",
+      "ru": "Tortilla española de papa",
+      "ur": "ہسپانوی آلو ٹورٹیلا",
+      "id": "Tortilla española de papa",
+      "ja": "スペインのじゃがいもトルティージャ"
+    }
+  },
+  {
+    "id": "r-es-pulpo-gallego",
+    "slug": "pulpo-a-la-gallega",
+    "names": {
+      "es": "Pulpo a la gallega",
+      "en": "Galician-style octopus",
+      "zh": "加利西亚风味章鱼",
+      "hi": "गालिसिया शैली का ऑक्टोपस",
+      "fr": "Pulpo a la gallega",
+      "ar": "أخطبوط على طريقة غاليسيا",
+      "bn": "গালিসিয়া ধাঁচের অক্টোপাস",
+      "pt": "Pulpo a la gallega",
+      "ru": "Pulpo a la gallega",
+      "ur": "گالیسیا طرز کا آکٹوپس",
+      "id": "Pulpo a la gallega",
+      "ja": "ガリシア風たこ"
+    }
+  },
+  {
+    "id": "r-de-schnitzel",
+    "slug": "wiener-schnitzel",
+    "names": {
+      "es": "Wiener Schnitzel",
+      "en": "Wiener Schnitzel",
+      "zh": "维也纳炸小牛排",
+      "hi": "वीनर श्नित्सेल",
+      "fr": "Wiener Schnitzel",
+      "ar": "شنيتسل فيينا",
+      "bn": "ভিয়েনার শ্নিৎসেল",
+      "pt": "Wiener Schnitzel",
+      "ru": "Wiener Schnitzel",
+      "ur": "وینر شنٹزل",
+      "id": "Wiener Schnitzel",
+      "ja": "ウィーナー・シュニッツェル"
+    }
+  },
+  {
+    "id": "r-de-spaetzle",
+    "slug": "kasespatzle",
+    "names": {
+      "es": "Käsespätzle",
+      "en": "Käsespätzle",
+      "zh": "奶酪施佩茨勒面",
+      "hi": "केज़ेश्पेत्स्ले",
+      "fr": "Käsespätzle",
+      "ar": "كيزه شبيتسله",
+      "bn": "কেজেশ্পেৎসলে",
+      "pt": "Käsespätzle",
+      "ru": "Käsespätzle",
+      "ur": "کیزے شپیتسلے",
+      "id": "Käsespätzle",
+      "ja": "ケーゼシュペッツレ"
+    }
+  },
+  {
+    "id": "r-gr-souvlaki",
+    "slug": "souvlaki",
+    "names": {
+      "es": "Souvlaki",
+      "en": "Chicken souvlaki",
+      "zh": "希腊柠檬鸡肉串",
+      "hi": "चिकन सूवलाकी",
+      "fr": "Souvlaki",
+      "ar": "سوفلاكي الدجاج",
+      "bn": "মুরগির সুভলাকি",
+      "pt": "Souvlaki",
+      "ru": "Souvlaki",
+      "ur": "مرغی سوولاکی",
+      "id": "Souvlaki",
+      "ja": "鶏肉のスブラキ"
+    }
+  },
+  {
+    "id": "r-pt-pasteis",
+    "slug": "pasteis-de-nata",
+    "names": {
+      "es": "Pastéis de nata",
+      "en": "Pastéis de nata",
+      "zh": "葡式蛋挞",
+      "hi": "पाश्तेइश दे नाता",
+      "fr": "Pastéis de nata",
+      "ar": "باستيش دي ناتا",
+      "bn": "পাশ্তেইশ দে নাতা",
+      "pt": "Pastéis de nata",
+      "ru": "Pastéis de nata",
+      "ur": "پاستیش دے ناتا",
+      "id": "Pastéis de nata",
+      "ja": "パステイス・デ・ナタ"
+    }
+  }
+]
