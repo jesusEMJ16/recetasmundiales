@@ -20,6 +20,7 @@ import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
 import { placeHref, placeHrefFromSlugs } from "../../../../i18n/routing";
 import { translatePlaceName } from "../../../../i18n/content";
+import { translateRecipe } from "../../../../i18n/recipe-content";
 import { placePathSlugs } from "../../../../domain/places";
 
 const VALID_SORTS: SortKey[] = ["estrellas", "recientes", "populares", "rapidas", "alfabetico"];
@@ -112,7 +113,9 @@ export default async function PlacePage({
     dieta: sp.dieta as Diet | undefined,
     maxTiempo: sp.tiempo ? Number(sp.tiempo) : undefined,
   });
-  const recipes = sortRecipes(filtered, sort);
+  const recipes = sort === "alfabetico"
+    ? [...filtered].sort((a, b) => translateRecipe(a, locale).dishName.localeCompare(translateRecipe(b, locale).dishName, locale))
+    : sortRecipes(filtered, sort);
 
   const breadcrumb = getBreadcrumb(place, PLACES);
   const children = getChildren(place.id, PLACES);

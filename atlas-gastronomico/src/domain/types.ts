@@ -75,6 +75,9 @@ export interface Recipe {
   prepTimeMin: number;
   cookTimeMin: number;
   totalTimeMin: number;
+  restTimeMin?: number; // Additional marinating, chilling or resting time
+  tips?: string[];
+  updatedAt?: string;
   difficulty: "facil" | "media" | "dificil";
   moment: Moment;
   diet: Diet[];

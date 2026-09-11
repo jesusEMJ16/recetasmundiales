@@ -4,7 +4,7 @@ import type { Locale } from "../i18n/config";
 import { getDictionary } from "../i18n/dictionaries";
 import { recipeHref } from "../i18n/routing";
 import { getRecipeImage } from "../data/recipe-images";
-import { translateRecipe } from "../i18n/content";
+import { translateRecipe, recipeContentLocale } from "../i18n/recipe-content";
 import { FoodPhoto } from "./FoodPhoto";
 import { StarRating } from "./StarRating";
 
@@ -43,7 +43,7 @@ export function RecipeCard({ recipe, locale, index = 0 }: { recipe: Recipe; loca
         </span>
       </div>
 
-      <div className="recipe-copy flex flex-1 flex-col">
+      <div lang={recipeContentLocale(locale)} dir="ltr" className="recipe-copy flex flex-1 flex-col">
         <h3 className="font-display text-lg leading-snug text-ink transition-colors group-hover:text-terracota">
           {recipe.dishName}
         </h3>

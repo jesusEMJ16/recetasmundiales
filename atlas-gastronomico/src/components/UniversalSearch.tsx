@@ -4,11 +4,11 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Search, MapPin, Utensils, X } from "lucide-react";
 import { PLACES } from "../data/places";
-import { RECIPES } from "../data/recipes";
+import recipeSearch from "../data/recipe-search.json";
 import { useLocale } from "../i18n/useLocale";
 import { getDictionary } from "../i18n/dictionaries";
 import { recipeHref, placeHref } from "../i18n/routing";
-import { translatePlaceName, translateRecipe } from "../i18n/content";
+import { translatePlaceName } from "../i18n/content";
 
 type Hit = { key: string; label: string; sub: string; href: string; place: boolean };
 const normalize = (s: string) => s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -28,7 +28,7 @@ export function UniversalSearch() {
     const places = PLACES.map(p => ({ p, label: translatePlaceName(p, locale) }))
       .filter(({ p, label }) => normalize(p.name).includes(term) || normalize(label).includes(term)).slice(0, 5)
       .map(({ p, label }) => ({ key: `p-${p.id}`, label, sub: t.place.kind[p.type], place: true, href: placeHref(locale, p) }));
-    const recipes = RECIPES.map(r => ({ r, label: translateRecipe(r, locale).dishName }))
+    const recipes = recipeSearch.map(r => ({ r, label: locale === "en" ? r.en : r.dishName }))
       .filter(({ r, label }) => normalize(r.dishName).includes(term) || normalize(label).includes(term)).slice(0, 6)
       .map(({ r, label }) => ({ key: `r-${r.id}`, label, sub: t.search.recipe, place: false, href: recipeHref(locale, r.slug) }));
     return [...places, ...recipes];

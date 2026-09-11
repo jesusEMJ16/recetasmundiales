@@ -49,7 +49,8 @@ describe("getRecipesForPlace", () => {
     const rows = getRecipesForPlace("mx-jal", PLACES, RECIPES);
     const ids = rows.map((r) => r.id);
     expect(ids).toContain("r-birria");
-    expect(ids).toContain("r-tacos-pastor");
+    expect(ids).toContain("r-pm-c-cantaritos"); // Tequila is a descendant of Jalisco
+    expect(ids).not.toContain("r-tacos-pastor"); // corrected association: Mexico City
     // every recipe belongs to the Jalisco subtree (the state or one of its sub-places)
     expect(rows.every((r) => r.placeId === "mx-jal" || r.placeId.startsWith("mx-jal-"))).toBe(true);
   });
