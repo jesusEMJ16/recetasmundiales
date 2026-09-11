@@ -13,7 +13,7 @@ import { getDictionary } from "../../i18n/dictionaries";
 import { placeHref } from "../../i18n/routing";
 import { translatePlaceName } from "../../i18n/content";
 
-const ALL_COUNTRIES = PLACES.filter(p => p.type === "pais");
+const ALL_COUNTRIES = PLACES.filter(p => p.type === "pais" && DESTINATION_PHOTOS[p.countryCode]);
 export function generateStaticParams() { return locales.map(locale => ({ locale })); }
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {

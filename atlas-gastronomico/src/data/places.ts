@@ -1,10 +1,11 @@
+import WORLD_PLACES from "./places-world.json";
 import type { Place } from "../domain/types";
 import { SUBPLACES_MX_NORTE } from "./places-mx-pueblos-norte";
 import { SUBPLACES_MX_CENTRO } from "./places-mx-pueblos-centro";
 import { SUBPLACES_MX_SUR } from "./places-mx-pueblos-sur";
 import { US_STATES } from "./places-us-states";
 
-export const PLACES: Place[] = [
+const CURATED_PLACES: Place[] = [
   // ── México (país) ──
   { id: "mx", type: "pais", name: "México", slug: "mexico", parentId: null, countryCode: "MX", lat: 23.63, lng: -102.55 },
 
@@ -122,3 +123,6 @@ export const PLACES: Place[] = [
   // Estados de EE.UU. (los 48 restantes; Luisiana y Texas ya están arriba)
   ...US_STATES,
 ];
+
+// Global administrative catalog extends existing IDs; recipe origins stay intact.
+export const PLACES: Place[] = [...CURATED_PLACES, ...WORLD_PLACES as Place[]];

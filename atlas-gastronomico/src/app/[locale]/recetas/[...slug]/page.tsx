@@ -7,6 +7,7 @@ import { RECIPES } from "../../../../data/recipes";
 import {
   resolvePlacePath, getChildren, getBreadcrumb, getRecipesForPlace,
 } from "../../../../domain/places";
+import { buildRecipeCounts } from "../../../../domain/atlas";
 import { sortRecipes } from "../../../../domain/sorting";
 import { filterRecipes } from "../../../../domain/filtering";
 import type { Diet, Moment, SortKey } from "../../../../domain/types";
@@ -24,8 +25,9 @@ import { placePathSlugs } from "../../../../domain/places";
 const VALID_SORTS: SortKey[] = ["estrellas", "recientes", "populares", "rapidas", "alfabetico"];
 
 export function generateStaticParams() {
+  const counts = buildRecipeCounts(PLACES, RECIPES);
   return locales.flatMap((locale) =>
-    PLACES.map((p) => ({ locale, slug: placePathSlugs(p, PLACES) })),
+    PLACES.filter(p => p.type === "pais" || (counts.get(p.id) ?? 0) > 0).map((p) => ({ locale, slug: placePathSlugs(p, PLACES) })),
   );
 }
 
@@ -205,7 +207,13 @@ export default async function PlacePage({
           </Suspense>
         </div>
 
-        <RecipeList recipes={recipes} locale={locale} />
+        {allHere.length === 0 ? (
+          <div className="rounded-2xl border border-line bg-card p-8 text-center">
+            <h2 className="text-2xl">{locale === "es" ? "Todavía no hay recetas publicadas aquí" : "No recipes have been published here yet"}</h2>
+            <p className="mt-3 text-ink-soft">{t.place.title(translatePlaceName(place, locale))} · {t.place.recipes(0)}</p>
+            <Link href={`/${locale}`} className="mt-5 inline-block font-semibold text-agave-deep">{t.home.mapTitle} →</Link>
+          </div>
+        ) : <RecipeList recipes={recipes} locale={locale} />}
       </section>
     </div>
   );
