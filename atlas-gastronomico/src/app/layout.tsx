@@ -41,8 +41,9 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang={localeMeta[defaultLocale].htmlLang} className={`${fraunces.variable} ${dmSans.variable}`}>
+    <html suppressHydrationWarning lang={localeMeta[defaultLocale].htmlLang} className={`${fraunces.variable} ${dmSans.variable}`}>
       <head>
+        <script id="theme-init" dangerouslySetInnerHTML={{ __html: `(function(){try{var t=localStorage.getItem('theme');document.documentElement.classList.toggle('dark',t==='dark'||(t!=='light'&&matchMedia('(prefers-color-scheme: dark)').matches));}catch(e){document.documentElement.classList.toggle('dark',matchMedia('(prefers-color-scheme: dark)').matches);}})();` }} />
         {/* Google tag (gtag.js) - Google Analytics 4 */}
         <Script
           strategy="afterInteractive"

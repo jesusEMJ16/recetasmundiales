@@ -34,29 +34,31 @@ export function LocaleSwitcher() {
           e.stopPropagation();
           setIsOpen(!isOpen);
         }}
-        className="flex items-center gap-1.5 rounded-lg border border-line bg-card px-3 py-1.5 text-xs font-semibold text-ink transition-colors hover:border-terracota hover:text-terracota"
-        aria-label="Cambiar idioma"
+        className="flex min-h-11 items-center gap-1.5 rounded-xl border border-line bg-card px-3 py-2 text-sm font-semibold text-ink transition-colors hover:border-terracota hover:text-terracota"
+        aria-label="Cambiar idioma / Change language"
+        onKeyDown={(e) => { if (e.key === "Escape") setIsOpen(false); }}
         aria-expanded={isOpen}
       >
-        <span className="text-base">{localeMeta[current].flag}</span>
+
         <span>{current.toUpperCase()}</span>
         <svg className={`h-4 w-4 transition-transform ${isOpen ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
         </svg>
       </button>
-      
+
       {isOpen && (
-        <div 
+        <div
           className="absolute right-0 mt-2 w-48 origin-top-right rounded-xl border border-line bg-card py-2 shadow-[var(--shadow-lg)] backdrop-blur-sm z-50"
           onClick={(e) => e.stopPropagation()}
+          onKeyDown={(e) => { if (e.key === "Escape") { setIsOpen(false); (e.currentTarget.previousElementSibling as HTMLButtonElement)?.focus(); } }}
         >
           {locales.map((loc) => (
             <Link
               key={loc}
               href={hrefFor(loc)}
               className={`flex items-center gap-3 px-4 py-2.5 text-sm transition-colors ${
-                loc === current 
-                  ? "bg-terracota/10 text-terracota font-semibold" 
+                loc === current
+                  ? "bg-terracota/10 text-terracota font-semibold"
                   : "text-ink-soft hover:bg-card-hover hover:text-ink"
               }`}
               onClick={() => setIsOpen(false)}

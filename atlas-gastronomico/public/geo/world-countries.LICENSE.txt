@@ -1,0 +1,6 @@
+Natural Earth — Admin 0 countries, 1:110m, public domain.
+Source: https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson
+Terms: https://www.naturalearthdata.com/about/terms-of-use/
+Downloaded 2026-09-11. Geometry preserved; Antarctica omitted for the culinary
+atlas viewport. Properties reduced to country code and name for transfer size.
+Boundaries are a small-scale geographic reference, not a statement of sovereignty.
