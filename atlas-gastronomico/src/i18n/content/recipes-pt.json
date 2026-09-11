@@ -1,0 +1,1694 @@
+{
+  "r-tlayudas": {
+    "dishName": "Tlayudas de Oaxaca",
+    "summary": "Uma tortilla grande e crocante com feijão, quesillo, tasajo grelhado, alface e abacate.",
+    "history": "Especialidade dos vales centrais de Oaxaca, frequentemente vendida em mercados e barracas de rua à noite.",
+    "ingredients": [
+      "4 tlayudas grandes",
+      "240 g de feijão-preto cozido, amassado e refogado",
+      "200 g de quesillo desfiado",
+      "200 g de tasajo bovino",
+      "2 colheres de sopa de asiento de porco, opcional",
+      "100 g de alface lavada e picada",
+      "1 abacate fatiado",
+      "120 ml de salsa mexicana"
+    ],
+    "steps": [
+      "Aqueça um comal em fogo médio. Espalhe uma camada fina de asiento, se usar, e de feijão sobre cada tlayuda.",
+      "Acrescente o quesillo e aqueça até a base ficar crocante e o queijo derreter, sem queimar a tortilla.",
+      "Grelhe o tasajo separadamente até o centro atingir 63 °C; deixe descansar 3 minutos e corte em tiras.",
+      "Acrescente a carne, a alface e o abacate. Coloque a salsa com uma colher, dobre e sirva imediatamente."
+    ],
+    "tips": [
+      "Use uma camada fina de feijão para manter a tortilla crocante."
+    ],
+    "sources": [
+      "Cocina tradicional oaxaqueña, notas de mercado 20 de Noviembre",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mole-negro": {
+    "dishName": "Mole negro",
+    "summary": "Versão caseira do molho de Oaxaca feito com pimentas secas, sementes, oleaginosas e chocolate, de cor escura e textura sedosa.",
+    "history": "O mole negro faz parte da culinária festiva de Oaxaca. Ingredientes e técnicas variam entre famílias e comunidades; esta versão tem uma lista de ingredientes mais curta para o preparo doméstico.",
+    "ingredients": [
+      "3 pimentas chilhuacle negras, 2 mulato e 2 pasilla, sem cabos nem sementes",
+      "60 g de chocolate mexicano para bebida",
+      "30 g de gergelim",
+      "30 g de amêndoas e 30 g de amendoim sem sal",
+      "1 banana-da-terra madura, fatiada",
+      "1 fatia de pão torrado",
+      "2 tomates assados",
+      "1/2 cebola e 2 dentes de alho, assados",
+      "1/2 colher de chá de canela, 2 cravos-da-índia e 4 grãos de pimenta-do-reino",
+      "1 litro de caldo de frango, mais um pouco se necessário",
+      "3 colheres de sopa de banha de porco",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Toste brevemente os dois lados das pimentas, sem queimar. Deixe de molho em água quente por 20 minutos e escorra.",
+      "Aqueça a banha em uma caçarola. Doure separadamente o gergelim, as oleaginosas e a banana-da-terra, retirando cada ingrediente antes que queime.",
+      "Bata as pimentas, os tomates, a cebola, o alho, o pão, as especiarias e os ingredientes dourados em etapas, com um pouco de caldo, até obter uma pasta fina.",
+      "Frite a pasta em fogo médio-baixo por 10 minutos, mexendo sem parar. Acrescente o restante do caldo e o chocolate.",
+      "Cozinhe em fervura branda por 60-90 minutos, mexendo frequentemente. Junte caldo se engrossar demais e ajuste o sal. O molho deve cobrir as costas de uma colher."
+    ],
+    "tips": [
+      "Acrescente o chocolate aos poucos e prove: algumas barras contêm muito açúcar."
+    ],
+    "sources": [
+      "Recetario familiar de los Valles Centrales"
+    ]
+  },
+  "r-chiles-nogada": {
+    "dishName": "Chiles en nogada",
+    "summary": "Pimentas poblanas recheadas com carne e frutas, cobertas com molho de nozes e romã.",
+    "history": "Associado a Puebla e às celebrações de setembro, o prato combina frutas da estação com um molho cremoso de nozes.",
+    "ingredients": [
+      "4 pimentas poblanas grandes",
+      "400 g de carne bovina e suína moídas, misturadas",
+      "2 tomates picados",
+      "1/2 cebola picada e 1 dente de alho",
+      "1 maçã e 1 pera em cubinhos",
+      "30 g de uvas-passas e 30 g de amêndoas picadas",
+      "2 colheres de sopa de óleo",
+      "150 g de nozes sem pele",
+      "80 g de queijo de cabra",
+      "150 ml de leite",
+      "1/2 colher de chá de canela, sal e pimenta-do-reino",
+      "Sementes de 1 romã e 2 colheres de sopa de salsinha picada"
+    ],
+    "steps": [
+      "Asse as pimentas até a pele formar bolhas. Tampe por 10 minutos, retire a pele com cuidado e faça uma abertura lateral para tirar as sementes.",
+      "Refogue a cebola e o alho no óleo. Acrescente a carne e desfaça os grumos; depois junte tomates, frutas, passas, amêndoas e canela.",
+      "Cozinhe o recheio por 20-25 minutos, até o líquido reduzir e a carne atingir 71 °C. Tempere.",
+      "Bata as nozes, o queijo e o leite até obter um molho cremoso, acrescentando o leite aos poucos para controlar a consistência.",
+      "Recheie as pimentas, cubra com o molho de nozes e decore com romã e salsinha. Sirva imediatamente; mantenha o molho refrigerado se for preparado antes."
+    ],
+    "tips": [
+      "Escorra o recheio antes de colocá-lo nas pimentas para não diluir o molho de nozes."
+    ],
+    "sources": [
+      "Tradición poblana de temporada",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-birria": {
+    "dishName": "Birria de carne bovina",
+    "summary": "Carne bovina cozida lentamente em uma marinada de pimentas secas e servida com caldo e tortillas.",
+    "history": "Associada a Jalisco, a birria tem muitas versões regionais e familiares, incluindo preparos de carne bovina servidos em tacos.",
+    "ingredients": [
+      "1.5 kg de carne bovina para ensopado, em pedaços",
+      "5 pimentas guajillo e 2 ancho, sem sementes",
+      "4 dentes de alho",
+      "1 colher de chá de cominho em pó e 1 colher de chá de orégano seco",
+      "3 colheres de sopa de vinagre",
+      "2 folhas de louro",
+      "1.5 litros de água ou caldo de carne",
+      "1 cebola, metade para o cozimento e metade picada para servir",
+      "12 tortillas de milho",
+      "3 colheres de sopa de coentro picado",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Toste levemente as pimentas e deixe de molho por 15 minutos. Bata com alho, cominho, orégano, vinagre e 250 ml da água; coe.",
+      "Envolva a carne na marinada e deixe tampada na geladeira por 1 hora.",
+      "Coloque em uma panela com o louro, metade da cebola e o restante da água ou caldo. Ferva, tampe e cozinhe em fervura branda por cerca de 3 horas, até desfiar facilmente.",
+      "Desfie a carne e ajuste o tempero do caldo. Sirva em tortillas quentes com cebola, coentro e o caldo à parte."
+    ],
+    "tips": [
+      "A carne está pronta quando se desfaz com um garfo; se ainda estiver firme, continue cozinhando em fervura branda."
+    ],
+    "sources": [
+      "Cocina tapatía"
+    ]
+  },
+  "r-gumbo": {
+    "dishName": "Gumbo de frango e andouille",
+    "summary": "Ensopado da Louisiana com frango, andouille e legumes, engrossado com um roux escuro de farinha e óleo.",
+    "history": "O gumbo é um prato emblemático da Louisiana, formado pelas tradições culinárias africanas, francesas e crioulas.",
+    "ingredients": [
+      "80 g de farinha de trigo",
+      "80 ml de óleo vegetal",
+      "300 g de linguiça andouille fatiada",
+      "500 g de frango sem osso, em pedaços",
+      "1 cebola, 2 talos de salsão e 1 pimentão verde, picados",
+      "2 dentes de alho picados",
+      "1.5 litros de caldo de frango",
+      "1 folha de louro e 1 colher de chá de tomilho",
+      "1 colher de chá de tempero cajun",
+      "600 g de arroz branco cozido",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Aqueça o óleo em uma panela de fundo grosso e acrescente a farinha. Mexa em fogo médio-baixo por 20-30 minutos, até ficar marrom-chocolate; recomece se queimar.",
+      "Acrescente com cuidado cebola, salsão e pimentão. Cozinhe por 8 minutos; junte alho e linguiça e mexa por 2 minutos.",
+      "Incorpore o caldo aos poucos. Acrescente frango, louro, tomilho e tempero cajun.",
+      "Cozinhe em fervura branda por 40-50 minutos, até o frango ficar macio e atingir 74 °C. Retire o louro e ajuste o sal.",
+      "Sirva o gumbo em tigelas com o arroz cozido."
+    ],
+    "tips": [
+      "Mexa o roux continuamente e não saia de perto da panela: ele pode passar de tostado a queimado rapidamente."
+    ],
+    "sources": [
+      "Cocina cajún y criolla de Luisiana",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-brisket": {
+    "dishName": "Peito bovino defumado à moda do Texas",
+    "summary": "Peito bovino defumado lentamente, com crosta de sal e pimenta-do-reino.",
+    "history": "O peito bovino é central no churrasco texano, em que o cozimento longo em calor suave desenvolve sua maciez.",
+    "ingredients": [
+      "3 kg de peito bovino",
+      "25 g de sal grosso",
+      "20 g de pimenta-do-reino moída grossa"
+    ],
+    "steps": [
+      "Prepare o defumador a 110-120 °C com madeira própria para cozinhar. Retire o excesso de gordura, deixando uma camada fina.",
+      "Cubra a carne com sal e pimenta. Defume em calor indireto até formar uma crosta e o centro se aproximar de 70 °C.",
+      "Embrulhe em papel para defumação e continue até cerca de 93 °C, quando uma sonda entrar com pouca resistência. A espessura influencia o tempo; reserve cerca de 10 horas para cozinhar.",
+      "Deixe descansar embrulhado por 1 hora em condições de manutenção a quente; corte contra as fibras pouco antes de servir."
+    ],
+    "tips": [
+      "A temperatura é uma referência; a resistência à sonda e o descanso determinam a textura ao fatiar."
+    ],
+    "sources": [
+      "Tradición del BBQ de Texas Hill Country",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pizza": {
+    "dishName": "Pizza napolitana caseira",
+    "summary": "Massa fermentada coberta com tomate, muçarela e manjericão, adaptada para forno doméstico.",
+    "history": "A pizza napolitana é conhecida pela massa fermentada, borda aerada e calor intenso. Esta adaptação usa massa pronta e traz instruções para forno doméstico.",
+    "ingredients": [
+      "500 g de massa de pizza já fermentada",
+      "160 g de tomates triturados",
+      "150 g de muçarela fior di latte escorrida",
+      "8 folhas de manjericão",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal",
+      "Farinha para abrir a massa"
+    ],
+    "steps": [
+      "Preaqueça o forno com uma pedra de pizza ou assadeira pesada na temperatura máxima, cerca de 250-275 °C, por 30 minutos.",
+      "Divida a massa em duas bolas. Abra com as mãos em uma superfície levemente enfarinhada, mantendo a borda mais grossa.",
+      "Acrescente tomate, sal e muçarela bem escorrida. Asse cada pizza por 8-12 minutos, até a borda dourar e a base cozinhar.",
+      "Acrescente o manjericão e o azeite depois de assar. Em um forno próprio para pizza a 450 °C, o cozimento pode levar apenas 60-90 segundos."
+    ],
+    "tips": [
+      "Escorra muito bem a muçarela para evitar que o centro fique molhado."
+    ],
+    "sources": [
+      "Disciplinare de la pizza napolitana",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-cacio": {
+    "dishName": "Cacio e pepe",
+    "summary": "Massa romana com uma emulsão de pecorino e pimenta-do-reino.",
+    "history": "Um clássico romano feito de massa, queijo pecorino e pimenta-do-reino.",
+    "ingredients": [
+      "200 g de espaguete ou tonnarelli",
+      "100 g de pecorino romano ralado fino",
+      "1 colher de chá de pimenta-do-reino moída na hora",
+      "Sal para a água do cozimento"
+    ],
+    "steps": [
+      "Cozinhe a massa em água levemente salgada conforme a embalagem. Reserve 300 ml da água antes de escorrer.",
+      "Toste a pimenta em uma frigideira seca por 30 segundos. Acrescente 2 colheres de sopa da água da massa.",
+      "Em uma tigela, misture o queijo com um pouco da água morna da massa, formando um creme; água muito quente pode empelotar o queijo.",
+      "Coloque a massa na frigideira, desligue o fogo e incorpore o creme de queijo. Acrescente água às colheradas até ficar brilhante. Sirva imediatamente."
+    ],
+    "tips": [
+      "Acrescente o queijo fora do fogo e use água morna para evitar grumos."
+    ],
+    "sources": [
+      "Cocina tradicional romana"
+    ]
+  },
+  "r-okonomiyaki": {
+    "dishName": "Okonomiyaki",
+    "summary": "Panqueca salgada de repolho coberta com molho, maionese e flocos de bonito.",
+    "history": "Especialidade de comida de rua de Osaka cujo nome se refere a cozinhar o que você gosta na chapa.",
+    "ingredients": [
+      "250 g de repolho picado fino",
+      "100 g de farinha de trigo",
+      "2 ovos",
+      "100 ml de água",
+      "100 g de barriga de porco em fatias finas",
+      "1 colher de sopa de óleo",
+      "2 colheres de sopa de molho okonomi",
+      "2 colheres de sopa de maionese japonesa",
+      "5 g de flocos de bonito e 1 colher de chá de aonori"
+    ],
+    "steps": [
+      "Misture farinha, ovos e água. Incorpore o repolho sem compactá-lo.",
+      "Aqueça o óleo em uma frigideira em fogo médio. Forme duas panquecas grossas e coloque a barriga de porco por cima.",
+      "Cozinhe por 5 minutos, vire com uma espátula larga e tampe. Cozinhe mais 5-7 minutos, até o centro ficar firme e o porco estar cozido.",
+      "Vire novamente e verifique se não resta massa líquida. Cubra com molho, maionese, flocos de bonito e aonori."
+    ],
+    "tips": [
+      "Não pressione a panqueca com a espátula: o vapor ajuda a cozinhar o repolho por dentro."
+    ],
+    "sources": [
+      "Cocina de Osaka"
+    ]
+  },
+  "r-ramen": {
+    "dishName": "Lámen shoyu rápido",
+    "summary": "Lámen estilo shoyu com caldo de frango e dashi, porco cozido e ovo marinado. Versão rápida com caldo e coberturas prontos.",
+    "history": "O lámen shoyu ao estilo de Tóquio ajudou a popularizar o lámen no período pós-guerra.",
+    "ingredients": [
+      "200 g de macarrão para lámen",
+      "700 ml de caldo de frango pronto",
+      "300 ml de dashi pronto",
+      "3 colheres de sopa de shoyu",
+      "1 colher de sopa de mirin",
+      "150 g de chashu de porco já cozido",
+      "2 ovos marinados já cozidos",
+      "2 colheres de sopa de cebolinha picada"
+    ],
+    "steps": [
+      "Aqueça o caldo de frango e o dashi. Misture shoyu e mirin e acrescente aos poucos, verificando o sal.",
+      "Aqueça o chashu separadamente até ficar quente por inteiro. Mantenha os ovos refrigerados até servir.",
+      "Cozinhe o macarrão em outra panela conforme a embalagem; escorra sem deixá-lo parado.",
+      "Divida caldo e macarrão entre duas tigelas. Acrescente chashu, ovos cortados ao meio e cebolinha. Sirva imediatamente."
+    ],
+    "tips": [
+      "Cozinhe o macarrão por último e sirva imediatamente para que não absorva caldo demais."
+    ],
+    "sources": [
+      "Cocina de Tokio"
+    ]
+  },
+  "r-padthai": {
+    "dishName": "Pad thai vegetariano",
+    "summary": "Adaptação vegetariana do macarrão tailandês salteado, com tofu, ovo, tamarindo e amendoim.",
+    "history": "O pad thai combina macarrão de arroz com temperos doces, ácidos e salgados; esta versão caseira usa tofu e shoyu.",
+    "ingredients": [
+      "180 g de macarrão de arroz seco",
+      "150 g de tofu firme em cubos",
+      "2 ovos",
+      "2 colheres de sopa de pasta de tamarindo",
+      "1 colher de sopa de açúcar",
+      "2 colheres de sopa de shoyu",
+      "2 colheres de sopa de óleo",
+      "100 g de brotos de feijão lavados",
+      "3 cebolinhas em pedaços",
+      "30 g de amendoim torrado",
+      "1 limão cortado em gomos"
+    ],
+    "steps": [
+      "Deixe o macarrão de molho conforme a embalagem e escorra. Misture tamarindo, açúcar, shoyu e 3 colheres de sopa de água.",
+      "Aqueça o óleo e doure o tofu. Afaste para um lado, acrescente os ovos e mexa até firmarem.",
+      "Acrescente macarrão e molho. Salteie por 2-4 minutos, adicionando água às colheradas se necessário, até ficar macio.",
+      "Junte brotos e cebolinha e cozinhe até os brotos ficarem quentes. Sirva com amendoim e limão."
+    ],
+    "tips": [
+      "Meça e prepare tudo antes de aquecer a wok, pois o cozimento é rápido."
+    ],
+    "sources": [
+      "Cocina callejera de Bangkok"
+    ]
+  },
+  "r-khaosoi": {
+    "dishName": "Khao soi",
+    "summary": "Sopa de macarrão do norte da Tailândia com curry de coco, frango, macarrão crocante e picles.",
+    "history": "Associado a Chiang Mai e ao norte da Tailândia, o khao soi combina um caldo rico de curry com macarrão macio e crocante.",
+    "ingredients": [
+      "300 g de sobrecoxa de frango sem osso, em pedaços",
+      "2 colheres de sopa de pasta pronta de curry khao soi",
+      "400 ml de leite de coco",
+      "250 ml de caldo de frango",
+      "200 g de macarrão com ovos",
+      "2 colheres de sopa de óleo",
+      "60 g de folhas de mostarda em conserva",
+      "1/4 de cebola-roxa picada",
+      "1 limão em gomos",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Aqueça 1 colher de sopa de óleo e frite a pasta de curry por 1 minuto. Acrescente leite de coco e caldo.",
+      "Junte o frango e cozinhe em fervura branda por 20-25 minutos, até ficar macio e atingir 74 °C.",
+      "Cozinhe o macarrão conforme a embalagem. Escorra e reserve uma pequena parte; frite-a no óleo restante até ficar crocante.",
+      "Sirva o curry sobre o macarrão cozido e cubra com macarrão crocante, conservas, cebola e limão."
+    ],
+    "tips": [
+      "Prove a pasta de curry antes de acrescentar sal; a concentração varia entre marcas."
+    ],
+    "sources": [
+      "Cocina del norte de Tailandia",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-tacos-pastor": {
+    "dishName": "Tacos al pastor de frigideira",
+    "summary": "Fatias finas de porco marinado servidas em tortillas de milho com abacaxi, cebola e coentro.",
+    "history": "Os tacos al pastor estão fortemente associados à Cidade do México e à adaptação mexicana do assado em espeto vertical. Esta versão de frigideira preserva a marinada e o abacaxi para o preparo doméstico.",
+    "ingredients": [
+      "800 g de carne suína em fatias finas",
+      "4 pimentas guajillo sem sementes",
+      "30 g de pasta de achiote",
+      "2 dentes de alho",
+      "80 ml de suco de laranja",
+      "2 colheres de sopa de vinagre",
+      "1/2 colher de chá de cominho e 1 colher de chá de orégano",
+      "200 g de abacaxi fatiado",
+      "12 tortillas de milho",
+      "1/2 cebola picada e 3 colheres de sopa de coentro picado",
+      "1 colher de sopa de óleo e sal a gosto"
+    ],
+    "steps": [
+      "Deixe as pimentas de molho em água quente por 15 minutos. Bata com achiote, alho, suco de laranja, vinagre, cominho, orégano e sal.",
+      "Envolva o porco na marinada e deixe tampado na geladeira por 2 horas.",
+      "Aqueça o óleo e cozinhe a carne em levas sem amontoar, até dourar e atingir 63 °C; deixe descansar 3 minutos.",
+      "Doure o abacaxi separadamente, pique a carne e sirva em tortillas quentes com abacaxi, cebola e coentro."
+    ],
+    "tips": [
+      "Cozinhe o porco em pequenas levas para dourar sem acumular líquido na frigideira."
+    ],
+    "sources": [
+      "Taquerías del centro de México",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-tiramisu": {
+    "dishName": "Tiramisù",
+    "summary": "Camadas de biscoitos champanhe embebidos em café e creme de mascarpone, finalizadas com cacau.",
+    "history": "O tiramisù está associado a Treviso e ao nordeste da Itália. Existem diferentes reivindicações sobre sua criação.",
+    "ingredients": [
+      "200 g de biscoitos champanhe savoiardi",
+      "250 g de mascarpone",
+      "3 ovos pasteurizados, claras e gemas separadas",
+      "75 g de açúcar",
+      "200 ml de café forte frio",
+      "2 colheres de sopa de cacau sem açúcar"
+    ],
+    "steps": [
+      "Bata as gemas pasteurizadas com o açúcar até engrossarem. Incorpore o mascarpone sem bater demais.",
+      "Em uma tigela limpa, bata as claras pasteurizadas em neve firme e incorpore delicadamente ao creme.",
+      "Mergulhe rapidamente os biscoitos no café frio. Disponha uma camada em uma travessa e cubra com creme; repita.",
+      "Cubra e leve à geladeira por pelo menos 4 horas. Polvilhe cacau pouco antes de servir e mantenha refrigerado."
+    ],
+    "tips": [
+      "Use café frio e molhe os biscoitos rapidamente para as camadas manterem o formato."
+    ],
+    "sources": [
+      "Repostería italiana contemporánea"
+    ]
+  },
+  "r-pancakes": {
+    "dishName": "Panquecas de buttermilk",
+    "summary": "Panquecas macias de café da manhã feitas com buttermilk e servidas com xarope de bordo.",
+    "history": "As panquecas de buttermilk são comuns em todos os Estados Unidos e não são atribuídas aqui a um estado específico.",
+    "ingredients": [
+      "200 g de farinha de trigo",
+      "2 colheres de chá de fermento químico",
+      "1 colher de sopa de açúcar e 1/4 de colher de chá de sal",
+      "250 ml de buttermilk",
+      "1 ovo",
+      "30 g de manteiga derretida, mais um pouco para a frigideira",
+      "80 ml de xarope de bordo"
+    ],
+    "steps": [
+      "Misture farinha, fermento, açúcar e sal. Separadamente, bata buttermilk, ovo e manteiga derretida já fria.",
+      "Incorpore as misturas apenas até não restar farinha seca, deixando alguns grumos.",
+      "Unte uma frigideira em fogo médio. Coloque pequenas porções e cozinhe até surgirem bolhas e as bordas perderem o brilho, cerca de 2 minutos.",
+      "Vire uma vez e cozinhe por mais 1-2 minutos, até cozinhar por dentro. Sirva com xarope de bordo."
+    ],
+    "tips": [
+      "Deixe alguns grumos na massa; misturar demais deixa as panquecas duras."
+    ],
+    "sources": [
+      "Desayuno estadounidense clásico"
+    ]
+  },
+  "r-mochi": {
+    "dishName": "Daifuku mochi de morango",
+    "summary": "Docinhos macios de farinha de arroz recheados com morango e pasta de feijão-vermelho.",
+    "history": "Daifuku é um doce japonês envolto em uma camada macia de mochi; o morango é uma variação popular de recheio.",
+    "ingredients": [
+      "100 g de farinha de arroz glutinoso",
+      "50 g de açúcar",
+      "150 ml de água",
+      "120 g de pasta doce de feijão-vermelho (anko)",
+      "6 morangos lavados, secos e sem folhas",
+      "40 g de amido de milho para manusear"
+    ],
+    "steps": [
+      "Envolva cada morango seco em 20 g de anko e reserve.",
+      "Misture farinha de arroz, açúcar e água em uma tigela resistente ao calor. Cozinhe no vapor por 15-20 minutos, mexendo na metade, até ficar brilhante e translúcido.",
+      "Despeje com cuidado sobre uma superfície polvilhada com amido e deixe esfriar o suficiente para manusear; a massa é muito pegajosa.",
+      "Divida em seis partes, achate e envolva cada morango. Feche, retire o excesso de amido com um pincel e deixe esfriar antes de comer."
+    ],
+    "tips": [
+      "A massa quente de mochi é pegajosa e pode queimar: espere esfriar o suficiente antes de manusear."
+    ],
+    "sources": [
+      "Repostería wagashi"
+    ]
+  },
+  "r-guacamole": {
+    "dishName": "Guacamole",
+    "summary": "Abacate amassado com cebola, pimenta, coentro, tomate e limão.",
+    "history": "Preparo mexicano de abacate com variações regionais e familiares. Seu uso é generalizado e não é atribuído a uma só cidade.",
+    "ingredients": [
+      "3 abacates maduros",
+      "1/4 de cebola picada",
+      "1 pimenta serrano picada",
+      "2 colheres de sopa de coentro picado",
+      "1 tomate pequeno picado",
+      "Suco de 1 limão e sal a gosto",
+      "100 g de chips de tortilla para servir"
+    ],
+    "steps": [
+      "Corte os abacates ao meio, retire os caroços e tire a polpa com uma colher.",
+      "Amasse com um garfo, mantendo um pouco de textura. Acrescente cebola, pimenta, coentro e tomate.",
+      "Acrescente o suco de limão aos poucos, ajuste o sal e misture sem bater no liquidificador.",
+      "Sirva imediatamente com chips de tortilla. Se necessário, cubra em contato com a superfície e leve à geladeira."
+    ],
+    "tips": [
+      "Amasse com um garfo para manter pequenos pedaços de abacate."
+    ],
+    "sources": [
+      "Cocina mexicana tradicional"
+    ]
+  },
+  "r-somtam": {
+    "dishName": "Som tam",
+    "summary": "Salada crocante de mamão verde com limão, molho de peixe, legumes e amendoim.",
+    "history": "A salada de mamão verde está associada ao Laos e ao nordeste da Tailândia e tem muitas variações regionais. Esta versão tailandesa não atribui sua origem exclusiva a Bangkok.",
+    "ingredients": [
+      "300 g de mamão verde descascado e ralado",
+      "1 dente de alho e 1 pimenta fresca",
+      "2 colheres de sopa de suco de limão",
+      "1 colher de sopa de molho de peixe",
+      "1 colher de chá de açúcar",
+      "8 tomates-cereja cortados ao meio",
+      "60 g de vagens branqueadas e frias",
+      "25 g de amendoim torrado"
+    ],
+    "steps": [
+      "Soque o alho e a pimenta em um pilão. Misture suco de limão, molho de peixe e açúcar.",
+      "Acrescente vagens e tomates e pressione delicadamente para soltar um pouco de suco, sem transformá-los em purê.",
+      "Junte o mamão, alternando leves socadas com movimentos de colher até envolvê-lo no molho.",
+      "Ajuste o equilíbrio entre sal, acidez e ardência. Cubra com amendoim e sirva imediatamente."
+    ],
+    "tips": [
+      "Soque o mamão delicadamente para absorver o molho e continuar crocante."
+    ],
+    "sources": [
+      "Cocina tailandesa isan"
+    ]
+  },
+  "r-jambalaya": {
+    "dishName": "Jambalaya",
+    "summary": "Arroz da Louisiana cozido com frango, andouille, camarão, legumes e tempero cajun.",
+    "history": "Prato crioulo de arroz associado à Louisiana, que combina carnes, frutos do mar e legumes aromáticos.",
+    "ingredients": [
+      "300 g de arroz de grão longo",
+      "400 g de frango sem osso em cubos",
+      "200 g de andouille fatiada",
+      "250 g de camarão descascado",
+      "1 cebola, 2 talos de salsão e 1 pimentão verde, picados",
+      "2 dentes de alho picados",
+      "400 g de tomates triturados",
+      "650 ml de caldo de frango quente",
+      "2 colheres de sopa de óleo e 1 colher de chá de tempero cajun",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Doure o frango e a linguiça no óleo em uma panela larga. Acrescente cebola, salsão, pimentão e alho; refogue por 8 minutos.",
+      "Acrescente tomates e tempero cajun e cozinhe por 5 minutos. Junte arroz e caldo, mexa uma vez e deixe ferver.",
+      "Tampe e cozinhe em fogo baixo por 18 minutos. Coloque o camarão por cima, tampe e cozinhe mais 5-7 minutos, até ficar opaco e o frango atingir 74 °C.",
+      "Desligue o fogo e deixe descansar tampado por 5 minutos. Solte delicadamente o arroz e ajuste o sal."
+    ],
+    "tips": [
+      "Evite mexer constantemente no arroz durante o cozimento, pois ele pode ficar empapado."
+    ],
+    "sources": [
+      "Cocina criolla de Luisiana",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-cemita": {
+    "dishName": "Cemita de Puebla",
+    "summary": "Pão de gergelim recheado com bife empanado, quesillo, abacate, chipotle e pápalo.",
+    "history": "Lanche clássico dos mercados associado a Puebla.",
+    "ingredients": [
+      "2 pães cemita com gergelim",
+      "2 bifes bovinos já empanados, de 150 g cada",
+      "100 g de quesillo",
+      "1 abacate",
+      "2 pimentas chipotle em adobo",
+      "8 folhas de pápalo lavadas",
+      "Óleo para fritar"
+    ],
+    "steps": [
+      "Aqueça uma camada de óleo em uma frigideira e frite os bifes dos dois lados até dourarem e a carne atingir 63 °C.",
+      "Escorra e deixe descansar por 3 minutos. Abra os pães e espalhe o abacate.",
+      "Recheie com os bifes, quesillo e chipotle a gosto.",
+      "Acrescente o pápalo, feche e sirva imediatamente."
+    ],
+    "tips": [
+      "Comece com pouco pápalo, pois seu aroma é forte."
+    ],
+    "sources": [
+      "Cocina poblana",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-machaca-huevo": {
+    "dishName": "Machaca com ovos",
+    "summary": "Carne bovina seca e desfiada preparada com ovos, tomate, cebola e pimenta, um pilar do café da manhã de Sonora.",
+    "history": "Nasceu da necessidade de conservar carne no deserto: a carne bovina era salgada, seca ao sol e socada em um molcajete. Esse produto seco, a machaca, tornou-se um pilar do café da manhã das fazendas do noroeste, sobretudo em Sonora, onde é servido com tortillas de trigo recém-feitas.",
+    "ingredients": [
+      "150 g de machaca (carne bovina seca desfiada)",
+      "6 ovos",
+      "2 tomates picados",
+      "1/2 cebola picada",
+      "2 pimentas verdes (serrano ou Anaheim) picadas",
+      "Óleo ou banha para fritar",
+      "Tortillas de trigo para servir"
+    ],
+    "steps": [
+      "Se a machaca estiver muito seca, deixe de molho por alguns minutos em água morna e escorra.",
+      "Refogue a cebola e a pimenta até amaciarem; acrescente o tomate e cozinhe até soltar seus sucos.",
+      "Incorpore a machaca e refogue para absorver os sabores.",
+      "Despeje os ovos batidos e mexa até firmarem, sem ressecar.",
+      "Sirva quente com tortillas de trigo e salsa a gosto."
+    ],
+    "tips": [
+      "Prove a machaca antes de acrescentar sal: a carne seca pode temperar toda a mistura."
+    ],
+    "sources": [
+      "Cocina tradicional sonorense",
+      "Recetario del noroeste de México"
+    ]
+  },
+  "r-mxn-caldo-queso": {
+    "dishName": "Caldo de queijo de Sonora",
+    "summary": "Caldo leve de batata e pimenta verde com leite e cubos de queijo fresco regional que derretem ao servir.",
+    "history": "Prato simples e reconfortante das montanhas e vales de Sonora, feito com o que havia disponível: batata, pimenta verde assada e queijo fresco das fazendas. É comida cotidiana que valoriza o queijo regional e acompanha uma tortilla de trigo.",
+    "ingredients": [
+      "3 batatas médias em cubos",
+      "2 pimentas verdes Anaheim assadas, sem pele e em tiras",
+      "2 tomates picados",
+      "1/2 cebola picada",
+      "1 litro de caldo de legumes ou água",
+      "1 xícara de leite",
+      "250 g de queijo fresco regional em cubos",
+      "1 colher de sopa de óleo e sal a gosto"
+    ],
+    "steps": [
+      "Refogue a cebola e o tomate até formar uma base.",
+      "Acrescente as tiras de pimenta e as batatas; mexa por alguns minutos.",
+      "Despeje o caldo e cozinhe até a batata ficar macia.",
+      "Abaixe o fogo, acrescente o leite e aqueça sem deixar ferver.",
+      "Distribua os cubos de queijo nas tigelas e coloque a sopa por cima com uma concha para derretê-los."
+    ],
+    "tips": [
+      "Coloque o queijo na tigela e despeje o caldo quente por cima para manter pedaços macios."
+    ],
+    "sources": [
+      "Cocina tradicional sonorense",
+      "Tradición serrana de Sonora"
+    ]
+  },
+  "r-mxn-coyotas": {
+    "dishName": "Coyotas de Villa de Seris",
+    "summary": "Doces achatados de farinha, recheados com piloncillo e assados até dourar, um clássico de Hermosillo.",
+    "history": "Esses doces entre biscoito e empanada surgiram em Villa de Seris, hoje parte de Hermosillo, onde famílias de padeiros os popularizaram. O nome está ligado à mistura cultural da região, e o recheio clássico de piloncillo reflete a tradição de assados de farinha de trigo do norte do México.",
+    "ingredients": [
+      "3 xícaras de farinha de trigo",
+      "150 g de banha",
+      "1/2 xícara de água morna",
+      "1 colher de chá de sal",
+      "250 g de piloncillo (açúcar de cana não refinado), ralado ou em pedaços",
+      "1 pitada de canela em pó (opcional)"
+    ],
+    "steps": [
+      "Misture a farinha com o sal e a banha até obter uma textura arenosa.",
+      "Acrescente a água aos poucos e amasse até formar uma massa macia; deixe descansar.",
+      "Forme discos finos; coloque piloncillo na metade deles e cubra com outro disco, selando as bordas.",
+      "Fure a superfície com um garfo para o vapor escapar.",
+      "Asse a 180 °C por cerca de 20 minutos, até dourar."
+    ],
+    "tips": [
+      "Deixe a massa descansar por 20 minutos antes de abrir e feche bem para manter o piloncillo dentro."
+    ],
+    "sources": [
+      "Repostería tradicional de Villa de Seris, Hermosillo",
+      "Panaderías sonorenses",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-chilorio": {
+    "dishName": "Chilorio",
+    "summary": "Carne suína desfiada e frita em molho de pimentas secas, alho e especiarias, típica de Sinaloa.",
+    "history": "O chilorio começou como método de conservação em Sinaloa: o porco cozido era desfiado e cozinhado em um adobo com bastante banha, o que permitia conservá-lo por semanas. Hoje é um prato emblemático, consumido em tacos e burritos de tortillas de trigo.",
+    "ingredients": [
+      "1 kg de carne suína magra em pedaços",
+      "6 pimentas ancho ou colorado, sem sementes",
+      "4 dentes de alho",
+      "1 colher de chá de cominho",
+      "1 colher de chá de orégano",
+      "2 colheres de sopa de vinagre",
+      "Banha e sal"
+    ],
+    "steps": [
+      "Cozinhe o porco em água salgada até ficar macio; desfie e reserve o caldo.",
+      "Deixe as pimentas de molho em água quente e bata com alho, cominho, orégano e vinagre.",
+      "Frite a carne desfiada na banha até começar a dourar.",
+      "Coe o adobo sobre a carne e cozinhe em fogo médio, mexendo, até secar e incorporar.",
+      "Ajuste o sal e sirva em tacos ou burritos."
+    ],
+    "tips": [
+      "Reserve o caldo do cozimento e acrescente algumas colheradas se a marinada secar antes de incorporar."
+    ],
+    "sources": [
+      "Cocina sinaloense tradicional",
+      "Recetario del noroeste de México"
+    ]
+  },
+  "r-mxn-aguachile": {
+    "dishName": "Aguachile verde com camarão cozido",
+    "summary": "Adaptação do aguachile de Sinaloa com camarão cozido, limão, serrano, pepino e cebola-roxa.",
+    "history": "Originário do litoral de Sinaloa, o aguachile é um preparo de camarão fresco “cozido” em limão e pimenta. Diferentemente do ceviche, é servido imediatamente para manter o fruto do mar suculento; a versão verde com serrano e coentro é a mais difundida.",
+    "ingredients": [
+      "500 g de camarão fresco, descascado e aberto em borboleta",
+      "1 xícara de suco de limão",
+      "3 pimentas serrano",
+      "1 maço de coentro",
+      "1 pepino em meias-luas",
+      "1/2 cebola-roxa em fatias finas",
+      "Sal e pimenta-do-reino"
+    ],
+    "steps": [
+      "Para a versão com camarão cozido, ferva os camarões até ficarem firmes e opacos; resfrie imediatamente em água com gelo e escorra.",
+      "Bata suco de limão, serrano, coentro, sal e pimenta-do-reino até obter um molho verde.",
+      "Misture os camarões frios com o molho e acrescente pepino e cebola-roxa.",
+      "Sirva imediatamente com tostadas e refrigere as sobras. O limão acrescenta acidez, mas não substitui o cozimento dos frutos do mar."
+    ],
+    "tips": [
+      "Acrescente o limão pouco antes de servir para preservar a textura do pepino e da cebola."
+    ],
+    "sources": [
+      "Cocina costera de Sinaloa",
+      "Tradición marisquera del Pacífico mexicano"
+    ]
+  },
+  "r-mxn-cabrito-pastor": {
+    "dishName": "Cabrito al pastor",
+    "summary": "Cabrito de leite espetado em uma haste e assado lentamente na brasa, um ícone de Monterrey.",
+    "history": "A cabra chegou ao nordeste com a criação introduzida por colonos sefarditas e espanhóis. Em Nuevo León, tornou-se um prato de celebração: o cabrito de leite é aberto, espetado em uma haste e assado na vertical diante das brasas até a pele dourar e ficar crocante.",
+    "ingredients": [
+      "1 cabrito de leite limpo e aberto",
+      "Sal grosso",
+      "Carvão e uma haste para assar",
+      "Tortillas de trigo para servir",
+      "Salsa de pimenta e guacamole a gosto"
+    ],
+    "steps": [
+      "Salgue o cabrito por dentro e por fora e prenda-o na haste.",
+      "Coloque a haste ao lado das brasas, com a pele voltada para fora.",
+      "Asse lentamente, girando a peça para cozinhar por igual, por cerca de duas horas e meia.",
+      "No final, aproxime a pele das brasas para dourar e pururucar.",
+      "Corte em pedaços e sirva com tortillas de trigo, salsa e guacamole."
+    ],
+    "tips": [
+      "Use calor indireto e termômetro: as partes grossas devem atingir pelo menos 63 °C e descansar 3 minutos."
+    ],
+    "sources": [
+      "Cocina regiomontana",
+      "Tradición ganadera de Nuevo León",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-frijoles-charros": {
+    "dishName": "Frijoles charros",
+    "summary": "Feijão com caldo, bacon, chorizo, salsicha e pimenta, acompanhamento clássico das carnes grelhadas do norte.",
+    "history": "Ligados à cultura dos vaqueiros do norte, os frijoles charros eram cozidos em fogo aberto para alimentar os trabalhadores das fazendas. Em Nuevo León acompanham a carne assada do fim de semana; o caldo leva carnes curadas, tomate, cebola e pimenta e é servido em uma pequena caneca de barro.",
+    "ingredients": [
+      "500 g de feijão bayo ou pinto",
+      "150 g de bacon picado",
+      "150 g de chorizo",
+      "2 salsichas fatiadas",
+      "2 tomates picados",
+      "1/2 cebola e 2 pimentas serrano picadas",
+      "Coentro e sal"
+    ],
+    "steps": [
+      "Cozinhe o feijão com cebola e sal até ficar macio.",
+      "À parte, frite o bacon e o chorizo; junte a salsicha fatiada e doure.",
+      "Acrescente tomate, cebola e pimenta e refogue até formar uma base.",
+      "Despeje esse refogado na panela de feijão com seu caldo e ferva por alguns minutos.",
+      "Polvilhe coentro, ajuste o sal e sirva quente."
+    ],
+    "tips": [
+      "O tempo de cozimento do feijão seco depende da idade dos grãos; acrescente água quente se o nível baixar antes de amaciarem."
+    ],
+    "sources": [
+      "Cocina norteña de Nuevo León",
+      "Tradición vaquera del noreste"
+    ]
+  },
+  "r-mxn-discada": {
+    "dishName": "Discada do norte",
+    "summary": "Mistura de carnes e embutidos curados preparada ao ar livre em um disco de arado, uma refeição de confraternização do norte.",
+    "history": "A discada aproveita um antigo disco de arado como chapa côncava sobre o fogo. É um prato de reunião no norte, no qual bacon, chorizo, carne bovina, porco e legumes são acrescentados em camadas. Chihuahua e os estados vizinhos compartilham esse prato de festa ao ar livre.",
+    "ingredients": [
+      "300 g de bacon picado",
+      "300 g de chorizo",
+      "400 g de bife bovino em cubos",
+      "400 g de carne suína magra em cubos",
+      "2 tomates, 1 cebola e 2 pimentas picados",
+      "1 xícara de cerveja",
+      "Tortillas de trigo para servir"
+    ],
+    "steps": [
+      "No disco quente, frite o bacon até soltar sua gordura.",
+      "Acrescente o chorizo e depois o porco; cozinhe até dourar.",
+      "Junte a carne bovina e sele.",
+      "Acrescente tomate, cebola e pimenta; despeje a cerveja e deixe reduzir.",
+      "Tempere e sirva em tacos de tortilla de trigo."
+    ],
+    "tips": [
+      "Doure as carnes em levas: amontoá-las esfria a chapa e faz com que cozinhem nos próprios sucos."
+    ],
+    "sources": [
+      "Tradición norteña de reunión",
+      "Cocina de Chihuahua"
+    ]
+  },
+  "r-mxn-asado-puerco": {
+    "dishName": "Ensopado de porco de Chihuahua",
+    "summary": "Porco ensopado em molho de pimenta vermelha com especiarias, servido em festas e refeições de família.",
+    "history": "Também chamado de asado rojo, é um ensopado festivo de Chihuahua no qual o porco cozinha em um adobo de pimentas secas da região. É preparado para casamentos, batizados e reuniões e servido com arroz e tortillas de trigo.",
+    "ingredients": [
+      "1 kg de carne suína magra em pedaços",
+      "8 pimentas colorado (California ou guajillo), sem sementes",
+      "3 dentes de alho",
+      "1 pitada de cada: cominho e orégano",
+      "2 folhas de louro",
+      "Farinha para engrossar (opcional)",
+      "Banha e sal"
+    ],
+    "steps": [
+      "Doure o porco na banha e reserve.",
+      "Deixe as pimentas de molho e bata com alho, cominho e orégano; coe o molho.",
+      "Frite o molho na mesma panela até mudar de cor.",
+      "Devolva a carne, acrescente louro e um pouco de água e cozinhe em fogo baixo até ficar macia.",
+      "Se quiser mais corpo, dissolva uma colher de sopa de farinha em água e incorpore; ajuste o sal."
+    ],
+    "tips": [
+      "Misture 1 colher de sopa de farinha com 2 colheres de sopa de água fria antes de acrescentar, para evitar grumos."
+    ],
+    "sources": [
+      "Cocina tradicional de Chihuahua",
+      "Recetario festivo del norte"
+    ]
+  },
+  "r-mxn-caldillo-durango": {
+    "dishName": "Caldillo de Durango",
+    "summary": "Ensopado bovino com bastante caldo, pimenta verde e tomate, o prato emblemático de Durango.",
+    "history": "O caldillo é o prato mais representativo de Durango, uma herança da vida nas fazendas do semideserto. Na versão clássica, é feito com carne bovina seca ou fresca, pimenta verde assada e tomate, formando um caldo leve consumido com tortilla de trigo.",
+    "ingredients": [
+      "500 g de carne bovina em cubinhos",
+      "3 pimentas verdes assadas, sem pele e em tiras",
+      "3 tomates picados",
+      "1/2 cebola picada",
+      "2 dentes de alho",
+      "Caldo de carne ou água",
+      "Óleo e sal"
+    ],
+    "steps": [
+      "Sele a carne no óleo quente com a cebola e o alho.",
+      "Acrescente o tomate e cozinhe até desmanchar.",
+      "Incorpore as tiras de pimenta verde.",
+      "Despeje o caldo e cozinhe em fogo baixo até a carne ficar macia e o ensopado saboroso.",
+      "Ajuste o sal e sirva com tortillas de trigo."
+    ],
+    "tips": [
+      "Comece com 1 litro de caldo e acrescente mais se quiser um ensopado mais líquido; o corte da carne determina o tempo final de cozimento."
+    ],
+    "sources": [
+      "Cocina tradicional de Durango",
+      "Gastronomía del semidesierto duranguense"
+    ]
+  },
+  "r-mxn-asado-boda": {
+    "dishName": "Ensopado de casamento de Zacatecas",
+    "summary": "Porco em molho agridoce de pimentas secas com chocolate e especiarias, um ensopado cerimonial de Zacatecas.",
+    "history": "O asado de boda é o grande prato de festa de Zacatecas, tradicionalmente servido em casamentos e noivados como uma oferta da família do noivo. Seu molho espesso combina pimentas colorado e guajillo com chocolate, casca de laranja e especiarias, resultado dos sabores doces e defumados da região centro-norte.",
+    "ingredients": [
+      "1 kg de carne suína magra em pedaços",
+      "6 pimentas colorado e 4 guajillo, sem sementes",
+      "30 g de chocolate mexicano em barra",
+      "1 pedaço de casca de laranja",
+      "3 dentes de alho, louro, cravo-da-índia e pimenta-do-reino",
+      "1 pão bolillo ou tortilla frita, para engrossar",
+      "Banha e sal"
+    ],
+    "steps": [
+      "Doure o porco na banha e reserve.",
+      "Deixe as pimentas de molho e bata com alho, especiarias, casca de laranja e o pão frito.",
+      "Coe o adobo e frite na panela até engrossar.",
+      "Acrescente o chocolate e deixe derreter no molho.",
+      "Devolva a carne, cubra com água e cozinhe em fogo baixo até ficar macia e o molho espesso."
+    ],
+    "tips": [
+      "Use uma tira fina de casca de laranja sem a parte branca para evitar amargor excessivo."
+    ],
+    "sources": [
+      "Imagen Zacatecas: tradición del asado de bodas",
+      "Cocina tradicional zacatecana"
+    ]
+  },
+  "r-mxn-carne-asada": {
+    "dishName": "Tacos de carne grelhada do norte",
+    "summary": "Fraldinha ou carne da aba bovina grelhada na brasa, picada e servida em tortilla com guacamole, cebolas novas e salsa.",
+    "history": "No norte, a carne assada é mais que um prato: é um ritual de união familiar no fim de semana. Em Coahuila e no restante da região, cortes bovinos são grelhados sobre carvão ou mesquite e consumidos em tacos com cebolas novas grelhadas, guacamole e salsa fresca.",
+    "ingredients": [
+      "1 kg de fraldinha ou carne da aba bovina",
+      "Suco de 2 limões",
+      "Sal e pimenta-do-reino",
+      "Cebolas novas com rama",
+      "Guacamole",
+      "Tortillas de trigo ou milho",
+      "Salsa de ingredientes grelhados a gosto"
+    ],
+    "steps": [
+      "Tempere a carne com sal, pimenta e suco de limão.",
+      "Deixe as brasas de carvão ou mesquite bem vermelhas.",
+      "Grelhe a carne no ponto desejado, virando apenas uma vez.",
+      "Grelhe as cebolas novas ao lado da carne.",
+      "Pique a carne e sirva em tacos com guacamole, cebolas novas e salsa."
+    ],
+    "tips": [
+      "Verifique 63 °C na parte mais grossa e deixe descansar 3 minutos antes de cortar contra as fibras."
+    ],
+    "sources": [
+      "Tradición de la carne asada norteña",
+      "Cocina de Coahuila",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-tacos-pescado": {
+    "dishName": "Tacos de peixe ao estilo da Baja",
+    "summary": "Peixe envolto em massa e frito, servido em tortilla de milho com repolho, crema, salsa e limão, uma marca de Ensenada.",
+    "history": "Os tacos de peixe envolto em massa são emblemáticos do litoral da Baja California, especialmente de Ensenada. Combinam peixe branco coberto de massa e frito com acompanhamentos frescos, como repolho fatiado, crema e salsas cítricas, refletindo a pesca abundante do Pacífico e a criatividade das barracas de rua.",
+    "ingredients": [
+      "600 g de filé de peixe branco em tiras",
+      "1 xícara de farinha",
+      "1 xícara de cerveja fria",
+      "Repolho fatiado fino",
+      "Crema mexicana, maionese e limão",
+      "Tortillas de milho",
+      "Óleo para fritar e salsa a gosto"
+    ],
+    "steps": [
+      "Bata a farinha com a cerveja e o sal até formar uma massa leve, semelhante à de panqueca.",
+      "Mergulhe as tiras de peixe na massa.",
+      "Frite em óleo quente até dourarem; escorra.",
+      "Aqueça as tortillas e coloque o peixe sobre elas.",
+      "Cubra com repolho, crema, salsa e algumas gotas de limão."
+    ],
+    "tips": [
+      "Mantenha a cerveja fria e frite em levas a 175-180 °C; verifique se o peixe atinge 63 °C."
+    ],
+    "sources": [
+      "Cocina costera de Ensenada",
+      "Tradición marisquera de Baja California",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-almejas-tatemadas": {
+    "dishName": "Almejas tatemadas (amêijoas assadas no fogo)",
+    "summary": "Amêijoas chocolata assadas sobre brasas e galhos aromáticos, uma especialidade de Loreto.",
+    "history": "As almejas tatemadas são um prato ancestral de Loreto, na Baja California Sur, onde o consumo de moluscos remonta à época pré-hispânica, como atestam os depósitos de conchas da região. As amêijoas chocolata são colocadas sobre cascalho e cobertas com galhos de chamizo ou romerillo que, ao queimar, dão seu sabor defumado característico.",
+    "ingredients": [
+      "12 amêijoas chocolata frescas",
+      "Galhos de chamizo ou romerillo (ou lenha aromática)",
+      "Limões",
+      "Molho de pimenta a gosto",
+      "Sal"
+    ],
+    "steps": [
+      "Limpe bem as amêijoas e coloque-as com a dobradiça para baixo sobre uma camada de cascalho ou uma grelha.",
+      "Cubra com os galhos de chamizo ou romerillo.",
+      "Acenda os galhos e deixe o calor e a fumaça cozinharem as amêijoas por cerca de 40 minutos.",
+      "Retire quando as conchas abrirem e o interior estiver cozido.",
+      "Sirva com limão, sal e molho de pimenta."
+    ],
+    "tips": [
+      "Use amêijoas vivas de um fornecedor de alimentos e descarte as quebradas ou as que permanecerem fechadas após o cozimento."
+    ],
+    "sources": [
+      "Tradición gastronómica de Loreto, BCS",
+      "El Sudcaliforniano: almejas tatemadas"
+    ]
+  },
+  "r-mxn-carne-tampiquena": {
+    "dishName": "Carne grelhada à moda de Tampico",
+    "summary": "Uma tira de filé bovino grelhado servida com enchilada, tiras de pimenta, feijão e guacamole, criação de Tampico.",
+    "history": "O prato foi concebido no século 20 pelo restaurateur de Tampico José Inés Loredo, que reuniu no mesmo prato um filé bovino cortado no comprimento e grelhado com acompanhamentos representativos: enchilada, tiras de pimenta, feijão e guacamole. Espalhou-se pelo país como prato de restaurante.",
+    "ingredients": [
+      "2 filés bovinos cortados em tiras compridas",
+      "2 enchiladas com molho vermelho",
+      "Tiras de pimenta poblano com cebola",
+      "Feijão cozido, amassado e refogado",
+      "Guacamole",
+      "Queijo e sal"
+    ],
+    "steps": [
+      "Tempere a tira de filé com sal e pimenta.",
+      "Grelhe até o ponto desejado.",
+      "Prepare as enchiladas e refogue as tiras de pimenta com cebola.",
+      "Aqueça o feijão amassado e refogado e faça o guacamole.",
+      "Sirva a carne com a enchilada, as tiras de pimenta, o feijão e o guacamole no mesmo prato."
+    ],
+    "tips": [
+      "Esta receita começa com enchiladas, feijão e guacamole prontos; aqueça-os antes de grelhar a carne."
+    ],
+    "sources": [
+      "Historia de la cocina tampiqueña",
+      "Tradición gastronómica de Tamaulipas"
+    ]
+  },
+  "r-mxc-pollo-san-marcos": {
+    "dishName": "Frango de San Marcos",
+    "summary": "Frango dourado coberto com molho de pimentas secas, com um toque doce de frutas e vinho.",
+    "history": "Prato festivo ligado à Feira Nacional de San Marcos, em Aguascalientes; combina pimentas, especiarias e frutas em um molho festivo e reconfortante.",
+    "ingredients": [
+      "1 frango inteiro em pedaços",
+      "3 pimentas ancho e 2 mulato, sem sementes",
+      "2 tomates maduros",
+      "1 cebola e 2 dentes de alho",
+      "Canela, cravo-da-índia e pimenta-da-jamaica",
+      "1/2 xícara de vinho tinto",
+      "Fruta picada: pêssego ou maçã",
+      "Banha ou óleo para dourar"
+    ],
+    "steps": [
+      "Cozinhe os pedaços de frango com cebola, alho e sal até ficarem macios; reserve o caldo.",
+      "Reidrate as pimentas em água quente e bata com tomate, alho, cebola e especiarias.",
+      "Frite o molho coado na banha até engrossar e ajuste com um pouco de caldo.",
+      "Acrescente o vinho e a fruta picada; deixe ferver.",
+      "Devolva o frango ao molho e cozinhe em fogo baixo por 20 minutos para absorver o sabor.",
+      "Sirva com arroz vermelho, feijão de panela e tortillas recém-feitas."
+    ],
+    "tips": [
+      "Mantenha o molho em fervura branda para preservar as frutas e verifique 74 °C no frango."
+    ],
+    "sources": [
+      "Los Sabores de México",
+      "MexConnect, cocina de Aguascalientes",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-enchiladas-mineras": {
+    "dishName": "Enchiladas dos mineiros",
+    "summary": "Tortillas mergulhadas em molho de guajillo, recheadas com queijo e cobertas com batata e cenoura douradas.",
+    "history": "Lanche popular das minas da cidade de Guanajuato; era servido quente e substancioso aos trabalhadores e hoje é um símbolo da cidade.",
+    "ingredients": [
+      "12 tortillas de milho",
+      "6 pimentas guajillo sem sementes",
+      "2 dentes de alho e um pedaço de cebola",
+      "200 g de queijo ranchero esfarelado",
+      "2 batatas e 2 cenouras em cubos",
+      "Alface, cebola e queijo para servir",
+      "Banha ou óleo"
+    ],
+    "steps": [
+      "Reidrate as guajillo e bata com alho, cebola e sal; coe o molho.",
+      "Cozinhe as batatas e cenouras em cubos e refogue até dourarem.",
+      "Mergulhe cada tortilla no molho e frite levemente na banha.",
+      "Recheie com queijo, dobre e arrume no prato.",
+      "Cubra com mais molho e acrescente as batatas e cenouras.",
+      "Sirva com alface, cebola e queijo por cima."
+    ],
+    "tips": [
+      "Cozinhe batatas e cenouras até ficarem macias, mas firmes, antes de dourá-las."
+    ],
+    "sources": [
+      "Cocina tradicional de Guanajuato",
+      "México Desconocido"
+    ]
+  },
+  "r-mxc-guacamayas": {
+    "dishName": "Guacamayas (pães com torresmo de León)",
+    "summary": "Pão bolillo de casca crocante recheado com chicharrón de porco, pico de gallo e uma salsa muito picante de chile de árbol.",
+    "history": "Lanche de rua surgido no bairro San Juan de Dios, em León, por volta dos anos 1950; hoje há guacamayerías com décadas de tradição.",
+    "ingredients": [
+      "4 pães bolillo de casca crocante",
+      "300 g de chicharrón de porco",
+      "Pimentas secas de árbol tostadas",
+      "2 tomates assados e 1 dente de alho",
+      "Pico de gallo: tomate, cebola e coentro",
+      "Suco de limão e sal"
+    ],
+    "steps": [
+      "Moa as pimentas de árbol tostadas com tomate assado, alho e sal, formando uma salsa picante.",
+      "Abra os pães por uma lateral e retire um pouco do miolo.",
+      "Recheie com o chicharrón quebrado em pedaços.",
+      "Acrescente pico de gallo e regue generosamente com a salsa de chile de árbol.",
+      "Ajuste com suco de limão e sal e sirva imediatamente."
+    ],
+    "tips": [
+      "Recheie os pães pouco antes de servir para o torresmo manter alguma textura."
+    ],
+    "sources": [
+      "Aderezo OEM, comida callejera de León",
+      "El Souvenir"
+    ]
+  },
+  "r-mxc-gorditas-queretanas": {
+    "dishName": "Gorditas de milho quebrado",
+    "summary": "Gorditas grossas de milho moído grosseiramente, recheadas com ensopados e cobertas com salsa vermelha.",
+    "history": "Herança do semideserto de Querétaro, especialmente de Tolimán e Bernal; em 2012, foram declaradas Patrimônio Cultural Imaterial do estado.",
+    "ingredients": [
+      "500 g de massa de milho quebrado (moído grosseiramente)",
+      "Sal a gosto",
+      "Recheio: queijo, chicharrón prensado ou um ensopado",
+      "Pimentas serrano e tomate para a salsa",
+      "Alface picada",
+      "Banha para a chapa"
+    ],
+    "steps": [
+      "Amasse o milho quebrado com sal até formar uma massa firme e com textura.",
+      "Modele gorditas grossas e asse na chapa até dourarem dos dois lados.",
+      "Abra por uma lateral e recheie com o ensopado escolhido.",
+      "Faça uma salsa de tomate e serrano moída grosseiramente.",
+      "Regue as gorditas com a salsa e finalize com alface picada."
+    ],
+    "tips": [
+      "Faça gorditas de espessura uniforme e cozinhe em fogo médio para o centro não ficar cru."
+    ],
+    "sources": [
+      "México Travel Channel",
+      "Diario de Querétaro OEM"
+    ]
+  },
+  "r-mxc-enchiladas-potosinas": {
+    "dishName": "Enchiladas de San Luis Potosí",
+    "summary": "Tortillas de massa de milho amassada com pimenta ancho, recheadas com queijo e cebola e douradas na chapa.",
+    "history": "Lanche clássico de San Luis Potosí no qual a pimenta entra na massa, em vez de um molho separado; são vendidas em barracas de jantar e feiras.",
+    "ingredients": [
+      "400 g de massa de milho",
+      "4 pimentas ancho sem sementes",
+      "200 g de queijo fresco esfarelado",
+      "1/2 cebola picada fino",
+      "Banha para fritar",
+      "Crema mexicana, abacate e queijo para servir",
+      "1 dente de alho"
+    ],
+    "steps": [
+      "Reidrate as pimentas ancho e bata com alho e sal.",
+      "Amasse a pimenta com a massa até obter uma cor vermelha uniforme.",
+      "Faça tortillas pequenas e cozinhe levemente na chapa.",
+      "Recheie com queijo e cebola, dobre em meia-lua e pressione a borda.",
+      "Frite na banha até ficar crocante por fora.",
+      "Sirva com crema, abacate e mais queijo."
+    ],
+    "tips": [
+      "Escorra as pimentas antes de bater e acrescente o purê aos poucos para a massa não ficar úmida demais."
+    ],
+    "sources": [
+      "Cocina potosina tradicional",
+      "México en mi Cocina"
+    ]
+  },
+  "r-mxc-zacahuil": {
+    "dishName": "Zacahuil (tamal gigante huasteco)",
+    "summary": "Tamal gigante de massa grossa de milho e porco em adobo, envolto em folha de bananeira e assado em forno a lenha.",
+    "history": "Do náuatle zacahuilli, “tamal grande”; prato cerimonial da região Huasteca Potosina, feito para compartilhar em casamentos, batizados e festas de povoado.",
+    "ingredients": [
+      "2 kg de massa de milho moído grosseiramente",
+      "1.5 kg de porco em pedaços",
+      "Pimentas chino, guajillo e ancho",
+      "Alho, cominho e orégano",
+      "Banha",
+      "Folhas de bananeira passadas no fogo"
+    ],
+    "steps": [
+      "Bata as pimentas reidratadas com alho e especiarias para fazer o adobo.",
+      "Misture a massa grossa com banha e parte do adobo até ficar uniforme.",
+      "Marine o porco cru no restante do adobo.",
+      "Espalhe a massa nas folhas de bananeira e coloque a carne por cima.",
+      "Embrulhe bem apertado, formando um grande pacote, e amarre.",
+      "Asse em temperatura baixa por várias horas, até a carne e a massa estarem completamente cozidas."
+    ],
+    "tips": [
+      "Asse o pacote coberto a cerca de 160 °C por aproximadamente 5 horas; verifique 74 °C no centro do recheio e se a massa está firme."
+    ],
+    "sources": [
+      "Pulso SLP",
+      "gob.mx, Secretaría de Agricultura",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-tortas-ahogadas": {
+    "dishName": "Tortas ahogadas (sanduíches banhados em molho)",
+    "summary": "Pão birote salgado recheado com carnitas e mergulhado em molho de tomate com chile de árbol muito picante.",
+    "history": "Ícone da comida de rua de Guadalajara; o birote de casca crocante aguenta o molho sem se desfazer e é servido com cebola curtida em limão.",
+    "ingredients": [
+      "4 pães birote salgados",
+      "500 g de carnitas de porco",
+      "6 tomates",
+      "Pimentas secas de árbol",
+      "Alho, cominho e orégano",
+      "Cebola fatiada e suco de limão",
+      "2 colheres de sopa de vinagre e sal a gosto"
+    ],
+    "steps": [
+      "Bata os tomates cozidos com alho e especiarias e coe para fazer o molho base.",
+      "Moa as pimentas de árbol tostadas com vinagre e sal para a salsa picante.",
+      "Deixe a cebola curtir em suco de limão com sal e orégano.",
+      "Abra os birotes e recheie com carnitas.",
+      "Regue o sanduíche com o molho de tomate e acrescente salsa de chile de árbol a gosto.",
+      "Cubra com a cebola curtida e sirva imediatamente."
+    ],
+    "tips": [
+      "Sirva a salsa picante separadamente para cada pessoa ajustar a ardência sem alterar o molho de tomate."
+    ],
+    "sources": [
+      "Cocina tapatía",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-carne-en-su-jugo": {
+    "dishName": "Carne no próprio caldo",
+    "summary": "Bife picado fino e cozido no próprio caldo com feijão bayo, bacon e salsa verde.",
+    "history": "Especialidade de Guadalajara servida em tigela de barro; combina carne em um caldo leve de tomatillo com feijão e acompanhamentos frescos.",
+    "ingredients": [
+      "600 g de bife bovino picado",
+      "150 g de bacon picado",
+      "8 tomatillos",
+      "Pimentas serrano e alho",
+      "2 xícaras de feijão bayo cozido",
+      "Cebola, coentro e limão para servir"
+    ],
+    "steps": [
+      "Doure o bacon na panela até soltar sua gordura.",
+      "Acrescente a carne picada e sele, mexendo constantemente.",
+      "Bata os tomatillos com serrano e alho e despeje sobre a carne.",
+      "Cozinhe em fogo médio até a carne ficar macia nos próprios sucos.",
+      "Sirva com feijão bayo quente.",
+      "Finalize com cebola, coentro e limão a gosto."
+    ],
+    "tips": [
+      "Acrescente 250 ml de água se o molho não fornecer líquido suficiente para cozinhar a carne suavemente."
+    ],
+    "sources": [
+      "Cocina de Guadalajara",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-pescado-zarandeado": {
+    "dishName": "Pescado zarandeado (peixe grelhado de Nayarit)",
+    "summary": "Peixe aberto em borboleta, coberto de adobo e grelhado na brasa em uma grade de galhos.",
+    "history": "Preparo litorâneo de Nayarit ligado à ilha de Mexcaltitán; o peixe é marinado e grelhado lentamente no carvão para ganhar sabor defumado.",
+    "ingredients": [
+      "1 pargo-vermelho ou robalo aberto em borboleta",
+      "Pimentas guajillo e alho",
+      "Shoyu e suco de laranja",
+      "Mostarda e maionese (opcionais)",
+      "Cebola, tomate e limão",
+      "Tortillas de milho para servir"
+    ],
+    "steps": [
+      "Faça um adobo batendo guajillo, alho, suco de laranja e shoyu.",
+      "Cubra os dois lados do peixe aberto com adobo e deixe marinar.",
+      "Coloque o peixe na grade ou grelha sobre as brasas.",
+      "Grelhe primeiro o lado da pele e vire com cuidado.",
+      "Cozinhe até a carne se soltar facilmente em lascas.",
+      "Sirva com cebola, tomate, limão e tortillas para montar tacos."
+    ],
+    "tips": [
+      "Escorra o excesso de marinada antes de grelhar e verifique 63 °C na parte mais grossa do peixe."
+    ],
+    "sources": [
+      "Cocina costeña de Nayarit",
+      "México Desconocido",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-sopitos-colima": {
+    "dishName": "Sopitos de Colima",
+    "summary": "Pequenos discos fritos de massa de milho cobertos com carne bovina moída e um molho leve de tomate e orégano.",
+    "history": "Lanche clássico das barracas de jantar de Colima e Villa de Álvarez; destaca-se pelo molho de tomate e orégano que o cobre generosamente.",
+    "ingredients": [
+      "300 g de massa de milho",
+      "300 g de carne bovina moída",
+      "4 tomates e 1 dente de alho",
+      "Orégano seco",
+      "Cebola picada e queijo curado",
+      "Banha para fritar"
+    ],
+    "steps": [
+      "Faça pequenos sopitos com borda elevada e cozinhe na chapa.",
+      "Cozinhe a carne moída com sal e desfaça bem os grumos.",
+      "Bata o tomate com alho e tempere com orégano para fazer o molho.",
+      "Mergulhe cada sopito no molho e frite na banha dos dois lados.",
+      "Cubra com carne e mais molho.",
+      "Finalize com cebola picada e queijo curado."
+    ],
+    "tips": [
+      "Cozinhe a carne moída até 71 °C e finalize os sopitos na hora de servir para manter as bases firmes."
+    ],
+    "sources": [
+      "Los Sabores de México",
+      "Gourmet de México",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-carnitas": {
+    "dishName": "Carnitas de Michoacán",
+    "summary": "Porco lentamente confitado na própria banha em um tacho de cobre, até ficar macio por dentro e dourado por fora.",
+    "history": "Orgulho de Michoacán, sobretudo de Quiroga e Uruapan; o tacho de cobre e o cozimento longo na banha dão às carnitas sua textura característica.",
+    "ingredients": [
+      "2 kg de cortes variados de porco (carne magra, costela e pele)",
+      "1 kg de banha",
+      "1 laranja cortada ao meio",
+      "Leite evaporado (opcional)",
+      "Alho, louro e sal",
+      "Tortillas, cebola, coentro e salsa"
+    ],
+    "steps": [
+      "Derreta a banha no tacho de cobre em fogo médio.",
+      "Acrescente os pedaços de porco com alho, louro e sal.",
+      "Junte a laranja e um pouco de leite para dourar e amaciar.",
+      "Cozinhe em fogo baixo por cerca de duas horas, mexendo de vez em quando.",
+      "Aumente o fogo no final para dourar as carnitas.",
+      "Pique e sirva em tacos com cebola, coentro e salsa."
+    ],
+    "tips": [
+      "Acrescente líquidos com cuidado enquanto a gordura ainda estiver morna; água em gordura muito quente pode causar respingos violentos."
+    ],
+    "sources": [
+      "Cocina michoacana tradicional",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-corundas": {
+    "dishName": "Corundas (tamales triangulares de Michoacán)",
+    "summary": "Tamal triangular de massa de milho envolto em folha da planta do milho, servido com crema, salsa e queijo.",
+    "history": "Tamal purépecha de Michoacán com seu formato triangular característico; é envolto na folha comprida da planta do milho, e não na palha seca da espiga.",
+    "ingredients": [
+      "500 g de massa de milho",
+      "150 g de banha",
+      "1 colher de chá de fermento químico",
+      "Folhas verdes compridas da planta do milho",
+      "Crema mexicana, salsa vermelha e queijo para servir",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Bata a banha até ficar aerada e incorpore a massa com sal e fermento.",
+      "Coloque uma porção de massa sobre a folha verde.",
+      "Dobre a folha em ângulos para formar o triângulo característico.",
+      "Cozinhe as corundas no vapor por cerca de uma hora.",
+      "Deixe descansar alguns minutos antes de desembrulhar.",
+      "Sirva cobertas com crema, salsa vermelha e queijo."
+    ],
+    "tips": [
+      "Mantenha a água fervente abaixo da grade, sem tocar os pacotes, e complete com água quente quando necessário."
+    ],
+    "sources": [
+      "Cocina purépecha de Michoacán",
+      "México Desconocido"
+    ]
+  },
+  "r-mxc-barbacoa": {
+    "dishName": "Barbacoa de cordeiro em forno de terra",
+    "summary": "Carne ovina cozida lentamente em forno de terra, envolta em folhas de maguey até ficar macia e suculenta.",
+    "history": "Tradição dominical do centro do México, fortemente enraizada no Estado do México e em Hidalgo; é preparada em uma cova forrada com folhas de maguey.",
+    "ingredients": [
+      "3 kg de cordeiro",
+      "Folhas de maguey passadas no fogo",
+      "Pimentas guajillo e ancho para o adobo",
+      "Alho, cominho e louro",
+      "Grão-de-bico e arroz para o consommé (opcionais)",
+      "Tortillas, cebola, coentro e salsa"
+    ],
+    "steps": [
+      "Cubra a carne com um adobo de pimentas, alho e especiarias.",
+      "Forre o forno de terra ou uma panela grande com as folhas de maguey.",
+      "Coloque um recipiente por baixo para recolher os sucos e fazer o consommé.",
+      "Disponha a carne sobre as folhas e cubra completamente.",
+      "Cozinhe por várias horas em fogo baixo, até a carne desfiar.",
+      "Sirva em tacos com o consommé à parte, cebola, coentro e salsa."
+    ],
+    "tips": [
+      "Na versão de forno, cozinhe bem coberto a 150-160 °C até o cordeiro desfiar e preserve o líquido do caldo."
+    ],
+    "sources": [
+      "Cocina tradicional del centro de México",
+      "Larousse Cocina",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-tacos-canasta": {
+    "dishName": "Tacos de canasta (tacos de cesta)",
+    "summary": "Tacos macios de recheios simples, prensados e abafados no vapor em uma cesta, servidos quentes e untuosos.",
+    "history": "Também chamados de tacos no vapor ou “suados”; são transportados em cestas de vime pelas ruas da Cidade do México e sua origem está ligada a Tlaxcala.",
+    "ingredients": [
+      "24 tortillas pequenas de milho",
+      "Recheios: batata, feijão e chicharrón prensado",
+      "Óleo aromatizado com pimenta guajillo",
+      "Cebola e coentro",
+      "Salsa verde picante"
+    ],
+    "steps": [
+      "Prepare os recheios separadamente e mantenha-os quentes.",
+      "Coloque um recheio em cada tortilla e dobre.",
+      "Pincele os tacos com o óleo de guajillo.",
+      "Disponha em camadas na cesta forrada com pano.",
+      "Cubra bem para suarem e aquecerem com o próprio vapor.",
+      "Sirva com mais salsa verde, cebola e coentro."
+    ],
+    "tips": [
+      "Os recheios devem estar completamente cozidos e quentes na montagem; prepare apenas o que será servido em breve."
+    ],
+    "sources": [
+      "Cocina callejera de la Ciudad de México",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-quesadillas-cdmx": {
+    "dishName": "Quesadillas de comal",
+    "summary": "Tortillas de massa de milho dobradas e recheadas, com ou sem queijo conforme o gosto da Cidade do México.",
+    "history": "Lanche cotidiano na Cidade do México, famoso pelo debate interminável sobre se uma quesadilla vem com queijo ou não quando pedida em uma barraca.",
+    "ingredients": [
+      "400 g de massa de milho",
+      "Queijo Oaxaca desfiado (opcional)",
+      "Recheios: flor de abóbora, huitlacoche ou cogumelos",
+      "Epazote fresco",
+      "Salsa verde ou vermelha",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Modele tortillas com a massa e coloque na chapa.",
+      "Acrescente o recheio e, se desejar, queijo e uma folha de epazote.",
+      "Dobre a tortilla ao meio, pressionando as bordas.",
+      "Cozinhe dos dois lados até a massa dourar e o recheio ficar quente.",
+      "Sirva imediatamente com salsa a gosto."
+    ],
+    "tips": [
+      "Use cogumelos ou flores de abóbora já cozidos e escorridos para não molharem a massa."
+    ],
+    "sources": [
+      "Cocina chilanga cotidiana",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-pastes": {
+    "dishName": "Pastes de Hidalgo",
+    "summary": "Pastéis assados de massa quebradiça, recheados com batata e carne, herança dos mineiros da Cornualha, na Inglaterra.",
+    "history": "Adaptação mexicana do pasty da Cornualha, levado às minas de Real del Monte, em Hidalgo, no século 19; hoje os recheios variam entre salgados e doces.",
+    "ingredients": [
+      "500 g de farinha para a massa",
+      "200 g de banha ou manteiga",
+      "300 g de batatas em cubinhos",
+      "350 g de carne bovina picada fino",
+      "Alho-poró ou cebola e salsinha",
+      "Sal e pimenta-do-reino",
+      "150 ml de água fria, ajustando se necessário",
+      "1 ovo batido para pincelar"
+    ],
+    "steps": [
+      "Faça uma massa quebradiça com farinha, gordura fria, sal e água; deixe descansar.",
+      "Misture batata crua, carne, alho-poró e salsinha com sal e pimenta.",
+      "Abra a massa e corte círculos.",
+      "Coloque o recheio, dobre e feche com o repulgue característico.",
+      "Pincele com ovo e asse a 190 °C por 30-35 minutos, até dourar e o recheio atingir 71 °C; as batatas devem estar macias.",
+      "Deixe esfriar um pouco antes de servir."
+    ],
+    "tips": [
+      "Corte as batatas em cubinhos de cerca de 5 mm de espessura para cozinharem junto com a carne dentro da massa."
+    ],
+    "sources": [
+      "Cocina de Real del Monte, Hidalgo",
+      "México Desconocido",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-cecina-yecapixtla": {
+    "dishName": "Cecina de Yecapixtla (carne bovina salgada)",
+    "summary": "Manta fina de carne bovina salgada e seca ao ar, grelhada no carvão e servida com crema, queijo e guacamole.",
+    "history": "Especialidade da cidade de Yecapixtla, em Morelos, famosa por sua cecina bovina fina; é servida ao lado de cecina suína temperada com pimenta e acompanhamentos frescos.",
+    "ingredients": [
+      "600 g de cecina bovina",
+      "Crema mexicana e queijo fresco",
+      "Abacate para guacamole",
+      "Nopales grelhados (opcionais)",
+      "Cebola, coentro e limão",
+      "Tortillas de milho"
+    ],
+    "steps": [
+      "Grelhe a cecina no carvão por alguns segundos de cada lado, cuidando para não ressecar.",
+      "Grelhe os nopales e a cebola ao lado da carne, se desejar.",
+      "Faça um guacamole simples com abacate, coentro, limão e sal.",
+      "Sirva a cecina com crema, queijo e guacamole.",
+      "Acompanhe com tortillas quentes para montar tacos."
+    ],
+    "tips": [
+      "A cecina já contém sal: prove os acompanhamentos antes de salgar e verifique o ponto com um termômetro."
+    ],
+    "sources": [
+      "Cocina tradicional de Morelos",
+      "México Desconocido"
+    ]
+  },
+  "r-mxc-mixiotes": {
+    "dishName": "Mixiotes de frango",
+    "summary": "Frango em adobo de pimenta cozido no vapor dentro de pequenos pacotes, tradicionalmente feitos da película do maguey.",
+    "history": "Prato dos planaltos centrais, muito presente em Tlaxcala; o nome vem da película fina da planta maguey na qual a carne temperada era originalmente embrulhada.",
+    "ingredients": [
+      "1.5 kg de frango em pedaços",
+      "Pimentas guajillo, ancho e pasilla",
+      "Alho, cominho e louro",
+      "Raquetes de nopal ou folha de abacateiro (opcionais)",
+      "Folhas para mixiote ou papel-manteiga",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Reidrate as pimentas e bata com alho e especiarias para fazer o adobo.",
+      "Marine o frango no adobo por pelo menos meia hora.",
+      "Coloque porções de frango com uma folha de abacateiro em cada invólucro.",
+      "Feche os mixiotes em pequenas trouxinhas.",
+      "Cozinhe no vapor até a carne ficar macia.",
+      "Sirva os mixiotes fechados para serem abertos à mesa, com tortillas."
+    ],
+    "tips": [
+      "Marine sempre na geladeira e verifique 74 °C no pedaço mais grosso de frango."
+    ],
+    "sources": [
+      "Cocina del altiplano tlaxcalteca",
+      "Larousse Cocina",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-c-charales-fritos": {
+    "dishName": "Charales fritos de Pátzcuaro",
+    "summary": "Peixinhos de lago fritos até ficarem dourados e crocantes, servidos em cone de papel com limão e salsa.",
+    "history": "Iguaria da região lacustre purépecha, os charales são pescados no lago de Pátzcuaro desde a época pré-hispânica. São vendidos quentes nas docas e barracas à beira do lago, embrulhados em papel, como lanche emblemático da cidade.",
+    "ingredients": [
+      "300 g de charales secos ou frescos, limpos (pequenos peixes de lago)",
+      "Suco de 2 limões",
+      "Sal a gosto",
+      "Óleo para fritar",
+      "Salsa de chile de árbol para servir",
+      "Gomos de limão para servir"
+    ],
+    "steps": [
+      "Enxágue os charales e escorra muito bem; se forem secos, deixe de molho por alguns minutos e seque.",
+      "Regue com suco de limão e um pouco de sal e deixe descansar por 5 minutos.",
+      "Aqueça bastante óleo e frite os charales em levas até ficarem dourados e crocantes.",
+      "Escorra em papel-toalha para retirar o excesso de gordura.",
+      "Sirva quentes em cone de papel com mais limão e salsa de chile de árbol."
+    ],
+    "tips": [
+      "Seque bem os peixes depois de acrescentar o limão para reduzir os respingos ao fritar."
+    ],
+    "sources": [
+      "Secretaría de Turismo de Michoacán",
+      "México Desconocido, cocina lacustre de Pátzcuaro"
+    ]
+  },
+  "r-pm-c-churipo": {
+    "dishName": "Churipo",
+    "summary": "Caldo vermelho purépecha de carne bovina com pimentas guajillo e legumes, tradicionalmente servido com corundas.",
+    "history": "Churipo, do purépecha churhípu, “caldo”, é um ensopado cerimonial dos planaltos e das margens do lago de Pátzcuaro, profundamente enraizado em Tzintzuntzan. Faz parte da cozinha tradicional de Michoacán, reconhecida como Patrimônio Cultural Imaterial da Humanidade.",
+    "ingredients": [
+      "1.2 kg de músculo bovino ou costela",
+      "6 pimentas guajillo sem sementes",
+      "2 pimentas pasilla sem sementes",
+      "2 espigas de milho em pedaços",
+      "2 chuchus em cubos",
+      "1 repolho pequeno em gomos",
+      "Alho, cebola e sal",
+      "Xoconostle ou limão para dar acidez"
+    ],
+    "steps": [
+      "Cozinhe a carne com cebola, alho e sal até ficar macia; reserve o caldo.",
+      "Reidrate as pimentas e bata com um pouco de caldo, alho e cebola; coe.",
+      "Incorpore o molho coado ao caldo e deixe cozinhar em fervura branda para desenvolver o sabor.",
+      "Acrescente milho, chuchu e repolho e cozinhe até ficarem macios.",
+      "Ajuste o sal e acrescente xoconostle picado ou algumas gotas de limão.",
+      "Sirva bem quente com corundas e tortillas."
+    ],
+    "tips": [
+      "Acrescente primeiro o milho, depois o chuchu e por último o repolho, para ele não se desfazer."
+    ],
+    "sources": [
+      "Cocina tradicional purépecha, El Sol de Morelia",
+      "Visit Michoacán, Tzintzuntzan"
+    ]
+  },
+  "r-pm-c-cantaritos": {
+    "dishName": "Cantaritos de Tequila",
+    "summary": "Coquetel refrescante de tequila com sucos cítricos e refrigerante de grapefruit, servido em um pequeno jarro de barro.",
+    "history": "Surgidos na região de Amatitán e Tequila no início do século 20, os cantaritos recebem o nome do pequeno jarro de barro que mantém a bebida fria e lhe dá uma nota mineral. Hoje são um ícone festivo do Pueblo Mágico de Tequila.",
+    "ingredients": [
+      "60 ml de tequila blanco",
+      "Suco de 1/2 laranja",
+      "Suco de 1/2 limão",
+      "Suco de 1/2 grapefruit",
+      "Refrigerante de grapefruit para completar",
+      "Sal com pimenta para a borda",
+      "Gelo e fatias de cítricos"
+    ],
+    "steps": [
+      "Passe limão e sal com pimenta na borda do jarro de barro.",
+      "Encha o jarro de gelo.",
+      "Despeje a tequila e os sucos de laranja, limão e grapefruit.",
+      "Complete com refrigerante de grapefruit e mexa delicadamente.",
+      "Decore com fatias de cítricos e sirva imediatamente."
+    ],
+    "tips": [
+      "Use uma caneca de barro vitrificado certificada para alimentos e gelo feito com água potável."
+    ],
+    "sources": [
+      "Turismo Guadalajara, origen del cantarito",
+      "Directo al Paladar México"
+    ]
+  },
+  "r-pm-c-el-bote": {
+    "dishName": "El Bote de Mazamitla",
+    "summary": "Caldo campestre de três carnes cozidas com pulque e legumes, com sabor defumado do fogo a lenha.",
+    "history": "Prato emblemático do Pueblo Mágico de Mazamitla, nos planaltos de Jalisco. Seu nome vem do bote, a panela grande em que era preparado no fogo a lenha; o pulque dá a esse ensopado festivo sua personalidade única.",
+    "ingredients": [
+      "500 g de carne bovina em pedaços",
+      "500 g de carne suína em pedaços",
+      "1 frango em pedaços",
+      "1 litro de pulque natural",
+      "Milho, cenoura, abóbora e chuchu",
+      "Cebola, alho, louro e sal",
+      "Pimentas inteiras a gosto"
+    ],
+    "steps": [
+      "Em uma panela grande, sele as carnes bovina e suína com cebola e alho.",
+      "Cubra com água, acrescente louro e sal e cozinhe até começarem a amaciar.",
+      "Junte os pedaços de frango e os legumes em pedaços grandes.",
+      "Despeje o pulque e acrescente as pimentas inteiras; cozinhe em fogo baixo.",
+      "Deixe tudo cozinhar lentamente até as carnes ficarem muito macias.",
+      "Sirva o caldo com as carnes e os legumes, acompanhado de tortillas e salsa."
+    ],
+    "tips": [
+      "Acrescente água suficiente para cobrir a carne e verifique se cada pedaço de frango atinge 74 °C."
+    ],
+    "sources": [
+      "Azteca Jalisco, gastronomía de Mazamitla",
+      "Gastronomía del Pueblo Mágico de Mazamitla",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-c-borrego-al-pastor": {
+    "dishName": "Cordeiro al pastor ao estilo de Tapalpa",
+    "summary": "Cordeiro marinado e cozido lentamente em forno de barro ou na brasa, com sabor defumado e carne macia.",
+    "history": "Em Tapalpa, a tradição do borrego al pastor remonta à época da Guerra Cristera, quando os refugiados na serra aproveitavam lenha e cordeiros. É cozido lentamente e servido com frijoles charros, diferentemente da barbacoa de cova.",
+    "ingredients": [
+      "3 kg de cordeiro em pedaços",
+      "6 pimentas guajillo e 3 ancho, sem sementes",
+      "Alho, cebola, cominho e orégano",
+      "Vinagre e suco de laranja",
+      "Folhas de abacateiro e louro",
+      "Sal e pimenta-do-reino",
+      "Frijoles charros para servir"
+    ],
+    "steps": [
+      "Reidrate as pimentas e bata com alho, cebola, especiarias, vinagre e suco de laranja.",
+      "Cubra a carne com adobo e deixe marinar por várias horas ou de um dia para o outro.",
+      "Arrume o cordeiro em uma assadeira com folhas de abacateiro e louro.",
+      "Cozinhe lentamente, coberto, em forno de barro ou na brasa até a carne se desfazer.",
+      "Reserve os sucos liberados para regar a carne ao servir.",
+      "Sirva com frijoles charros, cebola, coentro e tortillas quentes."
+    ],
+    "tips": [
+      "No forno doméstico, cozinhe coberto a 160 °C e acrescente um pouco de água no fundo se os sucos reduzirem demais."
+    ],
+    "sources": [
+      "Gourmet de México, Tapalpa",
+      "Latitud México, borrego al pastor de Tapalpa",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-c-nieve-aguacate": {
+    "dishName": "Sorvete de abacate de Dolores Hidalgo",
+    "summary": "Sorvete cremoso de sabor inusitado, batido com abacate, água, açúcar e limão.",
+    "history": "Dolores Hidalgo é famosa pelas nieves de garrafa, sorvetes batidos de sabores extravagantes, como abacate, mole, chicharrón e camarão, vendidos nas barracas ao redor da praça principal. O de abacate está entre os mais queridos dessa tradição de sorvetes passada por gerações.",
+    "ingredients": [
+      "3 abacates maduros",
+      "1 xícara de açúcar",
+      "2 xícaras de água fria",
+      "Suco de 1 limão",
+      "Gelo e sal grosso para a sorveteira"
+    ],
+    "steps": [
+      "Bata a polpa de abacate com água, açúcar e suco de limão até ficar lisa.",
+      "Despeje a mistura no cilindro da sorveteira ou em um recipiente de metal.",
+      "Cerque o recipiente com gelo e sal grosso para resfriar abaixo do ponto de congelamento.",
+      "Gire e raspe a mistura continuamente para incorporar ar e quebrar os cristais.",
+      "Continue batendo até obter um sorvete cremoso e firme.",
+      "Sirva imediatamente em copinho ou casquinha."
+    ],
+    "tips": [
+      "Mantenha o gelo com sal fora do recipiente do sorvete; não deixe a salmoura entrar na mistura."
+    ],
+    "sources": [
+      "Milenio, nieves de Dolores Hidalgo",
+      "México Desconocido, nieves de Dolores Hidalgo"
+    ]
+  },
+  "r-pm-c-fiambre-san-miguel": {
+    "dishName": "Fiambre à moda de San Miguel de Allende",
+    "summary": "Salada fria de carnes, frutas e legumes marinados em molho de azeite e vinagre, típica do Dia de Todos os Santos.",
+    "history": "O fiambre de San Miguel é preparado principalmente para o dia 1 de novembro. Combina frango, língua e pés de porco com frutas e legumes banhados em azeite e vinagre; é um dos preparos sazonais mais emblemáticos da culinária de Guanajuato.",
+    "ingredients": [
+      "1 peito de frango cozido e desfiado",
+      "1 língua bovina cozida e fatiada",
+      "2 pés de porco cozidos",
+      "Laranja, banana, maçã, jícama e goiaba",
+      "Beterraba cozida em cubos",
+      "Alface, abacate e azeitonas",
+      "Azeite, vinagre, orégano e sal"
+    ],
+    "steps": [
+      "Comece com frango, língua e pés de porco já cozidos e resfriados na geladeira; esta receita descreve a montagem da travessa fria.",
+      "Corte as frutas e os legumes em cubos ou fatias.",
+      "Prepare um molho com azeite, vinagre, orégano e sal.",
+      "Faça uma cama de alface e arrume carnes, frutas e beterraba por cima.",
+      "Regue tudo com o molho e deixe marinar no frio por pelo menos uma hora.",
+      "Sirva decorado com abacate e azeitonas."
+    ],
+    "tips": [
+      "Resfrie as carnes cozidas na geladeira e monte o prato frio; não as deixe esfriando por horas sobre a bancada."
+    ],
+    "sources": [
+      "Guanajuato.mx, fiambre estilo San Miguel de Allende",
+      "Periódico Correo, receta de fiambre"
+    ]
+  }
+}

@@ -22,20 +22,21 @@ export function UniversalSearch() {
   const router = useRouter();
   const locale = useLocale();
   const t = getDictionary(locale);
+  const minimumQueryLength = locale === "zh" || locale === "ja" ? 1 : 2;
   const hits = useMemo<Hit[]>(() => {
     const term = normalize(q.trim());
-    if (term.length < 2) return [];
+    if (term.length < minimumQueryLength) return [];
     const places = PLACES.map(p => ({ p, label: translatePlaceName(p, locale) }))
       .filter(({ p, label }) => normalize(p.name).includes(term) || normalize(label).includes(term)).slice(0, 5)
       .map(({ p, label }) => ({ key: `p-${p.id}`, label, sub: t.place.kind[p.type], place: true, href: placeHref(locale, p) }));
-    const recipes = recipeSearch.map(r => ({ r, label: locale === "en" ? r.en : r.dishName }))
-      .filter(({ r, label }) => normalize(r.dishName).includes(term) || normalize(label).includes(term)).slice(0, 6)
+    const recipes = recipeSearch.map(r => ({ r, label: r.names[locale] }))
+      .filter(({ r }) => Object.values(r.names).some(name => normalize(name).includes(term))).slice(0, 6)
       .map(({ r, label }) => ({ key: `r-${r.id}`, label, sub: t.search.recipe, place: false, href: recipeHref(locale, r.slug) }));
     return [...places, ...recipes];
-  }, [q, locale, t]);
-  const showList = focused && q.trim().length >= 2;
+  }, [q, locale, t, minimumQueryLength]);
+  const showList = focused && q.trim().length >= minimumQueryLength;
   return (
-    <div className="search-box" role="search" onBlur={e => { if (!e.currentTarget.contains(e.relatedTarget)) setFocused(false); }}>
+    <div className="search-box" dir={locale === "ar" || locale === "ur" ? "rtl" : "ltr"} role="search" onBlur={e => { if (!e.currentTarget.contains(e.relatedTarget)) setFocused(false); }}>
       <div className="search-field">
         <Search size={20} className="shrink-0 text-agave-deep" aria-hidden="true" />
         <input ref={input} value={q} onChange={e => { setQ(e.target.value); setActive(-1); setFocused(true); }} onFocus={() => setFocused(true)} placeholder={t.search.placeholder} aria-label={t.search.placeholder}

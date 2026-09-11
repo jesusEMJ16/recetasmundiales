@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "recipes:index": "node --import tsx scripts/build-recipe-search.ts"
   },
   "dependencies": {
     "@types/leaflet": "^1.9.22",

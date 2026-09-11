@@ -1,3 +1,4 @@
+import { noPublishedRecipes } from "../../../../i18n/recipe-editorial-ui";
 import Link from "next/link";
 import { Suspense } from "react";
 import { notFound } from "next/navigation";
@@ -15,7 +16,7 @@ import { RecipeList } from "../../../../components/RecipeList";
 import { SortControls } from "../../../../components/SortControls";
 import { FilterControls } from "../../../../components/FilterControls";
 import { StatesGrid } from "../../../../components/StatesGrid";
-import { isLocale, locales, localeMeta } from "../../../../i18n/config";
+import { isLocale, locales, localeMeta, localeDirection } from "../../../../i18n/config";
 import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
 import { placeHref, placeHrefFromSlugs } from "../../../../i18n/routing";
@@ -151,7 +152,7 @@ export default async function PlacePage({
     "@type": "ItemList",
     name: t.place.title(translatePlaceName(place, locale)),
     itemListElement: recipes.map((r, i) => ({
-      "@type": "ListItem", position: i + 1, name: r.dishName, url: `/${locale}/receta/${r.slug}`,
+      "@type": "ListItem", position: i + 1, name: translateRecipe(r, locale).dishName, url: `/${locale}/receta/${r.slug}`,
     })),
   };
 
@@ -162,7 +163,7 @@ export default async function PlacePage({
   };
 
   return (
-    <div className="space-y-8">
+    <div dir={localeDirection(locale)} className="space-y-8">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(combinedSchema) }} />
 
       <nav className="reveal flex flex-wrap items-center gap-1 text-sm text-ink-soft">
@@ -212,7 +213,7 @@ export default async function PlacePage({
 
         {allHere.length === 0 ? (
           <div className="rounded-2xl border border-line bg-card p-8 text-center">
-            <h2 className="text-2xl">{locale === "es" ? "Todavía no hay recetas publicadas aquí" : "No recipes have been published here yet"}</h2>
+            <h2 className="text-2xl">{noPublishedRecipes[locale]}</h2>
             <p className="mt-3 text-ink-soft">{t.place.title(translatePlaceName(place, locale))} · {t.place.recipes(0)}</p>
             <Link href={`/${locale}`} className="mt-5 inline-block font-semibold text-agave-deep">{t.home.mapTitle} →</Link>
           </div>

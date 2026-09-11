@@ -1,0 +1,31 @@
+{
+  "status": "paused-by-user-save-exact-current-state",
+  "baseCommit": "95801a00679dcff696bccb5b5090a3a793f1ba3e",
+  "catalogCounts": {
+    "es": 198,
+    "ja": 198,
+    "zh": 198,
+    "fr": 140,
+    "ar": 198,
+    "id": 60,
+    "hi": 198,
+    "ru": 45,
+    "bn": 198,
+    "ur": 198,
+    "en": 198,
+    "pt": 60
+  },
+  "unmergedTailCounts": {
+    "id": 15,
+    "pt": 14,
+    "ru": 30
+  },
+  "remaining": {
+    "fr": 58,
+    "id": 123,
+    "pt": 124,
+    "ru": 123
+  },
+  "validation": "Partial JSON files parse successfully. Final integration tests and production build have not been run. Search index remains in the previous schema; catalogs and integration are incomplete. Do not merge or deploy this checkpoint.",
+  "resume": "Merge the separate tail fragments by recipe ID when continuing. Each language must have exactly the 198 source IDs before regenerating recipes:index, running tests, and building."
+}
