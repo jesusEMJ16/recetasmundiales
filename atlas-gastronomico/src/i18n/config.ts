@@ -41,3 +41,7 @@ export function isLocale(value: string): value is Locale {
 export function resolveLocale(value: string | undefined): Locale {
   return value && isLocale(value) ? value : defaultLocale;
 }
+
+export function localeDirection(locale: Locale): "rtl" | "ltr" {
+  return locale === "ar" || locale === "ur" ? "rtl" : "ltr";
+}

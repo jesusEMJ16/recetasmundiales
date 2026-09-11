@@ -15,3 +15,102 @@ export const recipeEditorialUi: Record<Locale, EditorialUi> = {
   id: { tips: "Tips memasak", prep: "Persiapan", cook: "Memasak", rest: "Waktu tunggu dan istirahat", fallback: "Resep ini tersedia dalam bahasa Spanyol dan Inggris.", difficulty: { facil: "Mudah", media: "Sedang", dificil: "Sulit" } },
   ja: { tips: "調理のコツ", prep: "準備", cook: "調理", rest: "待ち時間・休ませる時間", fallback: "このレシピは現在スペイン語と英語でご覧いただけます。", difficulty: { facil: "簡単", media: "中級", dificil: "難しい" } },
 };
+
+export const nutritionLabels: Record<Locale, Record<"calories" | "protein" | "carbohydrates" | "fat" | "fiber" | "sodium", string>> = {
+  "es": {
+    "calories": "Calorías",
+    "protein": "Proteínas",
+    "carbohydrates": "Carbohidratos",
+    "fat": "Grasas",
+    "fiber": "Fibra",
+    "sodium": "Sodio"
+  },
+  "en": {
+    "calories": "Calories",
+    "protein": "Protein",
+    "carbohydrates": "Carbohydrates",
+    "fat": "Fat",
+    "fiber": "Fiber",
+    "sodium": "Sodium"
+  },
+  "zh": {
+    "calories": "热量",
+    "protein": "蛋白质",
+    "carbohydrates": "碳水化合物",
+    "fat": "脂肪",
+    "fiber": "膳食纤维",
+    "sodium": "钠"
+  },
+  "hi": {
+    "calories": "कैलोरी",
+    "protein": "प्रोटीन",
+    "carbohydrates": "कार्बोहाइड्रेट",
+    "fat": "वसा",
+    "fiber": "फाइबर",
+    "sodium": "सोडियम"
+  },
+  "fr": {
+    "calories": "Calories",
+    "protein": "Protéines",
+    "carbohydrates": "Glucides",
+    "fat": "Lipides",
+    "fiber": "Fibres",
+    "sodium": "Sodium"
+  },
+  "ar": {
+    "calories": "السعرات الحرارية",
+    "protein": "البروتين",
+    "carbohydrates": "الكربوهيدرات",
+    "fat": "الدهون",
+    "fiber": "الألياف",
+    "sodium": "الصوديوم"
+  },
+  "bn": {
+    "calories": "ক্যালোরি",
+    "protein": "প্রোটিন",
+    "carbohydrates": "শর্করা",
+    "fat": "চর্বি",
+    "fiber": "আঁশ",
+    "sodium": "সোডিয়াম"
+  },
+  "pt": {
+    "calories": "Calorias",
+    "protein": "Proteínas",
+    "carbohydrates": "Carboidratos",
+    "fat": "Gorduras",
+    "fiber": "Fibras",
+    "sodium": "Sódio"
+  },
+  "ru": {
+    "calories": "Калории",
+    "protein": "Белки",
+    "carbohydrates": "Углеводы",
+    "fat": "Жиры",
+    "fiber": "Клетчатка",
+    "sodium": "Натрий"
+  },
+  "ur": {
+    "calories": "کیلوریز",
+    "protein": "پروٹین",
+    "carbohydrates": "کاربوہائیڈریٹس",
+    "fat": "چکنائی",
+    "fiber": "فائبر",
+    "sodium": "سوڈیم"
+  },
+  "id": {
+    "calories": "Kalori",
+    "protein": "Protein",
+    "carbohydrates": "Karbohidrat",
+    "fat": "Lemak",
+    "fiber": "Serat",
+    "sodium": "Natrium"
+  },
+  "ja": {
+    "calories": "カロリー",
+    "protein": "たんぱく質",
+    "carbohydrates": "炭水化物",
+    "fat": "脂質",
+    "fiber": "食物繊維",
+    "sodium": "ナトリウム"
+  }
+};

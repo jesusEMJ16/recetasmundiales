@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Moment, Recipe } from "../domain/types";
+import { localeDirection } from "../i18n/config";
 import type { Locale } from "../i18n/config";
 import { getDictionary } from "../i18n/dictionaries";
 import { recipeHref } from "../i18n/routing";
@@ -43,7 +44,7 @@ export function RecipeCard({ recipe, locale, index = 0 }: { recipe: Recipe; loca
         </span>
       </div>
 
-      <div lang={recipeContentLocale(locale)} dir="ltr" className="recipe-copy flex flex-1 flex-col">
+      <div lang={recipeContentLocale(locale)} dir={localeDirection(recipeContentLocale(locale))} className="recipe-copy flex flex-1 flex-col">
         <h3 className="font-display text-lg leading-snug text-ink transition-colors group-hover:text-terracota">
           {recipe.dishName}
         </h3>

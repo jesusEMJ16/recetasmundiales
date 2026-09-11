@@ -1,13 +1,20 @@
 import { describe, expect, it } from "vitest";
 import { RECIPES } from "../data/recipes";
 import { PLACES } from "../data/places";
-import { locales } from "../i18n/config";
+import { locales, localeDirection } from "../i18n/config";
 import { availableRecipeLocales, recipeContentLocale, recipeTranslations, translateRecipe } from "../i18n/recipe-content";
 import { buildRecipeCounts } from "./atlas";
 import { getRecipesForPlace } from "./places";
 import atlas from "../data/world-atlas.json";
 
 describe("reviewed recipe catalog", () => {
+  it("uses RTL for Arabic and Urdu while preserving the Spanish fallback direction", () => {
+    for (const locale of locales) {
+      expect(localeDirection(locale)).toBe(locale === "ar" || locale === "ur" ? "rtl" : "ltr");
+      expect(localeDirection(recipeContentLocale(locale))).toBe("ltr");
+    }
+  });
+
   it("retains 198 distinct recipes with consistent timing and usable content", () => {
     expect(RECIPES).toHaveLength(198);
     expect(new Set(RECIPES.map(r => r.id)).size).toBe(198);
