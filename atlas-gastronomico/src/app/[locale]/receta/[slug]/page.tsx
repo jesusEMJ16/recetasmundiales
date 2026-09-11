@@ -13,8 +13,8 @@ import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
 import { placeHrefFromSlugs } from "../../../../i18n/routing";
 import { translatePlaceName } from "../../../../i18n/content";
-import { translateRecipe, recipeContentLocale, availableRecipeLocales } from "../../../../i18n/recipe-content";
-import { recipeEditorialUi, nutritionLabels } from "../../../../i18n/recipe-editorial-ui";
+import { translateRecipe, recipeContentLocale, getRecipeLocales } from "../../../../i18n/recipe-content";
+import { recipeEditorialUi, nutritionLabels, translationPending } from "../../../../i18n/recipe-editorial-ui";
 
 export function generateStaticParams() {
   return locales.flatMap((locale) => RECIPES.map((r) => ({ locale, slug: r.slug })));
@@ -23,11 +23,10 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
   const { locale, slug } = await params;
   const base = RECIPES.find((x) => x.slug === slug);
-  if (!base) return {};
+  if (!base || !isLocale(locale)) return {};
   const r = isLocale(locale) ? translateRecipe(base, locale) : base;
   
   const canonicalUrl = `https://worldbitesapp.com/${locale}/receta/${slug}`;
-  const localeInfo = localeMeta[locale as Locale];
   
   // Get place for breadcrumb
   const place = PLACES.find((p) => p.id === r.placeId);
@@ -60,20 +59,20 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   };
 
   return {
-    robots: { index: availableRecipeLocales.includes(locale as Locale), follow: true },
+    robots: { index: getRecipeLocales(base.id).includes(locale), follow: true },
     title: r.dishName,
     description: r.summary,
     alternates: {
       canonical: canonicalUrl,
       languages: Object.fromEntries(
-        availableRecipeLocales.map((l) => [l, `https://worldbitesapp.com/${l}/receta/${slug}`])
+        getRecipeLocales(base.id).map((l) => [l, `https://worldbitesapp.com/${l}/receta/${slug}`])
       ),
     },
     openGraph: {
       title: r.dishName,
       description: r.summary,
       type: "article",
-      locale: localeInfo?.htmlLang || "es",
+      locale: localeMeta[recipeContentLocale(locale, base.id)].htmlLang,
       url: canonicalUrl,
       siteName: "Atlas Gastronómico Mundial",
     },
@@ -100,7 +99,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
 
   const t = getDictionary(locale);
   const recipe = translateRecipe(base, locale);
-  const contentLocale = recipeContentLocale(locale);
+  const contentLocale = recipeContentLocale(locale, base.id);
   const editorial = recipeEditorialUi[locale];
 
   const place = PLACES.find((p) => p.id === recipe.placeId);
@@ -186,6 +185,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
           <span className="text-sm capitalize text-ink-soft">· {t.moments[recipe.moment]}</span>
         </div>
         <p lang={contentLocale} dir={localeDirection(contentLocale)} className="text-lg leading-relaxed text-ink-soft">{recipe.summary}</p>
+        {contentLocale !== locale && <p className="text-sm text-ink-soft">{translationPending[locale]}</p>}
       </header>
 
       <figure className="reveal-scale space-y-1.5" style={{ animationDelay: "120ms" }}>

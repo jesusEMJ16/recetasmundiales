@@ -129,3 +129,18 @@ export const noPublishedRecipes: Record<Locale, string> = {
   id: "Belum ada resep yang diterbitkan di sini",
   ja: "ここにはまだレシピが公開されていません",
 };
+
+export const translationPending: Record<Locale, string> = {
+  es: "Esta receta se muestra en español mientras se completa su traducción.",
+  en: "This recipe is shown in Spanish while its translation is being completed.",
+  zh: "此食谱的翻译尚未完成，目前显示西班牙语版本。",
+  hi: "इस रेसिपी का अनुवाद पूरा होने तक इसे स्पेनिश में दिखाया जा रहा है।",
+  fr: "Cette recette est affichée en espagnol en attendant sa traduction.",
+  ar: "تُعرض هذه الوصفة بالإسبانية إلى حين اكتمال ترجمتها.",
+  bn: "অনুবাদ সম্পূর্ণ না হওয়া পর্যন্ত এই রেসিপিটি স্প্যানিশে দেখানো হচ্ছে।",
+  pt: "Esta receita é exibida em espanhol enquanto a tradução é concluída.",
+  ru: "Пока перевод не завершён, рецепт отображается на испанском языке.",
+  ur: "ترجمہ مکمل ہونے تک یہ ترکیب ہسپانوی میں دکھائی جا رہی ہے۔",
+  id: "Resep ini ditampilkan dalam bahasa Spanyol sementara terjemahannya diselesaikan.",
+  ja: "翻訳が完了するまで、このレシピはスペイン語で表示されます。",
+};

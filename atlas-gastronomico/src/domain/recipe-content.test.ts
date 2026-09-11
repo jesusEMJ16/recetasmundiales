@@ -2,20 +2,26 @@ import { describe, expect, it } from "vitest";
 import { RECIPES } from "../data/recipes";
 import { PLACES } from "../data/places";
 import { locales, localeDirection } from "../i18n/config";
-import { availableRecipeLocales, recipeContentLocale, recipeTranslations, translateRecipe } from "../i18n/recipe-content";
+import { getRecipeLocales, recipeContentLocale, recipeTranslations, translateRecipe } from "../i18n/recipe-content";
 import { buildRecipeCounts } from "./atlas";
 import { getRecipesForPlace } from "./places";
 import atlas from "../data/world-atlas.json";
 import recipeSearch from "../data/recipe-search.json";
 import sitemap from "../app/sitemap";
+import { generateMetadata } from "../app/[locale]/receta/[slug]/page";
 import reviewedNumbers from "../../docs/recipe-number-equivalences.json";
+
+const savedCounts = { en: 198, zh: 198, hi: 198, fr: 140, ar: 198, bn: 198, pt: 60, ru: 45, ur: 198, id: 60, ja: 198 };
 
 describe("reviewed recipe catalog", () => {
   it("uses the selected language and the correct reading direction", () => {
     for (const locale of locales) {
       expect(localeDirection(locale)).toBe(locale === "ar" || locale === "ur" ? "rtl" : "ltr");
-      expect(recipeContentLocale(locale)).toBe(locale);
-      expect(localeDirection(recipeContentLocale(locale))).toBe(localeDirection(locale));
+      for (const recipe of RECIPES) {
+        const expected = locale === "es" || recipeTranslations[locale][recipe.id] ? locale : "es";
+        expect(recipeContentLocale(locale, recipe.id)).toBe(expected);
+        expect(localeDirection(recipeContentLocale(locale, recipe.id))).toBe(localeDirection(expected));
+      }
     }
   });
 
@@ -59,9 +65,11 @@ describe("reviewed recipe catalog", () => {
         expect(numbers(text), key).toEqual(numbers(numericSource));
       }
     };
-    for (const locale of availableRecipeLocales.filter(l => l !== "es")) {
-      expect(Object.keys(recipeTranslations[locale]).sort()).toEqual(RECIPES.map(r => r.id).sort());
-      for (const recipe of RECIPES) {
+    for (const locale of locales.filter(l => l !== "es")) {
+      const translatedIds = Object.keys(recipeTranslations[locale]);
+      expect(translatedIds).toHaveLength(savedCounts[locale]);
+      expect(translatedIds.every(id => RECIPES.some(recipe => recipe.id === id))).toBe(true);
+      for (const recipe of RECIPES.filter(recipe => recipeTranslations[locale][recipe.id])) {
         const translated = translateRecipe(recipe, locale);
         expect(translated.ingredients, recipe.id).toHaveLength(recipe.ingredients.length);
         expect(translated.steps, recipe.id).toHaveLength(recipe.steps.length);
@@ -87,12 +95,12 @@ describe("reviewed recipe catalog", () => {
     }
   });
 
-  it("covers all twelve locales without Spanish or English body fallbacks", () => {
-    expect(availableRecipeLocales).toEqual(locales);
+  it("keeps every saved translation in its actual language", () => {
     const scripts = { zh: /\p{Script=Han}/u, hi: /\p{Script=Devanagari}/u, ar: /\p{Script=Arabic}/u, bn: /\p{Script=Bengali}/u, ru: /\p{Script=Cyrillic}/u, ur: /\p{Script=Arabic}/u, ja: /[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}]/u };
     for (const locale of locales.filter(l => l !== "es" && l !== "en")) {
       for (const recipe of RECIPES) {
         const translated = recipeTranslations[locale][recipe.id];
+        if (!translated) continue;
         for (const field of ["summary", "history"] as const) {
           expect(translated[field], `${locale}/${recipe.id}/${field}`).not.toBe(recipe[field]);
           expect(translated[field], `${locale}/${recipe.id}/${field}`).not.toBe(recipeTranslations.en[recipe.id][field]);
@@ -102,20 +110,48 @@ describe("reviewed recipe catalog", () => {
     }
   });
 
-  it("uses localized search titles and lists all 2376 recipe URLs in the sitemap", () => {
+  it("uses twelve search labels and indexes only the 1889 available recipe translations", () => {
     expect(recipeSearch).toHaveLength(198);
     const recipeEntries = sitemap().filter(entry => /\/receta\//.test(entry.url));
-    expect(recipeEntries).toHaveLength(198 * 12);
-    expect(new Set(recipeEntries.map(entry => entry.url)).size).toBe(198 * 12);
+    expect(recipeEntries).toHaveLength(1889);
+    expect(new Set(recipeEntries.map(entry => entry.url)).size).toBe(1889);
     for (const locale of locales) {
       for (const recipe of RECIPES) {
         const search = recipeSearch.find(entry => entry.id === recipe.id);
         expect(search?.slug).toBe(recipe.slug);
+        const url = `https://worldbitesapp.com/${locale}/receta/${recipe.slug}`;
+        expect(recipeEntries.some(entry => entry.url === url), url).toBe(getRecipeLocales(recipe.id).includes(locale));
         expect(search?.names[locale], `${locale}/${recipe.id}`).toBe(translateRecipe(recipe, locale).dishName);
       }
       const translated = RECIPES.map(recipe => translateRecipe(recipe, locale));
       expect(buildRecipeCounts(PLACES, translated)).toEqual(buildRecipeCounts(PLACES, RECIPES));
     }
+  });
+
+
+  it("renders missing translations from the original without altering recipe data", () => {
+    for (const locale of ["fr", "pt", "ru", "id"] as const) {
+      const missing = RECIPES.find(recipe => !recipeTranslations[locale][recipe.id])!;
+      expect(missing).toBeDefined();
+      expect(translateRecipe(missing, locale)).toBe(missing);
+      expect(recipeContentLocale(locale, missing.id)).toBe("es");
+      expect(getRecipeLocales(missing.id)).not.toContain(locale);
+      const present = RECIPES.find(recipe => recipeTranslations[locale][recipe.id])!;
+      expect(recipeContentLocale(locale, present.id)).toBe(locale);
+      expect(translateRecipe(present, locale).summary).toBe(recipeTranslations[locale][present.id].summary);
+    }
+  });
+
+  it("excludes fallback pages from indexing and hreflang while keeping translated pages available", async () => {
+    const missing = RECIPES.find(recipe => !recipeTranslations.fr[recipe.id])!;
+    const fallback = await generateMetadata({ params: Promise.resolve({ locale: "fr", slug: missing.slug }) });
+    expect(fallback.robots).toEqual({ index: false, follow: true });
+    expect(fallback.alternates?.languages).not.toHaveProperty("fr");
+    expect(fallback.openGraph).toMatchObject({ locale: "es" });
+    const translated = await generateMetadata({ params: Promise.resolve({ locale: "fr", slug: RECIPES[0].slug }) });
+    expect(translated.robots).toEqual({ index: true, follow: true });
+    expect(translated.alternates?.languages).toHaveProperty("fr");
+    expect(translated.title).toBe(recipeTranslations.fr[RECIPES[0].id].dishName);
   });
 
   it("corrects dietary claims contradicted by the actual ingredients", () => {

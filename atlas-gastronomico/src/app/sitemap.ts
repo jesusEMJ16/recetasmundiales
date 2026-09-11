@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { PLACES } from '../data/places';
 import { RECIPES } from '../data/recipes';
 import { locales } from '../i18n/config';
-import { availableRecipeLocales } from '../i18n/recipe-content';
+import { getRecipeLocales } from '../i18n/recipe-content';
 import { buildRecipeCounts } from '../domain/atlas';
 import { placePathSlugs } from '../domain/places';
 
@@ -45,7 +45,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
 
     // Páginas de recetas individuales
-    if (availableRecipeLocales.includes(locale)) RECIPES.forEach((recipe) => {
+    RECIPES.filter(recipe => getRecipeLocales(recipe.id).includes(locale)).forEach((recipe) => {
       sitemapEntries.push({
         url: `${BASE_URL}/${locale}/receta/${recipe.slug}`,
         lastModified: new Date(recipe.updatedAt ?? recipe.publishedAt),

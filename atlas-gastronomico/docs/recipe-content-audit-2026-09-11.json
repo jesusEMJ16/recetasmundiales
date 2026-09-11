@@ -14,19 +14,19 @@
   },
   "completeContentLocales": [
     "es",
-    "en"
-  ],
-  "pendingContentLocales": [
+    "en",
     "zh",
     "hi",
-    "fr",
     "ar",
     "bn",
+    "ur",
+    "ja"
+  ],
+  "pendingContentLocales": [
+    "fr",
     "pt",
     "ru",
-    "ur",
-    "id",
-    "ja"
+    "id"
   ],
   "countryTotals": [
     {
@@ -85,6 +85,20 @@
       "recipes": 1
     }
   ],
-  "coverageStatus": "incomplete: ten requested languages still require translation",
-  "translationNotes": "Spanish editorial update and English review are complete. Rejected automatic samples were not included. Other locale recipe routes explicitly identify Spanish fallback and are not indexed as completed translations."
+  "coverageStatus": "partial: missing translations display the Spanish original; 1889 recipe-language pages have translated content",
+  "translationNotes": "Saved translations are preserved. Search labels are generated before the Netlify build. Recipe language, hreflang and sitemap eligibility are resolved per recipe. Missing translations display a localized notice and are not indexed as completed translations. Separate checkpoint tail fragments remain unmerged.",
+  "availableTranslationCounts": {
+    "es": 198,
+    "ja": 198,
+    "zh": 198,
+    "fr": 140,
+    "ar": 198,
+    "id": 60,
+    "hi": 198,
+    "ru": 45,
+    "bn": 198,
+    "ur": 198,
+    "en": 198,
+    "pt": 60
+  }
 }

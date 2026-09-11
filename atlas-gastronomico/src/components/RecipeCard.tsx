@@ -44,7 +44,7 @@ export function RecipeCard({ recipe, locale, index = 0 }: { recipe: Recipe; loca
         </span>
       </div>
 
-      <div lang={recipeContentLocale(locale)} dir={localeDirection(recipeContentLocale(locale))} className="recipe-copy flex flex-1 flex-col">
+      <div lang={recipeContentLocale(locale, recipe.id)} dir={localeDirection(recipeContentLocale(locale, recipe.id))} className="recipe-copy flex flex-1 flex-col">
         <h3 className="font-display text-lg leading-snug text-ink transition-colors group-hover:text-terracota">
           {recipe.dishName}
         </h3>

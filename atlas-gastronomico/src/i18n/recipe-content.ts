@@ -22,8 +22,6 @@ export interface CompleteRecipeTranslation {
   sources: string[];
 }
 
-// Every configured locale has a complete, audited catalog.
-export const availableRecipeLocales: readonly Locale[] = locales;
 export const recipeTranslations: Record<Exclude<Locale, "es">, Record<string, CompleteRecipeTranslation>> = {
   en: english,
   zh,
@@ -38,14 +36,19 @@ export const recipeTranslations: Record<Exclude<Locale, "es">, Record<string, Co
   ja,
 };
 
-export function recipeContentLocale(locale: Locale): Locale {
-  return locale;
+// Availability belongs to each recipe: four saved catalogs are still partial.
+export function recipeContentLocale(locale: Locale, recipeId: string): Locale {
+  return locale === "es" || Object.hasOwn(recipeTranslations[locale], recipeId) ? locale : "es";
+}
+
+export function getRecipeLocales(recipeId: string): Locale[] {
+  return locales.filter(locale => recipeContentLocale(locale, recipeId) === locale);
 }
 
 export function translateRecipe(recipe: Recipe, locale: Locale): Recipe {
   if (locale === "es") return recipe;
   const translation = recipeTranslations[locale][recipe.id];
-  if (!translation) throw new Error(`Missing recipe translation: ${locale}/${recipe.id}`);
+  if (!translation) return recipe;
   return {
     ...recipe,
     ...translation,
