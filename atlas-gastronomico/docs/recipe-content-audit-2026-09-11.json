@@ -1,0 +1,90 @@
+{
+  "reviewedAt": "2026-09-11",
+  "recipeCount": 198,
+  "uniqueRecipeRoutes": 198,
+  "contentChanges": {
+    "ingredients": 60,
+    "steps": 63,
+    "history": 28,
+    "summary": 26,
+    "placeId": 7,
+    "diet": 29,
+    "totalTimeMin": 54,
+    "slug": 1
+  },
+  "completeContentLocales": [
+    "es",
+    "en"
+  ],
+  "pendingContentLocales": [
+    "zh",
+    "hi",
+    "fr",
+    "ar",
+    "bn",
+    "pt",
+    "ru",
+    "ur",
+    "id",
+    "ja"
+  ],
+  "countryTotals": [
+    {
+      "code": "MX",
+      "name": "México",
+      "recipes": 101
+    },
+    {
+      "code": "US",
+      "name": "Estados Unidos",
+      "recipes": 68
+    },
+    {
+      "code": "IT",
+      "name": "Italia",
+      "recipes": 8
+    },
+    {
+      "code": "JP",
+      "name": "Japón",
+      "recipes": 3
+    },
+    {
+      "code": "TH",
+      "name": "Tailandia",
+      "recipes": 3
+    },
+    {
+      "code": "FR",
+      "name": "Francia",
+      "recipes": 4
+    },
+    {
+      "code": "ES",
+      "name": "España",
+      "recipes": 4
+    },
+    {
+      "code": "DE",
+      "name": "Alemania",
+      "recipes": 2
+    },
+    {
+      "code": "GR",
+      "name": "Grecia",
+      "recipes": 2
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "recipes": 2
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "recipes": 1
+    }
+  ],
+  "coverageStatus": "incomplete: ten requested languages still require translation",
+  "translationNotes": "Spanish editorial update and English review are complete. Rejected automatic samples were not included. Other locale recipe routes explicitly identify Spanish fallback and are not indexed as completed translations."
+}
