@@ -8,13 +8,13 @@ import { getRelatedRecipes } from "../../../../domain/related";
 import { getRecipeImage } from "../../../../data/recipe-images";
 import { StarRating } from "../../../../components/StarRating";
 import { RecipeCard } from "../../../../components/RecipeCard";
-import { isLocale, locales, localeMeta } from "../../../../i18n/config";
+import { isLocale, locales, localeMeta, localeDirection } from "../../../../i18n/config";
 import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
 import { placeHrefFromSlugs } from "../../../../i18n/routing";
 import { translatePlaceName } from "../../../../i18n/content";
 import { translateRecipe, recipeContentLocale, availableRecipeLocales } from "../../../../i18n/recipe-content";
-import { recipeEditorialUi } from "../../../../i18n/recipe-editorial-ui";
+import { recipeEditorialUi, nutritionLabels } from "../../../../i18n/recipe-editorial-ui";
 
 export function generateStaticParams() {
   return locales.flatMap((locale) => RECIPES.map((r) => ({ locale, slug: r.slug })));
@@ -162,7 +162,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
   };
 
   return (
-    <article className="mx-auto max-w-3xl space-y-8">
+    <article dir={localeDirection(locale)} className="mx-auto max-w-3xl space-y-8">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(combinedSchema) }} />
 
       <nav className="reveal flex flex-wrap items-center gap-1 text-sm text-ink-soft">
@@ -181,12 +181,12 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
 
       <header className="reveal space-y-4" style={{ animationDelay: "60ms" }}>
         {place && <p className="eyebrow text-terracota">📍 {translatePlaceName(place, locale)}</p>}
-        <h1 lang={contentLocale} dir="ltr" className="font-display text-4xl leading-tight text-ink sm:text-5xl">{recipe.dishName}</h1>
+        <h1 lang={contentLocale} dir={localeDirection(contentLocale)} className="font-display text-4xl leading-tight text-ink sm:text-5xl">{recipe.dishName}</h1>
         <div className="flex flex-wrap items-center gap-4">
           <StarRating value={recipe.ratingAvg} count={recipe.ratingCount} />
           <span className="text-sm capitalize text-ink-soft">· {t.moments[recipe.moment]}</span>
         </div>
-        <p lang={contentLocale} dir="ltr" className="text-lg leading-relaxed text-ink-soft">{recipe.summary}</p>
+        <p lang={contentLocale} dir={localeDirection(contentLocale)} className="text-lg leading-relaxed text-ink-soft">{recipe.summary}</p>
       </header>
 
       <figure className="reveal-scale space-y-1.5" style={{ animationDelay: "120ms" }}>
@@ -230,7 +230,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
 
       <section className="space-y-2">
         <h2 className="font-display text-2xl text-ink">{t.recipe.history}</h2>
-        <p lang={contentLocale} dir="ltr" className="leading-relaxed text-ink-soft">{recipe.history}</p>
+        <p lang={contentLocale} dir={localeDirection(contentLocale)} className="leading-relaxed text-ink-soft">{recipe.history}</p>
       </section>
 
       {recipe.nutrition && (
@@ -240,27 +240,27 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
             <div className="rounded-lg bg-paper p-3 text-center">
               <div className="text-2xl font-bold text-terracota">{recipe.nutrition.calories}</div>
-              <div className="text-xs text-ink-faint uppercase tracking-wide">Calorías</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">{nutritionLabels[locale].calories}</div>
             </div>
             <div className="rounded-lg bg-paper p-3 text-center">
               <div className="text-2xl font-bold text-agave-deep">{recipe.nutrition.protein}g</div>
-              <div className="text-xs text-ink-faint uppercase tracking-wide">Proteínas</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">{nutritionLabels[locale].protein}</div>
             </div>
             <div className="rounded-lg bg-paper p-3 text-center">
               <div className="text-2xl font-bold text-dorado-deep">{recipe.nutrition.carbohydrates}g</div>
-              <div className="text-xs text-ink-faint uppercase tracking-wide">Carbohidratos</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">{nutritionLabels[locale].carbohydrates}</div>
             </div>
             <div className="rounded-lg bg-paper p-3 text-center">
               <div className="text-2xl font-bold text-terracota-soft">{recipe.nutrition.fat}g</div>
-              <div className="text-xs text-ink-faint uppercase tracking-wide">Grasas</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">{nutritionLabels[locale].fat}</div>
             </div>
             <div className="rounded-lg bg-paper p-3 text-center">
               <div className="text-2xl font-bold text-ink">{recipe.nutrition.fiber}g</div>
-              <div className="text-xs text-ink-faint uppercase tracking-wide">Fibra</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">{nutritionLabels[locale].fiber}</div>
             </div>
             <div className="rounded-lg bg-paper p-3 text-center">
               <div className="text-2xl font-bold text-ink-soft">{recipe.nutrition.sodium}mg</div>
-              <div className="text-xs text-ink-faint uppercase tracking-wide">Sodio</div>
+              <div className="text-xs text-ink-faint uppercase tracking-wide">{nutritionLabels[locale].sodium}</div>
             </div>
           </div>
         </section>
@@ -273,7 +273,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
             {recipe.ingredients.map((i, idx) => (
               <li key={idx} className="flex gap-2.5 text-base text-ink-soft">
                 <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-terracota" />
-                <span lang={contentLocale} dir="ltr">{i.text}{i.optional ? <em className="text-ink-faint"> ({t.recipe.optional})</em> : ""}</span>
+                <span lang={contentLocale} dir={localeDirection(contentLocale)}>{i.text}{i.optional ? <em className="text-ink-faint"> ({t.recipe.optional})</em> : ""}</span>
               </li>
             ))}
           </ul>
@@ -288,7 +288,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
                   <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-agave font-display text-sm font-semibold text-white">
                     {idx + 1}
                   </span>
-                  <p lang={contentLocale} dir="ltr" className="pt-1 leading-relaxed text-ink-soft">{stepText}</p>
+                  <p lang={contentLocale} dir={localeDirection(contentLocale)} className="pt-1 leading-relaxed text-ink-soft">{stepText}</p>
                 </li>
               );
             })}
@@ -298,7 +298,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
 
       {recipe.tips && <section className="rounded-[var(--radius-xl2)] border border-line bg-card p-5">
         <h2 className="font-display text-xl text-ink">{editorial.tips}</h2>
-        <ul lang={contentLocale} dir="ltr" className="mt-3 space-y-2 leading-relaxed text-ink-soft">{recipe.tips.map((tip, index) => <li key={index}>{tip}</li>)}</ul>
+        <ul lang={contentLocale} dir={localeDirection(contentLocale)} className="mt-3 space-y-2 leading-relaxed text-ink-soft">{recipe.tips.map((tip, index) => <li key={index}>{tip}</li>)}</ul>
       </section>}
 
       <section className="rounded-[var(--radius-xl2)] border border-line-soft bg-paper-2/50 p-5">
