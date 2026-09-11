@@ -177,7 +177,6 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
         ))}
       </nav>
 
-      {contentLocale !== locale && <p className="rounded-xl border border-line bg-card p-4 text-sm text-ink-soft">{editorial.fallback} <Link href={`/es/receta/${recipe.slug}`} className="underline">Español</Link> · <Link href={`/en/receta/${recipe.slug}`} className="underline">English</Link></p>}
 
       <header className="reveal space-y-4" style={{ animationDelay: "60ms" }}>
         {place && <p className="eyebrow text-terracota">📍 {translatePlaceName(place, locale)}</p>}

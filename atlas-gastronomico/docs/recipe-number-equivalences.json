@@ -1,0 +1,482 @@
+{
+  "zh/r-pizza/steps/1": {
+    "sourceText": "Divide the dough into two balls. Stretch by hand on a lightly floured surface, keeping the rim thicker.",
+    "translatedText": "把面团分成 2 个球。在薄撒面粉的台面上用手抻开，保留较厚的边缘。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-okonomiyaki/steps/1": {
+    "sourceText": "Heat oil in a skillet over medium heat. Form two thick pancakes and lay the pork belly on top.",
+    "translatedText": "平底锅中火热油。摊成 2 张厚饼，将五花肉铺在上面。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-ramen/steps/3": {
+    "sourceText": "Divide broth and noodles between two bowls. Add chashu, halved eggs and scallions. Serve immediately.",
+    "translatedText": "将汤和面分入 2 个碗中。加入叉烧、对半切开的腌蛋和葱花。立即享用。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-pancakes/steps/3": {
+    "sourceText": "Turn once and cook 1-2 minutes more until cooked through. Serve with maple syrup.",
+    "translatedText": "翻面 1 次，再煎 1-2 分钟至熟透。配枫糖浆享用。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-mochi/steps/3": {
+    "sourceText": "Divide into six pieces, flatten and wrap around each strawberry. Seal, brush off excess starch and cool before eating.",
+    "translatedText": "分成 6 份，压扁，分别包住草莓。收口，刷掉多余淀粉，放凉后食用。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-mxn-cabrito-pastor/steps/2": {
+    "sourceText": "Roast slowly, turning the piece so it cooks evenly, about two and a half hours.",
+    "translatedText": "慢烤并转动羊身，使其受热均匀，约 2.5 小时。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-mxn-asado-puerco/steps/4": {
+    "sourceText": "If you want more body, dissolve a tablespoon of flour in water and stir it in; adjust the salt.",
+    "translatedText": "若想更浓稠，将 1 汤匙面粉用水调开后拌入；调整盐量。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-mxc-carnitas/steps/3": {
+    "sourceText": "Cook over low heat, stirring now and then, for a couple of hours.",
+    "translatedText": "小火煮约 2 小时，偶尔搅动。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-mxc-corundas/steps/3": {
+    "sourceText": "Steam the corundas for about an hour.",
+    "translatedText": "蒸约 1 小时。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-pm-c-fiambre-san-miguel/steps/4": {
+    "sourceText": "Bathe everything with the vinaigrette and let it macerate in the cold for at least an hour.",
+    "translatedText": "全部浇上油醋汁，冷藏浸渍至少 1 小时。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-pizza/steps/1": {
+    "sourceText": "Divide the dough into two balls. Stretch by hand on a lightly floured surface, keeping the rim thicker.",
+    "translatedText": "生地を2個に丸める。薄く打ち粉をした台で、縁を厚めに残して手で広げる。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-pizza/steps/2": {
+    "sourceText": "Add tomato, salt and well-drained mozzarella. Bake each pizza 8-12 minutes until the rim browns and the base is cooked.",
+    "translatedText": "トマト、塩、十分に水切りしたモッツァレラをのせる。1枚ずつ8-12分、縁が色づき底まで焼けるまで焼く。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-cacio/steps/3": {
+    "sourceText": "Add pasta to the pan, turn off the heat and stir in the cheese cream. Add water by the spoonful until glossy. Serve immediately.",
+    "translatedText": "パスタをフライパンに入れ、火を止めてチーズクリームを混ぜる。つやが出るまでゆで汁をスプーン1杯ずつ足す。すぐに供する。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-okonomiyaki/steps/1": {
+    "sourceText": "Heat oil in a skillet over medium heat. Form two thick pancakes and lay the pork belly on top.",
+    "translatedText": "フライパンに油を中火で熱する。厚めに2枚の生地を広げ、豚バラ肉をのせる。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-ramen/steps/3": {
+    "sourceText": "Divide broth and noodles between two bowls. Add chashu, halved eggs and scallions. Serve immediately.",
+    "translatedText": "丼2つにスープと麺を分ける。チャーシュー、半分に切った卵、青ねぎをのせ、すぐに供する。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-padthai/steps/2": {
+    "sourceText": "Add noodles and sauce. Stir-fry 2-4 minutes, adding water by the spoonful if needed, until tender.",
+    "translatedText": "麺と合わせ調味料を加える。必要なら水をスプーン1杯ずつ足し、柔らかくなるまで2-4分炒める。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-pancakes/steps/3": {
+    "sourceText": "Turn once and cook 1-2 minutes more until cooked through. Serve with maple syrup.",
+    "translatedText": "1回だけ返し、中まで火が通るようさらに1-2分焼く。メープルシロップを添える。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-mochi/steps/3": {
+    "sourceText": "Divide into six pieces, flatten and wrap around each strawberry. Seal, brush off excess starch and cool before eating.",
+    "translatedText": "6等分して平らにし、いちごを包む。閉じ目をつまみ、余分な手粉を払い、冷ましてから食べる。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-jambalaya/steps/1": {
+    "sourceText": "Add tomatoes and Cajun seasoning and cook 5 minutes. Add rice and stock, stir once and bring to a boil.",
+    "translatedText": "トマトとケイジャンシーズニングを加えて5分煮る。米とストックを加え、1回混ぜて沸騰させる。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxn-caldo-queso/steps/1": {
+    "sourceText": "Add the chile strips and the potatoes; stir for a couple of minutes.",
+    "translatedText": "細切り唐辛子とじゃがいもを加え、2分ほど混ぜる。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxn-coyotas/steps/2": {
+    "sourceText": "Form thin disks; place piloncillo on half of them and cover with another disk, sealing the edges.",
+    "translatedText": "薄い円形に伸ばす。半数にピロンシージョをのせ、もう1枚の生地をかぶせて縁を閉じる。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxn-cabrito-pastor/steps/2": {
+    "sourceText": "Roast slowly, turning the piece so it cooks evenly, about two and a half hours.",
+    "translatedText": "均一に火が通るよう向きを変えながら、約2時間半じっくり焼く。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxn-asado-puerco/steps/4": {
+    "sourceText": "If you want more body, dissolve a tablespoon of flour in water and stir it in; adjust the salt.",
+    "translatedText": "濃度をつけたい場合は小麦粉大さじ1を水で溶いて加え、塩を調える。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxn-carne-asada/steps/2": {
+    "sourceText": "Grill the meat to your liking, flipping it only once.",
+    "translatedText": "肉を1回だけ返し、好みの焼き加減に焼く。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxc-enchiladas-mineras/ingredients/2": {
+    "sourceText": "2 garlic cloves and a piece of onion",
+    "translatedText": "にんにく 2片、玉ねぎ 1切れ",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxc-enchiladas-mineras/steps/2": {
+    "sourceText": "Dip each tortilla in the sauce and fry it lightly in lard.",
+    "translatedText": "トルティーヤを1枚ずつソースに浸し、ラードで軽く揚げ焼きにする。",
+    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
+  },
+  "zh/r-pm-c-tatemado-comala/steps/1": {
+    "sourceText": "Marinate the pork in the adobo for at least an hour.",
+    "translatedText": "用 adobo 酱腌猪肉至少 1 小时。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-pm-s-cafe-coatepec/steps/3": {
+    "sourceText": "Let it steep for three to four minutes.",
+    "translatedText": "浸泡 3-4 分钟。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-mxs-tamales-chipilin/steps/5": {
+    "sourceText": "Steam for about an hour.",
+    "translatedText": "蒸约 1 小时。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-pm-n-cortadillo-de-cuatro-cienegas/tips/0": {
+    "sourceText": "Flank may take longer than an hour to soften; add hot stock and continue until it shreds.",
+    "translatedText": "侧腹肉可能需超过 1 小时才能软嫩；添加热高汤，继续煮至能撕散。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-mw-cincinnati-chili/steps/2": {
+    "sourceText": "Simmer over low heat for about an hour and a half until it thickens and the flavors come together.",
+    "translatedText": "小火慢煮约 1.5 小时，至浓稠、味道融合。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxc-sopitos-colima/steps/3": {
+    "sourceText": "Dip each sopito in the sauce and fry it in lard on both sides.",
+    "translatedText": "ソピートスを1つずつソースに浸し、ラードで両面を揚げ焼きにする。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxc-carnitas/steps/3": {
+    "sourceText": "Cook over low heat, stirring now and then, for a couple of hours.",
+    "translatedText": "ときどき混ぜながら弱火で2時間ほど煮る。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxc-corundas/steps/1": {
+    "sourceText": "Place a portion of masa on the green leaf.",
+    "translatedText": "緑の葉にマサを1個分のせる。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxc-corundas/steps/3": {
+    "sourceText": "Steam the corundas for about an hour.",
+    "translatedText": "コルンダを約1時間蒸す。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxc-quesadillas-cdmx/steps/1": {
+    "sourceText": "Add the filling and, if desired, the cheese and a leaf of epazote.",
+    "translatedText": "具を加え、好みでチーズとエパソテの葉を1枚加える。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxc-mixiotes/steps/1": {
+    "sourceText": "Marinate the chicken in the adobo for at least half an hour.",
+    "translatedText": "鶏肉をアドボに少なくとも30分漬ける。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-c-fiambre-san-miguel/steps/4": {
+    "sourceText": "Bathe everything with the vinaigrette and let it macerate in the cold for at least an hour.",
+    "translatedText": "全体にビネグレットをかけ、冷所で少なくとも1時間漬ける。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-c-tatemado-comala/ingredients/6": {
+    "sourceText": "A piece of piloncillo",
+    "translatedText": "ピロンシージョ 1かけ",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-c-tatemado-comala/steps/1": {
+    "sourceText": "Marinate the pork in the adobo for at least an hour.",
+    "translatedText": "豚肉をアドボに少なくとも1時間漬ける。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-s-cafe-coatepec/steps/3": {
+    "sourceText": "Let it steep for three to four minutes.",
+    "translatedText": "3-4分抽出する。",
+    "reason": "Reviewed: a written or implied count is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-mw-kc-burnt-ends/steps/2": {
+    "sourceText": "Cut the point into cubes about three centimeters across.",
+    "translatedText": "牛胸尖切成边长约 3 厘米的方块。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-mw-kc-burnt-ends/steps/4": {
+    "sourceText": "Return the cubes to the smoker for another hour until they caramelize and turn sticky.",
+    "translatedText": "放回熏炉再熏 1 小时，至表面焦香黏亮。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-mw-kc-burnt-ends/tips/0": {
+    "sourceText": "The beef should be tender before cubing; the final hour sets the glaze.",
+    "translatedText": "切块前牛肉应已软嫩；最后 1 小时让酱釉定型。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-mw-juicy-lucy/steps/0": {
+    "sourceText": "Divide the meat into eight thin patties and season them with salt and pepper.",
+    "translatedText": "肉分成 8 个薄肉饼，用盐和胡椒调味。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-mw-juicy-lucy/steps/1": {
+    "sourceText": "Fold the cheese slices and place them in the center of four patties.",
+    "translatedText": "奶酪片折叠后放在其中 4 个肉饼中央。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-mw-chislic/steps/0": {
+    "sourceText": "Marinate the meat cubes with garlic, Worcestershire sauce, garlic salt, and pepper for at least an hour.",
+    "translatedText": "肉块与大蒜、伍斯特酱、蒜盐和胡椒腌至少 1 小时。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-w-green-chile-stew/steps/1": {
+    "sourceText": "In the same pot, sauté the onion and garlic until translucent; if using flour, sprinkle it in and cook a minute.",
+    "translatedText": "同锅炒洋葱和大蒜至半透明；若用面粉，撒入后炒 1 分钟。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-w-nm-enchiladas/steps/5": {
+    "sourceText": "Fry one egg per portion and place it on top before serving.",
+    "translatedText": "每份煎 1 个蛋，上桌前放在顶部。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-w-loco-moco/steps/0": {
+    "sourceText": "Form two patties, season and cook until the center reaches 71 °C; keep hot.",
+    "translatedText": "做成 2 个肉饼，调味并煎至中心达到 71 °C；保持热度。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-s-kentucky-hot-brown/steps/1": {
+    "sourceText": "Make the Mornay sauce: melt the butter, add the flour, and cook for a minute; gradually whisk in the milk until thickened.",
+    "translatedText": "制作莫奈酱：融化黄油，加面粉炒 1 分钟；逐渐搅入牛奶，至浓稠。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-s-country-ham/steps/3": {
+    "sourceText": "Let it reduce for a minute to form the red-eye gravy.",
+    "translatedText": "收浓 1 分钟，形成红眼肉汁。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-s-collard-greens/steps/4": {
+    "sourceText": "Cover and cook over low heat about an hour and a half until very tender.",
+    "translatedText": "盖锅小火煮约 1.5 小时，至非常软嫩。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-s-chicken-fried-steak/steps/4": {
+    "sourceText": "Add flour and cook for a minute; whisk in the milk until the gravy thickens.",
+    "translatedText": "加面粉炒 1 分钟，搅入牛奶煮至肉汁浓稠。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-ne-new-england-clam-chowder/steps/2": {
+    "sourceText": "Saute the onion and celery until translucent; sprinkle in the flour and cook for a minute.",
+    "translatedText": "洋葱和芹菜炒至半透明，撒面粉炒 1 分钟。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxs-cochito/tips/0": {
+    "sourceText": "Marinate in the refrigerator and turn the meat once to distribute the seasoning.",
+    "translatedText": "冷蔵庫で漬け込み、味が均等につくよう肉を1回返す。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxs-tamales-chipilin/steps/3": {
+    "sourceText": "Place a portion of masa and a piece of quesillo.",
+    "translatedText": "マサを1個分とケシージョ1切れをのせる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-mxs-tamales-chipilin/steps/5": {
+    "sourceText": "Steam for about an hour.",
+    "translatedText": "約1時間蒸す。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-n-pan-de-pulque-de-saltillo/steps/0": {
+    "sourceText": "Mix part of the flour with the pulque to form a sponge and let it ferment in a warm place until it doubles in volume.",
+    "translatedText": "小麦粉の一部とプルケで種生地を作り、温かい場所で体積が2倍になるまで発酵させる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-n-cortadillo-de-cuatro-cienegas/steps/0": {
+    "sourceText": "Cook the beef with a piece of onion and garlic until tender; set it aside and cut into strips or shred it.",
+    "translatedText": "牛肉を玉ねぎ1切れ、にんにくと柔らかくなるまで煮る。取り出して細切りにするかほぐす。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-n-cortadillo-de-cuatro-cienegas/steps/3": {
+    "sourceText": "Stir in the beef and saute for a couple of minutes.",
+    "translatedText": "牛肉を加え、2分ほど炒める。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-n-cortadillo-de-cuatro-cienegas/tips/0": {
+    "sourceText": "Flank may take longer than an hour to soften; add hot stock and continue until it shreds.",
+    "translatedText": "フランクが柔らかくなるまで1時間以上かかる場合がある。温かいストックを加え、ほぐれるまで煮る。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-n-glorias-de-linares/tips/0": {
+    "sourceText": "Stir while scraping the base and test a cooled drop; it should form a soft, moldable piece.",
+    "translatedText": "鍋底をこそげながら混ぜる。1滴冷まして試し、柔らかく成形できる状態にする。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-pm-n-gorditas-de-horno-duranguenses/tips/0": {
+    "sourceText": "Add milk a spoonful at a time and space the pieces apart for even browning.",
+    "translatedText": "牛乳はスプーン1杯ずつ加える。均一に焼き色がつくよう、生地同士を離して並べる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-chicago-deep-dish/steps/0": {
+    "sourceText": "Mix both flours, yeast, salt, water and butter; knead, cover and let rise 60 minutes until doubled.",
+    "translatedText": "両方の粉、イースト、塩、水、バターを混ぜてこね、覆って60分、2倍になるまで発酵させる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-chicago-hot-dog/ingredients/0": {
+    "sourceText": "4 Vienna-style all-beef sausages",
+    "translatedText": "ウィーン風の牛肉100%ソーセージ 4本",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-chicago-hot-dog/steps/4": {
+    "sourceText": "Finish with a pinch of celery salt and serve immediately, never with ketchup.",
+    "translatedText": "セロリソルト1つまみで仕上げ、ケチャップは添えず、すぐに供する。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-coney-dog/steps/4": {
+    "sourceText": "Finish with a line of mustard and plenty of chopped onion.",
+    "translatedText": "マスタードを1筋かけ、刻んだ玉ねぎをたっぷりのせる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-cincinnati-chili/steps/2": {
+    "sourceText": "Simmer over low heat for about an hour and a half until it thickens and the flavors come together.",
+    "translatedText": "約1時間半、濃くなって味がなじむまで弱火で煮る。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-kc-burnt-ends/steps/2": {
+    "sourceText": "Cut the point into cubes about three centimeters across.",
+    "translatedText": "ポイント部分を約3 cm角に切る。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-kc-burnt-ends/steps/4": {
+    "sourceText": "Return the cubes to the smoker for another hour until they caramelize and turn sticky.",
+    "translatedText": "燻製器に戻してさらに1時間、表面が香ばしく粘りのある状態になるまで加熱する。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-kc-burnt-ends/tips/0": {
+    "sourceText": "The beef should be tender before cubing; the final hour sets the glaze.",
+    "translatedText": "牛肉は角切りにする前に柔らかくしておく。最後の1時間で表面のソースを定着させる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-juicy-lucy/steps/0": {
+    "sourceText": "Divide the meat into eight thin patties and season them with salt and pepper.",
+    "translatedText": "肉を8枚の薄いパティに分け、塩とこしょうを振る。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-juicy-lucy/steps/1": {
+    "sourceText": "Fold the cheese slices and place them in the center of four patties.",
+    "translatedText": "チーズを折り、4枚のパティの中心に置く。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-juicy-lucy/steps/4": {
+    "sourceText": "Let rest a couple of minutes and serve on the bun with onion and pickles.",
+    "translatedText": "2分ほど休ませ、バンズに挟んで玉ねぎとピクルスを添える。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "zh/r-us-ne-boston-baked-beans/steps/4": {
+    "sourceText": "Uncover for the last hour so they thicken and brown, then serve.",
+    "translatedText": "最后 1 小时揭盖，使其收浓上色，再盛出。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-runza/steps/0": {
+    "sourceText": "Make the dough with flour, yeast, milk, sugar, butter and egg; cover and let rise about 60 minutes until doubled.",
+    "translatedText": "小麦粉、イースト、牛乳、砂糖、バター、卵で生地を作り、覆って約60分、2倍になるまで発酵させる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-mw-chislic/steps/0": {
+    "sourceText": "Marinate the meat cubes with garlic, Worcestershire sauce, garlic salt, and pepper for at least an hour.",
+    "translatedText": "角切り肉をにんにく、ウスターソース、ガーリックソルト、こしょうに少なくとも1時間漬ける。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-w-cioppino/ingredients/11": {
+    "sourceText": "1 bay leaf and a pinch of red pepper flakes",
+    "translatedText": "ローリエ 1枚、唐辛子フレーク 1つまみ",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-w-green-chile-stew/steps/1": {
+    "sourceText": "In the same pot, sauté the onion and garlic until translucent; if using flour, sprinkle it in and cook a minute.",
+    "translatedText": "同じ鍋で玉ねぎとにんにくを透き通るまで炒める。小麦粉を使う場合は振り入れて1分炒める。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-w-nm-enchiladas/steps/3": {
+    "sourceText": "Assemble each portion by stacking sauce-dipped tortillas with cheese and onion between layers.",
+    "translatedText": "ソースに浸したトルティーヤの間にチーズと玉ねぎを挟み、1人分ずつ重ねる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-w-nm-enchiladas/steps/5": {
+    "sourceText": "Fry one egg per portion and place it on top before serving.",
+    "translatedText": "1人分につき卵1個の目玉焼きを作り、上にのせて供する。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-w-sonoran-hot-dog/steps/0": {
+    "sourceText": "Wrap each sausage in a strip of bacon in a spiral.",
+    "translatedText": "各ソーセージにベーコン1枚をらせん状に巻く。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-w-marionberry-pie/steps/0": {
+    "sourceText": "Line a pan with one of the discs of dough.",
+    "translatedText": "型に生地の1枚を敷く。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-w-marionberry-pie/steps/2": {
+    "sourceText": "Pour the filling over the base and cover it with the second disc or with a lattice.",
+    "translatedText": "土台に具を入れ、もう1枚の生地または格子状の生地で覆う。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-w-loco-moco/steps/0": {
+    "sourceText": "Form two patties, season and cook until the center reaches 71 °C; keep hot.",
+    "translatedText": "パティを2枚作って調味し、中心温度71 °Cまで焼いて熱く保つ。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-w-spam-musubi/steps/3": {
+    "sourceText": "Put a slice of Spam on the rice and unmold.",
+    "translatedText": "ご飯にスパム1枚をのせ、型を外す。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-s-kentucky-hot-brown/steps/1": {
+    "sourceText": "Make the Mornay sauce: melt the butter, add the flour, and cook for a minute; gradually whisk in the milk until thickened.",
+    "translatedText": "モルネーソースを作る。バターを溶かして小麦粉を加え1分炒め、牛乳を少しずつ加えて泡立て器で混ぜ、とろみをつける。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-s-kentucky-hot-brown/steps/3": {
+    "sourceText": "Toast the bread and place it in individual baking dishes; top with the turkey.",
+    "translatedText": "パンをトーストして1人分ずつの耐熱皿に置き、七面鳥をのせる。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-s-carolina-pulled-pork/steps/2": {
+    "sourceText": "Make the sauce by mixing the vinegar, chili flakes, hot sauce, and a pinch of salt.",
+    "translatedText": "酢、唐辛子フレーク、ホットソース、塩1つまみを混ぜてソースを作る。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-s-carolina-pulled-pork/steps/3": {
+    "sourceText": "Let the meat rest, then pull it apart with two forks.",
+    "translatedText": "肉を休ませ、フォーク2本でほぐす。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-s-chili-con-carne/steps/3": {
+    "sourceText": "Stir in the chile puree, cumin, and oregano; cook for a couple of minutes.",
+    "translatedText": "唐辛子ピューレ、クミン、オレガノを混ぜ、2分ほど加熱する。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-s-country-ham/steps/1": {
+    "sourceText": "Brown the ham slices for a couple of minutes per side without drying them out; remove them.",
+    "translatedText": "ハムを乾かさないよう片面2分ほどずつ焼き色をつけ、取り出す。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-s-country-ham/steps/3": {
+    "sourceText": "Let it reduce for a minute to form the red-eye gravy.",
+    "translatedText": "1分煮詰め、レッドアイ・グレービーにする。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-s-collard-greens/steps/4": {
+    "sourceText": "Cover and cook over low heat about an hour and a half until very tender.",
+    "translatedText": "蓋をして弱火で約1時間半、十分に柔らかくなるまで煮る。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  },
+  "ja/r-us-s-chicken-fried-steak/steps/4": {
+    "sourceText": "Add flour and cook for a minute; whisk in the milk until the gravy thickens.",
+    "translatedText": "小麦粉を加えて1分炒め、牛乳を泡立て器で混ぜ込み、グレービーが濃くなるまで加熱する。",
+    "reason": "Reviewed: a written or implied quantity is rendered numerically, or a duration uses equivalent units; the quantity and instruction are equivalent."
+  }
+}

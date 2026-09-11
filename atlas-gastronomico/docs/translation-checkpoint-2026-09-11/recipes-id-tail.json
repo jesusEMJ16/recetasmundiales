@@ -1,0 +1,446 @@
+{
+  "r-mxs-mole-poblano": {
+    "dishName": "Mole poblano",
+    "summary": "Saus kental dari cabai, rempah, kacang-kacangan, dan cokelat, disajikan di atas kalkun atau ayam.",
+    "history": "Salah satu hidangan Puebla paling terkenal, yang secara tradisional dikaitkan dengan biara zaman kolonial. Hidangan ini menyatukan bahan masyarakat pribumi dan Eropa dalam saus dengan puluhan komponen.",
+    "ingredients": [
+      "Cabai mulato, ancho, dan pasilla",
+      "1 keping cokelat",
+      "Biji wijen, almon, dan kacang tanah",
+      "Kismis dan pisang plantain",
+      "Roti dan tortilla yang dipanggang",
+      "Kalkun atau ayam matang"
+    ],
+    "steps": [
+      "Sangrai dan rendam cabai, jangan sampai gosong.",
+      "Goreng kacang-kacangan, kismis, roti, dan plantain.",
+      "Haluskan cabai dan bahan lainnya bersama rempah.",
+      "Tumis pasta halus dalam lemak babi panas.",
+      "Tambahkan kaldu dan keping cokelat; didihkan perlahan dengan api kecil.",
+      "Siram potongan kalkun atau ayam dan taburi biji wijen."
+    ],
+    "tips": [
+      "Mulailah dengan 8 cabai mulato, 4 ancho, dan 2 pasilla; tambahkan kaldu bertahap dan jangan sampai biji-bijian gosong saat disangrai."
+    ],
+    "sources": [
+      "Cocina conventual poblana",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxs-tinga-poblana": {
+    "dishName": "Tinga poblana",
+    "summary": "Ayam suwir yang direbus dengan tomat, bawang bombai, dan chipotle, disajikan di atas tostada.",
+    "history": "Masakan berkuah sederhana dari Puebla, disajikan di atas tostada atau dalam taco. Chipotle memberikan rasa berasap dan pedas ringan yang khas.",
+    "ingredients": [
+      "500 g ayam matang, disuwir",
+      "4 tomat",
+      "Cabai chipotle dalam adobo",
+      "Bawang bombai iris",
+      "Tostada jagung",
+      "Krim, keju segar, dan alpukat"
+    ],
+    "steps": [
+      "Tumis irisan bawang bombai hingga lunak.",
+      "Tambahkan tomat yang diblender dan masak hingga mengental.",
+      "Masukkan chipotle cincang bersama sedikit adobonya.",
+      "Tambahkan ayam suwir dan biarkan bumbu meresap.",
+      "Sajikan tinga di atas tostada.",
+      "Tambahkan krim, keju segar, dan alpukat di atasnya."
+    ],
+    "tips": [
+      "Tambahkan chipotle bertahap sambil mencicipi karena tingkat pedas sangat bervariasi antar merek."
+    ],
+    "sources": [
+      "Cocina poblana tradicional",
+      "Larousse Cocina"
+    ]
+  },
+  "r-pm-n-gallina-pinta": {
+    "dishName": "Gallina pinta",
+    "summary": "Sup Sonora berisi kacang pinto, jagung nixtamal, dan iga pendek sapi, tanpa ayam sama sekali meskipun namanya menyebut ayam.",
+    "history": "Di Alamos, permata kolonial Sonora selatan, sup ini menjadi lambang setempat. Konon hidangan ini lahir dari kebutuhan memperbanyak makanan untuk keluarga besar dan pekerja peternakan, menyatukan kacang dan jagung warisan pribumi dengan daging sapi dari wilayah utara peternak sapi. Namanya merujuk pada warna berbintik biji-bijian saat dimasak; terkadang disebut 'pozole orang miskin'.",
+    "ingredients": [
+      "300 g kacang pinto",
+      "500 g iga pendek sapi",
+      "1 cangkir jagung nixtamal (atau hominy matang)",
+      "1/2 bawang bombai",
+      "3 siung bawang putih",
+      "2 cabai hijau (opsional)",
+      "Garam secukupnya",
+      "Daun ketumbar dan bawang bombai cincang untuk penyajian"
+    ],
+    "steps": [
+      "Rendam kacang pinto semalaman lalu tiriskan.",
+      "Dalam panci besar, masak iga pendek bersama setengah bawang bombai dan bawang putih hingga sarinya keluar.",
+      "Tambahkan kacang dan masak dengan api sedang hingga mulai melunak.",
+      "Masukkan jagung nixtamal dan lanjutkan memasak hingga kacang serta jagung empuk dan kuah lebih pekat.",
+      "Sesuaikan garam, tambahkan cabai hijau jika dipakai, dan didihkan beberapa menit lagi.",
+      "Sajikan panas mengepul bersama daun ketumbar, bawang bombai cincang, dan tortilla terigu."
+    ],
+    "tips": [
+      "Jagung mentah dan pramasak memerlukan waktu berbeda; versi ini paling cocok memakai hominy yang sudah matang."
+    ],
+    "sources": [
+      "México Desconocido - Gastronomía de Álamos",
+      "Noro - La gallina pinta, tesoro gastronómico de Sonora"
+    ]
+  },
+  "r-pm-n-coricos-de-mocorito": {
+    "dishName": "Coricos de Mocorito",
+    "summary": "Kue kering berbentuk cincin yang renyah dari masa jagung dan piloncillo atau gula, kue tradisional Sinaloa utara.",
+    "history": "Mocorito, dijuluki 'Athena-nya Sinaloa' dan menjadi Pueblo Magico sejak 2015, menjaga tradisi memanggang rumahan yang sangat hidup. Di antara kudapan gandum dan jagungnya, coricos menonjol: cincin masa panggang yang dibuat keluarga untuk teman kopi dan dijual di toko roti kota bersama bizcotela dan empanada.",
+    "ingredients": [
+      "2 cangkir masa jagung (masa nixtamal atau tepung jagung yang diberi air)",
+      "1 cangkir tepung terigu",
+      "150 g lemak babi atau mentega",
+      "3/4 cangkir gula atau piloncillo parut",
+      "1 telur",
+      "1 sejumput garam",
+      "1 sendok teh kayu manis bubuk"
+    ],
+    "steps": [
+      "Kocok lemak babi bersama gula hingga lembut.",
+      "Tambahkan telur dan aduk; campurkan masa jagung, tepung, garam, dan kayu manis.",
+      "Uleni hingga menjadi adonan yang mudah dibentuk dan tidak lengket.",
+      "Ambil sebagian adonan, bentuk memanjang, lalu satukan ujungnya menjadi cincin.",
+      "Susun di loyang dan panggang pada 180 °C sekitar 18 sampai 20 menit hingga keemasan.",
+      "Biarkan dingin agar renyah sebelum disajikan."
+    ],
+    "tips": [
+      "Dinginkan cincin di rak; teksturnya menjadi renyah saat suhunya turun."
+    ],
+    "sources": [
+      "México Desconocido - Mocorito, Pueblo Mágico",
+      "Debate - Razones para visitar Mocorito",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-n-pescado-zarandeado-mazatlan": {
+    "dishName": "Pescado zarandeado ala Mazatlan",
+    "summary": "Ikan utuh dibelah kupu-kupu, dimarinasi, lalu dipanggang di atas bara pada rak bakau bernama zaranda.",
+    "history": "Nama zarandeado berasal dari 'zaranda', pemanggang anyaman ranting bakau yang memungkinkan ikan dibalik tanpa hancur. Meski asalnya dikaitkan dengan wilayah Totorame di Nayarit dan Mexcaltitan, hidangan ini menjadi makanan khas di pelabuhan Mazatlan, disajikan di tepi laut bersama tortilla dan salsa jeruk.",
+    "ingredients": [
+      "1 ikan kakap merah atau snook utuh (1.5 kg), dibelah kupu-kupu",
+      "3 sendok makan kecap asin",
+      "Air perasan 3 jeruk nipis",
+      "3 siung bawang putih, digeprek",
+      "2 sendok makan mayones (untuk olesan agar kecokelatan)",
+      "1 sendok makan saus Worcestershire",
+      "Garam dan merica secukupnya",
+      "Irisan bawang bombai, tomat, dan cabai untuk pendamping"
+    ],
+    "steps": [
+      "Bersihkan ikan dan belah kupu-kupu, tetap tersambung di sepanjang punggungnya.",
+      "Campurkan kecap asin, air jeruk nipis, bawang putih, saus Worcestershire, garam, dan merica; oleskan pada seluruh daging.",
+      "Jika ingin permukaan keemasan, oles tipis mayones pada sisi daging.",
+      "Biarkan termarinasi selama 15 sampai 20 menit.",
+      "Panggang dengan api sedang, sisi kulit lebih dahulu lalu sisi daging, hingga matang dan agak kecokelatan.",
+      "Sajikan bersama irisan sayuran, tortilla jagung, dan salsa pedas."
+    ],
+    "tips": [
+      "Kecap asin dan saus Worcestershire sudah mengandung garam; cicipi sebelum menambahkan lagi."
+    ],
+    "sources": [
+      "Larousse Cocina - Pescado zarandeado",
+      "El Sol de Mazatlán - Pescado zarandeado, ¿de Mazatlán o Nayarit?"
+    ]
+  },
+  "r-pm-n-trucha-de-la-sierra-tarahumara": {
+    "dishName": "Trout Sierra Tarahumara",
+    "summary": "Trout sungai segar dibelah kupu-kupu dan dipanggang dengan mentega, herba, dan jeruk nipis, masakan pegunungan dari Creel.",
+    "history": "Creel, gerbang Copper Canyon di Sierra Tarahumara, memanfaatkan trout yang dibudidayakan di sungai dan peternakan ikan dataran tinggi Chihuahua. Masakan pegunungan sederhana ini mencerminkan kuliner Raramuri dan dinginnya hutan konifer tempat hidangan disajikan segera setelah matang.",
+    "ingredients": [
+      "2 trout segar, dibersihkan dan dibelah kupu-kupu",
+      "3 sendok makan mentega",
+      "2 siung bawang putih cincang",
+      "Air perasan 1 jeruk nipis",
+      "Tangkai timi atau peterseli",
+      "Garam dan merica secukupnya"
+    ],
+    "steps": [
+      "Bumbui bagian dalam dan luar trout dengan garam dan merica.",
+      "Lelehkan mentega bersama bawang putih dan herba dalam wajan atau di atas comal.",
+      "Letakkan trout dengan sisi daging di bawah dan masak hingga agak kecokelatan.",
+      "Balik hati-hati dan tuntaskan memasak pada sisi kulit.",
+      "Saat disajikan, siram dengan air jeruk nipis dan mentega dari wajan.",
+      "Sajikan dengan kentang atau tortilla terigu khas dataran tinggi."
+    ],
+    "tips": [
+      "Keringkan ikan sebelum dimasak dan pastikan bagian paling tebal mencapai 63 °C."
+    ],
+    "sources": [
+      "Hotel Posada del Cobre - Gastronomía de Creel y Chihuahua",
+      "La Opción de Chihuahua - Platillos típicos de la Sierra Tarahumara",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-n-pan-de-pulque-de-saltillo": {
+    "dishName": "Pan de pulque Saltillo (roti pulque)",
+    "summary": "Roti gandum empuk yang difermentasi dengan pulque, sedikit asam dan beraroma kayu manis.",
+    "history": "Pan de pulque termasuk tradisi roti tertua Saltillo. Roti ini lahir di lingkungan Tlaxcala, San Esteban de la Nueva Tlaxcala, ketika pembuat roti kolonial menemukan bahwa pulque, minuman fermentasi maguey, dapat mengembangkan adonan gandum. Disebut pula pan de fiesta atau pan mestizo, roti ini dibuat beberapa keluarga secara turun-temurun.",
+    "ingredients": [
+      "500 g tepung terigu",
+      "1 cangkir pulque alami",
+      "120 g gula",
+      "100 g mentega",
+      "2 telur",
+      "1 sendok teh kayu manis bubuk",
+      "1 sejumput garam"
+    ],
+    "steps": [
+      "Campur sebagian tepung dengan pulque menjadi adonan biang dan fermentasikan di tempat hangat hingga volumenya dua kali lipat.",
+      "Secara terpisah, kocok mentega bersama gula hingga lembut lalu tambahkan telur.",
+      "Campurkan biang fermentasi dengan sisa tepung, kayu manis, garam, dan campuran mentega.",
+      "Uleni hingga adonan lembut dan elastis; diamkan hingga mengembang lagi.",
+      "Bentuk roti, taruh di loyang, dan biarkan mengembang untuk terakhir kali.",
+      "Panggang pada 180 °C sekitar 20 sampai 25 menit hingga keemasan."
+    ],
+    "tips": [
+      "Fermentasi pulque bervariasi: nilai dari kenaikan volume dan sediakan sedikitnya 3 jam waktu tunggu."
+    ],
+    "sources": [
+      "Milenio - Historia del pan de pulque de Saltillo",
+      "Posta - Pan de pulque de Saltillo, un bocado de tradición",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-n-cortadillo-de-cuatro-cienegas": {
+    "dishName": "Cortadillo de Cuatro Cienegas",
+    "summary": "Potongan sapi direbus dalam kuah tomat, paprika, dan bawang bombai, masakan utara dari Cuatro Cienegas.",
+    "history": "Di Cuatro Cienegas, Pueblo Magico di Coahuila yang terkenal dengan kolam air sebening kristal, cortadillo merupakan makanan sehari-hari. Rebusan sederhana ini berisi sapi matang, disuwir atau dipotong kecil, dalam kuah tomat dan paprika, disajikan bersama tortilla terigu dan kacang.",
+    "ingredients": [
+      "600 g daging sapi untuk disuwir (flank atau chuck)",
+      "3 tomat",
+      "1 paprika hijau, diiris memanjang",
+      "1/2 bawang bombai cincang",
+      "2 siung bawang putih",
+      "2 cabai serrano (opsional)",
+      "Garam, merica, dan jintan secukupnya"
+    ],
+    "steps": [
+      "Masak sapi bersama sepotong bawang bombai dan bawang putih hingga empuk; sisihkan lalu iris memanjang atau suwir.",
+      "Blender tomat bersama bawang putih dan sedikit kaldu rebusannya.",
+      "Tumis bawang bombai dan paprika hingga lunak, tambahkan cabai jika digunakan.",
+      "Masukkan sapi dan tumis beberapa menit.",
+      "Tuangkan tomat halus, bumbui garam, merica, dan jintan, lalu didihkan hingga kuah mengental.",
+      "Sajikan panas bersama tortilla terigu dan kacang yang direbus, dihaluskan, lalu digoreng."
+    ],
+    "tips": [
+      "Flank bisa memerlukan lebih dari satu jam untuk empuk; tambahkan kaldu panas dan lanjutkan hingga dapat disuwir."
+    ],
+    "sources": [
+      "Posta - Platillos especiales de Cuatro Ciénegas",
+      "Cocina Delirante - Platillos típicos de Cuatro Ciénegas"
+    ]
+  },
+  "r-pm-n-glorias-de-linares": {
+    "dishName": "Glorias de Linares",
+    "summary": "Permen karamel susu kambing yang dimasak hingga kecokelatan bersama pecan, dibungkus selofan merah khasnya, kebanggaan Linares.",
+    "history": "Glorias lahir di Linares, Nuevo Leon, sekitar 1930-an, ketika Dona Natalia Medina menjual bongkahan karamel susu pecan. Menurut legenda, pelanggan menyebut rasanya 'sebuah kemuliaan', dan nama itu melekat. Awalnya dibuat dengan susu kambing yang khas wilayah timur laut, lalu dibungkus selofan merah yang mudah dikenali.",
+    "ingredients": [
+      "1 liter susu kambing",
+      "1/2 liter susu sapi",
+      "300 g gula",
+      "1 batang kayu manis",
+      "1/2 sendok teh soda kue",
+      "150 g pecan cincang"
+    ],
+    "steps": [
+      "Dalam panci berdasar tebal, campurkan kedua susu bersama gula, kayu manis, dan soda kue.",
+      "Masak dengan api sedang sambil terus diaduk agar tidak lengket.",
+      "Lanjutkan hingga campuran mengental dan berwarna karamel keemasan.",
+      "Angkat kayu manis dan masukkan pecan cincang.",
+      "Biarkan agak dingin lalu bentuk menjadi bola atau bongkahan kecil.",
+      "Bungkus setiap gloria dengan selofan untuk disimpan."
+    ],
+    "tips": [
+      "Aduk sambil mengikis dasar panci dan uji setetes yang sudah dingin; hasilnya harus lunak dan dapat dibentuk."
+    ],
+    "sources": [
+      "Larousse Cocina - Glorias de Linares",
+      "Wikipedia - Glorias de Linares"
+    ]
+  },
+  "r-pm-n-enchiladas-tultecas": {
+    "dishName": "Enchiladas tultecas",
+    "summary": "Enchilada tortilla merah berisi keju dan chorizo, diberi selada, tomat, dan cabai piquin.",
+    "history": "Tula, Pueblo Magico pertama Tamaulipas dan asal jaket kulit cuera Tamaulipas, memiliki enchiladas tultecas sebagai hidangan paling mewakilinya. Tortilla diberi warna merah dengan cabai dan diisi keju serta chorizo, lalu disajikan dengan sayuran segar; hidangan ini disantap di hampir setiap tempat makan di kota.",
+    "ingredients": [
+      "12 tortilla jagung",
+      "4 cabai ancho atau guajillo untuk salsa",
+      "200 g chorizo",
+      "200 g keju segar, diremukkan",
+      "1/2 bawang bombai cincang",
+      "Selada dan tomat cincang",
+      "Cabai piquin bubuk",
+      "Minyak untuk menggoreng",
+      "1 siung bawang putih dan garam secukupnya"
+    ],
+    "steps": [
+      "Rendam cabai dalam air panas hingga lunak lalu blender bersama bawang putih dan garam menjadi salsa kental.",
+      "Goreng chorizo hingga matang benar lalu sisihkan.",
+      "Celupkan tortilla ke salsa cabai agar berwarna, kemudian goreng sebentar.",
+      "Isi setiap tortilla dengan keju, chorizo, dan bawang bombai, lalu gulung.",
+      "Susun enchilada dan siram dengan sedikit lagi salsa.",
+      "Sajikan dengan selada, tomat, dan taburan cabai piquin."
+    ],
+    "tips": [
+      "Tiriskan chorizo matang agar enchilada tidak terlalu berminyak."
+    ],
+    "sources": [
+      "El Mañana - El Pueblo Mágico de Tula, Tamaulipas",
+      "Travesías - Gastronomía en Tamaulipas"
+    ]
+  },
+  "r-pm-n-gorditas-de-horno-duranguenses": {
+    "dishName": "Gordita panggang ala Durango",
+    "summary": "Gordita manis dari tepung terigu atau jagung, dipanggang dengan piloncillo dan kayu manis, tradisi roti Durango.",
+    "history": "Gordita panggang merupakan tradisi kuliner yang mengakar kuat di Durango. Versi manis dibuat dari tepung terigu, piloncillo atau gula, dan lemak babi, dipanggang dalam oven kayu lalu dijual di jalanan dan jalan raya negara bagian, sebagai kudapan khas teman kopi.",
+    "ingredients": [
+      "3 cangkir tepung terigu",
+      "150 g shortening nabati atau mentega",
+      "1 cangkir piloncillo parut atau gula",
+      "1 sendok teh kayu manis bubuk",
+      "1 sendok teh baking powder",
+      "1 telur",
+      "Susu secukupnya untuk menyatukan adonan"
+    ],
+    "steps": [
+      "Campur tepung dengan baking powder, kayu manis, dan piloncillo.",
+      "Campurkan shortening dengan tangan hingga bertekstur seperti pasir.",
+      "Tambahkan telur dan susu sedikit demi sedikit hingga terbentuk adonan lunak.",
+      "Gilas adonan dan potong menjadi cakram tebal.",
+      "Taruh di loyang dan panggang pada 180 °C selama 20 sampai 25 menit hingga keemasan.",
+      "Biarkan agak dingin dan sajikan dengan cafe de olla."
+    ],
+    "tips": [
+      "Tambahkan susu sesendok demi sesendok dan beri jarak antarpotongan agar kecokelatannya merata."
+    ],
+    "sources": [
+      "Posta - Gorditas de horno, tradición culinaria de Durango",
+      "Noro - Dulces y postres típicos de Durango",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-n-enchiladas-zacatecanas": {
+    "dishName": "Enchiladas zacatecanas",
+    "summary": "Tortilla dicelup dalam salsa cabai dan diisi keju serta bawang bombai, masakan jalanan klasik Zacatecas.",
+    "history": "Di ibu kota Zacatecas, hidangan ini cukup disebut 'enchilada'; di luar negara bagian, nama daerah ditambahkan untuk menunjukkan asalnya. Hidangan ini terkenal saat perayaan Pekan Suci, ketika meja panjang didirikan di samping katedral dan pedagang membuatnya sesuai pesanan dalam lemak babi.",
+    "ingredients": [
+      "12 tortilla jagung",
+      "5 cabai guajillo atau ancho",
+      "2 siung bawang putih",
+      "250 g keju segar atau asadero, diremukkan",
+      "1/2 bawang bombai cincang",
+      "Selada cincang",
+      "Lemak babi atau minyak untuk menggoreng",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Rendam cabai hingga lunak lalu blender bersama bawang putih, garam, dan sedikit air menjadi salsa.",
+      "Panaskan lemak babi dalam wajan.",
+      "Celupkan setiap tortilla ke salsa cabai, lalu goreng sebentar.",
+      "Isi dengan keju dan bawang bombai, kemudian lipat atau gulung.",
+      "Susun enchilada dan siram dengan salsa panas tambahan.",
+      "Segera sajikan dengan selada dan taburan keju."
+    ],
+    "tips": [
+      "Goreng tortilla sebentar agar tetap lentur dan dapat dilipat tanpa retak."
+    ],
+    "sources": [
+      "Larousse Cocina - Enchiladas zacatecanas",
+      "El Informador - Platillos típicos de Zacatecas"
+    ]
+  },
+  "r-pm-n-langosta-estilo-puerto-nuevo": {
+    "dishName": "Lobster ala Puerto Nuevo",
+    "summary": "Lobster dibelah dan digoreng dalam lemak babi, disajikan bersama tortilla terigu, kacang, nasi, dan mentega jeruk nipis.",
+    "history": "Puerto Nuevo, 'kota lobster' di munisipalitas Playas de Rosarito, memopulerkan hidangan ini pada 1950-an. Istri-istri nelayan membuka rumah untuk memasak lobster tangkapan segar dalam lemak babi dan menyajikannya bersama tortilla terigu buatan tangan; kini lebih dari dua puluh restoran melestarikan tradisi tersebut.",
+    "ingredients": [
+      "2 lobster segar, dibelah dua",
+      "Lemak babi untuk menggoreng",
+      "80 g mentega",
+      "Air perasan 1 jeruk nipis",
+      "Garam dan merica secukupnya",
+      "Tortilla terigu untuk pendamping",
+      "Kacang yang direbus, dihaluskan, lalu digoreng dan nasi untuk pendamping"
+    ],
+    "steps": [
+      "Belah lobster memanjang dan bumbui dengan garam serta merica.",
+      "Panaskan banyak lemak babi dalam wajan besar.",
+      "Goreng belahan lobster dengan sisi daging di bawah hingga berubah warna dan tetap berair.",
+      "Lelehkan mentega bersama air jeruk nipis untuk saus mojo.",
+      "Sajikan lobster dengan mentega jeruk nipis untuk mencelup.",
+      "Sajikan bersama tortilla terigu panas, kacang, dan nasi."
+    ],
+    "tips": [
+      "Daging lobster harus padat dan tidak bening di seluruh bagian; warna cangkang saja tidak memastikan kematangan."
+    ],
+    "sources": [
+      "Gourmet de México - Historia de la langosta estilo Puerto Nuevo",
+      "BajaCalifornia.travel - Langosta estilo Puerto Nuevo"
+    ]
+  },
+  "r-pm-n-ceviche-de-marlin-ahumado": {
+    "dishName": "Ceviche marlin asap",
+    "summary": "Ceviche segar dari marlin asap, tomat, bawang bombai, dan jeruk nipis, hidangan pesisir khas Todos Santos.",
+    "history": "Todos Santos, Pueblo Magico Baja California Sur di antara La Paz dan Cabo San Lucas, terkenal dengan masakan lautnya. Marlin asap yang khas semenanjung ini diolah menjadi ceviche berair dan kaya rasa di atas tostada, salah satu kudapan paling dicari di kota.",
+    "ingredients": [
+      "300 g marlin asap, disuwir",
+      "3 tomat cincang",
+      "1/2 bawang bombai cincang",
+      "1 cabai serrano cincang",
+      "Air perasan 4 jeruk nipis",
+      "Daun ketumbar cincang",
+      "Garam dan merica secukupnya",
+      "Tostada untuk penyajian"
+    ],
+    "steps": [
+      "Suwir marlin asap dan buang tulangnya jika ada.",
+      "Campur ikan dengan tomat, bawang bombai, dan cabai.",
+      "Tambahkan air jeruk nipis dan diamkan beberapa menit agar bumbu meresap.",
+      "Masukkan daun ketumbar dan sesuaikan garam serta merica.",
+      "Sajikan dingin di atas tostada.",
+      "Sajikan dengan salsa pedas dan alpukat sesuai selera."
+    ],
+    "tips": [
+      "Gunakan ikan asap komersial berlabel siap santap dan simpan di kulkas hingga saat dicampur."
+    ],
+    "sources": [
+      "Food and Pleasure - Pueblo Mágico Todos Santos",
+      "Noro - Qué comer en los pueblos mágicos de Baja California Sur"
+    ]
+  },
+  "r-us-mw-chicago-deep-dish": {
+    "dishName": "Piza deep-dish Chicago",
+    "summary": "Piza loyang tinggi berkulit tebal, dengan keju di bawah, isian berlimpah, dan saus tomat di atas, ciri khas Chicago.",
+    "history": "Asalnya dikaitkan dengan Pizzeria Uno di Chicago, tempat versi tebal dalam loyang baja ini populer pada akhir 1940-an. Berbeda dengan piza Napoli, adonannya menyerupai tart dalam: keju lebih dahulu, lalu topping, terakhir saus, agar keju tidak gosong selama pemanggangan lama. Hidangan ini menjadi simbol kuliner kota.",
+    "ingredients": [
+      "3 cangkir tepung terigu serbaguna",
+      "1/2 cangkir cornmeal halus",
+      "1 bungkus ragi kering aktif (7 g)",
+      "1 cangkir air hangat",
+      "60 g mentega cair",
+      "1 sendok teh garam",
+      "400 g keju mozzarella iris",
+      "300 g saus tomat kental dengan oregano dan bawang putih",
+      "200 g sosis Italia, diremukkan"
+    ],
+    "steps": [
+      "Campur kedua tepung, ragi, garam, air, dan mentega; uleni, tutup, lalu biarkan mengembang 60 menit hingga dua kali lipat.",
+      "Gilas adonan dan lapisi loyang dalam yang diolesi lemak, tekan adonan naik ke sisinya.",
+      "Tutupi dasar dengan irisan mozzarella untuk melindunginya dari saus.",
+      "Tambahkan sosis atau topping lainnya, lalu akhiri dengan saus tomat di atas.",
+      "Panggang pada 220 °C sekitar 30 sampai 35 menit hingga pinggirnya keemasan.",
+      "Diamkan beberapa menit sebelum dipotong menjadi irisan tebal."
+    ],
+    "tips": [
+      "Gunakan sosis pramasak yang ditiriskan untuk mengendalikan kelembapan isian."
+    ],
+    "sources": [
+      "Historia de la pizza deep-dish de Chicago",
+      "Tradición de Pizzeria Uno",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  }
+}

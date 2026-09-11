@@ -1,0 +1,414 @@
+{
+  "r-mxs-mole-poblano": {
+    "dishName": "Mole poblano",
+    "summary": "Molho espesso de pimentas, especiarias, castanhas e chocolate, servido sobre peru ou frango.",
+    "history": "Um dos pratos mais celebrados de Puebla, tradicionalmente atribuído aos conventos coloniais. Combina ingredientes indígenas e europeus em um molho com dezenas de componentes.",
+    "ingredients": [
+      "Pimentas mulato, ancho e pasilla",
+      "1 tablete de chocolate",
+      "Gergelim, amêndoas e amendoins",
+      "Uvas-passas e banana-da-terra",
+      "Pão torrado e tortilla",
+      "Peru ou frango cozido"
+    ],
+    "steps": [
+      "Toste as pimentas e deixe de molho, sem queimá-las.",
+      "Frite as castanhas, as passas, o pão e a banana-da-terra.",
+      "Triture as pimentas e os demais ingredientes com as especiarias.",
+      "Frite a pasta em banha quente.",
+      "Acrescente caldo e o tablete de chocolate; cozinhe em fogo baixo.",
+      "Cubra os pedaços de peru ou frango com o molho e salpique gergelim."
+    ],
+    "tips": [
+      "Comece com 8 pimentas mulato, 4 ancho e 2 pasilla; acrescente caldo aos poucos e não queime as sementes ao tostá-las."
+    ],
+    "sources": [
+      "Cocina conventual poblana",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxs-tinga-poblana": {
+    "dishName": "Tinga poblana",
+    "summary": "Frango desfiado ensopado com tomate, cebola e chipotle, servido sobre tostadas.",
+    "history": "Ensopado simples de Puebla, servido sobre tostadas ou em tacos. O chipotle proporciona seu sabor característico, defumado e levemente picante.",
+    "ingredients": [
+      "500 g de frango cozido e desfiado",
+      "4 tomates",
+      "Pimentas chipotle em adobo",
+      "Cebola fatiada",
+      "Tostadas de milho",
+      "Creme de leite, queijo fresco e abacate"
+    ],
+    "steps": [
+      "Refogue a cebola fatiada até amaciar.",
+      "Acrescente o tomate batido e cozinhe até engrossar.",
+      "Junte os chipotles picados com um pouco do adobo da conserva.",
+      "Acrescente o frango desfiado e deixe absorver o tempero.",
+      "Sirva a tinga sobre tostadas.",
+      "Finalize com creme de leite, queijo fresco e abacate."
+    ],
+    "tips": [
+      "Acrescente chipotle aos poucos e prove, pois a ardência varia bastante entre marcas."
+    ],
+    "sources": [
+      "Cocina poblana tradicional",
+      "Larousse Cocina"
+    ]
+  },
+  "r-pm-n-gallina-pinta": {
+    "dishName": "Gallina pinta",
+    "summary": "Caldo de Sonora com feijão pinto, milho nixtamalizado e costela bovina, sem nenhuma galinha, apesar do nome.",
+    "history": "Em Álamos, joia colonial do sul de Sonora, esse caldo é um emblema local. Diz-se que nasceu da necessidade de fazer a comida render para famílias grandes e trabalhadores das fazendas, unindo feijão e milho de raízes indígenas à carne bovina do norte pecuarista. O nome brinca com os tons manchados que os grãos adquirem ao cozinhar; às vezes é chamado de 'pozole dos pobres'.",
+    "ingredients": [
+      "300 g de feijão pinto",
+      "500 g de costela bovina",
+      "1 xícara de milho nixtamalizado (ou hominy cozido)",
+      "1/2 cebola",
+      "3 dentes de alho",
+      "2 pimentas verdes (opcional)",
+      "Sal a gosto",
+      "Coentro e cebola picada para servir"
+    ],
+    "steps": [
+      "Deixe o feijão pinto de molho de um dia para o outro e escorra.",
+      "Em uma panela grande, cozinhe a costela com meia cebola e o alho até liberar seu sabor.",
+      "Acrescente o feijão e cozinhe em fogo médio até começar a amaciar.",
+      "Junte o milho nixtamalizado e continue cozinhando até o feijão e o milho ficarem macios e o caldo ganhar corpo.",
+      "Ajuste o sal, acrescente as pimentas verdes, se usar, e deixe ferver por mais alguns minutos.",
+      "Sirva bem quente com coentro, cebola picada e tortillas de trigo."
+    ],
+    "tips": [
+      "Milho cru e pré-cozido precisam de tempos diferentes; esta versão funciona melhor com hominy já cozido."
+    ],
+    "sources": [
+      "México Desconocido - Gastronomía de Álamos",
+      "Noro - La gallina pinta, tesoro gastronómico de Sonora"
+    ]
+  },
+  "r-pm-n-coricos-de-mocorito": {
+    "dishName": "Coricos de Mocorito",
+    "summary": "Biscoitos crocantes em forma de anel, feitos de massa de milho e piloncillo ou açúcar, tradicionais do norte de Sinaloa.",
+    "history": "Mocorito, apelidada de 'Atenas de Sinaloa' e Pueblo Mágico desde 2015, mantém uma tradição muito viva de panificação caseira. Entre seus doces de trigo e milho, destacam-se os coricos: anéis de massa assados que as famílias fazem para acompanhar café e que as padarias da cidade vendem ao lado de bizcotelas e empanadas.",
+    "ingredients": [
+      "2 xícaras de massa de milho (massa nixtamalizada ou farinha de milho hidratada)",
+      "1 xícara de farinha de trigo",
+      "150 g de banha ou manteiga",
+      "3/4 de xícara de açúcar ou piloncillo ralado",
+      "1 ovo",
+      "1 pitada de sal",
+      "1 colher de chá de canela em pó"
+    ],
+    "steps": [
+      "Bata a banha com o açúcar até obter um creme liso.",
+      "Acrescente o ovo e misture; incorpore a massa de milho, a farinha, o sal e a canela.",
+      "Sove até obter uma massa maleável que não grude.",
+      "Separe porções, forme tiras e una as pontas em formato de anel ou argola.",
+      "Disponha em uma assadeira e asse a 180 °C por cerca de 18 a 20 minutos, até dourar.",
+      "Deixe esfriar para ficarem crocantes antes de servir."
+    ],
+    "tips": [
+      "Esfrie os anéis sobre uma grade; eles ficam crocantes ao perder calor."
+    ],
+    "sources": [
+      "México Desconocido - Mocorito, Pueblo Mágico",
+      "Debate - Razones para visitar Mocorito",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-n-pescado-zarandeado-mazatlan": {
+    "dishName": "Pescado zarandeado à moda de Mazatlán",
+    "summary": "Peixe inteiro aberto em borboleta, marinado e grelhado na brasa sobre uma grade de mangue chamada zaranda.",
+    "history": "O zarandeado recebe seu nome da 'zaranda', uma grelha trançada com varas de mangue que permite virar o peixe sem quebrá-lo. Embora sua origem seja atribuída à região totorame de Nayarit e Mexcaltitán, no porto de Mazatlán tornou-se uma especialidade regional, servida à beira-mar com tortillas e molhos cítricos.",
+    "ingredients": [
+      "1 pargo-vermelho ou robalo inteiro (1.5 kg), aberto em borboleta",
+      "3 colheres de sopa de molho de soja",
+      "Suco de 3 limões",
+      "3 dentes de alho amassados",
+      "2 colheres de sopa de maionese (para espalhar e dourar)",
+      "1 colher de sopa de molho inglês",
+      "Sal e pimenta-do-reino a gosto",
+      "Cebola, tomate e pimenta em rodelas para acompanhar"
+    ],
+    "steps": [
+      "Limpe o peixe e abra-o em borboleta, mantendo as partes unidas pelo dorso.",
+      "Misture molho de soja, suco de limão, alho, molho inglês, sal e pimenta-do-reino; pincele toda a carne.",
+      "Para uma crosta dourada, espalhe uma camada fina de maionese no lado da carne.",
+      "Deixe marinar por 15 a 20 minutos.",
+      "Grelhe em fogo médio, primeiro pelo lado da pele e depois pelo da carne, até cozinhar e dourar levemente.",
+      "Sirva com os vegetais fatiados, tortillas de milho e molho de pimenta."
+    ],
+    "tips": [
+      "Os molhos de soja e inglês já contêm sal; prove antes de acrescentar mais."
+    ],
+    "sources": [
+      "Larousse Cocina - Pescado zarandeado",
+      "El Sol de Mazatlán - Pescado zarandeado, ¿de Mazatlán o Nayarit?"
+    ]
+  },
+  "r-pm-n-trucha-de-la-sierra-tarahumara": {
+    "dishName": "Truta da Sierra Tarahumara",
+    "summary": "Truta fresca de riacho, aberta em borboleta e grelhada com manteiga, ervas e limão, um prato de montanha de Creel.",
+    "history": "Creel, porta de entrada do Cânion do Cobre na Sierra Tarahumara, aproveita as trutas criadas nos riachos e viveiros das terras altas de Chihuahua. É um prato serrano simples que reflete a culinária rarámuri e o frio da floresta de coníferas onde é servido recém-preparado.",
+    "ingredients": [
+      "2 trutas frescas, limpas e abertas em borboleta",
+      "3 colheres de sopa de manteiga",
+      "2 dentes de alho picados",
+      "Suco de 1 limão",
+      "Ramos de tomilho ou salsinha",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "steps": [
+      "Tempere as trutas por dentro e por fora com sal e pimenta-do-reino.",
+      "Derreta a manteiga com o alho e as ervas em uma frigideira ou comal.",
+      "Coloque as trutas com a carne para baixo e cozinhe até dourar levemente.",
+      "Vire com cuidado e termine de cozinhar pelo lado da pele.",
+      "Regue com suco de limão e a manteiga da frigideira ao servir.",
+      "Sirva com batatas ou tortillas de trigo das terras altas."
+    ],
+    "tips": [
+      "Seque o peixe antes de cozinhar e verifique 63 °C na parte mais grossa."
+    ],
+    "sources": [
+      "Hotel Posada del Cobre - Gastronomía de Creel y Chihuahua",
+      "La Opción de Chihuahua - Platillos típicos de la Sierra Tarahumara",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-n-pan-de-pulque-de-saltillo": {
+    "dishName": "Pão de pulque de Saltillo",
+    "summary": "Pão de trigo fofo, fermentado com pulque, com leve acidez e aroma de canela.",
+    "history": "O pão de pulque é uma das tradições de panificação mais antigas de Saltillo. Nasceu no bairro tlaxcalteca de San Esteban de la Nueva Tlaxcala, quando padeiros coloniais descobriram que o pulque, bebida fermentada do maguey, podia fermentar o trigo. Também é chamado de pan de fiesta ou pan mestizo, e várias famílias o preparam há gerações.",
+    "ingredients": [
+      "500 g de farinha de trigo",
+      "1 xícara de pulque natural",
+      "120 g de açúcar",
+      "100 g de manteiga",
+      "2 ovos",
+      "1 colher de chá de canela em pó",
+      "1 pitada de sal"
+    ],
+    "steps": [
+      "Misture parte da farinha com o pulque para formar uma esponja e deixe fermentar em local morno até dobrar de volume.",
+      "Separadamente, bata a manteiga com o açúcar e acrescente os ovos.",
+      "Junte a esponja fermentada ao restante da farinha, à canela, ao sal e à mistura de manteiga.",
+      "Sove até obter uma massa macia e elástica; deixe descansar até crescer novamente.",
+      "Modele os pães, coloque em uma assadeira e deixe crescer pela última vez.",
+      "Asse a 180 °C por cerca de 20 a 25 minutos, até dourar."
+    ],
+    "tips": [
+      "A fermentação do pulque varia: avalie pelo aumento de volume e reserve pelo menos 3 horas de espera."
+    ],
+    "sources": [
+      "Milenio - Historia del pan de pulque de Saltillo",
+      "Posta - Pan de pulque de Saltillo, un bocado de tradición",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-n-cortadillo-de-cuatro-cienegas": {
+    "dishName": "Cortadillo de Cuatro Ciénegas",
+    "summary": "Pedaços de carne bovina ensopados em caldo de tomate, pimentão e cebola, um prato nortista de Cuatro Ciénegas.",
+    "history": "Em Cuatro Ciénegas, Pueblo Mágico de Coahuila conhecido por suas piscinas de águas cristalinas, o cortadillo é comida cotidiana. É um ensopado humilde de carne bovina cozida, desfiada ou em pedaços pequenos, banhada em caldo de tomate e pimentão, servido com tortillas de trigo e feijão.",
+    "ingredients": [
+      "600 g de carne bovina para desfiar (fraldinha ou acém)",
+      "3 tomates",
+      "1 pimentão verde em tiras",
+      "1/2 cebola picada",
+      "2 dentes de alho",
+      "2 pimentas serrano (opcional)",
+      "Sal, pimenta-do-reino e cominho a gosto"
+    ],
+    "steps": [
+      "Cozinhe a carne com um pedaço de cebola e alho até amaciar; reserve e corte em tiras ou desfie.",
+      "Bata o tomate com alho e um pouco do caldo do cozimento.",
+      "Refogue a cebola e o pimentão até amaciar, acrescentando a pimenta, se usar.",
+      "Junte a carne e refogue por cerca de 2 minutos.",
+      "Despeje o tomate batido, tempere com sal, pimenta-do-reino e cominho e deixe ferver até o caldo engrossar.",
+      "Sirva quente com tortillas de trigo e feijão cozido, amassado e refogado."
+    ],
+    "tips": [
+      "A fraldinha pode levar mais de 1 hora para amaciar; acrescente caldo quente e continue até ser possível desfiar."
+    ],
+    "sources": [
+      "Posta - Platillos especiales de Cuatro Ciénegas",
+      "Cocina Delirante - Platillos típicos de Cuatro Ciénegas"
+    ]
+  },
+  "r-pm-n-glorias-de-linares": {
+    "dishName": "Glorias de Linares",
+    "summary": "Doce de leite de cabra caramelizado com nozes-pecãs, embrulhado no clássico celofane vermelho, orgulho de Linares.",
+    "history": "As glorias nasceram em Linares, Nuevo León, por volta dos anos 1930, quando Dona Natalia Medina vendia blocos de doce de leite com pecãs. Segundo a lenda, seus clientes descreviam o sabor como 'uma glória', e o nome pegou. Originalmente eram feitas com leite de cabra, tão típico do nordeste, e são embrulhadas no reconhecível celofane vermelho.",
+    "ingredients": [
+      "1 litro de leite de cabra",
+      "1/2 litro de leite de vaca",
+      "300 g de açúcar",
+      "1 pau de canela",
+      "1/2 colher de chá de bicarbonato de sódio",
+      "150 g de nozes-pecãs picadas"
+    ],
+    "steps": [
+      "Em uma panela de fundo grosso, misture os 2 leites com açúcar, canela e bicarbonato.",
+      "Cozinhe em fogo médio, mexendo constantemente para não grudar.",
+      "Continue até a mistura engrossar e adquirir um tom de caramelo dourado.",
+      "Retire a canela e misture as pecãs picadas.",
+      "Deixe esfriar um pouco e modele bolinhas ou pequenos blocos.",
+      "Embrulhe cada gloria em celofane para conservar."
+    ],
+    "tips": [
+      "Mexa raspando o fundo e teste uma gota resfriada; ela deve formar uma porção macia e moldável."
+    ],
+    "sources": [
+      "Larousse Cocina - Glorias de Linares",
+      "Wikipedia - Glorias de Linares"
+    ]
+  },
+  "r-pm-n-enchiladas-tultecas": {
+    "dishName": "Enchiladas tultecas",
+    "summary": "Enchiladas de tortillas vermelhas recheadas com queijo e chorizo, cobertas com alface, tomate e pimenta piquín.",
+    "history": "Tula, primeiro Pueblo Mágico de Tamaulipas e terra da jaqueta de couro cuera tamaulipeca, tem nas enchiladas tultecas seu prato mais representativo. A tortilla é tingida de vermelho com pimenta e recheada com queijo e chorizo, acompanhada de vegetais frescos; elas são consumidas em quase todos os restaurantes da cidade.",
+    "ingredients": [
+      "12 tortillas de milho",
+      "4 pimentas ancho ou guajillo para o molho",
+      "200 g de chorizo",
+      "200 g de queijo fresco esfarelado",
+      "1/2 cebola picada",
+      "Alface e tomate picados",
+      "Pimenta piquín em pó",
+      "Óleo para fritar",
+      "1 dente de alho e sal a gosto"
+    ],
+    "steps": [
+      "Hidrate as pimentas em água quente e bata com alho e sal até obter um molho espesso.",
+      "Frite o chorizo até cozinhar bem e reserve.",
+      "Passe as tortillas no molho de pimenta para tingi-las e frite rapidamente.",
+      "Recheie cada tortilla com queijo, chorizo e cebola e enrole.",
+      "Disponha as enchiladas e regue com mais um pouco de molho.",
+      "Sirva com alface, tomate e pimenta piquín salpicada por cima."
+    ],
+    "tips": [
+      "Escorra o chorizo cozido para as enchiladas não ficarem gordurosas demais."
+    ],
+    "sources": [
+      "El Mañana - El Pueblo Mágico de Tula, Tamaulipas",
+      "Travesías - Gastronomía en Tamaulipas"
+    ]
+  },
+  "r-pm-n-gorditas-de-horno-duranguenses": {
+    "dishName": "Gorditas assadas à moda de Durango",
+    "summary": "Gorditas doces de trigo ou milho, assadas com piloncillo e canela, uma tradição de panificação de Durango.",
+    "history": "As gorditas assadas são uma tradição culinária profundamente enraizada em Durango. As doces, feitas com farinha de trigo, piloncillo ou açúcar e banha, são assadas em forno a lenha e vendidas nas ruas e estradas do estado, um agrado típico para acompanhar café.",
+    "ingredients": [
+      "3 xícaras de farinha de trigo",
+      "150 g de gordura vegetal ou manteiga",
+      "1 xícara de piloncillo ralado ou açúcar",
+      "1 colher de chá de canela em pó",
+      "1 colher de chá de fermento químico",
+      "1 ovo",
+      "Leite suficiente para dar liga"
+    ],
+    "steps": [
+      "Misture a farinha com o fermento, a canela e o piloncillo.",
+      "Incorpore a gordura com as mãos até obter textura de farofa.",
+      "Acrescente o ovo e o leite aos poucos até formar uma massa macia.",
+      "Abra a massa e corte discos grossos.",
+      "Coloque em uma assadeira e asse a 180 °C por 20 a 25 minutos, até dourar.",
+      "Deixe amornar e sirva com café de olla."
+    ],
+    "tips": [
+      "Acrescente o leite às colheradas e deixe espaço entre as porções para dourarem por igual."
+    ],
+    "sources": [
+      "Posta - Gorditas de horno, tradición culinaria de Durango",
+      "Noro - Dulces y postres típicos de Durango",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-n-enchiladas-zacatecanas": {
+    "dishName": "Enchiladas zacatecanas",
+    "summary": "Tortillas passadas em molho de pimenta e recheadas com queijo e cebola, um clássico das ruas de Zacatecas.",
+    "history": "Na capital de Zacatecas, são chamadas apenas de 'enchiladas'; fora do estado, acrescenta-se o gentílico para indicar a origem. São famosas nas festas da Semana Santa, quando longas mesas são montadas perto da catedral e as barracas as preparam na hora em banha de porco.",
+    "ingredients": [
+      "12 tortillas de milho",
+      "5 pimentas guajillo ou ancho",
+      "2 dentes de alho",
+      "250 g de queijo fresco ou asadero esfarelado",
+      "1/2 cebola picada",
+      "Alface picada",
+      "Banha de porco ou óleo para fritar",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Hidrate as pimentas e bata com alho, sal e um pouco de água para formar o molho.",
+      "Aqueça a banha em uma frigideira.",
+      "Passe cada tortilla no molho de pimenta e frite rapidamente.",
+      "Recheie com queijo e cebola e dobre ou enrole.",
+      "Disponha as enchiladas e cubra com mais molho quente.",
+      "Sirva imediatamente com alface e queijo salpicado."
+    ],
+    "tips": [
+      "Frite as tortillas rapidamente para continuarem flexíveis e dobrarem sem rachar."
+    ],
+    "sources": [
+      "Larousse Cocina - Enchiladas zacatecanas",
+      "El Informador - Platillos típicos de Zacatecas"
+    ]
+  },
+  "r-pm-n-langosta-estilo-puerto-nuevo": {
+    "dishName": "Lagosta à moda de Puerto Nuevo",
+    "summary": "Lagosta aberta e frita em banha, servida com tortillas de trigo, feijão, arroz e manteiga com limão.",
+    "history": "Puerto Nuevo, a 'cidade da lagosta' do município de Playas de Rosarito, popularizou o prato nos anos 1950. As esposas dos pescadores abriam suas casas para cozinhar a lagosta recém-pescada em banha e servi-la com tortillas de trigo feitas à mão; hoje, mais de 20 restaurantes mantêm a tradição viva.",
+    "ingredients": [
+      "2 lagostas frescas, abertas ao meio",
+      "Banha de porco para fritar",
+      "80 g de manteiga",
+      "Suco de 1 limão",
+      "Sal e pimenta-do-reino a gosto",
+      "Tortillas de trigo para acompanhar",
+      "Feijão cozido, amassado e refogado e arroz para acompanhar"
+    ],
+    "steps": [
+      "Abra as lagostas ao meio no sentido do comprimento e tempere com sal e pimenta-do-reino.",
+      "Aqueça bastante banha em uma frigideira grande.",
+      "Frite as metades com a carne para baixo até mudarem de cor, mantendo-as suculentas.",
+      "Derreta a manteiga com suco de limão para fazer o molho mojo.",
+      "Sirva a lagosta com a manteiga de limão para mergulhar.",
+      "Acompanhe com tortillas de trigo quentes, feijão e arroz."
+    ],
+    "tips": [
+      "A carne da lagosta deve estar firme e opaca por inteiro; a cor da carapaça, sozinha, não confirma o cozimento."
+    ],
+    "sources": [
+      "Gourmet de México - Historia de la langosta estilo Puerto Nuevo",
+      "BajaCalifornia.travel - Langosta estilo Puerto Nuevo"
+    ]
+  },
+  "r-pm-n-ceviche-de-marlin-ahumado": {
+    "dishName": "Ceviche de marlim defumado",
+    "summary": "Ceviche fresco de marlim defumado, tomate, cebola e limão, uma especialidade costeira de Todos Santos.",
+    "history": "Todos Santos, Pueblo Mágico de Baja California Sur entre La Paz e Cabo San Lucas, é famoso pela culinária de frutos do mar. O marlim defumado, muito típico da península, vira um ceviche suculento e saboroso servido sobre tostada, um dos petiscos mais procurados da cidade.",
+    "ingredients": [
+      "300 g de marlim defumado em lascas",
+      "3 tomates picados",
+      "1/2 cebola picada",
+      "1 pimenta serrano picada",
+      "Suco de 4 limões",
+      "Coentro picado",
+      "Sal e pimenta-do-reino a gosto",
+      "Tostadas para servir"
+    ],
+    "steps": [
+      "Desfaça o marlim defumado em lascas e retire eventuais espinhas.",
+      "Misture o peixe com tomate, cebola e pimenta.",
+      "Acrescente o suco de limão e deixe descansar alguns minutos para pegar sabor.",
+      "Junte o coentro e ajuste o sal e a pimenta-do-reino.",
+      "Sirva frio sobre tostadas.",
+      "Acompanhe com molho de pimenta e abacate a gosto."
+    ],
+    "tips": [
+      "Use peixe defumado industrializado com indicação de pronto para consumo e mantenha refrigerado até misturar."
+    ],
+    "sources": [
+      "Food and Pleasure - Pueblo Mágico Todos Santos",
+      "Noro - Qué comer en los pueblos mágicos de Baja California Sur"
+    ]
+  }
+}

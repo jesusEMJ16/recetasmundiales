@@ -1,0 +1,1694 @@
+{
+  "r-tlayudas": {
+    "dishName": "Tlayuda Oaxaca",
+    "summary": "Tortilla besar renyah dengan kacang, quesillo, tasajo panggang, selada, dan alpukat.",
+    "history": "Hidangan khas lembah tengah Oaxaca, sering dijual di pasar dan lapak jalanan pada malam hari.",
+    "ingredients": [
+      "4 tlayuda besar",
+      "240 g kacang hitam matang yang dilumatkan lalu digoreng",
+      "200 g quesillo suwir",
+      "200 g tasajo sapi",
+      "2 sendok makan asiento babi, opsional",
+      "100 g selada, cuci dan cincang",
+      "1 alpukat, iris",
+      "120 ml salsa"
+    ],
+    "steps": [
+      "Panaskan comal dengan api sedang. Oleskan lapisan tipis asiento, jika digunakan, dan kacang pada setiap tlayuda.",
+      "Tambahkan quesillo dan panaskan hingga dasarnya renyah dan keju meleleh, tanpa membakar tortilla.",
+      "Panggang tasajo terpisah hingga suhu tengahnya 63 °C; istirahatkan 3 menit lalu potong memanjang.",
+      "Tambahkan daging, selada, dan alpukat. Sendokkan salsa, lipat, dan segera sajikan."
+    ],
+    "tips": [
+      "Gunakan lapisan kacang yang tipis agar tortilla tetap renyah."
+    ],
+    "sources": [
+      "Cocina tradicional oaxaqueña, notas de mercado 20 de Noviembre",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mole-negro": {
+    "dishName": "Mole negro",
+    "summary": "Versi rumahan saus Oaxaca dari cabai kering, biji-bijian, kacang-kacangan, dan cokelat, berwarna gelap dengan tekstur halus lembut.",
+    "history": "Mole negro merupakan bagian dari masakan perayaan di Oaxaca. Bahan dan tekniknya berbeda antar keluarga dan komunitas; versi ini menggunakan daftar bahan lebih singkat untuk dapur rumahan.",
+    "ingredients": [
+      "3 cabai chilhuacle hitam, 2 cabai mulato, dan 2 cabai pasilla, buang tangkai dan bijinya",
+      "60 g cokelat minuman Meksiko",
+      "30 g biji wijen",
+      "30 g almon dan 30 g kacang tanah tanpa garam",
+      "1 plantain matang, iris",
+      "1 iris roti panggang",
+      "2 tomat panggang",
+      "1/2 bawang bombai dan 2 siung bawang putih, panggang",
+      "1/2 sendok teh kayu manis, 2 cengkih, dan 4 butir lada hitam",
+      "1 liter kaldu ayam, tambah bila perlu",
+      "3 sendok makan lemak babi",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Sangrai cabai sebentar pada tiap sisi tanpa membakarnya. Rendam dalam air panas 20 menit, lalu tiriskan.",
+      "Panaskan lemak babi dalam panci. Cokelatkan wijen, kacang-kacangan, dan plantain secara terpisah, angkat sebelum masing-masing gosong.",
+      "Blender cabai, tomat, bawang bombai, bawang putih, roti, rempah, dan bahan yang dicokelatkan secara bertahap dengan sedikit kaldu hingga menjadi pasta halus.",
+      "Goreng pasta dengan api sedang-kecil selama 10 menit sambil terus diaduk. Tambahkan sisa kaldu dan cokelat.",
+      "Didihkan perlahan selama 60-90 menit sambil sering diaduk. Tambahkan kaldu jika terlalu kental dan sesuaikan garam. Saus harus melapisi sendok."
+    ],
+    "tips": [
+      "Tambahkan cokelat bertahap dan cicipi: beberapa jenis tablet mengandung banyak gula."
+    ],
+    "sources": [
+      "Recetario familiar de los Valles Centrales"
+    ]
+  },
+  "r-chiles-nogada": {
+    "dishName": "Chiles en nogada",
+    "summary": "Cabai poblano berisi daging dan buah, dilapisi saus walnut dan delima.",
+    "history": "Dikaitkan dengan Puebla dan perayaan September, hidangan ini memadukan buah musiman dengan saus walnut yang lembut.",
+    "ingredients": [
+      "4 cabai poblano besar",
+      "400 g campuran daging sapi dan babi giling",
+      "2 tomat, cincang",
+      "1/2 bawang bombai, cincang, dan 1 siung bawang putih",
+      "1 apel dan 1 pir, potong dadu kecil",
+      "30 g kismis dan 30 g almon cincang",
+      "2 sendok makan minyak",
+      "150 g walnut kupas",
+      "80 g keju kambing",
+      "150 ml susu",
+      "1/2 sendok teh kayu manis, garam, dan lada",
+      "Biji dari 1 delima dan 2 sendok makan peterseli cincang"
+    ],
+    "steps": [
+      "Panggang cabai hingga kulitnya melepuh. Tutup 10 menit, kupas hati-hati, dan belah satu sisi untuk membuang bijinya.",
+      "Tumis bawang bombai dan bawang putih dalam minyak. Tambahkan daging dan uraikan, lalu masukkan tomat, buah, kismis, almon, dan kayu manis.",
+      "Masak isian 20-25 menit hingga cairan menyusut dan suhu daging 71 °C. Bumbui.",
+      "Blender walnut, keju, dan susu menjadi saus lembut, tambahkan susu bertahap untuk mengatur kekentalannya.",
+      "Isi cabai, lapisi saus walnut, dan hias dengan delima serta peterseli. Segera sajikan; simpan saus di kulkas jika dibuat sebelumnya."
+    ],
+    "tips": [
+      "Tiriskan isian sebelum mengisi cabai agar tidak mengencerkan saus walnut."
+    ],
+    "sources": [
+      "Tradición poblana de temporada",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-birria": {
+    "dishName": "Birria sapi",
+    "summary": "Daging sapi dimasak perlahan dalam bumbu rendaman cabai kering, disajikan dengan kuah dan tortilla.",
+    "history": "Dikaitkan dengan Jalisco, birria memiliki banyak versi daerah dan keluarga, termasuk olahan sapi yang disajikan dalam taco.",
+    "ingredients": [
+      "1.5 kg daging sapi untuk semur, potong besar",
+      "5 cabai guajillo dan 2 cabai ancho, buang bijinya",
+      "4 siung bawang putih",
+      "1 sendok teh jintan bubuk dan 1 sendok teh oregano kering",
+      "3 sendok makan cuka",
+      "2 lembar daun bay",
+      "1.5 liter air atau kaldu sapi",
+      "1 bawang bombai, setengah untuk memasak dan setengah dicincang untuk penyajian",
+      "12 tortilla jagung",
+      "3 sendok makan daun ketumbar cincang",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Sangrai cabai ringan lalu rendam 15 menit. Blender dengan bawang putih, jintan, oregano, cuka, dan 250 ml dari air; saring.",
+      "Lumuri daging dan rendam tertutup di kulkas selama 1 jam.",
+      "Masukkan dalam panci bersama daun bay, setengah bawang bombai, dan sisa air atau kaldu. Didihkan, tutup, dan masak dengan didihan perlahan sekitar 3 jam hingga mudah disuwir.",
+      "Suwir daging dan sesuaikan bumbu kuah. Sajikan dalam tortilla panas dengan bawang bombai, daun ketumbar, dan kuah terpisah."
+    ],
+    "tips": [
+      "Daging siap ketika mudah diurai dengan garpu; jika masih keras, lanjutkan memasak perlahan."
+    ],
+    "sources": [
+      "Cocina tapatía"
+    ]
+  },
+  "r-gumbo": {
+    "dishName": "Gumbo ayam dan andouille",
+    "summary": "Rebusan Louisiana dengan ayam, andouille, dan sayuran, dikentalkan dengan roux gelap dari tepung dan minyak.",
+    "history": "Gumbo adalah hidangan khas Louisiana yang dibentuk oleh tradisi kuliner Afrika, Prancis, dan Kreol.",
+    "ingredients": [
+      "80 g tepung terigu",
+      "80 ml minyak sayur",
+      "300 g sosis andouille, iris",
+      "500 g ayam tanpa tulang, potong-potong",
+      "1 bawang bombai, 2 batang seledri, dan 1 paprika hijau, cincang",
+      "2 siung bawang putih, cincang",
+      "1.5 liter kaldu ayam",
+      "1 lembar daun bay dan 1 sendok teh thyme",
+      "1 sendok teh bumbu Cajun",
+      "600 g nasi putih matang",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Panaskan minyak dalam panci tebal dan tambahkan tepung. Aduk dengan api sedang-kecil 20-30 menit hingga cokelat tua; mulai lagi jika gosong.",
+      "Tambahkan bawang bombai, seledri, dan paprika dengan hati-hati. Masak 8 menit; tambahkan bawang putih dan sosis, lalu aduk 2 menit.",
+      "Tuangkan kaldu bertahap sambil diaduk. Tambahkan ayam, daun bay, thyme, dan bumbu Cajun.",
+      "Didihkan perlahan 40-50 menit hingga ayam empuk dan suhunya 74 °C. Angkat daun bay dan sesuaikan garam.",
+      "Sajikan gumbo dalam mangkuk bersama nasi matang."
+    ],
+    "tips": [
+      "Terus aduk roux dan jangan tinggalkan panci: bahan ini cepat berubah dari tersangrai menjadi gosong."
+    ],
+    "sources": [
+      "Cocina cajún y criolla de Luisiana",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-brisket": {
+    "dishName": "Brisket asap ala Texas",
+    "summary": "Sandung lamur sapi diasap perlahan dengan kerak lada dan garam.",
+    "history": "Brisket merupakan inti barbeku Texas, dengan pemasakan lama pada panas rendah yang menghasilkan tekstur empuk.",
+    "ingredients": [
+      "3 kg sandung lamur sapi",
+      "25 g garam kasar",
+      "20 g lada hitam tumbuk kasar"
+    ],
+    "steps": [
+      "Siapkan pengasap pada 110-120 °C dengan kayu yang aman untuk memasak. Pangkas lemak berlebih, sisakan lapisan tipis.",
+      "Lumuri sapi dengan garam dan lada. Asap dengan panas tidak langsung hingga terbentuk kerak dan suhu tengah mendekati 70 °C.",
+      "Bungkus dengan kertas pengasapan dan lanjutkan hingga sekitar 93 °C, sampai probe masuk dengan sedikit hambatan. Ketebalan memengaruhi waktu; sediakan sekitar 10 jam untuk memasak.",
+      "Istirahatkan tetap terbungkus selama 1 jam dengan kondisi penyimpanan panas, lalu iris melawan serat tepat sebelum disajikan."
+    ],
+    "tips": [
+      "Suhu adalah panduan; hambatan probe dan waktu istirahat menentukan tekstur saat diiris."
+    ],
+    "sources": [
+      "Tradición del BBQ de Texas Hill Country",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pizza": {
+    "dishName": "Pizza Napoli rumahan",
+    "summary": "Adonan fermentasi dengan tomat, mozzarella, dan basil, disesuaikan untuk oven rumahan.",
+    "history": "Pizza Napoli dikenal dengan adonan fermentasi, pinggiran berongga, dan panas tinggi. Adaptasi rumahan ini memakai adonan siap pakai dan memberikan petunjuk untuk oven rumah.",
+    "ingredients": [
+      "500 g adonan pizza yang sudah difermentasi",
+      "160 g tomat lumat",
+      "150 g mozzarella fior di latte, tiriskan",
+      "8 lembar daun basil",
+      "1 sendok makan minyak zaitun",
+      "1 sejumput garam",
+      "Tepung untuk membentangkan adonan"
+    ],
+    "steps": [
+      "Panaskan oven dengan batu pizza atau loyang tebal pada suhu maksimum, sekitar 250-275 °C, selama 30 menit.",
+      "Bagi adonan menjadi dua bola. Bentangkan dengan tangan di permukaan bertabur sedikit tepung, biarkan pinggiran lebih tebal.",
+      "Tambahkan tomat, garam, dan mozzarella yang ditiriskan baik. Panggang setiap pizza 8-12 menit hingga pinggiran kecokelatan dan dasarnya matang.",
+      "Tambahkan basil dan minyak setelah dipanggang. Dalam oven khusus pizza pada 450 °C, pemasakan mungkin hanya 60-90 detik."
+    ],
+    "tips": [
+      "Tiriskan mozzarella benar-benar agar bagian tengah tidak basah."
+    ],
+    "sources": [
+      "Disciplinare de la pizza napolitana",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-cacio": {
+    "dishName": "Cacio e pepe",
+    "summary": "Pasta Roma dengan emulsi pecorino dan lada hitam.",
+    "history": "Hidangan klasik Roma yang berpusat pada pasta, keju pecorino, dan lada hitam.",
+    "ingredients": [
+      "200 g spageti atau tonnarelli",
+      "100 g pecorino romano, parut halus",
+      "1 sendok teh lada hitam yang baru digiling",
+      "Garam untuk air rebusan"
+    ],
+    "steps": [
+      "Rebus pasta dalam air bergaram ringan sesuai kemasan. Sisihkan 300 ml air rebusan sebelum ditiriskan.",
+      "Sangrai lada di wajan kering 30 detik. Tambahkan 2 sendok makan air pasta.",
+      "Campur keju dengan sedikit air pasta suam-suam kuku dalam mangkuk hingga menjadi krim; air sangat panas dapat membuatnya menggumpal.",
+      "Masukkan pasta ke wajan, matikan api, dan aduk bersama krim keju. Tambahkan air sesendok demi sesendok hingga mengilap. Segera sajikan."
+    ],
+    "tips": [
+      "Tambahkan keju setelah api dimatikan dan gunakan air suam-suam kuku agar tidak menggumpal."
+    ],
+    "sources": [
+      "Cocina tradicional romana"
+    ]
+  },
+  "r-okonomiyaki": {
+    "dishName": "Okonomiyaki",
+    "summary": "Panekuk kol gurih dengan saus, mayones, dan serpihan bonito.",
+    "history": "Jajanan khas Osaka yang namanya merujuk pada memasak apa pun yang disukai di atas pelat panggang.",
+    "ingredients": [
+      "250 g kol, cincang halus",
+      "100 g tepung terigu",
+      "2 telur",
+      "100 ml air",
+      "100 g perut babi, iris tipis",
+      "1 sendok makan minyak",
+      "2 sendok makan saus okonomi",
+      "2 sendok makan mayones Jepang",
+      "5 g serpihan bonito dan 1 sendok teh aonori"
+    ],
+    "steps": [
+      "Campur tepung, telur, dan air. Aduk balik kol tanpa memadatkannya.",
+      "Panaskan minyak di wajan dengan api sedang. Bentuk dua panekuk tebal dan letakkan perut babi di atasnya.",
+      "Masak 5 menit, balik dengan spatula lebar, lalu tutup. Masak 5-7 menit lagi hingga bagian tengah padat dan babi matang.",
+      "Balik lagi dan pastikan tidak ada adonan cair tersisa. Tambahkan saus, mayones, serpihan bonito, dan aonori di atasnya."
+    ],
+    "tips": [
+      "Jangan tekan panekuk dengan spatula: uap membantu mematangkan kol di dalamnya."
+    ],
+    "sources": [
+      "Cocina de Osaka"
+    ]
+  },
+  "r-ramen": {
+    "dishName": "Ramen shoyu cepat",
+    "summary": "Ramen gaya shoyu dengan kaldu ayam dan dashi, babi matang, serta telur berbumbu. Versi cepat menggunakan kuah dan pelengkap siap pakai.",
+    "history": "Ramen shoyu ala Tokyo membantu memopulerkan ramen pada masa pascaperang.",
+    "ingredients": [
+      "200 g mi ramen",
+      "700 ml kaldu ayam siap pakai",
+      "300 ml dashi siap pakai",
+      "3 sendok makan kecap asin",
+      "1 sendok makan mirin",
+      "150 g chashu babi yang sudah matang",
+      "2 telur berbumbu yang sudah matang",
+      "2 sendok makan daun bawang cincang"
+    ],
+    "steps": [
+      "Panaskan kaldu ayam dan dashi. Campur kecap asin dan mirin, lalu tambahkan bertahap sambil memeriksa keasinannya.",
+      "Panaskan chashu terpisah hingga panas merata. Simpan telur di kulkas hingga penyajian.",
+      "Rebus mi dalam panci terpisah sesuai kemasan; tiriskan tanpa dibiarkan menunggu.",
+      "Bagi kuah dan mi ke dua mangkuk. Tambahkan chashu, telur belah dua, dan daun bawang. Segera sajikan."
+    ],
+    "tips": [
+      "Masak mi paling akhir dan segera sajikan agar tidak menyerap terlalu banyak kuah."
+    ],
+    "sources": [
+      "Cocina de Tokio"
+    ]
+  },
+  "r-padthai": {
+    "dishName": "Pad Thai vegetarian",
+    "summary": "Adaptasi vegetarian mi goreng Thailand dengan tahu, telur, asam jawa, dan kacang tanah.",
+    "history": "Pad Thai memadukan mi beras dengan bumbu manis, asam, dan gurih; versi rumahan ini memakai tahu dan kecap asin.",
+    "ingredients": [
+      "180 g mi beras kering",
+      "150 g tahu padat, potong dadu",
+      "2 telur",
+      "2 sendok makan pasta asam jawa",
+      "1 sendok makan gula",
+      "2 sendok makan kecap asin",
+      "2 sendok makan minyak",
+      "100 g taoge, cuci",
+      "3 batang daun bawang, potong-potong",
+      "30 g kacang tanah sangrai",
+      "1 jeruk nipis, potong baji"
+    ],
+    "steps": [
+      "Rendam mi sesuai kemasan dan tiriskan. Campur asam jawa, gula, kecap asin, dan 3 sendok makan air.",
+      "Panaskan minyak dan cokelatkan tahu. Sisihkan ke tepi, tambahkan telur, dan orak-arik hingga matang.",
+      "Tambahkan mi dan saus. Tumis 2-4 menit, tambahkan air sesendok demi sesendok jika perlu, hingga empuk.",
+      "Tambahkan taoge dan daun bawang, lalu masak hingga taoge panas. Sajikan dengan kacang tanah dan jeruk nipis."
+    ],
+    "tips": [
+      "Ukur dan siapkan semuanya sebelum memanaskan wok karena pemasakan berlangsung cepat."
+    ],
+    "sources": [
+      "Cocina callejera de Bangkok"
+    ]
+  },
+  "r-khaosoi": {
+    "dishName": "Khao soi",
+    "summary": "Sup mi kari santan Thailand utara dengan ayam, mi renyah, dan acar.",
+    "history": "Dikaitkan dengan Chiang Mai dan Thailand utara, khao soi memadukan kuah kari kaya rasa dengan mi lunak dan renyah.",
+    "ingredients": [
+      "300 g paha ayam tanpa tulang, potong-potong",
+      "2 sendok makan pasta kari khao soi siap pakai",
+      "400 ml santan",
+      "250 ml kaldu ayam",
+      "200 g mi telur",
+      "2 sendok makan minyak",
+      "60 g acar sawi",
+      "1/4 bawang bombai merah, cincang",
+      "1 jeruk nipis, potong baji",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Panaskan 1 sendok makan minyak dan goreng pasta kari 1 menit. Tambahkan santan dan kaldu.",
+      "Tambahkan ayam dan didihkan perlahan 20-25 menit hingga empuk dan bersuhu 74 °C.",
+      "Masak mi sesuai kemasan. Tiriskan dan sisihkan sebagian kecil; goreng bagian itu dalam sisa minyak hingga renyah.",
+      "Sajikan kari di atas mi matang, lalu tambahkan mi renyah, acar, bawang, dan jeruk nipis."
+    ],
+    "tips": [
+      "Cicipi pasta kari sebelum menambahkan garam; kepekatannya berbeda antar merek."
+    ],
+    "sources": [
+      "Cocina del norte de Tailandia",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-tacos-pastor": {
+    "dishName": "Taco al pastor dengan wajan",
+    "summary": "Irisan tipis babi berbumbu disajikan dalam tortilla jagung dengan nanas, bawang bombai, dan daun ketumbar.",
+    "history": "Taco al pastor berkaitan erat dengan Mexico City dan adaptasi Meksiko atas pemasakan dengan tusukan vertikal. Versi wajan ini mempertahankan bumbu rendaman dan nanas untuk dapur rumahan.",
+    "ingredients": [
+      "800 g daging babi, iris tipis",
+      "4 cabai guajillo, buang bijinya",
+      "30 g pasta achiote",
+      "2 siung bawang putih",
+      "80 ml jus jeruk",
+      "2 sendok makan cuka",
+      "1/2 sendok teh jintan dan 1 sendok teh oregano",
+      "200 g nanas, iris",
+      "12 tortilla jagung",
+      "1/2 bawang bombai cincang dan 3 sendok makan daun ketumbar cincang",
+      "1 sendok makan minyak dan garam secukupnya"
+    ],
+    "steps": [
+      "Rendam cabai dalam air panas selama 15 menit. Blender dengan achiote, bawang putih, jus jeruk, cuka, jintan, oregano, dan garam.",
+      "Lumuri babi dan rendam tertutup di kulkas selama 2 jam.",
+      "Panaskan minyak dan masak daging bertahap tanpa memenuhi wajan, hingga kecokelatan dan bersuhu 63 °C; istirahatkan 3 menit.",
+      "Cokelatkan nanas terpisah, cincang daging, dan sajikan dalam tortilla panas dengan nanas, bawang bombai, dan daun ketumbar."
+    ],
+    "tips": [
+      "Masak babi dalam kelompok kecil agar kecokelatan tanpa cairan menggenang di wajan."
+    ],
+    "sources": [
+      "Taquerías del centro de México",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-tiramisu": {
+    "dishName": "Tiramisu",
+    "summary": "Lapisan biskuit ladyfinger celup kopi dan krim mascarpone, diakhiri dengan kakao.",
+    "history": "Tiramisu dikaitkan dengan Treviso dan Italia timur laut. Ada beragam klaim mengenai penciptaannya.",
+    "ingredients": [
+      "200 g biskuit ladyfinger savoiardi",
+      "250 g mascarpone",
+      "3 telur pasteurisasi, pisahkan putih dan kuningnya",
+      "75 g gula",
+      "200 ml kopi pekat dingin",
+      "2 sendok makan kakao tanpa pemanis"
+    ],
+    "steps": [
+      "Kocok kuning telur pasteurisasi dengan gula hingga kental. Aduk balik mascarpone tanpa mengocok berlebihan.",
+      "Dalam mangkuk bersih, kocok putih telur pasteurisasi hingga kaku dan aduk balik perlahan ke dalam krim.",
+      "Celupkan ladyfinger sebentar ke kopi dingin. Susun berlapis dalam wadah dan tutup dengan krim; ulangi.",
+      "Tutup dan dinginkan di kulkas minimal 4 jam. Taburi kakao tepat sebelum disajikan dan tetap simpan di kulkas."
+    ],
+    "tips": [
+      "Gunakan kopi dingin dan celup biskuit sebentar agar lapisan tetap berbentuk."
+    ],
+    "sources": [
+      "Repostería italiana contemporánea"
+    ]
+  },
+  "r-pancakes": {
+    "dishName": "Panekuk buttermilk",
+    "summary": "Panekuk sarapan lembut dari buttermilk, disajikan dengan sirop maple.",
+    "history": "Panekuk buttermilk umum di seluruh Amerika Serikat dan di sini tidak dikaitkan dengan negara bagian tertentu.",
+    "ingredients": [
+      "200 g tepung terigu",
+      "2 sendok teh baking powder",
+      "1 sendok makan gula dan 1/4 sendok teh garam",
+      "250 ml buttermilk",
+      "1 telur",
+      "30 g mentega leleh, tambah untuk wajan",
+      "80 ml sirop maple"
+    ],
+    "steps": [
+      "Campur tepung, baking powder, gula, dan garam. Secara terpisah kocok buttermilk, telur, dan mentega leleh yang sudah dingin.",
+      "Aduk balik keduanya hanya sampai tepung kering tidak terlihat, biarkan beberapa gumpalan.",
+      "Olesi wajan dengan lemak dan panaskan dengan api sedang. Tuang porsi kecil dan masak hingga muncul gelembung dan pinggirnya tampak kusam, sekitar 2 menit.",
+      "Balik sekali dan masak 1-2 menit lagi hingga matang seluruhnya. Sajikan dengan sirop maple."
+    ],
+    "tips": [
+      "Biarkan beberapa gumpalan dalam adonan; mengaduk berlebihan membuat panekuk keras."
+    ],
+    "sources": [
+      "Desayuno estadounidense clásico"
+    ]
+  },
+  "r-mochi": {
+    "dishName": "Mochi daifuku stroberi",
+    "summary": "Kue lembut dari tepung beras yang membungkus stroberi dan pasta kacang merah.",
+    "history": "Daifuku adalah manisan Jepang berbungkus mochi lembut; stroberi merupakan variasi isian populer.",
+    "ingredients": [
+      "100 g tepung ketan",
+      "50 g gula",
+      "150 ml air",
+      "120 g pasta kacang merah manis (anko)",
+      "6 stroberi, cuci, keringkan, dan buang kelopaknya",
+      "40 g tepung maizena untuk membantu membentuk"
+    ],
+    "steps": [
+      "Bungkus setiap stroberi kering dengan 20 g anko dan sisihkan.",
+      "Campur tepung beras, gula, dan air dalam mangkuk tahan panas. Kukus 15-20 menit, aduk di pertengahan waktu, hingga mengilap dan agak bening.",
+      "Tuang hati-hati ke permukaan bertabur pati dan biarkan cukup dingin untuk dipegang; adonan sangat lengket.",
+      "Bagi enam, pipihkan, dan bungkuskan pada setiap stroberi. Rapatkan, sapu pati berlebih, dan dinginkan sebelum dimakan."
+    ],
+    "tips": [
+      "Adonan mochi panas lengket dan dapat menyebabkan luka bakar: biarkan cukup dingin sebelum dipegang."
+    ],
+    "sources": [
+      "Repostería wagashi"
+    ]
+  },
+  "r-guacamole": {
+    "dishName": "Guacamole",
+    "summary": "Alpukat lumat dengan bawang bombai, cabai, daun ketumbar, tomat, dan jeruk nipis.",
+    "history": "Olahan alpukat Meksiko dengan variasi daerah dan rumah tangga. Penggunaannya luas dan tidak dikaitkan dengan satu kota.",
+    "ingredients": [
+      "3 alpukat matang",
+      "1/4 bawang bombai, cincang",
+      "1 cabai serrano, cincang",
+      "2 sendok makan daun ketumbar cincang",
+      "1 tomat kecil, cincang",
+      "Air perasan 1 jeruk nipis dan garam secukupnya",
+      "100 g keripik tortilla untuk penyajian"
+    ],
+    "steps": [
+      "Belah alpukat, buang biji, dan keruk dagingnya.",
+      "Lumatkan dengan garpu, sisakan sedikit tekstur. Tambahkan bawang, cabai, daun ketumbar, dan tomat.",
+      "Tambahkan perasan jeruk nipis bertahap, sesuaikan garam, dan aduk tanpa diblender.",
+      "Segera sajikan dengan keripik tortilla. Jika perlu, tutup menempel langsung pada permukaannya dan simpan di kulkas."
+    ],
+    "tips": [
+      "Lumatkan dengan garpu agar masih ada potongan kecil alpukat."
+    ],
+    "sources": [
+      "Cocina mexicana tradicional"
+    ]
+  },
+  "r-somtam": {
+    "dishName": "Som tam",
+    "summary": "Salad pepaya muda renyah dengan jeruk nipis, kecap ikan, sayuran, dan kacang tanah.",
+    "history": "Salad pepaya muda dikaitkan dengan Laos dan Thailand timur laut serta memiliki banyak variasi daerah. Versi Thailand ini tidak menganggap Bangkok sebagai satu-satunya asalnya.",
+    "ingredients": [
+      "300 g pepaya muda, kupas dan serut",
+      "1 siung bawang putih dan 1 cabai segar",
+      "2 sendok makan air jeruk nipis",
+      "1 sendok makan kecap ikan",
+      "1 sendok teh gula",
+      "8 tomat ceri, belah dua",
+      "60 g buncis, blansir lalu dinginkan",
+      "25 g kacang tanah sangrai"
+    ],
+    "steps": [
+      "Tumbuk bawang putih dan cabai dalam cobek. Campur perasan jeruk nipis, kecap ikan, dan gula.",
+      "Tambahkan buncis dan tomat, lalu tekan lembut untuk mengeluarkan sedikit sari tanpa melumatkannya.",
+      "Tambahkan pepaya, selang-seling antara menumbuk ringan dan mengaduk dengan sendok hingga terlapisi.",
+      "Sesuaikan keseimbangan asin, asam, dan pedas. Tambahkan kacang tanah di atasnya dan segera sajikan."
+    ],
+    "tips": [
+      "Tumbuk pepaya perlahan agar menyerap saus sambil tetap renyah."
+    ],
+    "sources": [
+      "Cocina tailandesa isan"
+    ]
+  },
+  "r-jambalaya": {
+    "dishName": "Jambalaya",
+    "summary": "Nasi Louisiana dimasak dengan ayam, andouille, udang, sayuran, dan bumbu Cajun.",
+    "history": "Hidangan nasi Kreol yang dikaitkan dengan Louisiana, memadukan daging, boga bahari, dan sayuran aromatik.",
+    "ingredients": [
+      "300 g beras bulir panjang",
+      "400 g ayam tanpa tulang, potong dadu",
+      "200 g andouille, iris",
+      "250 g udang kupas",
+      "1 bawang bombai, 2 batang seledri, dan 1 paprika hijau, cincang",
+      "2 siung bawang putih, cincang",
+      "400 g tomat lumat",
+      "650 ml kaldu ayam panas",
+      "2 sendok makan minyak dan 1 sendok teh bumbu Cajun",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Cokelatkan ayam dan sosis dalam minyak di panci lebar. Tambahkan bawang bombai, seledri, paprika, dan bawang putih; tumis 8 menit.",
+      "Tambahkan tomat dan bumbu Cajun, masak 5 menit. Masukkan beras dan kaldu, aduk sekali, lalu didihkan.",
+      "Tutup dan masak dengan api kecil 18 menit. Letakkan udang di atas, tutup, dan masak lagi 5-7 menit hingga udang tidak bening dan ayam bersuhu 74 °C.",
+      "Matikan api dan istirahatkan tertutup 5 menit. Urai nasi perlahan dan sesuaikan garam."
+    ],
+    "tips": [
+      "Hindari terus mengaduk nasi saat dimasak agar tidak menjadi lembek."
+    ],
+    "sources": [
+      "Cocina criolla de Luisiana",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-cemita": {
+    "dishName": "Cemita Puebla",
+    "summary": "Roti wijen berisi sapi berbalut tepung roti, quesillo, alpukat, chipotle, dan pápalo.",
+    "history": "Jajanan pasar klasik yang dikaitkan dengan Puebla.",
+    "ingredients": [
+      "2 roti cemita wijen",
+      "2 potong daging sapi yang sudah dibalut tepung roti, masing-masing 150 g",
+      "100 g quesillo",
+      "1 alpukat",
+      "2 cabai chipotle dalam adobo",
+      "8 lembar daun pápalo, cuci",
+      "Minyak untuk menggoreng"
+    ],
+    "steps": [
+      "Panaskan selapis minyak di wajan dan goreng daging pada kedua sisi hingga keemasan dan suhunya 63 °C.",
+      "Tiriskan dan istirahatkan 3 menit. Belah roti dan olesi alpukat.",
+      "Isi dengan daging, quesillo, dan chipotle secukupnya.",
+      "Tambahkan pápalo, tutup, dan segera sajikan."
+    ],
+    "tips": [
+      "Mulai dengan sedikit pápalo karena aromanya kuat."
+    ],
+    "sources": [
+      "Cocina poblana",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-machaca-huevo": {
+    "dishName": "Machaca con huevo (sapi kering suwir dengan telur)",
+    "summary": "Daging sapi kering suwir dimasak dengan telur, tomat, bawang bombai, dan cabai, fondasi sarapan Sonora.",
+    "history": "Hidangan ini lahir dari kebutuhan mengawetkan daging di gurun: sapi diasinkan, dijemur, dan ditumbuk dalam molcajete. Produk kering itu, machaca, menjadi pilar sarapan ala peternakan di barat laut, khususnya Sonora, tempatnya disajikan dengan tortilla terigu yang baru dibuat.",
+    "ingredients": [
+      "150 g machaca (sapi kering suwir)",
+      "6 telur",
+      "2 tomat, cincang",
+      "1/2 bawang bombai, cincang",
+      "2 cabai hijau (serrano atau Anaheim), cincang",
+      "Minyak atau lemak babi untuk menggoreng",
+      "Tortilla terigu untuk penyajian"
+    ],
+    "steps": [
+      "Jika machaca sangat kering, rendam beberapa menit dalam air hangat dan tiriskan.",
+      "Tumis bawang dan cabai hingga layu; masukkan tomat dan masak hingga mengeluarkan sari.",
+      "Masukkan machaca dan tumis agar menyerap rasa.",
+      "Tuangkan telur kocok dan aduk hingga matang tetapi tidak kering.",
+      "Sajikan panas dengan tortilla terigu dan salsa secukupnya."
+    ],
+    "tips": [
+      "Cicipi machaca sebelum menambahkan garam: daging kering dapat membumbui seluruh campuran."
+    ],
+    "sources": [
+      "Cocina tradicional sonorense",
+      "Recetario del noroeste de México"
+    ]
+  },
+  "r-mxn-caldo-queso": {
+    "dishName": "Caldo de queso sonorense (sup keju Sonora)",
+    "summary": "Kuah kentang dan cabai hijau ringan dengan susu serta dadu keju segar daerah yang meleleh saat disajikan.",
+    "history": "Hidangan sederhana yang menghangatkan dari pegunungan dan lembah Sonora, dimasak dengan bahan seadanya: kentang, cabai hijau panggang, dan keju segar peternakan. Ini makanan sehari-hari yang memanfaatkan keju daerah dan disajikan dengan tortilla terigu.",
+    "ingredients": [
+      "3 kentang sedang, potong dadu",
+      "2 cabai hijau Anaheim, panggang, kupas, dan iris memanjang",
+      "2 tomat, cincang",
+      "1/2 bawang bombai, cincang",
+      "1 liter kaldu sayur atau air",
+      "1 cangkir susu",
+      "250 g keju segar daerah, potong dadu",
+      "1 sendok makan minyak dan garam secukupnya"
+    ],
+    "steps": [
+      "Tumis bawang dan tomat hingga menjadi dasar kuah.",
+      "Tambahkan irisan cabai dan kentang; aduk sekitar dua menit.",
+      "Tuangkan kaldu dan masak hingga kentang empuk.",
+      "Kecilkan api, tambahkan susu, dan panaskan merata tanpa mendidih.",
+      "Bagi dadu keju ke mangkuk dan sendokkan sup di atasnya agar keju meleleh."
+    ],
+    "tips": [
+      "Taruh keju di mangkuk saji dan tuangkan kuah panas agar masih ada potongan lembut."
+    ],
+    "sources": [
+      "Cocina tradicional sonorense",
+      "Tradición serrana de Sonora"
+    ]
+  },
+  "r-mxn-coyotas": {
+    "dishName": "Coyota Villa de Seris (pastri isi piloncillo)",
+    "summary": "Pastri terigu pipih berisi piloncillo dan dipanggang keemasan, hidangan klasik Hermosillo.",
+    "history": "Kue yang menyerupai biskuit dan empanada ini berasal dari Villa de Seris, kini bagian dari Hermosillo, tempat keluarga pembuat roti memopulerkannya. Namanya terkait percampuran budaya daerah, dan isian piloncillo klasik mencerminkan tradisi memanggang tepung terigu Meksiko utara.",
+    "ingredients": [
+      "3 cangkir tepung terigu",
+      "150 g lemak babi",
+      "1/2 cangkir air hangat",
+      "1 sendok teh garam",
+      "250 g piloncillo (gula tebu mentah), parut atau potong",
+      "1 sejumput kayu manis bubuk (opsional)"
+    ],
+    "steps": [
+      "Campur tepung dengan garam dan lemak babi hingga bertekstur seperti pasir.",
+      "Tambahkan air sedikit demi sedikit dan uleni menjadi adonan lembut; istirahatkan.",
+      "Bentuk cakram tipis; taruh piloncillo pada separuh cakram dan tutup masing-masing dengan cakram lain, rapatkan pinggirnya.",
+      "Tusuk permukaannya dengan garpu agar uap keluar.",
+      "Panggang pada 180 °C sekitar 20 menit hingga keemasan."
+    ],
+    "tips": [
+      "Istirahatkan adonan 20 menit sebelum digilas dan rapatkan baik agar piloncillo tetap di dalam."
+    ],
+    "sources": [
+      "Repostería tradicional de Villa de Seris, Hermosillo",
+      "Panaderías sonorenses",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-chilorio": {
+    "dishName": "Chilorio",
+    "summary": "Babi suwir digoreng dalam saus cabai kering, bawang putih, dan rempah, khas Sinaloa.",
+    "history": "Chilorio bermula sebagai cara pengawetan di Sinaloa: babi matang disuwir dan dimasak perlahan dalam adobo dengan banyak lemak babi, sehingga dapat disimpan berminggu-minggu. Kini hidangan khas ini dimakan dalam taco dan burrito dari tortilla terigu.",
+    "ingredients": [
+      "1 kg daging babi rendah lemak, potong-potong",
+      "6 cabai ancho atau colorado, buang bijinya",
+      "4 siung bawang putih",
+      "1 sendok teh jintan",
+      "1 sendok teh oregano",
+      "2 sendok makan cuka",
+      "Lemak babi dan garam"
+    ],
+    "steps": [
+      "Rebus babi dalam air bergaram hingga empuk; suwir dan sisihkan kaldunya.",
+      "Rendam cabai dalam air panas dan blender dengan bawang putih, jintan, oregano, dan cuka.",
+      "Goreng babi suwir dalam lemak babi hingga mulai kecokelatan.",
+      "Saring adobo di atas daging dan masak dengan api sedang sambil diaduk hingga mengering dan menyatu.",
+      "Sesuaikan garam dan sajikan dalam taco atau burrito."
+    ],
+    "tips": [
+      "Sisihkan kaldu rebusan dan tambahkan beberapa sendok jika bumbu mengering sebelum menyatu."
+    ],
+    "sources": [
+      "Cocina sinaloense tradicional",
+      "Recetario del noroeste de México"
+    ]
+  },
+  "r-mxn-aguachile": {
+    "dishName": "Aguachile hijau dengan udang matang",
+    "summary": "Adaptasi aguachile Sinaloa dengan udang matang, jeruk nipis, serrano, mentimun, dan bawang bombai merah.",
+    "history": "Berasal dari pesisir Sinaloa, aguachile merupakan olahan udang segar yang 'dimasak' dengan jeruk nipis dan cabai. Berbeda dengan ceviche, hidangan ini segera disajikan agar boga bahari tetap berair; versi hijau dengan serrano dan daun ketumbar paling luas dijumpai.",
+    "ingredients": [
+      "500 g udang segar, kupas dan belah kupu-kupu",
+      "1 cangkir air jeruk nipis",
+      "3 cabai serrano",
+      "1 ikat daun ketumbar",
+      "1 mentimun, iris setengah lingkaran",
+      "1/2 bawang bombai merah, iris tipis",
+      "Garam dan lada"
+    ],
+    "steps": [
+      "Untuk versi udang matang, rebus udang hingga padat dan tidak bening; segera dinginkan dalam air es dan tiriskan.",
+      "Blender air jeruk nipis, serrano, daun ketumbar, garam, dan lada menjadi saus hijau.",
+      "Campur udang dingin dengan saus, lalu tambahkan mentimun dan bawang bombai merah.",
+      "Segera sajikan dengan tostada dan simpan sisa di kulkas. Jeruk nipis menambah keasaman tetapi tidak menggantikan pemasakan boga bahari."
+    ],
+    "tips": [
+      "Tambahkan jeruk nipis sesaat sebelum disajikan untuk menjaga tekstur mentimun dan bawang."
+    ],
+    "sources": [
+      "Cocina costera de Sinaloa",
+      "Tradición marisquera del Pacífico mexicano"
+    ]
+  },
+  "r-mxn-cabrito-pastor": {
+    "dishName": "Cabrito al pastor (anak kambing panggang tusuk)",
+    "summary": "Anak kambing yang masih menyusu ditusuk pada batang dan dipanggang perlahan di atas arang, ikon Monterrey.",
+    "history": "Kambing tiba di timur laut melalui peternakan kambing yang diperkenalkan pemukim Sefardi dan Spanyol. Di Nuevo León, kambing menjadi hidangan perayaan: anak kambing yang masih menyusu dibelah terbuka, ditusuk pada batang, dan dipanggang tegak di depan bara hingga kulitnya keemasan dan renyah.",
+    "ingredients": [
+      "1 anak kambing yang masih menyusu, bersihkan dan bentangkan terbuka",
+      "Garam kasar",
+      "Arang dan batang pemanggang",
+      "Tortilla terigu untuk penyajian",
+      "Salsa cabai dan guacamole secukupnya"
+    ],
+    "steps": [
+      "Garami kambing bagian dalam dan luar, lalu tusuk pada batang.",
+      "Pasang batang di samping api arang, kulit menghadap keluar.",
+      "Panggang perlahan sambil diputar agar matang merata, sekitar dua setengah jam.",
+      "Menjelang akhir, dekatkan kulit ke bara agar kecokelatan dan renyah.",
+      "Potong-potong dan sajikan dengan tortilla terigu, salsa, dan guacamole."
+    ],
+    "tips": [
+      "Gunakan panas tidak langsung dan termometer: bagian tebal harus mencapai minimal 63 °C dan diistirahatkan 3 menit."
+    ],
+    "sources": [
+      "Cocina regiomontana",
+      "Tradición ganadera de Nuevo León",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-frijoles-charros": {
+    "dishName": "Frijoles charros (kacang koboi)",
+    "summary": "Kacang berkuah dengan bacon, chorizo, hot dog, dan cabai, pendamping klasik daging panggang utara.",
+    "history": "Terkait budaya koboi utara, frijoles charros dimasak di atas api terbuka untuk memberi makan pekerja peternakan. Di Nuevo León, hidangan ini menemani carne asada akhir pekan; kuahnya berisi daging awetan, tomat, bawang, dan cabai, serta disajikan dalam cangkir tanah liat kecil.",
+    "ingredients": [
+      "500 g kacang bayo atau pinto",
+      "150 g bacon, cincang",
+      "150 g chorizo",
+      "2 sosis hot dog, iris",
+      "2 tomat, cincang",
+      "1/2 bawang bombai dan 2 cabai serrano, cincang",
+      "Daun ketumbar dan garam"
+    ],
+    "steps": [
+      "Rebus kacang dengan bawang dan garam hingga empuk.",
+      "Secara terpisah, goreng bacon dan chorizo; tambahkan irisan hot dog dan cokelatkan.",
+      "Tambahkan tomat, bawang, dan cabai, lalu tumis menjadi bumbu dasar.",
+      "Tuang tumisan ini ke panci kacang beserta kuahnya dan didihkan beberapa menit.",
+      "Taburi daun ketumbar, sesuaikan garam, dan sajikan panas."
+    ],
+    "tips": [
+      "Waktu memasak kacang kering tergantung umurnya; tambahkan air panas jika permukaan air turun sebelum kacang empuk."
+    ],
+    "sources": [
+      "Cocina norteña de Nuevo León",
+      "Tradición vaquera del noreste"
+    ]
+  },
+  "r-mxn-discada": {
+    "dishName": "Discada norteña (panggang campur di cakram bajak ala utara)",
+    "summary": "Campuran daging dan sosis awetan dimasak di luar ruang pada cakram bajak, pesta santap bersama khas utara.",
+    "history": "Discada memanfaatkan cakram bajak lama sebagai pelat panggang cekung di atas api. Ini hidangan pertemuan di utara, dengan bacon, chorizo, sapi, babi, dan sayuran dimasukkan berlapis. Chihuahua dan negara bagian tetangganya sama-sama menyajikannya sebagai hidangan pesta luar ruang.",
+    "ingredients": [
+      "300 g bacon, cincang",
+      "300 g chorizo",
+      "400 g steik sapi, potong dadu",
+      "400 g babi rendah lemak, potong dadu",
+      "2 tomat, 1 bawang bombai, dan 2 cabai, cincang",
+      "1 cangkir bir",
+      "Tortilla terigu untuk penyajian"
+    ],
+    "steps": [
+      "Di cakram panas, goreng bacon hingga mengeluarkan lemak.",
+      "Tambahkan chorizo lalu babi; masak hingga kecokelatan.",
+      "Masukkan sapi dan cokelatkan permukaannya.",
+      "Tambahkan tomat, bawang, dan cabai; tuangkan bir dan biarkan menyusut.",
+      "Bumbui dan sajikan sebagai taco tortilla terigu."
+    ],
+    "tips": [
+      "Cokelatkan daging bertahap: terlalu penuh menurunkan panas pelat dan membuat daging mendidih dalam sarinya."
+    ],
+    "sources": [
+      "Tradición norteña de reunión",
+      "Cocina de Chihuahua"
+    ]
+  },
+  "r-mxn-asado-puerco": {
+    "dishName": "Asado de puerco chihuahuense (babi cabai merah ala Chihuahua)",
+    "summary": "Babi direbus dalam saus cabai merah berempah, disajikan di pesta dan santapan keluarga.",
+    "history": "Juga disebut asado rojo, ini rebusan perayaan dari Chihuahua dengan babi dimasak dalam adobo cabai kering daerah. Dibuat untuk pernikahan, pembaptisan, dan pertemuan, serta disajikan dengan nasi dan tortilla terigu.",
+    "ingredients": [
+      "1 kg babi rendah lemak, potong-potong",
+      "8 cabai colorado (California atau guajillo), buang bijinya",
+      "3 siung bawang putih",
+      "1 sejumput masing-masing jintan dan oregano",
+      "2 lembar daun bay",
+      "Tepung untuk mengentalkan (opsional)",
+      "Lemak babi dan garam"
+    ],
+    "steps": [
+      "Cokelatkan babi dalam lemak babi dan sisihkan.",
+      "Rendam cabai dan blender dengan bawang putih, jintan, dan oregano; saring saus.",
+      "Goreng saus di panci yang sama hingga berubah warna.",
+      "Masukkan kembali daging, tambahkan daun bay dan sedikit air, lalu masak dengan api kecil hingga empuk.",
+      "Jika ingin lebih kental, larutkan satu sendok makan tepung dalam air dan adukkan; sesuaikan garam."
+    ],
+    "tips": [
+      "Campur 1 sendok makan tepung dengan 2 sendok makan air dingin sebelum ditambahkan agar tidak menggumpal."
+    ],
+    "sources": [
+      "Cocina tradicional de Chihuahua",
+      "Recetario festivo del norte"
+    ]
+  },
+  "r-mxn-caldillo-durango": {
+    "dishName": "Caldillo duranguense (rebusan sapi Durango)",
+    "summary": "Rebusan sapi berkuah dengan cabai hijau dan tomat, hidangan khas Durango.",
+    "history": "Caldillo adalah hidangan yang paling mewakili Durango, warisan kehidupan peternakan di daerah semigurun. Versi klasik dibuat dengan sapi kering atau segar, cabai hijau panggang, dan tomat, membentuk kuah ringan yang dimakan dengan tortilla terigu.",
+    "ingredients": [
+      "500 g sapi, potong dadu kecil",
+      "3 cabai hijau, panggang, kupas, dan iris memanjang",
+      "3 tomat, cincang",
+      "1/2 bawang bombai, cincang",
+      "2 siung bawang putih",
+      "Kaldu sapi atau air",
+      "Minyak dan garam"
+    ],
+    "steps": [
+      "Cokelatkan permukaan sapi dalam minyak panas bersama bawang bombai dan bawang putih.",
+      "Tambahkan tomat dan masak hingga hancur.",
+      "Masukkan irisan cabai hijau.",
+      "Tuangkan kaldu dan didihkan perlahan dengan api kecil hingga daging empuk dan rebusan kaya rasa.",
+      "Sesuaikan garam dan sajikan dengan tortilla terigu."
+    ],
+    "tips": [
+      "Mulai dengan 1 liter kaldu dan tambah untuk kuah lebih banyak; potongan sapi menentukan waktu masak akhirnya."
+    ],
+    "sources": [
+      "Cocina tradicional de Durango",
+      "Gastronomía del semidesierto duranguense"
+    ]
+  },
+  "r-mxn-asado-boda": {
+    "dishName": "Asado de boda zacatecano (rebusan pernikahan Zacatecas)",
+    "summary": "Babi dalam saus cabai kering asam manis dengan cokelat dan rempah, rebusan upacara Zacatecas.",
+    "history": "Asado de boda adalah hidangan pesta utama Zacatecas, secara tradisional disajikan di pernikahan dan pertunangan sebagai persembahan keluarga pengantin pria. Saus kentalnya memadukan cabai colorado dan guajillo dengan cokelat, kulit jeruk, dan rempah, hasil perpaduan rasa manis dan berasap daerah utara-tengah.",
+    "ingredients": [
+      "1 kg babi rendah lemak, potong-potong",
+      "6 cabai colorado dan 4 guajillo, buang bijinya",
+      "30 g cokelat meja Meksiko",
+      "1 potong kulit jeruk",
+      "3 siung bawang putih, daun bay, cengkih, dan lada",
+      "1 roti bolillo atau tortilla goreng untuk mengentalkan",
+      "Lemak babi dan garam"
+    ],
+    "steps": [
+      "Cokelatkan babi dalam lemak babi dan sisihkan.",
+      "Rendam cabai dan blender dengan bawang putih, rempah, kulit jeruk, dan roti goreng.",
+      "Saring adobo dan goreng dalam panci hingga kental.",
+      "Tambahkan cokelat dan biarkan meleleh dalam saus.",
+      "Masukkan kembali daging, tambahkan air hingga terendam, dan didihkan perlahan dengan api kecil hingga empuk dan saus kental."
+    ],
+    "tips": [
+      "Gunakan irisan tipis kulit jeruk tanpa bagian putih agar tidak terlalu pahit."
+    ],
+    "sources": [
+      "Imagen Zacatecas: tradición del asado de bodas",
+      "Cocina tradicional zacatecana"
+    ]
+  },
+  "r-mxn-carne-asada": {
+    "dishName": "Taco carne asada utara (taco sapi panggang)",
+    "summary": "Steik skirt atau flank dipanggang di atas bara, dicincang, dan disajikan dalam tortilla dengan guacamole, daun bawang, dan salsa.",
+    "history": "Di utara, carne asada lebih dari sekadar hidangan; ini ritual kebersamaan keluarga pada akhir pekan. Di Coahuila dan seluruh wilayah, potongan sapi dipanggang di atas arang atau mesquite dan dimakan dalam taco dengan daun bawang panggang, guacamole, dan salsa segar.",
+    "ingredients": [
+      "1 kg steik skirt atau flank",
+      "Air perasan 2 jeruk nipis",
+      "Garam dan lada",
+      "Daun bawang",
+      "Guacamole",
+      "Tortilla terigu atau jagung",
+      "Salsa panggang secukupnya"
+    ],
+    "steps": [
+      "Bumbui daging dengan garam, lada, dan perasan jeruk nipis.",
+      "Panaskan arang atau bara mesquite hingga berpijar merah.",
+      "Panggang daging hingga kematangan yang disukai, balik hanya sekali.",
+      "Panggang daun bawang di samping daging.",
+      "Cincang daging dan sajikan dalam taco dengan guacamole, daun bawang, dan salsa."
+    ],
+    "tips": [
+      "Periksa suhu 63 °C pada bagian tertebal dan istirahatkan 3 menit sebelum diiris melawan serat."
+    ],
+    "sources": [
+      "Tradición de la carne asada norteña",
+      "Cocina de Coahuila",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-tacos-pescado": {
+    "dishName": "Taco ikan ala Baja",
+    "summary": "Ikan berbalut adonan yang digoreng dalam tortilla jagung dengan kol, crema, salsa, dan jeruk nipis, ciri khas Ensenada.",
+    "history": "Taco ikan berbalut adonan menjadi ikon pesisir Baja California, terutama Ensenada. Hidangan ini memadukan ikan putih berbalut adonan dan digoreng dengan pelengkap segar seperti kol serut, crema, dan salsa bercita rasa jeruk, cerminan melimpahnya perikanan Pasifik dan kreativitas lapak jalanan.",
+    "ingredients": [
+      "600 g filet ikan putih, potong memanjang",
+      "1 cangkir tepung",
+      "1 cangkir bir dingin",
+      "Kol serut",
+      "Crema, mayones, dan jeruk nipis",
+      "Tortilla jagung",
+      "Minyak untuk menggoreng dan salsa secukupnya"
+    ],
+    "steps": [
+      "Buat adonan dengan mengocok tepung bersama bir dan garam hingga menyerupai adonan panekuk encer.",
+      "Celupkan potongan ikan ke adonan.",
+      "Goreng dalam minyak panas hingga keemasan; tiriskan.",
+      "Hangatkan tortilla dan letakkan ikan di atasnya.",
+      "Tambahkan kol, crema, salsa, dan beberapa tetes jeruk nipis."
+    ],
+    "tips": [
+      "Jaga bir tetap dingin dan goreng bertahap pada 175-180 °C; pastikan ikan mencapai 63 °C."
+    ],
+    "sources": [
+      "Cocina costera de Ensenada",
+      "Tradición marisquera de Baja California",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxn-almejas-tatemadas": {
+    "dishName": "Almejas tatemadas (kerang panggang api)",
+    "summary": "Kerang chocolata dipanggang di atas bara dan ranting aromatik, hidangan khas Loreto.",
+    "history": "Almejas tatemadas adalah hidangan leluhur Loreto, Baja California Sur, tempat konsumsi kerang sudah ada sejak masa pra-Hispanik, seperti dibuktikan timbunan cangkang di daerah itu. Kerang chocolata ditata pada kerikil dan ditutup ranting chamizo atau romerillo yang saat terbakar memberi rasa asap khas.",
+    "ingredients": [
+      "12 kerang chocolata segar",
+      "Ranting chamizo atau romerillo (atau kayu bakar aromatik)",
+      "Jeruk nipis",
+      "Saus pedas secukupnya",
+      "Garam"
+    ],
+    "steps": [
+      "Bersihkan kerang baik-baik dan letakkan engselnya menghadap ke bawah di atas kerikil atau pemanggang.",
+      "Tutup dengan ranting chamizo atau romerillo.",
+      "Nyalakan ranting dan biarkan panas serta asap memasak kerang sekitar 40 menit.",
+      "Angkat setelah cangkang terbuka dan bagian dalam matang.",
+      "Sajikan dengan jeruk nipis, garam, dan saus pedas."
+    ],
+    "tips": [
+      "Gunakan kerang hidup dari pemasok bahan pangan dan buang yang pecah atau tetap tertutup setelah dimasak."
+    ],
+    "sources": [
+      "Tradición gastronómica de Loreto, BCS",
+      "El Sudcaliforniano: almejas tatemadas"
+    ]
+  },
+  "r-mxn-carne-tampiquena": {
+    "dishName": "Carne asada a la tampiqueña (sapi panggang ala Tampico)",
+    "summary": "Irisan panjang filet sapi panggang disajikan dengan enchilada, irisan cabai, kacang, dan guacamole, kreasi Tampico.",
+    "history": "Hidangan ini dirancang pada abad ke-20 oleh pemilik restoran Tampico José Inés Loredo, yang menggabungkan dalam satu piring filet sapi dipotong memanjang dan dipanggang dengan pendamping khas: enchilada, irisan cabai, kacang, dan guacamole. Hidangan ini menyebar ke seluruh negeri sebagai sajian restoran.",
+    "ingredients": [
+      "2 filet sapi, potong memanjang",
+      "2 enchilada saus merah",
+      "Irisan cabai poblano dengan bawang bombai",
+      "Kacang matang yang dilumatkan lalu digoreng",
+      "Guacamole",
+      "Keju dan garam"
+    ],
+    "steps": [
+      "Bumbui irisan filet dengan garam dan lada.",
+      "Panggang hingga tingkat kematangan yang diinginkan.",
+      "Siapkan enchilada dan tumis irisan cabai bersama bawang.",
+      "Hangatkan kacang lumat goreng dan buat guacamole.",
+      "Sajikan daging bersama enchilada, irisan cabai, kacang, dan guacamole dalam satu piring."
+    ],
+    "tips": [
+      "Resep ini dimulai dengan enchilada, kacang, dan guacamole siap pakai; hangatkan sebelum memanggang daging."
+    ],
+    "sources": [
+      "Historia de la cocina tampiqueña",
+      "Tradición gastronómica de Tamaulipas"
+    ]
+  },
+  "r-mxc-pollo-san-marcos": {
+    "dishName": "Pollo de San Marcos (ayam ala San Marcos)",
+    "summary": "Ayam kecokelatan disiram saus cabai kering dengan sentuhan manis buah dan anggur.",
+    "history": "Hidangan perayaan yang terkait Pekan Raya Nasional San Marcos di Aguascalientes; memadukan cabai, rempah, dan buah dalam saus meriah yang menghangatkan.",
+    "ingredients": [
+      "1 ayam utuh, potong-potong",
+      "3 cabai ancho dan 2 mulato, buang bijinya",
+      "2 tomat matang",
+      "1 bawang bombai dan 2 siung bawang putih",
+      "Kayu manis, cengkih, dan allspice",
+      "1/2 cangkir anggur merah",
+      "Buah cincang: persik atau apel",
+      "Lemak babi atau minyak untuk mencokelatkan"
+    ],
+    "steps": [
+      "Rebus potongan ayam dengan bawang bombai, bawang putih, dan garam hingga empuk; sisihkan kaldu.",
+      "Rendam cabai dalam air panas hingga lunak dan blender dengan tomat, bawang putih, bawang bombai, dan rempah.",
+      "Goreng saus yang disaring dalam lemak babi hingga kental dan bumbui dengan sedikit kaldu.",
+      "Tambahkan anggur dan buah cincang; didihkan.",
+      "Masukkan kembali ayam ke saus dan masak dengan api kecil 20 menit agar menyerap rasa.",
+      "Sajikan dengan nasi merah berbumbu tomat, kacang rebus, dan tortilla yang baru dibuat."
+    ],
+    "tips": [
+      "Jaga saus mendidih perlahan agar buah tetap utuh dan periksa suhu ayam 74 °C."
+    ],
+    "sources": [
+      "Los Sabores de México",
+      "MexConnect, cocina de Aguascalientes",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-enchiladas-mineras": {
+    "dishName": "Enchiladas mineras (enchilada penambang)",
+    "summary": "Tortilla dicelup saus guajillo, diisi keju, lalu diberi kentang dan wortel kecokelatan.",
+    "history": "Jajanan kaum pekerja dari tambang Kota Guanajuato; disajikan panas dan mengenyangkan bagi pekerja, kini menjadi ikon kota.",
+    "ingredients": [
+      "12 tortilla jagung",
+      "6 cabai guajillo, buang bijinya",
+      "2 siung bawang putih dan sepotong bawang bombai",
+      "200 g keju ranchero, remukkan",
+      "2 kentang dan 2 wortel, potong dadu",
+      "Selada, bawang bombai, dan keju untuk penyajian",
+      "Lemak babi atau minyak"
+    ],
+    "steps": [
+      "Rendam guajillo hingga lunak dan blender dengan bawang putih, bawang bombai, dan garam; saring saus.",
+      "Rebus dadu kentang dan wortel, lalu tumis hingga kecokelatan.",
+      "Celupkan tiap tortilla ke saus dan goreng sebentar dalam lemak babi.",
+      "Isi dengan keju, lipat, dan susun di piring.",
+      "Lapisi dengan tambahan saus dan taruh kentang serta wortel di atasnya.",
+      "Sajikan dengan selada, bawang, dan keju di atasnya."
+    ],
+    "tips": [
+      "Masak kentang dan wortel hingga empuk tetapi masih padat sebelum dicokelatkan."
+    ],
+    "sources": [
+      "Cocina tradicional de Guanajuato",
+      "México Desconocido"
+    ]
+  },
+  "r-mxc-guacamayas": {
+    "dishName": "Guacamayas (roti kulit babi León)",
+    "summary": "Roti bolillo berkulit renyah diisi chicharrón babi, pico de gallo, dan salsa chile de árbol sangat pedas.",
+    "history": "Jajanan jalanan yang lahir di kawasan San Juan de Dios di León sekitar 1950-an; kini terdapat kedai guacamaya dengan tradisi puluhan tahun.",
+    "ingredients": [
+      "4 roti bolillo berkulit renyah",
+      "300 g chicharrón babi",
+      "Cabai de árbol kering, sangrai",
+      "2 tomat panggang dan 1 siung bawang putih",
+      "Pico de gallo: tomat, bawang bombai, dan daun ketumbar",
+      "Air jeruk nipis dan garam"
+    ],
+    "steps": [
+      "Haluskan cabai de árbol sangrai dengan tomat panggang, bawang putih, dan garam menjadi salsa pedas.",
+      "Belah roti pada satu sisi dan keluarkan sebagian isi rotinya.",
+      "Isi dengan chicharrón yang dipecah-pecah.",
+      "Tambahkan pico de gallo dan siram salsa chile de árbol.",
+      "Sesuaikan dengan perasan jeruk nipis dan garam, lalu segera sajikan."
+    ],
+    "tips": [
+      "Isi roti tepat sebelum disajikan agar kerupuk kulit babi masih bertekstur."
+    ],
+    "sources": [
+      "Aderezo OEM, comida callejera de León",
+      "El Souvenir"
+    ]
+  },
+  "r-mxc-gorditas-queretanas": {
+    "dishName": "Gorditas de maíz quebrado (gordita jagung pecah)",
+    "summary": "Gordita tebal dari jagung giling kasar, diisi rebusan dan disiram salsa merah.",
+    "history": "Warisan semigurun Querétaro, khususnya Tolimán dan Bernal; pada 2012 dinyatakan sebagai Warisan Budaya Takbenda negara bagian.",
+    "ingredients": [
+      "500 g masa jagung pecah (giling kasar)",
+      "Garam secukupnya",
+      "Isian: keju, chicharrón padat, atau rebusan",
+      "Cabai serrano dan tomat untuk salsa",
+      "Selada cincang",
+      "Lemak babi untuk pelat panggang"
+    ],
+    "steps": [
+      "Uleni jagung pecah dengan garam menjadi adonan padat bertekstur.",
+      "Bentuk gordita tebal dan panggang pada pelat hingga kedua sisi kecokelatan.",
+      "Belah satu sisi dan isi dengan rebusan pilihan.",
+      "Buat salsa tomat dan serrano yang ditumbuk kasar.",
+      "Siram gordita dengan salsa dan akhiri dengan selada cincang."
+    ],
+    "tips": [
+      "Buat ketebalan gordita merata dan masak dengan api sedang agar tengahnya tidak mentah."
+    ],
+    "sources": [
+      "México Travel Channel",
+      "Diario de Querétaro OEM"
+    ]
+  },
+  "r-mxc-enchiladas-potosinas": {
+    "dishName": "Enchiladas potosinas (enchilada San Luis Potosí)",
+    "summary": "Tortilla dari masa yang diuleni dengan cabai ancho, berisi keju dan bawang, lalu dicokelatkan di pelat panggang.",
+    "history": "Jajanan klasik San Luis Potosí dengan cabai dimasukkan ke masa, bukan saus terpisah; dijual di lapak makan malam dan pekan raya.",
+    "ingredients": [
+      "400 g masa jagung",
+      "4 cabai ancho, buang bijinya",
+      "200 g keju segar, remukkan",
+      "1/2 bawang bombai, cincang halus",
+      "Lemak babi untuk menggoreng",
+      "Crema, alpukat, dan keju untuk penyajian",
+      "1 siung bawang putih"
+    ],
+    "steps": [
+      "Rendam ancho hingga lunak dan blender dengan bawang putih serta garam.",
+      "Uleni cabai ke masa hingga merah merata.",
+      "Bentuk tortilla kecil dan masak sebentar di pelat panggang.",
+      "Isi dengan keju dan bawang, lipat setengah lingkaran, dan tekan tepinya.",
+      "Goreng dalam lemak babi hingga bagian luar renyah.",
+      "Sajikan dengan crema, alpukat, dan tambahan keju."
+    ],
+    "tips": [
+      "Tiriskan cabai sebelum diblender dan masukkan purenya bertahap agar adonan tidak terlalu basah."
+    ],
+    "sources": [
+      "Cocina potosina tradicional",
+      "México en mi Cocina"
+    ]
+  },
+  "r-mxc-zacahuil": {
+    "dishName": "Zacahuil (tamal raksasa Huastec)",
+    "summary": "Tamal raksasa dari masa kasar dan babi beradobo, dibungkus daun pisang lalu dipanggang dalam oven kayu.",
+    "history": "Dari bahasa Nahuatl zacahuilli, 'tamal besar'; hidangan upacara daerah Huasteca Potosina yang dibuat untuk dibagi pada pernikahan, pembaptisan, dan festival desa.",
+    "ingredients": [
+      "2 kg masa jagung giling kasar",
+      "1.5 kg babi, potong-potong",
+      "Cabai chino, guajillo, dan ancho",
+      "Bawang putih, jintan, dan oregano",
+      "Lemak babi",
+      "Daun pisang yang dilayukan di atas api"
+    ],
+    "steps": [
+      "Blender cabai yang sudah direndam dengan bawang putih dan rempah untuk membuat adobo.",
+      "Campur masa kasar dengan lemak babi dan sebagian adobo hingga rata.",
+      "Rendam babi mentah dalam sisa adobo.",
+      "Ratakan masa di daun pisang dan taruh daging di atasnya.",
+      "Bungkus rapat menjadi bungkusan besar dan ikat.",
+      "Panggang dengan panas rendah beberapa jam hingga daging dan masa matang seluruhnya."
+    ],
+    "tips": [
+      "Panggang bungkusan tertutup sekitar 160 °C selama sekitar 5 jam; periksa suhu tengah isian 74 °C dan masa sudah padat."
+    ],
+    "sources": [
+      "Pulso SLP",
+      "gob.mx, Secretaría de Agricultura",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-tortas-ahogadas": {
+    "dishName": "Tortas ahogadas (roti lapis terendam)",
+    "summary": "Roti birote gurih berisi carnitas yang direndam dalam saus tomat dengan chile de árbol sangat pedas.",
+    "history": "Ikon jajanan Guadalajara; birote berkulit renyah tahan terhadap saus tanpa hancur dan disajikan dengan bawang yang diasamkan dalam jeruk nipis.",
+    "ingredients": [
+      "4 roti birote gurih",
+      "500 g carnitas babi",
+      "6 tomat",
+      "Cabai de árbol kering",
+      "Bawang putih, jintan, dan oregano",
+      "Bawang bombai iris dan air jeruk nipis",
+      "2 sendok makan cuka dan garam secukupnya"
+    ],
+    "steps": [
+      "Blender tomat matang dengan bawang putih dan rempah, lalu saring untuk saus dasar.",
+      "Haluskan cabai de árbol sangrai dengan cuka dan garam untuk salsa pedas.",
+      "Asamkan bawang dalam air jeruk nipis bersama garam dan oregano.",
+      "Belah birote dan isi dengan carnitas.",
+      "Siram torta dengan saus tomat dan tambahkan salsa chile de árbol secukupnya.",
+      "Taruh bawang yang diasamkan di atasnya dan segera sajikan."
+    ],
+    "tips": [
+      "Sajikan saus cabai pedas terpisah agar setiap orang bisa mengatur kepedasan tanpa mengubah saus tomat."
+    ],
+    "sources": [
+      "Cocina tapatía",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-carne-en-su-jugo": {
+    "dishName": "Carne en su jugo (sapi dalam sarinya)",
+    "summary": "Steik cincang halus dimasak dalam kuahnya sendiri dengan kacang bayo, bacon, dan salsa hijau.",
+    "history": "Hidangan khas Guadalajara disajikan dalam mangkuk tanah liat; memadukan daging dalam kuah tomatillo ringan dengan kacang dan pelengkap segar.",
+    "ingredients": [
+      "600 g steik sapi, cincang",
+      "150 g bacon, cincang",
+      "8 tomatillo",
+      "Cabai serrano dan bawang putih",
+      "2 cangkir kacang bayo matang",
+      "Bawang bombai, daun ketumbar, dan jeruk nipis untuk penyajian"
+    ],
+    "steps": [
+      "Cokelatkan bacon dalam panci hingga mengeluarkan lemak.",
+      "Tambahkan daging cincang dan cokelatkan sambil terus diaduk.",
+      "Blender tomatillo dengan serrano dan bawang putih, lalu tuangkan ke daging.",
+      "Masak dengan api sedang hingga daging empuk dalam sarinya.",
+      "Sajikan dengan kacang bayo panas.",
+      "Akhiri dengan bawang bombai, daun ketumbar, dan jeruk nipis secukupnya."
+    ],
+    "tips": [
+      "Tambahkan 250 ml air jika saus tidak menyediakan cukup cairan untuk memasak sapi perlahan."
+    ],
+    "sources": [
+      "Cocina de Guadalajara",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-pescado-zarandeado": {
+    "dishName": "Pescado zarandeado (ikan panggang Nayarit)",
+    "summary": "Ikan dibelah kupu-kupu, dilumuri adobo, dan dipanggang di atas bara pada rak ranting.",
+    "history": "Olahan pesisir Nayarit yang terkait Pulau Mexcaltitán; ikan direndam bumbu lalu dipanggang perlahan di atas arang untuk rasa berasap.",
+    "ingredients": [
+      "1 kakap merah atau snook, belah kupu-kupu",
+      "Cabai guajillo dan bawang putih",
+      "Kecap asin dan jus jeruk",
+      "Mustard dan mayones (opsional)",
+      "Bawang bombai, tomat, dan jeruk nipis",
+      "Tortilla jagung untuk penyajian"
+    ],
+    "steps": [
+      "Buat adobo dengan memblender guajillo, bawang putih, jus jeruk, dan kecap asin.",
+      "Lumuri kedua sisi ikan yang dibelah dengan adobo dan biarkan meresap.",
+      "Letakkan ikan pada rak atau pemanggang di atas bara.",
+      "Panggang sisi kulit dahulu dan balik hati-hati.",
+      "Masak hingga daging mudah terurai.",
+      "Sajikan dengan bawang, tomat, jeruk nipis, dan tortilla untuk membuat taco."
+    ],
+    "tips": [
+      "Tiriskan bumbu rendaman berlebih sebelum dipanggang dan periksa suhu 63 °C pada bagian ikan tertebal."
+    ],
+    "sources": [
+      "Cocina costeña de Nayarit",
+      "México Desconocido",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-sopitos-colima": {
+    "dishName": "Sopitos colimenses (sopito Colima)",
+    "summary": "Kue masa kecil digoreng, diberi sapi giling, dan disiram saus tomat serta oregano ringan.",
+    "history": "Jajanan klasik lapak makan malam Colima dan Villa de Álvarez; menonjol berkat saus tomat dan oregano yang disiramkan melimpah.",
+    "ingredients": [
+      "300 g masa jagung",
+      "300 g sapi giling",
+      "4 tomat dan 1 siung bawang putih",
+      "Oregano kering",
+      "Bawang bombai cincang dan keju tua",
+      "Lemak babi untuk menggoreng"
+    ],
+    "steps": [
+      "Bentuk sopito kecil dengan tepi terangkat dan masak di pelat panggang.",
+      "Masak sapi giling dengan garam dan uraikan halus.",
+      "Blender tomat dengan bawang putih dan bumbui oregano untuk saus.",
+      "Celupkan tiap sopito ke saus dan goreng kedua sisinya dalam lemak babi.",
+      "Beri daging sapi di atasnya dan siram tambahan saus.",
+      "Akhiri dengan bawang cincang dan keju tua."
+    ],
+    "tips": [
+      "Masak sapi giling hingga 71 °C dan selesaikan sopito saat penyajian agar dasarnya tetap kokoh."
+    ],
+    "sources": [
+      "Los Sabores de México",
+      "Gourmet de México",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-carnitas": {
+    "dishName": "Carnitas michoacanas (carnitas Michoacán)",
+    "summary": "Babi dimasak perlahan terendam lemaknya sendiri dalam panci tembaga hingga empuk di dalam dan keemasan di luar.",
+    "history": "Kebanggaan Michoacán, terutama Quiroga dan Uruapan; panci tembaga dan pemasakan lama dalam lemak babi memberi carnitas tekstur khasnya.",
+    "ingredients": [
+      "2 kg aneka bagian babi (daging rendah lemak, iga, kulit)",
+      "1 kg lemak babi",
+      "1 jeruk, belah dua",
+      "Susu evaporasi (opsional)",
+      "Bawang putih, daun bay, dan garam",
+      "Tortilla, bawang bombai, daun ketumbar, dan salsa"
+    ],
+    "steps": [
+      "Lelehkan lemak babi dalam panci tembaga dengan api sedang.",
+      "Masukkan potongan babi bersama bawang putih, daun bay, dan garam.",
+      "Tambahkan jeruk dan sedikit susu untuk mencokelatkan dan mengempukkan.",
+      "Masak dengan api kecil sambil sesekali diaduk sekitar dua jam.",
+      "Besarkan api pada akhir pemasakan agar carnitas kecokelatan.",
+      "Cincang dan sajikan dalam taco dengan bawang, daun ketumbar, dan salsa."
+    ],
+    "tips": [
+      "Tambahkan cairan hati-hati ketika lemak masih suam-suam kuku; air yang ditambahkan ke lemak sangat panas bisa memercik hebat."
+    ],
+    "sources": [
+      "Cocina michoacana tradicional",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-corundas": {
+    "dishName": "Corundas (tamal segitiga Michoacán)",
+    "summary": "Tamal masa berbentuk segitiga dibungkus daun tanaman jagung, disajikan dengan crema, salsa, dan keju.",
+    "history": "Tamal Purépecha dari Michoacán dengan bentuk segitiga khas; dibungkus daun panjang tanaman jagung, bukan kelobot kering.",
+    "ingredients": [
+      "500 g masa jagung",
+      "150 g lemak babi",
+      "1 sendok teh baking powder",
+      "Daun hijau panjang dari tanaman jagung",
+      "Crema, salsa merah, dan keju untuk penyajian",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Kocok lemak babi hingga mengembang dan campurkan masa bersama garam serta baking powder.",
+      "Letakkan seporsi masa di daun hijau.",
+      "Lipat daun bersudut untuk membentuk segitiga khas.",
+      "Kukus corunda sekitar satu jam.",
+      "Istirahatkan beberapa menit sebelum dibuka.",
+      "Sajikan disiram crema, salsa merah, dan keju."
+    ],
+    "tips": [
+      "Jaga air mendidih di bawah rak tanpa menyentuh bungkusan, dan tambahkan air panas sesuai kebutuhan."
+    ],
+    "sources": [
+      "Cocina purépecha de Michoacán",
+      "México Desconocido"
+    ]
+  },
+  "r-mxc-barbacoa": {
+    "dishName": "Barbacoa de borrego (domba masak lubang tanah)",
+    "summary": "Daging domba dimasak perlahan dalam oven tanah, dibungkus daun maguey hingga empuk dan berair.",
+    "history": "Tradisi hari Minggu Meksiko tengah, berakar kuat di Negara Bagian Meksiko dan Hidalgo; dimasak dalam lubang berlapis daun maguey.",
+    "ingredients": [
+      "3 kg daging domba muda",
+      "Daun maguey yang dipanggang",
+      "Cabai guajillo dan ancho untuk adobo",
+      "Bawang putih, jintan, dan daun bay",
+      "Kacang arab dan beras untuk consommé (opsional)",
+      "Tortilla, bawang bombai, daun ketumbar, dan salsa"
+    ],
+    "steps": [
+      "Lumuri daging dengan adobo cabai, bawang putih, dan rempah.",
+      "Lapisi oven tanah atau panci besar dengan daun maguey.",
+      "Letakkan wadah di bawah untuk menampung sari dan membuat consommé.",
+      "Susun daging pada daun dan tutup seluruhnya.",
+      "Masak beberapa jam dengan panas rendah hingga daging bisa disuwir.",
+      "Sajikan dalam taco dengan consommé terpisah, bawang, daun ketumbar, dan salsa."
+    ],
+    "tips": [
+      "Untuk versi oven, masak tertutup rapat pada 150-160 °C hingga domba bisa disuwir, dan pertahankan cairan kuahnya."
+    ],
+    "sources": [
+      "Cocina tradicional del centro de México",
+      "Larousse Cocina",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-tacos-canasta": {
+    "dishName": "Tacos de canasta (taco keranjang)",
+    "summary": "Taco lembut berisian sederhana, dipadatkan dan dikukus dalam keranjang, disajikan panas dan berminyak.",
+    "history": "Juga disebut taco kukus atau 'berkeringat'; dibawa dalam keranjang anyaman di jalanan Mexico City dan asalnya dikaitkan dengan Tlaxcala.",
+    "ingredients": [
+      "24 tortilla jagung kecil",
+      "Isian: kentang, kacang, chicharrón padat",
+      "Minyak beraroma cabai guajillo",
+      "Bawang bombai dan daun ketumbar",
+      "Salsa hijau pedas"
+    ],
+    "steps": [
+      "Siapkan isian terpisah dan jaga tetap hangat.",
+      "Isi tiap tortilla dengan isian dan lipat.",
+      "Olesi taco dengan minyak guajillo.",
+      "Susun berlapis dalam keranjang beralas kain.",
+      "Tutup rapat agar berkeringat dan memanas dengan uapnya sendiri.",
+      "Sajikan dengan tambahan salsa hijau, bawang, dan daun ketumbar."
+    ],
+    "tips": [
+      "Isian harus matang sepenuhnya dan panas saat dirakit; siapkan hanya yang akan segera disajikan."
+    ],
+    "sources": [
+      "Cocina callejera de la Ciudad de México",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-quesadillas-cdmx": {
+    "dishName": "Quesadillas de comal (quesadilla pelat panggang)",
+    "summary": "Tortilla masa lipat berisian, dengan atau tanpa keju sesuai selera Mexico City.",
+    "history": "Jajanan sehari-hari di Mexico City; terkenal karena perdebatan tanpa akhir tentang apakah pesanan quesadilla di lapak sudah termasuk keju atau tidak.",
+    "ingredients": [
+      "400 g masa jagung",
+      "Keju Oaxaca, suwir (opsional)",
+      "Isian: bunga labu, huitlacoche, atau jamur",
+      "Epazote segar",
+      "Salsa hijau atau merah",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Bentuk tortilla dari masa dan letakkan di pelat panggang.",
+      "Tambahkan isian dan, jika diinginkan, keju serta selembar epazote.",
+      "Lipat tortilla menjadi dua sambil menekan tepinya.",
+      "Masak kedua sisi hingga masa kecokelatan dan isian panas.",
+      "Segera sajikan dengan salsa secukupnya."
+    ],
+    "tips": [
+      "Gunakan jamur atau bunga labu yang sudah dimasak dan ditiriskan agar tidak membasahi adonan."
+    ],
+    "sources": [
+      "Cocina chilanga cotidiana",
+      "Larousse Cocina"
+    ]
+  },
+  "r-mxc-pastes": {
+    "dishName": "Pastes hidalguenses (pastel Hidalgo)",
+    "summary": "Pastri lipat berlapis renyah dengan isian kentang dan daging, warisan penambang Cornwall dari Inggris.",
+    "history": "Adaptasi Meksiko dari Cornish pasty, dibawa ke tambang Real del Monte, Hidalgo, pada abad ke-19; kini isiannya beragam dari gurih hingga manis.",
+    "ingredients": [
+      "500 g tepung untuk adonan",
+      "200 g lemak babi atau mentega",
+      "300 g kentang, potong dadu kecil",
+      "350 g sapi, cincang halus",
+      "Daun bawang prei atau bawang bombai dan peterseli",
+      "Garam dan lada",
+      "150 ml air dingin, sesuaikan bila perlu",
+      "1 telur kocok untuk olesan"
+    ],
+    "steps": [
+      "Buat adonan shortcrust dengan tepung, lemak dingin, garam, dan air; istirahatkan.",
+      "Campur kentang mentah, daging, prei, dan peterseli dengan garam serta lada.",
+      "Gilas adonan dan potong lingkaran.",
+      "Tambahkan isian, lipat, dan rapatkan dengan pilinan tepi khas.",
+      "Olesi telur dan panggang pada 190 °C selama 30-35 menit hingga keemasan dan suhu isian 71 °C; kentang harus empuk.",
+      "Dinginkan sedikit sebelum disajikan."
+    ],
+    "tips": [
+      "Potong kentang dadu sekitar 5 mm agar matang bersama daging di dalam pastri."
+    ],
+    "sources": [
+      "Cocina de Real del Monte, Hidalgo",
+      "México Desconocido",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-mxc-cecina-yecapixtla": {
+    "dishName": "Cecina de Yecapixtla (sapi asin Yecapixtla)",
+    "summary": "Lembaran tipis sapi asin yang dikeringkan dengan udara, dipanggang di atas arang dan disajikan dengan crema, keju, dan guacamole.",
+    "history": "Hidangan khas Kota Yecapixtla, Morelos, yang terkenal dengan cecina sapi tipisnya; disajikan bersama cecina babi berlumur cabai dan pelengkap segar.",
+    "ingredients": [
+      "600 g cecina sapi",
+      "Crema dan keju segar",
+      "Alpukat untuk guacamole",
+      "Nopales panggang (opsional)",
+      "Bawang bombai, daun ketumbar, dan jeruk nipis",
+      "Tortilla jagung"
+    ],
+    "steps": [
+      "Panggang cecina di atas arang beberapa detik tiap sisi, jaga agar tidak kering.",
+      "Panggang nopales dan bawang di samping daging jika suka.",
+      "Buat guacamole sederhana dari alpukat, daun ketumbar, jeruk nipis, dan garam.",
+      "Sajikan cecina bersama crema, keju, dan guacamole.",
+      "Sajikan dengan tortilla hangat untuk membuat taco."
+    ],
+    "tips": [
+      "Cecina sudah mengandung garam: cicipi pendamping sebelum menggarami dan periksa kematangan dengan termometer."
+    ],
+    "sources": [
+      "Cocina tradicional de Morelos",
+      "México Desconocido"
+    ]
+  },
+  "r-mxc-mixiotes": {
+    "dishName": "Mixiotes de pollo (mixiote ayam)",
+    "summary": "Ayam dalam adobo cabai dikukus dalam bungkusan kecil, secara tradisional dari kulit maguey.",
+    "history": "Hidangan dataran tinggi tengah yang banyak dijumpai di Tlaxcala; namanya berasal dari selaput tipis tanaman maguey yang awalnya membungkus daging berbumbu.",
+    "ingredients": [
+      "1.5 kg ayam, potong-potong",
+      "Cabai guajillo, ancho, dan pasilla",
+      "Bawang putih, jintan, dan daun bay",
+      "Lembaran kaktus nopal atau daun alpukat (opsional)",
+      "Pembungkus mixiote atau kertas panggang",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Rendam cabai hingga lunak dan blender dengan bawang putih serta rempah untuk adobo.",
+      "Rendam ayam dalam adobo minimal setengah jam.",
+      "Letakkan porsi ayam bersama selembar daun alpukat di setiap pembungkus.",
+      "Tutup mixiote menjadi bungkusan kecil.",
+      "Kukus hingga daging empuk.",
+      "Sajikan mixiote tertutup untuk dibuka di meja bersama tortilla."
+    ],
+    "tips": [
+      "Selalu rendam bumbu di kulkas dan periksa suhu 74 °C pada potongan ayam tertebal."
+    ],
+    "sources": [
+      "Cocina del altiplano tlaxcalteca",
+      "Larousse Cocina",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-c-charales-fritos": {
+    "dishName": "Charales goreng Pátzcuaro",
+    "summary": "Ikan danau mungil digoreng hingga renyah dan keemasan, disajikan dalam kerucut kertas dengan jeruk nipis dan salsa.",
+    "history": "Hidangan istimewa wilayah danau Purépecha, charales sudah ditangkap di Danau Pátzcuaro sejak masa pra-Hispanik. Dijual panas di dermaga dan lapak tepi danau, dibungkus kertas, sebagai jajanan khas kota.",
+    "ingredients": [
+      "300 g charales kering atau segar bersih (ikan danau kecil)",
+      "Air perasan 2 jeruk nipis",
+      "Garam secukupnya",
+      "Minyak untuk menggoreng",
+      "Salsa chile de árbol untuk penyajian",
+      "Irisan baji jeruk nipis untuk penyajian"
+    ],
+    "steps": [
+      "Bilas charales dan tiriskan benar-benar; jika kering, rendam beberapa menit lalu tepuk hingga kering.",
+      "Perciki perasan jeruk nipis dan sedikit garam, lalu istirahatkan 5 menit.",
+      "Panaskan banyak minyak dan goreng charales bertahap hingga keemasan dan renyah.",
+      "Tiriskan di tisu dapur untuk mengurangi minyak.",
+      "Sajikan panas dalam kerucut kertas dengan tambahan jeruk nipis dan salsa chile de árbol."
+    ],
+    "tips": [
+      "Keringkan ikan benar-benar setelah diberi jeruk nipis agar percikan saat digoreng berkurang."
+    ],
+    "sources": [
+      "Secretaría de Turismo de Michoacán",
+      "México Desconocido, cocina lacustre de Pátzcuaro"
+    ]
+  },
+  "r-pm-c-churipo": {
+    "dishName": "Churipo",
+    "summary": "Kuah sapi merah Purépecha dengan cabai guajillo dan sayuran, secara tradisional disajikan dengan corunda.",
+    "history": "Churipo, dari bahasa Purépecha churhípu yang berarti 'kuah', adalah rebusan upacara dataran tinggi dan tepian Danau Pátzcuaro, berakar kuat di Tzintzuntzan. Merupakan bagian dari masakan tradisional Michoacán yang diakui sebagai Warisan Budaya Takbenda Kemanusiaan.",
+    "ingredients": [
+      "1.2 kg sengkel atau iga pendek sapi",
+      "6 cabai guajillo, buang bijinya",
+      "2 cabai pasilla, buang bijinya",
+      "2 tongkol jagung, potong-potong",
+      "2 labu siam, potong dadu",
+      "1 kol kecil, potong baji",
+      "Bawang putih, bawang bombai, dan garam",
+      "Xoconostle atau jeruk nipis untuk rasa asam"
+    ],
+    "steps": [
+      "Rebus daging dengan bawang bombai, bawang putih, dan garam hingga empuk; sisihkan kaldu.",
+      "Rendam cabai hingga lunak dan blender dengan sedikit kaldu, bawang putih, dan bawang bombai; saring.",
+      "Aduk saus yang disaring ke kaldu dan didihkan perlahan untuk mengembangkan rasa.",
+      "Tambahkan jagung, labu siam, dan kol, lalu masak hingga empuk.",
+      "Sesuaikan garam dan tambahkan xoconostle cincang atau beberapa tetes jeruk nipis.",
+      "Sajikan sangat panas bersama corunda dan tortilla."
+    ],
+    "tips": [
+      "Masukkan jagung dahulu, lalu labu siam, terakhir kol agar kol tidak hancur."
+    ],
+    "sources": [
+      "Cocina tradicional purépecha, El Sol de Morelia",
+      "Visit Michoacán, Tzintzuntzan"
+    ]
+  },
+  "r-pm-c-cantaritos": {
+    "dishName": "Cantaritos de Tequila",
+    "summary": "Koktail tequila menyegarkan dengan jus jeruk-jerukan dan soda grapefruit, disajikan dalam cangkir tanah liat.",
+    "history": "Lahir di daerah Amatitán dan Tequila pada awal abad ke-20, cantarito mengambil nama dari cangkir tanah liat kecil yang menjaga minuman dingin dan memberi sentuhan mineral. Kini menjadi ikon perayaan Kota Ajaib Tequila.",
+    "ingredients": [
+      "60 ml tequila blanco",
+      "Air perasan 1/2 jeruk",
+      "Air perasan 1/2 jeruk nipis",
+      "Air perasan 1/2 grapefruit",
+      "Soda grapefruit untuk memenuhi gelas",
+      "Garam cabai untuk bibir cangkir",
+      "Es dan irisan jeruk-jerukan"
+    ],
+    "steps": [
+      "Lapisi bibir cangkir tanah liat dengan jeruk nipis dan garam cabai.",
+      "Isi cangkir dengan es.",
+      "Tuangkan tequila serta jus jeruk, jeruk nipis, dan grapefruit.",
+      "Penuhi dengan soda grapefruit dan aduk perlahan.",
+      "Hias dengan irisan jeruk-jerukan dan segera sajikan."
+    ],
+    "tips": [
+      "Gunakan cangkir tanah liat berglasir bersertifikasi aman pangan dan es dari air minum."
+    ],
+    "sources": [
+      "Turismo Guadalajara, origen del cantarito",
+      "Directo al Paladar México"
+    ]
+  },
+  "r-pm-c-el-bote": {
+    "dishName": "El Bote de Mazamitla",
+    "summary": "Kuah pedesaan tiga jenis daging dimasak dengan pulque dan sayuran, bercita rasa asap dari api kayu.",
+    "history": "Hidangan khas Kota Ajaib Mazamitla di dataran tinggi Jalisco. Namanya berasal dari bote, atau panci besar, tempatnya dimasak di atas api kayu; pulque memberi rebusan perayaan ini karakter uniknya.",
+    "ingredients": [
+      "500 g sapi, potong-potong",
+      "500 g babi, potong-potong",
+      "1 ayam, potong-potong",
+      "1 liter pulque alami",
+      "Jagung, wortel, labu, dan labu siam",
+      "Bawang bombai, bawang putih, daun bay, dan garam",
+      "Cabai utuh secukupnya"
+    ],
+    "steps": [
+      "Dalam panci besar, cokelatkan permukaan sapi dan babi bersama bawang bombai serta bawang putih.",
+      "Tambahkan air hingga terendam, masukkan daun bay dan garam, lalu masak hingga mulai empuk.",
+      "Tambahkan potongan ayam dan sayuran yang dipotong besar.",
+      "Tuangkan pulque dan tambahkan cabai utuh; masak dengan api kecil.",
+      "Biarkan semuanya matang perlahan hingga daging sangat empuk.",
+      "Sajikan kuah bersama daging dan sayuran, ditemani tortilla dan salsa."
+    ],
+    "tips": [
+      "Tambahkan air secukupnya hingga daging terendam dan pastikan setiap potongan ayam mencapai 74 °C."
+    ],
+    "sources": [
+      "Azteca Jalisco, gastronomía de Mazamitla",
+      "Gastronomía del Pueblo Mágico de Mazamitla",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-c-borrego-al-pastor": {
+    "dishName": "Borrego al pastor ala Tapalpa (domba)",
+    "summary": "Domba direndam bumbu dan dimasak perlahan dalam oven tanah liat atau di atas bara, dengan rasa berasap dan daging empuk.",
+    "history": "Di Tapalpa, tradisi borrego al pastor berawal pada era Perang Cristero, ketika orang-orang yang berlindung di pegunungan memanfaatkan kayu bakar dan domba. Dimasak perlahan dan disajikan bersama frijoles charros, berbeda dari barbacoa lubang tanah.",
+    "ingredients": [
+      "3 kg domba, potong-potong",
+      "6 cabai guajillo dan 3 ancho, buang bijinya",
+      "Bawang putih, bawang bombai, jintan, dan oregano",
+      "Cuka dan jus jeruk",
+      "Daun alpukat dan daun bay",
+      "Garam dan lada",
+      "Frijoles charros untuk penyajian"
+    ],
+    "steps": [
+      "Rendam cabai hingga lunak dan blender dengan bawang putih, bawang bombai, rempah, cuka, dan jus jeruk.",
+      "Lumuri daging dengan adobo dan biarkan meresap beberapa jam atau semalaman.",
+      "Susun domba di loyang bersama daun alpukat dan daun bay.",
+      "Masak perlahan tertutup dalam oven tanah liat atau di atas bara hingga daging mudah hancur.",
+      "Sisihkan sari yang keluar untuk menyiram daging saat disajikan.",
+      "Sajikan dengan frijoles charros, bawang bombai, daun ketumbar, dan tortilla hangat."
+    ],
+    "tips": [
+      "Dalam oven rumahan, masak tertutup pada 160 °C dan tambahkan sedikit air di dasar jika sari terlalu menyusut."
+    ],
+    "sources": [
+      "Gourmet de México, Tapalpa",
+      "Latitud México, borrego al pastor de Tapalpa",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-pm-c-nieve-aguacate": {
+    "dishName": "Es alpukat Dolores Hidalgo",
+    "summary": "Es putar lembut dengan rasa tidak biasa: alpukat diblender dengan air, gula, dan jeruk nipis.",
+    "history": "Dolores Hidalgo terkenal akan es putar nieves de garrafa dengan rasa unik seperti alpukat, mole, chicharrón, dan udang, dijual di lapak sekitar alun-alun utama. Rasa alpukat termasuk yang paling disukai dalam tradisi pembuatan es lintas generasi ini.",
+    "ingredients": [
+      "3 alpukat matang",
+      "1 cangkir gula",
+      "2 cangkir air dingin",
+      "Air perasan 1 jeruk nipis",
+      "Es dan garam batu untuk alat pemutar"
+    ],
+    "steps": [
+      "Blender daging alpukat dengan air, gula, dan perasan jeruk nipis hingga halus.",
+      "Tuangkan campuran ke tabung alat pemutar (atau wadah logam).",
+      "Kelilingi tabung dengan es dan garam batu agar suhunya turun di bawah titik beku.",
+      "Terus putar dan keruk campuran untuk memasukkan udara dan memecah kristal.",
+      "Lanjutkan memutar hingga menghasilkan es padat dan lembut.",
+      "Segera sajikan dalam cangkir atau cone."
+    ],
+    "tips": [
+      "Jaga es bergaram di luar wadah es krim; jangan biarkan air garam masuk ke campuran."
+    ],
+    "sources": [
+      "Milenio, nieves de Dolores Hidalgo",
+      "México Desconocido, nieves de Dolores Hidalgo"
+    ]
+  },
+  "r-pm-c-fiambre-san-miguel": {
+    "dishName": "Fiambre ala San Miguel de Allende",
+    "summary": "Salad dingin dari daging, buah, dan sayuran yang direndam vinaigrette, khas Hari Semua Orang Kudus.",
+    "history": "Fiambre ala San Miguel terutama dibuat untuk 1 November. Hidangan ini memadukan ayam, lidah, dan kaki babi dengan buah serta sayuran disiram minyak dan cuka; salah satu olahan musiman paling khas dalam masakan Guanajuato.",
+    "ingredients": [
+      "1 dada ayam, masak dan suwir",
+      "1 lidah sapi, masak dan iris",
+      "2 kaki babi, masak",
+      "Jeruk, pisang, apel, bengkuang, dan jambu biji",
+      "Bit matang, potong dadu",
+      "Selada, alpukat, dan zaitun",
+      "Minyak zaitun, cuka, oregano, dan garam"
+    ],
+    "steps": [
+      "Mulai dengan ayam, lidah, dan kaki babi yang sudah matang dan didinginkan di kulkas; resep ini menjelaskan perakitan hidangan dingin.",
+      "Potong buah dan sayuran menjadi dadu atau irisan.",
+      "Buat vinaigrette dengan minyak zaitun, cuka, oregano, dan garam.",
+      "Susun selada sebagai alas dan tata daging, buah, serta bit di atasnya.",
+      "Siram semuanya dengan vinaigrette dan biarkan meresap dalam keadaan dingin minimal satu jam.",
+      "Sajikan dihias alpukat dan zaitun."
+    ],
+    "tips": [
+      "Dinginkan daging matang di kulkas dan rakit dalam keadaan dingin; jangan mendinginkannya berjam-jam di meja dapur."
+    ],
+    "sources": [
+      "Guanajuato.mx, fiambre estilo San Miguel de Allende",
+      "Periódico Correo, receta de fiambre"
+    ]
+  }
+}
