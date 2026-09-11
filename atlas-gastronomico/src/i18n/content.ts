@@ -56,5 +56,8 @@ export function translateRecipe(recipe: Recipe, locale: Locale): Recipe {
 }
 
 export function translatePlaceName(place: Place, locale: Locale): string {
+  if (place.type === "pais") {
+    return new Intl.DisplayNames([locale], { type: "region" }).of(place.countryCode) ?? place.name;
+  }
   return placeOverlays[locale]?.[place.id] ?? place.name;
 }

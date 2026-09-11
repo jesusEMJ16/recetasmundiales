@@ -251,3 +251,35 @@
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+/* Country → regional exploration, with a complete keyboard-accessible list. */
+.atlas-drilldown .atlas-map { height: 550px; }
+.atlas-drilldown.atlas-expanded .atlas-map { height: min(80vh,900px); min-height: 550px; }
+.atlas-drilldown .atlas-content { grid-template-columns: minmax(0,1fr) 300px; }
+.atlas-drilldown .atlas-country-list { height: 290px; max-height: 290px; }
+.atlas-total { font-size: 12px; font-weight: 500; color: var(--ink-soft); background: var(--surface-soft); border-radius: 7px; padding: 4px 8px; }
+.atlas-back { display: flex; align-items: center; gap: 6px; color: var(--brand-text); font-size: 13px; margin-bottom: 12px; }
+.atlas-list-search { display: flex; gap: 8px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 9px; padding: 9px 11px; margin-top: 12px; color: var(--ink-faint); }
+.atlas-list-search input { min-width: 0; width: 100%; background: transparent; font-size: 14px; color: var(--ink); outline: 0; }
+.atlas-list-search:focus-within { outline: 2px solid var(--brand-text); outline-offset: 2px; }
+.atlas-list-empty { padding: 12px; color: var(--ink-soft); font-size: 14px; }
+.atlas-region-status { position: absolute; z-index: 500; left: 12px; bottom: 12px; max-width: calc(100% - 24px); background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; font-size: 14px; box-shadow: var(--shadow-card); }
+.atlas-region-status button { margin-left: 8px; text-decoration: underline; }
+.map-region { fill: var(--map-active); stroke: var(--brand-text); cursor: pointer; }
+.map-region:hover, .map-region:focus { fill: var(--brand-text); fill-opacity: .5; }
+.map-country-dot { fill: var(--brand-text); stroke: var(--card); cursor: pointer; }
+.map-label-leader { stroke: var(--brand-text); opacity: .6; }
+.map-region-label { min-height: 34px; font-size: 12px; padding: 6px 8px; border-width: 1px; gap: 6px; }
+.map-region-label span { white-space: normal; line-height: 1.15; }
+.map-region-label small { margin-left: auto; padding-left: 4px; }
+@media(max-width:800px){
+  .atlas-drilldown .atlas-content { grid-template-columns: 1fr; }
+  .atlas-drilldown .atlas-map { height: 460px; }
+  .atlas-drilldown .atlas-country-list { height: 220px; max-height: 220px; }
+  .atlas-drilldown .atlas-sidebar-heading { padding-bottom: 16px; }
+}
+@media(max-width:480px){
+  .atlas-drilldown .atlas-map { height: 430px; }
+  .atlas-title { flex-wrap: wrap; }
+  .atlas-drilldown .atlas-toolbar { align-items: flex-start; }
+}

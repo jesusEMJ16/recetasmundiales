@@ -5,7 +5,7 @@ import { useEffect } from "react";
 import { Globe2, Moon, Sun } from "lucide-react";
 import { localeMeta, type Locale } from "../i18n/config";
 import { getDictionary } from "../i18n/dictionaries";
-import { homeHref, placeHrefFromSlugs } from "../i18n/routing";
+import { homeHref } from "../i18n/routing";
 import { LocaleSwitcher } from "./LocaleSwitcher";
 
 export function SiteHeader({ locale }: { locale: Locale }) {
@@ -32,7 +32,6 @@ export function SiteHeader({ locale }: { locale: Locale }) {
   const links = [
     { href: homeHref(locale), label: t.header.navHome },
     { href: `${homeHref(locale)}#destinations`, label: t.home.countriesEyebrow },
-    { href: placeHrefFromSlugs(locale, ["mexico"]), label: t.header.navStates },
   ];
   return (
     <header className="site-header">

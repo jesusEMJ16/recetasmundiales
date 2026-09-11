@@ -2,12 +2,14 @@ import { MetadataRoute } from 'next';
 import { PLACES } from '../data/places';
 import { RECIPES } from '../data/recipes';
 import { locales } from '../i18n/config';
+import { buildRecipeCounts } from '../domain/atlas';
 import { placePathSlugs } from '../domain/places';
 
 const BASE_URL = 'https://worldbitesapp.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const sitemapEntries: MetadataRoute.Sitemap = [];
+  const counts = buildRecipeCounts(PLACES, RECIPES);
 
   // Páginas de recetas individuales para todos los idiomas
   locales.forEach((locale) => {
@@ -28,7 +30,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
 
     // Páginas de lugares (países y estados)
-    PLACES.forEach((place) => {
+    // Keep the sitemap below protocol limits and avoid indexing empty catalogs.
+    PLACES.filter(place => (counts.get(place.id) ?? 0) > 0).forEach((place) => {
       const slugs = placePathSlugs(place, PLACES);
       if (slugs.length > 0) {
         sitemapEntries.push({
