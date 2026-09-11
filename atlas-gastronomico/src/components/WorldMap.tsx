@@ -1,588 +1,196 @@
 "use client";
-import { useEffect, useRef, useState, useCallback } from "react";
-import { useRouter } from "next/navigation";
+import { useCallback, useEffect, useRef, useState } from "react";
+import Link from "next/link";
+import { Compass, Globe2, Maximize2, Minimize2, ArrowUpRight } from "lucide-react";
+import type { Map as LeafletMap, LayerGroup, GeoJSON as GeoJSONLayer } from "leaflet";
+import type { FeatureCollection } from "geojson";
 import { PLACES } from "../data/places";
-import { getChildren, getRecipeCountForPlace } from "../domain/places";
 import { RECIPES } from "../data/recipes";
+import { getRecipesForPlace } from "../domain/places";
 import { useLocale } from "../i18n/useLocale";
 import { getDictionary } from "../i18n/dictionaries";
 import { placeHref } from "../i18n/routing";
 import { translatePlaceName } from "../i18n/content";
 import type { Place } from "../domain/types";
 
-// Importaciones dinámicas de Leaflet (solo cliente)
-let L: any = null;
-let markerIcon2x: any = null;
-let markerIcon: any = null;
-let markerShadow: any = null;
-
-async function loadLeaflet() {
-  if (L) return L;
-  const leafletModule = await import("leaflet");
-  L = leafletModule.default || leafletModule;
-
-  // Plugin de clusters: extiende L con MarkerClusterGroup (necesita que L ya exista)
-  await import("leaflet.markercluster");
-
-  // Cargar CSS
-  await import("leaflet/dist/leaflet.css");
-  await import("leaflet.markercluster/dist/MarkerCluster.css");
-  await import("leaflet.markercluster/dist/MarkerCluster.Default.css");
-  
-  // Cargar imágenes
-  const icons = await Promise.all([
-    import("leaflet/dist/images/marker-icon-2x.png"),
-    import("leaflet/dist/images/marker-icon.png"),
-    import("leaflet/dist/images/marker-shadow.png"),
-  ]);
-  [markerIcon2x, markerIcon, markerShadow] = icons;
-  
-  // Fix para iconos
-  delete (L.Icon.Default.prototype as any)._getIconUrl;
-  L.Icon.Default.mergeOptions({
-    iconRetinaUrl: markerIcon2x.src,
-    iconUrl: markerIcon.src,
-    shadowUrl: markerShadow.src,
-  });
-  
-  return L;
-}
-
-const COUNTRIES = PLACES.filter((p) => p.type === "pais");
-const MX_STATES = PLACES.filter((p) => p.type === "estado" && p.countryCode === "MX");
-const MX_CITIES = PLACES.filter((p) => p.type === "ciudad" && p.countryCode === "MX");
-const MX_TOWNS = PLACES.filter((p) => p.type === "pueblo" && p.countryCode === "MX");
-
-interface RecipeMarker {
-  lat: number;
-  lng: number;
-  title: string;
-  href: string;
-  hasRecipes: boolean;
-  recipeCount: number;
-  place: Place;
-}
-
-type MarkerClusterGroup = any;
-const MarkerClusterGroupImpl: any = (typeof window !== "undefined" && (window as any).Leaflet?.MarkerClusterGroup) || null;
-
-function createCountryMarkerElement(name: string, featured: boolean, locale: string) {
-  const el = document.createElement("div");
-  el.className = "country-marker";
-  el.innerHTML = `
-    <div style="
-      font-family: var(--font-body, system-ui, sans-serif);
-      font-size: 13px;
-      font-weight: 700;
-      white-space: nowrap;
-      padding: 6px 14px;
-      border-radius: 9999px;
-      cursor: pointer;
-      background: ${featured ? "linear-gradient(135deg, #e11d74 0%, #c1440e 100%)" : "linear-gradient(135deg, #fffdf8 0%, #f5f0eb 100%)"};
-      color: ${featured ? "#ffffff" : "#241b16"};
-      border: 2px solid ${featured ? "#96330a" : "#c1440e"};
-      box-shadow: 0 4px 16px -4px rgba(36,27,22,0.5), 0 2px 8px rgba(0,0,0,0.1);
-      transition: all 0.2s ease;
-      backdrop-filter: blur(8px);
-    ">
-      ${name}
-    </div>
-  `;
-  
-  const innerDiv = el.firstChild as HTMLElement;
-  innerDiv.onmouseenter = () => {
-    innerDiv.style.transform = "scale(1.1)";
-    innerDiv.style.boxShadow = "0 6px 20px -4px rgba(36,27,22,0.6), 0 4px 12px rgba(0,0,0,0.15)";
-  };
-  innerDiv.onmouseleave = () => {
-    innerDiv.style.transform = "scale(1)";
-    innerDiv.style.boxShadow = "0 4px 16px -4px rgba(36,27,22,0.5), 0 2px 8px rgba(0,0,0,0.1)";
-  };
-  return el;
-}
-
-function createRecipeMarkerElement(place: Place, locale: string, hasRecipes: boolean, recipeCount: number) {
-  const el = document.createElement("div");
-  const name = translatePlaceName(place, locale as any);
-  el.className = "recipe-marker";
-  el.innerHTML = `
-    <div style="
-      font-family: var(--font-body, system-ui, sans-serif);
-      font-size: 12px;
-      font-weight: 600;
-      white-space: nowrap;
-      padding: 5px 10px;
-      border-radius: 8px;
-      cursor: pointer;
-      background: ${hasRecipes 
-        ? "linear-gradient(135deg, #b8442e 0%, #8a3322 100%)" 
-        : "linear-gradient(135deg, #737373 0%, #525252 100%)"};
-      color: #ffffff;
-      border: 2px solid ${hasRecipes ? "#8a3322" : "#525252"};
-      box-shadow: 0 3px 12px -3px rgba(0,0,0,0.4);
-      transition: all 0.2s ease;
-      backdrop-filter: blur(6px);
-    ">
-      🍽️ ${name}${hasRecipes ? ` (${recipeCount})` : ""}
-    </div>
-  `;
-  
-  const innerDiv = el.firstChild as HTMLElement;
-  innerDiv.onmouseenter = () => {
-    innerDiv.style.transform = "scale(1.08)";
-    innerDiv.style.boxShadow = "0 5px 16px -3px rgba(0,0,0,0.5)";
-  };
-  innerDiv.onmouseleave = () => {
-    innerDiv.style.transform = "scale(1)";
-    innerDiv.style.boxShadow = "0 3px 12px -3px rgba(0,0,0,0.4)";
-  };
-  return el;
-}
-
-function createEmptyAreaMarkerElement() {
-  const el = document.createElement("div");
-  el.innerHTML = `
-    <div style="
-      font-family: var(--font-body, system-ui, sans-serif);
-      font-size: 11px;
-      font-weight: 700;
-      white-space: nowrap;
-      padding: 4px 8px;
-      border-radius: 6px;
-      background: linear-gradient(135deg, #737373 0%, #525252 100%);
-      color: #ffffff;
-      border: 2px solid #525252;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-    ">
-      Sin recetas
-    </div>
-  `;
-  return el;
-}
-
-// Función para obtener emoji de bandera desde código de país
-function getFlagEmoji(countryCode: string): string {
-  const codePoints = countryCode
-    .toUpperCase()
-    .split('')
-    .map(char => 127397 + char.charCodeAt(0));
-  return String.fromCodePoint(...codePoints);
-}
+const COUNTRIES = PLACES.filter(p => p.type === "pais");
+const COUNTS = new Map(PLACES.map(p => [p.id, getRecipesForPlace(p.id, PLACES, RECIPES).length]));
+// Load the base geography from this deployment: no tile service, API key or
+// theme-dependent third-party request is needed to make the map visible.
+const WORLD_BOUNDS: [[number, number], [number, number]] = [[-53, -170], [72, 179]];
 
 export function WorldMap() {
-  const ref = useRef<HTMLDivElement>(null);
-  const mapRef = useRef<L.Map | null>(null);
-  const markersRef = useRef<L.Marker[]>([]);
-  const clusterGroupRef = useRef<MarkerClusterGroup | null>(null);
-  const countryMarkersRef = useRef<L.Marker[]>([]);
-  const recipeMarkersRef = useRef<L.Marker[]>([]);
-  const router = useRouter();
+  const container = useRef<HTMLDivElement>(null);
+  const mapRef = useRef<LeafletMap | null>(null);
+  const selectRef = useRef<(place: Place) => void>(() => {});
+  const [selected, setSelected] = useState<Place | null>(null);
+  const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
+  const [attempt, setAttempt] = useState(0);
+  const [expanded, setExpanded] = useState(false);
   const locale = useLocale();
-  const t = getDictionary(locale).map;
-  const [currentZoom, setCurrentZoom] = useState(4);
-
-  // Generar marcadores de recetas basados en lugares disponibles
-  const generateRecipeMarkers = useCallback((): RecipeMarker[] => {
-    const markers: RecipeMarker[] = [];
-    
-    // Agregar marcadores para todos los países con recetas
-    COUNTRIES.forEach((country) => {
-      const children = getChildren(country.id, PLACES);
-      const childRecipeCounts = children.reduce((sum, child) => sum + getRecipeCountForPlace(child.id, RECIPES), 0);
-      const countryRecipeCount = getRecipeCountForPlace(country.id, RECIPES);
-      const totalRecipes = childRecipeCounts + countryRecipeCount;
-      const hasRecipes = totalRecipes > 0;
-      
-      markers.push({
-        lat: country.lat,
-        lng: country.lng,
-        title: translatePlaceName(country, locale as any),
-        href: placeHref(locale as any, country),
-        hasRecipes,
-        recipeCount: totalRecipes,
-        place: country,
-      });
-    });
-
-    // Agregar marcadores para estados (solo México por ahora)
-    MX_STATES.forEach((state) => {
-      const children = getChildren(state.id, PLACES);
-      const childRecipeCounts = children.reduce((sum, child) => sum + getRecipeCountForPlace(child.id, RECIPES), 0);
-      const stateRecipeCount = getRecipeCountForPlace(state.id, RECIPES);
-      const totalRecipes = childRecipeCounts + stateRecipeCount;
-      const hasRecipes = totalRecipes > 0;
-      
-      markers.push({
-        lat: state.lat,
-        lng: state.lng,
-        title: translatePlaceName(state, locale as any),
-        href: placeHref(locale as any, state),
-        hasRecipes,
-        recipeCount: totalRecipes,
-        place: state,
-      });
-    });
-
-    return markers;
-  }, [locale]);
+  const t = getDictionary(locale);
+  const es = locale === "es";
+  const reset = useCallback(() => {
+    setSelected(null);
+    mapRef.current?.fitBounds(WORLD_BOUNDS, { padding: [24, 24], animate: false });
+  }, []);
+  const select = useCallback((place: Place) => {
+    setSelected(place);
+    const map = mapRef.current;
+    if (map) {
+      const zoom = place.type === "pais" ? (place.countryCode === "US" ? 3.5 : 4.5) : 7;
+      map.setView([place.lat, place.lng], zoom, { animate: !window.matchMedia("(prefers-reduced-motion: reduce)").matches });
+    }
+  }, []);
+  useEffect(() => { selectRef.current = select; }, [select]);
 
   useEffect(() => {
-    if (!ref.current || mapRef.current) return;
-
-    // Evitar inicialización múltiple
-    if ((ref.current as any)._leaflet_id) {
-      return;
-    }
-
-    let cancelled = false;
-
-    // Cargar Leaflet (y el plugin de clusters) ANTES de usar L
-    loadLeaflet().then(() => {
-      if (cancelled || mapRef.current) return;
-      if (!ref.current || (ref.current as any)._leaflet_id) return;
-
-    // Inicializar mapa con Leaflet - Centrado en el mundo
-    const map = L.map(ref.current, {
-      center: [20, 0], // Centro global
-      zoom: 2,
-      minZoom: 2,
-      maxZoom: 14, // Reducido para evitar zoom excesivo
-      zoomControl: false,
-      attributionControl: false,
-      preferCanvas: true,
-      scrollWheelZoom: false, // Desactivado para menos sensibilidad
-      doubleClickZoom: false, // Desactivado para menos sensibilidad
-      dragging: true,
-      zoomSnap: 0.5, // Zoom más suave
-      zoomDelta: 0.5, // Delta más pequeño
-    });
-
-    mapRef.current = map;
-    setCurrentZoom(map.getZoom());
-
-    // Capa base oscura elegante (CartoDB Dark Matter)
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-      subdomains: 'abcd',
-      maxZoom: 20
-    }).addTo(map);
-
-    // Agregar control de zoom personalizado
-    L.control.zoom({
-      position: "topright",
-      zoomInText: "+",
-      zoomOutText: "−",
-      zoomInTitle: "Acercar",
-      zoomOutTitle: "Alejar",
-    }).addTo(map);
-
-    // Grupo de clusters para marcadores de recetas
-    const clusterGroup = new (L as any).MarkerClusterGroup({
-      showCoverageOnHover: true,
-      maxClusterRadius: 50,
-      disableClusteringAtZoom: 14,
-      spiderfyOnMaxZoom: true,
-      removeOutsideVisibleBounds: true,
-    });
-    clusterGroupRef.current = clusterGroup;
-    map.addLayer(clusterGroup);
-
-    // Colores por continente para marcadores circulares - PALETA SOBRIA
-    const continentColors: Record<string, string> = {
-      'MX': '#b8442e', // México - Terracota
-      'US': '#b8442e', // USA - Terracota
-      'CA': '#b8442e', // Canadá - Terracota
-      'BR': '#b8442e', // Brasil - Terracota
-      'AR': '#b8442e', // Argentina - Terracota
-      'IT': '#b8442e', // Italia - Terracota
-      'FR': '#b8442e', // Francia - Terracota
-      'ES': '#b8442e', // España - Terracota
-      'DE': '#b8442e', // Alemania - Terracota
-      'GR': '#b8442e', // Grecia - Terracota
-      'PT': '#b8442e', // Portugal - Terracota
-      'CN': '#b8442e', // China - Terracota
-      'JP': '#b8442e', // Japón - Terracota
-      'IN': '#b8442e', // India - Terracota
-      'TH': '#b8442e', // Tailandia - Terracota
-    };
-
-    // Crear marcadores de países con iconos circulares pulsantes
-    const countryMarkers: L.Marker[] = [];
-    COUNTRIES.forEach((country) => {
-      const recipeCount = getRecipeCountForPlace(country.id, RECIPES);
-      const hasRecipes = recipeCount > 0;
-      const cname = translatePlaceName(country, locale as any);
-      
-      // Determinar color por país
-      const color = continentColors[country.countryCode] || '#8b5cf6'; // Default violeta
-      
-      // Icono circular pulsante - SIN ANIMACION, diseño minimalista
-      const markerIcon = L.divIcon({
-        className: 'custom-circle-marker',
-        html: `
-          <div style="
-            background-color: ${hasRecipes ? color : '#737373'};
-            width: 16px;
-            height: 16px;
-            border-radius: 50%;
-            border: 2px solid white;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-          "></div>
-        `,
-        iconSize: [16, 16],
-        iconAnchor: [8, 8],
-      });
-      
-      const marker = L.marker([country.lat, country.lng], {
-        icon: markerIcon,
-        zIndexOffset: 1000,
-      });
-
-      // Popup mejorado con información del país - SIN CUADROS VERDES, diseño limpio
-      const flagEmoji = getFlagEmoji(country.countryCode);
-      marker.bindPopup(`
-        <div style="text-align: center; font-family: sans-serif; min-width: 180px; padding: 8px;">
-          <div style="font-size: 28px; margin-bottom: 6px;">${flagEmoji}</div>
-          <h3 style="margin: 0; color: #1a1a1a; font-weight: 600; font-size: 14px;">${cname}</h3>
-          <p style="margin: 6px 0 0; color: #737373; font-size: 12px;">${hasRecipes ? `${recipeCount} recetas` : 'Próximamente'}</p>
-        </div>
-      `);
-
-      // Click en marcador: redirección directa SIN animación de zoom excesiva
-      marker.on('click', () => {
-        if (hasRecipes) {
-          router.push(placeHref(locale as any, country));
-        }
-      });
-
-      countryMarkers.push(marker);
-      // Mostrar marcadores de países solo en zoom bajo
-      if (map.getZoom() < 5) {
-        marker.addTo(map);
-      }
-    });
-    countryMarkersRef.current = countryMarkers;
-
-    // Crear marcadores de recetas
-    const recipeMarkersData = generateRecipeMarkers();
-    const recipeMarkers: L.Marker[] = [];
-
-    recipeMarkersData.forEach((markerData) => {
-      const el = createRecipeMarkerElement(markerData.place, locale, markerData.hasRecipes, markerData.recipeCount);
-      const marker = L.marker([markerData.lat, markerData.lng], {
-        icon: L.divIcon({
-          className: "custom-recipe-marker",
-          html: el,
-          iconSize: [100, 35],
-          iconAnchor: [50, 18],
-        }),
-      });
-
-      marker.on("click", () => {
-        if (markerData.hasRecipes) {
-          router.push(markerData.href);
-        } else {
-          // Marcar área sin recetas en rojo
-          const emptyMarker = L.marker([markerData.lat, markerData.lng], {
-            icon: L.divIcon({
-              className: "empty-area-marker",
-              html: createEmptyAreaMarkerElement(),
-              iconSize: [180, 35],
-              iconAnchor: [90, 18],
-            }),
-          });
-          
-          emptyMarker.addTo(map);
-          setTimeout(() => {
-            map.removeLayer(emptyMarker);
-          }, 3000);
-          
-          // Opcional: abrir formulario para agregar receta
-          console.log("Área sin recetas:", markerData.title);
-        }
-      });
-
-      recipeMarkers.push(marker);
-      clusterGroup.addLayer(marker);
-    });
-    recipeMarkersRef.current = recipeMarkers;
-
-    // Actualizar visibilidad de marcadores según zoom
-    const updateMarkerVisibility = () => {
-      const zoom = map.getZoom();
-      setCurrentZoom(zoom);
-
-      // Mostrar/ocultar marcadores de países
-      countryMarkers.forEach((marker) => {
-        if (zoom < 5) {
-          if (!map.hasLayer(marker)) marker.addTo(map);
-        } else {
-          if (map.hasLayer(marker)) map.removeLayer(marker);
-        }
-      });
-
-      // Ajustar tamaño de marcadores de recetas según zoom
-      recipeMarkers.forEach((marker) => {
-        const element = marker.getElement();
-        if (element) {
-          const innerDiv = element.querySelector("div");
-          if (innerDiv) {
-            if (zoom >= 12) {
-              innerDiv.style.fontSize = "14px";
-              innerDiv.style.padding = "6px 12px";
-            } else if (zoom >= 8) {
-              innerDiv.style.fontSize = "12px";
-              innerDiv.style.padding = "5px 10px";
-            } else {
-              innerDiv.style.fontSize = "11px";
-              innerDiv.style.padding = "4px 8px";
-            }
-          }
-        }
-      });
-    };
-
-    map.on("zoomend", updateMarkerVisibility);
-    updateMarkerVisibility();
-
-    // Agregar leyenda informativa
-    const legend = (L.control as any)({ position: "bottomleft" });
-    legend.onAdd = () => {
-      const div = L.DomUtil.create("div", "map-legend");
-      div.style.cssText = `
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(8px);
-        padding: 12px 16px;
-        border-radius: 12px;
-        box-shadow: 0 4px 16px rgba(0,0,0,0.15);
-        font-family: var(--font-body, system-ui, sans-serif);
-        font-size: 12px;
-        line-height: 1.6;
-        border: 1px solid rgba(0,0,0,0.1);
-      `;
-      div.innerHTML = `
-        <div style="font-weight: 700; margin-bottom: 8px; color: #241b16;">🗺️ Leyenda</div>
-        <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 4px;">
-          <span style="display: inline-block; width: 16px; height: 16px; background: linear-gradient(135deg, #10b981, #059669); border-radius: 4px;"></span>
-          <span>Con recetas</span>
-        </div>
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <span style="display: inline-block; width: 16px; height: 16px; background: linear-gradient(135deg, #ef4444, #dc2626); border-radius: 4px;"></span>
-          <span>Sin recetas</span>
-        </div>
-      `;
-      return div;
-    };
-    legend.addTo(map);
-
-    // Botones de acceso rápido actualizados para mapa mundial
-    const quickControls = (L.control as any)({ position: "topleft" });
-    quickControls.onAdd = () => {
-      const div = L.DomUtil.create("div", "quick-controls");
-      div.style.cssText = `
-        display: flex;
-        gap: 8px;
-        margin: 10px;
-      `;
-      div.innerHTML = `
-        <button id="btn-world" style="
-          font-family: var(--font-body, system-ui, sans-serif);
-          font-size: 13px;
-          font-weight: 700;
-          padding: 8px 16px;
-          border-radius: 9999px;
-          border: 2px solid #8b5cf6;
-          background: linear-gradient(135deg, #fffdf8, #f5f0eb);
-          color: #241b16;
-          cursor: pointer;
-          box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-          transition: all 0.2s ease;
-        ">🌍 Ver mundo</button>
-      `;
-      
-      setTimeout(() => {
-        const btnWorld = document.getElementById("btn-world");
-        
-        btnWorld?.addEventListener("click", () => {
-          map.flyTo([20, 0], 2, { duration: 1.5 });
+    const controller = new AbortController();
+    let disposed = false;
+    let map: LeafletMap | undefined;
+    let resize: ResizeObserver | undefined;
+    async function initialize() {
+      try {
+        const [L, response] = await Promise.all([
+          import("leaflet"),
+          fetch("/geo/world-countries.geojson", { signal: controller.signal }),
+        ]);
+        if (!response.ok) throw new Error("Map data unavailable");
+        const geography: FeatureCollection = await response.json();
+        if (disposed || !container.current) return;
+        map = L.map(container.current, {
+          zoomControl: false, attributionControl: false,
+          minZoom: 0, maxZoom: 9, zoomSnap: .25,
+          scrollWheelZoom: false, maxBounds: [[-75, -200], [85, 200]],
+          maxBoundsViscosity: 1,
         });
-      }, 100);
-      
-      return div;
-    };
-    quickControls.addTo(map);
+        mapRef.current = map;
+        map.fitBounds(WORLD_BOUNDS, { padding: [24, 24] });
+        L.control.zoom({ position: "topright", zoomInTitle: es ? "Acercar" : "Zoom in", zoomOutTitle: es ? "Alejar" : "Zoom out" }).addTo(map);
+        L.geoJSON(geography, {
+          style: feature => ({
+            className: `map-land${COUNTRIES.some(c => c.countryCode === feature?.properties.code) ? " map-land-available" : ""}`,
+            weight: 1, fillOpacity: 1,
+          }),
+          onEachFeature: (feature, layer) => {
+            const place = COUNTRIES.find(c => c.countryCode === feature.properties.code);
+            if (place) {
+              const label = document.createElement("span");
+              label.textContent = `${translatePlaceName(place, locale)} · ${t.place.recipes(COUNTS.get(place.id) ?? 0)}`;
+              layer.bindTooltip(label, { sticky: true });
+              layer.on("click", () => selectRef.current(place));
+            }
+          },
+        }).addTo(map);
 
-    // Hint de uso actualizado
-    const hint = (L.control as any)({ position: "bottomright" });
-    hint.onAdd = () => {
-      const div = L.DomUtil.create("div", "map-hint");
-      div.style.cssText = `
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(8px);
-        padding: 10px 14px;
-        border-radius: 9999px;
-        box-shadow: 0 2px 12px rgba(0,0,0,0.1);
-        font-family: var(--font-body, system-ui, sans-serif);
-        font-size: 12px;
-        color: #4a5568;
-        max-width: 250px;
-      `;
-      div.innerHTML = `
-        🗺️ Explora el mundo culinario • Haz zoom y click en los países
-      `;
-      return div;
-    };
-    hint.addTo(map);
-    }); // fin de loadLeaflet().then()
-
-    return () => {
-      cancelled = true;
-      if (mapRef.current) {
-        mapRef.current.remove();
-        mapRef.current = null;
+        const markers: LayerGroup = L.layerGroup().addTo(map);
+        let mexico: GeoJSONLayer | null = null;
+        const addMarker = (place: Place) => {
+          const count = COUNTS.get(place.id) ?? 0;
+          const name = translatePlaceName(place, locale);
+          const el = document.createElement("div");
+          el.className = "map-pin-inner";
+          const code = document.createElement("span");
+          code.textContent = place.type === "pais" ? place.countryCode : name;
+          el.append(code);
+          const total = document.createElement("small");
+          total.textContent = String(count);
+          el.append(total);
+          const marker = L.marker([place.lat, place.lng], {
+            icon: L.divIcon({ html: el, className: "map-pin", iconSize: [place.type === "pais" ? 64 : 135, 36], iconAnchor: [place.type === "pais" ? 32 : 67, 18] }),
+            title: `${name} · ${t.place.recipes(count)}`, alt: name, keyboard: true,
+          });
+          marker.on("click", () => selectRef.current(place));
+          markers.addLayer(marker);
+        };
+        const renderMarkers = () => {
+          if (!map) return;
+          markers.clearLayers();
+          const zoom = map.getZoom();
+          const candidates = zoom < 4.8 ? COUNTRIES : PLACES.filter(p => zoom < 6.8 ? p.type === "estado" || p.type === "region" : p.type !== "pais");
+          // Keep a single marker per screen position; overlapping labels are
+          // revealed as users zoom in. Every destination remains in the list.
+          const occupied: { x: number; y: number }[] = [];
+          candidates.filter(p => (COUNTS.get(p.id) ?? 0) > 0)
+            .sort((a, b) => (COUNTS.get(b.id) ?? 0) - (COUNTS.get(a.id) ?? 0))
+            .forEach(place => {
+              if (!map!.getBounds().contains([place.lat, place.lng])) return;
+              const point = map!.latLngToContainerPoint([place.lat, place.lng]);
+              if (occupied.some(p => Math.abs(p.x - point.x) < (zoom < 4.8 ? 72 : 145) && Math.abs(p.y - point.y) < 42)) return;
+              occupied.push(point);
+              addMarker(place);
+            });
+          if (mexico) {
+            if (zoom >= 4.8 && !map.hasLayer(mexico)) mexico.addTo(map);
+            if (zoom < 4.8 && map.hasLayer(mexico)) map.removeLayer(mexico);
+          }
+        };
+        map.on("moveend zoomend", renderMarkers);
+        renderMarkers();
+        resize = new ResizeObserver(() => { map?.invalidateSize({ pan: false }); });
+        resize.observe(container.current);
+        setStatus("ready");
+        // Optional regional detail must not prevent the world map from loading.
+        fetch("/geo/mexico-estados.geojson", { signal: controller.signal })
+          .then(r => { if (!r.ok) throw new Error("No regional geography"); return r.json(); })
+          .then(data => {
+            if (disposed || !map) return;
+            mexico = L.geoJSON(data, { interactive: false, style: { className: "map-state", weight: 1, fillOpacity: 0 } });
+            renderMarkers();
+          }).catch(() => { /* Country geometry and recipe markers remain usable. */ });
+      } catch {
+        if (!disposed) setStatus("error");
       }
+    }
+    void initialize();
+    return () => {
+      disposed = true;
+      controller.abort();
+      resize?.disconnect();
+      map?.remove();
+      mapRef.current = null;
     };
-  }, [router, locale, generateRecipeMarkers]);
+  }, [locale, es, t, attempt]);
 
   return (
-    <div className="relative w-full" role="region" aria-label={"Mapa interactivo de recetas mexicanas"}>
-      <div 
-        ref={ref} 
-        className="h-[520px] w-full overflow-hidden rounded-[var(--radius-xl2)] border border-line shadow-[var(--shadow-card)]"
-        style={{ minHeight: "520px" }}
-        role="application"
-        aria-label={"Mapa de México con ubicaciones de recetas"}
-      />
-      <style jsx global>{`
-        .leaflet-container {
-          font-family: var(--font-body, system-ui, sans-serif);
-        }
-        .leaflet-control-zoom {
-          border: none !important;
-          box-shadow: 0 2px 12px rgba(0,0,0,0.15) !important;
-        }
-        .leaflet-control-zoom-in, .leaflet-control-zoom-out {
-          background: rgba(255, 255, 255, 0.95) !important;
-          color: #241b16 !important;
-          border: 1px solid rgba(0,0,0,0.1) !important;
-          font-weight: 700 !important;
-          font-size: 18px !important;
-          width: 36px !important;
-          height: 36px !important;
-          line-height: 36px !important;
-        }
-        .leaflet-control-zoom-in:hover, .leaflet-control-zoom-out:hover {
-          background: #f5f0eb !important;
-        }
-        .marker-cluster-small, .marker-cluster-medium, .marker-cluster-large {
-          background: rgba(193, 68, 14, 0.4) !important;
-        }
-        .marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div {
-          background: rgba(193, 68, 14, 0.6) !important;
-          color: #fff !important;
-          font-weight: 700 !important;
-        }
-      `}</style>
-    </div>
+    <section className={`atlas${expanded ? " atlas-expanded" : ""}`} aria-label={t.home.mapTitle}>
+      <div className="atlas-toolbar">
+        <div className="atlas-title"><Compass size={20} aria-hidden="true" />{t.home.mapTitle}</div>
+        <div className="atlas-actions">
+          <button className="atlas-reset" type="button" onClick={reset} disabled={status !== "ready"}><Globe2 size={16} aria-hidden="true" />{t.map.reset.replace(/^\S+\s/, "")}</button>
+          <button className="icon-button" type="button" onClick={() => setExpanded(v => !v)} aria-pressed={expanded} aria-label={es ? (expanded ? "Reducir mapa" : "Ampliar mapa") : (expanded ? "Reduce map" : "Expand map")}>
+            {expanded ? <Minimize2 size={17} /> : <Maximize2 size={17} />}
+          </button>
+        </div>
+      </div>
+      <div className="atlas-content">
+        <div className="atlas-viewport">
+          <div ref={container} className="atlas-map" aria-label={es ? "Mapa mundial. Usa las flechas para moverte y los controles para acercar." : "World map. Use arrow keys to pan and the controls to zoom."} />
+          {status !== "ready" && <div className="map-status" role="status">
+            <Globe2 size={32} aria-hidden="true" />
+            <p>{status === "error" ? (es ? "No pudimos cargar el mapa. Puedes explorar los destinos de la lista." : "The map could not load. You can still explore the destination list.") : (es ? "Preparando tu próxima parada…" : "Preparing your next destination…")}</p>
+            {status === "error" && <button type="button" onClick={() => { setStatus("loading"); setAttempt(v => v + 1); }}>{es ? "Reintentar" : "Try again"}</button>}
+          </div>}
+        </div>
+        <aside className="atlas-sidebar" aria-label={t.home.countriesTitle}>
+          <div className="atlas-sidebar-heading"><h3>{t.home.countriesEyebrow}</h3><p>{es ? "Elige dónde empieza tu viaje" : "Choose where your journey begins"}</p></div>
+          <div className="atlas-country-list">
+            {COUNTRIES.map(country => <button type="button" key={country.id} className="atlas-country" aria-pressed={selected?.countryCode === country.countryCode} onClick={() => select(country)}>
+              <span className="atlas-country-code" aria-hidden="true">{country.countryCode}</span>
+              <span className="atlas-country-name">{translatePlaceName(country, locale)}</span>
+              <span className="atlas-country-count" aria-label={t.place.recipes(COUNTS.get(country.id) ?? 0)}>{COUNTS.get(country.id) ?? 0}</span>
+            </button>)}
+          </div>
+          <div className="atlas-selection" aria-live="polite">
+            {selected ? <>
+              <strong>{translatePlaceName(selected, locale)}</strong>
+              <p>{t.place.recipes(COUNTS.get(selected.id) ?? 0)}</p>
+              <Link className="primary-button" href={placeHref(locale, selected)}>{t.home.exploreCountry}<ArrowUpRight size={17} aria-hidden="true" /></Link>
+            </> : <><strong>{es ? "Del mapa a tu mesa." : "From the map to your table."}</strong><p>{es ? "Selecciona un destino y descubre sus sabores." : "Select a destination and discover its flavors."}</p></>}
+          </div>
+        </aside>
+      </div>
+      <div className="atlas-caption"><span>{es ? "Arrastra para explorar · Acerca para descubrir regiones" : "Drag to explore · Zoom in to discover regions"}</span><span>© <a href="https://www.naturalearthdata.com/" target="_blank" rel="noreferrer">Natural Earth</a></span></div>
+    </section>
   );
 }

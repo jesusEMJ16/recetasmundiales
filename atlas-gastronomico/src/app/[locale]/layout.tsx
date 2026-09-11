@@ -78,19 +78,18 @@ export default async function LocaleLayout({
   if (!isLocale(locale)) notFound();
 
   return (
-    <html lang={localeMeta[locale].htmlLang}>
-      <body className="min-h-screen">
+    <div className="min-h-screen" lang={localeMeta[locale].htmlLang}>
         <Analytics />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
         />
+        <a className="skip-link" href="#main-content">{locale === "es" ? "Saltar al contenido" : "Skip to content"}</a>
         <SiteHeader locale={locale} />
-        <main className="mx-auto max-w-6xl px-4 py-8">{children}</main>
-        <footer className="mx-auto max-w-6xl px-4 pb-10 pt-6 text-center text-xs text-ink-faint">
-          Atlas Gastronómico — recetas con procedencia. Fotos con licencia abierta (Wikimedia Commons).
+        <main id="main-content" className="site-shell">{children}</main>
+        <footer className="site-footer">
+          <strong>WorldBites.</strong><span>{getDictionary(locale).header.tagline} · Wikimedia Commons</span>
         </footer>
-      </body>
-    </html>
+      </div>
   );
 }

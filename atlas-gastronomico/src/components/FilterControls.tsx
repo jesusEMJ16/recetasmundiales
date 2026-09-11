@@ -45,7 +45,7 @@ export function FilterControls() {
         <span className="flex items-center gap-2.5">
           <span className="text-lg">⚗️</span>
           <span className="font-display text-base text-ink">{t.filters.title}</span>
-          {activeCount > 0 && <span className="rounded-full bg-terracota px-2 py-0.5 text-xs font-bold text-white">{activeCount}</span>}
+          {activeCount > 0 && <span className="rounded-full bg-agave px-2 py-0.5 text-xs font-bold text-white">{activeCount}</span>}
         </span>
         <span className="flex items-center gap-3">
           {activeCount > 0 && (

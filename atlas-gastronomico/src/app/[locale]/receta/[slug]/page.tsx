@@ -254,11 +254,11 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
       )}
 
       <section className="grid gap-8 md:grid-cols-[0.9fr_1.1fr]">
-        <div className="rounded-[var(--radius-xl2)] border border-line bg-card p-5 shadow-[var(--shadow-card)] md:sticky md:top-20 md:self-start">
+        <div className="rounded-[var(--radius-xl2)] border border-line bg-card p-5 shadow-[var(--shadow-card)] md:sticky md:top-28 md:self-start">
           <h2 className="font-display text-xl text-ink">{t.recipe.ingredients}</h2>
           <ul className="mt-3 space-y-2">
             {recipe.ingredients.map((i, idx) => (
-              <li key={idx} className="flex gap-2.5 text-sm text-ink-soft">
+              <li key={idx} className="flex gap-2.5 text-base text-ink-soft">
                 <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-terracota" />
                 <span>{i.text}{i.optional ? <em className="text-ink-faint"> ({t.recipe.optional})</em> : ""}</span>
               </li>
@@ -272,7 +272,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
               const stepText = typeof s === 'string' ? s : s.text;
               return (
                 <li key={idx} className="flex gap-3.5">
-                  <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-terracota font-display text-sm font-semibold text-paper">
+                  <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-agave font-display text-sm font-semibold text-white">
                     {idx + 1}
                   </span>
                   <p className="pt-1 leading-relaxed text-ink-soft">{stepText}</p>
