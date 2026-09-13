@@ -17,17 +17,16 @@
     "en",
     "zh",
     "hi",
+    "fr",
     "ar",
     "bn",
-    "ur",
-    "ja"
-  ],
-  "pendingContentLocales": [
-    "fr",
     "pt",
     "ru",
-    "id"
+    "ur",
+    "id",
+    "ja"
   ],
+  "pendingContentLocales": [],
   "countryTotals": [
     {
       "code": "MX",
@@ -85,20 +84,21 @@
       "recipes": 1
     }
   ],
-  "coverageStatus": "partial: missing translations display the Spanish original; 1889 recipe-language pages have translated content",
-  "translationNotes": "Saved translations are preserved. Search labels are generated before the Netlify build. Recipe language, hreflang and sitemap eligibility are resolved per recipe. Missing translations display a localized notice and are not indexed as completed translations. Separate checkpoint tail fragments remain unmerged.",
+  "coverageStatus": "complete: all 198 recipes available in all 12 locales; 2376 recipe-language pages",
+  "translationNotes": "Completed French, Portuguese, Russian and Indonesian. Integrated all 59 checkpoint fragments and authored 428 remaining translations. Existing checkpoint files remain unchanged. Search index is generated before Netlify builds; per-recipe language, hreflang and sitemap checks remain in place for future additions. No new numeric equivalence exemptions required.",
   "availableTranslationCounts": {
     "es": 198,
-    "ja": 198,
-    "zh": 198,
-    "fr": 140,
-    "ar": 198,
-    "id": 60,
-    "hi": 198,
-    "ru": 45,
-    "bn": 198,
-    "ur": 198,
     "en": 198,
-    "pt": 60
-  }
+    "zh": 198,
+    "hi": 198,
+    "fr": 198,
+    "ar": 198,
+    "bn": 198,
+    "pt": 198,
+    "ru": 198,
+    "ur": 198,
+    "id": 198,
+    "ja": 198
+  },
+  "translationsCompletedAt": "2026-09-13"
 }

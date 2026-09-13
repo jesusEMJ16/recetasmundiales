@@ -11,8 +11,6 @@ import sitemap from "../app/sitemap";
 import { generateMetadata } from "../app/[locale]/receta/[slug]/page";
 import reviewedNumbers from "../../docs/recipe-number-equivalences.json";
 
-const savedCounts = { en: 198, zh: 198, hi: 198, fr: 140, ar: 198, bn: 198, pt: 60, ru: 45, ur: 198, id: 60, ja: 198 };
-
 describe("reviewed recipe catalog", () => {
   it("uses the selected language and the correct reading direction", () => {
     for (const locale of locales) {
@@ -67,7 +65,7 @@ describe("reviewed recipe catalog", () => {
     };
     for (const locale of locales.filter(l => l !== "es")) {
       const translatedIds = Object.keys(recipeTranslations[locale]);
-      expect(translatedIds).toHaveLength(savedCounts[locale]);
+      expect(translatedIds, locale).toHaveLength(198);
       expect(translatedIds.every(id => RECIPES.some(recipe => recipe.id === id))).toBe(true);
       for (const recipe of RECIPES.filter(recipe => recipeTranslations[locale][recipe.id])) {
         const translated = translateRecipe(recipe, locale);
@@ -110,13 +108,14 @@ describe("reviewed recipe catalog", () => {
     }
   });
 
-  it("uses twelve search labels and indexes only the 1889 available recipe translations", () => {
+  it("uses twelve search labels and indexes all 2376 recipe translations", () => {
     expect(recipeSearch).toHaveLength(198);
     const recipeEntries = sitemap().filter(entry => /\/receta\//.test(entry.url));
-    expect(recipeEntries).toHaveLength(1889);
-    expect(new Set(recipeEntries.map(entry => entry.url)).size).toBe(1889);
+    expect(recipeEntries).toHaveLength(2376);
+    expect(new Set(recipeEntries.map(entry => entry.url)).size).toBe(2376);
     for (const locale of locales) {
       for (const recipe of RECIPES) {
+        expect(getRecipeLocales(recipe.id), recipe.id).toEqual(locales);
         const search = recipeSearch.find(entry => entry.id === recipe.id);
         expect(search?.slug).toBe(recipe.slug);
         const url = `https://worldbitesapp.com/${locale}/receta/${recipe.slug}`;
@@ -131,8 +130,9 @@ describe("reviewed recipe catalog", () => {
 
   it("renders missing translations from the original without altering recipe data", () => {
     for (const locale of ["fr", "pt", "ru", "id"] as const) {
-      const missing = RECIPES.find(recipe => !recipeTranslations[locale][recipe.id])!;
-      expect(missing).toBeDefined();
+      // Exercise the fallback with a future recipe, without requiring an
+      // intentionally incomplete production catalog.
+      const missing = { ...RECIPES[0], id: "r-future-untranslated-recipe" };
       expect(translateRecipe(missing, locale)).toBe(missing);
       expect(recipeContentLocale(locale, missing.id)).toBe("es");
       expect(getRecipeLocales(missing.id)).not.toContain(locale);
@@ -143,11 +143,17 @@ describe("reviewed recipe catalog", () => {
   });
 
   it("excludes fallback pages from indexing and hreflang while keeping translated pages available", async () => {
-    const missing = RECIPES.find(recipe => !recipeTranslations.fr[recipe.id])!;
-    const fallback = await generateMetadata({ params: Promise.resolve({ locale: "fr", slug: missing.slug }) });
-    expect(fallback.robots).toEqual({ index: false, follow: true });
-    expect(fallback.alternates?.languages).not.toHaveProperty("fr");
-    expect(fallback.openGraph).toMatchObject({ locale: "es" });
+    const recipe = RECIPES[0];
+    const saved = recipeTranslations.fr[recipe.id];
+    try {
+      delete recipeTranslations.fr[recipe.id];
+      const fallback = await generateMetadata({ params: Promise.resolve({ locale: "fr", slug: recipe.slug }) });
+      expect(fallback.robots).toEqual({ index: false, follow: true });
+      expect(fallback.alternates?.languages).not.toHaveProperty("fr");
+      expect(fallback.openGraph).toMatchObject({ locale: "es" });
+    } finally {
+      recipeTranslations.fr[recipe.id] = saved;
+    }
     const translated = await generateMetadata({ params: Promise.resolve({ locale: "fr", slug: RECIPES[0].slug }) });
     expect(translated.robots).toEqual({ index: true, follow: true });
     expect(translated.alternates?.languages).toHaveProperty("fr");

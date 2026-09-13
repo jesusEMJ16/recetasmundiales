@@ -821,7 +821,7 @@
       "ar": "كارنيتاس ميتشواكان",
       "bn": "মিচোয়াকানের কার্নিতাস",
       "pt": "Carnitas de Michoacán",
-      "ru": "Carnitas michoacanas",
+      "ru": "Карнитас по-мичоакански",
       "ur": "میچوآکان کی کارنیتاس",
       "id": "Carnitas michoacanas (carnitas Michoacán)",
       "ja": "ミチョアカンのカルニータス"
@@ -839,7 +839,7 @@
       "ar": "كورونداس (تاماليس مثلثة من ميتشواكان)",
       "bn": "কোরুন্দাস (মিচোয়াকানের ত্রিকোণ তামাল)",
       "pt": "Corundas (tamales triangulares de Michoacán)",
-      "ru": "Corundas",
+      "ru": "Корундас — треугольные тамали Мичоакана",
       "ur": "کورونداس (میچوآکان کے تکونی تمال)",
       "id": "Corundas (tamal segitiga Michoacán)",
       "ja": "コルンダ（ミチョアカンの三角タマレス）"
@@ -857,7 +857,7 @@
       "ar": "بارباكوا دي بوريغو (لحم ضأن مطهو في حفرة)",
       "bn": "বারবাকোয়া দে বোরেগো (গর্তে রান্না ভেড়ার মাংস)",
       "pt": "Barbacoa de cordeiro em forno de terra",
-      "ru": "Barbacoa de borrego",
+      "ru": "Барбакоа из баранины",
       "ur": "بارباکوآ دے بوریگو (گڑھے میں پکا بھیڑ کا گوشت)",
       "id": "Barbacoa de borrego (domba masak lubang tanah)",
       "ja": "バルバコア・デ・ボレゴ（羊肉の地中蒸し焼き）"
@@ -875,7 +875,7 @@
       "ar": "تاكو دي كاناستا (تاكو السلة)",
       "bn": "টাকোস দে কানাস্তা (ঝুড়ির টাকো)",
       "pt": "Tacos de canasta (tacos de cesta)",
-      "ru": "Tacos de canasta",
+      "ru": "Тако де канаста — тако из корзины",
       "ur": "ٹاکوس دے کناستا (ٹوکری کے ٹاکو)",
       "id": "Tacos de canasta (taco keranjang)",
       "ja": "タコス・デ・カナスタ（籠のタコス）"
@@ -893,7 +893,7 @@
       "ar": "كيسادياس دي كومال (كيساديا على الصاج)",
       "bn": "কেসাদিয়াস দে কোমাল (তাওয়ার কেসাদিয়া)",
       "pt": "Quesadillas de comal",
-      "ru": "Quesadillas de comal",
+      "ru": "Кесадильи на комале",
       "ur": "توے کے کیسادیا",
       "id": "Quesadillas de comal (quesadilla pelat panggang)",
       "ja": "ケサディージャス・デ・コマル（鉄板焼きケサディージャ）"
@@ -911,7 +911,7 @@
       "ar": "باستيس إيدالغو (فطائر محشوة من إيدالغو)",
       "bn": "পাস্তেস ইদালগেন্সেস (ইদালগোর প্যাস্টি)",
       "pt": "Pastes de Hidalgo",
-      "ru": "Pastes hidalguenses",
+      "ru": "Пастес из Идальго",
       "ur": "ایدالگو کے پاستیس (بھری پیسٹری)",
       "id": "Pastes hidalguenses (pastel Hidalgo)",
       "ja": "パステス・イダルゲンセス（イダルゴのパスティ）"
@@ -929,7 +929,7 @@
       "ar": "سيسينا ييكابيكستلا (لحم بقري مملح من ييكابيكستلا)",
       "bn": "সেসিনা দে ইয়েকাপিস্তলা (ইয়েকাপিস্তলার নোনতা গরুর মাংস)",
       "pt": "Cecina de Yecapixtla (carne bovina salgada)",
-      "ru": "Cecina de Yecapixtla",
+      "ru": "Сесина из Йекапистлы",
       "ur": "ییکاپکستلا کی سیسینا (نمک لگا گائے کا گوشت)",
       "id": "Cecina de Yecapixtla (sapi asin Yecapixtla)",
       "ja": "ジェカピストラのセシーナ（塩漬け牛肉）"
@@ -947,7 +947,7 @@
       "ar": "ميشيوتيس بالدجاج",
       "bn": "মিশিওতেস দে পোইয়ো (মুরগির মিশিওতে)",
       "pt": "Mixiotes de frango",
-      "ru": "Mixiotes de pollo",
+      "ru": "Миксиотес с курицей",
       "ur": "مرغی کے مکسیوتے",
       "id": "Mixiotes de pollo (mixiote ayam)",
       "ja": "鶏肉のミシオテ"
@@ -965,9 +965,9 @@
       "ar": "كوتشينيتا بيبيل",
       "bn": "কোচিনিতা পিবিল",
       "pt": "Cochinita pibil",
-      "ru": "Cochinita pibil",
+      "ru": "Кочинита пибиль",
       "ur": "کوچینیتا پیبیل",
-      "id": "Cochinita pibil",
+      "id": "Cochinita Pibil",
       "ja": "コチニータ・ピビル"
     }
   },
@@ -983,9 +983,9 @@
       "ar": "سوبا دي ليما (حساء الليما)",
       "bn": "সোপা দে লিমা (লিমার স্যুপ)",
       "pt": "Sopa de lima",
-      "ru": "Sopa de lima",
+      "ru": "Сопа-де-лима",
       "ur": "سوپا دے لیما (لیما سوپ)",
-      "id": "Sopa de lima",
+      "id": "Sopa de Lima (Sup Jeruk Lima)",
       "ja": "ソパ・デ・リマ（リマのスープ）"
     }
   },
@@ -1001,7 +1001,7 @@
       "ar": "بانوتشوس",
       "bn": "পানুচোস",
       "pt": "Panuchos",
-      "ru": "Panuchos",
+      "ru": "Панучос",
       "ur": "پانوچوس",
       "id": "Panuchos",
       "ja": "パヌーチョ"
@@ -1019,7 +1019,7 @@
       "ar": "بابادسوليس",
       "bn": "পাপাদসুলেস",
       "pt": "Papadzules",
-      "ru": "Papadzules",
+      "ru": "Пападсулес",
       "ur": "پاپادسولیس",
       "id": "Papadzules",
       "ja": "パパズレス"
@@ -1037,9 +1037,9 @@
       "ar": "بان دي كاسون",
       "bn": "পান দে কাসোন",
       "pt": "Pan de cazón",
-      "ru": "Pan de cazón",
+      "ru": "Пан-де-касон",
       "ur": "پان دے کاسون",
-      "id": "Pan de cazón",
+      "id": "Pan de Cazón",
       "ja": "パン・デ・カソン"
     }
   },
@@ -1055,9 +1055,9 @@
       "ar": "بوسولي فيردي (بوسولي أخضر)",
       "bn": "পোসোলে ভের্দে (সবুজ পোসোলে)",
       "pt": "Pozole verde",
-      "ru": "Pozole verde",
+      "ru": "Зелёное посоле",
       "ur": "پوسولے ویردے (سبز پوسولے)",
-      "id": "Pozole verde",
+      "id": "Pozole Verde (Pozole Hijau)",
       "ja": "ポソレ・ベルデ（緑のポソレ）"
     }
   },
@@ -1073,9 +1073,9 @@
       "ar": "بيسكادو آ لا تايا (سمك مشوي مدعوك بالفلفل)",
       "bn": "পেস্কাদো আ লা তাইয়া (লঙ্কা মাখানো গ্রিল মাছ)",
       "pt": "Pescado a la talla",
-      "ru": "Pescado a la talla",
+      "ru": "Пескадо-а-ла-талья",
       "ur": "پیسکاڈو آ لا تایا (مرچ لگا گرل مچھلی)",
-      "id": "Pescado a la talla",
+      "id": "Pescado a la Talla (Ikan Panggang Bumbu Cabai)",
       "ja": "ペスカド・ア・ラ・タジャ（唐辛子だれの魚のグリル）"
     }
   },
@@ -1091,9 +1091,9 @@
       "ar": "مولي أماريو (مولي أصفر)",
       "bn": "মোলে আমারিয়ো (হলুদ মোলে)",
       "pt": "Mole amarillo",
-      "ru": "Mole amarillo",
+      "ru": "Жёлтый моле",
       "ur": "مولے آمارییو (زرد مولے)",
-      "id": "Mole amarillo",
+      "id": "Mole Amarillo (Mole Kuning)",
       "ja": "モレ・アマリージョ（黄色いモレ）"
     }
   },
@@ -1108,10 +1108,10 @@
       "fr": "Memelas d’Oaxaca",
       "ar": "ميميلاس أواكساكا",
       "bn": "ওয়াহাকার মেমেলাস",
-      "pt": "Memelas oaxaqueñas",
-      "ru": "Memelas oaxaqueñas",
+      "pt": "Memelas de Oaxaca",
+      "ru": "Оахакские мемелас",
       "ur": "اوآخاکا کی میمیلاس",
-      "id": "Memelas oaxaqueñas",
+      "id": "Memelas Khas Oaxaca",
       "ja": "オアハカのメメラス"
     }
   },
@@ -1127,7 +1127,7 @@
       "ar": "تيخاتي",
       "bn": "তেহাতে",
       "pt": "Tejate",
-      "ru": "Tejate",
+      "ru": "Техате",
       "ur": "تیخاتے",
       "id": "Tejate",
       "ja": "テハテ"
@@ -1144,10 +1144,10 @@
       "fr": "Cochito horneado (porc au four)",
       "ar": "كوتشيتو أورنيادو (لحم خنزير بالفرن)",
       "bn": "কোচিতো ওরনেয়াদো (বেক করা শূকরের মাংস)",
-      "pt": "Cochito horneado",
-      "ru": "Cochito horneado",
+      "pt": "Cochito assado",
+      "ru": "Кочито орнеадо — запечённая свинина",
       "ur": "کوچیتو اورنیادو (بیک کیا سور کا گوشت)",
-      "id": "Cochito horneado",
+      "id": "Cochito Horneado (Babi Panggang)",
       "ja": "コチート・オルネアード（豚肉のオーブン焼き）"
     }
   },
@@ -1163,9 +1163,9 @@
       "ar": "تاماليس تشيبيلين",
       "bn": "চিপিলিন তামালেস",
       "pt": "Tamales de chipilín",
-      "ru": "Tamales de chipilín",
+      "ru": "Тамали с чипилином",
       "ur": "چیپیلین تمال",
-      "id": "Tamales de chipilín",
+      "id": "Tamales Chipilín",
       "ja": "チピリンのタマレス"
     }
   },
@@ -1180,10 +1180,10 @@
       "fr": "Pejelagarto asado (lépisosté grillé)",
       "ar": "بيخي لاغارتو أسادو (سمك الغار المشوي)",
       "bn": "পেহেলাগারতো আসাদো (গ্রিল করা গার মাছ)",
-      "pt": "Pejelagarto asado",
-      "ru": "Pejelagarto asado",
+      "pt": "Pejelagarto assado",
+      "ru": "Пехелагарто на углях",
       "ur": "پیخےلاگارتو آسادو (گرل گار مچھلی)",
-      "id": "Pejelagarto asado",
+      "id": "Pejelagarto Asado (Ikan Gar Panggang)",
       "ja": "ペヘラガルト・アサード（ガーの炭火焼き）"
     }
   },
@@ -1198,10 +1198,10 @@
       "fr": "Huachinango a la veracruzana (vivaneau rouge de Veracruz)",
       "ar": "واتشينانغو آ لا فيراكروسانا (نهاش أحمر على طريقة فيراكروز)",
       "bn": "উয়াচিনাঙ্গো আ লা ভেরাক্রুসানা (ভেরাক্রুসের রেড স্ন্যাপার)",
-      "pt": "Huachinango a la veracruzana",
-      "ru": "Huachinango a la veracruzana",
+      "pt": "Huachinango à veracruzana",
+      "ru": "Красный луциан по-веракрусски",
       "ur": "واچینانگو آ لا ویراکروسانا (ویراکروز طرز کی ریڈ اسنیپر)",
-      "id": "Huachinango a la veracruzana",
+      "id": "Huachinango a la Veracruzana (Kakap Merah Gaya Veracruz)",
       "ja": "ウアチナンゴ・ア・ラ・ベラクルサーナ（ベラクルス風レッドスナッパー）"
     }
   },
@@ -1216,10 +1216,10 @@
       "fr": "Picadas de Veracruz",
       "ar": "بيكاداس على طريقة فيراكروز",
       "bn": "ভেরাক্রুস ধাঁচের পিকাদাস",
-      "pt": "Picadas veracruzanas",
-      "ru": "Picadas veracruzanas",
+      "pt": "Picadas à moda de Veracruz",
+      "ru": "Пикадас по-веракрусски",
       "ur": "ویراکروز طرز کی پیکاداس",
-      "id": "Picadas veracruzanas",
+      "id": "Picadas Gaya Veracruz",
       "ja": "ベラクルス風ピカーダス"
     }
   },
@@ -1235,9 +1235,9 @@
       "ar": "تيكين شيك",
       "bn": "তিকিন শিক",
       "pt": "Tikin xic",
-      "ru": "Tikin xic",
+      "ru": "Тикин-шик",
       "ur": "تیکین شیک",
-      "id": "Tikin xic",
+      "id": "Tikin Xic",
       "ja": "ティキン・シック"
     }
   },
@@ -1253,7 +1253,7 @@
       "ar": "مولي بوبلانو",
       "bn": "মোলে পোবলানো",
       "pt": "Mole poblano",
-      "ru": "Mole poblano",
+      "ru": "Моле поблано",
       "ur": "مولے پوبلانو",
       "id": "Mole poblano",
       "ja": "モレ・ポブラーノ"
@@ -1271,7 +1271,7 @@
       "ar": "تينغا بوبلانا",
       "bn": "তিঙ্গা পোবলানা",
       "pt": "Tinga poblana",
-      "ru": "Tinga poblana",
+      "ru": "Тинга поблана",
       "ur": "تینگا پوبلانا",
       "id": "Tinga poblana",
       "ja": "ティンガ・ポブラーナ"
@@ -1289,7 +1289,7 @@
       "ar": "غايينا بينتا",
       "bn": "গাইয়িনা পিন্তা",
       "pt": "Gallina pinta",
-      "ru": "Gallina pinta",
+      "ru": "Гальина пинта",
       "ur": "گایینا پینتا",
       "id": "Gallina pinta",
       "ja": "ガジーナ・ピンタ"
@@ -1307,7 +1307,7 @@
       "ar": "كوريكوس موكوريتو",
       "bn": "মোকোরিতোর কোরিকোস",
       "pt": "Coricos de Mocorito",
-      "ru": "Coricos de Mocorito",
+      "ru": "Корикос из Мокорито",
       "ur": "موکوریتو کے کوریکوس",
       "id": "Coricos de Mocorito",
       "ja": "モコリトのコリコス"
@@ -1324,10 +1324,10 @@
       "fr": "Pescado zarandeado de Mazatlán",
       "ar": "بيسكادو ساراندِيادو على طريقة ماساتلان",
       "bn": "মাসাতলান ধাঁচের পেস্কাদো সারানদেয়াদো",
-      "pt": "Pescado zarandeado estilo Mazatlán",
-      "ru": "Pescado zarandeado estilo Mazatlán",
+      "pt": "Pescado zarandeado à moda de Mazatlán",
+      "ru": "Пескадо сарандеадо по-масатлански",
       "ur": "ماساتلان طرز کی پیسکاڈو زارانڈیاڈو",
-      "id": "Pescado zarandeado estilo Mazatlán",
+      "id": "Pescado zarandeado ala Mazatlan",
       "ja": "マサトラン風ペスカド・サランデアード"
     }
   },
@@ -1342,10 +1342,10 @@
       "fr": "Truite de la Sierra Tarahumara",
       "ar": "تروتة سييرا تاراهومارا",
       "bn": "সিয়েরা তারাউমারার ট্রাউট",
-      "pt": "Trucha de la Sierra Tarahumara",
-      "ru": "Trucha de la Sierra Tarahumara",
+      "pt": "Truta da Sierra Tarahumara",
+      "ru": "Форель Сьерра-Тараумары",
       "ur": "سییرا تاراؤمارا کی ٹراؤٹ",
-      "id": "Trucha de la Sierra Tarahumara",
+      "id": "Trout Sierra Tarahumara",
       "ja": "シエラ・タラウマラのます"
     }
   },
@@ -1360,10 +1360,10 @@
       "fr": "Pan de pulque de Saltillo (pain au pulque)",
       "ar": "خبز البولكي من سالتيو",
       "bn": "সালতিয়োর পান দে পুলকে (পুলকের রুটি)",
-      "pt": "Pan de pulque de Saltillo",
-      "ru": "Pan de pulque de Saltillo",
+      "pt": "Pão de pulque de Saltillo",
+      "ru": "Пан-де-пульке из Сальтильо",
       "ur": "سالتییو کی پان دے پلکے (پلکے روٹی)",
-      "id": "Pan de pulque de Saltillo",
+      "id": "Pan de pulque Saltillo (roti pulque)",
       "ja": "サルティージョのパン・デ・プルケ（プルケのパン）"
     }
   },
@@ -1379,9 +1379,9 @@
       "ar": "كورتاديو كواترو سيينيغاس",
       "bn": "কুয়াত্রো সিয়েনেগাসের কোরতাদিয়ো",
       "pt": "Cortadillo de Cuatro Ciénegas",
-      "ru": "Cortadillo de Cuatro Ciénegas",
+      "ru": "Кортадильо из Куатро-Сьенегаса",
       "ur": "کواترو سیینیگاس کا کورتادییو",
-      "id": "Cortadillo de Cuatro Ciénegas",
+      "id": "Cortadillo de Cuatro Cienegas",
       "ja": "クアトロ・シエネガスのコルタディージョ"
     }
   },
@@ -1397,7 +1397,7 @@
       "ar": "غلورياس ليناريس",
       "bn": "লিনারেসের গ্লোরিয়াস",
       "pt": "Glorias de Linares",
-      "ru": "Glorias de Linares",
+      "ru": "Глориас из Линареса",
       "ur": "لیناریس کی گلوریاس",
       "id": "Glorias de Linares",
       "ja": "リナレスのグロリアス"
@@ -1415,7 +1415,7 @@
       "ar": "إنشيلاداس تولتيكاس",
       "bn": "এনচিলাদাস তুলতেকাস",
       "pt": "Enchiladas tultecas",
-      "ru": "Enchiladas tultecas",
+      "ru": "Энчиладас тультекас",
       "ur": "اینچیلاداس تولتیکاس",
       "id": "Enchiladas tultecas",
       "ja": "エンチラーダス・トゥルテカス"
@@ -1432,10 +1432,10 @@
       "fr": "Gorditas sucrées au four de Durango",
       "ar": "غورديتاس مخبوزة على طريقة دورانغو",
       "bn": "দুরাঙ্গো ধাঁচের বেক করা গোরদিতা",
-      "pt": "Gorditas de horno duranguenses",
-      "ru": "Gorditas de horno duranguenses",
+      "pt": "Gorditas assadas à moda de Durango",
+      "ru": "Печеные гордитас по-дурангски",
       "ur": "دورانگو طرز کی بیک گوردیتاس",
-      "id": "Gorditas de horno duranguenses",
+      "id": "Gordita panggang ala Durango",
       "ja": "ドゥランゴ風焼きゴルディータ"
     }
   },
@@ -1451,7 +1451,7 @@
       "ar": "إنشيلاداس ساكاتيكاناس",
       "bn": "এনচিলাদাস সাকাতেকানাস",
       "pt": "Enchiladas zacatecanas",
-      "ru": "Enchiladas zacatecanas",
+      "ru": "Энчиладас сакатеканас",
       "ur": "زاکاتیکاس کے اینچیلادا",
       "id": "Enchiladas zacatecanas",
       "ja": "エンチラーダス・サカテカーナス"
@@ -1468,10 +1468,10 @@
       "fr": "Langouste façon Puerto Nuevo",
       "ar": "كركند على طريقة بويرتو نويفو",
       "bn": "পুয়েরতো নুয়েভো ধাঁচের লবস্টার",
-      "pt": "Langosta estilo Puerto Nuevo",
-      "ru": "Langosta estilo Puerto Nuevo",
+      "pt": "Lagosta à moda de Puerto Nuevo",
+      "ru": "Лобстер по-пуэрто-нуэвски",
       "ur": "پوئرٹو نوئیوو طرز کا لابسٹر",
-      "id": "Langosta estilo Puerto Nuevo",
+      "id": "Lobster ala Puerto Nuevo",
       "ja": "プエルト・ヌエボ風ロブスター"
     }
   },
@@ -1486,10 +1486,10 @@
       "fr": "Ceviche de marlin fumé",
       "ar": "سيفيتشي المارلن المدخن",
       "bn": "স্মোক করা মার্লিনের সেভিচে",
-      "pt": "Ceviche de marlín ahumado",
-      "ru": "Ceviche de marlín ahumado",
+      "pt": "Ceviche de marlim defumado",
+      "ru": "Севиче из копченого марлина",
       "ur": "دھوئیں میں پکی مارلن کا سیویچے",
-      "id": "Ceviche de marlín ahumado",
+      "id": "Ceviche marlin asap",
       "ja": "燻製カジキのセビーチェ"
     }
   },
@@ -1505,7 +1505,7 @@
       "ar": "تشاراليس باتسكوارو المقلية",
       "bn": "পাৎসকুয়ারোর ভাজা চারালেস",
       "pt": "Charales fritos de Pátzcuaro",
-      "ru": "Charales fritos de Pátzcuaro",
+      "ru": "Жареные чаралес из Пацкуаро",
       "ur": "پاتسکوارو کے تلے چارالیس",
       "id": "Charales goreng Pátzcuaro",
       "ja": "パツクアロのチャラレスの唐揚げ"
@@ -1523,7 +1523,7 @@
       "ar": "تشوريبو",
       "bn": "চুরিপো",
       "pt": "Churipo",
-      "ru": "Churipo",
+      "ru": "Чурипо",
       "ur": "چوریپو",
       "id": "Churipo",
       "ja": "チュリポ"
@@ -1541,7 +1541,7 @@
       "ar": "كانتاريتوس تيكيلا",
       "bn": "তেকিলার কান্তারিতোস",
       "pt": "Cantaritos de Tequila",
-      "ru": "Cantaritos de Tequila",
+      "ru": "Кантаритос из Текилы",
       "ur": "تیکیلا کے کانتاریتوس",
       "id": "Cantaritos de Tequila",
       "ja": "テキーラのカンタリートス"
@@ -1559,7 +1559,7 @@
       "ar": "إل بوتي دي ماساميتلا",
       "bn": "মাসামিতলার এল বোতে",
       "pt": "El Bote de Mazamitla",
-      "ru": "El bote de Mazamitla",
+      "ru": "Эль-боте из Масамитлы",
       "ur": "مازامیتلا کا ایل بوتے",
       "id": "El Bote de Mazamitla",
       "ja": "マサミトラのエル・ボテ"
@@ -1577,7 +1577,7 @@
       "ar": "بوريغو آل باستور على طريقة تابالبا (لحم حمل)",
       "bn": "তাপালপা ধাঁচের বোরেগো আল পাস্তোর (ভেড়ার মাংস)",
       "pt": "Cordeiro al pastor ao estilo de Tapalpa",
-      "ru": "Borrego al pastor de Tapalpa",
+      "ru": "Баранина аль-пастор по-тапальпски",
       "ur": "تاپالپا طرز کا بوریگو ال پاستور (بھیڑ کا گوشت)",
       "id": "Borrego al pastor ala Tapalpa (domba)",
       "ja": "タパルパ風ボレゴ・アル・パストール（羊肉）"
@@ -1595,7 +1595,7 @@
       "ar": "مثلجات الأفوكادو من دولوريس إيدالغو",
       "bn": "দোলোরেস ইদালগোর অ্যাভোকাডো বরফ-মিষ্টি",
       "pt": "Sorvete de abacate de Dolores Hidalgo",
-      "ru": "Nieve de aguacate de Dolores Hidalgo",
+      "ru": "Сорбет из авокадо из Долорес-Идальго",
       "ur": "دولوریس ایدالگو کی ایووکاڈو آئس",
       "id": "Es alpukat Dolores Hidalgo",
       "ja": "ドローレス・イダルゴのアボカドアイス"
@@ -1613,7 +1613,7 @@
       "ar": "فيامبري على طريقة سان ميغيل دي أليندي",
       "bn": "সান মিগেল দে আইয়েন্দে ধাঁচের ফিয়ামব্রে",
       "pt": "Fiambre à moda de San Miguel de Allende",
-      "ru": "Fiambre estilo San Miguel de Allende",
+      "ru": "Фиамбре по-сан-мигельски",
       "ur": "سان میگیل دے آیندے طرز کا فیامبرے",
       "id": "Fiambre ala San Miguel de Allende",
       "ja": "サン・ミゲル・デ・アジェンデ風フィアンブレ"
@@ -1631,9 +1631,9 @@
       "ar": "غورديتاس ميغاخاس من برنال",
       "bn": "বেরনালের মিগাহাস গোরদিতা",
       "pt": "Gorditas de migajas de Bernal",
-      "ru": "Gorditas de migajas de Bernal",
+      "ru": "Гордитас с мигас из Берналя",
       "ur": "برنال کی میگاخاس گوردیتاس",
-      "id": "Gorditas de migajas de Bernal",
+      "id": "Gorditas Migajas Khas Bernal",
       "ja": "ベルナルのミガハス入りゴルディータ"
     }
   },
@@ -1648,10 +1648,10 @@
       "fr": "Langue de bœuf lardée de Tequisquiapan",
       "ar": "لسان بقري مدسوس باللحم المقدد من تيكيسكيابان",
       "bn": "তেকিসকিয়াপানের বেকন ঢোকানো গরুর জিভ",
-      "pt": "Lengua mechada de Tequisquiapan",
-      "ru": "Lengua mechada de Tequisquiapan",
+      "pt": "Língua bovina recheada de Tequisquiapan",
+      "ru": "Шпигованный говяжий язык из Текискиапана",
       "ur": "تیکیِسکیاپان کی بھری گائے کی زبان",
-      "id": "Lengua mechada de Tequisquiapan",
+      "id": "Lidah Sapi Sisip Bacon Khas Tequisquiapan",
       "ja": "テキスキアパンの詰め物入り牛タン"
     }
   },
@@ -1666,10 +1666,10 @@
       "fr": "Gorditas au four de Real de Catorce",
       "ar": "غورديتاس مخبوزة من ريال دي كاتورسي",
       "bn": "রেয়াল দে কাতোরসের ওভেনে বেক করা গোরদিতা",
-      "pt": "Gorditas de horno de Real de Catorce",
-      "ru": "Gorditas de horno de Real de Catorce",
+      "pt": "Gorditas assadas de Real de Catorce",
+      "ru": "Печёные гордитас из Реаль-де-Каторсе",
       "ur": "ریال دے کاتورسے کی اوون میں بیک گوردیتاس",
-      "id": "Gorditas de horno de Real de Catorce",
+      "id": "Gorditas Panggang Khas Real de Catorce",
       "ja": "レアル・デ・カトルセの窯焼きゴルディータ"
     }
   },
@@ -1685,9 +1685,9 @@
       "ar": "بوكوليس هواستيكية من شيليتلا",
       "bn": "শিলিতলার হুয়াস্তেক বোকোলেস",
       "pt": "Bocoles huastecos de Xilitla",
-      "ru": "Bocoles huastecos de Xilitla",
+      "ru": "Уастекские боколес из Хилитлы",
       "ur": "خیلیتلا کے ہواستیک بوکولیس",
-      "id": "Bocoles huastecos de Xilitla",
+      "id": "Bocoles Huasteca Khas Xilitla",
       "ja": "ヒリトラのワステカ風ボコレス"
     }
   },
@@ -1703,9 +1703,9 @@
       "ar": "إيتاكاتيس تيبوستلان",
       "bn": "তেপোস্তলানের ইতাকাতেস",
       "pt": "Itacates de Tepoztlán",
-      "ru": "Itacates de Tepoztlán",
+      "ru": "Итакатес из Тепостлана",
       "ur": "تیپوستلان کے ایتاکاتیس",
-      "id": "Itacates de Tepoztlán",
+      "id": "Itacates Khas Tepoztlán",
       "ja": "テポストランのイタカテ"
     }
   },
@@ -1720,10 +1720,10 @@
       "fr": "Truite à l’ail de Valle de Bravo",
       "ar": "تروتة بالثوم من فايي دي برافو",
       "bn": "ভাইয়ে দে ব্রাভোর রসুনের ট্রাউট",
-      "pt": "Trucha al mojo de ajo de Valle de Bravo",
-      "ru": "Trucha al mojo de ajo de Valle de Bravo",
+      "pt": "Truta ao alho de Valle de Bravo",
+      "ru": "Форель с чесноком из Валье-де-Браво",
       "ur": "وایے دے براوو کی لہسن والی ٹراؤٹ",
-      "id": "Trucha al mojo de ajo de Valle de Bravo",
+      "id": "Trout Bawang Putih Khas Valle de Bravo",
       "ja": "バジェ・デ・ブラボのますのにんにく焼き"
     }
   },
@@ -1739,9 +1739,9 @@
       "ar": "نارانخيتي من واسكا دي أوكامبو",
       "bn": "উয়াসকা দে ওকাম্পোর নারানহেতে",
       "pt": "Naranjete de Huasca de Ocampo",
-      "ru": "Naranjete de Huasca de Ocampo",
+      "ru": "Наранхете из Уаска-де-Окампо",
       "ur": "واسکا دے اوکامپو کا ناراںخیتے",
-      "id": "Naranjete de Huasca de Ocampo",
+      "id": "Naranjete Khas Huasca de Ocampo",
       "ja": "ウアスカ・デ・オカンポのナランヘテ"
     }
   },
@@ -1756,10 +1756,10 @@
       "fr": "Tatemado de porc de Comala",
       "ar": "تاتيمادو لحم الخنزير على طريقة كومالا",
       "bn": "কোমালা ধাঁচের শূকরের তাতেমাদো",
-      "pt": "Tatemado de puerco estilo Comala",
-      "ru": "Tatemado de puerco estilo Comala",
+      "pt": "Tatemado de porco à moda de Comala",
+      "ru": "Свинина татемадо по-комальски",
       "ur": "کومالا طرز کا سور کے گوشت کا تاتیمادو",
-      "id": "Tatemado de puerco estilo Comala",
+      "id": "Tatemado Babi Gaya Comala",
       "ja": "コマラ風豚肉のタテマード"
     }
   },
@@ -1774,10 +1774,10 @@
       "fr": "Sopa de pan coleta (soupe au pain coleto)",
       "ar": "سوبا دي بان كوليتا (حساء خبز كوليتو)",
       "bn": "সোপা দে পান কোলেতা (কোলেতো রুটির স্যুপ)",
-      "pt": "Sopa de pan coleta",
-      "ru": "Sopa de pan coleta",
+      "pt": "Sopa de pão coleto",
+      "ru": "Хлебный суп колета",
       "ur": "سوپا دے پان کولیتا (کولیتو روٹی کا سوپ)",
-      "id": "Sopa de pan coleta",
+      "id": "Sopa de Pan Coleta (Sup Roti Coleto)",
       "ja": "ソパ・デ・パン・コレタ（コレトパンのスープ）"
     }
   },
@@ -1792,10 +1792,10 @@
       "fr": "Pepita con tasajo (bœuf séché à la sauce aux graines de courge)",
       "ar": "بيبيتا كون تاساخو",
       "bn": "পেপিতা কন তাসাহো",
-      "pt": "Pepita con tasajo",
-      "ru": "Pepita con tasajo",
+      "pt": "Pepita com tasajo",
+      "ru": "Пепита-кон-тасахо",
       "ur": "پیپیتا کون تاساخو",
-      "id": "Pepita con tasajo",
+      "id": "Pepita con Tasajo",
       "ja": "ペピータ・コン・タサホ"
     }
   },
@@ -1811,7 +1811,7 @@
       "ar": "كوميتيكو",
       "bn": "কোমিতেকো",
       "pt": "Comiteco",
-      "ru": "Comiteco",
+      "ru": "Комитеко",
       "ur": "کومیتیکو",
       "id": "Comiteco",
       "ja": "コミテコ"
@@ -1829,7 +1829,7 @@
       "ar": "تلايويوس",
       "bn": "ত্লায়োয়োস",
       "pt": "Tlayoyos",
-      "ru": "Tlayoyos",
+      "ru": "Тлайойос",
       "ur": "تلایویوس",
       "id": "Tlayoyos",
       "ja": "トラヨヨス"
@@ -1846,10 +1846,10 @@
       "fr": "Cidre de pomme tranquille, version maison",
       "ar": "سيدر تفاح غير فوار، نسخة منزلية",
       "bn": "বুদবুদহীন আপেলের সাইডার, ঘরোয়া সংস্করণ",
-      "pt": "Sidra de manzana sin gas, versión doméstica",
-      "ru": "Sidra de manzana sin gas, versión doméstica",
+      "pt": "Sidra de maçã sem gás, versão caseira",
+      "ru": "Домашний негазированный яблочный сидр",
       "ur": "بغیر گیس کی سیب سائڈر، گھریلو نسخہ",
-      "id": "Sidra de manzana sin gas, versión doméstica",
+      "id": "Sider Apel Tanpa Karbonasi, Versi Rumahan",
       "ja": "家庭で作る無炭酸アップルサイダー"
     }
   },
@@ -1865,9 +1865,9 @@
       "ar": "سيسينا أتليكسكو",
       "bn": "আতলিসকোর সেসিনা",
       "pt": "Cecina de Atlixco",
-      "ru": "Cecina de Atlixco",
+      "ru": "Сесина из Атлиско",
       "ur": "اتلیکسکو کی سیسینا",
-      "id": "Cecina de Atlixco",
+      "id": "Cecina Khas Atlixco",
       "ja": "アトリスコのセシーナ"
     }
   },
@@ -1883,9 +1883,9 @@
       "ar": "قهوة كواتيبيك",
       "bn": "কোয়াতেপেকের কফি",
       "pt": "Café de Coatepec",
-      "ru": "Café de Coatepec",
+      "ru": "Кофе из Коатепека",
       "ur": "کوآتیپیک کافی",
-      "id": "Café de Coatepec",
+      "id": "Kopi Coatepec",
       "ja": "コアテペックのコーヒー"
     }
   },
@@ -1901,9 +1901,9 @@
       "ar": "مولي شيكينيو",
       "bn": "মোলে শিকেনিয়ো",
       "pt": "Mole xiqueño",
-      "ru": "Mole xiqueño",
+      "ru": "Моле шикеньо",
       "ur": "مولے خیکینیو",
-      "id": "Mole xiqueño",
+      "id": "Mole Xiqueño",
       "ja": "モレ・シケーニョ"
     }
   },
@@ -1919,7 +1919,7 @@
       "ar": "ساكاويل",
       "bn": "সাকাউইল",
       "pt": "Zacahuil",
-      "ru": "Zacahuil",
+      "ru": "Сакауиль",
       "ur": "زاکاویل",
       "id": "Zacahuil",
       "ja": "サカウイル"
@@ -1937,9 +1937,9 @@
       "ar": "أروز آ لا تومبادا",
       "bn": "আরোস আ লা তুম্বাদা",
       "pt": "Arroz a la tumbada",
-      "ru": "Arroz a la tumbada",
+      "ru": "Аррос-а-ла-тумбада",
       "ur": "آروس آ لا تومبادا",
-      "id": "Arroz a la tumbada",
+      "id": "Arroz a la Tumbada",
       "ja": "アロス・ア・ラ・トゥンバーダ"
     }
   },
@@ -1955,7 +1955,7 @@
       "ar": "لوميتوس فايادوليد",
       "bn": "ভাইয়াদোলিদের লোমিতোস",
       "pt": "Lomitos de Valladolid",
-      "ru": "Lomitos de Valladolid",
+      "ru": "Ломитос из Вальядолида",
       "ur": "وایادولید کے لومیتوس",
       "id": "Lomitos de Valladolid",
       "ja": "バジャドリドのロミートス"
@@ -1973,9 +1973,9 @@
       "ar": "ريينو نيغرو",
       "bn": "রেইয়েনো নেগ্রো",
       "pt": "Relleno negro",
-      "ru": "Relleno negro",
+      "ru": "Рельено-негро",
       "ur": "ریینو نیگرو",
-      "id": "Relleno negro",
+      "id": "Relleno Negro",
       "ja": "レジェノ・ネグロ"
     }
   },
@@ -1990,10 +1990,10 @@
       "fr": "Sauce aux jumiles",
       "ar": "سالسا الخوميليس",
       "bn": "হুমিল সালসা",
-      "pt": "Salsa de jumiles",
-      "ru": "Salsa de jumiles",
+      "pt": "Molho de jumiles",
+      "ru": "Сальса с хумилес",
       "ur": "خومیل سالسا",
-      "id": "Salsa de jumiles",
+      "id": "Salsa Jumil",
       "ja": "フミルのサルサ"
     }
   },
@@ -2008,10 +2008,10 @@
       "fr": "Truite de la Sierra",
       "ar": "تروتة الجبال",
       "bn": "পাহাড়ি ট্রাউট",
-      "pt": "Trucha de la sierra",
-      "ru": "Trucha de la sierra",
+      "pt": "Truta da serra",
+      "ru": "Горная форель",
       "ur": "پہاڑی ٹراؤٹ",
-      "id": "Trucha de la sierra",
+      "id": "Trout Pegunungan",
       "ja": "山地のます料理"
     }
   },
@@ -2026,10 +2026,10 @@
       "fr": "Riz et haricots des Caraïbes",
       "ar": "الأرز والفاصوليا الكاريبيان",
       "bn": "ক্যারিবীয় ভাত ও বিন",
-      "pt": "Rice and beans caribeño",
-      "ru": "Rice and beans caribeño",
+      "pt": "Arroz com feijão caribenho",
+      "ru": "Карибский рис с фасолью",
       "ur": "کیریبین چاول اور لوبیا",
-      "id": "Rice and beans caribeño",
+      "id": "Nasi dan Kacang Karibia",
       "ja": "カリブ風ライス・アンド・ビーンズ"
     }
   },
@@ -2044,10 +2044,10 @@
       "fr": "Pámpano en escabeche (pompano mariné)",
       "ar": "بامبانو إن إسكابيتشي",
       "bn": "পামপানো এন এসকাবেচে",
-      "pt": "Pámpano en escabeche",
-      "ru": "Pámpano en escabeche",
+      "pt": "Pámpano em escabeche",
+      "ru": "Помпано в эскабече",
       "ur": "پامپانو این ایسکابیچے",
-      "id": "Pámpano en escabeche",
+      "id": "Pámpano en Escabeche",
       "ja": "パンパノ・エン・エスカベチェ"
     }
   },
@@ -2059,13 +2059,13 @@
       "en": "Shrimp and grits",
       "zh": "鲜虾奶油玉米糊",
       "hi": "झींगे और ग्रिट्स",
-      "fr": "Shrimp and grits",
+      "fr": "Crevettes et grits",
       "ar": "روبيان وغريتس",
       "bn": "শ্রিম্প অ্যান্ড গ্রিটস",
-      "pt": "Shrimp and grits",
-      "ru": "Shrimp and grits",
+      "pt": "Camarão com grits",
+      "ru": "Креветки с кукурузной кашей гритс",
       "ur": "جھینگے اور گرٹس",
-      "id": "Shrimp and grits",
+      "id": "Udang dan Grits",
       "ja": "シュリンプ・アンド・グリッツ"
     }
   },
@@ -2077,13 +2077,13 @@
       "en": "Nashville hot chicken",
       "zh": "纳什维尔辣炸鸡",
       "hi": "नैशविल हॉट चिकन",
-      "fr": "Nashville hot chicken",
+      "fr": "Poulet très épicé de Nashville",
       "ar": "دجاج ناشفيل الحار",
       "bn": "ন্যাশভিল হট চিকেন",
-      "pt": "Nashville hot chicken",
-      "ru": "Nashville hot chicken",
+      "pt": "Frango picante de Nashville",
+      "ru": "Нэшвиллская острая курица",
       "ur": "نیش ول ہاٹ چکن",
-      "id": "Nashville hot chicken",
+      "id": "Ayam Pedas Nashville",
       "ja": "ナッシュビル・ホットチキン"
     }
   },
@@ -2095,11 +2095,11 @@
       "en": "Kentucky Hot Brown",
       "zh": "肯塔基热布朗三明治",
       "hi": "केंटकी हॉट ब्राउन",
-      "fr": "Kentucky Hot Brown",
+      "fr": "Hot Brown du Kentucky",
       "ar": "هوت براون كنتاكي",
       "bn": "কেন্টাকি হট ব্রাউন",
-      "pt": "Kentucky Hot Brown",
-      "ru": "Kentucky Hot Brown",
+      "pt": "Hot Brown do Kentucky",
+      "ru": "Кентуккийский «Хот-браун»",
       "ur": "کینٹکی ہاٹ براؤن",
       "id": "Kentucky Hot Brown",
       "ja": "ケンタッキー・ホットブラウン"
@@ -2113,13 +2113,13 @@
       "en": "Cuban sandwich (Cubano)",
       "zh": "古巴三明治",
       "hi": "क्यूबन सैंडविच (कुबानो)",
-      "fr": "Cuban sandwich (Cubano)",
+      "fr": "Sandwich cubain (cubano)",
       "ar": "الشطيرة الكوبية (كوبانو)",
       "bn": "কিউবান স্যান্ডউইচ (কুবানো)",
-      "pt": "Cuban sandwich (Cubano)",
-      "ru": "Cuban sandwich (Cubano)",
+      "pt": "Sanduíche cubano",
+      "ru": "Кубинский сэндвич «Кубано»",
       "ur": "کیوبن سینڈوچ (کوبانو)",
-      "id": "Cuban sandwich (Cubano)",
+      "id": "Roti Lapis Kuba (Cubano)",
       "ja": "キューバン・サンドイッチ（クバーノ）"
     }
   },
@@ -2131,13 +2131,13 @@
       "en": "Key lime pie",
       "zh": "青柠派",
       "hi": "की लाइम पाई",
-      "fr": "Key lime pie",
+      "fr": "Tarte au citron vert des Keys",
       "ar": "فطيرة كي لايم",
       "bn": "কি লাইম পাই",
-      "pt": "Key lime pie",
-      "ru": "Key lime pie",
+      "pt": "Torta de limão Key lime",
+      "ru": "Лаймовый пирог Ки-Уэст",
       "ur": "کی لائم پائی",
-      "id": "Key lime pie",
+      "id": "Pai Key Lime",
       "ja": "キーライム・パイ"
     }
   },
@@ -2149,13 +2149,13 @@
       "en": "North Carolina-style pulled pork BBQ",
       "zh": "北卡罗来纳醋汁手撕猪肉",
       "hi": "नॉर्थ कैरोलाइना शैली का पुल्ड पोर्क बारबेक्यू",
-      "fr": "Pulled pork BBQ estilo Carolina del Norte",
+      "fr": "Porc effiloché barbecue de Caroline du Nord",
       "ar": "باربكيو لحم خنزير مفتت على طريقة كارولاينا الشمالية",
       "bn": "নর্থ ক্যারোলাইনা ধাঁচের পুলড পর্ক বারবিকিউ",
-      "pt": "Pulled pork BBQ estilo Carolina del Norte",
-      "ru": "Pulled pork BBQ estilo Carolina del Norte",
+      "pt": "Porco desfiado ao estilo da Carolina do Norte",
+      "ru": "Рваная свинина барбекю по-северокаролински",
       "ur": "شمالی کیرولائنا طرز کا پلڈ پورک باربی کیو",
-      "id": "Pulled pork BBQ estilo Carolina del Norte",
+      "id": "Barbeku Babi Suwir Gaya Carolina Utara",
       "ja": "ノースカロライナ風プルドポークBBQ"
     }
   },
@@ -2171,9 +2171,9 @@
       "ar": "تشيلي كون كارني",
       "bn": "চিলি কন কার্নে",
       "pt": "Chili con carne",
-      "ru": "Chili con carne",
+      "ru": "Чили кон карне",
       "ur": "چِلی کون کارنے",
-      "id": "Chili con carne",
+      "id": "Chili con Carne",
       "ja": "チリコンカン"
     }
   },
@@ -2185,13 +2185,13 @@
       "en": "Breakfast tacos",
       "zh": "得克萨斯早餐塔可",
       "hi": "नाश्ते के टाको",
-      "fr": "Breakfast tacos",
+      "fr": "Tacos du petit-déjeuner",
       "ar": "تاكو الإفطار",
       "bn": "প্রাতরাশের টাকো",
-      "pt": "Breakfast tacos",
-      "ru": "Breakfast tacos",
+      "pt": "Tacos de café da manhã",
+      "ru": "Тако на завтрак",
       "ur": "ناشتے کے ٹاکو",
-      "id": "Breakfast tacos",
+      "id": "Taco Sarapan",
       "ja": "ブレックファスト・タコス"
     }
   },
@@ -2203,13 +2203,13 @@
       "en": "Shrimp po'boy",
       "zh": "新奥尔良炸虾长面包（Po'boy）",
       "hi": "झींगा पो'बॉय",
-      "fr": "Po'boy de camarón",
+      "fr": "Po'boy aux crevettes",
       "ar": "بو بوي بالروبيان",
       "bn": "চিংড়ির পো'বয়",
-      "pt": "Po'boy de camarón",
-      "ru": "Po'boy de camarón",
+      "pt": "Po’boy de camarão",
+      "ru": "По-бой с креветками",
       "ur": "جھینگے کا پو بوائے",
-      "id": "Po'boy de camarón",
+      "id": "Po’boy Udang",
       "ja": "シュリンプ・ポーボーイ"
     }
   },
@@ -2221,13 +2221,13 @@
       "en": "Southern fried chicken",
       "zh": "美国南方炸鸡",
       "hi": "दक्षिणी फ्राइड चिकन",
-      "fr": "Pollo frito sureño",
+      "fr": "Poulet frit du Sud",
       "ar": "الدجاج المقلي الجنوبي",
       "bn": "দক্ষিণী ফ্রায়েড চিকেন",
-      "pt": "Pollo frito sureño",
-      "ru": "Pollo frito sureño",
+      "pt": "Frango frito do sul dos Estados Unidos",
+      "ru": "Жареная курица по-южному",
       "ur": "جنوبی تلی مرغی",
-      "id": "Pollo frito sureño",
+      "id": "Ayam Goreng Gaya Selatan",
       "ja": "南部風フライドチキン"
     }
   },
@@ -2239,13 +2239,13 @@
       "en": "Country ham (Virginia cured ham)",
       "zh": "弗吉尼亚乡村腌火腿",
       "hi": "कंट्री हैम (वर्जीनिया का संरक्षित हैम)",
-      "fr": "Country ham (jamón curado de Virginia)",
+      "fr": "Country ham, jambon affiné de Virginie",
       "ar": "الهام الريفي (هام فرجينيا المعالج)",
       "bn": "কান্ট্রি হ্যাম (ভার্জিনিয়ার লবণে সংরক্ষিত হ্যাম)",
-      "pt": "Country ham (jamón curado de Virginia)",
-      "ru": "Country ham (jamón curado de Virginia)",
+      "pt": "Country ham (presunto curado da Virgínia)",
+      "ru": "Кантри-хэм — виргинский солёно-копчёный окорок",
       "ur": "کنٹری ہیم (ورجینیا کا محفوظ ہیم)",
-      "id": "Country ham (jamón curado de Virginia)",
+      "id": "Country Ham (Ham Awetan Virginia)",
       "ja": "カントリーハム（バージニアの塩漬けハム）"
     }
   },
@@ -2257,13 +2257,13 @@
       "en": "Collard greens",
       "zh": "烟熏肉慢炖散叶甘蓝",
       "hi": "कॉलर्ड ग्रीन्स",
-      "fr": "Collard greens",
+      "fr": "Chou cavalier mijoté (collard greens)",
       "ar": "أوراق الكولارد",
       "bn": "কলার্ড শাক",
-      "pt": "Collard greens",
-      "ru": "Collard greens",
+      "pt": "Couve cozida à moda sulista",
+      "ru": "Листовая капуста коллард",
       "ur": "کولارڈ ساگ",
-      "id": "Collard greens",
+      "id": "Collard Greens",
       "ja": "コラードグリーンの煮込み"
     }
   },
@@ -2275,13 +2275,13 @@
       "en": "Cornbread (Southern corn bread)",
       "zh": "南方玉米面包",
       "hi": "कॉर्नब्रेड (दक्षिणी मकई ब्रेड)",
-      "fr": "Cornbread (pan de maíz sureño)",
+      "fr": "Cornbread, pain de maïs du Sud",
       "ar": "خبز الذرة الجنوبي",
       "bn": "কর্নব্রেড (দক্ষিণী ভুট্টার রুটি)",
-      "pt": "Cornbread (pan de maíz sureño)",
-      "ru": "Cornbread (pan de maíz sureño)",
+      "pt": "Cornbread (pão de milho sulista)",
+      "ru": "Корнбред — кукурузный хлеб американского Юга",
       "ur": "کارن بریڈ (جنوبی مکئی کی روٹی)",
-      "id": "Cornbread (pan de maíz sureño)",
+      "id": "Cornbread (Roti Jagung Gaya Selatan)",
       "ja": "コーンブレッド（南部のとうもろこしパン）"
     }
   },
@@ -2293,13 +2293,13 @@
       "en": "Banana pudding",
       "zh": "香蕉布丁",
       "hi": "बनाना पुडिंग",
-      "fr": "Banana pudding",
+      "fr": "Pudding à la banane",
       "ar": "بودينغ الموز",
       "bn": "কলার পুডিং",
-      "pt": "Banana pudding",
-      "ru": "Banana pudding",
+      "pt": "Sobremesa cremosa de banana (banana pudding)",
+      "ru": "Банановый пудинг",
       "ur": "کیلے کی پڈنگ",
-      "id": "Banana pudding",
+      "id": "Puding Pisang",
       "ja": "バナナプディング"
     }
   },
@@ -2311,13 +2311,13 @@
       "en": "Chicken fried steak",
       "zh": "炸鸡式牛排",
       "hi": "चिकन फ्राइड स्टेक",
-      "fr": "Chicken fried steak",
+      "fr": "Steak pané façon poulet frit",
       "ar": "ستيك مقلي على طريقة الدجاج",
       "bn": "চিকেন ফ্রায়েড স্টেক",
-      "pt": "Chicken fried steak",
-      "ru": "Chicken fried steak",
+      "pt": "Bife empanado à moda sulista (chicken fried steak)",
+      "ru": "Стейк в панировке по-южному",
       "ur": "چکن فرائیڈ اسٹیک",
-      "id": "Chicken fried steak",
+      "id": "Chicken Fried Steak",
       "ja": "チキンフライドステーキ"
     }
   },
@@ -2329,13 +2329,13 @@
       "en": "Fried pickles",
       "zh": "炸腌黄瓜",
       "hi": "तला खीरे का अचार",
-      "fr": "Fried pickles (pepinillos fritos)",
+      "fr": "Cornichons frits",
       "ar": "مخللات مقلية",
       "bn": "ফ্রায়েড পিকলস",
-      "pt": "Fried pickles (pepinillos fritos)",
-      "ru": "Fried pickles (pepinillos fritos)",
+      "pt": "Picles fritos",
+      "ru": "Жареные маринованные огурцы",
       "ur": "تلا اچار",
-      "id": "Fried pickles (pepinillos fritos)",
+      "id": "Acar Mentimun Goreng",
       "ja": "フライドピクルス"
     }
   },
@@ -2347,13 +2347,13 @@
       "en": "New England clam chowder",
       "zh": "新英格兰蛤蜊浓汤",
       "hi": "न्यू इंग्लैंड क्लैम चाउडर",
-      "fr": "New England clam chowder",
+      "fr": "Chaudrée de palourdes de Nouvelle-Angleterre",
       "ar": "تشاودر المحار من نيو إنغلاند",
       "bn": "নিউ ইংল্যান্ড ক্ল্যাম চাউডার",
-      "pt": "New England clam chowder",
-      "ru": "New England clam chowder",
+      "pt": "Sopa cremosa de vôngoles da Nova Inglaterra",
+      "ru": "Клэм-чаудер Новой Англии",
       "ur": "نیو انگلینڈ کلیم چاؤڈر",
-      "id": "New England clam chowder",
+      "id": "Clam Chowder Khas New England",
       "ja": "ニューイングランド・クラムチャウダー"
     }
   },
@@ -2365,13 +2365,13 @@
       "en": "Lobster roll (Maine style)",
       "zh": "缅因龙虾卷",
       "hi": "लॉब्स्टर रोल (मेन शैली)",
-      "fr": "Lobster roll (estilo Maine)",
+      "fr": "Lobster roll du Maine",
       "ar": "شطيرة الكركند (على طريقة مين)",
       "bn": "লবস্টার রোল (মেইন ধাঁচ)",
-      "pt": "Lobster roll (estilo Maine)",
-      "ru": "Lobster roll (estilo Maine)",
+      "pt": "Sanduíche de lagosta ao estilo do Maine",
+      "ru": "Лобстер-ролл по-мэнски",
       "ur": "لابسٹر رول (مین طرز)",
-      "id": "Lobster roll (estilo Maine)",
+      "id": "Lobster Roll Gaya Maine",
       "ja": "ロブスターロール（メイン風）"
     }
   },
@@ -2383,13 +2383,13 @@
       "en": "Maryland crab cakes",
       "zh": "马里兰蟹肉饼",
       "hi": "मैरीलैंड क्रैब केक",
-      "fr": "Maryland crab cakes",
+      "fr": "Galettes de crabe du Maryland",
       "ar": "أقراص السلطعون من ماريلاند",
       "bn": "মেরিল্যান্ড ক্র্যাব কেক",
-      "pt": "Maryland crab cakes",
-      "ru": "Maryland crab cakes",
+      "pt": "Bolinhos de siri de Maryland",
+      "ru": "Мэрилендские крабовые котлеты",
       "ur": "میری لینڈ کریب کیک",
-      "id": "Maryland crab cakes",
+      "id": "Perkedel Kepiting Khas Maryland",
       "ja": "メリーランドのクラブケーキ"
     }
   },
@@ -2401,13 +2401,13 @@
       "en": "Philly cheesesteak",
       "zh": "费城奶酪牛肉三明治",
       "hi": "फिली चीज़स्टेक",
-      "fr": "Philly cheesesteak",
+      "fr": "Cheesesteak de Philadelphie",
       "ar": "فيلي تشيزستيك",
       "bn": "ফিলি চিজস্টেক",
       "pt": "Philly cheesesteak",
-      "ru": "Philly cheesesteak",
+      "ru": "Филадельфийский чизстейк",
       "ur": "فلی چیز اسٹیک",
-      "id": "Philly cheesesteak",
+      "id": "Philly Cheesesteak",
       "ja": "フィリー・チーズステーキ"
     }
   },
@@ -2419,13 +2419,13 @@
       "en": "New York-style pizza slice",
       "zh": "纽约风味披萨片",
       "hi": "न्यूयॉर्क शैली का पिज़्ज़ा स्लाइस",
-      "fr": "Rebanada de pizza estilo Nueva York",
+      "fr": "Part de pizza new-yorkaise",
       "ar": "شريحة بيتزا على طريقة نيويورك",
       "bn": "নিউ ইয়র্ক ধাঁচের পিৎজার স্লাইস",
-      "pt": "Rebanada de pizza estilo Nueva York",
-      "ru": "Rebanada de pizza estilo Nueva York",
+      "pt": "Fatia de pizza ao estilo de Nova York",
+      "ru": "Кусок пиццы по-нью-йоркски",
       "ur": "نیویارک طرز کا پیزا سلائس",
-      "id": "Rebanada de pizza estilo Nueva York",
+      "id": "Irisan Pizza Gaya New York",
       "ja": "ニューヨーク風スライスピザ"
     }
   },
@@ -2437,13 +2437,13 @@
       "en": "Bagel with lox",
       "zh": "腌三文鱼贝果",
       "hi": "लॉक्स वाला बेगल",
-      "fr": "Bagel con lox",
+      "fr": "Bagel au lox",
       "ar": "بيغل باللوكس",
       "bn": "লক্সসহ বেগেল",
-      "pt": "Bagel con lox",
-      "ru": "Bagel con lox",
+      "pt": "Bagel com lox",
+      "ru": "Бейгл с лососем локс",
       "ur": "لوکس والا بیگل",
-      "id": "Bagel con lox",
+      "id": "Bagel dengan Lox",
       "ja": "ロックスのベーグル"
     }
   },
@@ -2455,13 +2455,13 @@
       "en": "Pastrami on rye",
       "zh": "黑麦面包烟熏牛肉三明治",
       "hi": "राई ब्रेड पर पास्त्रामी",
-      "fr": "Pastrami on rye",
+      "fr": "Sandwich au pastrami sur pain de seigle",
       "ar": "بسترامي على خبز الجاودار",
       "bn": "রাই রুটিতে পাস্ত্রামি",
-      "pt": "Pastrami on rye",
-      "ru": "Pastrami on rye",
+      "pt": "Pastrami no pão de centeio",
+      "ru": "Пастрами на ржаном хлебе",
       "ur": "رائی روٹی پر پاسٹرامی",
-      "id": "Pastrami on rye",
+      "id": "Roti gandum hitam isi pastrami",
       "ja": "パストラミ・オン・ライ"
     }
   },
@@ -2473,13 +2473,13 @@
       "en": "Buffalo wings",
       "zh": "布法罗辣鸡翅",
       "hi": "बफ़ेलो विंग्स",
-      "fr": "Buffalo wings",
+      "fr": "Ailes de poulet Buffalo",
       "ar": "أجنحة بافالو",
       "bn": "বাফেলো উইংস",
-      "pt": "Buffalo wings",
-      "ru": "Buffalo wings",
+      "pt": "Asinhas de frango Buffalo",
+      "ru": "Крылышки «Баффало»",
       "ur": "بفلو ونگز",
-      "id": "Buffalo wings",
+      "id": "Sayap ayam Buffalo",
       "ja": "バッファローウィング"
     }
   },
@@ -2491,13 +2491,13 @@
       "en": "Boston baked beans",
       "zh": "波士顿烤豆",
       "hi": "बोस्टन बेक्ड बीन्स",
-      "fr": "Boston baked beans",
+      "fr": "Haricots au four de Boston",
       "ar": "فاصوليا بوسطن المخبوزة",
       "bn": "বোস্টন বেকড বিনস",
-      "pt": "Boston baked beans",
-      "ru": "Boston baked beans",
+      "pt": "Feijão assado de Boston",
+      "ru": "Бостонская запечённая фасоль",
       "ur": "بوسٹن بیکڈ بینز",
-      "id": "Boston baked beans",
+      "id": "Kacang panggang Boston",
       "ja": "ボストン・ベイクドビーンズ"
     }
   },
@@ -2513,7 +2513,7 @@
       "ar": "ووبي باي",
       "bn": "হুপি পাই",
       "pt": "Whoopie pie",
-      "ru": "Whoopie pie",
+      "ru": "Вупи-пай",
       "ur": "ووپی پائی",
       "id": "Whoopie pie",
       "ja": "ウーピーパイ"
@@ -2527,13 +2527,13 @@
       "en": "Rhode Island clam cakes",
       "zh": "罗得岛炸蛤蜊球",
       "hi": "रोड आइलैंड क्लैम केक",
-      "fr": "Clam cakes de Rhode Island",
+      "fr": "Beignets de palourdes du Rhode Island",
       "ar": "لقيمات المحار من رود آيلاند",
       "bn": "রোড আইল্যান্ড ক্ল্যাম কেক",
-      "pt": "Clam cakes de Rhode Island",
-      "ru": "Clam cakes de Rhode Island",
+      "pt": "Bolinhos de vôngoles de Rhode Island",
+      "ru": "Род-айлендские клэм-кейки",
       "ur": "روڈ آئی لینڈ کلیم کیک",
-      "id": "Clam cakes de Rhode Island",
+      "id": "Gorengan kerang Rhode Island",
       "ja": "ロードアイランドのクラムケーキ"
     }
   },
@@ -2545,13 +2545,13 @@
       "en": "Coffee milk",
       "zh": "咖啡糖浆牛奶",
       "hi": "कॉफी मिल्क",
-      "fr": "Coffee milk",
+      "fr": "Lait au sirop de café",
       "ar": "حليب القهوة",
       "bn": "কফি মিল্ক",
-      "pt": "Coffee milk",
-      "ru": "Coffee milk",
+      "pt": "Leite com xarope de café (coffee milk)",
+      "ru": "Кофейное молоко",
       "ur": "کافی مِلک",
-      "id": "Coffee milk",
+      "id": "Susu sirup kopi",
       "ja": "コーヒーミルク"
     }
   },
@@ -2563,13 +2563,13 @@
       "en": "New Haven white clam apizza",
       "zh": "纽黑文白蛤蜊披萨",
       "hi": "न्यू हेवन व्हाइट क्लैम अपीत्सा",
-      "fr": "White clam apizza de New Haven",
+      "fr": "Apizza blanche aux palourdes de New Haven",
       "ar": "أبيتزا المحار البيضاء من نيو هيفن",
       "bn": "নিউ হেভেনের সাদা ক্ল্যাম আপিৎজা",
-      "pt": "White clam apizza de New Haven",
-      "ru": "White clam apizza de New Haven",
+      "pt": "Apizza branca de vôngoles de New Haven",
+      "ru": "Белая апицца с моллюсками из Нью-Хейвена",
       "ur": "نیو ہیون وائٹ کلیم اپیزا",
-      "id": "White clam apizza de New Haven",
+      "id": "Apizza putih kerang New Haven",
       "ja": "ニューヘイブンのホワイトクラム・アピッツァ"
     }
   },
@@ -2581,13 +2581,13 @@
       "en": "Pork roll, egg and cheese (Taylor ham)",
       "zh": "猪肉卷片鸡蛋奶酪三明治",
       "hi": "पोर्क रोल, अंडा और चीज़ (टेलर हैम)",
-      "fr": "Pork roll, egg and cheese (Taylor ham)",
+      "fr": "Sandwich pork roll, œuf et fromage (Taylor ham)",
       "ar": "بورك رول بالبيض والجبن (تايلور هام)",
       "bn": "পর্ক রোল, ডিম ও চিজ (টেলর হ্যাম)",
-      "pt": "Pork roll, egg and cheese (Taylor ham)",
-      "ru": "Pork roll, egg and cheese (Taylor ham)",
+      "pt": "Sanduíche de pork roll, ovo e queijo (Taylor ham)",
+      "ru": "Сэндвич с порк-роллом, яйцом и сыром",
       "ur": "پورک رول، انڈا اور پنیر (ٹیلر ہیم)",
-      "id": "Pork roll, egg and cheese (Taylor ham)",
+      "id": "Roti lapis pork roll, telur, dan keju (Taylor ham)",
       "ja": "ポークロール・エッグ・アンド・チーズ（テイラーハム）"
     }
   },
@@ -2599,13 +2599,13 @@
       "en": "Philadelphia soft pretzel",
       "zh": "费城软椒盐卷饼",
       "hi": "फिलाडेल्फिया सॉफ्ट प्रेट्ज़ेल",
-      "fr": "Philadelphia soft pretzel",
+      "fr": "Bretzel moelleux de Philadelphie",
       "ar": "بريتزل فيلادلفيا الطري",
       "bn": "ফিলাডেলফিয়ার নরম প্রেটজেল",
-      "pt": "Philadelphia soft pretzel",
-      "ru": "Philadelphia soft pretzel",
+      "pt": "Pretzel macio da Filadélfia",
+      "ru": "Мягкий филадельфийский претцель",
       "ur": "فلاڈیلفیا کا نرم پریٹزل",
-      "id": "Philadelphia soft pretzel",
+      "id": "Pretzel lembut Philadelphia",
       "ja": "フィラデルフィアのソフトプレッツェル"
     }
   },
@@ -2617,13 +2617,13 @@
       "en": "Sugar on snow (maple syrup on snow)",
       "zh": "雪上枫糖",
       "hi": "शुगर ऑन स्नो (बर्फ पर मेपल सिरप)",
-      "fr": "Sugar on snow (jarabe de arce sobre nieve)",
+      "fr": "Tire d'érable sur neige",
       "ar": "سكر على الثلج (شراب القيقب على الثلج)",
       "bn": "সুগার অন স্নো (তুষারের ওপর মেপল সিরাপ)",
-      "pt": "Sugar on snow (jarabe de arce sobre nieve)",
-      "ru": "Sugar on snow (jarabe de arce sobre nieve)",
+      "pt": "Sugar on snow (doce de xarope de bordo no gelo)",
+      "ru": "Кленовая тянучка на снегу",
       "ur": "شوگر آن سنو (برف پر میپل سیرپ)",
-      "id": "Sugar on snow (jarabe de arce sobre nieve)",
+      "id": "Permen sirup maple di atas salju",
       "ja": "シュガー・オン・スノー（雪の上のメープルシロップ）"
     }
   },
@@ -2639,9 +2639,9 @@
       "ar": "بيتزا شيكاغو العميقة",
       "bn": "শিকাগোর ডিপ-ডিশ পিৎজা",
       "pt": "Pizza deep-dish de Chicago",
-      "ru": "Pizza deep-dish de Chicago",
+      "ru": "Чикагская пицца дип-диш",
       "ur": "شکاگو ڈیپ ڈش پیزا",
-      "id": "Pizza deep-dish de Chicago",
+      "id": "Piza deep-dish Chicago",
       "ja": "シカゴのディープディッシュ・ピザ"
     }
   },
@@ -2656,10 +2656,10 @@
       "fr": "Hot-dog de Chicago",
       "ar": "هوت دوغ على طريقة شيكاغو",
       "bn": "শিকাগো ধাঁচের হট ডগ",
-      "pt": "Hot dog estilo Chicago",
-      "ru": "Hot dog estilo Chicago",
+      "pt": "Cachorro-quente à moda de Chicago",
+      "ru": "Хот-дог по-чикагски",
       "ur": "شکاگو طرز کا ہاٹ ڈاگ",
-      "id": "Hot dog estilo Chicago",
+      "id": "Hot Dog Gaya Chicago",
       "ja": "シカゴ風ホットドッグ"
     }
   },
@@ -2675,9 +2675,9 @@
       "ar": "اللحم البقري الإيطالي من شيكاغو",
       "bn": "শিকাগোর ইতালিয়ান বিফ",
       "pt": "Italian beef de Chicago",
-      "ru": "Italian beef de Chicago",
+      "ru": "Чикагский итальянский биф",
       "ur": "شکاگو اطالوی بیف",
-      "id": "Italian beef de Chicago",
+      "id": "Italian Beef Khas Chicago",
       "ja": "シカゴのイタリアンビーフ"
     }
   },
@@ -2692,10 +2692,10 @@
       "fr": "Pizza de Detroit",
       "ar": "بيتزا على طريقة ديترويت",
       "bn": "ডেট্রয়েট ধাঁচের পিৎজা",
-      "pt": "Pizza estilo Detroit",
-      "ru": "Pizza estilo Detroit",
+      "pt": "Pizza à moda de Detroit",
+      "ru": "Пицца по-детройтски",
       "ur": "ڈیٹرائٹ طرز کا پیزا",
-      "id": "Pizza estilo Detroit",
+      "id": "Pizza Gaya Detroit",
       "ja": "デトロイト風ピザ"
     }
   },
@@ -2711,9 +2711,9 @@
       "ar": "كوني دوغ ديترويت",
       "bn": "ডেট্রয়েটের কোনি ডগ",
       "pt": "Coney dog de Detroit",
-      "ru": "Coney dog de Detroit",
+      "ru": "Детройтский кони-дог",
       "ur": "ڈیٹرائٹ کونی ڈاگ",
-      "id": "Coney dog de Detroit",
+      "id": "Coney Dog Khas Detroit",
       "ja": "デトロイトのコニードッグ"
     }
   },
@@ -2729,9 +2729,9 @@
       "ar": "تشيلي سينسيناتي",
       "bn": "সিনসিনাটির চিলি",
       "pt": "Chili de Cincinnati",
-      "ru": "Chili de Cincinnati",
+      "ru": "Чили по-синсиннатски",
       "ur": "سنسناٹی چِلی",
-      "id": "Chili de Cincinnati",
+      "id": "Chili Cincinnati",
       "ja": "シンシナティ・チリ"
     }
   },
@@ -2747,9 +2747,9 @@
       "ar": "بيرنت إندز كانساس سيتي",
       "bn": "কানসাস সিটির বার্ন্ট এন্ডস",
       "pt": "Burnt ends de Kansas City",
-      "ru": "Burnt ends de Kansas City",
+      "ru": "Бернт-эндс из Канзас-Сити",
       "ur": "کنساس سٹی برنٹ اینڈز",
-      "id": "Burnt ends de Kansas City",
+      "id": "Burnt Ends Khas Kansas City",
       "ja": "カンザスシティのバーントエンズ"
     }
   },
@@ -2764,10 +2764,10 @@
       "fr": "Ravioli frits de Saint-Louis",
       "ar": "رافيولي سانت لويس المحمص",
       "bn": "সেন্ট লুইসের টোস্টেড রাভিওলি",
-      "pt": "Ravioles fritos de San Luis",
-      "ru": "Ravioles fritos de San Luis",
+      "pt": "Ravióli frito de St. Louis",
+      "ru": "Жареные равиоли из Сент-Луиса",
       "ur": "سینٹ لوئیس کی ٹوسٹڈ راویولی",
-      "id": "Ravioles fritos de San Luis",
+      "id": "Ravioli Goreng Khas St. Louis",
       "ja": "セントルイスのトーステッド・ラビオリ"
     }
   },
@@ -2782,10 +2782,10 @@
       "fr": "Gooey butter cake de Saint-Louis",
       "ar": "كيكة الزبدة اللزجة من سانت لويس",
       "bn": "সেন্ট লুইসের আঠালো বাটার কেক",
-      "pt": "Gooey butter cake de San Luis",
-      "ru": "Gooey butter cake de San Luis",
+      "pt": "Bolo amanteigado cremoso de St. Louis",
+      "ru": "Гуи-баттер-кейк из Сент-Луиса",
       "ur": "سینٹ لوئیس کا گوئی بٹر کیک",
-      "id": "Gooey butter cake de San Luis",
+      "id": "Gooey Butter Cake Khas St. Louis",
       "ja": "セントルイスのグーイー・バターケーキ"
     }
   },
@@ -2800,10 +2800,10 @@
       "fr": "Fromage en grains frit du Wisconsin",
       "ar": "خثرات الجبن المقلية من ويسكونسن",
       "bn": "উইসকনসিনের ভাজা চিজ কার্ড",
-      "pt": "Cheese curds fritos de Wisconsin",
-      "ru": "Cheese curds fritos de Wisconsin",
+      "pt": "Coalhada de queijo frita de Wisconsin",
+      "ru": "Жареное сырное зерно из Висконсина",
       "ur": "وسکانسن کے تلے چیز کرڈز",
-      "id": "Cheese curds fritos de Wisconsin",
+      "id": "Dadih Keju Goreng Khas Wisconsin",
       "ja": "ウィスコンシンの揚げチーズカード"
     }
   },
@@ -2818,10 +2818,10 @@
       "fr": "Bratwurst de Sheboygan",
       "ar": "براتفورست على طريقة شيبويغان",
       "bn": "শিবয়গান ধাঁচের ব্রাটভুর্স্ট",
-      "pt": "Bratwurst estilo Sheboygan",
-      "ru": "Bratwurst estilo Sheboygan",
+      "pt": "Bratwurst à moda de Sheboygan",
+      "ru": "Братвурст по-шебойгански",
       "ur": "شیبوئیگن طرز کی براٹ ورسٹ",
-      "id": "Bratwurst estilo Sheboygan",
+      "id": "Bratwurst Gaya Sheboygan",
       "ja": "シボイガン風ブラートヴルスト"
     }
   },
@@ -2837,7 +2837,7 @@
       "ar": "جوسي لوسي",
       "bn": "জুসি লুসি",
       "pt": "Juicy Lucy",
-      "ru": "Juicy Lucy",
+      "ru": "Джуси Люси",
       "ur": "جوسی لوسی",
       "id": "Juicy Lucy",
       "ja": "ジューシー・ルーシー"
@@ -2855,9 +2855,9 @@
       "ar": "تاتر توت هوتديش",
       "bn": "টেটার টট হটডিশ",
       "pt": "Hotdish de tater tots",
-      "ru": "Hotdish de tater tots",
+      "ru": "Хотдиш с тейтер-тотс",
       "ur": "ٹیٹر ٹاٹ ہاٹ ڈش",
-      "id": "Hotdish de tater tots",
+      "id": "Tater Tot Hotdish",
       "ja": "テイタートッツ・ホットディッシュ"
     }
   },
@@ -2873,7 +2873,7 @@
       "ar": "رونزا",
       "bn": "রুনজা",
       "pt": "Runza",
-      "ru": "Runza",
+      "ru": "Ранза",
       "ur": "رونزا",
       "id": "Runza",
       "ja": "ランザ"
@@ -2890,10 +2890,10 @@
       "fr": "Sandwich au filet de porc pané",
       "ar": "شطيرة فيليه الخنزير بالبقسماط",
       "bn": "ব্রেডক্রাম্ব মাখানো শূকরের টেন্ডারলয়েন স্যান্ডউইচ",
-      "pt": "Sándwich de lomo de cerdo empanizado",
-      "ru": "Sándwich de lomo de cerdo empanizado",
+      "pt": "Sanduíche de filé suíno empanado",
+      "ru": "Сэндвич с панированной свиной вырезкой",
       "ur": "بریڈ کرمب والے سور کے ٹینڈرلوئن کا سینڈوچ",
-      "id": "Sándwich de lomo de cerdo empanizado",
+      "id": "Roti Lapis Has Dalam Babi Bertepung Roti",
       "ja": "豚ヒレカツのサンドイッチ"
     }
   },
@@ -2908,10 +2908,10 @@
       "fr": "Chislic du Dakota du Sud",
       "ar": "تشيسليك داكوتا الجنوبية",
       "bn": "সাউথ ডাকোটার চিসলিক",
-      "pt": "Chislic de Dakota del Sur",
-      "ru": "Chislic de Dakota del Sur",
+      "pt": "Chislic de Dakota do Sul",
+      "ru": "Числик из Южной Дакоты",
       "ur": "جنوبی ڈکوٹا کا چسلک",
-      "id": "Chislic de Dakota del Sur",
+      "id": "Chislic Khas Dakota Selatan",
       "ja": "サウスダコタのチズリック"
     }
   },
@@ -2927,7 +2927,7 @@
       "ar": "تشوبينو",
       "bn": "চিওপিনো",
       "pt": "Cioppino",
-      "ru": "Cioppino",
+      "ru": "Чоппино",
       "ur": "چوپینو",
       "id": "Cioppino",
       "ja": "チョッピーノ"
@@ -2944,10 +2944,10 @@
       "fr": "Burrito Mission",
       "ar": "بوريتو ميشن",
       "bn": "মিশন বুরিতো",
-      "pt": "Mission burrito",
-      "ru": "Mission burrito",
+      "pt": "Burrito Mission",
+      "ru": "Буррито «Мишн»",
       "ur": "مشن بریٹو",
-      "id": "Mission burrito",
+      "id": "Burrito Mission",
       "ja": "ミッション・ブリトー"
     }
   },
@@ -2963,9 +2963,9 @@
       "ar": "فرنش ديب",
       "bn": "ফ্রেঞ্চ ডিপ",
       "pt": "French dip",
-      "ru": "French dip",
+      "ru": "Френч-дип",
       "ur": "فرنچ ڈپ",
-      "id": "French dip",
+      "id": "French Dip",
       "ja": "フレンチディップ"
     }
   },
@@ -2980,10 +2980,10 @@
       "fr": "Ragoût au piment vert du Nouveau-Mexique",
       "ar": "يخنة الفلفل الأخضر",
       "bn": "সবুজ লঙ্কার স্ট্যু",
-      "pt": "Green chile stew",
-      "ru": "Green chile stew",
+      "pt": "Ensopado de pimenta verde",
+      "ru": "Рагу с зелёным чили",
       "ur": "ہری مرچ کا سالن",
-      "id": "Green chile stew",
+      "id": "Semur Cabai Hijau",
       "ja": "グリーンチリ・シチュー"
     }
   },
@@ -2998,10 +2998,10 @@
       "fr": "Enchiladas empilées du Nouveau-Mexique",
       "ar": "إنشيلادا نيومكسيكو المكدسة",
       "bn": "নিউ মেক্সিকোর স্তরে সাজানো এনচিলাদা",
-      "pt": "Enchiladas neomexicanas apiladas",
-      "ru": "Enchiladas neomexicanas apiladas",
+      "pt": "Enchiladas empilhadas do Novo México",
+      "ru": "Энчиладас стопкой по-нью-мексикански",
       "ur": "نیو میکسیکو کے تہہ دار اینچیلادا",
-      "id": "Enchiladas neomexicanas apiladas",
+      "id": "Enchilada Bertumpuk Khas New Mexico",
       "ja": "ニューメキシコの重ねエンチラーダ"
     }
   },
@@ -3016,10 +3016,10 @@
       "fr": "Hot-dog de Sonora",
       "ar": "هوت دوغ سونوري",
       "bn": "সোনোরার হট ডগ",
-      "pt": "Sonoran hot dog",
-      "ru": "Sonoran hot dog",
+      "pt": "Cachorro-quente de Sonora",
+      "ru": "Сонорский хот-дог",
       "ur": "سونورا کا ہاٹ ڈاگ",
-      "id": "Sonoran hot dog",
+      "id": "Hot Dog Sonora",
       "ja": "ソノラ風ホットドッグ"
     }
   },
@@ -3034,10 +3034,10 @@
       "fr": "Taco navajo sur pain frit",
       "ar": "تاكو نافاهو (خبز مقلي)",
       "bn": "নাভাহো টাকো (ফ্রাই ব্রেড)",
-      "pt": "Navajo taco (fry bread)",
-      "ru": "Navajo taco (fry bread)",
+      "pt": "Taco navajo (pão frito)",
+      "ru": "Тако навахо на жареном хлебе",
       "ur": "ناواہو ٹاکو (تلی روٹی)",
-      "id": "Navajo taco (fry bread)",
+      "id": "Taco Navajo (Fry Bread)",
       "ja": "ナバホ・タコ（フライブレッド）"
     }
   },
@@ -3052,10 +3052,10 @@
       "fr": "Truite des montagnes Rocheuses",
       "ar": "تروتة جبال روكي",
       "bn": "রকি মাউন্টেন ট্রাউট",
-      "pt": "Trucha de las Montañas Rocosas",
-      "ru": "Trucha de las Montañas Rocosas",
+      "pt": "Truta das Montanhas Rochosas",
+      "ru": "Форель Скалистых гор",
       "ur": "راکی ماؤنٹین ٹراؤٹ",
-      "id": "Trucha de las Montañas Rocosas",
+      "id": "Trout Pegunungan Rocky",
       "ja": "ロッキー山脈のます料理"
     }
   },
@@ -3070,10 +3070,10 @@
       "fr": "Omelette de Denver",
       "ar": "أومليت دنفر",
       "bn": "ডেনভার অমলেট",
-      "pt": "Denver omelette",
-      "ru": "Denver omelette",
+      "pt": "Omelete de Denver",
+      "ru": "Денверский омлет",
       "ur": "ڈینور آملیٹ",
-      "id": "Denver omelette",
+      "id": "Omelet Denver",
       "ja": "デンバー・オムレツ"
     }
   },
@@ -3088,10 +3088,10 @@
       "fr": "Saumon sur planche de cèdre",
       "ar": "سلمون على لوح الأرز",
       "bn": "সিডার কাঠের পাটায় স্যামন",
-      "pt": "Salmón a la tabla de cedro",
-      "ru": "Salmón a la tabla de cedro",
+      "pt": "Salmão na prancha de cedro",
+      "ru": "Лосось на кедровой дощечке",
       "ur": "دیودار کے تختے پر سالمن",
-      "id": "Salmón a la tabla de cedro",
+      "id": "Salmon Panggang Papan Cedar",
       "ja": "シダープランク・サーモン"
     }
   },
@@ -3103,13 +3103,13 @@
       "en": "Marionberry pie",
       "zh": "马里恩莓派",
       "hi": "मैरियनबेरी पाई",
-      "fr": "Marionberry pie",
+      "fr": "Tourte aux marionberries",
       "ar": "فطيرة توت ماريون",
       "bn": "ম্যারিয়নবেরি পাই",
-      "pt": "Marionberry pie",
-      "ru": "Marionberry pie",
+      "pt": "Torta de marionberry",
+      "ru": "Пирог с ежевикой марион",
       "ur": "میریئن بیری پائی",
-      "id": "Marionberry pie",
+      "id": "Pai Marionberry",
       "ja": "マリオンベリー・パイ"
     }
   },
@@ -3121,13 +3121,13 @@
       "en": "Ahi poke",
       "zh": "夏威夷金枪鱼波奇",
       "hi": "आही पोके",
-      "fr": "Poke de atún (ahi poke)",
+      "fr": "Poke au thon ahi",
       "ar": "آهي بوكي",
       "bn": "আহি পোকে",
-      "pt": "Poke de atún (ahi poke)",
-      "ru": "Poke de atún (ahi poke)",
+      "pt": "Ahi poke",
+      "ru": "Ахи-поке",
       "ur": "آہی پوکے",
-      "id": "Poke de atún (ahi poke)",
+      "id": "Ahi Poke",
       "ja": "アヒ・ポケ"
     }
   },
@@ -3143,9 +3143,9 @@
       "ar": "لوكو موكو",
       "bn": "লোকো মোকো",
       "pt": "Loco moco",
-      "ru": "Loco moco",
+      "ru": "Локо-моко",
       "ur": "لوکو موکو",
-      "id": "Loco moco",
+      "id": "Loco Moco",
       "ja": "ロコモコ"
     }
   },
@@ -3161,9 +3161,9 @@
       "ar": "سبام موسوبي",
       "bn": "স্প্যাম মুসুবি",
       "pt": "Spam musubi",
-      "ru": "Spam musubi",
+      "ru": "Мусуби со Spam",
       "ur": "اسپیم موسوبی",
-      "id": "Spam musubi",
+      "id": "Spam Musubi",
       "ja": "スパムむすび"
     }
   },
@@ -3175,13 +3175,13 @@
       "en": "Funeral potatoes",
       "zh": "犹他奶酪焗薯丝（Funeral potatoes）",
       "hi": "फ्यूनरल पोटैटोज़",
-      "fr": "Funeral potatoes",
+      "fr": "Funeral potatoes, gratin de pommes de terre de l'Utah",
       "ar": "بطاطس الجنائز",
       "bn": "ফিউনারেল পটেটোস",
       "pt": "Funeral potatoes",
-      "ru": "Funeral potatoes",
+      "ru": "Картофельная запеканка «Фьюнерал потейтос»",
       "ur": "فیونرل پوٹیٹوز",
-      "id": "Funeral potatoes",
+      "id": "Funeral Potatoes",
       "ja": "フューネラル・ポテト"
     }
   },
@@ -3193,13 +3193,13 @@
       "en": "Alaskan king crab",
       "zh": "阿拉斯加帝王蟹",
       "hi": "अलास्का किंग क्रैब",
-      "fr": "Cangrejo real de Alaska",
+      "fr": "Crabe royal d'Alaska",
       "ar": "سلطعون ملك ألاسكا",
       "bn": "আলাস্কার কিং ক্র্যাব",
-      "pt": "Cangrejo real de Alaska",
-      "ru": "Cangrejo real de Alaska",
+      "pt": "Caranguejo-real do Alasca",
+      "ru": "Аляскинский королевский краб",
       "ur": "الاسکا کا کنگ کریب",
-      "id": "Cangrejo real de Alaska",
+      "id": "Kepiting Raja Alaska",
       "ja": "アラスカのタラバガニ"
     }
   },
@@ -3211,11 +3211,11 @@
       "en": "Pasta carbonara",
       "zh": "卡邦尼意面",
       "hi": "पास्ता कार्बोनारा",
-      "fr": "Pasta carbonara",
+      "fr": "Pâtes à la carbonara",
       "ar": "معكرونة كاربونارا",
       "bn": "পাস্তা কার্বোনারা",
-      "pt": "Pasta carbonara",
-      "ru": "Pasta carbonara",
+      "pt": "Massa à carbonara",
+      "ru": "Паста карбонара",
       "ur": "پاستا کاربونارا",
       "id": "Pasta carbonara",
       "ja": "パスタ・カルボナーラ"
@@ -3229,13 +3229,13 @@
       "en": "Neapolitan-style buffalo mozzarella pizza",
       "zh": "那不勒斯水牛马苏里拉披萨",
       "hi": "नेपोलिटन शैली का भैंस के दूध के मोज़रेला वाला पिज़्ज़ा",
-      "fr": "Pizza napolitana con mozzarella de búfala",
+      "fr": "Pizza à la mozzarella de bufflonne, façon napolitaine",
       "ar": "بيتزا موزاريلا الجاموس على الطريقة النابولية",
       "bn": "নেপলস ধাঁচের মহিষের মোৎসারেলার পিৎজা",
-      "pt": "Pizza napolitana con mozzarella de búfala",
-      "ru": "Pizza napolitana con mozzarella de búfala",
+      "pt": "Pizza de muçarela de búfala ao estilo napolitano",
+      "ru": "Пицца с моцареллой из буйволиного молока по-неаполитански",
       "ur": "نیپولیٹن طرز کا بھینس کے دودھ کے موزریلا کا پیزا",
-      "id": "Pizza napolitana con mozzarella de búfala",
+      "id": "Pizza mozzarella kerbau ala Napoli",
       "ja": "ナポリ風水牛モッツァレラのピッツァ"
     }
   },
@@ -3247,13 +3247,13 @@
       "en": "Risotto alla milanese",
       "zh": "米兰藏红花烩饭",
       "hi": "रिज़ोत्तो अल्ला मिलानेज़े",
-      "fr": "Risotto a la milanesa",
+      "fr": "Risotto à la milanaise",
       "ar": "ريزوتو آلا ميلانيزي",
       "bn": "রিসোত্তো আল্লা মিলানেসে",
-      "pt": "Risotto a la milanesa",
-      "ru": "Risotto a la milanesa",
+      "pt": "Risoto à milanesa",
+      "ru": "Ризотто по-милански",
       "ur": "ریزوتو آلا میلانیسے",
-      "id": "Risotto a la milanesa",
+      "id": "Risotto alla milanese",
       "ja": "リゾット・アッラ・ミラネーゼ"
     }
   },
@@ -3265,13 +3265,13 @@
       "en": "Coq au vin",
       "zh": "红酒炖鸡",
       "hi": "कोक ओ वैं",
-      "fr": "Coq au Vin",
+      "fr": "Coq au vin",
       "ar": "كوك أو فان",
       "bn": "কক ও ভ্যাঁ",
-      "pt": "Coq au Vin",
-      "ru": "Coq au Vin",
+      "pt": "Coq au vin",
+      "ru": "Кок-о-вен — курица в вине",
       "ur": "کوک او وین",
-      "id": "Coq au Vin",
+      "id": "Coq au vin",
       "ja": "コック・オー・ヴァン"
     }
   },
@@ -3287,7 +3287,7 @@
       "ar": "بويابيس",
       "bn": "বুইয়াবেস",
       "pt": "Bouillabaisse",
-      "ru": "Bouillabaisse",
+      "ru": "Буйабес",
       "ur": "بویابیس",
       "id": "Bouillabaisse",
       "ja": "ブイヤベース"
@@ -3301,13 +3301,13 @@
       "en": "Valencian paella",
       "zh": "瓦伦西亚烩饭",
       "hi": "वेलेंसिया की पाएया",
-      "fr": "Paella valenciana",
+      "fr": "Paella valencienne",
       "ar": "باييّا فالنسية",
       "bn": "ভালেন্সিয়ার পায়েয়া",
       "pt": "Paella valenciana",
-      "ru": "Paella valenciana",
+      "ru": "Валенсийская паэлья",
       "ur": "والینسیا کی پائییا",
-      "id": "Paella valenciana",
+      "id": "Paella Valencia",
       "ja": "バレンシアのパエリア"
     }
   },
@@ -3319,13 +3319,13 @@
       "en": "Andalusian gazpacho",
       "zh": "安达卢西亚冷蔬菜汤",
       "hi": "अंदालूसी गज़पाचो",
-      "fr": "Gazpacho andaluz",
+      "fr": "Gaspacho andalou",
       "ar": "غاسباتشو أندلسي",
       "bn": "আন্দালুসিয়ার গাসপাচো",
-      "pt": "Gazpacho andaluz",
-      "ru": "Gazpacho andaluz",
+      "pt": "Gaspacho andaluz",
+      "ru": "Андалусийский гаспачо",
       "ur": "اندلسی گازپاچو",
-      "id": "Gazpacho andaluz",
+      "id": "Gazpacho Andalusia",
       "ja": "アンダルシアのガスパチョ"
     }
   },
@@ -3341,7 +3341,7 @@
       "ar": "زاوربراتن",
       "bn": "সাওয়ারব্রাটেন",
       "pt": "Sauerbraten",
-      "ru": "Sauerbraten",
+      "ru": "Зауэрбратен",
       "ur": "زاؤربراٹن",
       "id": "Sauerbraten",
       "ja": "ザウアーブラーテン"
@@ -3359,7 +3359,7 @@
       "ar": "موساكا",
       "bn": "মুসাকা",
       "pt": "Moussaka",
-      "ru": "Moussaka",
+      "ru": "Мусака",
       "ur": "موساکا",
       "id": "Moussaka",
       "ja": "ムサカ"
@@ -3377,7 +3377,7 @@
       "ar": "باكالاو آ براش",
       "bn": "বাকালিয়াউ আ ব্রাশ",
       "pt": "Bacalhau à Brás",
-      "ru": "Bacalhau à Brás",
+      "ru": "Бакальяу-а-Браш",
       "ur": "باکالیاؤ آ براش",
       "id": "Bacalhau à Brás",
       "ja": "バカリャウ・ア・ブラス"
@@ -3391,13 +3391,13 @@
       "en": "Tiramisu with optional Marsala",
       "zh": "提拉米苏（可加马萨拉酒）",
       "hi": "वैकल्पिक मार्साला वाला तिरामिसू",
-      "fr": "Tiramisú con Marsala",
+      "fr": "Tiramisu au marsala facultatif",
       "ar": "تيراميسو بمارسالا اختياري",
       "bn": "ঐচ্ছিক মারসালাসহ তিরামিসু",
-      "pt": "Tiramisú con Marsala",
-      "ru": "Tiramisú con Marsala",
+      "pt": "Tiramisù com Marsala opcional",
+      "ru": "Тирамису с марсалой по желанию",
       "ur": "اختیاری مارسالا کے ساتھ تیرامیسو",
-      "id": "Tiramisú con Marsala",
+      "id": "Tiramisu dengan Marsala opsional",
       "ja": "好みでマルサラを加えるティラミス"
     }
   },
@@ -3409,13 +3409,13 @@
       "en": "Ossobuco alla milanese",
       "zh": "米兰炖小牛膝",
       "hi": "ओसोबूको अल्ला मिलानेज़े",
-      "fr": "Ossobuco a la milanesa",
+      "fr": "Osso buco à la milanaise",
       "ar": "أوسوبوكو آلا ميلانيزي",
       "bn": "ওসোবুকো আল্লা মিলানেসে",
-      "pt": "Ossobuco a la milanesa",
-      "ru": "Ossobuco a la milanesa",
+      "pt": "Ossobuco à milanesa",
+      "ru": "Оссобуко по-милански",
       "ur": "اوسوبوکو آلا میلانیسے",
-      "id": "Ossobuco a la milanesa",
+      "id": "Ossobuco alla milanese",
       "ja": "オッソブーコ・アッラ・ミラネーゼ"
     }
   },
@@ -3431,7 +3431,7 @@
       "ar": "راتاتوي",
       "bn": "রাতাতুই",
       "pt": "Ratatouille",
-      "ru": "Ratatouille",
+      "ru": "Рататуй",
       "ur": "راتاتوی",
       "id": "Ratatouille",
       "ja": "ラタトゥイユ"
@@ -3449,7 +3449,7 @@
       "ar": "كريب سوزيت",
       "bn": "ক্রেপ সুজেত",
       "pt": "Crêpes Suzette",
-      "ru": "Crêpes Suzette",
+      "ru": "Креп-сюзетт",
       "ur": "کریپ سوزیت",
       "id": "Crêpes Suzette",
       "ja": "クレープ・シュゼット"
@@ -3463,13 +3463,13 @@
       "en": "Spanish potato tortilla",
       "zh": "西班牙土豆蛋饼",
       "hi": "स्पेनी आलू टॉर्टिया",
-      "fr": "Tortilla española de papa",
+      "fr": "Tortilla espagnole aux pommes de terre",
       "ar": "تورتيلا البطاطس الإسبانية",
       "bn": "স্প্যানিশ আলুর তোর্তিয়া",
-      "pt": "Tortilla española de papa",
-      "ru": "Tortilla española de papa",
+      "pt": "Tortilla espanhola de batata",
+      "ru": "Испанская картофельная тортилья",
       "ur": "ہسپانوی آلو ٹورٹیلا",
-      "id": "Tortilla española de papa",
+      "id": "Tortilla kentang Spanyol",
       "ja": "スペインのじゃがいもトルティージャ"
     }
   },
@@ -3481,13 +3481,13 @@
       "en": "Galician-style octopus",
       "zh": "加利西亚风味章鱼",
       "hi": "गालिसिया शैली का ऑक्टोपस",
-      "fr": "Pulpo a la gallega",
+      "fr": "Poulpe à la galicienne",
       "ar": "أخطبوط على طريقة غاليسيا",
       "bn": "গালিসিয়া ধাঁচের অক্টোপাস",
-      "pt": "Pulpo a la gallega",
-      "ru": "Pulpo a la gallega",
+      "pt": "Polvo à galega",
+      "ru": "Осьминог по-галисийски",
       "ur": "گالیسیا طرز کا آکٹوپس",
-      "id": "Pulpo a la gallega",
+      "id": "Gurita ala Galicia",
       "ja": "ガリシア風たこ"
     }
   },
@@ -3499,11 +3499,11 @@
       "en": "Wiener Schnitzel",
       "zh": "维也纳炸小牛排",
       "hi": "वीनर श्नित्सेल",
-      "fr": "Wiener Schnitzel",
+      "fr": "Escalope viennoise (Wiener Schnitzel)",
       "ar": "شنيتسل فيينا",
       "bn": "ভিয়েনার শ্নিৎসেল",
       "pt": "Wiener Schnitzel",
-      "ru": "Wiener Schnitzel",
+      "ru": "Венский шницель",
       "ur": "وینر شنٹزل",
       "id": "Wiener Schnitzel",
       "ja": "ウィーナー・シュニッツェル"
@@ -3521,7 +3521,7 @@
       "ar": "كيزه شبيتسله",
       "bn": "কেজেশ্পেৎসলে",
       "pt": "Käsespätzle",
-      "ru": "Käsespätzle",
+      "ru": "Кезешпецле",
       "ur": "کیزے شپیتسلے",
       "id": "Käsespätzle",
       "ja": "ケーゼシュペッツレ"
@@ -3535,13 +3535,13 @@
       "en": "Chicken souvlaki",
       "zh": "希腊柠檬鸡肉串",
       "hi": "चिकन सूवलाकी",
-      "fr": "Souvlaki",
+      "fr": "Souvlaki de poulet",
       "ar": "سوفلاكي الدجاج",
       "bn": "মুরগির সুভলাকি",
-      "pt": "Souvlaki",
-      "ru": "Souvlaki",
+      "pt": "Souvlaki de frango",
+      "ru": "Куриные сувлаки",
       "ur": "مرغی سوولاکی",
-      "id": "Souvlaki",
+      "id": "Souvlaki ayam",
       "ja": "鶏肉のスブラキ"
     }
   },
@@ -3557,7 +3557,7 @@
       "ar": "باستيش دي ناتا",
       "bn": "পাশ্তেইশ দে নাতা",
       "pt": "Pastéis de nata",
-      "ru": "Pastéis de nata",
+      "ru": "Паштел-де-ната",
       "ur": "پاستیش دے ناتا",
       "id": "Pastéis de nata",
       "ja": "パステイス・デ・ナタ"
