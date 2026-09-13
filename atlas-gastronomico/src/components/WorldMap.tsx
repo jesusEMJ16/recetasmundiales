@@ -7,6 +7,7 @@ import type { Map as LeafletMap, LayerGroup, GeoJSON as GeoJSONLayer, Path } fro
 import type { FeatureCollection } from "geojson";
 import { PLACES } from "../data/places";
 import ATLAS from "../data/world-atlas.json";
+import COUNTRY_LABELS from "../data/country-labels.json";
 import { RECIPES } from "../data/recipes";
 import { buildRecipeCounts } from "../domain/atlas";
 import { useLocale } from "../i18n/useLocale";
@@ -19,6 +20,7 @@ const BY_ID = new Map(PLACES.map(p => [p.id, p]));
 const COUNTRIES = ATLAS.map(c => BY_ID.get(c.id)!);
 const COUNTS = buildRecipeCounts(PLACES, RECIPES);
 const INDEX = new Map(ATLAS.map(c => [c.id, c]));
+const LABELS: Record<string, { lat: number; lng: number; radius: number }> = COUNTRY_LABELS;
 const WORLD_BOUNDS: [[number, number], [number, number]] = [[-53, -170], [74, 179]];
 const normalize = (s: string) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
@@ -77,6 +79,22 @@ export function WorldMap() {
             label.textContent = `${translatePlaceName(country,locale)} · ${t.place.recipes(COUNTS.get(country.id) ?? 0)}`;
             layer.bindTooltip(label, { sticky: true });
             layer.on("click", () => selectCountry(country.id));
+            layer.on("add", () => {
+              const element = (layer as Path).getElement();
+              if (!element) return;
+              element.setAttribute("tabindex", "0");
+              element.setAttribute("role", "button");
+              element.setAttribute("aria-label", label.textContent!);
+              element.setAttribute("data-country", country.countryCode);
+              element.addEventListener("keydown", event => {
+                if (["Enter", " "].includes((event as KeyboardEvent).key)) {
+                  event.preventDefault();
+                  selectCountry(country.id);
+                }
+              });
+              element.addEventListener("focus", () => layer.openTooltip());
+              element.addEventListener("blur", () => layer.closeTooltip());
+            });
           },
         }).addTo(map);
         const markers = L.layerGroup().addTo(map);
@@ -84,24 +102,28 @@ export function WorldMap() {
         const renderWorld = () => {
           markers.clearLayers();
           if (!map || activeId.current) return;
-          const occupied: {x:number;y:number}[] = [];
-          for (const country of [...COUNTRIES].sort((a,b) => COUNTS.get(b.id)!-COUNTS.get(a.id)!)) {
-            if (!map.getBounds().contains([country.lat,country.lng])) continue;
-            const point = map.latLngToContainerPoint([country.lat,country.lng]);
-            const crowded = occupied.some(p => Math.abs(p.x-point.x)<80 && Math.abs(p.y-point.y)<40);
-            const label = document.createElement("span");
-            label.textContent = `${translatePlaceName(country,locale)} · ${t.place.recipes(COUNTS.get(country.id) ?? 0)}`;
-            if (crowded) {
-              L.circleMarker([country.lat,country.lng], { radius: 5, className: "map-country-dot", weight: 1.5, fillOpacity: 1 })
-                .bindTooltip(label).on("click", () => selectCountry(country.id)).addTo(markers);
-            } else {
-              occupied.push(point);
-              const el=document.createElement("div");el.className="map-pin-inner";
-              const code=document.createElement("span");code.textContent=country.countryCode;el.append(code);
-              const total=document.createElement("small");total.textContent=String(COUNTS.get(country.id) ?? 0);el.append(total);
-              L.marker([country.lat,country.lng], { icon:L.divIcon({html:el,className:"map-pin",iconSize:[70,36],iconAnchor:[35,18]}),title:label.textContent,alt:label.textContent,keyboard:true })
-                .bindTooltip(label).on("click", () => selectCountry(country.id)).addTo(markers);
-            }
+          for (const country of COUNTRIES) {
+            const anchor = LABELS[country.countryCode];
+            if (!anchor || !map.getBounds().contains([anchor.lat, anchor.lng])) continue;
+            // The entire two-line label fits inside an inscribed land circle.
+            // Small countries reveal their labels on zoom instead of pushing
+            // text into their neighbours or replacing it with floating dots.
+            const scale = Math.min(1, anchor.radius * 2 ** map.getZoom() / 15);
+            if (scale < .73) continue;
+            const el = document.createElement("div");
+            el.className = "map-country-text";
+            el.style.setProperty("--label-scale", String(scale));
+            el.setAttribute("aria-hidden", "true");
+            const code = document.createElement("span");
+            code.textContent = country.countryCode;
+            const total = document.createElement("small");
+            total.textContent = String(COUNTS.get(country.id) ?? 0);
+            el.append(code, total);
+            L.marker([anchor.lat, anchor.lng], {
+              icon: L.divIcon({ html: el, className: "map-country-label", iconSize: [20, 22], iconAnchor: [10, 11] }),
+              interactive: false,
+              keyboard: false,
+            }).addTo(markers);
           }
         };
         map.on("moveend zoomend resize", renderWorld);
@@ -135,10 +157,11 @@ export function WorldMap() {
     const info=INDEX.get(selectedId)!;
     worldMarkers.current?.clearLayers();
     map.flyToBounds(info.bounds as [[number,number],[number,number]], {padding:[32,32],maxZoom:10,duration:.65,animate:!window.matchMedia("(prefers-reduced-motion: reduce)").matches});
-    setRegionStatus("loading");
     async function showRegions() {
       try {
         const L=await import("leaflet");
+        if (disposed) return;
+        setRegionStatus("loading");
         let data=regionCache.current.get(country.countryCode);
         if (!data) {
           const response=await fetch(`/geo/regions/${country.countryCode}.geojson`,{signal:controller.signal});

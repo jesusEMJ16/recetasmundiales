@@ -182,7 +182,11 @@
 .map-status button { padding: 10px 20px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
 .map-land { fill: var(--map-land); stroke: var(--map-border); fill-opacity: 1; }
 .map-land-available { fill: var(--map-active); cursor: pointer; }
-.map-land-available:hover { fill: var(--brand-text); }
+.map-land-available:hover, .map-land-available:focus { fill: #9dc8aa; }
+.dark .map-land-available:hover, .dark .map-land-available:focus { fill: #497558; }
+.map-country-label { background: transparent; border: 0; pointer-events: none; }
+.map-country-text { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 20px; height: 22px; color: var(--ink); font-size: 11px; line-height: 12px; font-weight: 800; text-align: center; transform: scale(var(--label-scale, 1)); transform-origin: center; }
+.map-country-text small { display: block; font-size: 10px; line-height: 10px; font-weight: 600; font-variant-numeric: tabular-nums; }
 .map-state { fill: transparent; stroke: var(--map-border); }
 .map-pin { border: 0; background: transparent; }
 .map-pin-inner { display: flex; align-items: center; justify-content: center; gap: 5px; padding: 6px 9px; min-height: 36px; background: var(--card); color: var(--ink); border: 1.5px solid var(--brand-text); border-radius: 11px; box-shadow: 0 3px 10px rgb(0 0 0 / 14%); font-size: 12px; font-weight: 800; white-space: nowrap; }
