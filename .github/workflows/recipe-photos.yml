@@ -5,42 +5,42 @@ on:
     paths:
       - '.github/workflows/recipe-photos.yml'
       - 'atlas-gastronomico/scripts/*photo*'
-      - 'atlas-gastronomico/src/data/*photo*'
-      - 'atlas-gastronomico/src/data/recipe-images.ts'
   workflow_dispatch:
 permissions:
   contents: read
+concurrency:
+  group: recipe-photo-review
+  cancel-in-progress: false
 jobs:
   review:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
-      - name: Inventory existing recipe images
-        shell: bash
-        run: |
-          mkdir -p photo-review
-          python3 - <<'PY'
-          import json, pathlib, re
-          root = pathlib.Path('atlas-gastronomico')
-          recipes = json.loads((root/'src/data/recipes-reviewed.json').read_text())
-          text = (root/'src/data/recipe-images.ts').read_text()
-          entries = dict(re.findall(r'"([^"\n]+)":\s*\{\s*url:\s*"([^"\n]+)"', text))
-          rows = []
-          for r in recipes:
-              url = entries.get(r['slug'])
-              state = 'missing' if not url else 'external' if url.startswith('https://') else 'local' if (root/'public'/url.lstrip('/')).is_file() else 'broken-local'
-              rows.append({'slug':r['slug'], 'dishName':r['dishName'], 'placeId':r['placeId'], 'summary':r['summary'], 'state':state, 'image':url})
-          report = {'counts': {s:sum(r['state']==s for r in rows) for s in ['local','external','missing','broken-local']}, 'recipes':rows}
-          pathlib.Path('photo-review/inventory.json').write_text(json.dumps(report, ensure_ascii=False, indent=2))
-          print(json.dumps(report, ensure_ascii=False, indent=2))
-          PY
-          git archive --format=zip --output=photo-review/source.zip HEAD atlas-gastronomico netlify.toml
-      - uses: actions/upload-artifact@v4
+      - uses: actions/setup-node@v4
         with:
-          name: worldbites-photo-review
+          node-version: 22
+          cache: npm
+          cache-dependency-path: atlas-gastronomico/package-lock.json
+      - name: Install locked dependencies and collect local Next guides
+        working-directory: atlas-gastronomico
+        run: |
+          npm ci
+          mkdir -p ../photo-review/next-docs
+          if [ -d node_modules/next/dist/docs ]; then
+            cp -r node_modules/next/dist/docs ../photo-review/next-docs/installed
+          fi
+          npm test > ../photo-review/baseline-tests.txt 2>&1
+      - name: Collect open-license candidates without changing application images
+        run: |
+          python3 -m pip install Pillow==11.3.0
+          python3 atlas-gastronomico/scripts/review-recipe-photos.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: worldbites-photo-candidates
           path: photo-review/
           retention-days: 7
           if-no-files-found: error
