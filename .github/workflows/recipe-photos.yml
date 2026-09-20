@@ -1,0 +1,46 @@
+name: Recipe photo review
+on:
+  push:
+    branches: [fix/recipe-photos-2026-09-20]
+    paths:
+      - '.github/workflows/recipe-photos.yml'
+      - 'atlas-gastronomico/scripts/*photo*'
+      - 'atlas-gastronomico/src/data/*photo*'
+      - 'atlas-gastronomico/src/data/recipe-images.ts'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Inventory existing recipe images
+        shell: bash
+        run: |
+          mkdir -p photo-review
+          python3 - <<'PY'
+          import json, pathlib, re
+          root = pathlib.Path('atlas-gastronomico')
+          recipes = json.loads((root/'src/data/recipes-reviewed.json').read_text())
+          text = (root/'src/data/recipe-images.ts').read_text()
+          entries = dict(re.findall(r'"([^"\n]+)":\s*\{\s*url:\s*"([^"\n]+)"', text))
+          rows = []
+          for r in recipes:
+              url = entries.get(r['slug'])
+              state = 'missing' if not url else 'external' if url.startswith('https://') else 'local' if (root/'public'/url.lstrip('/')).is_file() else 'broken-local'
+              rows.append({'slug':r['slug'], 'dishName':r['dishName'], 'placeId':r['placeId'], 'summary':r['summary'], 'state':state, 'image':url})
+          report = {'counts': {s:sum(r['state']==s for r in rows) for s in ['local','external','missing','broken-local']}, 'recipes':rows}
+          pathlib.Path('photo-review/inventory.json').write_text(json.dumps(report, ensure_ascii=False, indent=2))
+          print(json.dumps(report, ensure_ascii=False, indent=2))
+          PY
+          git archive --format=zip --output=photo-review/source.zip HEAD atlas-gastronomico netlify.toml
+      - uses: actions/upload-artifact@v4
+        with:
+          name: worldbites-photo-review
+          path: photo-review/
+          retention-days: 7
+          if-no-files-found: error
