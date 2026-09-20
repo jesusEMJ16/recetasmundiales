@@ -1,0 +1,53 @@
+name: Photo source diagnostics
+on:
+  push:
+    branches: [fix/recipe-photos-2026-09-20]
+    paths: ['.github/workflows/photo-source-probe.yml']
+permissions:
+  contents: read
+jobs:
+  sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Read provider metadata
+        run: |
+          mkdir -p source-probe
+          python3 - <<'PY'
+          import json, pathlib, urllib.request, urllib.parse, time
+          out=pathlib.Path('source-probe')
+          def get(url):
+              request=urllib.request.Request(url,headers={'User-Agent':'WorldBitesPhotoReview/1.0 (+https://github.com/jesusEMJ16/recetasmundiales)'})
+              with urllib.request.urlopen(request,timeout=20) as r:
+                  return r.read(12000000)
+          query=urllib.parse.urlencode({'action':'query','format':'json','titles':'File:Cacio e pepe.jpg','prop':'imageinfo','iiprop':'url|size|extmetadata','iiurlwidth':960})
+          try:
+              data=json.loads(get('https://commons.wikimedia.org/w/api.php?'+query))
+              (out/'commons.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+              for p in data['query']['pages'].values():
+                  info=p['imageinfo'][0]
+                  print('THUMB',info.get('thumburl'),'ORIGINAL',info['url'])
+                  started=time.time()
+                  image=get(info['url'])
+                  (out/'original.jpg').write_bytes(image)
+                  print('ORIGINAL DOWNLOAD',len(image),'bytes',time.time()-started,'seconds')
+          except Exception as error:
+              print('COMMONS ERROR',str(error))
+          for name,term in [('guacamaya','guacamaya torta'),('coricos','coricos'),('sopa','"sopa de pan"'),('tatemado','tatemado')]:
+              try:
+                  q=urllib.parse.urlencode({'q':term,'license_type':'commercial','source':'flickr','page_size':20})
+                  data=json.loads(get('https://api.openverse.org/v1/images/?'+q))
+                  (out/(name+'.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+                  print(name,data.get('result_count'))
+              except Exception as error:
+                  (out/(name+'-error.txt')).write_text(str(error))
+                  print(name,str(error))
+                  if '429' in str(error): break
+              time.sleep(2)
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: worldbites-source-probe
+          path: source-probe/
+          retention-days: 7
