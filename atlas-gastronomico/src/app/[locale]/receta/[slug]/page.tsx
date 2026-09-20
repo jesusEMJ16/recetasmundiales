@@ -5,9 +5,11 @@ import { RECIPES } from "../../../../data/recipes";
 import { PLACES } from "../../../../data/places";
 import { getBreadcrumb, placePathSlugs } from "../../../../domain/places";
 import { getRelatedRecipes } from "../../../../domain/related";
-import { getRecipeImage } from "../../../../data/recipe-images";
+import { getRecipeImage, photoSrcSet, absolutePhotoUrl } from "../../../../data/recipe-images";
 import { StarRating } from "../../../../components/StarRating";
 import { RecipeCard } from "../../../../components/RecipeCard";
+import { FoodPhoto } from "../../../../components/FoodPhoto";
+import { photoUi } from "../../../../i18n/photo-ui";
 import { isLocale, locales, localeMeta, localeDirection } from "../../../../i18n/config";
 import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
@@ -27,6 +29,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const r = isLocale(locale) ? translateRecipe(base, locale) : base;
   
   const canonicalUrl = `https://worldbitesapp.com/${locale}/receta/${slug}`;
+  const photo = getRecipeImage(slug);
+  const images = photo ? [{ url: absolutePhotoUrl(photo), width: photo.width, height: photo.height, alt: r.dishName }] : [];
   
   // Get place for breadcrumb
   const place = PLACES.find((p) => p.id === r.placeId);
@@ -75,9 +79,11 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       locale: localeMeta[recipeContentLocale(locale, base.id)].htmlLang,
       url: canonicalUrl,
       siteName: "Atlas Gastronómico Mundial",
+      images,
     },
     twitter: {
-      card: "summary_large_image",
+      card: photo ? "summary_large_image" : "summary",
+      images,
       title: r.dishName,
       description: r.summary,
     },
@@ -86,9 +92,6 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 function iso(min: number) {
   return `PT${min}M`;
-}
-function hasPhoto(src: string) {
-  return src.startsWith("http") || src.startsWith("/");
 }
 
 export default async function RecipePage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
@@ -107,7 +110,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
   const related = getRelatedRecipes(base, RECIPES, 6);
 
   const credit = getRecipeImage(recipe.slug);
-  const photo = credit?.url ?? (hasPhoto(recipe.image) ? recipe.image : null);
+  const photo = credit?.url;
 
   // Build breadcrumb schema
   const placeName = place ? translatePlaceName(place, locale as Locale) : "Receta";
@@ -141,7 +144,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
     "@type": "Recipe",
     name: recipe.dishName,
     description: recipe.summary,
-    image: photo ? [photo] : undefined,
+    image: credit ? [absolutePhotoUrl(credit)] : undefined,
     author: { "@type": "Organization", name: "Atlas Gastronómico Mundial" },
     prepTime: iso(recipe.prepTimeMin),
     cookTime: iso(recipe.cookTimeMin),
@@ -190,21 +193,19 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
 
       <figure className="reveal-scale space-y-1.5" style={{ animationDelay: "120ms" }}>
         <div className="overflow-hidden rounded-[var(--radius-xl2)] border border-line shadow-[var(--shadow-card)]">
-          {photo ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img src={photo} alt={recipe.dishName} className="aspect-[16/9] w-full object-cover" />
-          ) : (
-            <div className="img-placeholder flex aspect-[16/9] w-full items-center justify-center">
-              <span className="text-7xl opacity-70">🍽️</span>
-            </div>
-          )}
+          <FoodPhoto src={photo} srcSet={credit ? photoSrcSet(credit) : undefined}
+            sizes="(max-width: 767px) 100vw, 768px" alt={recipe.dishName}
+            width={credit?.width} height={credit?.height} priority
+            className="aspect-[16/9] w-full object-cover"
+            fallbackLabel={photoUi[locale].pending} />
         </div>
         {credit && (
           <figcaption className="text-right text-xs text-ink-faint">
-            {t.recipe.photoCredit}: {credit.author} · {credit.license} ·{" "}
+            {t.recipe.photoCredit}: {credit.author} · <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-terracota">{credit.license}</a> ·{" "}
             <a href={credit.source} target="_blank" rel="noopener noreferrer" className="underline hover:text-terracota">
-              {t.recipe.via} Wikimedia Commons
+              {t.recipe.via} {credit.provider}
             </a>
+            <span className="block mt-1">{photoUi[locale].transformed}</span>
           </figcaption>
         )}
       </figure>
