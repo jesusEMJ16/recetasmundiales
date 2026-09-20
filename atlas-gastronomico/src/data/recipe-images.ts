@@ -14,7 +14,14 @@ export interface RecipeImage {
   source: string;
   provider: string;
 }
-export const RECIPE_IMAGES: Readonly<Record<string, RecipeImage>> = photos;
+// Some source metadata still contains historical HTTP Creative Commons URLs.
+// Preserve that evidence in JSON but send readers to the same license over HTTPS.
+export const RECIPE_IMAGES: Readonly<Record<string, RecipeImage>> = Object.fromEntries(
+  Object.entries(photos).map(([slug, photo]) => [slug, {
+    ...photo,
+    licenseUrl: photo.licenseUrl.replace(/^http:\/\//, "https://"),
+  }])
+);
 export function getRecipeImage(slug: string): RecipeImage | undefined {
   return RECIPE_IMAGES[slug];
 }
