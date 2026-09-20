@@ -1,4 +1,4 @@
-name: Additional photo sources
+name: Specific recipe photo sources
 on:
   push:
     branches: [fix/recipe-photos-2026-09-20]
@@ -14,12 +14,11 @@ jobs:
         with:
           persist-credentials: false
       - run: python3 -m pip install Pillow==11.3.0
-      - name: Collect additional candidates and primary license evidence
-        timeout-minutes: 6
-        run: python3 atlas-gastronomico/scripts/review-openverse.py
+      - name: Collect precisely named dishes for visual review
+        run: python3 atlas-gastronomico/scripts/review-additional.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: worldbites-additional-candidates
-          path: source-probe/
+          name: worldbites-specific-candidates
+          path: specific-candidates/
           retention-days: 7
