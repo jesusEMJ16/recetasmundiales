@@ -1,10 +1,9 @@
-"""Discover, never automatically publish, Commons photo candidates.
-
-Run from atlas-gastronomico: python scripts/review-recipe-photos.py
-Requires Pillow. All downloads stay in ../photo-review, outside the application.
-A human/visual review and an explicit selection manifest are required to publish.
+"""Collect candidates, never publish them. Explicit visual selection is required.
+Run: python scripts/review-recipe-photos.py (requires Pillow).
+Downloads stay outside the app in photo-review/.
 """
 from __future__ import annotations
+import hashlib
 import html
 import io
 import json
@@ -25,7 +24,7 @@ ALLOWED_HOSTS = {'commons.wikimedia.org', 'upload.wikimedia.org'}
 
 def download(url: str) -> bytes:
     if urlparse(url).scheme != 'https' or urlparse(url).hostname not in ALLOWED_HOSTS:
-        raise ValueError('Unapproved image host')
+        raise ValueError('Unapproved image host: ' + str(urlparse(url).hostname))
     for attempt in range(3):
         try:
             with urlopen(Request(url, headers={'User-Agent': UA}), timeout=35) as response:
@@ -47,11 +46,15 @@ def text(value: str) -> str:
 
 
 def search(term: str) -> list[dict]:
-    params = {'action':'query', 'format':'json', 'generator':'search',
-              'gsrsearch':term + ' filetype:bitmap', 'gsrnamespace':6, 'gsrlimit':6,
-              'prop':'imageinfo', 'iiprop':'url|size|mime|extmetadata', 'iiurlwidth':960,
+    params = {'action':'query', 'format':'json',
+              'prop':'imageinfo', 'iiprop':'url|size|mime|extmetadata',
               'iiextmetadatafilter':'Artist|LicenseShortName|LicenseUrl|ImageDescription|Credit|UsageTerms',
               'maxlag':5}
+    if term.startswith('File:'):
+        params['titles'] = term
+    else:
+        params.update({'generator':'search', 'gsrsearch':term + ' filetype:bitmap',
+                       'gsrnamespace':6, 'gsrlimit':8})
     data = json.loads(download('https://commons.wikimedia.org/w/api.php?' + urlencode(params)))
     if 'error' in data:
         raise RuntimeError(str(data['error']))
@@ -59,8 +62,35 @@ def search(term: str) -> list[dict]:
 
 
 requests = json.loads((ROOT/'scripts/photo-requests.json').read_text())
+requests.update({
+ 'khao-soi':['"khao soi" -"OK Chicken"'],
+ 'guacamayas-leon':['"guacamaya" "torta"','"guacamayas" "León"'],
+ 'cochito-horneado-chiapaneco':['File:CochitoArriaga.jpg','File:CochitoCorzo2.jpg'],
+ 'coricos-de-mocorito':['"coricos" "galletas"','"tacuarines"'],
+ 'cortadillo-de-cuatro-cienegas':['"cortadillo" "carne"','"carne guisada" -"Noir"'],
+ 'pollo-de-san-marcos':['"pollo" "San Marcos" -"UNMSM" -"comedor"','"pollo en adobo"'],
+ 'el-bote-de-mazamitla':['"bote" "Mazamitla"','File:Caldo de res y verduras.jpg'],
+ 'fiambre-estilo-san-miguel-de-allende':['"fiambre" "Guanajuato"','"fiambre" "Mexico"','"fiambre" "salad"'],
+ 'gorditas-de-migajas-de-bernal':['"gorditas" "Bernal"','"gordita" "migajas"','"gorditas" "chicharrón"'],
+ 'lengua-mechada-de-tequisquiapan':['"lengua" "salsa"','"beef tongue" "sauce"'],
+ 'naranjete-de-huasca-de-ocampo':['"naranjete"','"orange liqueur" -"CARAFES"'],
+ 'tatemado-de-puerco-estilo-comala':['"tatemado" "Colima"','"tatemado" "puerco"'],
+ 'sopa-de-pan-coleta':['"sopa de pan"','"bread soup"'],
+ 'comiteco':['File:Comiteco.JPG'],
+ 'cafe-de-coatepec':['"coffee" "Coatepec"','"café" "taza"'],
+ 'mole-xiqueno':['"mole" "Xico" -"Shop"','"mole" "plate"'],
+ 'trucha-de-la-sierra-capulalpam':['"trucha" "asada"','"grilled trout"'],
+ 'cecina-de-yecapixtla':['"cecina" "Yecapixtla" -"Mostrador" -"Restaurante"'],
+ 'cecina-de-atlixco':['"cecina" "plato"','"cecina" "asada"'],
+ 'langosta-estilo-puerto-nuevo':['"lobster" "Puerto Nuevo"','"langosta" "plato"'],
+ 'cangrejo-real-alaska':['"king crab" "plate" -"Hogarth"','"king crab legs"'],
+ 'green-chile-stew-nuevo-mexico':['"green chile stew"','"chile verde" "pork"'],
+ 'zacahuil-huasteca-potosina':['"zacahuil" -"antes"'],
+ 'zacahuil-papantla':['"zacahuil" -"antes"']
+})
 report: dict[str, dict] = {}
 cache: dict[str, list[dict]] = {}
+byte_cache: dict[str, bytes] = {}
 for slug, terms in requests.items():
     candidates: list[dict] = []
     errors: list[str] = []
@@ -69,7 +99,7 @@ for slug, terms in requests.items():
         try:
             if term not in cache:
                 cache[term] = search(term)
-                time.sleep(1)
+                time.sleep(0.6)
             for page in cache[term]:
                 if page['title'] in seen:
                     continue
@@ -90,9 +120,11 @@ for slug, terms in requests.items():
                 author = val('Artist')
                 if not author:
                     continue
-                url = info.get('thumburl', info['url'])
+                url = info['url']
                 try:
-                    body = download(url)
+                    if url not in byte_cache:
+                        byte_cache[url] = download(url)
+                    body = byte_cache[url]
                     image = ImageOps.exif_transpose(Image.open(io.BytesIO(body))).convert('RGB')
                     image.load()
                     if min(image.size) < 240:
@@ -102,7 +134,8 @@ for slug, terms in requests.items():
                     image.thumbnail((1200,1200))
                     image.save(output, 'WEBP', quality=84, method=6)
                     candidates.append({'index':index, 'title':page['title'], 'query':term,
-                        'path':str(output.relative_to(OUT)), 'url':url, 'originalUrl':info['url'],
+                        'path':str(output.relative_to(OUT)), 'url':url, 'originalUrl':url,
+                        'sha256Original':hashlib.sha256(body).hexdigest(),
                         'width':image.width, 'height':image.height, 'author':author,
                         'license':license_name, 'licenseUrl':val('LicenseUrl'),
                         'source':info.get('descriptionurl',''), 'description':val('ImageDescription')[:1800]})
