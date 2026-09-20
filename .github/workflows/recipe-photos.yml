@@ -1,16 +1,8 @@
-name: Recipe photo review
+name: Recipe photo research (manual)
 on:
-  push:
-    branches: [fix/recipe-photos-2026-09-20]
-    paths:
-      - '.github/workflows/recipe-photos.yml'
-      - 'atlas-gastronomico/scripts/*photo*'
   workflow_dispatch:
 permissions:
   contents: read
-concurrency:
-  group: recipe-photo-review
-  cancel-in-progress: false
 jobs:
   review:
     runs-on: ubuntu-latest
@@ -19,28 +11,11 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-          cache-dependency-path: atlas-gastronomico/package-lock.json
-      - name: Install locked dependencies and collect local Next guides
-        working-directory: atlas-gastronomico
-        run: |
-          npm ci
-          mkdir -p ../photo-review/next-docs
-          if [ -d node_modules/next/dist/docs ]; then
-            cp -r node_modules/next/dist/docs ../photo-review/next-docs/installed
-          fi
-          npm test > ../photo-review/baseline-tests.txt 2>&1
-      - name: Collect open-license candidates without changing application images
-        run: |
-          python3 -m pip install Pillow==11.3.0
-          python3 atlas-gastronomico/scripts/review-recipe-photos.py
+      - run: python3 -m pip install Pillow==11.3.0
+      - run: python3 atlas-gastronomico/scripts/review-recipe-photos.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: worldbites-photo-candidates
           path: photo-review/
           retention-days: 7
-          if-no-files-found: error
