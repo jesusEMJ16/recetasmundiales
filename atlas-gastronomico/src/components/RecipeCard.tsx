@@ -4,9 +4,10 @@ import { localeDirection } from "../i18n/config";
 import type { Locale } from "../i18n/config";
 import { getDictionary } from "../i18n/dictionaries";
 import { recipeHref } from "../i18n/routing";
-import { getRecipeImage } from "../data/recipe-images";
+import { getRecipeImage, photoSrcSet } from "../data/recipe-images";
 import { translateRecipe, recipeContentLocale } from "../i18n/recipe-content";
 import { FoodPhoto } from "./FoodPhoto";
+import { photoUi } from "../i18n/photo-ui";
 import { StarRating } from "./StarRating";
 
 const MOMENT_EMOJI: Record<Moment, string> = {
@@ -17,7 +18,7 @@ export function RecipeCard({ recipe, locale, index = 0 }: { recipe: Recipe; loca
   recipe = translateRecipe(recipe, locale);
   const t = getDictionary(locale);
   const emoji = MOMENT_EMOJI[recipe.moment];
-  const photo = getRecipeImage(recipe.slug)?.url ?? null;
+  const photo = getRecipeImage(recipe.slug);
   return (
     <Link
       href={recipeHref(locale, recipe.slug)}
@@ -27,13 +28,18 @@ export function RecipeCard({ recipe, locale, index = 0 }: { recipe: Recipe; loca
       <div className="relative aspect-[4/3] w-full overflow-hidden">
         {photo ? (
           <FoodPhoto
-            src={photo}
+            src={photo.url}
+            srcSet={photoSrcSet(photo)}
+            sizes="(max-width: 639px) 100vw, (max-width: 1023px) 50vw, 33vw"
+            width={photo.width}
+            height={photo.height}
+            fallbackLabel={photoUi[locale].pending}
             alt={recipe.dishName}
             className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
         ) : (
           <div className="img-placeholder flex h-full w-full items-center justify-center">
-            <span className="text-5xl opacity-70 transition-transform duration-500 group-hover:scale-110">{emoji}</span>
+            <span role="img" aria-label={photoUi[locale].pending} className="text-5xl opacity-70 transition-transform duration-500 group-hover:scale-110">{emoji}</span>
           </div>
         )}
         <span className="absolute left-3 top-3 rounded-full recipe-badge px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-ink-soft backdrop-blur">

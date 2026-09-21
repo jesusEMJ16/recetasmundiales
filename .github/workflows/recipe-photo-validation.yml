@@ -1,0 +1,93 @@
+name: Validate recipe photographs
+on:
+  push:
+    branches: [main, fix/recipe-photos-2026-09-20]
+    paths:
+      - '.github/workflows/recipe-photo-validation.yml'
+      - 'atlas-gastronomico/src/**'
+      - 'atlas-gastronomico/public/images/recipes-v2/**'
+      - 'atlas-gastronomico/scripts/verify-recipe-images.cjs'
+      - 'atlas-gastronomico/docs/recipe-photo-audit.json'
+  pull_request:
+    paths:
+      - 'atlas-gastronomico/src/**'
+      - 'atlas-gastronomico/public/images/recipes-v2/**'
+      - '.github/workflows/recipe-photo-validation.yml'
+permissions:
+  contents: read
+defaults:
+  run:
+    shell: bash
+concurrency:
+  group: photo-validation-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: atlas-gastronomico/package-lock.json
+      - name: Validate tests, types and production build
+        working-directory: atlas-gastronomico
+        env:
+          NEXT_TELEMETRY_DISABLED: '1'
+        run: |
+          set -euo pipefail
+          mkdir -p ../image-validation
+          npm ci
+          npm test 2>&1 | tee ../image-validation/tests.txt
+          npx tsc --noEmit 2>&1 | tee ../image-validation/typescript.txt
+          npm run build 2>&1 | tee ../image-validation/build.txt
+      - name: Decode every shipped WebP and verify dimensions
+        run: |
+          python3 -m pip install Pillow==11.3.0
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          from PIL import Image
+          root=Path('atlas-gastronomico')
+          photos=json.loads((root/'src/data/recipe-photos.json').read_text())
+          count=0
+          for slug,p in photos.items():
+              for key,w,h in [('url','width','height'),('thumbnailUrl','thumbnailWidth','thumbnailHeight')]:
+                  file=root/'public'/p[key].lstrip('/')
+                  with Image.open(file) as image:
+                      image.load()
+                      assert image.format=='WEBP',slug
+                      assert image.size==(p[w],p[h]),slug
+                  count+=1
+          report={'decodedWebPFiles':count,'dimensionMismatches':0}
+          Path('image-validation/image-decode.json').write_text(json.dumps(report,indent=2))
+          print(report)
+          PY
+      - name: Install isolated browser test tools
+        run: |
+          npm install --prefix /tmp/worldbites-browser playwright@1.55.0
+          /tmp/worldbites-browser/node_modules/.bin/playwright install --with-deps chromium
+      - name: Check HTTP assets and desktop/mobile rendering
+        working-directory: atlas-gastronomico
+        env:
+          PLAYWRIGHT_PATH: /tmp/worldbites-browser/node_modules/playwright
+        run: |
+          set -euo pipefail
+          npm run start -- --hostname 127.0.0.1 > ../image-validation/server.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
+          for i in $(seq 1 60); do
+            if curl -fsS http://127.0.0.1:3000/es > /dev/null; then break; fi
+            sleep 1
+          done
+          node scripts/verify-recipe-images.cjs 2>&1 | tee ../image-validation/browser.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: worldbites-image-validation
+          path: image-validation/
+          retention-days: 7

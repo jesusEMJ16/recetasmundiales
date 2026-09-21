@@ -7,6 +7,9 @@ import { PLACES } from "../../data/places";
 import { RECIPES } from "../../data/recipes";
 import { DESTINATION_PHOTOS } from "../../data/destination-photos";
 import { FoodPhoto } from "../../components/FoodPhoto";
+import { photoSrcSet } from "../../data/recipe-images";
+import { photoUi } from "../../i18n/photo-ui";
+import { translateRecipe } from "../../i18n/recipe-content";
 import { getRecipesForPlace } from "../../domain/places";
 import { isLocale, locales } from "../../i18n/config";
 import { getDictionary } from "../../i18n/dictionaries";
@@ -47,7 +50,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <Link key={country.id} href={placeHref(locale, country)} className="destination-card">
               <div className="destination-photo">
                 {photo ? (
-                  <FoodPhoto src={photo.url} alt={photo.dish} width={480} height={300} />
+                  <FoodPhoto src={photo.url} srcSet={photoSrcSet(photo)} sizes="(max-width: 639px) 100vw, (max-width: 1023px) 50vw, 33vw" alt={translateRecipe(RECIPES.find(r => r.slug === photo.recipeSlug)!, locale).dishName} width={photo.width} height={photo.height} fallbackLabel={photoUi[locale].pending} />
                 ) : <div className="destination-placeholder"><Utensils size={42} strokeWidth={1.2} aria-hidden="true" /></div>}
                 <span className="country-code" aria-hidden="true">{country.countryCode}</span>
               </div>
@@ -61,7 +64,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </div>
         <details className="photo-credits">
           <summary>{t.recipe.photoCredit} · {t.recipe.sources}</summary>
-          <p className="mt-2">{locale === "es" ? "Fotografías redimensionadas y recortadas para su presentación." : "Photographs resized and cropped for display."}</p>
+          <p className="mt-2">{photoUi[locale].transformed}</p>
           <ul>{countries.filter(c => c.photo).map(({ country, photo }) => <li key={country.id}>{translatePlaceName(country, locale)}: {photo!.author} · <a href={photo!.licenseUrl} target="_blank" rel="noreferrer">{photo!.license}</a> · <a href={photo!.source} target="_blank" rel="noreferrer">{t.recipe.sources}</a></li>)}</ul>
         </details>
       </section>
