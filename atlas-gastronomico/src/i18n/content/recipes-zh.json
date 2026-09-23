@@ -6325,5 +6325,137 @@
       "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
       "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
     ]
+  },
+  "r-cl-pastel-choclo": {
+    "dishName": "智利玉米肉馅焗烤",
+    "summary": "以新鲜玉米和罗勒制成的烤玉米层，覆盖牛肉洋葱皮诺馅，并加入鸡肉、鸡蛋、橄榄和葡萄干。",
+    "history": "玉米肉馅焗烤是智利中部克里奥尔料理最具代表性的菜肴之一。它把浓厚玉米层与牛肉洋葱皮诺馅结合；这种馅料也用于智利馅饼，传统上常在陶制容器中烘烤和上桌。",
+    "ingredients": [
+      "1.5 kg 新鲜玉米粒",
+      "250 ml 牛奶",
+      "20 g 新鲜罗勒",
+      "500 g 切碎或绞碎牛肉",
+      "2 个大洋葱，切碎",
+      "2 汤匙植物油",
+      "1 茶匙孜然",
+      "1 茶匙红椒粉或 ají de color",
+      "300 g 熟鸡肉块",
+      "3 个水煮蛋，切成四份",
+      "12 颗黑橄榄",
+      "60 g 葡萄干",
+      "1 茶匙盐，分次使用",
+      "1 汤匙糖，可选"
+    ],
+    "steps": [
+      "将 1.5 kg 玉米与 250 ml 牛奶和 20 g 罗勒搅打成浓稠糊状。",
+      "用中火煮玉米糊 12-15 分钟，不断搅拌至变稠；用部分盐调味。",
+      "用 2 汤匙油炒 2 个洋葱 8 分钟；加入 500 g 牛肉、1 茶匙孜然、1 茶匙红椒粉和剩余盐，再煮 10 分钟。",
+      "把皮诺馅铺入烤盘，加入 300 g 鸡肉、3 个鸡蛋、12 颗橄榄和 60 g 葡萄干，再覆盖玉米糊。",
+      "如使用糖，撒上 1 汤匙糖，以 200 °C 烘烤 25-30 分钟至表面金黄。"
+    ],
+    "tips": [
+      "出炉后静置 10 分钟，让玉米层定型并更容易分切。"
+    ],
+    "sources": [
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-empanada-pino": {
+    "dishName": "智利皮诺馅饼",
+    "summary": "薄面皮烤馅饼，内含牛肉洋葱皮诺馅、水煮蛋、橄榄和葡萄干。",
+    "history": "皮诺馅饼是智利标志性食品，尤其与国庆节庆典和中部乡村料理紧密相关。皮诺馅由调味牛肉和洋葱组成，通常还加入鸡蛋、橄榄和葡萄干。",
+    "ingredients": [
+      "750 g 小麦面粉",
+      "300 ml 温水",
+      "100 g 猪油或黄油",
+      "1 茶匙盐",
+      "600 g 切碎牛肉",
+      "3 个大洋葱，切碎",
+      "2 汤匙植物油",
+      "1 茶匙孜然",
+      "1 茶匙红椒粉或 ají de color",
+      "4 个水煮蛋，切成四份",
+      "8 颗黑橄榄",
+      "40 g 葡萄干",
+      "1 个打散鸡蛋，用于刷面"
+    ],
+    "steps": [
+      "将 750 g 面粉、1 茶匙盐、100 g 油脂和 300 ml 温水混合；揉 8 分钟后静置 30 分钟。",
+      "用 2 汤匙油炒 3 个洋葱 10 分钟；加入 600 g 牛肉、1 茶匙孜然和 1 茶匙红椒粉，煮 8-10 分钟。完全放凉。",
+      "把面团分成 8 份，擀成约 20 cm 的圆片。",
+      "每片放入皮诺馅，并加入 ½ 个水煮蛋、1 颗橄榄和少量葡萄干；润湿边缘，封口并折角。",
+      "刷上 1 个打散鸡蛋，以 200 °C 烘烤 25-30 分钟至金黄。"
+    ],
+    "tips": [
+      "皮诺馅必须完全冷却后再包，以免面皮受潮并在烤箱中裂开。"
+    ],
+    "sources": [
+      "https://chile.travel/blog/la-empanada-sabor-unico-de-la-tradicion-chilena/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-cazuela": {
+    "dishName": "智利牛肉卡苏埃拉汤",
+    "summary": "智利家常牛肉汤，加入土豆、南瓜、玉米、米饭和蔬菜，最后撒香菜或欧芹。",
+    "history": "卡苏埃拉是智利传统日常菜肴，有牛肉和鸡肉等版本。它在一碗中结合肉块、大块蔬菜、谷物和汤汁，在寒冷月份尤其被视为温暖舒适的家常食物。",
+    "ingredients": [
+      "800 g 带骨牛肉，切成 4 块",
+      "1.5 l 水",
+      "4 个中等土豆，去皮",
+      "400 g 南瓜，切成 4 块",
+      "2 根玉米，切半",
+      "1 根胡萝卜，切条",
+      "100 g 四季豆",
+      "80 g 大米",
+      "½ 个洋葱",
+      "2 瓣大蒜",
+      "1 根芹菜",
+      "1 茶匙牛至",
+      "1 茶匙盐",
+      "20 g 切碎香菜或欧芹"
+    ],
+    "steps": [
+      "将 800 g 牛肉放入锅中，加入 1.5 l 水、½ 个洋葱、2 瓣大蒜、芹菜和 1 茶匙盐；煮沸后以中火煮 25 分钟。",
+      "加入 4 个土豆、1 根胡萝卜和 80 g 大米；煮 10 分钟。",
+      "加入 400 g 南瓜和 2 根玉米；再煮 10 分钟。",
+      "加入 100 g 四季豆和 1 茶匙牛至；再煮 5-10 分钟至软熟。",
+      "每碗放牛肉、土豆、南瓜、玉米、蔬菜和汤，最后撒 20 g 香菜或欧芹。"
+    ],
+    "tips": [
+      "保持轻微沸腾，可让汤保持清澈并防止蔬菜煮碎。"
+    ],
+    "sources": [
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/",
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/"
+    ]
+  },
+  "r-cl-sopaipillas": {
+    "dishName": "智利南瓜炸饼",
+    "summary": "以面粉和南瓜制成的油炸圆饼，外层金黄、内部柔软，在寒冷雨天尤其受欢迎。",
+    "history": "南瓜炸饼是智利街头和家庭料理的一部分，全国各地都会食用，冬季尤其常见。智利版本在面团中加入南瓜，可搭配 pebre 咸食，也可浸入 chancaca 糖浆制成甜味版本。",
+    "ingredients": [
+      "500 g 小麦面粉",
+      "250 g 熟南瓜泥",
+      "50 g 融化黄油",
+      "120 ml 温牛奶",
+      "1 茶匙盐",
+      "1 茶匙泡打粉",
+      "750 ml 植物油，用于油炸"
+    ],
+    "steps": [
+      "混合 500 g 面粉、1 茶匙盐和 1 茶匙泡打粉。",
+      "加入 250 g 南瓜、50 g 黄油和 120 ml 牛奶；揉 6-8 分钟至光滑。",
+      "让面团静置 20 分钟，再擀至约 5 mm 厚。",
+      "切出 12 个圆片，并用叉子在每个圆片中心扎孔。",
+      "在 750 ml、175 °C 的油中每面炸 2-3 分钟；捞出沥油。"
+    ],
+    "tips": [
+      "如果南瓜水分很高，应逐渐加入，使面团保持柔软但不粘手。"
+    ],
+    "sources": [
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
+    ]
   }
 }
