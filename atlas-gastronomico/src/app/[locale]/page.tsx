@@ -50,7 +50,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <Link key={country.id} href={placeHref(locale, country)} className="destination-card">
               <div className="destination-photo">
                 {photo ? (
-                  <FoodPhoto src={photo.url} srcSet={photoSrcSet(photo)} sizes="(max-width: 639px) 100vw, (max-width: 1023px) 50vw, 33vw" alt={translateRecipe(RECIPES.find(r => r.slug === photo.recipeSlug)!, locale).dishName} width={photo.width} height={photo.height} fallbackLabel={photoUi[locale].pending} />
+                  <FoodPhoto src={photo.url} srcSet={photoSrcSet(photo)} sizes="(max-width: 639px) 100vw, (max-width: 1023px) 50vw, 33vw" alt={`${translateRecipe(RECIPES.find(r => r.slug === photo.recipeSlug)!, locale).dishName}: ${translateRecipe(RECIPES.find(r => r.slug === photo.recipeSlug)!, locale).summary}`} width={photo.width} height={photo.height} fallbackLabel={photoUi[locale].pending} />
                 ) : <div className="destination-placeholder"><Utensils size={42} strokeWidth={1.2} aria-hidden="true" /></div>}
                 <span className="country-code" aria-hidden="true">{country.countryCode}</span>
               </div>

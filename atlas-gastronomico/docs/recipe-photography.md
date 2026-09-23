@@ -1,44 +1,19 @@
-# Fotografías de WorldBites — 20 de septiembre de 2026
+# Imágenes de WorldBites — 23 de septiembre de 2026
 
-## Entrega guardada en GitHub
+## Estado del catálogo
 
-El catálogo conserva sus 198 recetas. Esta entrega contiene fotografías locales para 186 recetas: 22 asignaciones nuevas, 32 reemplazos y 132 fotografías existentes conservadas y optimizadas. Las 20 recetas que dependían de imágenes externas ahora usan fotografías locales del plato correspondiente.
+Las 198 recetas tienen imagen local, en versión principal y miniatura WebP: 182 fotografías con atribución y 16 ilustraciones generadas digitalmente para las fichas que carecían de fotografía verificable. Las once portadas de países siguen usando sus fotografías atribuidas. No se presentan las ilustraciones nuevas como fotografías documentales: cada ficha muestra un aviso visible traducido al idioma de la página.
 
-Las portadas de los 11 países con recetas —México, Estados Unidos, Italia, España, Japón, Tailandia, Francia, Alemania, Grecia, Portugal y Austria— comparten fotografía, fuente y atribución con una receta de su país. No se modifican las recetas, cantidades, traducciones, identificadores, enlaces ni datos del mapa.
+Se añadieron 12 ilustraciones específicas para Pollo de San Marcos, Pan de pulque de Saltillo, Ceviche de marlín ahumado, Churipo, El bote de Mazamitla, Fiambre de San Miguel de Allende, Lengua mechada de Tequisquiapan, Naranjete de Huasca, Tatemado de Comala, Sopa de pan coleta, Comiteco y Pámpano en escabeche. Las composiciones siguen los ingredientes y la preparación de cada ficha; son interpretaciones visuales y las variantes regionales pueden diferir.
 
-Se incluyen 372 archivos WebP: una imagen principal de hasta 1200 píxeles y una miniatura de hasta 480 píxeles por receta, sin ampliar imágenes pequeñas. Las tarjetas cargan imágenes bajo demanda; la imagen principal de una receta tiene prioridad. Las dimensiones y los tamaños alternativos están declarados. Un fallo de carga muestra un aviso accesible, no una imagen rota.
+Se reemplazaron además cuatro fotografías visualmente inadecuadas: Gumbo, Hotdish de tater tots, Coricos de Mocorito y Salsa de jumiles. Las fotos antiguas permanecen en sus URL previas; las ilustraciones usan rutas nuevas. La auditoría conserva los datos de atribución originales en `previousPhoto`.
 
-Los archivos reales están en `public/images/recipes-v2/`. Las descargas de investigación y los artefactos temporales de Actions NO son necesarios para ejecutar, compilar o desplegar la aplicación. Se conservaron los archivos públicos anteriores para no romper sus URL.
+Los archivos reales están en `public/images/recipes-v2/`. Se conservan las imágenes públicas antiguas para no romper URL. `src/data/recipe-photos.json` contiene dimensiones, fuentes y el indicador `generated`; `docs/recipe-photo-audit.json` contiene la procedencia y los hashes de cada WebP. Las fotografías previas conservan sus atribuciones y licencias.
 
-## Fuentes y licencias
+## SEO y accesibilidad
 
-`recipe-photo-audit.json` registra autores, fuentes originales, licencias, cambios de tamaño o recorte y verificaciones SHA-256. `src/data/recipe-photos.json` es el catálogo que utiliza la aplicación. Los enlaces de licencia se presentan mediante HTTPS, conservando la URL original recibida en los datos de procedencia.
+Las tarjetas y fichas de recetas usan texto alternativo localizado con el nombre del plato y su descripción. Las portadas usan el nombre y la descripción de la receta que muestran. Las 16 ilustraciones incluyen un aviso visible en los doce idiomas. Open Graph, Twitter y Recipe JSON-LD usan el archivo local correcto. Se mantienen las miniaturas responsivas y el estado accesible de error de carga.
 
-Las imágenes ilustran el plato: su presentación, acompañamientos y variantes regionales pueden diferir de las instrucciones. La atribución no implica el respaldo de los fotógrafos. Las cinco fotografías de Flickr añadidas se contrastaron con la licencia indicada en sus respectivas páginas de origen.
+## Comprobaciones
 
-## Doce fotografías aún pendientes
-
-Estas recetas no se presentan como terminadas. No se encontró o seleccionó una fotografía del plato que pudiera verificarse visualmente y utilizarse con la licencia correspondiente. Los resultados de otros alimentos, locales, personas o paisajes se descartaron.
-
-- Pollo de San Marcos (`pollo-de-san-marcos`).
-- Pan de pulque de Saltillo (`pan-de-pulque-de-saltillo`).
-- Ceviche de marlín ahumado (`ceviche-de-marlin-ahumado`).
-- Churipo (`churipo-purepecha`).
-- El bote de Mazamitla (`el-bote-de-mazamitla`).
-- Fiambre estilo San Miguel de Allende (`fiambre-estilo-san-miguel-de-allende`).
-- Lengua mechada de Tequisquiapan (`lengua-mechada-de-tequisquiapan`).
-- Naranjete de Huasca de Ocampo (`naranjete-de-huasca-de-ocampo`).
-- Tatemado de puerco estilo Comala (`tatemado-de-puerco-estilo-comala`).
-- Sopa de pan coleta (`sopa-de-pan-coleta`).
-- Comiteco (`comiteco`).
-- Pámpano en escabeche (`pampano-en-escabeche-palizada`).
-
-## Comprobaciones reproducibles
-
-`npm test` comprueba cobertura, archivos, atribución, países, dimensiones, fuentes responsivas, hashes y estados de error. El flujo de solo lectura `recipe-photo-validation.yml` ejecuta pruebas, TypeScript, compilación de producción, decodificación de cada WebP y comprobaciones HTTP y de navegador en escritorio y móvil. No publica, modifica ramas ni consulta servicios externos de fotografías.
-
-Para añadir una fotografía pendiente hay que guardar ambos tamaños, añadir su fuente y licencia al catálogo, actualizar la auditoría y retirar únicamente esa entrada de la lista de pendientes. No se debe ocultar un fallo desactivando las comprobaciones.
-
-## Aviso fuera del alcance de las fotografías
-
-Durante la instalación, `npm ci` informó de seis vulnerabilidades en las dependencias fijadas existentes: dos moderadas, dos altas y dos críticas. Este trabajo no modifica `package.json` ni `package-lock.json` ni realiza una auditoría de explotabilidad. La actualización y evaluación de esas dependencias requiere una revisión separada; la compilación correcta no equivale a una auditoría de seguridad.
+`npm test` verifica cobertura de 198 recetas, 0 pendientes, 16 ilustraciones identificadas, tamaños, archivos locales, procedencia, hashes y textos de interfaz en 12 idiomas. El flujo de solo lectura `recipe-photo-validation.yml` incluye TypeScript, compilación de producción, decodificación de imágenes y navegación. El informe del 20 de septiembre en `recipe-photo-validation.md` corresponde a la entrega anterior de 186 fotografías y se conserva como registro histórico.

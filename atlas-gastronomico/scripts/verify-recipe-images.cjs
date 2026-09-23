@@ -89,6 +89,15 @@ async function loaded(locator) {
       assert.ok((await figure.innerText()).includes('Fotografía del plato pendiente'));
       result.pending = { slug: pending.slug, brokenImageRequest: false, explicitNotice: true };
     }
+    const generated = Object.entries(photos).find(([, photo]) => photo.generated);
+    assert.ok(generated, 'Expected a labeled generated illustration');
+    await page.goto(base + '/es/receta/' + generated[0], { waitUntil: 'networkidle' });
+    const generatedFigure = page.locator('figure').first();
+    const generatedImage = generatedFigure.locator('img');
+    await loaded(generatedImage);
+    assert.ok((await generatedImage.getAttribute('alt')).includes(': '), 'Localized descriptive alt text');
+    assert.ok((await generatedFigure.innerText()).includes('Imagen ilustrativa generada digitalmente'));
+    result.desktop.generatedIllustration = { slug: generated[0], loaded: true, labeled: true };
     assert.equal(result.localImageErrors.length, 0);
     fs.writeFileSync(path.join(out, 'browser-results.json'), JSON.stringify(result, null, 2));
     console.log(JSON.stringify(result, null, 2));

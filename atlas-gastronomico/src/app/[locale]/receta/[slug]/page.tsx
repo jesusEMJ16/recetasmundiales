@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   
   const canonicalUrl = `https://worldbitesapp.com/${locale}/receta/${slug}`;
   const photo = getRecipeImage(slug);
-  const images = photo ? [{ url: absolutePhotoUrl(photo), width: photo.width, height: photo.height, alt: r.dishName }] : [];
+  const images = photo ? [{ url: absolutePhotoUrl(photo), width: photo.width, height: photo.height, alt: `${r.dishName}: ${r.summary}` }] : [];
   
   // Get place for breadcrumb
   const place = PLACES.find((p) => p.id === r.placeId);
@@ -194,18 +194,20 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
       <figure className="reveal-scale space-y-1.5" style={{ animationDelay: "120ms" }}>
         <div className="overflow-hidden rounded-[var(--radius-xl2)] border border-line shadow-[var(--shadow-card)]">
           <FoodPhoto src={photo} srcSet={credit ? photoSrcSet(credit) : undefined}
-            sizes="(max-width: 767px) 100vw, 768px" alt={recipe.dishName}
+            sizes="(max-width: 767px) 100vw, 768px" alt={`${recipe.dishName}: ${recipe.summary}`}
             width={credit?.width} height={credit?.height} priority
             className="aspect-[16/9] w-full object-cover"
             fallbackLabel={photoUi[locale].pending} />
         </div>
         {credit && (
           <figcaption className="text-right text-xs text-ink-faint">
-            {t.recipe.photoCredit}: {credit.author} · <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-terracota">{credit.license}</a> ·{" "}
-            <a href={credit.source} target="_blank" rel="noopener noreferrer" className="underline hover:text-terracota">
-              {t.recipe.via} {credit.provider}
-            </a>
-            <span className="block mt-1">{photoUi[locale].transformed}</span>
+            {credit.generated ? photoUi[locale].generated : <>
+              {t.recipe.photoCredit}: {credit.author} · <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-terracota">{credit.license}</a> ·{" "}
+              <a href={credit.source} target="_blank" rel="noopener noreferrer" className="underline hover:text-terracota">
+                {t.recipe.via} {credit.provider}
+              </a>
+              <span className="block mt-1">{photoUi[locale].transformed}</span>
+            </>}
           </figcaption>
         )}
       </figure>
