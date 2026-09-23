@@ -6195,5 +6195,135 @@
       "https://www.argentina.gob.ar/node/493708",
       "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
     ]
+  },
+  "r-pe-ceviche": {
+    "dishName": "秘鲁鱼肉酸橘汁腌鱼",
+    "summary": "用非常新鲜的白肉鱼配青柠、阿希利莫辣椒、红洋葱和香菜短时间腌制，并搭配红薯和玉米食用。",
+    "history": "酸橘汁腌鱼是秘鲁最具代表性的菜肴之一，并于2004年被列为国家文化遗产。它的背景与秘鲁海岸古老的鱼类处理方式有关，而现代做法则反映了数百年的文化交流：西班牙人到来后加入青柠和洋葱，之后腌制技术又不断演变。",
+    "ingredients": [
+      "800 g 非常新鲜的白肉鱼柳",
+      "12 个酸青柠的汁",
+      "1 个大红洋葱，切细丝",
+      "2 个阿希利莫辣椒，去籽切碎",
+      "20 g 切碎香菜",
+      "2 个中等大小熟红薯",
+      "2 根熟玉米",
+      "1 茶匙盐",
+      "黑胡椒适量"
+    ],
+    "steps": [
+      "将 800 g 鱼切成约 2 cm 的均匀小块，并保持充分冷藏。",
+      "挤取 12 个青柠的汁，不要过度挤压果皮，以免产生苦味。",
+      "将鱼与 2 个阿希利莫辣椒、20 g 香菜、盐和黑胡椒混合。",
+      "加入柑橘汁和 1 个红洋葱；轻轻拌匀并腌制 10 分钟。",
+      "立即搭配 2 个熟红薯和 2 根玉米食用。"
+    ],
+    "tips": [
+      "腌制时间不要超过 20 分钟，鱼肉应保持紧实和新鲜。"
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/ceviche-de-pescado-peruano.html",
+      "https://www.peru.travel/es/inspirate/descubre-el-origen-del-cebiche-uno-de-los-potajes-mas-trendys-y-aclamados"
+    ]
+  },
+  "r-pe-lomo-saltado": {
+    "dishName": "秘鲁炒牛柳",
+    "summary": "秘鲁式炒牛肉，以炒锅快速翻炒牛肉、洋葱、番茄和黄阿希辣椒，再加入酱油和醋，配薯条与米饭。",
+    "history": "秘鲁炒牛柳在19世纪末的利马逐渐成形，是奇法料理的重要代表。广东炒锅快炒技法与秘鲁食材和配菜结合，成为秘鲁与中国饮食文化融合最著名的例子之一。",
+    "ingredients": [
+      "800 g 牛里脊，切条",
+      "2 个番茄，切块",
+      "1 个大红洋葱，切粗条",
+      "1 个黄阿希辣椒，切条",
+      "3 汤匙酱油",
+      "2 汤匙红酒醋",
+      "1 茶匙蒜末",
+      "500 g 土豆，切成炸薯条形",
+      "300 g 熟白米饭",
+      "2 汤匙切碎香菜或欧芹",
+      "2 汤匙植物油",
+      "盐、黑胡椒和孜然适量"
+    ],
+    "steps": [
+      "将 500 g 土豆炸至金黄酥脆，约 8-10 分钟，然后备用。",
+      "用盐、黑胡椒、孜然和 1 茶匙蒜末给 800 g 牛肉调味。",
+      "在非常热的炒锅中加热 2 汤匙油，快速翻炒牛肉。",
+      "加入 1 个洋葱、2 个番茄和 1 个黄阿希辣椒；翻炒 2 分钟，让蔬菜保持爽脆。",
+      "加入 3 汤匙酱油和 2 汤匙醋；翻炒 1 分钟，配 300 g 米饭和 500 g 薯条食用。"
+    ],
+    "tips": [
+      "炒锅要足够热，必要时将牛肉分 2 批炒，这样能上色而不是出水。"
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/lomo-saltado.html",
+      "https://www.peru.travel/es/inspirate/del-peru-para-el-mundo-descubre-la-fascinante-historia-del-lomo-saltado"
+    ]
+  },
+  "r-pe-aji-gallina": {
+    "dishName": "秘鲁黄椒鸡",
+    "summary": "鸡肉撕丝后裹在由黄阿希辣椒、面包、牛奶、碧根果和奶酪制成的浓郁酱汁中，铺在土豆上食用。",
+    "history": "黄椒鸡属于利马克里奥尔烹饪传统。它将受西班牙影响的禽肉与面包基底和秘鲁黄阿希辣椒结合，形成浓郁的奶油状酱汁，如今通常与土豆、米饭、鸡蛋和橄榄一起食用。",
+    "ingredients": [
+      "600 g 鸡胸肉",
+      "1 片月桂叶",
+      "1 个洋葱，切碎",
+      "3 瓣蒜，切碎",
+      "120 g 黄阿希辣椒酱",
+      "200 g 面包",
+      "500 ml 牛奶",
+      "40 g 烤碧根果，切碎",
+      "50 g 帕尔马干酪，磨碎",
+      "4 个熟黄土豆",
+      "2 个水煮蛋",
+      "8 颗黑橄榄",
+      "2 汤匙油",
+      "盐和黑胡椒适量"
+    ],
+    "steps": [
+      "将 600 g 鸡肉与 1 片月桂叶煮 20 分钟；保留汤汁并把鸡肉撕丝。",
+      "将 200 g 面包浸泡在 500 ml 牛奶中的 250 ml 里 10 分钟，然后搅打。",
+      "加热 2 汤匙油，炒香 1 个洋葱和 3 瓣蒜，加入 120 g 黄阿希辣椒酱并煮 5 分钟。",
+      "加入搅打的面包、鸡肉和 40 g 碧根果；小火煮 10 分钟，并用鸡汤调整浓稠度。",
+      "加入 50 g 帕尔马干酪，铺在 4 个土豆上，配 2 个鸡蛋和 8 颗橄榄食用。"
+    ],
+    "tips": [
+      "如果酱汁太稠，每次加入 50 ml 鸡汤，直到达到顺滑浓郁的质地。"
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/aji-de-gallina.html",
+      "https://www.peru.travel/es/inspirate/8-comidas-tipicas-que-debes-probar-cuando-estes-en-peru"
+    ]
+  },
+  "r-pe-papa-huancaina": {
+    "dishName": "万卡伊纳酱土豆",
+    "summary": "水煮土豆淋上由新鲜奶酪和黄阿希辣椒制成的浓郁酱汁，并搭配鸡蛋、橄榄、玉米和生菜。",
+    "history": "万卡伊纳酱土豆是秘鲁最著名的前菜之一，与中部安第斯地区以及胡宁的万卡约关系密切。它把安第斯土豆与黄阿希辣椒、奶酪和牛奶酱汁结合，是秘鲁多元烹饪传统融合的代表。",
+    "ingredients": [
+      "1 kg 土豆",
+      "200 g 新鲜奶酪",
+      "3 个黄阿希辣椒，去筋去籽",
+      "120 ml 牛奶",
+      "60 ml 植物油",
+      "½ 个洋葱",
+      "½ 个柠檬的汁",
+      "2 个水煮蛋",
+      "4 颗黑橄榄",
+      "100 g 熟玉米粒",
+      "生菜叶和盐适量"
+    ],
+    "steps": [
+      "将 1 kg 土豆煮 20-25 分钟至软；去皮后切成厚片。",
+      "将 ½ 个洋葱和 3 个黄阿希辣椒炒 5 分钟，然后稍微放凉。",
+      "将 200 g 新鲜奶酪与 120 ml 牛奶和 60 ml 油搅打 2 分钟，再加入炒好的材料，打成顺滑酱汁。",
+      "用 ½ 个柠檬的汁和盐调味，如有需要可再加少量牛奶调整浓稠度。",
+      "把酱汁淋在土豆上，并搭配 2 个鸡蛋、4 颗橄榄、100 g 玉米和生菜食用。"
+    ],
+    "tips": [
+      "如果酱汁太稠，每次加入 15 ml 牛奶，再加入 15 ml，避免变得过稀。"
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
+      "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
+    ]
   }
 }
