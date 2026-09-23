@@ -51,7 +51,7 @@ async function loaded(locator) {
     });
     await page.goto(base + '/es', { waitUntil: 'networkidle' });
     const covers = page.locator('.destination-card');
-    assert.equal(await covers.count(), 13);
+    assert.equal(await covers.count(), 14);
     const coverImages = covers.locator('img');
     for (let i = 0; i < await coverImages.count(); i++) await loaded(coverImages.nth(i));
     await page.locator('.destination-grid').screenshot({ path: path.join(out, 'country-covers-desktop.png'), animations: 'disabled' });
@@ -104,6 +104,18 @@ async function loaded(locator) {
     }
     for (let i = 0; i < await argentinaCards.locator('img').count(); i++) await loaded(argentinaCards.locator('img').nth(i));
     result.desktop.argentinaRecipeCards = await argentinaCards.count();
+    await page.goto(base + '/es', { waitUntil: 'networkidle' });
+    const peru = page.locator('.destination-card').filter({ has: page.locator('.country-code', { hasText: /^PE$/ }) });
+    const peruPath = await peru.getAttribute('href');
+    assert.ok(peruPath && peruPath.startsWith('/es/'));
+    await page.goto(base + peruPath, { waitUntil: 'networkidle' });
+    const peruCards = page.locator('.recipe-card');
+    assert.equal(await peruCards.count(), recipes.filter(r => /^pe(?:$|[-:])/.test(r.placeId)).length);
+    for (const slug of ['cebiche-de-pescado-peruano', 'lomo-saltado-peruano', 'aji-de-gallina-peruano', 'papa-a-la-huancaina-peruana']) {
+      assert.equal(await page.locator(`a.recipe-card[href="/es/receta/${slug}"]`).count(), 1);
+    }
+    for (let i = 0; i < await peruCards.locator('img').count(); i++) await loaded(peruCards.locator('img').nth(i));
+    result.desktop.peruRecipeCards = await peruCards.count();
     await page.goto(base + '/es/receta/coq-au-vin', { waitUntil: 'networkidle' });
     const hero = page.locator('figure').first().locator('img');
     await loaded(hero);
