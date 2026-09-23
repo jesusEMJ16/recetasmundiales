@@ -6,7 +6,7 @@ const mocks=vi.hoisted(()=>({push:vi.fn(),zoom:vi.fn(),clicks:new Map<string,()=
 const navigation={push:mocks.push};
 vi.mock("next/navigation",()=>({usePathname:()=>"/es",useRouter:()=>navigation}));
 vi.mock("leaflet",()=>{
-  const layer=()=>{const l={addTo:vi.fn(()=>l),on:vi.fn((_event:string,_callback:()=>void)=>l),bindTooltip:vi.fn((text:HTMLElement)=>{mocks.tooltips(text.textContent);return l;}),remove:vi.fn(),clearLayers:vi.fn(),getElement:()=>undefined};return l;};
+  const layer=()=>{const l={addTo:vi.fn(()=>l),on:vi.fn((_event:string,_callback:()=>void)=>l),bindTooltip:vi.fn((content:HTMLElement,options?:{className?:string})=>{mocks.tooltips(content,options);return l;}),remove:vi.fn(),clearLayers:vi.fn(),getElement:()=>undefined};return l;};
   const map={...layer(),fitBounds:vi.fn(),setMaxBounds:vi.fn(),flyToBounds:mocks.zoom,off:vi.fn(),fire:vi.fn(),invalidateSize:vi.fn(),getZoom:()=>3,getBounds:()=>({contains:()=>true}),getSize:()=>({x:1000,y:550}),latLngToContainerPoint:()=>({x:400,y:200}),containerPointToLatLng:()=>({lat:20,lng:-100})};
   return {map:()=>map,control:{zoom:layer},layerGroup:layer,marker:(...args:unknown[])=>{mocks.markers(...args);return layer();},circleMarker:layer,polyline:layer,divIcon:mocks.icons,geoJSON:(data:{features:{properties:{id?:string;code?:string}}[]},options:{onEachFeature?:(f:unknown,l:unknown)=>void})=>{
     for(const f of data.features){const l=layer();l.on=vi.fn((event:string,callback:()=>void)=>{if(event==="click")mocks.clicks.set(f.properties.id ?? f.properties.code!,callback);return l;});options.onEachFeature?.(f,l);}
@@ -22,7 +22,7 @@ beforeEach(()=>{
 });
 afterEach(()=>{cleanup();vi.unstubAllGlobals();});
 describe("country to regional recipe navigation",()=>{
-  it("puts a compact code and total on land while keeping full counts in hover text",async()=>{
+  it("puts a compact code and total on land and shows flag, country and recipe count on hover",async()=>{
     render(<WorldMap/>);
     await waitFor(()=>expect(mocks.icons).toHaveBeenCalled());
     const icons=mocks.icons.mock.calls.map(([icon])=>icon);
@@ -30,9 +30,16 @@ describe("country to regional recipe navigation",()=>{
     expect(mexico.className).toBe("map-country-label");
     expect(mexico.html.querySelector("small").textContent).toBe("101");
     expect(icons.every(icon=>icon.className==="map-country-label")).toBe(true);
-    expect(mocks.tooltips).toHaveBeenCalledWith("México · 101 recetas");
-    expect(mocks.tooltips).toHaveBeenCalledWith("Estados Unidos · 68 recetas");
-    expect(mocks.tooltips).toHaveBeenCalledWith("Canadá · 0 recetas");
+    const countryTooltips=mocks.tooltips.mock.calls
+      .filter(([,options])=>options?.className==="map-country-hover")
+      .map(([content])=>content as HTMLElement);
+    const mxTooltip=countryTooltips.find(content=>content.querySelector("strong")?.textContent==="México")!;
+    const usTooltip=countryTooltips.find(content=>content.querySelector("strong")?.textContent==="Estados Unidos")!;
+    const caTooltip=countryTooltips.find(content=>content.querySelector("strong")?.textContent==="Canadá")!;
+    expect(mxTooltip.querySelector("img")?.getAttribute("src")).toBe("https://flagcdn.com/w40/mx.png");
+    expect(mxTooltip.querySelector("small")?.textContent).toBe("101 recetas");
+    expect(usTooltip.querySelector("small")?.textContent).toBe("68 recetas");
+    expect(caTooltip.querySelector("small")?.textContent).toBe("0 recetas");
     // Labels never steal the click or hover from the underlying country.
     expect(mocks.markers.mock.calls.every(([,options])=>options.interactive===false && options.keyboard===false)).toBe(true);
   });
@@ -45,7 +52,7 @@ describe("country to regional recipe navigation",()=>{
     expect(screen.queryByText(/32 divisiones/)).toBeNull();
     expect(screen.queryByRole("link",{name:/Oaxaca/})).toBeNull();
     expect(mocks.icons.mock.calls.some(([icon])=>icon.className==="map-region-marker" && icon.html.querySelector("small")?.textContent)).toBe(true);
-    expect(mocks.tooltips).toHaveBeenCalledWith(expect.stringContaining("Oaxaca ·"));
+    expect(mocks.tooltips.mock.calls.some(([content])=>(content as HTMLElement).textContent?.includes("Oaxaca ·"))).toBe(true);
     act(()=>mocks.clicks.get("mx-oax")!());
     expect(mocks.push).toHaveBeenCalledWith("/es/recetas/mexico/oaxaca");
   });
@@ -55,7 +62,7 @@ describe("country to regional recipe navigation",()=>{
     fireEvent.change(screen.getByRole("textbox",{name:"Buscar país"}),{target:{value:"canada"}});
     fireEvent.click(screen.getByRole("button",{name:/Canadá/}));
     await waitFor(()=>expect(mocks.clicks.has("ca-on")).toBe(true));
-    expect(mocks.tooltips).toHaveBeenCalledWith(expect.stringContaining("Ontario · 0"));
+    expect(mocks.tooltips.mock.calls.some(([content])=>(content as HTMLElement).textContent?.includes("Ontario · 0"))).toBe(true);
     expect(screen.queryByRole("link",{name:/Ontario/})).toBeNull();
     fireEvent.click(document.querySelector(".atlas-reset")!);
     expect(screen.getByText("195 países")).toBeTruthy();
