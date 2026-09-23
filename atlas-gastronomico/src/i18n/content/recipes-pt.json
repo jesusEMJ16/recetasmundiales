@@ -5845,5 +5845,127 @@
     "sources": [
       "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
     ]
+  },
+  "r-it-lasagne-bolognese": {
+    "dishName": "Lasanha verde à bolonhesa",
+    "summary": "Camadas de massa verde de espinafre com ragù bolonhês, béchamel e Parmigiano Reggiano.",
+    "history": "As lasagne verdi são uma especialidade de Bolonha e da Emília-Romanha. A receita de referência da Academia Italiana de Cozinha foi depositada em 2003 na Câmara de Comércio de Bolonha.",
+    "ingredients": [
+      "700 g de farinha 00",
+      "3 ovos",
+      "350 g de espinafre cozido, bem escorrido e picado",
+      "1 kg de ragù bolonhês",
+      "1 l de leite integral",
+      "100 g de farinha 00 para o béchamel",
+      "100 g de manteiga para o béchamel",
+      "400 g de Parmigiano Reggiano ralado",
+      "Noz-moscada e sal a gosto"
+    ],
+    "steps": [
+      "Misture 700 g de farinha com 3 ovos e 350 g de espinafre até obter uma massa verde lisa; amasse, deixe repousar e abra em folhas finas.",
+      "Prepare o béchamel com 100 g de manteiga, 100 g de farinha e 1 l de leite; tempere com sal e noz-moscada.",
+      "Corte a massa em retângulos, cozinhe-os brevemente em água salgada e passe-os por água fria antes de secá-los num pano.",
+      "Num tabuleiro untado alterne massa, béchamel, 1 kg de ragù e 400 g de Parmigiano Reggiano, formando pelo menos 6 camadas.",
+      "Leve ao forno a 180 °C durante 25-30 minutos. Deixe repousar 10 minutos antes de cortar e servir."
+    ],
+    "tips": [
+      "Mantenha as camadas regulares e o béchamel fluido para que a lasanha fique húmida sem perder a estrutura."
+    ],
+    "sources": [
+      "https://www.bolognawelcome.com/it/altro/altro/lasagne-verdi-alla-bolognese"
+    ]
+  },
+  "r-it-trofie-pesto": {
+    "dishName": "Trofie com pesto genovês",
+    "summary": "Massa curta da Ligúria com pesto de manjericão, pinhões, queijos curados e azeite.",
+    "history": "O pesto genovese é uma preparação emblemática da Ligúria. O Consorzio del Pesto Genovese reconhece uma fórmula tradicional de 7 ingredientes, e as trofie são uma das massas clássicas servidas com este molho.",
+    "ingredients": [
+      "400 g de trofie",
+      "50 g de folhas de manjericão fresco",
+      "30 g de pinhões",
+      "1 dente de alho",
+      "60 g de Parmigiano Reggiano ralado",
+      "20 g de pecorino ralado",
+      "100 ml de azeite virgem extra",
+      "1 pitada de sal grosso",
+      "150 g de feijão-verde cortado em pedaços de 3 cm",
+      "250 g de batata cortada em cubos de 2 cm"
+    ],
+    "steps": [
+      "Esmague 1 dente de alho, 30 g de pinhões e 1 pitada de sal. Junte 50 g de manjericão, depois 60 g de Parmigiano, 20 g de pecorino e 100 ml de azeite.",
+      "Coza a batata durante 5 minutos em água salgada; junte o feijão-verde e cozinhe mais 5 minutos.",
+      "Adicione 400 g de trofie à mesma panela e cozinhe até ficar al dente.",
+      "Reserve 100 ml da água da cozedura, escorra a massa e os legumes e envolva-os no pesto fora do lume.",
+      "Junte aos poucos a água reservada até obter um molho cremoso que cubra a massa e sirva imediatamente."
+    ],
+    "tips": [
+      "Não aqueça diretamente o pesto; envolva-o fora do lume para preservar o aroma fresco do manjericão."
+    ],
+    "sources": [
+      "https://www.mangiareinliguria.it/pesto-genovese/ricetta-pesto-genovese",
+      "https://www.mangiareinliguria.it/ricette-tipiche-liguri/primi/trofiette-pesto-genovese"
+    ]
+  },
+  "r-it-arancini-ragu": {
+    "dishName": "Arancini sicilianos com ragù",
+    "summary": "Bolas de arroz douradas e crocantes recheadas com ragù, ervilhas e queijo.",
+    "history": "Os arancini, também chamados arancine conforme a zona, são uma especialidade presente em toda a Sicília. O registo regional de produtos tradicionais descreve a versão clássica de arroz recheada com carne em molho, ervilhas e queijo.",
+    "ingredients": [
+      "500 g de arroz",
+      "1 l de água",
+      "2 ovos",
+      "30 g de manteiga",
+      "80 g de caciocavallo ralado",
+      "250 g de ragù de carne",
+      "100 g de ervilhas cozidas",
+      "100 g de tuma ou mozzarella em cubos",
+      "100 g de farinha de trigo",
+      "2 ovos para panar",
+      "200 g de pão ralado",
+      "1 l de óleo para fritar"
+    ],
+    "steps": [
+      "Coza 500 g de arroz em 1 l de água salgada até absorver o líquido. Fora do lume misture 2 ovos, 30 g de manteiga e 80 g de caciocavallo; arrefeça durante 30 minutos.",
+      "Misture 250 g de ragù com 100 g de ervilhas e prepare 100 g de queijo em cubos para o recheio.",
+      "Divida o arroz em 12 porções, achate cada uma na mão, coloque o recheio no centro e feche formando uma bola compacta.",
+      "Passe cada peça por 100 g de farinha, depois por 2 ovos batidos e por fim por 200 g de pão ralado.",
+      "Aqueça 1 l de óleo a 175 °C e frite os arancini em porções até dourarem; escorra e sirva quentes."
+    ],
+    "tips": [
+      "Arrefeça completamente o arroz antes de moldar para que as peças mantenham melhor a forma durante a fritura."
+    ],
+    "sources": [
+      "https://www.regione.sicilia.it/sites/default/files/2023-06/Schede%20PAT%20Sicilia%202023.pdf",
+      "https://www.italia.it/it/sicilia/cosa-fare/prodotti-piatti-tipici-siciliani"
+    ]
+  },
+  "r-it-orecchiette-cime": {
+    "dishName": "Orecchiette com cime di rapa",
+    "summary": "Massa fresca da Apúlia com grelos, anchovas, alho, malagueta e azeite.",
+    "history": "As orecchiette com cime di rapa são um dos pratos emblemáticos da Apúlia. A Italia.it associa esta massa fresca à zona de Bari e destaca o contraste entre os grelos, as anchovas e a malagueta.",
+    "ingredients": [
+      "300 g de sêmola de trigo duro remolhada",
+      "150 g de água morna",
+      "1 kg de cime di rapa ou grelos",
+      "1 dente de alho",
+      "1 malagueta",
+      "4 filetes de anchova em azeite",
+      "4 colheres de sopa de azeite virgem extra",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Misture 300 g de sêmola com 150 g de água morna e amasse até obter uma massa firme e lisa.",
+      "Forme rolos finos de massa, corte pequenos pedaços e arraste-os com uma faca para criar a cavidade característica das orecchiette.",
+      "Limpe 1 kg de cime di rapa e coza em água salgada durante 3 minutos; junte a massa e cozinhe mais 7 minutos.",
+      "Entretanto, aqueça 4 colheres de sopa de azeite com 1 dente de alho e 1 malagueta; junte 4 filetes de anchova e deixe-os desfazer suavemente.",
+      "Escorra a massa e os grelos, envolva-os no azeite aromático e sirva imediatamente."
+    ],
+    "tips": [
+      "Reserve um pouco da água da cozedura para ligar o azeite à massa se o prato ficar seco."
+    ],
+    "sources": [
+      "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
+      "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
+    ]
   }
 }
