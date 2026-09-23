@@ -6195,5 +6195,135 @@
       "https://www.argentina.gob.ar/node/493708",
       "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
     ]
+  },
+  "r-pe-ceviche": {
+    "dishName": "Ceviche peruano de peixe",
+    "summary": "Peixe branco muito fresco marinado brevemente com lima, ají limo, cebola roxa e coentros, servido com batata-doce e milho.",
+    "history": "O ceviche é um dos pratos mais emblemáticos do Peru e foi declarado Património Cultural da Nação em 2004. Os seus antecedentes ligam-se a antigas preparações de peixe da costa peruana, enquanto a forma atual reflete séculos de intercâmbio, com lima e cebola incorporadas após a chegada espanhola e técnicas de marinada aperfeiçoadas mais tarde.",
+    "ingredients": [
+      "800 g de filete de peixe branco muito fresco",
+      "Sumo de 12 limas ácidas",
+      "1 cebola roxa grande cortada finamente",
+      "2 ajíes limo sem sementes e picados",
+      "20 g de coentros picados",
+      "2 batatas-doces médias cozidas",
+      "2 espigas de milho cozidas",
+      "1 colher de chá de sal",
+      "Pimenta-preta a gosto"
+    ],
+    "steps": [
+      "Corte 800 g de peixe em cubos uniformes de cerca de 2 cm e mantenha-os bem frios.",
+      "Esprema 12 limas sem pressionar demasiado a casca para evitar sabores amargos.",
+      "Misture o peixe com 2 ajíes limo, 20 g de coentros, sal e pimenta.",
+      "Junte o sumo cítrico e 1 cebola roxa; misture delicadamente e deixe marinar 10 minutos.",
+      "Sirva de imediato com 2 batatas-doces cozidas e 2 espigas de milho."
+    ],
+    "tips": [
+      "Não prolongue a marinada além de 20 minutos: o peixe deve manter-se firme e fresco."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/ceviche-de-pescado-peruano.html",
+      "https://www.peru.travel/es/inspirate/descubre-el-origen-del-cebiche-uno-de-los-potajes-mas-trendys-y-aclamados"
+    ]
+  },
+  "r-pe-lomo-saltado": {
+    "dishName": "Lomo saltado peruano",
+    "summary": "Salteado peruano no wok com carne de vaca, cebola, tomate e ají amarelo, finalizado com molho de soja e vinagre e servido com batatas fritas e arroz.",
+    "history": "O lomo saltado consolidou-se em Lima no final do século 19 como expressão da cozinha chifa. A técnica cantonesa de saltear no wok combinou-se com ingredientes e acompanhamentos peruanos, criando um dos exemplos mais conhecidos de fusão culinária entre Peru e China.",
+    "ingredients": [
+      "800 g de lombo de vaca cortado em tiras",
+      "2 tomates cortados em gomos",
+      "1 cebola roxa grande cortada em tiras grossas",
+      "1 ají amarelo cortado em tiras",
+      "3 colheres de sopa de molho de soja",
+      "2 colheres de sopa de vinagre de vinho tinto",
+      "1 colher de chá de alho picado",
+      "500 g de batatas cortadas para fritar",
+      "300 g de arroz branco cozido",
+      "2 colheres de sopa de coentros ou salsa picados",
+      "2 colheres de sopa de óleo vegetal",
+      "Sal, pimenta e cominhos a gosto"
+    ],
+    "steps": [
+      "Frite 500 g de batatas até ficarem douradas e crocantes, cerca de 8-10 minutos, e reserve.",
+      "Tempere 800 g de carne com sal, pimenta, cominhos e 1 colher de chá de alho.",
+      "Aqueça 2 colheres de sopa de óleo num wok muito quente e salteie rapidamente a carne.",
+      "Junte 1 cebola, 2 tomates e 1 ají amarelo; salteie 2 minutos para manter os legumes firmes.",
+      "Adicione 3 colheres de sopa de molho de soja e 2 colheres de sopa de vinagre; misture 1 minuto e sirva com 300 g de arroz e os 500 g de batatas fritas."
+    ],
+    "tips": [
+      "Use o wok muito quente e cozinhe a carne em 2 porções, se necessário, para que doure em vez de libertar água."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/lomo-saltado.html",
+      "https://www.peru.travel/es/inspirate/del-peru-para-el-mundo-descubre-la-fascinante-historia-del-lomo-saltado"
+    ]
+  },
+  "r-pe-aji-gallina": {
+    "dishName": "Ají de gallina peruano",
+    "summary": "Frango desfiado num molho cremoso de ají amarelo, pão, leite, nozes-pecã e queijo, servido sobre batata.",
+    "history": "O ají de gallina faz parte da tradição da cozinha criolla de Lima. Combina uma base de ave desfiada e pão de influência hispânica com o ají amarelo peruano, criando um molho cremoso hoje servido habitualmente com batata, arroz, ovo e azeitonas.",
+    "ingredients": [
+      "600 g de peito de frango",
+      "1 folha de louro",
+      "1 cebola picada",
+      "3 dentes de alho picados",
+      "120 g de pasta de ají amarelo",
+      "200 g de pão",
+      "500 ml de leite",
+      "40 g de nozes-pecã torradas e picadas",
+      "50 g de queijo parmesão ralado",
+      "4 batatas amarelas cozidas",
+      "2 ovos cozidos",
+      "8 azeitonas pretas",
+      "2 colheres de sopa de óleo",
+      "Sal e pimenta a gosto"
+    ],
+    "steps": [
+      "Cozinhe 600 g de frango com 1 folha de louro durante 20 minutos; reserve o caldo e desfie a carne.",
+      "Demolhe 200 g de pão em 250 ml dos 500 ml de leite durante 10 minutos e depois triture.",
+      "Aqueça 2 colheres de sopa de óleo, refogue 1 cebola e 3 dentes de alho, junte 120 g de ají amarelo e cozinhe 5 minutos.",
+      "Incorpore o pão triturado, o frango e 40 g de nozes-pecã; cozinhe em lume brando 10 minutos, ajustando a textura com caldo.",
+      "Junte 50 g de parmesão e sirva sobre 4 batatas, com 2 ovos e 8 azeitonas."
+    ],
+    "tips": [
+      "Se o molho ficar demasiado espesso, junte caldo em porções de 50 ml até ficar cremoso."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/aji-de-gallina.html",
+      "https://www.peru.travel/es/inspirate/8-comidas-tipicas-que-debes-probar-cuando-estes-en-peru"
+    ]
+  },
+  "r-pe-papa-huancaina": {
+    "dishName": "Papa à la huancaína",
+    "summary": "Batatas cozidas cobertas com um molho cremoso de queijo fresco e ají amarelo, servidas com ovo, azeitonas, milho e alface.",
+    "history": "A papa a la huancaína é uma das entradas mais conhecidas do Peru e está estreitamente associada aos Andes centrais e a Huancayo, em Junín. O prato junta a batata andina a um molho de ají amarelo, queijo e leite, numa combinação representativa da mestiçagem culinária peruana.",
+    "ingredients": [
+      "1 kg de batatas",
+      "200 g de queijo fresco",
+      "3 ajíes amarelos sem veios nem sementes",
+      "120 ml de leite",
+      "60 ml de óleo vegetal",
+      "½ cebola",
+      "Sumo de ½ limão",
+      "2 ovos cozidos",
+      "4 azeitonas pretas",
+      "100 g de grãos de milho cozidos",
+      "Folhas de alface e sal a gosto"
+    ],
+    "steps": [
+      "Coza 1 kg de batatas durante 20-25 minutos até ficarem macias; descasque e corte em rodelas grossas.",
+      "Refogue ½ cebola e 3 ajíes amarelos durante 5 minutos e deixe arrefecer ligeiramente.",
+      "Triture 200 g de queijo fresco com 120 ml de leite e 60 ml de óleo durante 2 minutos, incorporando o refogado até obter um molho liso.",
+      "Tempere com o sumo de ½ limão e sal, ajustando a consistência com um pouco mais de leite se necessário.",
+      "Sirva o molho sobre as batatas e acompanhe com 2 ovos, 4 azeitonas, 100 g de milho e alface."
+    ],
+    "tips": [
+      "Se o molho ficar muito espesso, junte leite em porções de 15 ml de cada vez para não ficar líquido."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
+      "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
+    ]
   }
 }
