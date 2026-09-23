@@ -14465,5 +14465,249 @@
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Arepas_de_huevo.jpg/960px-Arepas_de_huevo.jpg"
+  },
+  {
+    "id": "r-ma-tajin-pollo",
+    "dishName": "Tajín marroquí de pollo con limón y aceitunas",
+    "slug": "tajin-marroqui-pollo-limon-aceitunas",
+    "placeId": "ma",
+    "summary": "Pollo cocido lentamente con limón en conserva, aceitunas verdes, cebolla, hierbas y especias aromáticas en un tajín marroquí.",
+    "history": "El tajín es a la vez un recipiente de barro y una forma de cocción lenta muy asociada con la cocina de Marruecos. La combinación de pollo, limón en conserva y aceitunas es una de sus variantes más conocidas, con un equilibrio de notas saladas, cítricas y especiadas.",
+    "originConfidence": "commonly_associated",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 60,
+    "totalTimeMin": 80,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [
+      "sin_gluten",
+      "sin_lacteos"
+    ],
+    "ingredients": [
+      {
+        "text": "1.2 kg de muslos y contramuslos de pollo"
+      },
+      {
+        "text": "2 limones en conserva, en cuartos"
+      },
+      {
+        "text": "150 g de aceitunas verdes"
+      },
+      {
+        "text": "2 cebollas en plumas"
+      },
+      {
+        "text": "3 dientes de ajo picados"
+      },
+      {
+        "text": "30 g de cilantro fresco picado"
+      },
+      {
+        "text": "20 g de perejil fresco picado"
+      },
+      {
+        "text": "2 cucharadas de aceite de oliva"
+      },
+      {
+        "text": "1 cucharadita de jengibre molido"
+      },
+      {
+        "text": "1 cucharadita de cúrcuma"
+      },
+      {
+        "text": "½ cucharadita de pimienta negra"
+      },
+      {
+        "text": "250 ml de agua o caldo de pollo"
+      }
+    ],
+    "steps": [
+      "Mezcla el pollo con ajo, cilantro, perejil, jengibre, cúrcuma, pimienta y aceite; deja reposar 15 minutos.",
+      "Coloca las cebollas en la base del tajín o de una cazuela pesada, añade el pollo y dóralo suavemente durante 8-10 minutos.",
+      "Agrega 250 ml de agua o caldo, tapa y cocina a fuego bajo durante 40 minutos, girando las piezas una vez.",
+      "Incorpora los limones en conserva y 150 g de aceitunas; cocina destapado 10-15 minutos más, hasta que la salsa se concentre.",
+      "Prueba antes de añadir sal, deja reposar 5 minutos y sirve con la salsa, las aceitunas y el limón."
+    ],
+    "tips": [
+      "Añade la sal solo al final: el limón en conserva y las aceitunas ya aportan bastante salinidad."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "/images/recipes-v2/tajin-marroqui-pollo-limon-aceitunas.webp"
+  },
+  {
+    "id": "r-ma-cuscus-siete-verduras",
+    "dishName": "Cuscús marroquí con siete verduras",
+    "slug": "cuscus-marroqui-siete-verduras",
+    "placeId": "ma",
+    "summary": "Cuscús esponjoso con garbanzos y siete verduras cocidas en un caldo especiado, servido como un plato abundante para compartir.",
+    "history": "El cuscús forma parte central de las tradiciones culinarias del Magreb y en Marruecos se asocia especialmente con las comidas familiares y el viernes. En 2020, los conocimientos y prácticas relacionados con su producción y consumo, compartidos por Marruecos, Argelia, Mauritania y Túnez, fueron inscritos por la UNESCO como patrimonio cultural inmaterial.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 25,
+    "cookTimeMin": 50,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [
+      "vegetariano",
+      "vegano",
+      "sin_lacteos"
+    ],
+    "ingredients": [
+      {
+        "text": "400 g de cuscús"
+      },
+      {
+        "text": "240 g de garbanzos cocidos"
+      },
+      {
+        "text": "2 zanahorias en trozos grandes"
+      },
+      {
+        "text": "2 calabacines en trozos grandes"
+      },
+      {
+        "text": "300 g de calabaza en trozos"
+      },
+      {
+        "text": "¼ de col en gajos"
+      },
+      {
+        "text": "2 nabos pelados y cortados"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "2 tomates maduros rallados"
+      },
+      {
+        "text": "1.2 l de caldo de verduras"
+      },
+      {
+        "text": "2 cucharadas de aceite de oliva"
+      },
+      {
+        "text": "1 cucharadita de cúrcuma"
+      },
+      {
+        "text": "1 cucharadita de jengibre molido"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      }
+    ],
+    "steps": [
+      "Calienta el aceite y sofríe la cebolla 5 minutos; añade tomate, cúrcuma y jengibre y cocina 3 minutos.",
+      "Agrega el caldo, las zanahorias, los nabos y la col; cocina a fuego medio durante 20 minutos.",
+      "Incorpora la calabaza, los calabacines y los garbanzos y cocina 15-20 minutos más, hasta que las verduras estén tiernas pero enteras.",
+      "Prepara 400 g de cuscús según las indicaciones del paquete, esponjándolo con un tenedor para separar los granos.",
+      "Forma una base de cuscús, acomoda las siete verduras y los garbanzos encima y humedece con parte del caldo especiado."
+    ],
+    "tips": [
+      "Añade primero las verduras más firmes y deja el calabacín y la calabaza para el final, así conservan mejor su forma."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy",
+      "https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "/images/recipes-v2/cuscus-marroqui-siete-verduras.webp"
+  },
+  {
+    "id": "r-ma-harira",
+    "dishName": "Harira marroquí tradicional",
+    "slug": "harira-marroqui-tradicional",
+    "placeId": "ma",
+    "summary": "Sopa marroquí de tomate, garbanzos, lentejas, hierbas, carne y fideos finos, espesa y reconfortante.",
+    "history": "La harira es una sopa emblemática de Marruecos preparada con legumbres, tomate, hierbas y, con frecuencia, carne y fideos. Está especialmente vinculada al mes de Ramadán, cuando suele servirse para romper el ayuno acompañada de dátiles, limón y dulces tradicionales.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 70,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [
+      "sin_lacteos"
+    ],
+    "ingredients": [
+      {
+        "text": "250 g de carne de res o cordero en cubos pequeños"
+      },
+      {
+        "text": "200 g de garbanzos cocidos"
+      },
+      {
+        "text": "120 g de lentejas"
+      },
+      {
+        "text": "500 g de tomate triturado"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "2 tallos de apio picados"
+      },
+      {
+        "text": "20 g de cilantro fresco picado"
+      },
+      {
+        "text": "20 g de perejil fresco picado"
+      },
+      {
+        "text": "60 g de fideos finos"
+      },
+      {
+        "text": "30 g de harina de trigo"
+      },
+      {
+        "text": "1.5 l de agua o caldo"
+      },
+      {
+        "text": "1 cucharadita de jengibre molido"
+      },
+      {
+        "text": "½ cucharadita de cúrcuma"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      }
+    ],
+    "steps": [
+      "Dora la carne con la cebolla y el apio durante 6-8 minutos; añade jengibre, cúrcuma, cilantro y perejil.",
+      "Incorpora el tomate, las lentejas y 1.5 l de agua o caldo; tapa y cocina a fuego medio-bajo durante 45 minutos.",
+      "Añade los garbanzos y los fideos y cocina 10 minutos más.",
+      "Mezcla 30 g de harina con 120 ml de agua fría hasta que no queden grumos; incorpórala poco a poco mientras remueves.",
+      "Cocina 8-10 minutos hasta que la sopa espese ligeramente, ajusta sal y pimienta y sirve caliente con limón si deseas."
+    ],
+    "tips": [
+      "Añade la mezcla de harina en hilo fino y removiendo constantemente para espesar la harira sin formar grumos."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "/images/recipes-v2/harira-marroqui-tradicional.webp"
   }
 ]
