@@ -51,7 +51,7 @@ async function loaded(locator) {
     });
     await page.goto(base + '/es', { waitUntil: 'networkidle' });
     const covers = page.locator('.destination-card');
-    assert.equal(await covers.count(), 12);
+    assert.equal(await covers.count(), 13);
     const coverImages = covers.locator('img');
     for (let i = 0; i < await coverImages.count(); i++) await loaded(coverImages.nth(i));
     await page.locator('.destination-grid').screenshot({ path: path.join(out, 'country-covers-desktop.png'), animations: 'disabled' });
@@ -92,6 +92,18 @@ async function loaded(locator) {
     }
     for (let i = 0; i < await brazilCards.locator('img').count(); i++) await loaded(brazilCards.locator('img').nth(i));
     result.desktop.brazilRecipeCards = await brazilCards.count();
+    await page.goto(base + '/es', { waitUntil: 'networkidle' });
+    const argentina = page.locator('.destination-card').filter({ has: page.locator('.country-code', { hasText: /^AR$/ }) });
+    const argentinaPath = await argentina.getAttribute('href');
+    assert.ok(argentinaPath && argentinaPath.startsWith('/es/'));
+    await page.goto(base + argentinaPath, { waitUntil: 'networkidle' });
+    const argentinaCards = page.locator('.recipe-card');
+    assert.equal(await argentinaCards.count(), recipes.filter(r => /^ar(?:$|[-:])/.test(r.placeId)).length);
+    for (const slug of ['asado-argentino-a-la-parrilla', 'empanadas-saltenas-argentinas', 'locro-criollo-argentino', 'alfajores-de-maicena-argentinos']) {
+      assert.equal(await page.locator(`a.recipe-card[href="/es/receta/${slug}"]`).count(), 1);
+    }
+    for (let i = 0; i < await argentinaCards.locator('img').count(); i++) await loaded(argentinaCards.locator('img').nth(i));
+    result.desktop.argentinaRecipeCards = await argentinaCards.count();
     await page.goto(base + '/es/receta/coq-au-vin', { waitUntil: 'networkidle' });
     const hero = page.locator('figure').first().locator('img');
     await loaded(hero);
