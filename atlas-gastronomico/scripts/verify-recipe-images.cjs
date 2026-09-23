@@ -51,7 +51,7 @@ async function loaded(locator) {
     });
     await page.goto(base + '/es', { waitUntil: 'networkidle' });
     const covers = page.locator('.destination-card');
-    assert.equal(await covers.count(), 16);
+    assert.equal(await covers.count(), 17);
     const coverImages = covers.locator('img');
     for (let i = 0; i < await coverImages.count(); i++) await loaded(coverImages.nth(i));
     await page.locator('.destination-grid').screenshot({ path: path.join(out, 'country-covers-desktop.png'), animations: 'disabled' });
@@ -140,6 +140,18 @@ async function loaded(locator) {
     }
     for (let i = 0; i < await colombiaCards.locator('img').count(); i++) await loaded(colombiaCards.locator('img').nth(i));
     result.desktop.colombiaRecipeCards = await colombiaCards.count();
+    await page.goto(base + '/es', { waitUntil: 'networkidle' });
+    const morocco = page.locator('.destination-card').filter({ has: page.locator('.country-code', { hasText: /^MA$/ }) });
+    const moroccoPath = await morocco.getAttribute('href');
+    assert.ok(moroccoPath && moroccoPath.startsWith('/es/'));
+    await page.goto(base + moroccoPath, { waitUntil: 'networkidle' });
+    const moroccoCards = page.locator('.recipe-card');
+    assert.equal(await moroccoCards.count(), recipes.filter(r => /^ma(?:$|[-:])/.test(r.placeId)).length);
+    for (const slug of ['tajin-marroqui-pollo-limon-aceitunas', 'cuscus-marroqui-siete-verduras', 'harira-marroqui-tradicional']) {
+      assert.equal(await page.locator(`a.recipe-card[href="/es/receta/${slug}"]`).count(), 1);
+    }
+    for (let i = 0; i < await moroccoCards.locator('img').count(); i++) await loaded(moroccoCards.locator('img').nth(i));
+    result.desktop.moroccoRecipeCards = await moroccoCards.count();
     await page.goto(base + '/es/receta/coq-au-vin', { waitUntil: 'networkidle' });
     const hero = page.locator('figure').first().locator('img');
     await loaded(hero);
