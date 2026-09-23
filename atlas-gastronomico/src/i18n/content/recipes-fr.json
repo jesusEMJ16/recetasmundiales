@@ -6457,5 +6457,127 @@
       "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
       "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
     ]
+  },
+  "r-co-bandeja-paisa": {
+    "dishName": "Bandeja paisa colombienne",
+    "summary": "Grande assiette d'Antioquia avec haricots, riz, bœuf haché, poitrine de porc, chorizo, œuf, banane plantain mûre, arepa et avocat.",
+    "history": "La bandeja paisa est étroitement associée à Antioquia et à la région caféière colombienne. Elle rassemble dans un grand plat des aliments nourrissants issus de la tradition rurale paisa et compte aujourd'hui parmi les plats colombiens les plus connus.",
+    "ingredients": [
+      "300 g de haricots rouges secs",
+      "200 g de riz blanc",
+      "300 g de bœuf haché",
+      "200 g de poitrine de porc ou couenne",
+      "4 petits chorizos",
+      "4 œufs",
+      "2 bananes plantain mûres",
+      "4 petites arepas",
+      "1 gros avocat",
+      "200 g de hogao",
+      "1 cuillère à café de sel",
+      "1.5 l d'eau"
+    ],
+    "steps": [
+      "Faire tremper 300 g de haricots pendant 8 heures; égoutter puis cuire dans 1.5 l d'eau pendant 60-75 minutes jusqu'à tendreté.",
+      "Cuire 200 g de riz selon votre méthode habituelle et le garder chaud.",
+      "Faire dorer séparément 300 g de bœuf haché, 200 g de poitrine de porc et 4 chorizos jusqu'à cuisson complète.",
+      "Frire 2 bananes plantain mûres en tranches et cuire 4 œufs à votre goût; réchauffer 4 arepas.",
+      "Servir sur chaque plateau haricots, riz, bœuf, porc, chorizo, plantain, œuf, arepa, 200 g de hogao et des portions de 1 avocat."
+    ],
+    "tips": [
+      "Servir tous les éléments fraîchement cuits pour conserver le contraste entre haricots crémeux, viandes dorées et plantain croustillant."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/mas-alla-de-la-iconica-bandeja-paisa"
+    ]
+  },
+  "r-co-ajiaco": {
+    "dishName": "Ajiaco santafereño",
+    "summary": "Soupe épaisse de Bogotá au poulet, trois types de pommes de terre, maïs et guascas, servie avec crème, câpres et avocat.",
+    "history": "L'ajiaco santafereño est l'un des plats les plus associés à Bogotá et au haut plateau cundiboyacense. Son caractère distinctif vient de l'association de plusieurs pommes de terre andines avec les guascas, le poulet et le maïs.",
+    "ingredients": [
+      "700 g de blanc de poulet",
+      "300 g de pommes de terre papa criolla",
+      "300 g de pommes de terre papa pastusa",
+      "300 g de pommes de terre papa sabanera",
+      "2 épis de maïs coupés en morceaux",
+      "2.5 l d'eau",
+      "30 g de guascas fraîches ou séchées",
+      "120 ml de crème",
+      "40 g de câpres",
+      "1 gros avocat",
+      "1 cuillère à café de sel"
+    ],
+    "steps": [
+      "Cuire 700 g de poulet dans 2.5 l d'eau avec 1 cuillère à café de sel pendant 20 minutes; retirer, effilocher et réserver le bouillon.",
+      "Ajouter 300 g de papa pastusa, 300 g de papa sabanera et 2 épis de maïs au bouillon; cuire 20 minutes.",
+      "Ajouter 300 g de papa criolla et 30 g de guascas; cuire encore 15-20 minutes jusqu'à ce qu'une partie des pommes de terre épaississe la soupe.",
+      "Remettre le poulet effiloché dans la casserole et cuire 5 minutes.",
+      "Servir avec 120 ml de crème, 40 g de câpres et 1 avocat répartis entre les portions."
+    ],
+    "tips": [
+      "Ne pas mixer la soupe: la papa pastusa doit se défaire naturellement pour donner à l'ajiaco sa texture typique."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/platos-tipicos-de-colombia"
+    ]
+  },
+  "r-co-lechona": {
+    "dishName": "Lechona du Tolima",
+    "summary": "Porc rôti lentement avec pois jaunes et épices, à la peau dorée et croustillante, typique du Tolima.",
+    "history": "La lechona est une préparation emblématique du Tolima et du Huila. La version traditionnelle du Tolima repose sur le porc, les pois et les assaisonnements cuits lentement et se sert souvent lors de fêtes et de grands rassemblements.",
+    "ingredients": [
+      "1.5 kg d'épaule de porc en cubes",
+      "500 g de poitrine de porc avec peau",
+      "300 g de pois jaunes secs, trempés",
+      "2 oignons hachés",
+      "4 gousses d'ail hachées",
+      "2 cuillères à café de cumin",
+      "1 cuillère à café de roucou",
+      "2 cuillères à café de sel",
+      "1 cuillère à café de poivre noir",
+      "250 ml de bouillon de porc ou d'eau"
+    ],
+    "steps": [
+      "Égoutter 300 g de pois trempés et les cuire 30 minutes jusqu'à presque tendreté; égoutter.",
+      "Mélanger 1.5 kg d'épaule de porc avec 2 oignons, 4 gousses d'ail, 2 cuillères à café de cumin, 1 cuillère à café de roucou, 2 cuillères à café de sel et 1 cuillère à café de poivre.",
+      "Placer 500 g de poitrine de porc côté peau vers le bas dans un plat profond; ajouter le porc, les pois et 250 ml de bouillon.",
+      "Couvrir et cuire à 170 °C pendant 150 minutes; découvrir, monter à 220 °C et cuire encore 20-30 minutes pour rendre la peau croustillante.",
+      "Laisser reposer 20 minutes avant de couper et servir."
+    ],
+    "tips": [
+      "Bien sécher la peau du porc avant la cuisson finale à forte température pour la rendre plus croustillante."
+    ],
+    "sources": [
+      "https://colombia.travel/es/blog/destinos-que-destacan-por-sus-deliciosos-platos-de-comida-colombiana",
+      "https://colombia.travel/es/andes-colombianos"
+    ]
+  },
+  "r-co-arepa-huevo": {
+    "dishName": "Arepa colombienne à l'œuf",
+    "summary": "Arepa caribéenne de maïs frite deux fois et garnie d'un œuf entier, croustillante dehors et tendre au centre.",
+    "history": "L'arepa à l'œuf est une spécialité de la côte caraïbe colombienne et possède une forte tradition dans des lieux comme Luruaco, dans l'Atlántico. On frit d'abord une arepa de maïs, on l'ouvre pour ajouter un œuf puis on la frit une seconde fois.",
+    "ingredients": [
+      "400 g de farine de maïs blanc précuite",
+      "500 ml d'eau tiède",
+      "1 cuillère à café de sel",
+      "8 œufs",
+      "1 l d'huile végétale pour friture"
+    ],
+    "steps": [
+      "Mélanger 400 g de farine de maïs avec 500 ml d'eau tiède et 1 cuillère à café de sel; pétrir 3 minutes et laisser reposer 10 minutes.",
+      "Diviser la pâte en 8 portions et former des disques d'environ 10 cm.",
+      "Frire les disques dans 1 l d'huile à 175 °C pendant 2 minutes de chaque côté puis les retirer.",
+      "Faire une petite ouverture dans chaque arepa, ajouter 1 œuf et refermer délicatement avec un peu de pâte.",
+      "Frire de nouveau chaque arepa 3-4 minutes jusqu'à ce qu'elle soit dorée et que l'œuf soit pris."
+    ],
+    "tips": [
+      "Travailler avec 1 arepa à la fois au moment d'ajouter l'œuf pour pouvoir la refermer et la remettre dans l'huile avant que la garniture ne s'échappe."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
+    ]
   }
 }

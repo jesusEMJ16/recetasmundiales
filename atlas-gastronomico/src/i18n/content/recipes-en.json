@@ -6457,5 +6457,127 @@
       "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
       "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
     ]
+  },
+  "r-co-bandeja-paisa": {
+    "dishName": "Colombian bandeja paisa",
+    "summary": "A generous Antioquian platter of beans, rice, ground beef, pork belly, chorizo, egg, ripe plantain, arepa and avocado.",
+    "history": "Bandeja paisa is closely associated with Antioquia and Colombia's Coffee Region. Its format brings together energy-rich foods from Paisa rural tradition on one large platter and it is now one of Colombia's best-known dishes.",
+    "ingredients": [
+      "300 g dried red beans",
+      "200 g white rice",
+      "300 g ground beef",
+      "200 g pork belly or pork rind",
+      "4 small chorizos",
+      "4 eggs",
+      "2 ripe plantains",
+      "4 small arepas",
+      "1 large avocado",
+      "200 g hogao",
+      "1 teaspoon salt",
+      "1.5 l water"
+    ],
+    "steps": [
+      "Soak 300 g beans for 8 hours; drain and cook them in 1.5 l water for 60-75 minutes until tender.",
+      "Cook 200 g rice by your usual method and keep it warm.",
+      "Brown 300 g ground beef, 200 g pork belly and 4 chorizos separately until fully cooked.",
+      "Fry 2 ripe plantains in slices and cook 4 eggs to your liking; warm 4 arepas.",
+      "Serve each platter with beans, rice, beef, pork, chorizo, plantain, egg, arepa, 200 g hogao and portions of 1 avocado."
+    ],
+    "tips": [
+      "Serve all components freshly cooked to keep the contrast between creamy beans, browned meats and crisp plantain."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/mas-alla-de-la-iconica-bandeja-paisa"
+    ]
+  },
+  "r-co-ajiaco": {
+    "dishName": "Bogotá-style ajiaco",
+    "summary": "A thick Bogotá soup with chicken, three kinds of potato, corn and guascas, served with cream, capers and avocado.",
+    "history": "Ajiaco santafereño is one of the dishes most strongly identified with Bogotá and the Cundiboyacense high plateau. Its distinctive character comes from combining several Andean potatoes with guascas, chicken and corn.",
+    "ingredients": [
+      "700 g chicken breast",
+      "300 g papa criolla potatoes",
+      "300 g papa pastusa potatoes",
+      "300 g papa sabanera potatoes",
+      "2 ears of corn, cut into pieces",
+      "2.5 l water",
+      "30 g fresh or dried guascas",
+      "120 ml cream",
+      "40 g capers",
+      "1 large avocado",
+      "1 teaspoon salt"
+    ],
+    "steps": [
+      "Cook 700 g chicken in 2.5 l water with 1 teaspoon salt for 20 minutes; remove, shred and reserve the broth.",
+      "Add 300 g papa pastusa, 300 g papa sabanera and 2 ears of corn to the broth; cook for 20 minutes.",
+      "Add 300 g papa criolla and 30 g guascas; cook for 15-20 minutes more until some potato breaks down and thickens the soup.",
+      "Return the shredded chicken to the pot and cook for 5 minutes.",
+      "Serve with 120 ml cream, 40 g capers and 1 avocado divided among the portions."
+    ],
+    "tips": [
+      "Do not blend the soup: the papa pastusa should break down naturally to give ajiaco its characteristic texture."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/platos-tipicos-de-colombia"
+    ]
+  },
+  "r-co-lechona": {
+    "dishName": "Tolima-style lechona",
+    "summary": "Slow-roasted pork with yellow peas and spices, with golden crisp skin, typical of Tolima.",
+    "history": "Lechona is an emblematic preparation of Tolima and Huila. Traditional Tolima-style lechona centers on pork, peas and seasonings cooked slowly and is commonly served at celebrations and large gatherings.",
+    "ingredients": [
+      "1.5 kg pork shoulder, cubed",
+      "500 g skin-on pork belly",
+      "300 g dried yellow peas, soaked",
+      "2 onions, chopped",
+      "4 garlic cloves, chopped",
+      "2 teaspoons cumin",
+      "1 teaspoon annatto",
+      "2 teaspoons salt",
+      "1 teaspoon black pepper",
+      "250 ml pork stock or water"
+    ],
+    "steps": [
+      "Drain 300 g soaked peas and cook them for 30 minutes until almost tender; drain.",
+      "Mix 1.5 kg pork shoulder with 2 onions, 4 garlic cloves, 2 teaspoons cumin, 1 teaspoon annatto, 2 teaspoons salt and 1 teaspoon pepper.",
+      "Place 500 g pork belly skin-side down in a deep roasting dish; add the pork mixture, peas and 250 ml stock.",
+      "Cover and bake at 170 °C for 150 minutes; uncover, raise to 220 °C and bake 20-30 minutes more to crisp the skin.",
+      "Rest for 20 minutes before slicing and serving."
+    ],
+    "tips": [
+      "Dry the pork skin very well before the final high-heat bake to make it crisper."
+    ],
+    "sources": [
+      "https://colombia.travel/es/blog/destinos-que-destacan-por-sus-deliciosos-platos-de-comida-colombiana",
+      "https://colombia.travel/es/andes-colombianos"
+    ]
+  },
+  "r-co-arepa-huevo": {
+    "dishName": "Colombian egg arepa",
+    "summary": "A Caribbean corn arepa fried twice and filled with a whole egg for a crisp shell and soft center.",
+    "history": "The egg arepa is a specialty of Colombia's Caribbean coast and has a strong tradition in places such as Luruaco, Atlántico. It is made by frying a corn arepa, opening it to add an egg and frying it again.",
+    "ingredients": [
+      "400 g precooked white cornmeal",
+      "500 ml warm water",
+      "1 teaspoon salt",
+      "8 eggs",
+      "1 l vegetable oil for frying"
+    ],
+    "steps": [
+      "Mix 400 g cornmeal with 500 ml warm water and 1 teaspoon salt; knead for 3 minutes and rest for 10 minutes.",
+      "Divide the dough into 8 portions and shape discs about 10 cm wide.",
+      "Fry the discs in 1 l oil at 175 °C for 2 minutes per side, then remove them.",
+      "Make a small opening in each arepa, add 1 egg and gently seal it with a little dough.",
+      "Fry each arepa again for 3-4 minutes until golden and the egg is set."
+    ],
+    "tips": [
+      "Work with 1 arepa at a time when adding the egg so you can seal it and return it to the oil before the filling escapes."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
+    ]
   }
 }

@@ -4012,5 +4012,77 @@
       "hi": "चिली सोपाइपियास",
       "ur": "چلی کی سوپائیپیاس"
     }
+  },
+  {
+    "id": "r-co-bandeja-paisa",
+    "slug": "bandeja-paisa-colombiana",
+    "names": {
+      "es": "Bandeja paisa colombiana",
+      "en": "Colombian bandeja paisa",
+      "fr": "Bandeja paisa colombienne",
+      "pt": "Bandeja paisa colombiana",
+      "id": "Bandeja paisa Kolombia",
+      "ja": "コロンビア風バンデハ・パイサ",
+      "zh": "哥伦比亚班德哈派萨",
+      "ru": "Колумбийская бандеха пайса",
+      "ar": "بانديخا بايسا كولومبية",
+      "bn": "কলম্বিয়ান বান্দেখা পাইসা",
+      "hi": "कोलंबियाई बांदेहा पैसा",
+      "ur": "کولمبیائی باندیخا پائسا"
+    }
+  },
+  {
+    "id": "r-co-ajiaco",
+    "slug": "ajiaco-santafereno-colombiano",
+    "names": {
+      "es": "Ajiaco santafereño",
+      "en": "Bogotá-style ajiaco",
+      "fr": "Ajiaco santafereño",
+      "pt": "Ajiaco santafereño",
+      "id": "Ajiaco khas Bogotá",
+      "ja": "サンタフェ風アヒアコ",
+      "zh": "波哥大阿希亚科汤",
+      "ru": "Ахиако по-боготски",
+      "ar": "أخياكو بوغوتا",
+      "bn": "বোগোতা আজিাকো",
+      "hi": "बोगोटा अजियाको",
+      "ur": "بوگوٹا آہیاکو"
+    }
+  },
+  {
+    "id": "r-co-lechona",
+    "slug": "lechona-tolimense-colombiana",
+    "names": {
+      "es": "Lechona tolimense",
+      "en": "Tolima-style lechona",
+      "fr": "Lechona du Tolima",
+      "pt": "Lechona tolimense",
+      "id": "Lechona Tolima",
+      "ja": "トリマ風レチョナ",
+      "zh": "托利马烤猪肉",
+      "ru": "Лечона по-толимски",
+      "ar": "ليتشونا توليما",
+      "bn": "তোলিমা লেচোনা",
+      "hi": "तोलिमा लेचोना",
+      "ur": "تولیما لیچونا"
+    }
+  },
+  {
+    "id": "r-co-arepa-huevo",
+    "slug": "arepa-de-huevo-colombiana",
+    "names": {
+      "es": "Arepa de huevo colombiana",
+      "en": "Colombian egg arepa",
+      "fr": "Arepa colombienne à l'œuf",
+      "pt": "Arepa colombiana de ovo",
+      "id": "Arepa telur Kolombia",
+      "ja": "コロンビア風卵入りアレパ",
+      "zh": "哥伦比亚鸡蛋玉米饼",
+      "ru": "Колумбийская арепа с яйцом",
+      "ar": "أريبا كولومبية بالبيض",
+      "bn": "কলম্বিয়ান ডিমের আরেপা",
+      "hi": "कोलंबियाई अंडा अरेपा",
+      "ur": "کولمبیائی انڈے والی اریپا"
+    }
   }
 ]

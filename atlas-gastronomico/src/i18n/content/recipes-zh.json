@@ -6457,5 +6457,127 @@
       "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
       "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
     ]
+  },
+  "r-co-bandeja-paisa": {
+    "dishName": "哥伦比亚班德哈派萨",
+    "summary": "安蒂奥基亚丰盛拼盘，包括豆类、米饭、牛肉末、猪五花、香肠、鸡蛋、熟大蕉、玉米饼和牛油果。",
+    "history": "班德哈派萨与安蒂奥基亚及哥伦比亚咖啡产区关系密切。它把派萨乡村传统中的高能量食物集中在一个大托盘中，如今已成为哥伦比亚最知名的菜肴之一。",
+    "ingredients": [
+      "300 g 干红豆",
+      "200 g 白米",
+      "300 g 牛肉末",
+      "200 g 猪五花或猪皮",
+      "4 根小香肠",
+      "4 个鸡蛋",
+      "2 根熟大蕉",
+      "4 个小玉米饼",
+      "1 个大牛油果",
+      "200 g hogao 番茄洋葱酱",
+      "1 茶匙盐",
+      "1.5 l 水"
+    ],
+    "steps": [
+      "将 300 g 红豆浸泡 8 小时；沥干后放入 1.5 l 水中煮 60-75 分钟至软。",
+      "按常用方法煮 200 g 米饭并保温。",
+      "分别将 300 g 牛肉末、200 g 猪五花和 4 根香肠煎至完全熟透并上色。",
+      "将 2 根熟大蕉切片煎熟，并按喜好煎 4 个鸡蛋；加热 4 个玉米饼。",
+      "每份拼盘放入豆类、米饭、牛肉、猪肉、香肠、大蕉、鸡蛋、玉米饼、200 g hogao 和由 1 个牛油果分出的份量。"
+    ],
+    "tips": [
+      "所有配菜尽量现做现上，以保留绵软豆类、焦香肉类和酥脆大蕉之间的口感对比。"
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/mas-alla-de-la-iconica-bandeja-paisa"
+    ]
+  },
+  "r-co-ajiaco": {
+    "dishName": "波哥大阿希亚科汤",
+    "summary": "波哥大浓汤，以鸡肉、三种土豆、玉米和 guascas 香草烹制，并配奶油、刺山柑和牛油果。",
+    "history": "圣菲风阿希亚科是最能代表波哥大和昆迪博亚卡高原的菜肴之一。它的特色来自多种安第斯土豆与 guascas 香草、鸡肉和玉米的结合。",
+    "ingredients": [
+      "700 g 鸡胸肉",
+      "300 g papa criolla 土豆",
+      "300 g papa pastusa 土豆",
+      "300 g papa sabanera 土豆",
+      "2 根玉米，切段",
+      "2.5 l 水",
+      "30 g 新鲜或干燥 guascas",
+      "120 ml 奶油",
+      "40 g 刺山柑",
+      "1 个大牛油果",
+      "1 茶匙盐"
+    ],
+    "steps": [
+      "将 700 g 鸡肉放入 2.5 l 水中，加 1 茶匙盐煮 20 分钟；取出撕丝并保留汤汁。",
+      "向汤中加入 300 g papa pastusa、300 g papa sabanera 和 2 根玉米；煮 20 分钟。",
+      "加入 300 g papa criolla 和 30 g guascas；再煮 15-20 分钟，直到部分土豆自然煮化并使汤变浓。",
+      "将鸡丝放回锅中再煮 5 分钟。",
+      "上桌时把 120 ml 奶油、40 g 刺山柑和 1 个牛油果分配到各份中。"
+    ],
+    "tips": [
+      "不要用搅拌机打汤；应让 papa pastusa 自然煮化，形成阿希亚科特有的浓稠口感。"
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/platos-tipicos-de-colombia"
+    ]
+  },
+  "r-co-lechona": {
+    "dishName": "托利马烤猪肉",
+    "summary": "猪肉与黄豌豆和香料慢烤，外皮金黄酥脆，是托利马的典型菜肴。",
+    "history": "Lechona 是托利马和乌伊拉的代表性菜肴。传统托利马做法以猪肉、豌豆和香料长时间慢烤为核心，常见于庆典和大型聚会。",
+    "ingredients": [
+      "1.5 kg 猪肩肉，切块",
+      "500 g 带皮猪五花",
+      "300 g 干黄豌豆，浸泡",
+      "2 个洋葱，切碎",
+      "4 瓣大蒜，切碎",
+      "2 茶匙孜然",
+      "1 茶匙胭脂树籽粉",
+      "2 茶匙盐",
+      "1 茶匙黑胡椒",
+      "250 ml 猪肉高汤或水"
+    ],
+    "steps": [
+      "将浸泡好的 300 g 黄豌豆沥干，煮 30 分钟至接近软熟，再沥干。",
+      "将 1.5 kg 猪肩肉与 2 个洋葱、4 瓣大蒜、2 茶匙孜然、1 茶匙胭脂树籽粉、2 茶匙盐和 1 茶匙黑胡椒混合。",
+      "把 500 g 猪五花皮朝下放入深烤盘，加入猪肉混合物、豌豆和 250 ml 高汤。",
+      "盖好后以 170 °C 烤 150 分钟；揭盖升至 220 °C，再烤 20-30 分钟，使猪皮酥脆。",
+      "静置 20 分钟后再切开上桌。"
+    ],
+    "tips": [
+      "最后高温烘烤前把猪皮充分擦干，会更容易形成酥脆表面。"
+    ],
+    "sources": [
+      "https://colombia.travel/es/blog/destinos-que-destacan-por-sus-deliciosos-platos-de-comida-colombiana",
+      "https://colombia.travel/es/andes-colombianos"
+    ]
+  },
+  "r-co-arepa-huevo": {
+    "dishName": "哥伦比亚鸡蛋玉米饼",
+    "summary": "加勒比风味玉米饼经过两次油炸，内塞整颗鸡蛋，外壳酥脆、中心柔软。",
+    "history": "鸡蛋玉米饼是哥伦比亚加勒比海岸的特色小吃，在大西洋省的 Luruaco 等地传统尤其深厚。做法是先炸玉米饼，再开口加入鸡蛋，随后再次油炸。",
+    "ingredients": [
+      "400 g 预熟白玉米粉",
+      "500 ml 温水",
+      "1 茶匙盐",
+      "8 个鸡蛋",
+      "1 l 植物油，用于油炸"
+    ],
+    "steps": [
+      "将 400 g 玉米粉与 500 ml 温水和 1 茶匙盐混合；揉 3 分钟后静置 10 分钟。",
+      "把面团分成 8 份，做成约 10 cm 宽的圆饼。",
+      "在 1 l、175 °C 的油中将圆饼每面炸 2 分钟，然后捞出。",
+      "在每个玉米饼上开一个小口，加入 1 个鸡蛋，再用少量面团轻轻封口。",
+      "再次油炸每个玉米饼 3-4 分钟，直到金黄且鸡蛋凝固。"
+    ],
+    "tips": [
+      "加入鸡蛋时每次只处理 1 个玉米饼，这样可以及时封口并放回油中，避免馅料流出。"
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
+    ]
   }
 }

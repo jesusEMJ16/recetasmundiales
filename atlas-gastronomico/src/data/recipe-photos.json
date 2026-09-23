@@ -2897,5 +2897,57 @@
     "source": "https://commons.wikimedia.org/wiki/File:Sopaipillas_chilenas.jpg",
     "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "provider": "Wikimedia Commons"
+  },
+  "bandeja-paisa-colombiana": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bandeja_paisa_30062011.jpg/960px-Bandeja_paisa_30062011.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bandeja_paisa_30062011.jpg/330px-Bandeja_paisa_30062011.jpg",
+    "width": 960,
+    "height": 539,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 185,
+    "author": "Dtarazona",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandeja_paisa_30062011.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "ajiaco-santafereno-colombiano": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ajiaco-santafere%C3%B1o.JPG/960px-Ajiaco-santafere%C3%B1o.JPG",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ajiaco-santafere%C3%B1o.JPG/330px-Ajiaco-santafere%C3%B1o.JPG",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Jdvillalobos",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ajiaco-santafere%C3%B1o.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "lechona-tolimense-colombiana": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lechona.JPG/960px-Lechona.JPG",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lechona.JPG/330px-Lechona.JPG",
+    "width": 960,
+    "height": 640,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 220,
+    "author": "Tamorlan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lechona.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "arepa-de-huevo-colombiana": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Arepas_de_huevo.jpg/960px-Arepas_de_huevo.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Arepas_de_huevo.jpg/330px-Arepas_de_huevo.jpg",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Jdvillalobos",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arepas_de_huevo.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "provider": "Wikimedia Commons"
   }
 }

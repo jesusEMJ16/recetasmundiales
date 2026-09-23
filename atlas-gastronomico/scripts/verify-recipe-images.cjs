@@ -51,7 +51,7 @@ async function loaded(locator) {
     });
     await page.goto(base + '/es', { waitUntil: 'networkidle' });
     const covers = page.locator('.destination-card');
-    assert.equal(await covers.count(), 15);
+    assert.equal(await covers.count(), 16);
     const coverImages = covers.locator('img');
     for (let i = 0; i < await coverImages.count(); i++) await loaded(coverImages.nth(i));
     await page.locator('.destination-grid').screenshot({ path: path.join(out, 'country-covers-desktop.png'), animations: 'disabled' });
@@ -128,6 +128,18 @@ async function loaded(locator) {
     }
     for (let i = 0; i < await chileCards.locator('img').count(); i++) await loaded(chileCards.locator('img').nth(i));
     result.desktop.chileRecipeCards = await chileCards.count();
+    await page.goto(base + '/es', { waitUntil: 'networkidle' });
+    const colombia = page.locator('.destination-card').filter({ has: page.locator('.country-code', { hasText: /^CO$/ }) });
+    const colombiaPath = await colombia.getAttribute('href');
+    assert.ok(colombiaPath && colombiaPath.startsWith('/es/'));
+    await page.goto(base + colombiaPath, { waitUntil: 'networkidle' });
+    const colombiaCards = page.locator('.recipe-card');
+    assert.equal(await colombiaCards.count(), recipes.filter(r => /^co(?:$|[-:])/.test(r.placeId)).length);
+    for (const slug of ['bandeja-paisa-colombiana', 'ajiaco-santafereno-colombiano', 'lechona-tolimense-colombiana', 'arepa-de-huevo-colombiana']) {
+      assert.equal(await page.locator(`a.recipe-card[href="/es/receta/${slug}"]`).count(), 1);
+    }
+    for (let i = 0; i < await colombiaCards.locator('img').count(); i++) await loaded(colombiaCards.locator('img').nth(i));
+    result.desktop.colombiaRecipeCards = await colombiaCards.count();
     await page.goto(base + '/es/receta/coq-au-vin', { waitUntil: 'networkidle' });
     const hero = page.locator('figure').first().locator('img');
     await loaded(hero);
