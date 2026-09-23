@@ -5967,5 +5967,114 @@
       "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
       "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
     ]
+  },
+  "r-br-feijoada": {
+    "dishName": "Feijoada brasileira",
+    "summary": "Ensopado brasileiro de feijão-preto com carne suína e linguiça defumada, servido com arroz, couve e laranja.",
+    "history": "A feijoada é um dos pratos mais conhecidos do Brasil e possui variações regionais. No Rio de Janeiro, é comumente associada a uma mesa completa com feijão-preto, carnes suínas, arroz, couve refogada, farofa e laranja.",
+    "ingredients": [
+      "500 g de feijão-preto seco",
+      "300 g de costela suína em pedaços",
+      "200 g de carne-seca dessalgada em cubos",
+      "200 g de paio ou linguiça defumada em rodelas",
+      "150 g de bacon em cubos",
+      "1 cebola grande picada e 4 dentes de alho picados",
+      "2 folhas de louro",
+      "2 colheres de sopa de óleo, sal e pimenta-do-reino a gosto"
+    ],
+    "steps": [
+      "Deixe 500 g de feijão-preto de molho em água por 8 horas; escorra e lave.",
+      "Doure 150 g de bacon numa panela grande; junte 300 g de costela, 200 g de carne-seca e 200 g de paio e doure levemente.",
+      "Acrescente 1 cebola, 4 dentes de alho e 2 folhas de louro; cozinhe até perfumar.",
+      "Junte o feijão, cubra bem com água e cozinhe em fogo baixo por cerca de 180 minutos, até ficar cremoso e as carnes macias.",
+      "Ajuste sal e pimenta-do-reino e sirva com arroz, couve refogada, farofa e laranja."
+    ],
+    "tips": [
+      "Mantenha a fervura suave e acrescente água quente quando necessário para o feijão permanecer coberto."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/feijoada",
+      "https://www.visitbrasil.com/es/location/rio-de-janeiro-es/"
+    ]
+  },
+  "r-br-pao-queijo": {
+    "dishName": "Pão de queijo mineiro",
+    "summary": "Pãezinhos de queijo de Minas Gerais, crocantes por fora e elásticos por dentro, feitos com polvilho de mandioca.",
+    "history": "O pão de queijo é fortemente associado a Minas Gerais e combina polvilho de mandioca com queijo. Escaldar o polvilho antes de juntar ovos e queijo ajuda a formar o miolo elástico e a casquinha leve.",
+    "ingredients": [
+      "250 g de polvilho azedo",
+      "250 g de polvilho doce",
+      "250 ml de leite",
+      "100 ml de óleo",
+      "1 colher de chá de sal",
+      "2 ovos",
+      "250 g de queijo meia-cura ou queijo curado ralado"
+    ],
+    "steps": [
+      "Aqueça o forno a 200 °C e prepare uma assadeira.",
+      "Misture 250 g de polvilho azedo, 250 g de polvilho doce e 1 colher de chá de sal.",
+      "Ferva 250 ml de leite com 100 ml de óleo e despeje sobre os polvilhos; misture e deixe amornar 10 minutos.",
+      "Junte 2 ovos e 250 g de queijo até obter uma massa pegajosa; modele 24 bolinhas.",
+      "Asse por 25-30 minutos, até crescerem e dourarem levemente."
+    ],
+    "tips": [
+      "Deixe a mistura escaldada amornar antes de adicionar os ovos para que eles não cozinhem."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/pao-de-queijo"
+    ]
+  },
+  "r-br-moqueca-baiana": {
+    "dishName": "Moqueca baiana de peixe",
+    "summary": "Ensopado baiano de peixe com leite de coco, azeite de dendê, tomate, pimentão e coentro.",
+    "history": "A moqueca baiana é uma preparação emblemática da Bahia. Combina peixe ou frutos do mar com azeite de dendê e leite de coco e reflete a mistura de influências indígenas, africanas e europeias presente na cozinha baiana.",
+    "ingredients": [
+      "800 g de peixe branco firme em pedaços",
+      "1 limão e 2 dentes de alho",
+      "2 tomates em rodelas",
+      "1 cebola em rodelas",
+      "1 pimentão vermelho em rodelas",
+      "200 ml de leite de coco",
+      "2 colheres de sopa de azeite de dendê",
+      "1 colher de sopa de azeite de oliva",
+      "30 g de folhas de coentro, sal e pimenta a gosto"
+    ],
+    "steps": [
+      "Tempere 800 g de peixe com o suco de 1 limão, 2 dentes de alho e sal; deixe descansar 20 minutos.",
+      "Numa panela larga faça camadas com 2 tomates, 1 cebola e 1 pimentão vermelho; acomode o peixe por cima.",
+      "Adicione 200 ml de leite de coco, 2 colheres de sopa de azeite de dendê e 1 colher de sopa de azeite de oliva.",
+      "Tampe e cozinhe em fogo médio-baixo por 25 minutos, movimentando a panela suavemente sem quebrar o peixe.",
+      "Junte 30 g de coentro, ajuste sal e pimenta e cozinhe mais 5 minutos antes de servir."
+    ],
+    "tips": [
+      "Movimente a panela suavemente em vez de mexer com colher para manter os pedaços de peixe inteiros."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/moqueca-de-peixe-baiana-revisitada",
+      "https://feel.visitbrasil.com/aula-de-culinaria-baiana/"
+    ]
+  },
+  "r-br-brigadeiro": {
+    "dishName": "Brigadeiro tradicional",
+    "summary": "Doce brasileiro de leite condensado e cacau, enrolado em bolinhas e coberto com granulado de chocolate.",
+    "history": "O brigadeiro se consolidou no Brasil ao longo do século 20 e hoje é um clássico de festas e aniversários. A versão tradicional é cozida na panela até a mistura de leite condensado e cacau se soltar do fundo.",
+    "ingredients": [
+      "395 g de leite condensado",
+      "30 g de cacau em pó",
+      "20 g de manteiga",
+      "100 g de granulado de chocolate"
+    ],
+    "steps": [
+      "Misture 395 g de leite condensado, 30 g de cacau em pó e 20 g de manteiga numa panela.",
+      "Cozinhe em fogo baixo, mexendo sem parar por 10-12 minutos, até engrossar e desgrudar do fundo.",
+      "Transfira para um prato untado e deixe esfriar 60 minutos.",
+      "Modele 24 bolinhas e passe em 100 g de granulado de chocolate."
+    ],
+    "tips": [
+      "Unte levemente as mãos com manteiga para a massa não grudar ao enrolar."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/brigadeiro"
+    ]
   }
 }
