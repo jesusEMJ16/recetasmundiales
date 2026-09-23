@@ -6,15 +6,15 @@ export interface DestinationPhoto extends RecipeImage {
 }
 // Menu cards and recipe pages share the same local image and attribution.
 const COVERS: Record<string, { slug: string; dish: string }> = {
-  MX: { slug: "tacos-al-pastor", dish: "Tacos al pastor" },
-  US: { slug: "brisket-ahumado-texano", dish: "Brisket ahumado texano" },
-  IT: { slug: "pizza-napoletana", dish: "Pizza napoletana" },
-  ES: { slug: "paella-valenciana", dish: "Paella valenciana" },
-  JP: { slug: "okonomiyaki-osaka", dish: "Okonomiyaki" },
-  TH: { slug: "khao-soi", dish: "Khao soi" },
-  FR: { slug: "coq-au-vin", dish: "Coq au vin" },
-  DE: { slug: "sauerbraten", dish: "Sauerbraten" },
-  GR: { slug: "moussaka", dish: "Moussaka" },
+  MX: { slug: "tacos-de-pescado-estilo-baja", dish: "Tacos de pescado estilo Baja" },
+  US: { slug: "buffalo-wings", dish: "Buffalo wings" },
+  IT: { slug: "tiramisu", dish: "Tiramisú" },
+  ES: { slug: "pulpo-a-la-gallega", dish: "Pulpo a la gallega" },
+  JP: { slug: "ramen-shoyu", dish: "Ramen shoyu" },
+  TH: { slug: "pad-thai", dish: "Pad Thai" },
+  FR: { slug: "bouillabaisse", dish: "Bouillabaisse" },
+  DE: { slug: "kasespatzle", dish: "Käsespätzle" },
+  GR: { slug: "souvlaki", dish: "Souvlaki" },
   PT: { slug: "pasteis-de-nata", dish: "Pastéis de nata" },
   AT: { slug: "wiener-schnitzel", dish: "Wiener Schnitzel" },
 };
