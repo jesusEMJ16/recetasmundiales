@@ -6325,5 +6325,137 @@
       "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
       "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
     ]
+  },
+  "r-cl-pastel-choclo": {
+    "dishName": "Pastel de choclo chileno",
+    "summary": "Torta assada de milho fresco com manjericão sobre pino de carne e cebola, com frango, ovo, azeitonas e passas.",
+    "history": "O pastel de choclo é um dos pratos mais representativos da cozinha crioula do centro do Chile. Combina uma camada cremosa de milho com o pino de carne e cebola também usado nas empanadas chilenas e costuma ser assado e servido em louça de barro.",
+    "ingredients": [
+      "1.5 kg de grãos de milho fresco",
+      "250 ml de leite",
+      "20 g de manjericão fresco",
+      "500 g de carne bovina picada ou moída",
+      "2 cebolas grandes picadas",
+      "2 colheres de sopa de óleo vegetal",
+      "1 colher de chá de cominho",
+      "1 colher de chá de páprica ou ají de color",
+      "300 g de frango cozido em pedaços",
+      "3 ovos cozidos em quartos",
+      "12 azeitonas pretas",
+      "60 g de passas",
+      "1 colher de chá de sal, dividida",
+      "1 colher de sopa de açúcar, opcional"
+    ],
+    "steps": [
+      "Processe 1.5 kg de milho com 250 ml de leite e 20 g de manjericão até ficar espesso.",
+      "Cozinhe a mistura de milho em fogo médio por 12-15 minutos, mexendo até engrossar; tempere com parte do sal.",
+      "Refogue 2 cebolas em 2 colheres de sopa de óleo por 8 minutos; junte 500 g de carne, 1 colher de chá de cominho, 1 colher de chá de páprica e o restante do sal e cozinhe por 10 minutos.",
+      "Espalhe o pino em uma travessa, acrescente 300 g de frango, 3 ovos, 12 azeitonas e 60 g de passas e cubra com o milho.",
+      "Polvilhe 1 colher de sopa de açúcar se desejar e asse a 200 °C por 25-30 minutos até dourar."
+    ],
+    "tips": [
+      "Deixe descansar 10 minutos depois de assar para a camada de milho firmar."
+    ],
+    "sources": [
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-empanada-pino": {
+    "dishName": "Empanadas chilenas de pino",
+    "summary": "Empanadas assadas recheadas com pino de carne e cebola, ovo cozido, azeitona e passas.",
+    "history": "A empanada de pino é uma preparação emblemática do Chile, especialmente ligada às Festas Pátrias e à cozinha rural da zona central. O recheio pino combina carne e cebola temperadas e normalmente leva também ovo, azeitona e passas.",
+    "ingredients": [
+      "750 g de farinha de trigo",
+      "300 ml de água morna",
+      "100 g de banha ou manteiga",
+      "1 colher de chá de sal",
+      "600 g de carne bovina picada",
+      "3 cebolas grandes picadas",
+      "2 colheres de sopa de óleo vegetal",
+      "1 colher de chá de cominho",
+      "1 colher de chá de páprica ou ají de color",
+      "4 ovos cozidos em quartos",
+      "8 azeitonas pretas",
+      "40 g de passas",
+      "1 ovo batido para pincelar"
+    ],
+    "steps": [
+      "Misture 750 g de farinha com 1 colher de chá de sal, 100 g de gordura e 300 ml de água morna; amasse por 8 minutos e deixe descansar 30 minutos.",
+      "Refogue 3 cebolas com 2 colheres de sopa de óleo por 10 minutos; junte 600 g de carne, 1 colher de chá de cominho e 1 colher de chá de páprica e cozinhe 8-10 minutos. Deixe esfriar.",
+      "Divida a massa em 8 porções e abra discos de cerca de 20 cm.",
+      "Coloque pino em cada disco e acrescente ½ ovo cozido, 1 azeitona e algumas passas; umedeça as bordas, feche e dobre os cantos.",
+      "Pincele com 1 ovo batido e asse a 200 °C por 25-30 minutos até dourar."
+    ],
+    "tips": [
+      "Esfrie completamente o pino antes de rechear para que a massa não fique úmida e abra no forno."
+    ],
+    "sources": [
+      "https://chile.travel/blog/la-empanada-sabor-unico-de-la-tradicion-chilena/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-cazuela": {
+    "dishName": "Cazuela chilena de carne bovina",
+    "summary": "Caldo caseiro chileno com carne bovina, batata, abóbora, milho, arroz e legumes, finalizado com coentro ou salsa.",
+    "history": "A cazuela é um prato tradicional do dia a dia no Chile, com versões de carne bovina ou frango. Reúne carne, legumes em pedaços grandes, cereal e caldo numa só tigela e é especialmente apreciada nos meses frios.",
+    "ingredients": [
+      "800 g de carne bovina com osso em 4 pedaços",
+      "1.5 l de água",
+      "4 batatas médias descascadas",
+      "400 g de abóbora em 4 pedaços",
+      "2 espigas de milho cortadas ao meio",
+      "1 cenoura em tiras",
+      "100 g de vagem",
+      "80 g de arroz",
+      "½ cebola",
+      "2 dentes de alho",
+      "1 talo de aipo",
+      "1 colher de chá de orégano",
+      "1 colher de chá de sal",
+      "20 g de coentro ou salsa picada"
+    ],
+    "steps": [
+      "Coloque 800 g de carne numa panela com 1.5 l de água, ½ cebola, 2 dentes de alho, aipo e 1 colher de chá de sal; ferva e cozinhe em fogo médio por 25 minutos.",
+      "Junte 4 batatas, 1 cenoura e 80 g de arroz; cozinhe 10 minutos.",
+      "Acrescente 400 g de abóbora e 2 espigas de milho; cozinhe mais 10 minutos.",
+      "Junte 100 g de vagem e 1 colher de chá de orégano; cozinhe mais 5-10 minutos até ficar macio.",
+      "Sirva com um pedaço de carne, batata, abóbora, milho, legumes e caldo; finalize com 20 g de coentro ou salsa."
+    ],
+    "tips": [
+      "Mantenha uma fervura suave para o caldo ficar claro e os legumes não se desfazerem."
+    ],
+    "sources": [
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/",
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/"
+    ]
+  },
+  "r-cl-sopaipillas": {
+    "dishName": "Sopaipillas chilenas",
+    "summary": "Discos fritos de massa de farinha e abóbora, dourados por fora e macios por dentro.",
+    "history": "As sopaipillas fazem parte da comida de rua e caseira do Chile e são consumidas em todo o país, principalmente no inverno. A versão chilena leva abóbora na massa e pode ser servida salgada com pebre ou doce em calda de chancaca.",
+    "ingredients": [
+      "500 g de farinha de trigo",
+      "250 g de abóbora cozida e amassada",
+      "50 g de manteiga derretida",
+      "120 ml de leite morno",
+      "1 colher de chá de sal",
+      "1 colher de chá de fermento químico",
+      "750 ml de óleo vegetal para fritar"
+    ],
+    "steps": [
+      "Misture 500 g de farinha com 1 colher de chá de sal e 1 colher de chá de fermento.",
+      "Junte 250 g de abóbora, 50 g de manteiga e 120 ml de leite; amasse por 6-8 minutos até ficar lisa.",
+      "Deixe a massa descansar 20 minutos e abra com cerca de 5 mm de espessura.",
+      "Corte 12 discos e fure o centro de cada um com um garfo.",
+      "Frite em 750 ml de óleo a 175 °C por 2-3 minutos de cada lado; escorra em papel absorvente."
+    ],
+    "tips": [
+      "Se a abóbora estiver muito úmida, adicione aos poucos para a massa ficar macia sem grudar."
+    ],
+    "sources": [
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
+    ]
   }
 }
