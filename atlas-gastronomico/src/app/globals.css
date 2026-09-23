@@ -188,10 +188,6 @@
 .map-country-text { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 20px; height: 22px; color: var(--ink); font-size: 11px; line-height: 12px; font-weight: 800; text-align: center; transform: scale(var(--label-scale, 1)); transform-origin: center; }
 .map-country-text small { display: block; font-size: 10px; line-height: 10px; font-weight: 600; font-variant-numeric: tabular-nums; }
 .map-state { fill: transparent; stroke: var(--map-border); }
-.map-pin { border: 0; background: transparent; }
-.map-pin-inner { display: flex; align-items: center; justify-content: center; gap: 5px; padding: 6px 9px; min-height: 36px; background: var(--card); color: var(--ink); border: 1.5px solid var(--brand-text); border-radius: 11px; box-shadow: 0 3px 10px rgb(0 0 0 / 14%); font-size: 12px; font-weight: 800; white-space: nowrap; }
-.map-pin-inner small { color: var(--brand-text); font-size: 12px; }
-.map-pin:focus-visible { outline-offset: 5px; }
 .leaflet-container .leaflet-control-zoom { border: 1px solid var(--line); border-radius: 12px; overflow: hidden; box-shadow: var(--shadow-card); margin: 16px; }
 .leaflet-container .leaflet-control-zoom a { background: var(--card); color: var(--ink); border-color: var(--line); width: 40px; height: 40px; line-height: 40px; }
 .leaflet-container .leaflet-control-zoom a:hover { background: var(--surface-soft); }
@@ -271,11 +267,6 @@
 .atlas-region-status button { margin-left: 8px; text-decoration: underline; }
 .map-region { fill: var(--map-active); stroke: var(--brand-text); cursor: pointer; }
 .map-region:hover, .map-region:focus { fill: var(--brand-text); fill-opacity: .5; }
-.map-country-dot { fill: var(--brand-text); stroke: var(--card); cursor: pointer; }
-.map-label-leader { stroke: var(--brand-text); opacity: .6; }
-.map-region-label { min-height: 34px; font-size: 12px; padding: 6px 8px; border-width: 1px; gap: 6px; }
-.map-region-label span { white-space: normal; line-height: 1.15; }
-.map-region-label small { margin-left: auto; padding-left: 4px; }
 @media(max-width:800px){
   .atlas-drilldown .atlas-content { grid-template-columns: 1fr; }
   .atlas-drilldown .atlas-map { height: 460px; }
@@ -287,3 +278,12 @@
   .atlas-title { flex-wrap: wrap; }
   .atlas-drilldown .atlas-toolbar { align-items: flex-start; }
 }
+
+/* Region codes stay inside the geographic polygons at every zoom level. */
+.atlas-has-selection .atlas-content,
+.atlas-drilldown.atlas-has-selection .atlas-content { grid-template-columns: minmax(0, 1fr); }
+.atlas-recipes-link { display: inline-flex; align-items: center; gap: 5px; color: var(--brand-text); font-size: 13px; font-weight: 700; padding: 8px; }
+.atlas-recipes-link:hover { text-decoration: underline; }
+.map-region-marker { border: 0; background: transparent; pointer-events: none; }
+.map-region-inline { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 40px; height: 30px; color: var(--ink); font-size: 12px; font-weight: 800; line-height: 15px; text-align: center; text-shadow: 0 1px 2px var(--map-water), 1px 0 2px var(--map-water), -1px 0 2px var(--map-water); }
+.map-region-inline small { font-size: 10px; font-weight: 700; line-height: 12px; font-variant-numeric: tabular-nums; }

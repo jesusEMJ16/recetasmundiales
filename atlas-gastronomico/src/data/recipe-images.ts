@@ -13,8 +13,6 @@ export interface RecipeImage {
   licenseUrl: string;
   source: string;
   provider: string;
-  /** Generated illustrations are labeled separately from sourced photographs. */
-  generated?: boolean;
 }
 // Some source metadata still contains historical HTTP Creative Commons URLs.
 // Preserve that evidence in JSON but send readers to the same license over HTTPS.

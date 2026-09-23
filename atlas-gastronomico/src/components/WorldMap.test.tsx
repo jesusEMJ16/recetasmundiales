@@ -18,7 +18,7 @@ beforeEach(()=>{
   mocks.clicks.clear();mocks.zoom.mockClear();mocks.push.mockClear();mocks.icons.mockClear();mocks.markers.mockClear();mocks.tooltips.mockClear();
   vi.stubGlobal("ResizeObserver",class{observe(){}disconnect(){}});
   vi.stubGlobal("matchMedia",()=>({matches:true}));
-  vi.stubGlobal("fetch",vi.fn(async(url:string)=>({ok:true,json:async()=>url.includes("world-countries")?geography(["MX","US","CA"],true):url.includes("MX")?geography(["mx-oax","mx-jal"]):geography([])})));
+  vi.stubGlobal("fetch",vi.fn(async(url:string)=>({ok:true,json:async()=>url.includes("world-countries")?geography(["MX","US","CA"],true):url.includes("MX")?geography(["mx-oax","mx-jal"]):url.includes("CA")?geography(["ca-on"]):geography([])})));
 });
 afterEach(()=>{cleanup();vi.unstubAllGlobals();});
 describe("country to regional recipe navigation",()=>{
@@ -42,8 +42,10 @@ describe("country to regional recipe navigation",()=>{
     await act(async()=>mocks.clicks.get("MX")!());
     await waitFor(()=>expect(mocks.clicks.has("mx-oax")).toBe(true));
     expect(mocks.zoom).toHaveBeenCalled();
-    expect(screen.getByText(/32 divisiones/)).toBeTruthy();
-    expect(screen.getByRole("link",{name:/Oaxaca/}).getAttribute("href")).toBe("/es/recetas/mexico/oaxaca");
+    expect(screen.queryByText(/32 divisiones/)).toBeNull();
+    expect(screen.queryByRole("link",{name:/Oaxaca/})).toBeNull();
+    expect(mocks.icons.mock.calls.some(([icon])=>icon.className==="map-region-marker" && icon.html.querySelector("small")?.textContent)).toBe(true);
+    expect(mocks.tooltips).toHaveBeenCalledWith(expect.stringContaining("Oaxaca ·"));
     act(()=>mocks.clicks.get("mx-oax")!());
     expect(mocks.push).toHaveBeenCalledWith("/es/recetas/mexico/oaxaca");
   });
@@ -52,9 +54,10 @@ describe("country to regional recipe navigation",()=>{
     await waitFor(()=>expect(mocks.clicks.has("CA")).toBe(true));
     fireEvent.change(screen.getByRole("textbox",{name:"Buscar país"}),{target:{value:"canada"}});
     fireEvent.click(screen.getByRole("button",{name:/Canadá/}));
-    await screen.findByText(/13 divisiones/);
-    expect(screen.getByRole("link",{name:/Ontario/}).textContent).toContain("0");
-    fireEvent.click(screen.getByRole("button",{name:"Todos los países"}));
+    await waitFor(()=>expect(mocks.clicks.has("ca-on")).toBe(true));
+    expect(mocks.tooltips).toHaveBeenCalledWith(expect.stringContaining("Ontario · 0"));
+    expect(screen.queryByRole("link",{name:/Ontario/})).toBeNull();
+    fireEvent.click(document.querySelector(".atlas-reset")!);
     expect(screen.getByText("195 países")).toBeTruthy();
   });
 });
