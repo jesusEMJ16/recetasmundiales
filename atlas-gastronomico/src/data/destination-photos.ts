@@ -17,6 +17,7 @@ const COVERS: Record<string, { slug: string; dish: string }> = {
   GR: { slug: "souvlaki", dish: "Souvlaki" },
   PT: { slug: "pasteis-de-nata", dish: "Pastéis de nata" },
   AT: { slug: "wiener-schnitzel", dish: "Wiener Schnitzel" },
+  BR: { slug: "feijoada-brasileira", dish: "Feijoada brasileña" },
 };
 export const DESTINATION_PHOTOS: Record<string, DestinationPhoto> = Object.fromEntries(
   Object.entries(COVERS).map(([code, cover]) => {
