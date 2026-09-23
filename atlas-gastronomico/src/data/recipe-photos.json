@@ -2689,5 +2689,57 @@
     "source": "https://commons.wikimedia.org/wiki/File:Orecchiette_con_cima_di_rapa.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "provider": "Wikimedia Commons"
+  },
+  "feijoada-brasileira": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_%C3%A0_brasileira_-02.jpg/960px-Feijoada_%C3%A0_brasileira_-02.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_%C3%A0_brasileira_-02.jpg/330px-Feijoada_%C3%A0_brasileira_-02.jpg",
+    "width": 960,
+    "height": 820,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 282,
+    "author": "Bradleyzm",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Feijoada_%C3%A0_brasileira_-02.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "pao-de-queijo-mineiro": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pao_de_queijo_brasil.jpg/960px-Pao_de_queijo_brasil.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pao_de_queijo_brasil.jpg/330px-Pao_de_queijo_brasil.jpg",
+    "width": 960,
+    "height": 640,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 220,
+    "author": "Acfariac",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pao_de_queijo_brasil.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "moqueca-baiana-de-pescado": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Moqueca-_Ilha_de_Mar%C3%A9._Foto_Tatiana_Azeviche_Setur_%2831969364150%29.jpg/960px-Moqueca-_Ilha_de_Mar%C3%A9._Foto_Tatiana_Azeviche_Setur_%2831969364150%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Moqueca-_Ilha_de_Mar%C3%A9._Foto_Tatiana_Azeviche_Setur_%2831969364150%29.jpg/330px-Moqueca-_Ilha_de_Mar%C3%A9._Foto_Tatiana_Azeviche_Setur_%2831969364150%29.jpg",
+    "width": 960,
+    "height": 640,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 220,
+    "author": "Turismo Bahia / Tatiana Azeviche",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moqueca-_Ilha_de_Mar%C3%A9._Foto_Tatiana_Azeviche_Setur_(31969364150).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "brigadeiro-tradicional-brasileno": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brigadeiros_of_Brazil.jpg/960px-Brigadeiros_of_Brazil.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brigadeiros_of_Brazil.jpg/330px-Brigadeiros_of_Brazil.jpg",
+    "width": 960,
+    "height": 640,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 220,
+    "author": "Wilfredor",
+    "license": "CC0 1.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brigadeiros_of_Brazil.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "provider": "Wikimedia Commons"
   }
 }
