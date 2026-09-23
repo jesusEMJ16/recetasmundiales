@@ -6457,5 +6457,127 @@
       "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
       "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
     ]
+  },
+  "r-co-bandeja-paisa": {
+    "dishName": "Bandeja paisa Kolombia",
+    "summary": "Hidangan besar khas Antioquia berisi kacang, nasi, daging sapi cincang, perut babi, chorizo, telur, pisang raja matang, arepa, dan alpukat.",
+    "history": "Bandeja paisa sangat terkait dengan Antioquia dan kawasan kopi Kolombia. Hidangan ini menggabungkan makanan berenergi tinggi dari tradisi pedesaan Paisa dalam satu nampan besar dan kini menjadi salah satu hidangan Kolombia yang paling dikenal.",
+    "ingredients": [
+      "300 g kacang merah kering",
+      "200 g nasi putih",
+      "300 g daging sapi cincang",
+      "200 g perut babi atau kulit babi",
+      "4 chorizo kecil",
+      "4 telur",
+      "2 pisang raja matang",
+      "4 arepa kecil",
+      "1 alpukat besar",
+      "200 g hogao",
+      "1 sendok teh garam",
+      "1.5 l air"
+    ],
+    "steps": [
+      "Rendam 300 g kacang selama 8 jam; tiriskan lalu masak dalam 1.5 l air selama 60-75 menit hingga empuk.",
+      "Masak 200 g nasi dengan cara biasa dan jaga tetap hangat.",
+      "Cokelatkan 300 g daging sapi cincang, 200 g perut babi, dan 4 chorizo secara terpisah hingga matang.",
+      "Goreng 2 pisang raja matang yang diiris dan masak 4 telur sesuai selera; hangatkan 4 arepa.",
+      "Sajikan kacang, nasi, daging sapi, babi, chorizo, pisang, telur, arepa, 200 g hogao, dan bagian dari 1 alpukat pada tiap nampan."
+    ],
+    "tips": [
+      "Sajikan semua komponen segera setelah matang agar kontras kacang lembut, daging kecokelatan, dan pisang renyah tetap terjaga."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/mas-alla-de-la-iconica-bandeja-paisa"
+    ]
+  },
+  "r-co-ajiaco": {
+    "dishName": "Ajiaco khas Bogotá",
+    "summary": "Sup kental Bogotá dengan ayam, tiga jenis kentang, jagung, dan guascas, disajikan dengan krim, caper, dan alpukat.",
+    "history": "Ajiaco santafereño adalah salah satu hidangan yang paling kuat dikaitkan dengan Bogotá dan dataran tinggi Cundiboyacense. Karakternya berasal dari perpaduan beberapa kentang Andes dengan guascas, ayam, dan jagung.",
+    "ingredients": [
+      "700 g dada ayam",
+      "300 g kentang papa criolla",
+      "300 g kentang papa pastusa",
+      "300 g kentang papa sabanera",
+      "2 tongkol jagung, potong-potong",
+      "2.5 l air",
+      "30 g guascas segar atau kering",
+      "120 ml krim",
+      "40 g caper",
+      "1 alpukat besar",
+      "1 sendok teh garam"
+    ],
+    "steps": [
+      "Masak 700 g ayam dalam 2.5 l air dengan 1 sendok teh garam selama 20 menit; angkat, suwir, dan simpan kaldunya.",
+      "Tambahkan 300 g papa pastusa, 300 g papa sabanera, dan 2 tongkol jagung ke kaldu; masak 20 menit.",
+      "Tambahkan 300 g papa criolla dan 30 g guascas; masak lagi 15-20 menit sampai sebagian kentang hancur dan mengentalkan sup.",
+      "Masukkan kembali ayam suwir dan masak 5 menit.",
+      "Sajikan dengan 120 ml krim, 40 g caper, dan 1 alpukat yang dibagi ke dalam porsi."
+    ],
+    "tips": [
+      "Jangan blender sup; papa pastusa harus hancur secara alami untuk menghasilkan tekstur khas ajiaco."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/platos-tipicos-de-colombia"
+    ]
+  },
+  "r-co-lechona": {
+    "dishName": "Lechona Tolima",
+    "summary": "Daging babi yang dipanggang perlahan bersama kacang polong kuning dan rempah, dengan kulit keemasan renyah, khas Tolima.",
+    "history": "Lechona adalah hidangan emblematis Tolima dan Huila. Versi tradisional Tolima berpusat pada daging babi, kacang polong, dan bumbu yang dimasak perlahan dan umum disajikan pada perayaan serta pertemuan besar.",
+    "ingredients": [
+      "1.5 kg bahu babi, potong dadu",
+      "500 g perut babi berkulit",
+      "300 g kacang polong kuning kering, direndam",
+      "2 bawang bombai, cincang",
+      "4 siung bawang putih, cincang",
+      "2 sendok teh jintan",
+      "1 sendok teh annatto",
+      "2 sendok teh garam",
+      "1 sendok teh lada hitam",
+      "250 ml kaldu babi atau air"
+    ],
+    "steps": [
+      "Tiriskan 300 g kacang polong yang direndam dan masak 30 menit hingga hampir empuk; tiriskan.",
+      "Campur 1.5 kg bahu babi dengan 2 bawang, 4 siung bawang putih, 2 sendok teh jintan, 1 sendok teh annatto, 2 sendok teh garam, dan 1 sendok teh lada.",
+      "Letakkan 500 g perut babi dengan sisi kulit di bawah dalam loyang dalam; tambahkan campuran babi, kacang polong, dan 250 ml kaldu.",
+      "Tutup dan panggang pada 170 °C selama 150 menit; buka, naikkan ke 220 °C, lalu panggang lagi 20-30 menit agar kulit renyah.",
+      "Diamkan 20 menit sebelum dipotong dan disajikan."
+    ],
+    "tips": [
+      "Keringkan kulit babi dengan sangat baik sebelum tahap akhir bersuhu tinggi agar hasilnya lebih renyah."
+    ],
+    "sources": [
+      "https://colombia.travel/es/blog/destinos-que-destacan-por-sus-deliciosos-platos-de-comida-colombiana",
+      "https://colombia.travel/es/andes-colombianos"
+    ]
+  },
+  "r-co-arepa-huevo": {
+    "dishName": "Arepa telur Kolombia",
+    "summary": "Arepa jagung Karibia yang digoreng dua kali dan diisi satu telur utuh, menghasilkan kulit renyah dan bagian tengah lembut.",
+    "history": "Arepa telur adalah makanan khas pesisir Karibia Kolombia dan memiliki tradisi kuat di tempat seperti Luruaco, Atlántico. Arepa jagung digoreng, dibuka untuk memasukkan telur, lalu digoreng kembali.",
+    "ingredients": [
+      "400 g tepung jagung putih pramasak",
+      "500 ml air hangat",
+      "1 sendok teh garam",
+      "8 telur",
+      "1 l minyak sayur untuk menggoreng"
+    ],
+    "steps": [
+      "Campur 400 g tepung jagung dengan 500 ml air hangat dan 1 sendok teh garam; uleni 3 menit dan diamkan 10 menit.",
+      "Bagi adonan menjadi 8 bagian dan bentuk cakram sekitar 10 cm.",
+      "Goreng cakram dalam 1 l minyak pada 175 °C selama 2 menit tiap sisi, lalu angkat.",
+      "Buat celah kecil pada tiap arepa, masukkan 1 telur, lalu tutup perlahan dengan sedikit adonan.",
+      "Goreng kembali tiap arepa selama 3-4 menit hingga keemasan dan telurnya matang."
+    ],
+    "tips": [
+      "Kerjakan 1 arepa setiap kali menambahkan telur agar dapat ditutup dan dikembalikan ke minyak sebelum isiannya keluar."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
+    ]
   }
 }
