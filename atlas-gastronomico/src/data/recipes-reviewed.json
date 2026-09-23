@@ -13334,5 +13334,267 @@
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brigadeiros_of_Brazil.jpg/960px-Brigadeiros_of_Brazil.jpg"
+  },
+  {
+    "id": "r-ar-asado",
+    "dishName": "Asado argentino a la parrilla",
+    "slug": "asado-argentino-a-la-parrilla",
+    "placeId": "ar-b",
+    "summary": "Parrillada argentina de tira de asado, vacío y chorizos cocinados lentamente sobre brasas.",
+    "history": "El asado es una de las expresiones más representativas de la gastronomía argentina y está ligado a la cultura gauchesca de la llanura pampeana. Más que una receta única, es un ritual social de cocción lenta sobre brasas y reunión alrededor de la parrilla.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 90,
+    "totalTimeMin": 110,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1.5 kg de tira de asado"
+      },
+      {
+        "text": "800 g de vacío"
+      },
+      {
+        "text": "4 chorizos criollos"
+      },
+      {
+        "text": "20 g de sal gruesa"
+      },
+      {
+        "text": "2 cucharadas de aceite"
+      },
+      {
+        "text": "2 tomates, 1 lechuga y 1 cebolla para acompañar"
+      },
+      {
+        "text": "100 ml de chimichurri"
+      }
+    ],
+    "steps": [
+      "Enciende el carbón o la leña y deja formar brasas firmes durante unos 30 minutos, sin llamas directas.",
+      "Sazona 1.5 kg de tira de asado y 800 g de vacío con 20 g de sal gruesa.",
+      "Coloca primero las carnes sobre calor medio y añade 4 chorizos en una zona de calor moderado.",
+      "Cocina lentamente durante 60-90 minutos, dando vuelta las piezas solo cuando estén bien doradas por un lado.",
+      "Deja reposar la carne 10 minutos y sirve con 100 ml de chimichurri y la ensalada de 2 tomates, 1 lechuga y 1 cebolla."
+    ],
+    "tips": [
+      "Evita las llamas directas: las brasas parejas dan una cocción más uniforme y reducen el riesgo de quemar la grasa."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/487740",
+      "https://www.argentina.travel/novedades/el-asado-guia-para-vivir-el-ritual-mas-sabroso"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Asado_Argentina.jpg/960px-Asado_Argentina.jpg"
+  },
+  {
+    "id": "r-ar-empanadas-saltenas",
+    "dishName": "Empanadas salteñas",
+    "slug": "empanadas-saltenas-argentinas",
+    "placeId": "ar-a",
+    "summary": "Empanadas horneadas de Salta con carne cortada a cuchillo, papa, huevo, cebolla de verdeo y especias.",
+    "history": "Las empanadas salteñas son uno de los grandes íconos del norte argentino. Se distinguen por ser pequeñas, especiadas y jugosas, con carne cortada a cuchillo, papa, huevo duro y una masa firme que suele hornearse a alta temperatura.",
+    "originConfidence": "confirmed",
+    "servings": 12,
+    "prepTimeMin": 45,
+    "cookTimeMin": 15,
+    "restTimeMin": 30,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "street_food",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "12 discos de masa para empanada"
+      },
+      {
+        "text": "500 g de carne de res cortada a cuchillo"
+      },
+      {
+        "text": "300 g de cebolla picada"
+      },
+      {
+        "text": "250 g de papa en cubos pequeños"
+      },
+      {
+        "text": "3 huevos"
+      },
+      {
+        "text": "80 g de cebolla de verdeo picada"
+      },
+      {
+        "text": "40 g de grasa vacuna o mantequilla"
+      },
+      {
+        "text": "1 cucharadita de comino y 1 cucharadita de pimentón"
+      },
+      {
+        "text": "Sal y ají molido al gusto"
+      }
+    ],
+    "steps": [
+      "Hierve 250 g de papa hasta que esté tierna pero firme; escurre y deja enfriar.",
+      "Derrite 40 g de grasa, cocina 300 g de cebolla y añade 500 g de carne; sazona con 1 cucharadita de comino, 1 cucharadita de pimentón, sal y ají molido.",
+      "Cuece 2 huevos, pícalos y mézclalos con la papa y 80 g de cebolla de verdeo; incorpora al relleno y enfría durante 30 minutos.",
+      "Reparte el relleno entre 12 discos, cierra con repulgue y pinta con 1 huevo batido.",
+      "Hornea a 220 °C durante 12-15 minutos, hasta que la masa esté dorada."
+    ],
+    "tips": [
+      "Enfría bien el relleno antes de armar las empanadas para que la masa no se humedezca y el jugo quede dentro."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/488397",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Empanadas_salte%C3%B1as_1.jpg/960px-Empanadas_salte%C3%B1as_1.jpg"
+  },
+  {
+    "id": "r-ar-locro",
+    "dishName": "Locro criollo argentino",
+    "slug": "locro-criollo-argentino",
+    "placeId": "ar-t",
+    "summary": "Guiso espeso de maíz blanco, porotos, zapallo, carnes y chorizo colorado, tradicional en fechas patrias.",
+    "history": "El locro tiene raíces prehispánicas andinas y se extendió por el noroeste, Cuyo y luego todo el país. En Argentina se convirtió en un símbolo de las celebraciones patrias, preparado lentamente con maíz, zapallo, porotos y distintas carnes.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 30,
+    "cookTimeMin": 180,
+    "restTimeMin": 480,
+    "totalTimeMin": 690,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500 g de maíz blanco partido seco"
+      },
+      {
+        "text": "250 g de porotos blancos secos"
+      },
+      {
+        "text": "500 g de zapallo en cubos"
+      },
+      {
+        "text": "300 g de carne de res en cubos"
+      },
+      {
+        "text": "250 g de carne de cerdo en cubos"
+      },
+      {
+        "text": "150 g de panceta en cubos"
+      },
+      {
+        "text": "2 chorizos colorados en rodajas"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "2 cucharaditas de pimentón, sal y ají molido al gusto"
+      }
+    ],
+    "steps": [
+      "Remoja 500 g de maíz y 250 g de porotos en abundante agua durante 8 horas; escurre.",
+      "Coloca el maíz y los porotos en una olla grande, cubre con agua limpia y cocina a fuego suave durante 60 minutos.",
+      "Añade 300 g de carne de res, 250 g de cerdo, 150 g de panceta y 2 chorizos colorados; cocina 60 minutos más.",
+      "Incorpora 500 g de zapallo y continúa la cocción durante 60 minutos, removiendo hasta que parte del zapallo se deshaga y espese el guiso.",
+      "Sofríe 1 cebolla con 2 cucharaditas de pimentón y ají molido; añade esta salsa al locro, ajusta la sal y sirve caliente."
+    ],
+    "tips": [
+      "Remueve con frecuencia durante la última hora para evitar que el maíz se pegue al fondo y para ayudar a que el zapallo espese el guiso."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/504764",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Argentine_locro.jpg/960px-Argentine_locro.jpg"
+  },
+  {
+    "id": "r-ar-alfajores-maicena",
+    "dishName": "Alfajores de maicena",
+    "slug": "alfajores-de-maicena-argentinos",
+    "placeId": "ar",
+    "summary": "Galletas tiernas de maicena rellenas de dulce de leche y terminadas con coco rallado.",
+    "history": "El alfajor llegó a la región desde la tradición ibérica y en Argentina se transformó en uno de los dulces más populares. La versión de maicena se caracteriza por tapas suaves y quebradizas unidas con abundante dulce de leche.",
+    "originConfidence": "commonly_associated",
+    "servings": 18,
+    "prepTimeMin": 35,
+    "cookTimeMin": 12,
+    "restTimeMin": 30,
+    "totalTimeMin": 77,
+    "difficulty": "facil",
+    "moment": "postre",
+    "diet": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "200 g de harina de trigo"
+      },
+      {
+        "text": "300 g de maicena"
+      },
+      {
+        "text": "150 g de azúcar impalpable"
+      },
+      {
+        "text": "200 g de mantequilla a temperatura ambiente"
+      },
+      {
+        "text": "3 yemas de huevo"
+      },
+      {
+        "text": "1 cucharadita de esencia de vainilla"
+      },
+      {
+        "text": "1 cucharadita de polvo de hornear"
+      },
+      {
+        "text": "Ralladura de 1 limón"
+      },
+      {
+        "text": "400 g de dulce de leche repostero"
+      },
+      {
+        "text": "60 g de coco rallado"
+      }
+    ],
+    "steps": [
+      "Tamiza 200 g de harina, 300 g de maicena y 1 cucharadita de polvo de hornear.",
+      "Bate 200 g de mantequilla con 150 g de azúcar impalpable; incorpora 3 yemas, 1 cucharadita de vainilla y la ralladura de 1 limón.",
+      "Añade los ingredientes secos, forma una masa suave y refrigera durante 30 minutos.",
+      "Estira la masa a unos 5 mm, corta 36 discos y hornéalos a 180 °C durante 10-12 minutos, sin dejar que se doren demasiado.",
+      "Une los discos de dos en dos con 400 g de dulce de leche para formar 18 alfajores y pasa los bordes por 60 g de coco rallado."
+    ],
+    "tips": [
+      "Manipula las tapas con cuidado cuando aún están calientes: la maicena las vuelve especialmente frágiles."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/493708",
+      "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Alfajores_de_maicena.jpg/960px-Alfajores_de_maicena.jpg"
   }
 ]
