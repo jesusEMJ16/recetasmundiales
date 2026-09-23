@@ -5967,5 +5967,114 @@
       "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
       "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
     ]
+  },
+  "r-br-feijoada": {
+    "dishName": "Feijoada brésilienne",
+    "summary": "Ragoût brésilien de haricots noirs au porc et à la saucisse fumée, servi avec riz, chou vert et orange.",
+    "history": "La feijoada est l’un des plats les plus connus du Brésil et connaît des variantes régionales. À Rio de Janeiro, elle est couramment associée à un service complet de haricots noirs, porc, riz, chou vert sauté, farofa et orange.",
+    "ingredients": [
+      "500 g de haricots noirs secs",
+      "300 g de travers de porc en morceaux",
+      "200 g de carne seca dessalée en cubes",
+      "200 g de paio ou saucisse fumée en rondelles",
+      "150 g de lardons",
+      "1 gros oignon haché et 4 gousses d’ail hachées",
+      "2 feuilles de laurier",
+      "2 cuillères à soupe d’huile, sel et poivre noir au goût"
+    ],
+    "steps": [
+      "Faites tremper 500 g de haricots noirs dans l’eau pendant 8 heures; égouttez et rincez.",
+      "Faites dorer 150 g de lardons dans une grande marmite; ajoutez 300 g de travers, 200 g de carne seca et 200 g de paio et faites légèrement colorer.",
+      "Ajoutez 1 oignon, 4 gousses d’ail et 2 feuilles de laurier; faites cuire jusqu’à ce que les arômes se dégagent.",
+      "Ajoutez les haricots, couvrez largement d’eau et laissez mijoter doucement environ 180 minutes, jusqu’à ce qu’ils soient crémeux et les viandes tendres.",
+      "Salez, poivrez et servez avec riz, chou vert sauté, farofa et orange."
+    ],
+    "tips": [
+      "Gardez un frémissement doux et ajoutez de l’eau chaude si nécessaire pour que les haricots restent couverts."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/feijoada",
+      "https://www.visitbrasil.com/es/location/rio-de-janeiro-es/"
+    ]
+  },
+  "r-br-pao-queijo": {
+    "dishName": "Pão de queijo du Minas Gerais",
+    "summary": "Petits pains au fromage du Minas Gerais, croustillants dehors et moelleux-élastiques dedans, à base de fécule de manioc.",
+    "history": "Le pão de queijo est étroitement associé au Minas Gerais et marie fécule de manioc et fromage. Ébouillanter la fécule avant d’ajouter œufs et fromage aide à créer un cœur élastique et une croûte légère.",
+    "ingredients": [
+      "250 g de fécule de manioc aigre",
+      "250 g de fécule de manioc douce",
+      "250 ml de lait",
+      "100 ml d’huile",
+      "1 cuillère à café de sel",
+      "2 œufs",
+      "250 g de fromage meia-cura ou affiné râpé"
+    ],
+    "steps": [
+      "Préchauffez le four à 200 °C et préparez une plaque.",
+      "Mélangez 250 g de fécule aigre, 250 g de fécule douce et 1 cuillère à café de sel.",
+      "Portez 250 ml de lait et 100 ml d’huile à ébullition puis versez sur les fécules; mélangez et laissez tiédir 10 minutes.",
+      "Incorporez 2 œufs et 250 g de fromage jusqu’à obtenir une pâte collante; formez 24 boules.",
+      "Faites cuire 25-30 minutes, jusqu’à ce qu’elles gonflent et dorent légèrement."
+    ],
+    "tips": [
+      "Laissez tiédir le mélange ébouillanté avant d’ajouter les œufs afin qu’ils ne cuisent pas."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/pao-de-queijo"
+    ]
+  },
+  "r-br-moqueca-baiana": {
+    "dishName": "Moqueca bahianaise de poisson",
+    "summary": "Ragoût bahianais de poisson au lait de coco, huile de dendê, tomate, poivron et coriandre.",
+    "history": "La moqueca bahianaise est un plat emblématique de Bahia. Elle associe poisson ou fruits de mer, huile de dendê et lait de coco, et reflète les influences indigènes, africaines et européennes de la cuisine bahianaise.",
+    "ingredients": [
+      "800 g de poisson blanc ferme en morceaux",
+      "1 citron vert et 2 gousses d’ail",
+      "2 tomates en rondelles",
+      "1 oignon en rondelles",
+      "1 poivron rouge en rondelles",
+      "200 ml de lait de coco",
+      "2 cuillères à soupe d’huile de dendê",
+      "1 cuillère à soupe d’huile d’olive",
+      "30 g de feuilles de coriandre, sel et piment au goût"
+    ],
+    "steps": [
+      "Assaisonnez 800 g de poisson avec le jus de 1 citron vert, 2 gousses d’ail et du sel; laissez reposer 20 minutes.",
+      "Disposez 2 tomates, 1 oignon et 1 poivron rouge en couches dans une grande casserole; placez le poisson dessus.",
+      "Ajoutez 200 ml de lait de coco, 2 cuillères à soupe d’huile de dendê et 1 cuillère à soupe d’huile d’olive.",
+      "Couvrez et cuisez à feu moyen-doux pendant 25 minutes en remuant doucement la casserole sans casser le poisson.",
+      "Ajoutez 30 g de coriandre, rectifiez sel et piment puis cuisez encore 5 minutes avant de servir."
+    ],
+    "tips": [
+      "Faites bouger doucement la casserole plutôt que de remuer à la cuillère pour garder les morceaux de poisson entiers."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/moqueca-de-peixe-baiana-revisitada",
+      "https://feel.visitbrasil.com/aula-de-culinaria-baiana/"
+    ]
+  },
+  "r-br-brigadeiro": {
+    "dishName": "Brigadeiro traditionnel",
+    "summary": "Confiserie brésilienne au lait concentré et cacao, roulée en boules puis couverte de vermicelles au chocolat.",
+    "history": "Le brigadeiro s’est imposé au Brésil au cours du 20e siècle et est aujourd’hui un classique des fêtes et anniversaires. La version traditionnelle cuit en casserole jusqu’à ce que le mélange lait concentré-cacao se détache du fond.",
+    "ingredients": [
+      "395 g de lait concentré sucré",
+      "30 g de cacao en poudre",
+      "20 g de beurre",
+      "100 g de vermicelles au chocolat"
+    ],
+    "steps": [
+      "Mélangez 395 g de lait concentré, 30 g de cacao et 20 g de beurre dans une casserole.",
+      "Cuisez à feu doux en remuant sans arrêt pendant 10-12 minutes, jusqu’à épaississement et décollement du fond.",
+      "Transférez sur une assiette beurrée et laissez refroidir 60 minutes.",
+      "Formez 24 boules et roulez-les dans 100 g de vermicelles au chocolat."
+    ],
+    "tips": [
+      "Beurrez légèrement vos mains pour éviter que la pâte ne colle au façonnage."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/brigadeiro"
+    ]
   }
 }
