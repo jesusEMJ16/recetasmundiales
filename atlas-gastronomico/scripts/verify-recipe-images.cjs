@@ -1,4 +1,4 @@
-// Read-only browser smoke test against a production build. No external services.
+// Read-only browser smoke test against a production build and explicitly reviewed image origins.
 const fs = require('node:fs');
 const path = require('node:path');
 const assert = require('node:assert/strict');
@@ -29,7 +29,7 @@ async function loaded(locator) {
     await Promise.all(urls.slice(i, i + 12).map(async url => {
       const response = await api.get(url);
       assert.equal(response.status(), 200, url);
-      assert.match(response.headers()['content-type'], /^image\/webp/, url);
+      assert.match(response.headers()['content-type'], /^image\/(webp|jpeg)/, url);
       assert.ok((await response.body()).length > 100, url);
       result.assetRequests++;
       await response.dispose();
