@@ -23,7 +23,7 @@ describe("reviewed recipe photography", () => {
     expect(RECIPES.length).toBe(audit.totalRecipes);
     expect(audit.photoCount).toBe(198);
     expect(audit.pendingCount).toBe(0);
-    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.generated)).toHaveLength(16);
+    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.generated)).toHaveLength(19);
   });
   it("ships actual local WebP bytes for both sizes without external image requests", () => {
     for (const photo of Object.values(RECIPE_IMAGES)) {
