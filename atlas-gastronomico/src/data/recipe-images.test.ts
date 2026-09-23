@@ -23,7 +23,7 @@ describe("reviewed recipe photography", () => {
     expect(RECIPES.length).toBe(audit.totalRecipes);
     expect(audit.photoCount).toBe(227);
     expect(audit.pendingCount).toBe(0);
-    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(24);
+    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(25);
   });
   it("ships local WebP bytes or explicitly reviewed HTTPS Wikimedia photographs", () => {
     for (const photo of Object.values(RECIPE_IMAGES)) {

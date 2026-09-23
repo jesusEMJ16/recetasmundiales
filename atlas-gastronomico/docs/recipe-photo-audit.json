@@ -5,13 +5,13 @@
   "photoCount": 227,
   "pendingCount": 0,
   "counts": {
-    "added": 45,
+    "added": 44,
     "replaced": 31,
     "retained-optimized": 127,
-    "original": 24
+    "original": 25
   },
-  "runtimeExternalImages": 24,
-  "notes": "All 227 recipes have reviewed imagery. 203 recipes ship local assets; 24 recent Italian, Brazilian, Argentine, Peruvian, Chilean and Colombian recipes use attributed Wikimedia Commons photographs with responsive source URLs.",
+  "runtimeExternalImages": 23,
+  "notes": "All 227 recipes have reviewed imagery. 204 recipes ship local assets; 23 recent recipes use attributed Wikimedia Commons photographs with responsive source URLs.",
   "photos": [
     {
       "slug": "tlayudas-oaxaquenas",
@@ -3477,16 +3477,16 @@
     {
       "slug": "asado-argentino-a-la-parrilla",
       "dishName": "Asado argentino a la parrilla",
-      "status": "sourced-remote",
-      "title": "Asado Argentina",
-      "source": "https://commons.wikimedia.org/wiki/File:Asado_Argentina.jpg",
-      "author": "Laketowner",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Asado_Argentina.jpg/960px-Asado_Argentina.jpg",
-      "webpSha256": null,
-      "webpBytes": null,
-      "thumbnailBytes": null,
+      "status": "original",
+      "title": "Asado argentino a la parrilla",
+      "source": "https://worldbitesapp.com/images/recipes-v2/asado-argentino-a-la-parrilla.webp",
+      "author": "WorldBites",
+      "license": "WorldBites original illustration",
+      "licenseUrl": "https://worldbitesapp.com",
+      "sourceImage": "/images/recipes-v2/asado-argentino-a-la-parrilla.webp",
+      "webpSha256": "f745a2c6ed943b2b8016417a091b770396fd942bd710ee60e28f47e368cffb57",
+      "webpBytes": 80892,
+      "thumbnailBytes": 42326,
       "crop": null
     },
     {
