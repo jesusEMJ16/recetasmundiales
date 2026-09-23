@@ -6579,5 +6579,109 @@
       "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
       "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
     ]
+  },
+  "r-ma-tajin-pollo": {
+    "dishName": "Tajine marocain de poulet au citron confit et aux olives",
+    "summary": "Poulet mijoté avec citron confit, olives vertes, oignon, herbes et épices aromatiques dans un tajine marocain.",
+    "history": "Le tajine désigne à la fois le récipient en terre cuite et une cuisson lente étroitement liée à la cuisine marocaine. Le poulet au citron confit et aux olives en est l’une des versions les plus connues, mêlant notes salées, citronnées et épicées.",
+    "ingredients": [
+      "1,2 kg de cuisses et pilons de poulet",
+      "2 citrons confits, coupés en quartiers",
+      "150 g d’olives vertes",
+      "2 oignons émincés",
+      "3 gousses d’ail hachées",
+      "30 g de coriandre fraîche hachée",
+      "20 g de persil frais haché",
+      "2 c. à soupe d’huile d’olive",
+      "1 c. à café de gingembre moulu",
+      "1 c. à café de curcuma",
+      "½ c. à café de poivre noir",
+      "250 ml d’eau ou de bouillon de poulet"
+    ],
+    "steps": [
+      "Mélangez le poulet avec l’ail, la coriandre, le persil, le gingembre, le curcuma, le poivre et l’huile; laissez reposer 15 minutes.",
+      "Déposez les oignons au fond du tajine ou d’une cocotte, ajoutez le poulet et faites-le dorer doucement 8 à 10 minutes.",
+      "Ajoutez 250 ml d’eau ou de bouillon, couvrez et laissez mijoter 40 minutes à feu doux en retournant les morceaux une fois.",
+      "Ajoutez les citrons confits et 150 g d’olives; poursuivez la cuisson à découvert 10 à 15 minutes pour réduire la sauce.",
+      "Goûtez avant de saler, laissez reposer 5 minutes puis servez avec la sauce, les olives et le citron."
+    ],
+    "tips": [
+      "Ne salez qu’à la fin: le citron confit et les olives sont déjà très salés."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ]
+  },
+  "r-ma-cuscus-siete-verduras": {
+    "dishName": "Couscous marocain aux sept légumes",
+    "summary": "Couscous léger avec pois chiches et sept légumes cuits dans un bouillon épicé, servi comme un généreux plat à partager.",
+    "history": "Le couscous est au cœur des traditions culinaires du Maghreb et, au Maroc, il est particulièrement associé aux repas familiaux et au vendredi. En 2020, les savoirs et pratiques liés à sa production et à sa consommation, partagés par le Maroc, l’Algérie, la Mauritanie et la Tunisie, ont été inscrits par l’UNESCO au patrimoine culturel immatériel.",
+    "ingredients": [
+      "400 g de couscous",
+      "240 g de pois chiches cuits",
+      "2 carottes en gros morceaux",
+      "2 courgettes en gros morceaux",
+      "300 g de courge en morceaux",
+      "¼ de chou en quartiers",
+      "2 navets pelés et coupés",
+      "1 oignon haché",
+      "2 tomates mûres râpées",
+      "1,2 l de bouillon de légumes",
+      "2 c. à soupe d’huile d’olive",
+      "1 c. à café de curcuma",
+      "1 c. à café de gingembre moulu",
+      "Sel et poivre au goût"
+    ],
+    "steps": [
+      "Faites chauffer l’huile et revenir l’oignon 5 minutes; ajoutez tomate, curcuma et gingembre et cuisez 3 minutes.",
+      "Ajoutez le bouillon, les carottes, les navets et le chou; laissez mijoter 20 minutes.",
+      "Ajoutez la courge, les courgettes et les pois chiches et cuisez encore 15 à 20 minutes, jusqu’à ce que les légumes soient tendres mais entiers.",
+      "Préparez 400 g de couscous selon les indications du paquet, puis aérez les grains à la fourchette.",
+      "Disposez le couscous en base, ajoutez les sept légumes et les pois chiches et arrosez d’un peu de bouillon épicé."
+    ],
+    "tips": [
+      "Commencez par les légumes les plus fermes et ajoutez courgette et courge plus tard pour qu’elles gardent leur forme."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy",
+      "https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602"
+    ]
+  },
+  "r-ma-harira": {
+    "dishName": "Harira marocaine traditionnelle",
+    "summary": "Soupe marocaine à la tomate, pois chiches, lentilles, herbes, viande et vermicelles fins, épaisse et réconfortante.",
+    "history": "La harira est une soupe emblématique du Maroc composée de légumineuses, tomate, herbes et souvent viande et vermicelles. Elle est particulièrement liée au Ramadan, où elle est couramment servie pour rompre le jeûne avec des dattes, du citron et des pâtisseries traditionnelles.",
+    "ingredients": [
+      "250 g de bœuf ou d’agneau en petits cubes",
+      "200 g de pois chiches cuits",
+      "120 g de lentilles",
+      "500 g de tomates concassées",
+      "1 oignon haché",
+      "2 branches de céleri hachées",
+      "20 g de coriandre fraîche hachée",
+      "20 g de persil frais haché",
+      "60 g de vermicelles fins",
+      "30 g de farine de blé",
+      "1,5 l d’eau ou de bouillon",
+      "1 c. à café de gingembre moulu",
+      "½ c. à café de curcuma",
+      "Sel et poivre au goût"
+    ],
+    "steps": [
+      "Faites dorer la viande avec l’oignon et le céleri 6 à 8 minutes; ajoutez gingembre, curcuma, coriandre et persil.",
+      "Ajoutez tomates, lentilles et 1,5 l d’eau ou de bouillon; couvrez et mijotez 45 minutes.",
+      "Ajoutez les pois chiches et les vermicelles et cuisez 10 minutes de plus.",
+      "Mélangez 30 g de farine avec 120 ml d’eau froide jusqu’à obtenir un mélange lisse; incorporez-le progressivement en remuant.",
+      "Cuisez 8 à 10 minutes jusqu’à léger épaississement, rectifiez l’assaisonnement et servez chaud avec du citron si souhaité."
+    ],
+    "tips": [
+      "Versez le mélange de farine en filet tout en remuant sans arrêt pour épaissir la harira sans grumeaux."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ]
   }
 }
