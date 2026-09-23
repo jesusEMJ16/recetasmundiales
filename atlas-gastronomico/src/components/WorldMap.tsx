@@ -76,16 +76,34 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
           onEachFeature: (feature, layer) => {
             const country = COUNTRIES.find(c => c.countryCode === feature.properties.code);
             if (!country) return;
-            const label = document.createElement("span");
-            label.textContent = `${translatePlaceName(country,locale)} · ${t.place.recipes(COUNTS.get(country.id) ?? 0)}`;
-            layer.bindTooltip(label, { sticky: true });
+            const count = COUNTS.get(country.id) ?? 0;
+            const countryName = translatePlaceName(country, locale);
+            const accessibleText = `${countryName} · ${t.place.recipes(count)}`;
+            const tooltip = document.createElement("div");
+            tooltip.className = "map-country-tooltip";
+            const flag = document.createElement("img");
+            flag.className = "map-country-tooltip-flag";
+            flag.src = `https://flagcdn.com/w40/${country.countryCode.toLowerCase()}.png`;
+            flag.alt = "";
+            flag.width = 24;
+            flag.height = 18;
+            flag.decoding = "async";
+            const copy = document.createElement("span");
+            copy.className = "map-country-tooltip-copy";
+            const title = document.createElement("strong");
+            title.textContent = countryName;
+            const recipeCount = document.createElement("small");
+            recipeCount.textContent = t.place.recipes(count);
+            copy.append(title, recipeCount);
+            tooltip.append(flag, copy);
+            layer.bindTooltip(tooltip, { sticky: true, className: "map-country-hover" });
             layer.on("click", () => selectCountry(country.id));
             layer.on("add", () => {
               const element = (layer as Path).getElement();
               if (!element) return;
               element.setAttribute("tabindex", "0");
               element.setAttribute("role", "button");
-              element.setAttribute("aria-label", label.textContent!);
+              element.setAttribute("aria-label", accessibleText);
               element.setAttribute("data-country", country.countryCode);
               element.addEventListener("keydown", event => {
                 if (["Enter", " "].includes((event as KeyboardEvent).key)) {
