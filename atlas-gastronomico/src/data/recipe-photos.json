@@ -2743,17 +2743,17 @@
     "provider": "Wikimedia Commons"
   },
   "asado-argentino-a-la-parrilla": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Asado_Argentina.jpg/960px-Asado_Argentina.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Asado_Argentina.jpg/330px-Asado_Argentina.jpg",
-    "width": 960,
-    "height": 640,
-    "thumbnailWidth": 330,
-    "thumbnailHeight": 220,
-    "author": "Laketowner",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Asado_Argentina.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "provider": "Wikimedia Commons"
+    "url": "/images/recipes-v2/asado-argentino-a-la-parrilla.webp",
+    "thumbnailUrl": "/images/recipes-v2/asado-argentino-a-la-parrilla-480.webp",
+    "width": 800,
+    "height": 600,
+    "thumbnailWidth": 480,
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "WorldBites original image",
+    "source": "https://worldbitesapp.com/images/recipes-v2/asado-argentino-a-la-parrilla.webp",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites"
   },
   "empanadas-saltenas-argentinas": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Empanadas_salte%C3%B1as_1.jpg/960px-Empanadas_salte%C3%B1as_1.jpg",
