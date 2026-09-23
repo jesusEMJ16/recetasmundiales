@@ -25,8 +25,8 @@ describe("reviewed recipe catalog", () => {
 
   it("retains 219 distinct recipes with consistent timing and usable content", () => {
     expect(RECIPES).toHaveLength(219);
-    expect(new Set(RECIPES.map(r => r.id)).size).toBe(215);
-    expect(new Set(RECIPES.map(r => r.slug)).size).toBe(215);
+    expect(new Set(RECIPES.map(r => r.id)).size).toBe(219);
+    expect(new Set(RECIPES.map(r => r.slug)).size).toBe(219);
     for (const recipe of RECIPES) {
       expect(recipe.totalTimeMin, recipe.id).toBe(recipe.prepTimeMin + recipe.cookTimeMin + (recipe.restTimeMin ?? 0));
       expect(recipe.ingredients.length, recipe.id).toBeGreaterThan(1);
@@ -112,7 +112,7 @@ describe("reviewed recipe catalog", () => {
     expect(recipeSearch).toHaveLength(219);
     const recipeEntries = sitemap().filter(entry => /\/receta\//.test(entry.url));
     expect(recipeEntries).toHaveLength(2628);
-    expect(new Set(recipeEntries.map(entry => entry.url)).size).toBe(2580);
+    expect(new Set(recipeEntries.map(entry => entry.url)).size).toBe(2628);
     for (const locale of locales) {
       for (const recipe of RECIPES) {
         expect(getRecipeLocales(recipe.id), recipe.id).toEqual(locales);
