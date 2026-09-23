@@ -729,17 +729,18 @@
     "provider": "Wikimedia Commons"
   },
   "pan-de-cazon": {
-    "url": "/images/recipes-v2/pan-de-cazon.webp",
-    "thumbnailUrl": "/images/recipes-v2/pan-de-cazon-480.webp",
-    "width": 640,
-    "height": 640,
+    "url": "/images/recipes-v2/pan-de-cazon-illustrated.webp",
+    "thumbnailUrl": "/images/recipes-v2/pan-de-cazon-illustrated-480.webp",
+    "width": 1200,
+    "height": 900,
     "thumbnailWidth": 480,
-    "thumbnailHeight": 480,
-    "author": "Wotancito",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pan_de_caz%C3%B3n.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "provider": "Wikimedia Commons"
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "Original AI-generated illustration",
+    "source": "AI-generated for WorldBites",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites",
+    "generated": true
   },
   "pozole-verde-guerrerense": {
     "url": "/images/recipes-v2/pozole-verde-guerrerense.webp",
@@ -1667,17 +1668,18 @@
     "provider": "Wikimedia Commons"
   },
   "clam-cakes-rhode-island": {
-    "url": "/images/recipes-v2/clam-cakes-rhode-island.webp",
-    "thumbnailUrl": "/images/recipes-v2/clam-cakes-rhode-island-480.webp",
-    "width": 960,
-    "height": 439,
+    "url": "/images/recipes-v2/clam-cakes-rhode-island-illustrated.webp",
+    "thumbnailUrl": "/images/recipes-v2/clam-cakes-rhode-island-illustrated-480.webp",
+    "width": 1200,
+    "height": 900,
     "thumbnailWidth": 480,
-    "thumbnailHeight": 220,
-    "author": "Waz8",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Clam_cakes.jpg",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "provider": "Wikimedia Commons"
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "Original AI-generated illustration",
+    "source": "AI-generated for WorldBites",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites",
+    "generated": true
   },
   "coffee-milk": {
     "url": "/images/recipes-v2/coffee-milk.webp",
@@ -1941,17 +1943,18 @@
     "provider": "Wikimedia Commons"
   },
   "chislic-de-dakota-del-sur": {
-    "url": "/images/recipes-v2/chislic-de-dakota-del-sur.webp",
-    "thumbnailUrl": "/images/recipes-v2/chislic-de-dakota-del-sur-480.webp",
-    "width": 500,
-    "height": 332,
+    "url": "/images/recipes-v2/chislic-de-dakota-del-sur-illustrated.webp",
+    "thumbnailUrl": "/images/recipes-v2/chislic-de-dakota-del-sur-illustrated-480.webp",
+    "width": 1200,
+    "height": 900,
     "thumbnailWidth": 480,
-    "thumbnailHeight": 319,
-    "author": "Gomboc2008",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kegchislicsmall.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "provider": "Wikimedia Commons"
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "Original AI-generated illustration",
+    "source": "AI-generated for WorldBites",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites",
+    "generated": true
   },
   "cioppino-san-francisco": {
     "url": "/images/recipes-v2/cioppino-san-francisco.webp",
