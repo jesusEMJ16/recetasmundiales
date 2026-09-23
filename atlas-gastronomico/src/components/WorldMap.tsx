@@ -257,7 +257,7 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
             {items.length===0&&<p className="atlas-list-empty">{t.place.empty}</p>}
           </div>
           <div className="atlas-selection"><strong>{es?"Del mapa a tu mesa.":"From the map to your table."}</strong><p>{es?"Elige un país. Después, una región.":"Choose a country. Then a region."}</p></div>
-        </aside>
+        </aside>}
       </div>
       <div className="atlas-caption"><span>{selected?(es?"Pulsa una región del mapa para abrir sus recetas; acerca el mapa para ver más abreviaturas":"Select a region on the map to open its recipes; zoom in for more abbreviations"):(es?"Selecciona cualquier país para acercarte y ver sus regiones":"Select any country to zoom in and see its regions")}</span><span><a href="https://www.naturalearthdata.com/" target="_blank" rel="noreferrer">Natural Earth</a>{selected && ["KI","TV"].includes(selected.countryCode) && <> · <a href="https://www.geoboundaries.org/" target="_blank" rel="noreferrer">geoBoundaries</a> / © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a></>} · <a href="/geo/world-countries.LICENSE.txt" target="_blank" rel="noreferrer">{es?"Fuentes":"Sources"}</a></span></div>
     </section>
