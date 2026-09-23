@@ -6076,5 +6076,124 @@
     "sources": [
       "https://panelinha.com.br/receita/brigadeiro"
     ]
+  },
+  "r-ar-asado": {
+    "dishName": "Argentine parrilla asado",
+    "summary": "Argentine grill of short ribs, flank and chorizos cooked slowly over glowing coals.",
+    "history": "Asado is one of the most representative expressions of Argentine cuisine and is tied to the gaucho culture of the Pampas. Rather than a single recipe, it is a social ritual built around slow cooking over coals and gathering at the grill.",
+    "ingredients": [
+      "1.5 kg beef short ribs",
+      "800 g flank steak",
+      "4 fresh chorizos",
+      "20 g coarse salt",
+      "2 tablespoons oil",
+      "2 tomatoes, 1 lettuce and 1 onion for serving",
+      "100 ml chimichurri"
+    ],
+    "steps": [
+      "Light charcoal or wood and let firm coals form for about 30 minutes, with no direct flames.",
+      "Season 1.5 kg short ribs and 800 g flank steak with 20 g coarse salt.",
+      "Place the meats over medium heat first and add 4 chorizos in a moderate-heat zone.",
+      "Cook slowly for 60-90 minutes, turning each piece only after it is well browned on one side.",
+      "Rest the meat for 10 minutes and serve with 100 ml chimichurri and the salad of 2 tomatoes, 1 lettuce and 1 onion."
+    ],
+    "tips": [
+      "Avoid direct flames: even coals cook the meat more uniformly and reduce the chance of burning the fat."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/487740",
+      "https://www.argentina.travel/novedades/el-asado-guia-para-vivir-el-ritual-mas-sabroso"
+    ]
+  },
+  "r-ar-empanadas-saltenas": {
+    "dishName": "Salta-style empanadas",
+    "summary": "Baked empanadas from Salta filled with hand-cut beef, potato, egg, scallion and spices.",
+    "history": "Salta-style empanadas are one of the great icons of northern Argentina. They are known for being small, spiced and juicy, with hand-cut beef, potato and hard-boiled egg inside a firm dough traditionally baked at high heat.",
+    "ingredients": [
+      "12 empanada dough discs",
+      "500 g hand-cut beef",
+      "300 g chopped onion",
+      "250 g potato in small cubes",
+      "3 eggs",
+      "80 g chopped scallion",
+      "40 g beef fat or butter",
+      "1 teaspoon cumin and 1 teaspoon paprika",
+      "Salt and ground chile to taste"
+    ],
+    "steps": [
+      "Boil 250 g potato until tender but firm; drain and cool.",
+      "Melt 40 g fat, cook 300 g onion and add 500 g beef; season with 1 teaspoon cumin, 1 teaspoon paprika, salt and ground chile.",
+      "Hard-boil 2 eggs, chop them and mix with the potato and 80 g scallion; add to the filling and chill for 30 minutes.",
+      "Divide the filling among 12 discs, seal with a crimped edge and brush with 1 beaten egg.",
+      "Bake at 220 °C for 12-15 minutes, until the dough is golden."
+    ],
+    "tips": [
+      "Cool the filling well before assembling so the dough stays firm and the juices remain inside."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/488397",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-locro": {
+    "dishName": "Argentine criollo locro",
+    "summary": "Thick stew of white corn, beans, squash, meats and chorizo colorado, traditionally served on patriotic holidays.",
+    "history": "Locro has pre-Hispanic Andean roots and spread through northwestern Argentina, Cuyo and then the rest of the country. In Argentina it became a symbol of national celebrations, slowly cooked with corn, squash, beans and several meats.",
+    "ingredients": [
+      "500 g dried cracked white corn",
+      "250 g dried white beans",
+      "500 g squash in cubes",
+      "300 g beef in cubes",
+      "250 g pork in cubes",
+      "150 g bacon in cubes",
+      "2 chorizos colorados, sliced",
+      "1 chopped onion",
+      "2 teaspoons paprika, salt and ground chile to taste"
+    ],
+    "steps": [
+      "Soak 500 g corn and 250 g beans in plenty of water for 8 hours; drain.",
+      "Put the corn and beans in a large pot, cover with fresh water and simmer for 60 minutes.",
+      "Add 300 g beef, 250 g pork, 150 g bacon and 2 chorizos colorados; cook for another 60 minutes.",
+      "Add 500 g squash and cook for another 60 minutes, stirring until some of the squash breaks down and thickens the stew.",
+      "Sauté 1 onion with 2 teaspoons paprika and ground chile; stir this sauce into the locro, adjust the salt and serve hot."
+    ],
+    "tips": [
+      "Stir often during the final hour to keep the corn from sticking and to help the squash thicken the stew."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/504764",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-alfajores-maicena": {
+    "dishName": "Argentine cornstarch alfajores",
+    "summary": "Tender cornstarch cookies filled with dulce de leche and finished with shredded coconut.",
+    "history": "The alfajor reached the region through Iberian tradition and in Argentina became one of the country’s most popular sweets. The cornstarch version is known for soft, crumbly cookie layers joined with plenty of dulce de leche.",
+    "ingredients": [
+      "200 g wheat flour",
+      "300 g cornstarch",
+      "150 g powdered sugar",
+      "200 g butter at room temperature",
+      "3 egg yolks",
+      "1 teaspoon vanilla extract",
+      "1 teaspoon baking powder",
+      "Zest of 1 lemon",
+      "400 g pastry-style dulce de leche",
+      "60 g shredded coconut"
+    ],
+    "steps": [
+      "Sift 200 g flour, 300 g cornstarch and 1 teaspoon baking powder.",
+      "Beat 200 g butter with 150 g powdered sugar; mix in 3 yolks, 1 teaspoon vanilla and the zest of 1 lemon.",
+      "Add the dry ingredients, form a soft dough and refrigerate for 30 minutes.",
+      "Roll the dough to about 5 mm, cut 36 discs and bake at 180 °C for 10-12 minutes, without letting them brown too much.",
+      "Join the discs in pairs with 400 g dulce de leche to make 18 alfajores and coat the edges with 60 g shredded coconut."
+    ],
+    "tips": [
+      "Handle the cookie layers carefully while still warm: the cornstarch makes them especially fragile."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/493708",
+      "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
+    ]
   }
 }
