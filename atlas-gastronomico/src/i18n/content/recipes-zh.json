@@ -5845,5 +5845,127 @@
     "sources": [
       "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
     ]
+  },
+  "r-it-lasagne-bolognese": {
+    "dishName": "博洛尼亚绿色千层面",
+    "summary": "菠菜绿色面皮层叠博洛尼亚肉酱、白酱和帕玛森雷吉亚诺奶酪。",
+    "history": "绿色千层面是博洛尼亚和艾米利亚-罗马涅的特色菜。意大利烹饪学院的参考配方于2003年在博洛尼亚商会备案。",
+    "ingredients": [
+      "700 g 00号面粉",
+      "3 个鸡蛋",
+      "350 g 熟菠菜，充分沥干并切碎",
+      "1 kg 博洛尼亚肉酱",
+      "1 l 全脂牛奶",
+      "100 g 00号面粉，用于白酱",
+      "100 g 黄油，用于白酱",
+      "400 g 磨碎的帕玛森雷吉亚诺奶酪",
+      "肉豆蔻和盐，适量"
+    ],
+    "steps": [
+      "将700 g面粉、3个鸡蛋和350 g菠菜混合成光滑的绿色面团；揉面、静置，再擀成薄片。",
+      "用100 g黄油、100 g面粉和1 l牛奶制作白酱；用盐和肉豆蔻调味。",
+      "将面片切成长方形，在盐水中短暂煮熟，再放入冷水，随后铺在布上晾干。",
+      "在抹过黄油的烤盘中依次铺面片、白酱、1 kg肉酱和400 g帕玛森雷吉亚诺，至少做6层。",
+      "以180 °C烘烤25-30分钟。静置10分钟后切块上桌。"
+    ],
+    "tips": [
+      "保持每层厚度均匀，并让白酱保持流动性，这样千层面湿润而不失结构。"
+    ],
+    "sources": [
+      "https://www.bolognawelcome.com/it/altro/altro/lasagne-verdi-alla-bolognese"
+    ]
+  },
+  "r-it-trofie-pesto": {
+    "dishName": "热那亚青酱特罗菲耶面",
+    "summary": "利古里亚短面配罗勒青酱、松子、熟成奶酪和橄榄油。",
+    "history": "热那亚青酱是利古里亚的代表性做法。热那亚青酱协会认可由7种传统原料组成的配方，而trofie是经典搭配面食之一。",
+    "ingredients": [
+      "400 g trofie短面",
+      "50 g 新鲜罗勒叶",
+      "30 g 松子",
+      "1 瓣大蒜",
+      "60 g 磨碎的帕玛森雷吉亚诺奶酪",
+      "20 g 磨碎的佩科里诺奶酪",
+      "100 ml 特级初榨橄榄油",
+      "1 撮粗盐",
+      "150 g 四季豆，切成3 cm段",
+      "250 g 土豆，切成2 cm块"
+    ],
+    "steps": [
+      "捣碎1瓣大蒜、30 g松子和1撮盐。加入50 g罗勒，再加入60 g帕玛森、20 g佩科里诺和100 ml橄榄油。",
+      "在盐水中煮土豆5分钟；加入四季豆再煮5分钟。",
+      "将400 g trofie加入同一锅中，煮至有嚼劲。",
+      "保留100 ml煮面水，沥干面和蔬菜，离火后与青酱拌匀。",
+      "逐渐加入保留的煮面水，直到酱汁变得顺滑并包裹面条，立即上桌。"
+    ],
+    "tips": [
+      "不要直接加热青酱；离火后拌入，以保留罗勒的新鲜香气。"
+    ],
+    "sources": [
+      "https://www.mangiareinliguria.it/pesto-genovese/ricetta-pesto-genovese",
+      "https://www.mangiareinliguria.it/ricette-tipiche-liguri/primi/trofiette-pesto-genovese"
+    ]
+  },
+  "r-it-arancini-ragu": {
+    "dishName": "西西里肉酱炸饭团",
+    "summary": "金黄酥脆的饭团，内馅是肉酱、豌豆和奶酪。",
+    "history": "Arancini在不同地区也称arancine，是遍布西西里的特色小吃。当地传统产品名录记载了以米饭包裹肉酱、豌豆和奶酪的经典版本。",
+    "ingredients": [
+      "500 g 大米",
+      "1 l 水",
+      "2 个鸡蛋",
+      "30 g 黄油",
+      "80 g 磨碎的卡乔卡瓦洛奶酪",
+      "250 g 肉酱",
+      "100 g 熟豌豆",
+      "100 g tuma或马苏里拉奶酪，切丁",
+      "100 g 小麦面粉",
+      "2 个鸡蛋，用于裹衣",
+      "200 g 面包糠",
+      "1 l 油，用于油炸"
+    ],
+    "steps": [
+      "将500 g大米放入1 l盐水中煮至吸收液体。离火后拌入2个鸡蛋、30 g黄油和80 g卡乔卡瓦洛，冷却30分钟。",
+      "将250 g肉酱与100 g豌豆混合，并准备100 g奶酪丁作为馅料。",
+      "将米饭分成12份，每份在手中压平，把馅料放在中间，再合拢成紧实的球形。",
+      "每个饭团先裹100 g面粉，再裹2个打散的鸡蛋，最后裹200 g面包糠。",
+      "将1 l油加热至175 °C，分批炸至金黄；沥油后趁热上桌。"
+    ],
+    "tips": [
+      "成形前要让米饭完全冷却，这样油炸时更容易保持形状。"
+    ],
+    "sources": [
+      "https://www.regione.sicilia.it/sites/default/files/2023-06/Schede%20PAT%20Sicilia%202023.pdf",
+      "https://www.italia.it/it/sicilia/cosa-fare/prodotti-piatti-tipici-siciliani"
+    ]
+  },
+  "r-it-orecchiette-cime": {
+    "dishName": "猫耳朵面配芜菁菜",
+    "summary": "普利亚鲜面配芜菁菜、凤尾鱼、大蒜、辣椒和橄榄油。",
+    "history": "猫耳朵面配cime di rapa是普利亚的代表菜之一。Italia.it将这种鲜面与巴里地区联系起来，并强调芜菁菜、凤尾鱼和辣椒之间的风味对比。",
+    "ingredients": [
+      "300 g 复磨硬粒小麦粗粉",
+      "150 g 温水",
+      "1 kg cime di rapa或芜菁菜",
+      "1 瓣大蒜",
+      "1 个辣椒",
+      "4 条油浸凤尾鱼",
+      "4 汤匙特级初榨橄榄油",
+      "盐，适量"
+    ],
+    "steps": [
+      "将300 g粗粉与150 g温水混合，揉成结实光滑的面团。",
+      "把面团搓成细条，切成小块，再用刀拖压成猫耳朵面特有的凹槽形状。",
+      "洗净1 kg cime di rapa，在盐水中煮3分钟；加入面条再煮7分钟。",
+      "同时将4汤匙橄榄油与1瓣大蒜和1个辣椒加热；加入4条凤尾鱼，让其慢慢融化。",
+      "沥干面条和蔬菜，与香味橄榄油拌匀后立即上桌。"
+    ],
+    "tips": [
+      "如果成品偏干，保留少量煮面水帮助橄榄油与面条结合。"
+    ],
+    "sources": [
+      "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
+      "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
+    ]
   }
 }
