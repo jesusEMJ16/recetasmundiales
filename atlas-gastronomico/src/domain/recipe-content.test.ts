@@ -23,8 +23,8 @@ describe("reviewed recipe catalog", () => {
     }
   });
 
-  it("retains 203 distinct recipes with consistent timing and usable content", () => {
-    expect(RECIPES).toHaveLength(203);
+  it("retains 207 distinct recipes with consistent timing and usable content", () => {
+    expect(RECIPES).toHaveLength(207);
     expect(new Set(RECIPES.map(r => r.id)).size).toBe(203);
     expect(new Set(RECIPES.map(r => r.slug)).size).toBe(203);
     for (const recipe of RECIPES) {
@@ -108,10 +108,10 @@ describe("reviewed recipe catalog", () => {
     }
   });
 
-  it("uses twelve search labels and indexes all 2436 recipe translations", () => {
-    expect(recipeSearch).toHaveLength(203);
+  it("uses twelve search labels and indexes all 2484 recipe translations", () => {
+    expect(recipeSearch).toHaveLength(207);
     const recipeEntries = sitemap().filter(entry => /\/receta\//.test(entry.url));
-    expect(recipeEntries).toHaveLength(2436);
+    expect(recipeEntries).toHaveLength(2484);
     expect(new Set(recipeEntries.map(entry => entry.url)).size).toBe(2436);
     for (const locale of locales) {
       for (const recipe of RECIPES) {
