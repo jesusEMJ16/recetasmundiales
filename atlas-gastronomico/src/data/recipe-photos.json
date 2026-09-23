@@ -2793,5 +2793,57 @@
     "source": "https://commons.wikimedia.org/wiki/File:Alfajores_de_maicena.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "provider": "Wikimedia Commons"
+  },
+  "cebiche-de-pescado-peruano": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cebiche_de_corvina.JPG/960px-Cebiche_de_corvina.JPG",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cebiche_de_corvina.JPG/330px-Cebiche_de_corvina.JPG",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Picanteria karol",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cebiche_de_corvina.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "lomo-saltado-peruano": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg/960px-Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg/330px-Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Chasqui (Luis Tamayo)",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lomo_Saltado_-_Lima,_Peru_Miraflores_(Tiendecita_Blanca).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "aji-de-gallina-peruano": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aj%C3%AD_de_gallina_-_Tradicional.jpg/960px-Aj%C3%AD_de_gallina_-_Tradicional.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aj%C3%AD_de_gallina_-_Tradicional.jpg/330px-Aj%C3%AD_de_gallina_-_Tradicional.jpg",
+    "width": 960,
+    "height": 640,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 220,
+    "author": "Feralbt",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aj%C3%AD_de_gallina_-_Tradicional.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "papa-a-la-huancaina-peruana": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Papa_a_la_huancaina.jpg/960px-Papa_a_la_huancaina.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Papa_a_la_huancaina.jpg/330px-Papa_a_la_huancaina.jpg",
+    "width": 960,
+    "height": 702,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 241,
+    "author": "Feralbt",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Papa_a_la_huancaina.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "provider": "Wikimedia Commons"
   }
 }
