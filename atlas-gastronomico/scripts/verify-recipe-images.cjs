@@ -24,7 +24,7 @@ async function loaded(locator) {
 (async () => {
   const result = { assetRequests: 0, desktop: {}, mobile: {}, arabic: {}, pending: {}, localImageErrors: [] };
   const api = await request.newContext({ baseURL: base });
-  const urls = [...new Set(Object.values(photos).flatMap(p => [p.url, p.thumbnailUrl]))];
+  const urls = [...new Set(Object.values(photos).flatMap(p => [p.url, p.thumbnailUrl]).filter(url => url.startsWith('/')))];
   for (let i = 0; i < urls.length; i += 12) {
     await Promise.all(urls.slice(i, i + 12).map(async url => {
       const response = await api.get(url);
