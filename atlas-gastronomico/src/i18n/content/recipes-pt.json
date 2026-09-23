@@ -6457,5 +6457,127 @@
       "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
       "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
     ]
+  },
+  "r-co-bandeja-paisa": {
+    "dishName": "Bandeja paisa colombiana",
+    "summary": "Prato farto de Antioquia com feijão, arroz, carne moída, barriga de porco, chouriço, ovo, banana-da-terra madura, arepa e abacate.",
+    "history": "A bandeja paisa está fortemente associada a Antioquia e à região cafeeira da Colômbia. Reúne em uma grande travessa alimentos energéticos da tradição rural paisa e hoje é um dos pratos colombianos mais conhecidos.",
+    "ingredients": [
+      "300 g de feijão vermelho seco",
+      "200 g de arroz branco",
+      "300 g de carne bovina moída",
+      "200 g de barriga de porco ou torresmo",
+      "4 chouriços pequenos",
+      "4 ovos",
+      "2 bananas-da-terra maduras",
+      "4 arepas pequenas",
+      "1 abacate grande",
+      "200 g de hogao",
+      "1 colher de chá de sal",
+      "1.5 l de água"
+    ],
+    "steps": [
+      "Deixe 300 g de feijão de molho por 8 horas; escorra e cozinhe em 1.5 l de água por 60-75 minutos até ficar macio.",
+      "Cozinhe 200 g de arroz pelo método habitual e mantenha quente.",
+      "Doure separadamente 300 g de carne moída, 200 g de barriga de porco e 4 chouriços até estarem bem cozidos.",
+      "Frite 2 bananas-da-terra maduras em fatias e prepare 4 ovos a gosto; aqueça 4 arepas.",
+      "Sirva em cada travessa feijão, arroz, carne, porco, chouriço, banana, ovo, arepa, 200 g de hogao e porções de 1 abacate."
+    ],
+    "tips": [
+      "Sirva todos os componentes recém-preparados para manter o contraste entre feijão cremoso, carnes douradas e banana crocante."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/mas-alla-de-la-iconica-bandeja-paisa"
+    ]
+  },
+  "r-co-ajiaco": {
+    "dishName": "Ajiaco santafereño",
+    "summary": "Sopa espessa de Bogotá com frango, três tipos de batata, milho e guascas, servida com creme, alcaparras e abacate.",
+    "history": "O ajiaco santafereño é um dos pratos mais associados a Bogotá e ao altiplano cundiboyacense. Seu caráter marcante vem da combinação de várias batatas andinas com guascas, frango e milho.",
+    "ingredients": [
+      "700 g de peito de frango",
+      "300 g de batata papa criolla",
+      "300 g de batata papa pastusa",
+      "300 g de batata papa sabanera",
+      "2 espigas de milho cortadas em pedaços",
+      "2.5 l de água",
+      "30 g de guascas frescas ou secas",
+      "120 ml de creme de leite",
+      "40 g de alcaparras",
+      "1 abacate grande",
+      "1 colher de chá de sal"
+    ],
+    "steps": [
+      "Cozinhe 700 g de frango em 2.5 l de água com 1 colher de chá de sal por 20 minutos; retire, desfie e reserve o caldo.",
+      "Adicione ao caldo 300 g de papa pastusa, 300 g de papa sabanera e 2 espigas de milho; cozinhe por 20 minutos.",
+      "Junte 300 g de papa criolla e 30 g de guascas; cozinhe mais 15-20 minutos até parte da batata engrossar a sopa.",
+      "Devolva o frango desfiado à panela e cozinhe por 5 minutos.",
+      "Sirva com 120 ml de creme, 40 g de alcaparras e 1 abacate distribuídos entre as porções."
+    ],
+    "tips": [
+      "Não bata a sopa: a papa pastusa deve se desfazer naturalmente para dar ao ajiaco sua textura característica."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/platos-tipicos-de-colombia"
+    ]
+  },
+  "r-co-lechona": {
+    "dishName": "Lechona tolimense",
+    "summary": "Carne de porco assada lentamente com ervilha amarela e especiarias, com pele dourada e crocante, típica do Tolima.",
+    "history": "A lechona é uma preparação emblemática de Tolima e Huila. A versão tradicional do Tolima se baseia em carne de porco, ervilhas e temperos cozidos lentamente e costuma ser servida em festas e grandes reuniões.",
+    "ingredients": [
+      "1.5 kg de paleta de porco em cubos",
+      "500 g de barriga de porco com pele",
+      "300 g de ervilha amarela seca, demolhada",
+      "2 cebolas picadas",
+      "4 dentes de alho picados",
+      "2 colheres de chá de cominho",
+      "1 colher de chá de urucum",
+      "2 colheres de chá de sal",
+      "1 colher de chá de pimenta-do-reino",
+      "250 ml de caldo de porco ou água"
+    ],
+    "steps": [
+      "Escorra 300 g de ervilhas demolhadas e cozinhe por 30 minutos até quase macias; escorra.",
+      "Misture 1.5 kg de paleta com 2 cebolas, 4 dentes de alho, 2 colheres de chá de cominho, 1 colher de chá de urucum, 2 colheres de chá de sal e 1 colher de chá de pimenta.",
+      "Coloque 500 g de barriga de porco com a pele para baixo em uma assadeira funda; junte a carne, as ervilhas e 250 ml de caldo.",
+      "Cubra e asse a 170 °C por 150 minutos; descubra, aumente para 220 °C e asse mais 20-30 minutos para deixar a pele crocante.",
+      "Deixe descansar 20 minutos antes de cortar e servir."
+    ],
+    "tips": [
+      "Seque muito bem a pele do porco antes da etapa final em temperatura alta para deixá-la mais crocante."
+    ],
+    "sources": [
+      "https://colombia.travel/es/blog/destinos-que-destacan-por-sus-deliciosos-platos-de-comida-colombiana",
+      "https://colombia.travel/es/andes-colombianos"
+    ]
+  },
+  "r-co-arepa-huevo": {
+    "dishName": "Arepa colombiana de ovo",
+    "summary": "Arepa caribenha de milho frita duas vezes e recheada com um ovo inteiro, com casca crocante e centro macio.",
+    "history": "A arepa de ovo é uma especialidade do Caribe colombiano e tem forte tradição em lugares como Luruaco, no Atlántico. Prepara-se fritando uma arepa de milho, abrindo-a para colocar o ovo e fritando novamente.",
+    "ingredients": [
+      "400 g de farinha de milho branco pré-cozida",
+      "500 ml de água morna",
+      "1 colher de chá de sal",
+      "8 ovos",
+      "1 l de óleo vegetal para fritar"
+    ],
+    "steps": [
+      "Misture 400 g de farinha de milho com 500 ml de água morna e 1 colher de chá de sal; amasse por 3 minutos e deixe descansar 10 minutos.",
+      "Divida a massa em 8 porções e forme discos de cerca de 10 cm.",
+      "Frite os discos em 1 l de óleo a 175 °C por 2 minutos de cada lado e retire.",
+      "Faça uma pequena abertura em cada arepa, coloque 1 ovo e sele delicadamente com um pouco de massa.",
+      "Frite cada arepa novamente por 3-4 minutos até dourar e o ovo firmar."
+    ],
+    "tips": [
+      "Trabalhe com 1 arepa por vez ao adicionar o ovo para conseguir selar e devolver ao óleo antes que o recheio escape."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
+    ]
   }
 }
