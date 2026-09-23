@@ -3652,5 +3652,77 @@
       "id": "Crème brûlée vanila",
       "ja": "バニラのクレームブリュレ"
     }
+  },
+  {
+    "id": "r-it-lasagne-bolognese",
+    "slug": "lasagne-verdi-alla-bolognese",
+    "names": {
+      "es": "Lasagne verdes a la boloñesa",
+      "en": "Green lasagne alla Bolognese",
+      "zh": "博洛尼亚绿色千层面",
+      "hi": "बोलोन्येज़ शैली की हरी लज़ान्या",
+      "fr": "Lasagnes vertes à la bolognaise",
+      "ar": "لازانيا خضراء على طريقة بولونيا",
+      "bn": "বোলোনিয়েজ স্টাইলে সবুজ লাসানিয়া",
+      "pt": "Lasanha verde à bolonhesa",
+      "ru": "Зелёная лазанья по-болонски",
+      "ur": "بولونیز انداز کی سبز لازانیا",
+      "id": "Lasagna hijau ala Bolognese",
+      "ja": "ボローニャ風の緑のラザニア"
+    }
+  },
+  {
+    "id": "r-it-trofie-pesto",
+    "slug": "trofie-al-pesto-genovese",
+    "names": {
+      "es": "Trofie al pesto genovese",
+      "en": "Trofie with Genovese pesto",
+      "zh": "热那亚青酱特罗菲耶面",
+      "hi": "जेनोवेज़ पेस्टो के साथ ट्रोफी",
+      "fr": "Trofie au pesto génois",
+      "ar": "تروفي ببيستو جنوة",
+      "bn": "জেনোভেজ পেস্টোর সঙ্গে ট্রোফিয়ে",
+      "pt": "Trofie com pesto genovês",
+      "ru": "Трофье с генуэзским песто",
+      "ur": "جینوویز پیستو کے ساتھ ٹروفیے",
+      "id": "Trofie dengan pesto Genovese",
+      "ja": "ジェノヴェーゼ・ペストのトロフィエ"
+    }
+  },
+  {
+    "id": "r-it-arancini-ragu",
+    "slug": "arancini-siciliani-al-ragu",
+    "names": {
+      "es": "Arancini sicilianos al ragú",
+      "en": "Sicilian arancini with ragù",
+      "zh": "西西里肉酱炸饭团",
+      "hi": "रागू भरे सिसिलियन अरांचिनी",
+      "fr": "Arancini siciliens au ragù",
+      "ar": "أرانشيني صقلي بالراغو",
+      "bn": "রাগু ভরা সিসিলিয়ান আরানচিনি",
+      "pt": "Arancini sicilianos com ragù",
+      "ru": "Сицилийские аранчини с рагу",
+      "ur": "راگو بھرے سسلی کے آرانچینی",
+      "id": "Arancini Sisilia isi ragù",
+      "ja": "ラグー入りシチリア風アランチーニ"
+    }
+  },
+  {
+    "id": "r-it-orecchiette-cime",
+    "slug": "orecchiette-con-cime-di-rapa",
+    "names": {
+      "es": "Orecchiette con cime di rapa",
+      "en": "Orecchiette with turnip tops",
+      "zh": "猫耳朵面配芜菁菜",
+      "hi": "शलगम पत्तियों के साथ ओरेकिएत्ते",
+      "fr": "Orecchiette aux cime di rapa",
+      "ar": "أوريكياتي مع قمم اللفت",
+      "bn": "শালগম পাতার সঙ্গে ওরেকিয়েত্তে",
+      "pt": "Orecchiette com cime di rapa",
+      "ru": "Орекьетте с ботвой репы",
+      "ur": "شلجم کے پتوں کے ساتھ اوریکیتے",
+      "id": "Orecchiette dengan pucuk turnip",
+      "ja": "チーメ・ディ・ラーパのオレッキエッテ"
+    }
   }
 ]
