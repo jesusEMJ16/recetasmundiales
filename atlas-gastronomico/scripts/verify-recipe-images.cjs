@@ -51,7 +51,7 @@ async function loaded(locator) {
     });
     await page.goto(base + '/es', { waitUntil: 'networkidle' });
     const covers = page.locator('.destination-card');
-    assert.equal(await covers.count(), 14);
+    assert.equal(await covers.count(), 15);
     const coverImages = covers.locator('img');
     for (let i = 0; i < await coverImages.count(); i++) await loaded(coverImages.nth(i));
     await page.locator('.destination-grid').screenshot({ path: path.join(out, 'country-covers-desktop.png'), animations: 'disabled' });
@@ -116,6 +116,18 @@ async function loaded(locator) {
     }
     for (let i = 0; i < await peruCards.locator('img').count(); i++) await loaded(peruCards.locator('img').nth(i));
     result.desktop.peruRecipeCards = await peruCards.count();
+    await page.goto(base + '/es', { waitUntil: 'networkidle' });
+    const chile = page.locator('.destination-card').filter({ has: page.locator('.country-code', { hasText: /^CL$/ }) });
+    const chilePath = await chile.getAttribute('href');
+    assert.ok(chilePath && chilePath.startsWith('/es/'));
+    await page.goto(base + chilePath, { waitUntil: 'networkidle' });
+    const chileCards = page.locator('.recipe-card');
+    assert.equal(await chileCards.count(), recipes.filter(r => /^cl(?:$|[-:])/.test(r.placeId)).length);
+    for (const slug of ['pastel-de-choclo-chileno', 'empanadas-chilenas-de-pino', 'cazuela-chilena-de-vacuno', 'sopaipillas-chilenas']) {
+      assert.equal(await page.locator(`a.recipe-card[href="/es/receta/${slug}"]`).count(), 1);
+    }
+    for (let i = 0; i < await chileCards.locator('img').count(); i++) await loaded(chileCards.locator('img').nth(i));
+    result.desktop.chileRecipeCards = await chileCards.count();
     await page.goto(base + '/es/receta/coq-au-vin', { waitUntil: 'networkidle' });
     const hero = page.locator('figure').first().locator('img');
     await loaded(hero);
