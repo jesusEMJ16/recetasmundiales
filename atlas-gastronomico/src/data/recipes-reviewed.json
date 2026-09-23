@@ -13094,5 +13094,245 @@
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Orecchiette_con_cima_di_rapa.jpg/960px-Orecchiette_con_cima_di_rapa.jpg"
+  },
+  {
+    "id": "r-br-feijoada",
+    "dishName": "Feijoada brasileña",
+    "slug": "feijoada-brasileira",
+    "placeId": "br-rj",
+    "summary": "Guiso brasileño de frijoles negros con cerdo y embutidos, servido con arroz, col y naranja.",
+    "history": "La feijoada es uno de los platos más conocidos de Brasil y tiene variantes regionales. En Río de Janeiro se asocia con el servicio completo de frijoles negros, carnes de cerdo y acompañamientos como arroz, col salteada, farofa y naranja.",
+    "originConfidence": "commonly_associated",
+    "servings": 8,
+    "prepTimeMin": 30,
+    "cookTimeMin": 180,
+    "restTimeMin": 480,
+    "totalTimeMin": 690,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "500 g de frijoles negros secos"
+      },
+      {
+        "text": "300 g de costilla de cerdo en trozos"
+      },
+      {
+        "text": "200 g de carne seca desalinizada en cubos"
+      },
+      {
+        "text": "200 g de paio o salchicha ahumada en rodajas"
+      },
+      {
+        "text": "150 g de tocino en cubos"
+      },
+      {
+        "text": "1 cebolla grande picada y 4 dientes de ajo picados"
+      },
+      {
+        "text": "2 hojas de laurel"
+      },
+      {
+        "text": "2 cucharadas de aceite, sal y pimienta negra al gusto"
+      }
+    ],
+    "steps": [
+      "Remoja 500 g de frijoles negros en agua durante 8 horas; escurre y enjuaga.",
+      "Dora 150 g de tocino en una olla grande; añade 300 g de costilla, 200 g de carne seca y 200 g de paio y dóralos ligeramente.",
+      "Agrega 1 cebolla, 4 dientes de ajo y 2 hojas de laurel; cocina hasta que desprendan aroma.",
+      "Incorpora los frijoles, cúbrelos generosamente con agua y cocina a hervor suave durante unos 180 minutos, hasta que estén cremosos y las carnes tiernas.",
+      "Ajusta con sal y pimienta negra y sirve con arroz, col salteada, farofa y naranja."
+    ],
+    "tips": [
+      "Mantén un hervor suave y añade agua caliente cuando haga falta para que los frijoles permanezcan cubiertos."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/feijoada",
+      "https://www.visitbrasil.com/es/location/rio-de-janeiro-es/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_%C3%A0_brasileira_-02.jpg/960px-Feijoada_%C3%A0_brasileira_-02.jpg"
+  },
+  {
+    "id": "r-br-pao-queijo",
+    "dishName": "Pão de queijo mineiro",
+    "slug": "pao-de-queijo-mineiro",
+    "placeId": "br-mg",
+    "summary": "Panecillos de queso de Minas Gerais, crujientes por fuera y elásticos por dentro, hechos con almidón de yuca.",
+    "history": "El pão de queijo está estrechamente asociado con Minas Gerais y combina polvilho de yuca con queso. Escaldar el almidón antes de añadir huevos y queso ayuda a crear su interior elástico y su corteza ligera.",
+    "originConfidence": "commonly_associated",
+    "servings": 24,
+    "prepTimeMin": 25,
+    "cookTimeMin": 30,
+    "totalTimeMin": 55,
+    "difficulty": "facil",
+    "moment": "desayuno",
+    "diet": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "250 g de polvilho azedo o almidón de yuca agrio"
+      },
+      {
+        "text": "250 g de polvilho doce o almidón de yuca dulce"
+      },
+      {
+        "text": "250 ml de leche"
+      },
+      {
+        "text": "100 ml de aceite"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "2 huevos"
+      },
+      {
+        "text": "250 g de queso meia-cura o queso curado rallado"
+      }
+    ],
+    "steps": [
+      "Calienta el horno a 200 °C y prepara una bandeja.",
+      "Mezcla 250 g de polvilho azedo, 250 g de polvilho doce y 1 cucharadita de sal.",
+      "Hierve 250 ml de leche con 100 ml de aceite y vierte la mezcla caliente sobre los almidones; remueve y deja templar 10 minutos.",
+      "Incorpora 2 huevos y 250 g de queso hasta obtener una masa pegajosa; forma 24 bolitas.",
+      "Hornea durante 25-30 minutos, hasta que los panes crezcan y estén ligeramente dorados."
+    ],
+    "tips": [
+      "Deja que la mezcla escaldada se temple antes de añadir los huevos para evitar que se cocinen."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/pao-de-queijo"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pao_de_queijo_brasil.jpg/960px-Pao_de_queijo_brasil.jpg"
+  },
+  {
+    "id": "r-br-moqueca-baiana",
+    "dishName": "Moqueca baiana de pescado",
+    "slug": "moqueca-baiana-de-pescado",
+    "placeId": "br-ba",
+    "summary": "Guiso bahiano de pescado con leche de coco, aceite de dendê, tomate, pimiento y cilantro.",
+    "history": "La moqueca baiana es una preparación emblemática de Bahía. Combina pescado o marisco con aceite de dendê y leche de coco, y refleja la mezcla de influencias indígenas, africanas y europeas presente en la cocina bahiana.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 25,
+    "cookTimeMin": 30,
+    "restTimeMin": 20,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "800 g de pescado blanco firme en trozos"
+      },
+      {
+        "text": "1 lima y 2 dientes de ajo"
+      },
+      {
+        "text": "2 tomates en rodajas"
+      },
+      {
+        "text": "1 cebolla en rodajas"
+      },
+      {
+        "text": "1 pimiento rojo en rodajas"
+      },
+      {
+        "text": "200 ml de leche de coco"
+      },
+      {
+        "text": "2 cucharadas de aceite de dendê"
+      },
+      {
+        "text": "1 cucharada de aceite de oliva"
+      },
+      {
+        "text": "30 g de hojas de cilantro, sal y chile al gusto"
+      }
+    ],
+    "steps": [
+      "Sazona 800 g de pescado con el jugo de 1 lima, 2 dientes de ajo y sal; deja reposar 20 minutos.",
+      "En una olla amplia coloca 2 tomates, 1 cebolla y 1 pimiento rojo en capas; acomoda el pescado encima.",
+      "Añade 200 ml de leche de coco, 2 cucharadas de aceite de dendê y 1 cucharada de aceite de oliva.",
+      "Tapa y cocina a fuego medio-bajo durante 25 minutos, moviendo la olla suavemente sin romper el pescado.",
+      "Agrega 30 g de cilantro, ajusta sal y chile y cocina 5 minutos más antes de servir."
+    ],
+    "tips": [
+      "Mueve la olla con suavidad en lugar de revolver con cuchara para mantener enteros los trozos de pescado."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/moqueca-de-peixe-baiana-revisitada",
+      "https://feel.visitbrasil.com/aula-de-culinaria-baiana/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Moqueca-_Ilha_de_Mar%C3%A9._Foto_Tatiana_Azeviche_Setur_%2831969364150%29.jpg/960px-Moqueca-_Ilha_de_Mar%C3%A9._Foto_Tatiana_Azeviche_Setur_%2831969364150%29.jpg"
+  },
+  {
+    "id": "r-br-brigadeiro",
+    "dishName": "Brigadeiro tradicional",
+    "slug": "brigadeiro-tradicional-brasileno",
+    "placeId": "br",
+    "summary": "Dulce brasileño de leche condensada y cacao, formado en bolitas y cubierto con granillo de chocolate.",
+    "history": "El brigadeiro se consolidó en Brasil durante el siglo XX y hoy es un dulce clásico de fiestas y cumpleaños. La versión tradicional se cocina en olla hasta que la mezcla de leche condensada y cacao se despega del fondo.",
+    "originConfidence": "commonly_associated",
+    "servings": 24,
+    "prepTimeMin": 15,
+    "cookTimeMin": 15,
+    "restTimeMin": 60,
+    "totalTimeMin": 90,
+    "difficulty": "facil",
+    "moment": "postre",
+    "diet": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "395 g de leche condensada"
+      },
+      {
+        "text": "30 g de cacao en polvo"
+      },
+      {
+        "text": "20 g de mantequilla"
+      },
+      {
+        "text": "100 g de granillo de chocolate"
+      }
+    ],
+    "steps": [
+      "Mezcla 395 g de leche condensada, 30 g de cacao en polvo y 20 g de mantequilla en una olla.",
+      "Cocina a fuego bajo, removiendo sin parar durante 10-12 minutos, hasta que la mezcla espese y se despegue del fondo.",
+      "Pasa a un plato engrasado y deja enfriar 60 minutos.",
+      "Forma 24 bolitas y pásalas por 100 g de granillo de chocolate."
+    ],
+    "tips": [
+      "Unta ligeramente las manos con mantequilla para formar las bolitas sin que se peguen."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/brigadeiro"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brigadeiros_of_Brazil.jpg/960px-Brigadeiros_of_Brazil.jpg"
   }
 ]

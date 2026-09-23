@@ -51,7 +51,7 @@ async function loaded(locator) {
     });
     await page.goto(base + '/es', { waitUntil: 'networkidle' });
     const covers = page.locator('.destination-card');
-    assert.equal(await covers.count(), 11);
+    assert.equal(await covers.count(), 12);
     const coverImages = covers.locator('img');
     for (let i = 0; i < await coverImages.count(); i++) await loaded(coverImages.nth(i));
     await page.locator('.destination-grid').screenshot({ path: path.join(out, 'country-covers-desktop.png'), animations: 'disabled' });
@@ -80,6 +80,18 @@ async function loaded(locator) {
     }
     for (let i = 0; i < await italyCards.locator('img').count(); i++) await loaded(italyCards.locator('img').nth(i));
     result.desktop.italyRecipeCards = await italyCards.count();
+    await page.goto(base + '/es', { waitUntil: 'networkidle' });
+    const brazil = page.locator('.destination-card').filter({ has: page.locator('.country-code', { hasText: /^BR$/ }) });
+    const brazilPath = await brazil.getAttribute('href');
+    assert.ok(brazilPath && brazilPath.startsWith('/es/'));
+    await page.goto(base + brazilPath, { waitUntil: 'networkidle' });
+    const brazilCards = page.locator('.recipe-card');
+    assert.equal(await brazilCards.count(), recipes.filter(r => /^br(?:$|[-:])/.test(r.placeId)).length);
+    for (const slug of ['feijoada-brasileira', 'pao-de-queijo-mineiro', 'moqueca-baiana-de-pescado', 'brigadeiro-tradicional-brasileno']) {
+      assert.equal(await page.locator(`a.recipe-card[href="/es/receta/${slug}"]`).count(), 1);
+    }
+    for (let i = 0; i < await brazilCards.locator('img').count(); i++) await loaded(brazilCards.locator('img').nth(i));
+    result.desktop.brazilRecipeCards = await brazilCards.count();
     await page.goto(base + '/es/receta/coq-au-vin', { waitUntil: 'networkidle' });
     const hero = page.locator('figure').first().locator('img');
     await loaded(hero);

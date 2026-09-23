@@ -5967,5 +5967,114 @@
       "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
       "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
     ]
+  },
+  "r-br-feijoada": {
+    "dishName": "巴西黑豆炖肉",
+    "summary": "巴西黑豆与猪肉、烟熏香肠炖成的浓汤，常配米饭、绿叶菜和橙子。",
+    "history": "Feijoada 是巴西最知名的菜肴之一，各地做法有所不同。在里约热内卢，它常与黑豆、猪肉、米饭、炒绿叶菜、木薯粉 farofa 和橙子一起组成完整的一餐。",
+    "ingredients": [
+      "500 g 干黑豆",
+      "300 g 猪肋排，切块",
+      "200 g 脱盐 carne seca 风干肉，切丁",
+      "200 g paio 或烟熏香肠，切片",
+      "150 g 培根，切丁",
+      "1 个大洋葱切碎和 4 瓣大蒜切碎",
+      "2 片月桂叶",
+      "2 汤匙油，盐和黑胡椒适量"
+    ],
+    "steps": [
+      "将 500 g 黑豆浸水 8 小时；沥干并冲洗。",
+      "大锅中煎香 150 g 培根；加入 300 g 猪肋排、200 g carne seca 和 200 g paio，略微煎上色。",
+      "加入 1 个洋葱、4 瓣大蒜和 2 片月桂叶，炒至出香味。",
+      "加入黑豆并加足量水没过食材，小火炖约 180 分钟，直到豆子浓稠、肉变软。",
+      "以盐和黑胡椒调味，配米饭、绿叶菜、farofa 和橙子食用。"
+    ],
+    "tips": [
+      "保持轻微沸腾，必要时补充热水，让黑豆始终被液体覆盖。"
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/feijoada",
+      "https://www.visitbrasil.com/es/location/rio-de-janeiro-es/"
+    ]
+  },
+  "r-br-pao-queijo": {
+    "dishName": "米纳斯吉拉斯奶酪面包",
+    "summary": "米纳斯吉拉斯州的奶酪小面包，以木薯淀粉制作，外层微脆、内部弹韧。",
+    "history": "Pão de queijo 与米纳斯吉拉斯州关系密切，以木薯淀粉和奶酪为主要材料。先用热液体烫淀粉，再加入鸡蛋和奶酪，有助于形成弹性的内部和轻薄外壳。",
+    "ingredients": [
+      "250 g 酸木薯淀粉",
+      "250 g 甜木薯淀粉",
+      "250 ml 牛奶",
+      "100 ml 食用油",
+      "1 茶匙盐",
+      "2 个鸡蛋",
+      "250 g 磨碎的 meia-cura 或熟成奶酪"
+    ],
+    "steps": [
+      "烤箱预热至 200 °C，并准备烤盘。",
+      "混合 250 g 酸木薯淀粉、250 g 甜木薯淀粉和 1 茶匙盐。",
+      "将 250 ml 牛奶与 100 ml 油煮沸，倒入淀粉中拌匀，放凉 10 分钟。",
+      "加入 2 个鸡蛋和 250 g 奶酪拌成黏稠面团，搓成 24 个小球。",
+      "烤 25-30 分钟，直到膨起并微微金黄。"
+    ],
+    "tips": [
+      "加入鸡蛋前先让烫过的面团降温，避免鸡蛋被烫熟。"
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/pao-de-queijo"
+    ]
+  },
+  "r-br-moqueca-baiana": {
+    "dishName": "巴伊亚鱼肉穆凯卡",
+    "summary": "巴伊亚风味鱼肉炖菜，加入椰奶、棕榈油、番茄、甜椒和香菜。",
+    "history": "巴伊亚 moqueca 是巴伊亚州的代表性菜肴。它把鱼或海鲜与 dendê 棕榈油和椰奶结合起来，体现了巴伊亚饮食中原住民、非洲和欧洲文化的交融。",
+    "ingredients": [
+      "800 g 结实白肉鱼，切块",
+      "1 个青柠和 2 瓣大蒜",
+      "2 个番茄，切片",
+      "1 个洋葱，切片",
+      "1 个红甜椒，切片",
+      "200 ml 椰奶",
+      "2 汤匙 dendê 棕榈油",
+      "1 汤匙橄榄油",
+      "30 g 香菜叶，盐和辣椒适量"
+    ],
+    "steps": [
+      "用 1 个青柠的汁、2 瓣大蒜和盐腌 800 g 鱼，静置 20 分钟。",
+      "在宽锅中分层铺入 2 个番茄、1 个洋葱和 1 个红甜椒，再把鱼放在上面。",
+      "加入 200 ml 椰奶、2 汤匙 dendê 油和 1 汤匙橄榄油。",
+      "盖锅以中小火煮 25 分钟，轻轻晃动锅具，不要把鱼弄碎。",
+      "加入 30 g 香菜，调整盐和辣椒，再煮 5 分钟后上桌。"
+    ],
+    "tips": [
+      "用轻轻晃锅代替用勺搅拌，可保持鱼块完整。"
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/moqueca-de-peixe-baiana-revisitada",
+      "https://feel.visitbrasil.com/aula-de-culinaria-baiana/"
+    ]
+  },
+  "r-br-brigadeiro": {
+    "dishName": "传统巴西巧克力球",
+    "summary": "巴西甜点，以炼乳和可可煮成，搓成小球后裹上巧克力糖针。",
+    "history": "Brigadeiro 在 20 世纪的巴西逐渐成为经典，如今是聚会和生日常见的甜点。传统做法是在锅中加热炼乳与可可，直到混合物浓稠并能离开锅底。",
+    "ingredients": [
+      "395 g 甜炼乳",
+      "30 g 可可粉",
+      "20 g 黄油",
+      "100 g 巧克力糖针"
+    ],
+    "steps": [
+      "锅中混合 395 g 炼乳、30 g 可可粉和 20 g 黄油。",
+      "小火不断搅拌 10-12 分钟，直到变稠并能从锅底脱离。",
+      "倒入抹油的盘子，冷却 60 分钟。",
+      "搓成 24 个小球，再裹上 100 g 巧克力糖针。"
+    ],
+    "tips": [
+      "手上薄薄抹一层黄油，搓球时更不容易粘手。"
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/brigadeiro"
+    ]
   }
 }

@@ -21,7 +21,7 @@ describe("reviewed recipe photography", () => {
     expect(photographed.length).toBe(audit.photoCount);
     expect(pending.length).toBe(audit.pendingCount);
     expect(RECIPES.length).toBe(audit.totalRecipes);
-    expect(audit.photoCount).toBe(207);
+    expect(audit.photoCount).toBe(211);
     expect(audit.pendingCount).toBe(0);
     expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(24);
   });

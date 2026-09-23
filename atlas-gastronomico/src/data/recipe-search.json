@@ -3724,5 +3724,77 @@
       "id": "Orecchiette dengan pucuk turnip",
       "ja": "チーメ・ディ・ラーパのオレッキエッテ"
     }
+  },
+  {
+    "id": "r-br-feijoada",
+    "slug": "feijoada-brasileira",
+    "names": {
+      "es": "Feijoada brasileña",
+      "en": "Brazilian feijoada",
+      "fr": "Feijoada brésilienne",
+      "zh": "巴西黑豆炖肉",
+      "hi": "ब्राज़ीली फ़ेज़ोआदा",
+      "ar": "فيجوادا برازيلية",
+      "bn": "ব্রাজিলিয়ান ফেইজোয়াদা",
+      "pt": "Feijoada brasileira",
+      "ru": "Бразильская фейжоада",
+      "ur": "برازیلی فیجواڈا",
+      "id": "Feijoada Brasil",
+      "ja": "ブラジル風フェジョアーダ"
+    }
+  },
+  {
+    "id": "r-br-pao-queijo",
+    "slug": "pao-de-queijo-mineiro",
+    "names": {
+      "es": "Pão de queijo mineiro",
+      "en": "Minas Gerais pão de queijo",
+      "fr": "Pão de queijo du Minas Gerais",
+      "zh": "米纳斯吉拉斯奶酪面包",
+      "hi": "मिनास जेराइस पाँव दे केजो",
+      "ar": "باو دي كيجو من ميناس جيرايس",
+      "bn": "মিনাস জেরাইস পাঁও দে কেইজো",
+      "pt": "Pão de queijo mineiro",
+      "ru": "Пау-ди-кейжу из Минас-Жерайса",
+      "ur": "میناس جیرائس پاؤ دی کیجو",
+      "id": "Pão de queijo Minas Gerais",
+      "ja": "ミナスジェライスのポン・デ・ケージョ"
+    }
+  },
+  {
+    "id": "r-br-moqueca-baiana",
+    "slug": "moqueca-baiana-de-pescado",
+    "names": {
+      "es": "Moqueca baiana de pescado",
+      "en": "Bahian fish moqueca",
+      "fr": "Moqueca bahianaise de poisson",
+      "zh": "巴伊亚鱼肉穆凯卡",
+      "hi": "बहियाई मछली मोकेका",
+      "ar": "موكيكا باهية بالسمك",
+      "bn": "বাহিয়ান মাছের মোকেকা",
+      "pt": "Moqueca baiana de peixe",
+      "ru": "Баийская мокека из рыбы",
+      "ur": "باہیا کی مچھلی موکیکا",
+      "id": "Moqueca ikan Bahia",
+      "ja": "バイーア風魚のムケッカ"
+    }
+  },
+  {
+    "id": "r-br-brigadeiro",
+    "slug": "brigadeiro-tradicional-brasileno",
+    "names": {
+      "es": "Brigadeiro tradicional",
+      "en": "Traditional brigadeiro",
+      "fr": "Brigadeiro traditionnel",
+      "zh": "传统巴西巧克力球",
+      "hi": "पारंपरिक ब्रिगादेइरो",
+      "ar": "بريغاديرو تقليدي",
+      "bn": "ঐতিহ্যবাহী ব্রিগাদেইরো",
+      "pt": "Brigadeiro tradicional",
+      "ru": "Традиционный бригадейро",
+      "ur": "روایتی بریگیڈیرو",
+      "id": "Brigadeiro tradisional",
+      "ja": "伝統的なブリガデイロ"
+    }
   }
 ]

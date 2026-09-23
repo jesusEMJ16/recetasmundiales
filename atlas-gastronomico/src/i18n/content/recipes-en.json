@@ -5967,5 +5967,114 @@
       "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
       "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
     ]
+  },
+  "r-br-feijoada": {
+    "dishName": "Brazilian feijoada",
+    "summary": "Brazilian black-bean stew with pork and smoked sausage, served with rice, collard greens and orange.",
+    "history": "Feijoada is one of Brazil’s best-known dishes and has regional variations. In Rio de Janeiro it is commonly associated with a full spread of black beans, pork, rice, sautéed collard greens, farofa and orange.",
+    "ingredients": [
+      "500 g dried black beans",
+      "300 g pork ribs, cut into pieces",
+      "200 g desalted carne seca, cubed",
+      "200 g paio or smoked sausage, sliced",
+      "150 g bacon, diced",
+      "1 large chopped onion and 4 chopped garlic cloves",
+      "2 bay leaves",
+      "2 tablespoons oil, salt and black pepper to taste"
+    ],
+    "steps": [
+      "Soak 500 g black beans in water for 8 hours; drain and rinse.",
+      "Brown 150 g bacon in a large pot; add 300 g pork ribs, 200 g carne seca and 200 g paio and brown lightly.",
+      "Add 1 onion, 4 garlic cloves and 2 bay leaves; cook until fragrant.",
+      "Add the beans, cover generously with water and simmer gently for about 180 minutes, until creamy and the meats are tender.",
+      "Season with salt and black pepper and serve with rice, collard greens, farofa and orange."
+    ],
+    "tips": [
+      "Keep the simmer gentle and add hot water as needed so the beans stay covered."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/feijoada",
+      "https://www.visitbrasil.com/es/location/rio-de-janeiro-es/"
+    ]
+  },
+  "r-br-pao-queijo": {
+    "dishName": "Minas Gerais pão de queijo",
+    "summary": "Cheese rolls from Minas Gerais, crisp outside and chewy inside, made with cassava starch.",
+    "history": "Pão de queijo is closely associated with Minas Gerais and combines cassava starch with cheese. Scalding the starch before adding eggs and cheese helps create its elastic center and light crust.",
+    "ingredients": [
+      "250 g sour cassava starch",
+      "250 g sweet cassava starch",
+      "250 ml milk",
+      "100 ml oil",
+      "1 teaspoon salt",
+      "2 eggs",
+      "250 g grated meia-cura or aged cheese"
+    ],
+    "steps": [
+      "Heat the oven to 200 °C and prepare a baking sheet.",
+      "Mix 250 g sour cassava starch, 250 g sweet cassava starch and 1 teaspoon salt.",
+      "Bring 250 ml milk and 100 ml oil to a boil and pour over the starches; stir and cool for 10 minutes.",
+      "Mix in 2 eggs and 250 g cheese until sticky; shape into 24 balls.",
+      "Bake for 25-30 minutes, until puffed and lightly golden."
+    ],
+    "tips": [
+      "Let the scalded mixture cool before adding the eggs so they do not cook."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/pao-de-queijo"
+    ]
+  },
+  "r-br-moqueca-baiana": {
+    "dishName": "Bahian fish moqueca",
+    "summary": "Bahian fish stew with coconut milk, dendê oil, tomato, pepper and cilantro.",
+    "history": "Bahian moqueca is an emblematic dish of Bahia. It combines fish or seafood with dendê oil and coconut milk and reflects the Indigenous, African and European influences found in Bahian cooking.",
+    "ingredients": [
+      "800 g firm white fish, cut into pieces",
+      "1 lime and 2 garlic cloves",
+      "2 tomatoes, sliced",
+      "1 onion, sliced",
+      "1 red bell pepper, sliced",
+      "200 ml coconut milk",
+      "2 tablespoons dendê oil",
+      "1 tablespoon olive oil",
+      "30 g cilantro leaves, salt and chile to taste"
+    ],
+    "steps": [
+      "Season 800 g fish with the juice of 1 lime, 2 garlic cloves and salt; rest for 20 minutes.",
+      "Layer 2 tomatoes, 1 onion and 1 red bell pepper in a wide pot; arrange the fish on top.",
+      "Add 200 ml coconut milk, 2 tablespoons dendê oil and 1 tablespoon olive oil.",
+      "Cover and cook over medium-low heat for 25 minutes, gently moving the pot without breaking the fish.",
+      "Add 30 g cilantro, adjust salt and chile and cook 5 minutes more before serving."
+    ],
+    "tips": [
+      "Move the pot gently instead of stirring with a spoon so the fish pieces stay intact."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/moqueca-de-peixe-baiana-revisitada",
+      "https://feel.visitbrasil.com/aula-de-culinaria-baiana/"
+    ]
+  },
+  "r-br-brigadeiro": {
+    "dishName": "Traditional brigadeiro",
+    "summary": "Brazilian condensed-milk and cocoa confection rolled into balls and coated with chocolate sprinkles.",
+    "history": "Brigadeiro became established in Brazil during the 20th century and is now a classic sweet at parties and birthdays. The traditional version is cooked in a saucepan until the condensed-milk and cocoa mixture pulls away from the bottom.",
+    "ingredients": [
+      "395 g sweetened condensed milk",
+      "30 g cocoa powder",
+      "20 g butter",
+      "100 g chocolate sprinkles"
+    ],
+    "steps": [
+      "Combine 395 g condensed milk, 30 g cocoa powder and 20 g butter in a saucepan.",
+      "Cook over low heat, stirring constantly for 10-12 minutes, until thick and pulling away from the bottom.",
+      "Transfer to a greased plate and cool for 60 minutes.",
+      "Shape into 24 balls and coat with 100 g chocolate sprinkles."
+    ],
+    "tips": [
+      "Lightly butter your hands so the mixture does not stick while rolling."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/brigadeiro"
+    ]
   }
 }
