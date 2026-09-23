@@ -13895,5 +13895,307 @@
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Papa_a_la_huancaina.jpg/960px-Papa_a_la_huancaina.jpg"
+  },
+  {
+    "id": "r-cl-pastel-choclo",
+    "dishName": "Pastel de choclo chileno",
+    "slug": "pastel-de-choclo-chileno",
+    "placeId": "cl-rm",
+    "summary": "Pastel horneado de maíz tierno molido con albahaca sobre un pino de carne y cebolla, con pollo, huevo, aceituna y pasas.",
+    "history": "El pastel de choclo es uno de los platos más representativos de la cocina criolla de la zona central de Chile. Combina una pastelera de maíz con el pino de carne y cebolla que también caracteriza a la empanada chilena, y suele servirse en fuente o plato de greda.",
+    "originConfidence": "commonly_associated",
+    "servings": 6,
+    "prepTimeMin": 35,
+    "cookTimeMin": 55,
+    "totalTimeMin": 90,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1.5 kg de choclo tierno desgranado"
+      },
+      {
+        "text": "250 ml de leche"
+      },
+      {
+        "text": "20 g de albahaca fresca"
+      },
+      {
+        "text": "500 g de carne de res picada o molida"
+      },
+      {
+        "text": "2 cebollas grandes picadas"
+      },
+      {
+        "text": "2 cucharadas de aceite vegetal"
+      },
+      {
+        "text": "1 cucharadita de comino"
+      },
+      {
+        "text": "1 cucharadita de ají de color o pimentón"
+      },
+      {
+        "text": "300 g de pollo cocido en trozos"
+      },
+      {
+        "text": "3 huevos cocidos en cuartos"
+      },
+      {
+        "text": "12 aceitunas negras"
+      },
+      {
+        "text": "60 g de pasas"
+      },
+      {
+        "text": "1 cucharadita de sal, dividida"
+      },
+      {
+        "text": "1 cucharada de azúcar, opcional"
+      }
+    ],
+    "steps": [
+      "Procesa 1.5 kg de choclo con 250 ml de leche y 20 g de albahaca hasta obtener una mezcla espesa.",
+      "Cocina la mezcla de choclo a fuego medio durante 12-15 minutos, removiendo hasta que espese; sazona con parte de la sal.",
+      "Sofríe 2 cebollas en 2 cucharadas de aceite durante 8 minutos; agrega 500 g de carne, 1 cucharadita de comino, 1 cucharadita de ají de color y el resto de la sal, y cocina 10 minutos.",
+      "Reparte el pino en una fuente, añade 300 g de pollo, 3 huevos, 12 aceitunas y 60 g de pasas, y cubre con la pastelera de choclo.",
+      "Espolvorea 1 cucharada de azúcar si la usas y hornea a 200 °C durante 25-30 minutos, hasta que la superficie esté dorada."
+    ],
+    "tips": [
+      "Deja reposar el pastel 10 minutos al salir del horno para que la pastelera se asiente y sea más fácil servirlo."
+    ],
+    "sources": [
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pastel_de_choclo_T%C3%ADpico_de_Chile.JPG/960px-Pastel_de_choclo_T%C3%ADpico_de_Chile.JPG"
+  },
+  {
+    "id": "r-cl-empanada-pino",
+    "dishName": "Empanadas chilenas de pino",
+    "slug": "empanadas-chilenas-de-pino",
+    "placeId": "cl-li",
+    "summary": "Empanadas horneadas de masa fina rellenas con pino de carne y cebolla, huevo cocido, aceituna y pasas.",
+    "history": "La empanada de pino es una preparación emblemática de Chile y está especialmente ligada a las Fiestas Patrias y a la cocina del campo de la zona central. El relleno llamado pino combina carne y cebolla sazonadas, y suele completarse con huevo, aceituna y pasas.",
+    "originConfidence": "commonly_associated",
+    "servings": 8,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "restTimeMin": 30,
+    "totalTimeMin": 105,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "750 g de harina de trigo"
+      },
+      {
+        "text": "300 ml de agua tibia"
+      },
+      {
+        "text": "100 g de manteca o mantequilla"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "600 g de carne de res picada"
+      },
+      {
+        "text": "3 cebollas grandes picadas"
+      },
+      {
+        "text": "2 cucharadas de aceite vegetal"
+      },
+      {
+        "text": "1 cucharadita de comino"
+      },
+      {
+        "text": "1 cucharadita de ají de color o pimentón"
+      },
+      {
+        "text": "4 huevos cocidos, en cuartos"
+      },
+      {
+        "text": "8 aceitunas negras"
+      },
+      {
+        "text": "40 g de pasas"
+      },
+      {
+        "text": "1 huevo batido para pintar"
+      }
+    ],
+    "steps": [
+      "Mezcla 750 g de harina con 1 cucharadita de sal, 100 g de manteca y 300 ml de agua tibia; amasa 8 minutos y deja reposar 30 minutos.",
+      "Sofríe 3 cebollas con 2 cucharadas de aceite durante 10 minutos; añade 600 g de carne, 1 cucharadita de comino y 1 cucharadita de ají de color y cocina 8-10 minutos. Deja enfriar.",
+      "Divide la masa en 8 porciones y estira discos de unos 20 cm.",
+      "Coloca pino en cada disco y añade ½ huevo cocido, 1 aceituna y unas pasas; humedece los bordes, cierra y dobla las esquinas.",
+      "Pinta con 1 huevo batido y hornea a 200 °C durante 25-30 minutos, hasta que estén doradas."
+    ],
+    "tips": [
+      "Enfría completamente el pino antes de rellenar para evitar que la masa se humedezca y se abra en el horno."
+    ],
+    "sources": [
+      "https://chile.travel/blog/la-empanada-sabor-unico-de-la-tradicion-chilena/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Empanada_de_pino.jpg/960px-Empanada_de_pino.jpg"
+  },
+  {
+    "id": "r-cl-cazuela",
+    "dishName": "Cazuela chilena de vacuno",
+    "slug": "cazuela-chilena-de-vacuno",
+    "placeId": "cl-ml",
+    "summary": "Caldo casero chileno con carne de res, papa, zapallo, choclo, arroz y verduras, servido con cilantro o perejil.",
+    "history": "La cazuela es una preparación cotidiana y tradicional de Chile, con variantes de vacuno o ave. Su formato reúne una pieza de carne, verduras grandes, cereal y caldo en un mismo plato, y es especialmente apreciada como comida reconfortante en los meses fríos.",
+    "originConfidence": "commonly_associated",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 55,
+    "totalTimeMin": 75,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [
+      "sin_lacteos"
+    ],
+    "ingredients": [
+      {
+        "text": "800 g de carne de res con hueso en 4 trozos"
+      },
+      {
+        "text": "1.5 l de agua"
+      },
+      {
+        "text": "4 papas medianas peladas"
+      },
+      {
+        "text": "400 g de zapallo en 4 trozos"
+      },
+      {
+        "text": "2 mazorcas de choclo cortadas por la mitad"
+      },
+      {
+        "text": "1 zanahoria en tiras"
+      },
+      {
+        "text": "100 g de porotos verdes"
+      },
+      {
+        "text": "80 g de arroz"
+      },
+      {
+        "text": "½ cebolla"
+      },
+      {
+        "text": "2 dientes de ajo"
+      },
+      {
+        "text": "1 ramita de apio"
+      },
+      {
+        "text": "1 cucharadita de orégano"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "20 g de cilantro o perejil picado"
+      }
+    ],
+    "steps": [
+      "Pon 800 g de carne en una olla con 1.5 l de agua, ½ cebolla, 2 dientes de ajo, apio y 1 cucharadita de sal; hierve y cocina a fuego medio 25 minutos.",
+      "Agrega 4 papas, 1 zanahoria y 80 g de arroz; cocina 10 minutos.",
+      "Incorpora 400 g de zapallo y 2 mazorcas de choclo; cocina otros 10 minutos.",
+      "Añade 100 g de porotos verdes y 1 cucharadita de orégano; cocina 5-10 minutos más, hasta que todo esté tierno.",
+      "Sirve en cada plato un trozo de carne, papa, zapallo, choclo, verduras y caldo; termina con 20 g de cilantro o perejil."
+    ],
+    "tips": [
+      "Mantén un hervor suave para obtener un caldo claro y evitar que las verduras se deshagan."
+    ],
+    "sources": [
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/",
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chilean_Cazuela.JPG"
+  },
+  {
+    "id": "r-cl-sopaipillas",
+    "dishName": "Sopaipillas chilenas",
+    "slug": "sopaipillas-chilenas",
+    "placeId": "cl-rm",
+    "summary": "Discos fritos de masa de harina y zapallo, dorados por fuera y tiernos por dentro, típicos de días fríos y lluviosos.",
+    "history": "Las sopaipillas forman parte de la comida callejera y casera de Chile y se consumen en todo el país, especialmente en invierno. La versión chilena incorpora zapallo a la masa y puede servirse salada con pebre o dulce como sopaipillas pasadas en chancaca.",
+    "originConfidence": "commonly_associated",
+    "servings": 12,
+    "prepTimeMin": 25,
+    "cookTimeMin": 20,
+    "restTimeMin": 20,
+    "totalTimeMin": 65,
+    "difficulty": "facil",
+    "moment": "snack",
+    "diet": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "500 g de harina de trigo"
+      },
+      {
+        "text": "250 g de zapallo cocido y molido"
+      },
+      {
+        "text": "50 g de mantequilla derretida"
+      },
+      {
+        "text": "120 ml de leche tibia"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "1 cucharadita de polvo de hornear"
+      },
+      {
+        "text": "750 ml de aceite vegetal para freír"
+      }
+    ],
+    "steps": [
+      "Mezcla 500 g de harina, 1 cucharadita de sal y 1 cucharadita de polvo de hornear.",
+      "Incorpora 250 g de zapallo, 50 g de mantequilla y 120 ml de leche; amasa 6-8 minutos hasta obtener una masa lisa.",
+      "Deja reposar la masa 20 minutos y luego estírala hasta unos 5 mm de grosor.",
+      "Corta 12 discos y pincha el centro de cada uno con un tenedor.",
+      "Fríe en 750 ml de aceite a 175 °C durante 2-3 minutos por lado; escurre sobre papel absorbente."
+    ],
+    "tips": [
+      "Si el zapallo está muy húmedo, agrégalo poco a poco para que la masa quede suave pero no pegajosa."
+    ],
+    "sources": [
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sopaipillas_chilenas.jpg/960px-Sopaipillas_chilenas.jpg"
   }
 ]
