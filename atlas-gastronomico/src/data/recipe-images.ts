@@ -1,6 +1,6 @@
 import photos from "./recipe-photos.json";
 
-/** Local photos and dimensions, with per-file provenance in docs/recipe-photo-audit.json. */
+/** Reviewed recipe photography and dimensions, with per-file provenance in docs/recipe-photo-audit.json. */
 export interface RecipeImage {
   url: string;
   thumbnailUrl: string;
