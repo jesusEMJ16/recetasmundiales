@@ -8,6 +8,7 @@ const out = path.resolve(root, '../image-validation');
 const base = process.env.TEST_BASE_URL || 'http://127.0.0.1:3000';
 const photos = JSON.parse(fs.readFileSync(path.join(root, 'src/data/recipe-photos.json')));
 const audit = JSON.parse(fs.readFileSync(path.join(root, 'docs/recipe-photo-audit.json')));
+const recipes = JSON.parse(fs.readFileSync(path.join(root, 'src/data/recipes-reviewed.json')));
 fs.mkdirSync(out, { recursive: true });
 
 async function loaded(locator) {
@@ -55,7 +56,10 @@ async function loaded(locator) {
     assert.ok(francePath && francePath.startsWith('/es/'));
     await page.goto(base + francePath, { waitUntil: 'networkidle' });
     const cards = page.locator('.recipe-card');
-    assert.equal(await cards.count(), 4);
+    assert.equal(await cards.count(), recipes.filter(r => /^fr(?:$|[-:])/.test(r.placeId)).length);
+    for (const slug of ['boeuf-bourguignon', 'soupe-a-loignon-gratinee', 'quiche-lorraine', 'tarte-tatin', 'creme-brulee']) {
+      assert.equal(await page.locator(`a.recipe-card[href="/es/receta/${slug}"]`).count(), 1);
+    }
     for (let i = 0; i < await cards.locator('img').count(); i++) await loaded(cards.locator('img').nth(i));
     await page.screenshot({ path: path.join(out, 'france-recipes-desktop.png'), fullPage: true, animations: 'disabled' });
     result.desktop.franceRecipeCards = await cards.count();
@@ -70,6 +74,16 @@ async function loaded(locator) {
     assert.ok(structured.some(text => text.includes(expected)));
     await page.locator('figure').first().screenshot({ path: path.join(out, 'recipe-photo-desktop.png'), animations: 'disabled' });
     result.desktop.recipeHero = 'loaded; eager; metadata matches';
+    await page.goto(base + '/es/receta/boeuf-bourguignon', { waitUntil: 'networkidle' });
+    const newHero = page.locator('figure').first().locator('img');
+    await loaded(newHero);
+    assert.match(await newHero.getAttribute('alt'), /Boeuf bourguignon: Estofado/);
+    assert.equal(await page.locator('meta[property="og:image"]').first().getAttribute('content'), 'https://worldbitesapp.com' + photos['boeuf-bourguignon'].url);
+    const newSchema = JSON.parse(await page.locator('script[type="application/ld+json"]').first().textContent());
+    const newRecipe = newSchema['@graph'].find(entry => entry['@type'] === 'Recipe');
+    assert.equal(newRecipe.aggregateRating, undefined);
+    assert.equal(newRecipe.datePublished, '2026-09-23');
+    assert.equal(await page.locator('link[rel="alternate"][hreflang]').count(), 12);
     await page.setViewportSize({ width: 390, height: 844 });
     await page.reload({ waitUntil: 'networkidle' });
     await loaded(page.locator('figure').first().locator('img'));
