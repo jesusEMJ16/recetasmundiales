@@ -6076,5 +6076,124 @@
     "sources": [
       "https://panelinha.com.br/receita/brigadeiro"
     ]
+  },
+  "r-ar-asado": {
+    "dishName": "阿根廷炭烤拼盘",
+    "summary": "阿根廷式炭烤牛肋排、腹肉和香肠，在炭火上慢慢烤熟。",
+    "history": "Asado 是阿根廷饮食最具代表性的形式之一，与潘帕斯草原的高乔文化密切相关。它不只是单一菜谱，更是一种围绕炭火慢烤和聚会而形成的社交仪式。",
+    "ingredients": [
+      "1.5 kg 牛肋排",
+      "800 g 牛腹肉",
+      "4 根新鲜 chorizo 香肠",
+      "20 g 粗盐",
+      "2 汤匙油",
+      "2 个番茄、1 棵生菜和 1 个洋葱作配菜",
+      "100 ml chimichurri 酱"
+    ],
+    "steps": [
+      "点燃木炭或木柴，约 30 分钟后形成稳定炭火，避免明火直接接触。",
+      "用 20 g 粗盐给 1.5 kg 牛肋排和 800 g 牛腹肉调味。",
+      "先把肉放在中等火力区域，再把 4 根 chorizo 放到温度较缓和的位置。",
+      "慢烤 60-90 分钟，每一面充分上色后再翻面。",
+      "肉静置 10 分钟后，配 100 ml chimichurri 和由 2 个番茄、1 棵生菜、1 个洋葱组成的沙拉食用。"
+    ],
+    "tips": [
+      "避免直接火焰；均匀炭火能让肉受热更稳定，也减少脂肪烧焦的风险。"
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/487740",
+      "https://www.argentina.travel/novedades/el-asado-guia-para-vivir-el-ritual-mas-sabroso"
+    ]
+  },
+  "r-ar-empanadas-saltenas": {
+    "dishName": "萨尔塔牛肉馅饼",
+    "summary": "来自萨尔塔的烤馅饼，内馅有刀切牛肉、土豆、鸡蛋、青葱和香料。",
+    "history": "萨尔塔 empanada 是阿根廷北部最具代表性的食物之一。它个头较小、香料味明显而且多汁，通常用刀切牛肉、土豆和熟鸡蛋作馅，包在较结实的面皮中高温烘烤。",
+    "ingredients": [
+      "12 张 empanada 面皮",
+      "500 g 刀切牛肉",
+      "300 g 洋葱碎",
+      "250 g 小块土豆",
+      "3 个鸡蛋",
+      "80 g 青葱碎",
+      "40 g 牛油或黄油",
+      "1 茶匙孜然和 1 茶匙红椒粉",
+      "盐和辣椒粉适量"
+    ],
+    "steps": [
+      "将 250 g 土豆煮至熟而不软烂，沥干并放凉。",
+      "融化 40 g 牛油，炒 300 g 洋葱，再加入 500 g 牛肉；用 1 茶匙孜然、1 茶匙红椒粉、盐和辣椒粉调味。",
+      "煮熟 2 个鸡蛋后切碎，与土豆和 80 g 青葱混合；拌入馅料并冷藏 30 分钟。",
+      "把馅料分到 12 张面皮中，捏褶封口，再刷上 1 个打散的鸡蛋。",
+      "以 220 °C 烘烤 12-15 分钟，直到面皮金黄。"
+    ],
+    "tips": [
+      "包制前要让馅料充分冷却，这样面皮不易受潮，肉汁也更容易保留在里面。"
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/488397",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-locro": {
+    "dishName": "阿根廷克里奥尔 locro 炖锅",
+    "summary": "以白玉米、白豆、南瓜、肉类和红香肠慢炖成的浓稠炖菜，常见于国家节庆。",
+    "history": "Locro 有前西班牙时期的安第斯根源，后来传播到阿根廷西北部、库约以及全国。在阿根廷，它逐渐成为国家节庆的象征，用玉米、南瓜、豆类和多种肉类长时间慢煮。",
+    "ingredients": [
+      "500 g 干白碎玉米",
+      "250 g 干白豆",
+      "500 g 南瓜块",
+      "300 g 牛肉块",
+      "250 g 猪肉块",
+      "150 g 培根块",
+      "2 根 chorizo colorado，切片",
+      "1 个洋葱切碎",
+      "2 茶匙红椒粉，盐和辣椒粉适量"
+    ],
+    "steps": [
+      "将 500 g 玉米和 250 g 白豆浸泡在充足清水中 8 小时；沥干。",
+      "把玉米和白豆放入大锅，加清水没过，小火煮 60 分钟。",
+      "加入 300 g 牛肉、250 g 猪肉、150 g 培根和 2 根 chorizo colorado，再煮 60 分钟。",
+      "加入 500 g 南瓜，再煮 60 分钟，并不断搅拌，直到部分南瓜化开使汤汁变浓。",
+      "用 1 个洋葱、2 茶匙红椒粉和辣椒粉炒成调味底料，拌入 locro，调整盐味后趁热食用。"
+    ],
+    "tips": [
+      "最后一小时要经常搅拌，避免玉米粘锅，也能帮助南瓜把炖菜变得更浓稠。"
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/504764",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-alfajores-maicena": {
+    "dishName": "阿根廷玉米淀粉夹心饼",
+    "summary": "柔软酥松的玉米淀粉饼干夹 dulce de leche，并在边缘裹上椰蓉。",
+    "history": "Alfajor 经由伊比利亚传统传入当地，并在阿根廷成为最受欢迎的甜点之一。玉米淀粉版本以柔软易碎的饼干层夹大量 dulce de leche 为特色。",
+    "ingredients": [
+      "200 g 小麦面粉",
+      "300 g 玉米淀粉",
+      "150 g 糖粉",
+      "200 g 室温黄油",
+      "3 个蛋黄",
+      "1 茶匙香草精",
+      "1 茶匙泡打粉",
+      "1 个柠檬的皮屑",
+      "400 g 烘焙用 dulce de leche",
+      "60 g 椰蓉"
+    ],
+    "steps": [
+      "筛入 200 g 面粉、300 g 玉米淀粉和 1 茶匙泡打粉。",
+      "将 200 g 黄油与 150 g 糖粉打匀；加入 3 个蛋黄、1 茶匙香草精和 1 个柠檬的皮屑。",
+      "加入干料，揉成柔软面团并冷藏 30 分钟。",
+      "把面团擀至约 5 mm，切出 36 个圆片，以 180 °C 烘烤 10-12 分钟，不要让表面上色过深。",
+      "将圆片两两夹入 400 g dulce de leche，共做成 18 个 alfajores，再把边缘滚上 60 g 椰蓉。"
+    ],
+    "tips": [
+      "饼片还热时要轻拿轻放；玉米淀粉会让它们特别酥脆易碎。"
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/493708",
+      "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
+    ]
   }
 }

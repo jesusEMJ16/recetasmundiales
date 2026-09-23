@@ -6076,5 +6076,124 @@
     "sources": [
       "https://panelinha.com.br/receita/brigadeiro"
     ]
+  },
+  "r-ar-asado": {
+    "dishName": "Asado argentino na parrilla",
+    "summary": "Parrillada argentina de costela, vazio e chouriços assados lentamente sobre brasas.",
+    "history": "O asado é uma das expressões mais representativas da gastronomia argentina e está ligado à cultura gaúcha dos pampas. Mais do que uma receita única, é um ritual social de cocção lenta sobre brasas e encontro em torno da grelha.",
+    "ingredients": [
+      "1.5 kg de costela bovina em tiras",
+      "800 g de vazio",
+      "4 chouriços frescos",
+      "20 g de sal grosso",
+      "2 colheres de sopa de óleo",
+      "2 tomates, 1 alface e 1 cebola para acompanhar",
+      "100 ml de chimichurri"
+    ],
+    "steps": [
+      "Acenda o carvão ou a lenha e deixe formar brasas firmes por cerca de 30 minutos, sem chamas diretas.",
+      "Tempere 1.5 kg de costela e 800 g de vazio com 20 g de sal grosso.",
+      "Coloque primeiro as carnes sobre fogo médio e adicione 4 chouriços numa zona de calor moderado.",
+      "Asse lentamente por 60-90 minutos, virando cada peça apenas quando estiver bem dourada de um lado.",
+      "Deixe a carne descansar 10 minutos e sirva com 100 ml de chimichurri e a salada de 2 tomates, 1 alface e 1 cebola."
+    ],
+    "tips": [
+      "Evite chamas diretas: brasas uniformes assam a carne de forma mais regular e reduzem o risco de queimar a gordura."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/487740",
+      "https://www.argentina.travel/novedades/el-asado-guia-para-vivir-el-ritual-mas-sabroso"
+    ]
+  },
+  "r-ar-empanadas-saltenas": {
+    "dishName": "Empanadas saltenhas",
+    "summary": "Empanadas assadas de Salta com carne cortada à faca, batata, ovo, cebolinha e especiarias.",
+    "history": "As empanadas saltenhas são um dos grandes ícones do norte argentino. Destacam-se por serem pequenas, temperadas e suculentas, com carne cortada à faca, batata e ovo cozido dentro de uma massa firme tradicionalmente assada em alta temperatura.",
+    "ingredients": [
+      "12 discos de massa para empanada",
+      "500 g de carne bovina cortada à faca",
+      "300 g de cebola picada",
+      "250 g de batata em cubos pequenos",
+      "3 ovos",
+      "80 g de cebolinha picada",
+      "40 g de gordura bovina ou manteiga",
+      "1 colher de chá de cominho e 1 colher de chá de páprica",
+      "Sal e pimenta moída a gosto"
+    ],
+    "steps": [
+      "Cozinhe 250 g de batata até ficar macia porém firme; escorra e deixe esfriar.",
+      "Derreta 40 g de gordura, refogue 300 g de cebola e adicione 500 g de carne; tempere com 1 colher de chá de cominho, 1 colher de chá de páprica, sal e pimenta moída.",
+      "Cozinhe 2 ovos, pique-os e misture com a batata e 80 g de cebolinha; junte ao recheio e leve à geladeira por 30 minutos.",
+      "Distribua o recheio entre 12 discos, feche com repulgue e pincele com 1 ovo batido.",
+      "Asse a 220 °C por 12-15 minutos, até a massa dourar."
+    ],
+    "tips": [
+      "Esfrie bem o recheio antes de montar para que a massa permaneça firme e os sucos fiquem dentro."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/488397",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-locro": {
+    "dishName": "Locro criollo argentino",
+    "summary": "Guisado espesso de milho branco, feijão, abóbora, carnes e chorizo colorado, tradicional em datas patrióticas.",
+    "history": "O locro tem raízes andinas pré-hispânicas e se espalhou pelo noroeste argentino, Cuyo e depois por todo o país. Na Argentina tornou-se símbolo das celebrações nacionais, cozido lentamente com milho, abóbora, feijão e diferentes carnes.",
+    "ingredients": [
+      "500 g de milho branco quebrado seco",
+      "250 g de feijão branco seco",
+      "500 g de abóbora em cubos",
+      "300 g de carne bovina em cubos",
+      "250 g de carne suína em cubos",
+      "150 g de bacon em cubos",
+      "2 chorizos colorados em rodelas",
+      "1 cebola picada",
+      "2 colheres de chá de páprica, sal e pimenta moída a gosto"
+    ],
+    "steps": [
+      "Deixe 500 g de milho e 250 g de feijão de molho em bastante água por 8 horas; escorra.",
+      "Coloque o milho e o feijão numa panela grande, cubra com água limpa e cozinhe em fogo baixo por 60 minutos.",
+      "Adicione 300 g de carne bovina, 250 g de porco, 150 g de bacon e 2 chorizos colorados; cozinhe mais 60 minutos.",
+      "Junte 500 g de abóbora e cozinhe mais 60 minutos, mexendo até parte da abóbora se desfazer e engrossar o guisado.",
+      "Refogue 1 cebola com 2 colheres de chá de páprica e pimenta moída; misture esse molho ao locro, ajuste o sal e sirva quente."
+    ],
+    "tips": [
+      "Mexa com frequência durante a última hora para evitar que o milho grude e ajudar a abóbora a engrossar o guisado."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/504764",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-alfajores-maicena": {
+    "dishName": "Alfajores argentinos de maicena",
+    "summary": "Biscoitos macios de maicena recheados com doce de leite e finalizados com coco ralado.",
+    "history": "O alfajor chegou à região pela tradição ibérica e na Argentina tornou-se um dos doces mais populares do país. A versão de maicena se caracteriza por discos macios e quebradiços unidos com bastante doce de leite.",
+    "ingredients": [
+      "200 g de farinha de trigo",
+      "300 g de amido de milho",
+      "150 g de açúcar de confeiteiro",
+      "200 g de manteiga em temperatura ambiente",
+      "3 gemas",
+      "1 colher de chá de essência de baunilha",
+      "1 colher de chá de fermento químico",
+      "Raspas de 1 limão",
+      "400 g de doce de leite para confeitaria",
+      "60 g de coco ralado"
+    ],
+    "steps": [
+      "Peneire 200 g de farinha, 300 g de amido de milho e 1 colher de chá de fermento.",
+      "Bata 200 g de manteiga com 150 g de açúcar de confeiteiro; incorpore 3 gemas, 1 colher de chá de baunilha e as raspas de 1 limão.",
+      "Junte os ingredientes secos, forme uma massa macia e leve à geladeira por 30 minutos.",
+      "Abra a massa com cerca de 5 mm, corte 36 discos e asse a 180 °C por 10-12 minutos, sem deixar dourar demais.",
+      "Una os discos aos pares com 400 g de doce de leite para formar 18 alfajores e passe as bordas em 60 g de coco ralado."
+    ],
+    "tips": [
+      "Manuseie os discos com cuidado enquanto ainda estão quentes: o amido de milho os deixa especialmente frágeis."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/493708",
+      "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
+    ]
   }
 }

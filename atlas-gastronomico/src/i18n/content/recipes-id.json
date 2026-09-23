@@ -6076,5 +6076,124 @@
     "sources": [
       "https://panelinha.com.br/receita/brigadeiro"
     ]
+  },
+  "r-ar-asado": {
+    "dishName": "Asado Argentina di parrilla",
+    "summary": "Panggangan Argentina berisi iga sapi, flank dan chorizo yang dimasak perlahan di atas bara.",
+    "history": "Asado adalah salah satu ekspresi paling khas dari kuliner Argentina dan terkait dengan budaya gaucho di dataran Pampas. Lebih dari satu resep, asado adalah ritual sosial berupa memasak perlahan di atas bara dan berkumpul di sekitar panggangan.",
+    "ingredients": [
+      "1.5 kg iga sapi",
+      "800 g flank steak",
+      "4 chorizo segar",
+      "20 g garam kasar",
+      "2 sendok makan minyak",
+      "2 tomat, 1 selada dan 1 bawang bombai untuk pendamping",
+      "100 ml chimichurri"
+    ],
+    "steps": [
+      "Nyalakan arang atau kayu dan biarkan terbentuk bara yang stabil selama sekitar 30 menit, tanpa api langsung.",
+      "Bumbui 1.5 kg iga dan 800 g flank dengan 20 g garam kasar.",
+      "Letakkan daging lebih dulu di atas panas sedang dan tambahkan 4 chorizo di zona panas sedang.",
+      "Masak perlahan selama 60-90 menit, balik tiap potong hanya setelah satu sisinya benar-benar kecokelatan.",
+      "Istirahatkan daging selama 10 menit dan sajikan dengan 100 ml chimichurri serta salad dari 2 tomat, 1 selada dan 1 bawang bombai."
+    ],
+    "tips": [
+      "Hindari api langsung: bara yang merata memberi pemasakan lebih seragam dan mengurangi risiko lemak terbakar."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/487740",
+      "https://www.argentina.travel/novedades/el-asado-guia-para-vivir-el-ritual-mas-sabroso"
+    ]
+  },
+  "r-ar-empanadas-saltenas": {
+    "dishName": "Empanada khas Salta",
+    "summary": "Empanada panggang dari Salta berisi daging sapi potong pisau, kentang, telur, daun bawang dan rempah.",
+    "history": "Empanada Salta adalah salah satu ikon besar Argentina utara. Ukurannya kecil, berbumbu dan berair, dengan daging sapi yang dipotong pisau, kentang dan telur rebus di dalam adonan kokoh yang biasanya dipanggang pada suhu tinggi.",
+    "ingredients": [
+      "12 lembar adonan empanada",
+      "500 g daging sapi potong pisau",
+      "300 g bawang bombai cincang",
+      "250 g kentang dadu kecil",
+      "3 telur",
+      "80 g daun bawang cincang",
+      "40 g lemak sapi atau mentega",
+      "1 sendok teh jintan dan 1 sendok teh paprika",
+      "Garam dan cabai bubuk secukupnya"
+    ],
+    "steps": [
+      "Rebus 250 g kentang sampai empuk namun tetap padat; tiriskan dan dinginkan.",
+      "Lelehkan 40 g lemak, masak 300 g bawang bombai lalu tambahkan 500 g daging; bumbui dengan 1 sendok teh jintan, 1 sendok teh paprika, garam dan cabai bubuk.",
+      "Rebus keras 2 telur, cincang dan campur dengan kentang serta 80 g daun bawang; masukkan ke isian dan dinginkan selama 30 menit.",
+      "Bagi isian ke dalam 12 lembar adonan, tutup dengan lipatan tepi dan olesi dengan 1 telur kocok.",
+      "Panggang pada 220 °C selama 12-15 menit sampai adonan keemasan."
+    ],
+    "tips": [
+      "Dinginkan isian dengan baik sebelum membentuk empanada agar adonan tetap kokoh dan cairan tetap di dalam."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/488397",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-locro": {
+    "dishName": "Locro criollo Argentina",
+    "summary": "Semur kental dari jagung putih, kacang, labu, daging dan chorizo colorado, tradisional pada hari nasional.",
+    "history": "Locro berakar pada tradisi Andes pra-Hispanik dan menyebar ke Argentina barat laut, Cuyo, lalu ke seluruh negeri. Di Argentina hidangan ini menjadi simbol perayaan nasional, dimasak perlahan dengan jagung, labu, kacang dan beberapa jenis daging.",
+    "ingredients": [
+      "500 g jagung putih pecah kering",
+      "250 g kacang putih kering",
+      "500 g labu dadu",
+      "300 g daging sapi dadu",
+      "250 g daging babi dadu",
+      "150 g bacon dadu",
+      "2 chorizo colorado, iris",
+      "1 bawang bombai cincang",
+      "2 sendok teh paprika, garam dan cabai bubuk secukupnya"
+    ],
+    "steps": [
+      "Rendam 500 g jagung dan 250 g kacang dalam banyak air selama 8 jam; tiriskan.",
+      "Masukkan jagung dan kacang ke panci besar, tutup dengan air bersih dan masak perlahan selama 60 menit.",
+      "Tambahkan 300 g daging sapi, 250 g babi, 150 g bacon dan 2 chorizo colorado; masak 60 menit lagi.",
+      "Tambahkan 500 g labu dan masak lagi 60 menit sambil diaduk sampai sebagian labu hancur dan mengentalkan semur.",
+      "Tumis 1 bawang bombai dengan 2 sendok teh paprika dan cabai bubuk; campurkan saus ini ke locro, sesuaikan garam dan sajikan panas."
+    ],
+    "tips": [
+      "Aduk sering selama jam terakhir agar jagung tidak menempel dan labu membantu mengentalkan semur."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/504764",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-alfajores-maicena": {
+    "dishName": "Alfajores maizena Argentina",
+    "summary": "Biskuit lembut dari maizena berisi dulce de leche dan diberi kelapa parut di tepinya.",
+    "history": "Alfajor masuk ke kawasan ini melalui tradisi Iberia dan di Argentina menjadi salah satu manisan paling populer. Versi maizena dikenal karena lapisan biskuit yang lembut dan rapuh dengan banyak dulce de leche di tengahnya.",
+    "ingredients": [
+      "200 g tepung terigu",
+      "300 g maizena",
+      "150 g gula bubuk",
+      "200 g mentega suhu ruang",
+      "3 kuning telur",
+      "1 sendok teh ekstrak vanila",
+      "1 sendok teh baking powder",
+      "Parutan kulit 1 lemon",
+      "400 g dulce de leche untuk kue",
+      "60 g kelapa parut"
+    ],
+    "steps": [
+      "Ayak 200 g tepung, 300 g maizena dan 1 sendok teh baking powder.",
+      "Kocok 200 g mentega dengan 150 g gula bubuk; masukkan 3 kuning telur, 1 sendok teh vanila dan parutan kulit 1 lemon.",
+      "Tambahkan bahan kering, bentuk adonan lembut dan dinginkan selama 30 menit.",
+      "Gilas adonan hingga sekitar 5 mm, potong 36 cakram dan panggang pada 180 °C selama 10-12 menit tanpa membuatnya terlalu cokelat.",
+      "Satukan cakram berpasangan dengan 400 g dulce de leche untuk membuat 18 alfajores dan balut tepinya dengan 60 g kelapa parut."
+    ],
+    "tips": [
+      "Tangani lapisan biskuit dengan hati-hati saat masih hangat karena maizena membuatnya sangat rapuh."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/493708",
+      "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
+    ]
   }
 }

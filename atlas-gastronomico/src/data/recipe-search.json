@@ -3796,5 +3796,77 @@
       "id": "Brigadeiro tradisional",
       "ja": "伝統的なブリガデイロ"
     }
+  },
+  {
+    "id": "r-ar-asado",
+    "slug": "asado-argentino-a-la-parrilla",
+    "names": {
+      "es": "Asado argentino a la parrilla",
+      "en": "Argentine parrilla asado",
+      "fr": "Asado argentin à la parrilla",
+      "zh": "阿根廷炭烤拼盘",
+      "hi": "अर्जेंटीनी पर्रिला असादो",
+      "ar": "أسادو أرجنتيني على الشواية",
+      "bn": "আর্জেন্টাইন পারিলা আসাদো",
+      "pt": "Asado argentino na parrilla",
+      "ru": "Аргентинское асадо на гриле",
+      "ur": "ارجنٹائنی گرل اسادو",
+      "id": "Asado Argentina di parrilla",
+      "ja": "アルゼンチン風アサード"
+    }
+  },
+  {
+    "id": "r-ar-empanadas-saltenas",
+    "slug": "empanadas-saltenas-argentinas",
+    "names": {
+      "es": "Empanadas salteñas",
+      "en": "Salta-style empanadas",
+      "fr": "Empanadas de Salta",
+      "zh": "萨尔塔牛肉馅饼",
+      "hi": "साल्टा शैली की एम्पानादास",
+      "ar": "إمباناداس سالتا",
+      "bn": "সালতা এমপানাদা",
+      "pt": "Empanadas saltenhas",
+      "ru": "Эмпанадас по-сальтенски",
+      "ur": "سالٹا طرز ایمپاناداس",
+      "id": "Empanada khas Salta",
+      "ja": "サルタ風エンパナーダ"
+    }
+  },
+  {
+    "id": "r-ar-locro",
+    "slug": "locro-criollo-argentino",
+    "names": {
+      "es": "Locro criollo argentino",
+      "en": "Argentine criollo locro",
+      "fr": "Locro criollo argentin",
+      "zh": "阿根廷克里奥尔 locro 炖锅",
+      "hi": "अर्जेंटीनी क्रियोयो लोक्रो",
+      "ar": "لوكرو كريولو أرجنتيني",
+      "bn": "আর্জেন্টাইন ক্রিওলো লোকরো",
+      "pt": "Locro criollo argentino",
+      "ru": "Аргентинский креольский локро",
+      "ur": "ارجنٹائنی کریولو لوکرو",
+      "id": "Locro criollo Argentina",
+      "ja": "アルゼンチン風クリオージョ・ロクロ"
+    }
+  },
+  {
+    "id": "r-ar-alfajores-maicena",
+    "slug": "alfajores-de-maicena-argentinos",
+    "names": {
+      "es": "Alfajores de maicena",
+      "en": "Argentine cornstarch alfajores",
+      "fr": "Alfajores argentins à la fécule de maïs",
+      "zh": "阿根廷玉米淀粉夹心饼",
+      "hi": "अर्जेंटीनी कॉर्नस्टार्च अल्फाहोरेस",
+      "ar": "ألفاخور أرجنتيني بنشا الذرة",
+      "bn": "আর্জেন্টাইন কর্নস্টার্চ আলফাখোর",
+      "pt": "Alfajores argentinos de maicena",
+      "ru": "Аргентинские альфахорес из кукурузного крахмала",
+      "ur": "ارجنٹائنی کارن اسٹارچ الفاخور",
+      "id": "Alfajores maizena Argentina",
+      "ja": "アルゼンチン風コーンスターチ・アルファホール"
+    }
   }
 ]

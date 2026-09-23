@@ -6076,5 +6076,124 @@
     "sources": [
       "https://panelinha.com.br/receita/brigadeiro"
     ]
+  },
+  "r-ar-asado": {
+    "dishName": "Asado argentin à la parrilla",
+    "summary": "Grillade argentine de travers de bœuf, bavette et chorizos cuits lentement sur les braises.",
+    "history": "L’asado est l’une des expressions les plus représentatives de la gastronomie argentine et est lié à la culture gaucho de la pampa. Plus qu’une recette unique, c’est un rituel social de cuisson lente sur les braises et de rassemblement autour du gril.",
+    "ingredients": [
+      "1.5 kg de travers de bœuf",
+      "800 g de bavette",
+      "4 chorizos frais",
+      "20 g de gros sel",
+      "2 cuillères à soupe d’huile",
+      "2 tomates, 1 laitue et 1 oignon pour accompagner",
+      "100 ml de chimichurri"
+    ],
+    "steps": [
+      "Allumez le charbon ou le bois et laissez se former des braises fermes pendant environ 30 minutes, sans flammes directes.",
+      "Assaisonnez 1.5 kg de travers et 800 g de bavette avec 20 g de gros sel.",
+      "Placez d’abord les viandes sur une chaleur moyenne et ajoutez 4 chorizos dans une zone de chaleur modérée.",
+      "Faites cuire lentement pendant 60-90 minutes, en retournant chaque pièce seulement lorsqu’elle est bien dorée d’un côté.",
+      "Laissez reposer la viande 10 minutes et servez avec 100 ml de chimichurri et la salade de 2 tomates, 1 laitue et 1 oignon."
+    ],
+    "tips": [
+      "Évitez les flammes directes : des braises régulières assurent une cuisson plus uniforme et réduisent le risque de brûler la graisse."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/487740",
+      "https://www.argentina.travel/novedades/el-asado-guia-para-vivir-el-ritual-mas-sabroso"
+    ]
+  },
+  "r-ar-empanadas-saltenas": {
+    "dishName": "Empanadas de Salta",
+    "summary": "Empanadas au four de Salta, garnies de bœuf coupé au couteau, pomme de terre, œuf, cébette et épices.",
+    "history": "Les empanadas de Salta sont l’une des grandes icônes du nord de l’Argentine. Elles sont petites, épicées et juteuses, avec du bœuf coupé au couteau, de la pomme de terre et de l’œuf dur dans une pâte ferme traditionnellement cuite à haute température.",
+    "ingredients": [
+      "12 disques de pâte à empanada",
+      "500 g de bœuf coupé au couteau",
+      "300 g d’oignon haché",
+      "250 g de pomme de terre en petits dés",
+      "3 œufs",
+      "80 g de cébette hachée",
+      "40 g de graisse de bœuf ou de beurre",
+      "1 cuillère à café de cumin et 1 cuillère à café de paprika",
+      "Sel et piment moulu au goût"
+    ],
+    "steps": [
+      "Faites cuire 250 g de pomme de terre jusqu’à ce qu’elle soit tendre mais ferme; égouttez et laissez refroidir.",
+      "Faites fondre 40 g de graisse, cuisez 300 g d’oignon et ajoutez 500 g de bœuf; assaisonnez avec 1 cuillère à café de cumin, 1 cuillère à café de paprika, sel et piment moulu.",
+      "Faites cuire 2 œufs durs, hachez-les et mélangez avec la pomme de terre et 80 g de cébette; ajoutez à la farce et refroidissez pendant 30 minutes.",
+      "Répartissez la farce sur 12 disques, fermez en pinçant le bord et badigeonnez avec 1 œuf battu.",
+      "Faites cuire à 220 °C pendant 12-15 minutes, jusqu’à ce que la pâte soit dorée."
+    ],
+    "tips": [
+      "Refroidissez bien la farce avant le montage pour garder la pâte ferme et les jus à l’intérieur."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/488397",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-locro": {
+    "dishName": "Locro criollo argentin",
+    "summary": "Ragoût épais de maïs blanc, haricots, courge, viandes et chorizo colorado, traditionnel lors des fêtes patriotiques.",
+    "history": "Le locro a des racines andines préhispaniques et s’est diffusé dans le nord-ouest argentin, le Cuyo puis dans tout le pays. En Argentine, il est devenu un symbole des célébrations nationales, mijoté lentement avec maïs, courge, haricots et différentes viandes.",
+    "ingredients": [
+      "500 g de maïs blanc concassé sec",
+      "250 g de haricots blancs secs",
+      "500 g de courge en dés",
+      "300 g de bœuf en dés",
+      "250 g de porc en dés",
+      "150 g de poitrine fumée en dés",
+      "2 chorizos colorados en rondelles",
+      "1 oignon haché",
+      "2 cuillères à café de paprika, sel et piment moulu au goût"
+    ],
+    "steps": [
+      "Faites tremper 500 g de maïs et 250 g de haricots dans beaucoup d’eau pendant 8 heures; égouttez.",
+      "Mettez le maïs et les haricots dans une grande casserole, couvrez d’eau propre et laissez mijoter 60 minutes.",
+      "Ajoutez 300 g de bœuf, 250 g de porc, 150 g de poitrine et 2 chorizos colorados; cuisez encore 60 minutes.",
+      "Ajoutez 500 g de courge et poursuivez la cuisson 60 minutes, en remuant jusqu’à ce qu’une partie de la courge se défasse et épaississe le ragoût.",
+      "Faites revenir 1 oignon avec 2 cuillères à café de paprika et du piment moulu; incorporez cette sauce au locro, rectifiez le sel et servez chaud."
+    ],
+    "tips": [
+      "Remuez souvent pendant la dernière heure pour éviter que le maïs n’attache et aider la courge à épaissir le ragoût."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/504764",
+      "https://www.argentina.travel/novedades/sabores-del-norte-una-guia-gastronomica-para-recorrer-el-norte-argentino"
+    ]
+  },
+  "r-ar-alfajores-maicena": {
+    "dishName": "Alfajores argentins à la fécule de maïs",
+    "summary": "Biscuits tendres à la fécule de maïs garnis de dulce de leche et finis avec de la noix de coco râpée.",
+    "history": "L’alfajor est arrivé dans la région par la tradition ibérique et est devenu en Argentine l’une des confiseries les plus populaires. La version à la fécule de maïs se distingue par des biscuits tendres et friables assemblés avec beaucoup de dulce de leche.",
+    "ingredients": [
+      "200 g de farine de blé",
+      "300 g de fécule de maïs",
+      "150 g de sucre glace",
+      "200 g de beurre à température ambiante",
+      "3 jaunes d’œufs",
+      "1 cuillère à café d’extrait de vanille",
+      "1 cuillère à café de levure chimique",
+      "Zeste de 1 citron",
+      "400 g de dulce de leche pâtissier",
+      "60 g de noix de coco râpée"
+    ],
+    "steps": [
+      "Tamisez 200 g de farine, 300 g de fécule de maïs et 1 cuillère à café de levure chimique.",
+      "Battez 200 g de beurre avec 150 g de sucre glace; ajoutez 3 jaunes, 1 cuillère à café de vanille et le zeste de 1 citron.",
+      "Ajoutez les ingrédients secs, formez une pâte souple et réfrigérez pendant 30 minutes.",
+      "Étalez la pâte à environ 5 mm, découpez 36 disques et faites cuire à 180 °C pendant 10-12 minutes, sans trop les colorer.",
+      "Assemblez les disques deux par deux avec 400 g de dulce de leche pour former 18 alfajores et roulez les bords dans 60 g de noix de coco râpée."
+    ],
+    "tips": [
+      "Manipulez les biscuits avec soin lorsqu’ils sont encore chauds : la fécule de maïs les rend particulièrement fragiles."
+    ],
+    "sources": [
+      "https://www.argentina.gob.ar/node/493708",
+      "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
+    ]
   }
 }

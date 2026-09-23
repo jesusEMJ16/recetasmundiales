@@ -2741,5 +2741,57 @@
     "source": "https://commons.wikimedia.org/wiki/File:Brigadeiros_of_Brazil.jpg",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "provider": "Wikimedia Commons"
+  },
+  "asado-argentino-a-la-parrilla": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Asado_Argentina.jpg/960px-Asado_Argentina.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Asado_Argentina.jpg/330px-Asado_Argentina.jpg",
+    "width": 960,
+    "height": 640,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 220,
+    "author": "Laketowner",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asado_Argentina.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "empanadas-saltenas-argentinas": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Empanadas_salte%C3%B1as_1.jpg/960px-Empanadas_salte%C3%B1as_1.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Empanadas_salte%C3%B1as_1.jpg/330px-Empanadas_salte%C3%B1as_1.jpg",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Gonzalo Rivero",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Empanadas_salte%C3%B1as_1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "locro-criollo-argentino": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Argentine_locro.jpg/960px-Argentine_locro.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Argentine_locro.jpg/330px-Argentine_locro.jpg",
+    "width": 960,
+    "height": 540,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 186,
+    "author": "Horacio Cambeiro",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Argentine_locro.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "alfajores-de-maicena-argentinos": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Alfajores_de_maicena.jpg/960px-Alfajores_de_maicena.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Alfajores_de_maicena.jpg/330px-Alfajores_de_maicena.jpg",
+    "width": 960,
+    "height": 618,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 212,
+    "author": "Aylin Oporto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alfajores_de_maicena.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
   }
 }
