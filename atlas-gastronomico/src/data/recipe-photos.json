@@ -2949,5 +2949,44 @@
     "source": "https://commons.wikimedia.org/wiki/File:Arepas_de_huevo.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
     "provider": "Wikimedia Commons"
+  },
+  "tajin-marroqui-pollo-limon-aceitunas": {
+    "url": "/images/recipes-v2/tajin-marroqui-pollo-limon-aceitunas.webp",
+    "thumbnailUrl": "/images/recipes-v2/tajin-marroqui-pollo-limon-aceitunas-480.webp",
+    "width": 1200,
+    "height": 900,
+    "thumbnailWidth": 480,
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "WorldBites original image",
+    "source": "https://worldbitesapp.com/images/recipes-v2/tajin-marroqui-pollo-limon-aceitunas.webp",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites"
+  },
+  "cuscus-marroqui-siete-verduras": {
+    "url": "/images/recipes-v2/cuscus-marroqui-siete-verduras.webp",
+    "thumbnailUrl": "/images/recipes-v2/cuscus-marroqui-siete-verduras-480.webp",
+    "width": 1200,
+    "height": 900,
+    "thumbnailWidth": 480,
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "WorldBites original image",
+    "source": "https://worldbitesapp.com/images/recipes-v2/cuscus-marroqui-siete-verduras.webp",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites"
+  },
+  "harira-marroqui-tradicional": {
+    "url": "/images/recipes-v2/harira-marroqui-tradicional.webp",
+    "thumbnailUrl": "/images/recipes-v2/harira-marroqui-tradicional-480.webp",
+    "width": 1200,
+    "height": 900,
+    "thumbnailWidth": 480,
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "WorldBites original image",
+    "source": "https://worldbitesapp.com/images/recipes-v2/harira-marroqui-tradicional.webp",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites"
   }
 }
