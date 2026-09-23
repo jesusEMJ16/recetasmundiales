@@ -6195,5 +6195,135 @@
       "https://www.argentina.gob.ar/node/493708",
       "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
     ]
+  },
+  "r-pe-ceviche": {
+    "dishName": "Ceviche ikan Peru",
+    "summary": "Ikan putih yang sangat segar dimarinasi sebentar dengan jeruk nipis, ají limo, bawang merah, dan daun ketumbar, lalu disajikan dengan ubi jalar dan jagung.",
+    "history": "Ceviche adalah salah satu hidangan paling ikonik di Peru dan ditetapkan sebagai Warisan Budaya Nasional pada 2004. Latar belakangnya berkaitan dengan olahan ikan kuno di pesisir Peru, sedangkan bentuk modernnya mencerminkan pertukaran budaya selama berabad-abad, termasuk penggunaan jeruk dan bawang setelah kedatangan Spanyol serta perkembangan teknik marinasi berikutnya.",
+    "ingredients": [
+      "800 g fillet ikan putih yang sangat segar",
+      "Air perasan 12 jeruk nipis asam",
+      "1 bawang merah besar, iris tipis",
+      "2 cabai ají limo, buang biji dan cincang",
+      "20 g daun ketumbar cincang",
+      "2 ubi jalar sedang, matang",
+      "2 tongkol jagung, matang",
+      "1 sendok teh garam",
+      "Lada hitam secukupnya"
+    ],
+    "steps": [
+      "Potong 800 g ikan menjadi kubus seragam sekitar 2 cm dan jaga tetap sangat dingin.",
+      "Peras 12 jeruk nipis tanpa menekan kulit terlalu kuat agar tidak pahit.",
+      "Campur ikan dengan 2 ají limo, 20 g daun ketumbar, garam, dan lada.",
+      "Tambahkan air jeruk dan 1 bawang merah; aduk perlahan lalu marinasi 10 menit.",
+      "Sajikan segera dengan 2 ubi jalar matang dan 2 tongkol jagung."
+    ],
+    "tips": [
+      "Jangan marinasi lebih dari 20 menit: ikan harus tetap padat dan segar."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/ceviche-de-pescado-peruano.html",
+      "https://www.peru.travel/es/inspirate/descubre-el-origen-del-cebiche-uno-de-los-potajes-mas-trendys-y-aclamados"
+    ]
+  },
+  "r-pe-lomo-saltado": {
+    "dishName": "Lomo saltado Peru",
+    "summary": "Tumis wok khas Peru berisi daging sapi, bawang, tomat, dan ají kuning, diselesaikan dengan kecap asin dan cuka lalu disajikan bersama kentang goreng dan nasi.",
+    "history": "Lomo saltado berkembang di Lima pada akhir abad 19 sebagai bagian dari masakan chifa. Teknik tumis wok Kanton dipadukan dengan bahan dan lauk Peru, menghasilkan salah satu contoh paling terkenal dari perpaduan kuliner Peru dan Tiongkok.",
+    "ingredients": [
+      "800 g sirloin sapi, potong memanjang",
+      "2 tomat, potong menjadi beberapa bagian",
+      "1 bawang merah besar, potong tebal memanjang",
+      "1 ají kuning, potong memanjang",
+      "3 sendok makan kecap asin",
+      "2 sendok makan cuka anggur merah",
+      "1 sendok teh bawang putih cincang",
+      "500 g kentang untuk digoreng",
+      "300 g nasi putih matang",
+      "2 sendok makan daun ketumbar atau peterseli cincang",
+      "2 sendok makan minyak sayur",
+      "Garam, lada, dan jintan secukupnya"
+    ],
+    "steps": [
+      "Goreng 500 g kentang hingga keemasan dan renyah, sekitar 8-10 menit, lalu sisihkan.",
+      "Bumbui 800 g daging sapi dengan garam, lada, jintan, dan 1 sendok teh bawang putih.",
+      "Panaskan 2 sendok makan minyak dalam wok yang sangat panas lalu tumis cepat daging sapi.",
+      "Tambahkan 1 bawang, 2 tomat, dan 1 ají kuning; tumis 2 menit agar sayuran tetap renyah.",
+      "Tambahkan 3 sendok makan kecap asin dan 2 sendok makan cuka; aduk 1 menit lalu sajikan dengan 300 g nasi dan 500 g kentang goreng."
+    ],
+    "tips": [
+      "Gunakan wok yang sangat panas dan masak daging dalam 2 batch bila perlu agar kecokelatan, bukan berair."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/lomo-saltado.html",
+      "https://www.peru.travel/es/inspirate/del-peru-para-el-mundo-descubre-la-fascinante-historia-del-lomo-saltado"
+    ]
+  },
+  "r-pe-aji-gallina": {
+    "dishName": "Ají de gallina Peru",
+    "summary": "Ayam suwir dalam saus krim ají kuning dengan roti, susu, pecan, dan keju, disajikan di atas kentang.",
+    "history": "Ají de gallina merupakan bagian dari tradisi masakan criollo Lima. Hidangan ini menggabungkan dasar unggas suwir dan roti yang berpengaruh Hispanik dengan ají kuning Peru, menghasilkan saus krim yang kini lazim disajikan bersama kentang, nasi, telur, dan zaitun.",
+    "ingredients": [
+      "600 g dada ayam",
+      "1 lembar daun salam",
+      "1 bawang, cincang",
+      "3 siung bawang putih, cincang",
+      "120 g pasta ají kuning",
+      "200 g roti",
+      "500 ml susu",
+      "40 g pecan panggang, cincang",
+      "50 g keju Parmesan parut",
+      "4 kentang kuning matang",
+      "2 telur rebus",
+      "8 zaitun hitam",
+      "2 sendok makan minyak",
+      "Garam dan lada secukupnya"
+    ],
+    "steps": [
+      "Masak 600 g ayam dengan 1 lembar daun salam selama 20 menit; simpan kaldunya dan suwir daging.",
+      "Rendam 200 g roti dalam 250 ml dari 500 ml susu selama 10 menit, lalu blender.",
+      "Panaskan 2 sendok makan minyak, tumis 1 bawang dan 3 siung bawang putih, tambahkan 120 g ají kuning dan masak 5 menit.",
+      "Masukkan roti yang sudah diblender, ayam, dan 40 g pecan; masak perlahan 10 menit sambil menyesuaikan kekentalan dengan kaldu.",
+      "Tambahkan 50 g Parmesan dan sajikan di atas 4 kentang dengan 2 telur dan 8 zaitun."
+    ],
+    "tips": [
+      "Jika saus terlalu kental, tambahkan kaldu dalam porsi 50 ml sampai teksturnya lembut."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/aji-de-gallina.html",
+      "https://www.peru.travel/es/inspirate/8-comidas-tipicas-que-debes-probar-cuando-estes-en-peru"
+    ]
+  },
+  "r-pe-papa-huancaina": {
+    "dishName": "Papa a la huancaína",
+    "summary": "Kentang rebus disiram saus krim dari keju segar dan ají kuning, lalu disajikan dengan telur, zaitun, jagung, dan selada.",
+    "history": "Papa a la huancaína adalah salah satu hidangan pembuka Peru yang paling dikenal dan sangat terkait dengan Andes bagian tengah serta Huancayo di Junín. Hidangan ini memadukan kentang Andes dengan saus ají kuning, keju, dan susu, suatu kombinasi yang mencerminkan percampuran tradisi kuliner Peru.",
+    "ingredients": [
+      "1 kg kentang",
+      "200 g keju segar",
+      "3 ají kuning, buang urat dan biji",
+      "120 ml susu",
+      "60 ml minyak sayur",
+      "½ bawang",
+      "Air perasan ½ lemon",
+      "2 telur rebus",
+      "4 zaitun hitam",
+      "100 g biji jagung matang",
+      "Daun selada dan garam secukupnya"
+    ],
+    "steps": [
+      "Rebus 1 kg kentang selama 20-25 menit hingga empuk; kupas dan potong tebal.",
+      "Tumis ½ bawang dan 3 ají kuning selama 5 menit, lalu dinginkan sebentar.",
+      "Blender 200 g keju segar dengan 120 ml susu dan 60 ml minyak selama 2 menit, sambil memasukkan tumisan hingga halus.",
+      "Bumbui dengan air perasan ½ lemon dan garam, lalu sesuaikan kekentalan dengan sedikit susu bila perlu.",
+      "Tuang saus di atas kentang dan sajikan dengan 2 telur, 4 zaitun, 100 g jagung, dan selada."
+    ],
+    "tips": [
+      "Jika saus terlalu kental, tambahkan susu dalam porsi 15 ml setiap kali agar tidak menjadi encer."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
+      "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
+    ]
   }
 }
