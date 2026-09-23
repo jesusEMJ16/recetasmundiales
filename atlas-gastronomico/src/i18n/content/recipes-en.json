@@ -5845,5 +5845,127 @@
     "sources": [
       "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
     ]
+  },
+  "r-it-lasagne-bolognese": {
+    "dishName": "Green lasagne alla Bolognese",
+    "summary": "Layers of spinach-green pasta with Bolognese ragù, béchamel and Parmigiano Reggiano.",
+    "history": "Lasagne verdi are a specialty of Bologna and Emilia-Romagna. The reference recipe from the Italian Academy of Cuisine was deposited in 2003 with the Bologna Chamber of Commerce.",
+    "ingredients": [
+      "700 g 00 flour",
+      "3 eggs",
+      "350 g cooked spinach, well drained and chopped",
+      "1 kg Bolognese ragù",
+      "1 l whole milk",
+      "100 g 00 flour for the béchamel",
+      "100 g butter for the béchamel",
+      "400 g grated Parmigiano Reggiano",
+      "Nutmeg and salt to taste"
+    ],
+    "steps": [
+      "Mix 700 g flour with 3 eggs and 350 g spinach until you have a smooth green dough; knead, let it rest and roll it into thin sheets.",
+      "Make the béchamel with 100 g butter, 100 g flour and 1 l milk; season with salt and nutmeg.",
+      "Cut the pasta into rectangles, briefly cook them in salted water and transfer them to cold water before drying them on a cloth.",
+      "In a buttered baking dish alternate pasta, béchamel, 1 kg ragù and 400 g Parmigiano Reggiano, making at least 6 layers.",
+      "Bake at 180 °C for 25-30 minutes. Rest for 10 minutes before slicing and serving."
+    ],
+    "tips": [
+      "Keep the layers even and the béchamel fluid so the lasagne stays moist without losing structure."
+    ],
+    "sources": [
+      "https://www.bolognawelcome.com/it/altro/altro/lasagne-verdi-alla-bolognese"
+    ]
+  },
+  "r-it-trofie-pesto": {
+    "dishName": "Trofie with Genovese pesto",
+    "summary": "Short Ligurian pasta with basil pesto, pine nuts, aged cheeses and olive oil.",
+    "history": "Pesto Genovese is an emblematic preparation of Liguria. The Pesto Genovese Consortium recognizes a traditional formula of 7 ingredients, and trofie are one of the classic pastas served with it.",
+    "ingredients": [
+      "400 g trofie",
+      "50 g fresh basil leaves",
+      "30 g pine nuts",
+      "1 garlic clove",
+      "60 g grated Parmigiano Reggiano",
+      "20 g grated pecorino",
+      "100 ml extra-virgin olive oil",
+      "1 pinch coarse salt",
+      "150 g green beans cut into 3 cm pieces",
+      "250 g potato cut into 2 cm cubes"
+    ],
+    "steps": [
+      "Crush 1 garlic clove, 30 g pine nuts and 1 pinch salt. Add 50 g basil, then 60 g Parmigiano, 20 g pecorino and 100 ml oil.",
+      "Boil the potato for 5 minutes in salted water; add the green beans and cook for 5 more minutes.",
+      "Add 400 g trofie to the same pot and cook until al dente.",
+      "Reserve 100 ml cooking water, drain the pasta and vegetables, and toss them with the pesto off the heat.",
+      "Add the reserved water little by little until the sauce is creamy and coats the pasta, then serve immediately."
+    ],
+    "tips": [
+      "Do not heat the pesto directly; toss it off the heat to preserve the fresh aroma of the basil."
+    ],
+    "sources": [
+      "https://www.mangiareinliguria.it/pesto-genovese/ricetta-pesto-genovese",
+      "https://www.mangiareinliguria.it/ricette-tipiche-liguri/primi/trofiette-pesto-genovese"
+    ]
+  },
+  "r-it-arancini-ragu": {
+    "dishName": "Sicilian arancini with ragù",
+    "summary": "Golden, crisp rice balls filled with ragù, peas and cheese.",
+    "history": "Arancini, also called arancine depending on the area, are a specialty found throughout Sicily. The regional register of traditional products describes the classic rice version filled with meat sauce, peas and cheese.",
+    "ingredients": [
+      "500 g rice",
+      "1 l water",
+      "2 eggs",
+      "30 g butter",
+      "80 g grated caciocavallo",
+      "250 g meat ragù",
+      "100 g cooked peas",
+      "100 g tuma or mozzarella, diced",
+      "100 g wheat flour",
+      "2 eggs for breading",
+      "200 g breadcrumbs",
+      "1 l oil for frying"
+    ],
+    "steps": [
+      "Cook 500 g rice in 1 l salted water until it absorbs the liquid. Off the heat mix in 2 eggs, 30 g butter and 80 g caciocavallo; cool for 30 minutes.",
+      "Mix 250 g ragù with 100 g peas and prepare 100 g diced cheese for the filling.",
+      "Divide the rice into 12 portions, flatten each in your hand, place the filling in the center and close it into a compact ball.",
+      "Coat each piece in 100 g flour, then in 2 beaten eggs and finally in 200 g breadcrumbs.",
+      "Heat 1 l oil to 175 °C and fry the arancini in batches until golden; drain and serve hot."
+    ],
+    "tips": [
+      "Cool the rice completely before shaping so the pieces hold together better during frying."
+    ],
+    "sources": [
+      "https://www.regione.sicilia.it/sites/default/files/2023-06/Schede%20PAT%20Sicilia%202023.pdf",
+      "https://www.italia.it/it/sicilia/cosa-fare/prodotti-piatti-tipici-siciliani"
+    ]
+  },
+  "r-it-orecchiette-cime": {
+    "dishName": "Orecchiette with turnip tops",
+    "summary": "Fresh Apulian pasta with turnip tops, anchovies, garlic, chilli and olive oil.",
+    "history": "Orecchiette with cime di rapa are one of Apulia's signature dishes. Italia.it links the fresh pasta to the Bari area and highlights the contrast of turnip tops, anchovies and chilli.",
+    "ingredients": [
+      "300 g remilled durum-wheat semolina",
+      "150 g warm water",
+      "1 kg cime di rapa or turnip tops",
+      "1 garlic clove",
+      "1 chilli",
+      "4 anchovy fillets in oil",
+      "4 tablespoons extra-virgin olive oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Mix 300 g semolina with 150 g warm water and knead until the dough is firm and smooth.",
+      "Roll the dough into thin ropes, cut small pieces and drag them with a knife to create the characteristic hollow of orecchiette.",
+      "Clean 1 kg cime di rapa and boil them in salted water for 3 minutes; add the pasta and cook for 7 more minutes.",
+      "Meanwhile heat 4 tablespoons oil with 1 garlic clove and 1 chilli; add 4 anchovy fillets and let them dissolve gently.",
+      "Drain the pasta and greens, toss them with the aromatic oil and serve immediately."
+    ],
+    "tips": [
+      "Save a little cooking water to bind the oil to the pasta if the dish seems dry."
+    ],
+    "sources": [
+      "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
+      "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
+    ]
   }
 }
