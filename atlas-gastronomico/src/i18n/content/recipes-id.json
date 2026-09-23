@@ -5967,5 +5967,114 @@
       "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
       "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
     ]
+  },
+  "r-br-feijoada": {
+    "dishName": "Feijoada Brasil",
+    "summary": "Semur kacang hitam Brasil dengan daging babi dan sosis asap, disajikan bersama nasi, sayuran hijau, dan jeruk.",
+    "history": "Feijoada adalah salah satu hidangan Brasil yang paling dikenal dan memiliki variasi daerah. Di Rio de Janeiro, hidangan ini umum disajikan lengkap dengan kacang hitam, daging babi, nasi, sayuran hijau tumis, farofa, dan jeruk.",
+    "ingredients": [
+      "500 g kacang hitam kering",
+      "300 g iga babi, potong-potong",
+      "200 g carne seca yang sudah dikurangi garamnya, potong dadu",
+      "200 g paio atau sosis asap, iris",
+      "150 g bacon, potong dadu",
+      "1 bawang bombai besar cincang dan 4 siung bawang putih cincang",
+      "2 lembar daun salam",
+      "2 sendok makan minyak, garam dan lada hitam secukupnya"
+    ],
+    "steps": [
+      "Rendam 500 g kacang hitam dalam air selama 8 jam; tiriskan dan bilas.",
+      "Tumis 150 g bacon dalam panci besar; tambahkan 300 g iga, 200 g carne seca, dan 200 g paio lalu kecokelatan ringan.",
+      "Tambahkan 1 bawang bombai, 4 siung bawang putih, dan 2 daun salam; masak hingga harum.",
+      "Masukkan kacang, tutup dengan banyak air dan masak perlahan sekitar 180 menit sampai kacang lembut dan daging empuk.",
+      "Bumbui dengan garam dan lada hitam lalu sajikan bersama nasi, sayuran hijau, farofa, dan jeruk."
+    ],
+    "tips": [
+      "Jaga agar mendidih perlahan dan tambahkan air panas bila perlu supaya kacang tetap terendam."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/feijoada",
+      "https://www.visitbrasil.com/es/location/rio-de-janeiro-es/"
+    ]
+  },
+  "r-br-pao-queijo": {
+    "dishName": "Pão de queijo Minas Gerais",
+    "summary": "Roti keju kecil dari Minas Gerais, agak renyah di luar dan kenyal di dalam, dibuat dari pati singkong.",
+    "history": "Pão de queijo sangat terkait dengan Minas Gerais dan memadukan pati singkong dengan keju. Menyeduh pati dengan cairan panas sebelum menambahkan telur dan keju membantu menghasilkan bagian dalam yang kenyal dan kulit yang ringan.",
+    "ingredients": [
+      "250 g pati singkong asam",
+      "250 g pati singkong manis",
+      "250 ml susu",
+      "100 ml minyak",
+      "1 sendok teh garam",
+      "2 telur",
+      "250 g keju meia-cura atau keju matang parut"
+    ],
+    "steps": [
+      "Panaskan oven hingga 200 °C dan siapkan loyang.",
+      "Campur 250 g pati singkong asam, 250 g pati singkong manis, dan 1 sendok teh garam.",
+      "Didihkan 250 ml susu dengan 100 ml minyak lalu tuangkan ke pati; aduk dan dinginkan 10 menit.",
+      "Masukkan 2 telur dan 250 g keju hingga adonan lengket; bentuk menjadi 24 bola.",
+      "Panggang 25-30 menit sampai mengembang dan sedikit keemasan."
+    ],
+    "tips": [
+      "Biarkan campuran yang diseduh agak dingin sebelum menambahkan telur agar telur tidak matang."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/pao-de-queijo"
+    ]
+  },
+  "r-br-moqueca-baiana": {
+    "dishName": "Moqueca ikan Bahia",
+    "summary": "Semur ikan khas Bahia dengan santan, minyak dendê, tomat, paprika, dan daun ketumbar.",
+    "history": "Moqueca Bahia adalah hidangan khas negara bagian Bahia. Hidangan ini memadukan ikan atau makanan laut dengan minyak dendê dan santan serta mencerminkan percampuran pengaruh Pribumi, Afrika, dan Eropa dalam masakan Bahia.",
+    "ingredients": [
+      "800 g ikan putih berdaging padat, potong-potong",
+      "1 jeruk nipis dan 2 siung bawang putih",
+      "2 tomat, iris",
+      "1 bawang bombai, iris",
+      "1 paprika merah, iris",
+      "200 ml santan",
+      "2 sendok makan minyak dendê",
+      "1 sendok makan minyak zaitun",
+      "30 g daun ketumbar, garam dan cabai secukupnya"
+    ],
+    "steps": [
+      "Bumbui 800 g ikan dengan air dari 1 jeruk nipis, 2 siung bawang putih, dan garam; diamkan 20 menit.",
+      "Susun 2 tomat, 1 bawang bombai, dan 1 paprika merah berlapis dalam panci lebar; letakkan ikan di atasnya.",
+      "Tambahkan 200 ml santan, 2 sendok makan minyak dendê, dan 1 sendok makan minyak zaitun.",
+      "Tutup dan masak dengan api sedang-kecil selama 25 menit sambil menggoyang panci perlahan agar ikan tidak hancur.",
+      "Tambahkan 30 g daun ketumbar, sesuaikan garam dan cabai lalu masak 5 menit lagi sebelum disajikan."
+    ],
+    "tips": [
+      "Goyangkan panci perlahan daripada mengaduk dengan sendok agar potongan ikan tetap utuh."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/moqueca-de-peixe-baiana-revisitada",
+      "https://feel.visitbrasil.com/aula-de-culinaria-baiana/"
+    ]
+  },
+  "r-br-brigadeiro": {
+    "dishName": "Brigadeiro tradisional",
+    "summary": "Manisan Brasil dari susu kental manis dan kakao, dibentuk menjadi bola lalu dilapisi meses cokelat.",
+    "history": "Brigadeiro menjadi klasik di Brasil pada abad ke-20 dan kini umum hadir di pesta serta ulang tahun. Versi tradisional dimasak dalam panci sampai campuran susu kental dan kakao mengental serta lepas dari dasar panci.",
+    "ingredients": [
+      "395 g susu kental manis",
+      "30 g bubuk kakao",
+      "20 g mentega",
+      "100 g meses cokelat"
+    ],
+    "steps": [
+      "Campur 395 g susu kental manis, 30 g bubuk kakao, dan 20 g mentega dalam panci.",
+      "Masak dengan api kecil sambil terus diaduk selama 10-12 menit sampai mengental dan lepas dari dasar panci.",
+      "Pindahkan ke piring yang diolesi dan dinginkan 60 menit.",
+      "Bentuk menjadi 24 bola dan balut dengan 100 g meses cokelat."
+    ],
+    "tips": [
+      "Olesi tangan tipis-tipis dengan mentega agar adonan tidak lengket saat dibentuk."
+    ],
+    "sources": [
+      "https://panelinha.com.br/receita/brigadeiro"
+    ]
   }
 }
