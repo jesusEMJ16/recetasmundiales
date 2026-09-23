@@ -2845,5 +2845,57 @@
     "source": "https://commons.wikimedia.org/wiki/File:Papa_a_la_huancaina.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
     "provider": "Wikimedia Commons"
+  },
+  "pastel-de-choclo-chileno": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pastel_de_choclo_T%C3%ADpico_de_Chile.JPG/960px-Pastel_de_choclo_T%C3%ADpico_de_Chile.JPG",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pastel_de_choclo_T%C3%ADpico_de_Chile.JPG/330px-Pastel_de_choclo_T%C3%ADpico_de_Chile.JPG",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Gianinanicole",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pastel_de_choclo_T%C3%ADpico_de_Chile.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "empanadas-chilenas-de-pino": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Empanada_de_pino.jpg/960px-Empanada_de_pino.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Empanada_de_pino.jpg/330px-Empanada_de_pino.jpg",
+    "width": 960,
+    "height": 575,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 198,
+    "author": "J B",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Empanada_de_pino.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "cazuela-chilena-de-vacuno": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chilean_Cazuela.JPG",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chilean_Cazuela.JPG/330px-Chilean_Cazuela.JPG",
+    "width": 640,
+    "height": 480,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "G. Küppers (JordiCubero)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chilean_Cazuela.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "sopaipillas-chilenas": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sopaipillas_chilenas.jpg/960px-Sopaipillas_chilenas.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sopaipillas_chilenas.jpg/330px-Sopaipillas_chilenas.jpg",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Warko2006",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sopaipillas_chilenas.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "provider": "Wikimedia Commons"
   }
 }
