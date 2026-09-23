@@ -12886,7 +12886,7 @@
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lasagna_bolognese1.jpg/1200px-Lasagna_bolognese1.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lasagna_bolognese1.jpg/960px-Lasagna_bolognese1.jpg"
   },
   {
     "id": "r-it-trofie-pesto",
@@ -12956,7 +12956,7 @@
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Trofie_al_pesto.jpg/1200px-Trofie_al_pesto.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Trofie_al_pesto.jpg/960px-Trofie_al_pesto.jpg"
   },
   {
     "id": "r-it-arancini-ragu",
@@ -13031,7 +13031,7 @@
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Arancino_Siciliano_.jpg/1200px-Arancino_Siciliano_.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Arancino_Siciliano_.jpg/960px-Arancino_Siciliano_.jpg"
   },
   {
     "id": "r-it-orecchiette-cime",
@@ -13093,6 +13093,6 @@
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Orecchiette_con_cima_di_rapa.jpg/1200px-Orecchiette_con_cima_di_rapa.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Orecchiette_con_cima_di_rapa.jpg/960px-Orecchiette_con_cima_di_rapa.jpg"
   }
 ]
