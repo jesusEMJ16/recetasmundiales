@@ -199,15 +199,15 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
             className="aspect-[16/9] w-full object-cover"
             fallbackLabel={photoUi[locale].pending} />
         </div>
-        {credit && (
+        {credit && credit.provider !== "WorldBites" && (
           <figcaption className="text-right text-xs text-ink-faint">
-            {credit.generated ? photoUi[locale].generated : <>
+            <>
               {t.recipe.photoCredit}: {credit.author} · <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-terracota">{credit.license}</a> ·{" "}
               <a href={credit.source} target="_blank" rel="noopener noreferrer" className="underline hover:text-terracota">
                 {t.recipe.via} {credit.provider}
               </a>
               <span className="block mt-1">{photoUi[locale].transformed}</span>
-            </>}
+            </>
           </figcaption>
         )}
       </figure>

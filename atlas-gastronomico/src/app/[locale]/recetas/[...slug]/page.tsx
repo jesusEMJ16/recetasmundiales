@@ -16,6 +16,7 @@ import { RecipeList } from "../../../../components/RecipeList";
 import { SortControls } from "../../../../components/SortControls";
 import { FilterControls } from "../../../../components/FilterControls";
 import { StatesGrid } from "../../../../components/StatesGrid";
+import { WorldMap } from "../../../../components/WorldMap";
 import { isLocale, locales, localeMeta, localeDirection } from "../../../../i18n/config";
 import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
@@ -193,10 +194,7 @@ export default async function PlacePage({
           <h2 className="font-display text-xl text-ink">
             {place.type === "pais" ? t.place.exploreByState : t.place.exploreByPlace}
           </h2>
-          <StatesGrid
-            items={childItems}
-            searchLabel={place.type === "pais" ? t.place.searchState : t.place.searchPlace}
-          />
+          {place.type === "pais" ? <WorldMap initialCountryCode={place.countryCode} /> : <StatesGrid items={childItems} searchLabel={t.place.searchPlace} />}
         </section>
       )}
 
