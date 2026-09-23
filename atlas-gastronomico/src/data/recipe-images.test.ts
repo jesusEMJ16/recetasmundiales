@@ -21,9 +21,9 @@ describe("reviewed recipe photography", () => {
     expect(photographed.length).toBe(audit.photoCount);
     expect(pending.length).toBe(audit.pendingCount);
     expect(RECIPES.length).toBe(audit.totalRecipes);
-    expect(audit.photoCount).toBe(198);
+    expect(audit.photoCount).toBe(203);
     expect(audit.pendingCount).toBe(0);
-    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(19);
+    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(24);
   });
   it("ships actual local WebP bytes for both sizes without external image requests", () => {
     for (const photo of Object.values(RECIPE_IMAGES)) {

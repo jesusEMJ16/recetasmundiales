@@ -5710,5 +5710,140 @@
       "Portugal traditional cuisine",
       "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
     ]
+  },
+  "r-fr-boeuf-bourguignon": {
+    "dishName": "Boeuf bourguignon",
+    "summary": "Semur daging sapi khas Bourgogne dengan anggur merah, jamur, wortel, dan bawang bombai kecil.",
+    "history": "Hidangan ini berkaitan erat dengan tradisi Bourgogne memasak daging dalam anggur. Versi rumahan ini memakai potongan daging sapi untuk menghasilkan saus yang kaya rasa.",
+    "ingredients": [
+      "800 g daging bahu sapi potong dadu",
+      "500 ml anggur merah kering",
+      "250 ml kaldu sapi",
+      "150 g bacon asap potong dadu",
+      "250 g jamur",
+      "12 bawang bombai kecil kupas",
+      "2 wortel dan 2 siung bawang putih",
+      "2 sendok makan tepung terigu",
+      "1 sendok makan minyak, 1 lembar daun salam, garam dan merica"
+    ],
+    "steps": [
+      "Keringkan daging sapi lalu cokelatkan bertahap dengan minyak dalam panci tebal; sisihkan.",
+      "Tumis bacon, bawang kecil, dan wortel hingga kecokelatan. Tambahkan bawang putih dan tepung, lalu aduk rata.",
+      "Tuangkan anggur dan kaldu sambil mengerik dasar panci. Masukkan kembali daging serta daun salam; tutup dan masak perlahan hingga empuk.",
+      "Tumis jamur terpisah, campurkan ke semur, dan biarkan saus mengental perlahan.",
+      "Angkat daun salam, bumbui dengan garam dan merica, lalu sajikan panas."
+    ],
+    "tips": [
+      "Pertahankan api kecil; didihan kuat dapat membuat daging kurang empuk."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/recette-boeuf-bourguignon/"
+    ]
+  },
+  "r-fr-soupe-oignon": {
+    "dishName": "Sup bawang Prancis gratin",
+    "summary": "Sup Prancis dari bawang karamel dengan kaldu, roti panggang, dan keju leleh.",
+    "history": "Sup bawang panggang ini terkait dengan masakan Paris. Rasa mendalamnya berasal dari bawang yang dicokelatkan perlahan sebelum diberi roti dan keju.",
+    "ingredients": [
+      "800 g bawang bombai iris tipis",
+      "50 g mentega",
+      "1 liter kaldu sapi",
+      "100 ml anggur putih kering",
+      "2 siung bawang putih",
+      "8 potong baguette panggang",
+      "120 g keju Gruyère parut",
+      "1 lembar daun salam, garam dan merica"
+    ],
+    "steps": [
+      "Lelehkan mentega, masak bawang dengan api kecil sambil diaduk hingga cokelat keemasan dan manis.",
+      "Tambahkan bawang putih dan anggur; kerik bagian kecokelatan di dasar panci.",
+      "Tuangkan kaldu dan masukkan daun salam. Didihkan perlahan, lalu bumbui dengan garam dan merica.",
+      "Tuang sup ke mangkuk tahan oven, letakkan roti panggang di atasnya, lalu taburi keju.",
+      "Panggang dengan panas atas hingga keju bergelembung dan kecokelatan; hati-hati saat menyajikan mangkuk yang sangat panas."
+    ],
+    "tips": [
+      "Jangan terburu-buru memasak bawang; pencokelatan perlahan membangun rasa sup."
+    ],
+    "sources": [
+      "https://www.france.fr/en/article/try-a-french-classic-onion-soup/"
+    ]
+  },
+  "r-fr-quiche-lorraine": {
+    "dishName": "Quiche Lorraine",
+    "summary": "Pai gurih khas Lorraine berisi bacon asap dan adonan telur krim dalam kulit pastry renyah.",
+    "history": "Quiche Lorraine adalah hidangan khas Lorraine. Isian tradisionalnya memadukan bacon asap, telur, dan krim dalam kulit pastry tanpa perlu keju.",
+    "ingredients": [
+      "1 lembar kulit pai untuk loyang 24 cm",
+      "200 g bacon asap potong dadu",
+      "2 telur utuh dan 2 kuning telur",
+      "350 ml krim kental",
+      "1 sejumput pala",
+      "1 sejumput merica hitam",
+      "1 sendok teh mentega untuk loyang"
+    ],
+    "steps": [
+      "Panaskan oven hingga 180 °C. Oles loyang dengan mentega, pasang kulit pai, lalu tusuk dasarnya dengan garpu.",
+      "Tumis bacon sebentar hingga kecokelatan dan tiriskan lemaknya.",
+      "Kocok telur utuh, kuning telur, dan krim bersama pala serta merica.",
+      "Sebarkan bacon di atas kulit pai, tuangkan campuran telur, lalu panggang hingga tengahnya set dan atasnya keemasan.",
+      "Diamkan quiche sebelum diiris dan sajikan hangat."
+    ],
+    "tips": [
+      "Cicipi sebelum menambahkan garam; bacon biasanya sudah cukup asin."
+    ],
+    "sources": [
+      "https://www.france.fr/es/articulo/receta-de-la-quiche-lorraine-clasica-y-muy-facil/"
+    ]
+  },
+  "r-fr-tarte-tatin": {
+    "dishName": "Tarte Tatin",
+    "summary": "Tart Prancis terbalik dengan apel karamel di atas dasar pastry berlapis yang renyah.",
+    "history": "Tarte Tatin berhubungan dengan Lamotte-Beuvron di Lembah Loire. Kisah penemuannya secara tidak sengaja terkenal, tetapi rincian sejarahnya belum pasti.",
+    "ingredients": [
+      "800 g apel keras, kupas dan potong empat",
+      "1 lembar puff pastry mentega, 250 g",
+      "120 g gula",
+      "80 g mentega tawar",
+      "1 sendok makan air jeruk lemon",
+      "1 sejumput garam"
+    ],
+    "steps": [
+      "Panaskan oven hingga 190 °C. Masak gula dan mentega dalam wajan tahan oven hingga menjadi karamel kuning kecokelatan.",
+      "Tambahkan apel dan lemon, susun rapat, lalu masak hingga mulai lunak.",
+      "Tutupi apel dengan pastry dan selipkan pinggirannya ke dalam wajan.",
+      "Panggang hingga pastry keemasan dan matang. Dinginkan sebentar sebelum dibalik.",
+      "Taruh piring besar di atas wajan, balik dengan hati-hati, lalu sajikan hangat."
+    ],
+    "tips": [
+      "Gunakan wajan tahan oven dan lindungi tangan saat membalik karamel panas."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/tarte-tatin-recette/"
+    ]
+  },
+  "r-fr-creme-brulee": {
+    "dishName": "Crème brûlée vanila",
+    "summary": "Custard vanila panggang khas Prancis dengan lapisan gula karamel tipis dan renyah.",
+    "history": "Crème brûlée muncul dalam buku masak Prancis awal, meski asal pastinya diperdebatkan dan hidangan ini mirip crema catalana. Kontras custard dingin dan kerak karamel segar menjadi cirinya.",
+    "ingredients": [
+      "500 ml krim kental",
+      "5 kuning telur",
+      "80 g gula untuk custard",
+      "40 g gula untuk karamel",
+      "1 polong vanila"
+    ],
+    "steps": [
+      "Panaskan oven hingga 150 °C. Belah polong vanila dan hangatkan krim bersama bijinya tanpa mendidih.",
+      "Kocok kuning telur dengan gula untuk custard; tuangkan krim hangat perlahan tanpa membuat busa.",
+      "Saring ke dalam ramekin. Taruh dalam loyang berisi air panas hingga mencapai separuh tinggi ramekin.",
+      "Panggang hingga tepinya set dan tengahnya sedikit bergoyang. Dinginkan lalu simpan dalam lemari es sampai benar-benar dingin.",
+      "Sesaat sebelum disajikan, taburkan sisa gula dan karamelkan dengan torch hingga terbentuk kerak tipis renyah."
+    ],
+    "tips": [
+      "Karamelkan gula tepat sebelum disajikan agar kerak tetap renyah."
+    ],
+    "sources": [
+      "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
+    ]
   }
 }

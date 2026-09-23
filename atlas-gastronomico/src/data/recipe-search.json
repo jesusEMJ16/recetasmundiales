@@ -3562,5 +3562,95 @@
       "id": "Pastéis de nata",
       "ja": "パステイス・デ・ナタ"
     }
+  },
+  {
+    "id": "r-fr-boeuf-bourguignon",
+    "slug": "boeuf-bourguignon",
+    "names": {
+      "es": "Boeuf bourguignon",
+      "en": "Beef bourguignon",
+      "fr": "Bœuf bourguignon",
+      "zh": "红酒炖牛肉",
+      "hi": "बोफ़ बुरगुइन्यों",
+      "ar": "بوف بورغينيون",
+      "bn": "বুফ বুরগিনিয়ঁ",
+      "pt": "Boeuf bourguignon",
+      "ru": "Говядина по-бургундски",
+      "ur": "بوف بورگینیون",
+      "id": "Boeuf bourguignon",
+      "ja": "牛肉のブルゴーニュ風赤ワイン煮"
+    }
+  },
+  {
+    "id": "r-fr-soupe-oignon",
+    "slug": "soupe-a-loignon-gratinee",
+    "names": {
+      "es": "Sopa de cebolla gratinada",
+      "en": "French onion soup gratinée",
+      "fr": "Soupe à l'oignon gratinée",
+      "zh": "法式焗洋葱汤",
+      "hi": "फ़्रांसीसी ग्रैटिनेटेड प्याज़ सूप",
+      "ar": "حساء البصل الفرنسي بالجبن",
+      "bn": "ফরাসি পেঁয়াজের গ্রাটিন স্যুপ",
+      "pt": "Sopa de cebola gratinada",
+      "ru": "Французский луковый суп с сырной корочкой",
+      "ur": "فرانسیسی پیاز کا چیز والا سوپ",
+      "id": "Sup bawang Prancis gratin",
+      "ja": "フランス風オニオングラタンスープ"
+    }
+  },
+  {
+    "id": "r-fr-quiche-lorraine",
+    "slug": "quiche-lorraine",
+    "names": {
+      "es": "Quiche lorraine",
+      "en": "Quiche Lorraine",
+      "fr": "Quiche lorraine",
+      "zh": "洛林咸派",
+      "hi": "कीश लोरेन",
+      "ar": "كيش لورين",
+      "bn": "কিশ লোরেন",
+      "pt": "Quiche lorraine",
+      "ru": "Киш лорен",
+      "ur": "کیش لورین",
+      "id": "Quiche Lorraine",
+      "ja": "キッシュ・ロレーヌ"
+    }
+  },
+  {
+    "id": "r-fr-tarte-tatin",
+    "slug": "tarte-tatin",
+    "names": {
+      "es": "Tarte Tatin",
+      "en": "Tarte Tatin",
+      "fr": "Tarte Tatin",
+      "zh": "法式焦糖苹果翻转挞",
+      "hi": "टार्ट टाटिन",
+      "ar": "تارت تاتان",
+      "bn": "তার্ত তাতাঁ",
+      "pt": "Tarte Tatin",
+      "ru": "Тарт Татен",
+      "ur": "تارت تاتاں",
+      "id": "Tarte Tatin",
+      "ja": "タルト・タタン"
+    }
+  },
+  {
+    "id": "r-fr-creme-brulee",
+    "slug": "creme-brulee",
+    "names": {
+      "es": "Crème brûlée de vainilla",
+      "en": "Vanilla crème brûlée",
+      "fr": "Crème brûlée à la vanille",
+      "zh": "香草焦糖布蕾",
+      "hi": "वनीला क्रेम ब्रुले",
+      "ar": "كريم بروليه بالفانيليا",
+      "bn": "ভ্যানিলা ক্রেম ব্রুলে",
+      "pt": "Crème brûlée de baunilha",
+      "ru": "Ванильный крем-брюле",
+      "ur": "ونیلا کریم برولے",
+      "id": "Crème brûlée vanila",
+      "ja": "バニラのクレームブリュレ"
+    }
   }
 ]
