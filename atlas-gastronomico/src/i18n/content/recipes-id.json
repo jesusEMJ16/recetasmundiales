@@ -6579,5 +6579,109 @@
       "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
       "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
     ]
+  },
+  "r-ma-tajin-pollo": {
+    "dishName": "Tagine ayam Maroko dengan lemon awetan dan zaitun",
+    "summary": "Ayam dimasak perlahan dengan lemon awetan, zaitun hijau, bawang, herba, dan rempah aromatik dalam tagine Maroko.",
+    "history": "Tagine adalah nama wadah tanah liat sekaligus teknik memasak perlahan yang sangat terkait dengan masakan Maroko. Ayam dengan lemon awetan dan zaitun adalah salah satu variasinya yang paling dikenal, memadukan rasa asin, sitrus, dan rempah.",
+    "ingredients": [
+      "1,2 kg paha dan drumstick ayam",
+      "2 lemon awetan, potong empat",
+      "150 g zaitun hijau",
+      "2 bawang bombai, iris tipis",
+      "3 siung bawang putih, cincang",
+      "30 g daun ketumbar segar, cincang",
+      "20 g peterseli segar, cincang",
+      "2 sdm minyak zaitun",
+      "1 sdt jahe bubuk",
+      "1 sdt kunyit bubuk",
+      "½ sdt lada hitam",
+      "250 ml air atau kaldu ayam"
+    ],
+    "steps": [
+      "Campur ayam dengan bawang putih, ketumbar, peterseli, jahe, kunyit, lada, dan minyak; diamkan 15 menit.",
+      "Susun bawang di dasar tagine atau panci berat, masukkan ayam dan kecokelatan perlahan selama 8-10 menit.",
+      "Tambahkan 250 ml air atau kaldu, tutup dan masak dengan api kecil 40 menit, balik ayam sekali.",
+      "Masukkan lemon awetan dan 150 g zaitun; masak tanpa tutup 10-15 menit lagi hingga saus mengental.",
+      "Cicipi sebelum menambah garam, diamkan 5 menit lalu sajikan dengan saus, zaitun, dan lemon."
+    ],
+    "tips": [
+      "Tambahkan garam hanya di akhir karena lemon awetan dan zaitun sudah cukup asin."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ]
+  },
+  "r-ma-cuscus-siete-verduras": {
+    "dishName": "Kuskus Maroko dengan tujuh sayuran",
+    "summary": "Kuskus lembut dengan kacang arab dan tujuh sayuran yang dimasak dalam kaldu berbumbu, disajikan sebagai hidangan besar untuk dinikmati bersama.",
+    "history": "Kuskus merupakan bagian penting dari tradisi kuliner Maghrib dan di Maroko sangat terkait dengan makan bersama keluarga serta hari Jumat. Pada 2020, pengetahuan dan praktik produksi serta konsumsi kuskus yang dibagikan Maroko, Aljazair, Mauritania, dan Tunisia diakui UNESCO sebagai warisan budaya takbenda.",
+    "ingredients": [
+      "400 g kuskus",
+      "240 g kacang arab matang",
+      "2 wortel, potong besar",
+      "2 zucchini, potong besar",
+      "300 g labu, potong-potong",
+      "¼ kubis, potong irisan besar",
+      "2 lobak, kupas dan potong",
+      "1 bawang bombai, cincang",
+      "2 tomat matang, parut",
+      "1,2 l kaldu sayuran",
+      "2 sdm minyak zaitun",
+      "1 sdt kunyit bubuk",
+      "1 sdt jahe bubuk",
+      "Garam dan lada secukupnya"
+    ],
+    "steps": [
+      "Panaskan minyak dan tumis bawang 5 menit; tambahkan tomat, kunyit, dan jahe lalu masak 3 menit.",
+      "Tuang kaldu, masukkan wortel, lobak, dan kubis; masak 20 menit.",
+      "Tambahkan labu, zucchini, dan kacang arab; masak 15-20 menit lagi hingga sayuran empuk tetapi tidak hancur.",
+      "Siapkan 400 g kuskus sesuai petunjuk kemasan lalu aduk dengan garpu agar butirannya terpisah.",
+      "Susun kuskus sebagai dasar, tata tujuh sayuran dan kacang arab di atasnya lalu siram sedikit kaldu berbumbu."
+    ],
+    "tips": [
+      "Masukkan sayuran yang keras lebih dulu dan tambahkan zucchini serta labu belakangan agar bentuknya tetap bagus."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy",
+      "https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602"
+    ]
+  },
+  "r-ma-harira": {
+    "dishName": "Harira tradisional Maroko",
+    "summary": "Sup Maroko berbahan tomat, kacang arab, lentil, herba, daging, dan bihun halus yang kental dan menghangatkan.",
+    "history": "Harira adalah sup khas Maroko yang dibuat dari kacang-kacangan, tomat, herba, dan sering kali daging serta mi halus. Hidangan ini sangat berkaitan dengan Ramadan dan lazim disajikan untuk berbuka puasa bersama kurma, lemon, dan kue tradisional.",
+    "ingredients": [
+      "250 g daging sapi atau domba, potong dadu kecil",
+      "200 g kacang arab matang",
+      "120 g lentil",
+      "500 g tomat hancur",
+      "1 bawang bombai, cincang",
+      "2 batang seledri, cincang",
+      "20 g daun ketumbar segar, cincang",
+      "20 g peterseli segar, cincang",
+      "60 g bihun halus",
+      "30 g tepung terigu",
+      "1,5 l air atau kaldu",
+      "1 sdt jahe bubuk",
+      "½ sdt kunyit bubuk",
+      "Garam dan lada secukupnya"
+    ],
+    "steps": [
+      "Kecokelatan daging bersama bawang dan seledri selama 6-8 menit; tambahkan jahe, kunyit, ketumbar, dan peterseli.",
+      "Masukkan tomat, lentil, dan 1,5 l air atau kaldu; tutup dan masak dengan api sedang-kecil selama 45 menit.",
+      "Tambahkan kacang arab dan bihun lalu masak 10 menit lagi.",
+      "Campur 30 g tepung dengan 120 ml air dingin sampai halus; tuang perlahan sambil terus diaduk.",
+      "Masak 8-10 menit hingga sedikit mengental, koreksi garam dan lada, lalu sajikan panas dengan lemon jika suka."
+    ],
+    "tips": [
+      "Tuang campuran tepung sedikit demi sedikit sambil terus mengaduk agar harira mengental tanpa menggumpal."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ]
   }
 }
