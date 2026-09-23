@@ -15,7 +15,7 @@ const file = (url: string) => readFileSync(resolve(process.cwd(), "public", url.
 describe("reviewed recipe photography", () => {
   it("accounts for every recipe without disguising pending photographs as completed", () => {
     const photographed = Object.keys(RECIPE_IMAGES);
-    const pending = audit.pending.map(p => p.slug);
+    const pending = (audit.pending as Array<{ slug: string }>).map(p => p.slug);
     expect(new Set([...photographed, ...pending]).size).toBe(photographed.length + pending.length);
     expect([...photographed, ...pending].sort()).toEqual(RECIPES.map(r => r.slug).sort());
     expect(photographed.length).toBe(audit.photoCount);
