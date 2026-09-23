@@ -1,17 +1,17 @@
 {
   "date": "2026-09-23",
   "baseCommit": "78ed87a650ad28237adebc7cf6ed3ee4a1467280",
-  "totalRecipes": 227,
-  "photoCount": 227,
+  "totalRecipes": 230,
+  "photoCount": 230,
   "pendingCount": 0,
   "counts": {
     "added": 44,
     "replaced": 31,
     "retained-optimized": 127,
-    "original": 25
+    "original": 28
   },
   "runtimeExternalImages": 23,
-  "notes": "All 227 recipes have reviewed imagery. 204 recipes ship local assets; 23 recent recipes use attributed Wikimedia Commons photographs with responsive source URLs.",
+  "notes": "All 230 recipes have reviewed imagery. 207 recipes ship local assets; 23 recent recipes use attributed Wikimedia Commons photographs with responsive source URLs. Morocco adds three local WorldBites originals plus a dedicated country cover.",
   "photos": [
     {
       "slug": "tlayudas-oaxaquenas",
@@ -3712,6 +3712,54 @@
       "webpSha256": null,
       "webpBytes": null,
       "thumbnailBytes": null,
+      "crop": null
+    },
+    {
+      "slug": "tajin-marroqui-pollo-limon-aceitunas",
+      "dishName": "Tajín marroquí de pollo con limón y aceitunas",
+      "status": "original",
+      "title": "WorldBites original image: Tajín marroquí de pollo con limón y aceitunas",
+      "source": "https://worldbitesapp.com/images/recipes-v2/tajin-marroqui-pollo-limon-aceitunas.webp",
+      "author": "WorldBites",
+      "license": "WorldBites original image",
+      "licenseUrl": "https://worldbitesapp.com",
+      "sourceImage": "/images/recipes-v2/tajin-marroqui-pollo-limon-aceitunas.webp",
+      "sourceSha256": "4830635abc8ff3846d4a20aeb5dffd189b22a23329c764c0cc00af1f625b6015",
+      "webpSha256": "4830635abc8ff3846d4a20aeb5dffd189b22a23329c764c0cc00af1f625b6015",
+      "webpBytes": 164694,
+      "thumbnailBytes": 37830,
+      "crop": null
+    },
+    {
+      "slug": "cuscus-marroqui-siete-verduras",
+      "dishName": "Cuscús marroquí con siete verduras",
+      "status": "original",
+      "title": "WorldBites original image: Cuscús marroquí con siete verduras",
+      "source": "https://worldbitesapp.com/images/recipes-v2/cuscus-marroqui-siete-verduras.webp",
+      "author": "WorldBites",
+      "license": "WorldBites original image",
+      "licenseUrl": "https://worldbitesapp.com",
+      "sourceImage": "/images/recipes-v2/cuscus-marroqui-siete-verduras.webp",
+      "sourceSha256": "d4848a38952936489b890abee3279a59f95cdd41bc9a68153efa30708b70d87a",
+      "webpSha256": "d4848a38952936489b890abee3279a59f95cdd41bc9a68153efa30708b70d87a",
+      "webpBytes": 183150,
+      "thumbnailBytes": 41316,
+      "crop": null
+    },
+    {
+      "slug": "harira-marroqui-tradicional",
+      "dishName": "Harira marroquí tradicional",
+      "status": "original",
+      "title": "WorldBites original image: Harira marroquí tradicional",
+      "source": "https://worldbitesapp.com/images/recipes-v2/harira-marroqui-tradicional.webp",
+      "author": "WorldBites",
+      "license": "WorldBites original image",
+      "licenseUrl": "https://worldbitesapp.com",
+      "sourceImage": "/images/recipes-v2/harira-marroqui-tradicional.webp",
+      "sourceSha256": "6773a859f17a62d5ec78cef3c5b1f01ba5fc3bbf57b9099a50bb0a0b3ff4465c",
+      "webpSha256": "6773a859f17a62d5ec78cef3c5b1f01ba5fc3bbf57b9099a50bb0a0b3ff4465c",
+      "webpBytes": 156544,
+      "thumbnailBytes": 40896,
       "crop": null
     }
   ],
