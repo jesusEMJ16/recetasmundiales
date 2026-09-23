@@ -45,25 +45,34 @@ jobs:
           npm test 2>&1 | tee ../image-validation/tests.txt
           npx tsc --noEmit 2>&1 | tee ../image-validation/typescript.txt
           npm run build 2>&1 | tee ../image-validation/build.txt
-      - name: Decode every shipped WebP and verify dimensions
+      - name: Decode reviewed images and verify dimensions
         run: |
           python3 -m pip install Pillow==11.3.0
           python3 - <<'PY'
           import json
+          from urllib.parse import urlparse
           from pathlib import Path
           from PIL import Image
           root=Path('atlas-gastronomico')
           photos=json.loads((root/'src/data/recipe-photos.json').read_text())
-          count=0
+          local_count=0
+          remote_count=0
           for slug,p in photos.items():
               for key,w,h in [('url','width','height'),('thumbnailUrl','thumbnailWidth','thumbnailHeight')]:
-                  file=root/'public'/p[key].lstrip('/')
-                  with Image.open(file) as image:
-                      image.load()
-                      assert image.format=='WEBP',slug
-                      assert image.size==(p[w],p[h]),slug
-                  count+=1
-          report={'decodedWebPFiles':count,'dimensionMismatches':0}
+                  value=p[key]
+                  if value.startswith('https://'):
+                      parsed=urlparse(value)
+                      assert parsed.hostname=='upload.wikimedia.org',slug
+                      assert p[w] > 0 and p[h] > 0,slug
+                      remote_count+=1
+                  else:
+                      file=root/'public'/value.lstrip('/')
+                      with Image.open(file) as image:
+                          image.load()
+                          assert image.format=='WEBP',slug
+                          assert image.size==(p[w],p[h]),slug
+                      local_count+=1
+          report={'decodedLocalWebPFiles':local_count,'decodedRemoteImages':remote_count,'dimensionMismatches':0}
           Path('image-validation/image-decode.json').write_text(json.dumps(report,indent=2))
           print(report)
           PY

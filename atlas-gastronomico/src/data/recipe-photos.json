@@ -2637,5 +2637,57 @@
     "source": "https://worldbitesapp.com/images/recipes-v2/creme-brulee.webp",
     "licenseUrl": "https://worldbitesapp.com",
     "provider": "WorldBites"
+  },
+  "lasagne-verdi-alla-bolognese": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lasagna_bolognese1.jpg/960px-Lasagna_bolognese1.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lasagna_bolognese1.jpg/330px-Lasagna_bolognese1.jpg",
+    "width": 960,
+    "height": 640,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 220,
+    "author": "Schellenberg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lasagna_bolognese1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "trofie-al-pesto-genovese": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Trofie_al_pesto.jpg/960px-Trofie_al_pesto.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Trofie_al_pesto.jpg/330px-Trofie_al_pesto.jpg",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Eluinie",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trofie_al_pesto.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "arancini-siciliani-al-ragu": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Arancino_Siciliano_.jpg/960px-Arancino_Siciliano_.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Arancino_Siciliano_.jpg/330px-Arancino_Siciliano_.jpg",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Enzo Rippa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arancino_Siciliano_.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
+  },
+  "orecchiette-con-cime-di-rapa": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Orecchiette_con_cima_di_rapa.jpg/960px-Orecchiette_con_cima_di_rapa.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Orecchiette_con_cima_di_rapa.jpg/330px-Orecchiette_con_cima_di_rapa.jpg",
+    "width": 960,
+    "height": 720,
+    "thumbnailWidth": 330,
+    "thumbnailHeight": 248,
+    "author": "Bonniebartilomo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Orecchiette_con_cima_di_rapa.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons"
   }
 }

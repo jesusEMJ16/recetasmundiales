@@ -1,4 +1,4 @@
-// Read-only browser smoke test against a production build. No external services.
+// Read-only browser smoke test against a production build and explicitly reviewed image origins.
 const fs = require('node:fs');
 const path = require('node:path');
 const assert = require('node:assert/strict');
@@ -24,12 +24,12 @@ async function loaded(locator) {
 (async () => {
   const result = { assetRequests: 0, desktop: {}, mobile: {}, arabic: {}, pending: {}, localImageErrors: [] };
   const api = await request.newContext({ baseURL: base });
-  const urls = [...new Set(Object.values(photos).flatMap(p => [p.url, p.thumbnailUrl]))];
+  const urls = [...new Set(Object.values(photos).flatMap(p => [p.url, p.thumbnailUrl]).filter(url => url.startsWith('/')))];
   for (let i = 0; i < urls.length; i += 12) {
     await Promise.all(urls.slice(i, i + 12).map(async url => {
       const response = await api.get(url);
       assert.equal(response.status(), 200, url);
-      assert.match(response.headers()['content-type'], /^image\/webp/, url);
+      assert.match(response.headers()['content-type'], /^image\/(webp|jpeg)/, url);
       assert.ok((await response.body()).length > 100, url);
       result.assetRequests++;
       await response.dispose();
@@ -39,7 +39,12 @@ async function loaded(locator) {
   const browser = await chromium.launch({ headless: true });
   try {
     const context = await browser.newContext({ viewport: { width: 1440, height: 1000 }, reducedMotion: 'reduce' });
-    await context.route('**/*', route => new URL(route.request().url()).origin === new URL(base).origin ? route.continue() : route.abort());
+    const allowedOrigins = new Set([
+      new URL(base).origin,
+      ...Object.values(photos).flatMap(photo => [photo.url, photo.thumbnailUrl])
+        .filter(url => /^https:\/\//.test(url)).map(url => new URL(url).origin),
+    ]);
+    await context.route('**/*', route => allowedOrigins.has(new URL(route.request().url()).origin) ? route.continue() : route.abort());
     const page = await context.newPage();
     page.on('response', response => {
       if (response.url().startsWith(base + '/images/') && response.status() >= 400) result.localImageErrors.push(response.url());
@@ -63,6 +68,18 @@ async function loaded(locator) {
     for (let i = 0; i < await cards.locator('img').count(); i++) await loaded(cards.locator('img').nth(i));
     await page.screenshot({ path: path.join(out, 'france-recipes-desktop.png'), fullPage: true, animations: 'disabled' });
     result.desktop.franceRecipeCards = await cards.count();
+    await page.goto(base + '/es', { waitUntil: 'networkidle' });
+    const italy = page.locator('.destination-card').filter({ has: page.locator('.country-code', { hasText: /^IT$/ }) });
+    const italyPath = await italy.getAttribute('href');
+    assert.ok(italyPath && italyPath.startsWith('/es/'));
+    await page.goto(base + italyPath, { waitUntil: 'networkidle' });
+    const italyCards = page.locator('.recipe-card');
+    assert.equal(await italyCards.count(), recipes.filter(r => /^it(?:$|[-:])/.test(r.placeId)).length);
+    for (const slug of ['lasagne-verdi-alla-bolognese', 'trofie-al-pesto-genovese', 'arancini-siciliani-al-ragu', 'orecchiette-con-cime-di-rapa']) {
+      assert.equal(await page.locator(`a.recipe-card[href="/es/receta/${slug}"]`).count(), 1);
+    }
+    for (let i = 0; i < await italyCards.locator('img').count(); i++) await loaded(italyCards.locator('img').nth(i));
+    result.desktop.italyRecipeCards = await italyCards.count();
     await page.goto(base + '/es/receta/coq-au-vin', { waitUntil: 'networkidle' });
     const hero = page.locator('figure').first().locator('img');
     await loaded(hero);

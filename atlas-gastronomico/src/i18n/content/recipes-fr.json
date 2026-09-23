@@ -5845,5 +5845,127 @@
     "sources": [
       "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
     ]
+  },
+  "r-it-lasagne-bolognese": {
+    "dishName": "Lasagnes vertes à la bolognaise",
+    "summary": "Des couches de pâte verte aux épinards, ragù bolognais, béchamel et Parmigiano Reggiano.",
+    "history": "Les lasagne verdi sont une spécialité de Bologne et d'Émilie-Romagne. La recette de référence de l'Académie italienne de la cuisine a été déposée en 2003 auprès de la Chambre de commerce de Bologne.",
+    "ingredients": [
+      "700 g de farine 00",
+      "3 œufs",
+      "350 g d'épinards cuits, bien égouttés et hachés",
+      "1 kg de ragù bolognais",
+      "1 l de lait entier",
+      "100 g de farine 00 pour la béchamel",
+      "100 g de beurre pour la béchamel",
+      "400 g de Parmigiano Reggiano râpé",
+      "Noix de muscade et sel à volonté"
+    ],
+    "steps": [
+      "Mélangez 700 g de farine avec 3 œufs et 350 g d'épinards jusqu'à obtenir une pâte verte lisse ; pétrissez, laissez reposer puis étalez-la en fines feuilles.",
+      "Préparez la béchamel avec 100 g de beurre, 100 g de farine et 1 l de lait ; assaisonnez de sel et de noix de muscade.",
+      "Découpez la pâte en rectangles, cuisez-les brièvement dans l'eau salée puis plongez-les dans l'eau froide avant de les sécher sur un linge.",
+      "Dans un plat beurré, alternez pâte, béchamel, 1 kg de ragù et 400 g de Parmigiano Reggiano pour former au moins 6 couches.",
+      "Faites cuire à 180 °C pendant 25-30 minutes. Laissez reposer 10 minutes avant de découper et servir."
+    ],
+    "tips": [
+      "Gardez des couches régulières et une béchamel fluide afin que les lasagnes restent moelleuses tout en gardant leur tenue."
+    ],
+    "sources": [
+      "https://www.bolognawelcome.com/it/altro/altro/lasagne-verdi-alla-bolognese"
+    ]
+  },
+  "r-it-trofie-pesto": {
+    "dishName": "Trofie au pesto génois",
+    "summary": "Petites pâtes ligures au pesto de basilic, pignons, fromages affinés et huile d'olive.",
+    "history": "Le pesto genovese est une préparation emblématique de la Ligurie. Le Consorzio del Pesto Genovese reconnaît une formule traditionnelle de 7 ingrédients, et les trofie comptent parmi les pâtes classiques servies avec cette sauce.",
+    "ingredients": [
+      "400 g de trofie",
+      "50 g de feuilles de basilic frais",
+      "30 g de pignons",
+      "1 gousse d'ail",
+      "60 g de Parmigiano Reggiano râpé",
+      "20 g de pecorino râpé",
+      "100 ml d'huile d'olive vierge extra",
+      "1 pincée de gros sel",
+      "150 g de haricots verts coupés en morceaux de 3 cm",
+      "250 g de pomme de terre coupée en cubes de 2 cm"
+    ],
+    "steps": [
+      "Écrasez 1 gousse d'ail, 30 g de pignons et 1 pincée de sel. Ajoutez 50 g de basilic, puis 60 g de Parmigiano, 20 g de pecorino et 100 ml d'huile.",
+      "Faites bouillir la pomme de terre 5 minutes dans l'eau salée ; ajoutez les haricots verts et poursuivez la cuisson 5 minutes.",
+      "Ajoutez 400 g de trofie dans la même casserole et faites cuire jusqu'à ce qu'elles soient al dente.",
+      "Réservez 100 ml d'eau de cuisson, égouttez les pâtes et les légumes puis mélangez-les avec le pesto hors du feu.",
+      "Ajoutez peu à peu l'eau réservée jusqu'à obtenir une sauce crémeuse qui enrobe les pâtes, puis servez aussitôt."
+    ],
+    "tips": [
+      "Ne chauffez pas directement le pesto ; mélangez-le hors du feu pour préserver le parfum frais du basilic."
+    ],
+    "sources": [
+      "https://www.mangiareinliguria.it/pesto-genovese/ricetta-pesto-genovese",
+      "https://www.mangiareinliguria.it/ricette-tipiche-liguri/primi/trofiette-pesto-genovese"
+    ]
+  },
+  "r-it-arancini-ragu": {
+    "dishName": "Arancini siciliens au ragù",
+    "summary": "Boules de riz dorées et croustillantes garnies de ragù, petits pois et fromage.",
+    "history": "Les arancini, aussi appelés arancine selon les zones, sont une spécialité répandue dans toute la Sicile. Le registre régional des produits traditionnels décrit la version classique au riz farcie de viande en sauce, petits pois et fromage.",
+    "ingredients": [
+      "500 g de riz",
+      "1 l d'eau",
+      "2 œufs",
+      "30 g de beurre",
+      "80 g de caciocavallo râpé",
+      "250 g de ragù de viande",
+      "100 g de petits pois cuits",
+      "100 g de tuma ou de mozzarella en dés",
+      "100 g de farine de blé",
+      "2 œufs pour la panure",
+      "200 g de chapelure",
+      "1 l d'huile pour friture"
+    ],
+    "steps": [
+      "Faites cuire 500 g de riz dans 1 l d'eau salée jusqu'à absorption. Hors du feu, incorporez 2 œufs, 30 g de beurre et 80 g de caciocavallo ; laissez refroidir 30 minutes.",
+      "Mélangez 250 g de ragù avec 100 g de petits pois et préparez 100 g de fromage en dés pour la farce.",
+      "Divisez le riz en 12 portions, aplatissez chacune dans la main, placez la farce au centre et refermez en boule compacte.",
+      "Passez chaque pièce dans 100 g de farine, puis dans 2 œufs battus et enfin dans 200 g de chapelure.",
+      "Chauffez 1 l d'huile à 175 °C et faites frire les arancini par petites quantités jusqu'à ce qu'ils soient dorés ; égouttez et servez chauds."
+    ],
+    "tips": [
+      "Laissez le riz refroidir complètement avant de former les pièces pour qu'elles tiennent mieux pendant la friture."
+    ],
+    "sources": [
+      "https://www.regione.sicilia.it/sites/default/files/2023-06/Schede%20PAT%20Sicilia%202023.pdf",
+      "https://www.italia.it/it/sicilia/cosa-fare/prodotti-piatti-tipici-siciliani"
+    ]
+  },
+  "r-it-orecchiette-cime": {
+    "dishName": "Orecchiette aux cime di rapa",
+    "summary": "Pâtes fraîches des Pouilles avec cime di rapa, anchois, ail, piment et huile d'olive.",
+    "history": "Les orecchiette aux cime di rapa sont l'un des plats emblématiques des Pouilles. Italia.it rattache ces pâtes fraîches à la région de Bari et souligne le contraste entre les pousses de navet, les anchois et le piment.",
+    "ingredients": [
+      "300 g de semoule de blé dur remoulue",
+      "150 g d'eau tiède",
+      "1 kg de cime di rapa ou pousses de navet",
+      "1 gousse d'ail",
+      "1 piment",
+      "4 filets d'anchois à l'huile",
+      "4 cuillères à soupe d'huile d'olive vierge extra",
+      "Sel à volonté"
+    ],
+    "steps": [
+      "Mélangez 300 g de semoule avec 150 g d'eau tiède et pétrissez jusqu'à obtenir une pâte ferme et lisse.",
+      "Roulez la pâte en fins boudins, coupez de petits morceaux et tirez-les avec un couteau pour former la cavité caractéristique des orecchiette.",
+      "Nettoyez 1 kg de cime di rapa et faites-les bouillir dans l'eau salée pendant 3 minutes ; ajoutez les pâtes et cuisez encore 7 minutes.",
+      "Pendant ce temps, chauffez 4 cuillères à soupe d'huile avec 1 gousse d'ail et 1 piment ; ajoutez 4 filets d'anchois et laissez-les fondre doucement.",
+      "Égouttez les pâtes et les légumes, mélangez-les avec l'huile parfumée et servez immédiatement."
+    ],
+    "tips": [
+      "Gardez un peu d'eau de cuisson pour lier l'huile aux pâtes si l'ensemble paraît sec."
+    ],
+    "sources": [
+      "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
+      "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
+    ]
   }
 }

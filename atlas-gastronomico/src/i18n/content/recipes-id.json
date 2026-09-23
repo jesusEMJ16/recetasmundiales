@@ -5845,5 +5845,127 @@
     "sources": [
       "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
     ]
+  },
+  "r-it-lasagne-bolognese": {
+    "dishName": "Lasagna hijau ala Bolognese",
+    "summary": "Lapisan pasta hijau bayam dengan ragù Bolognese, béchamel, dan Parmigiano Reggiano.",
+    "history": "Lasagne verdi adalah hidangan khas Bologna dan Emilia-Romagna. Resep rujukan dari Akademi Kuliner Italia didaftarkan pada 2003 di Kamar Dagang Bologna.",
+    "ingredients": [
+      "700 g tepung 00",
+      "3 butir telur",
+      "350 g bayam matang, ditiriskan baik dan dicincang",
+      "1 kg ragù Bolognese",
+      "1 l susu murni",
+      "100 g tepung 00 untuk béchamel",
+      "100 g mentega untuk béchamel",
+      "400 g Parmigiano Reggiano parut",
+      "Pala dan garam secukupnya"
+    ],
+    "steps": [
+      "Campur 700 g tepung dengan 3 telur dan 350 g bayam hingga menjadi adonan hijau yang halus; uleni, istirahatkan, lalu gilas menjadi lembaran tipis.",
+      "Buat béchamel dengan 100 g mentega, 100 g tepung, dan 1 l susu; bumbui dengan garam dan pala.",
+      "Potong pasta menjadi persegi panjang, rebus sebentar dalam air asin, lalu pindahkan ke air dingin sebelum dikeringkan di atas kain.",
+      "Dalam loyang beroles mentega, susun bergantian pasta, béchamel, 1 kg ragù, dan 400 g Parmigiano Reggiano hingga sedikitnya 6 lapis.",
+      "Panggang pada 180 °C selama 25-30 menit. Diamkan 10 menit sebelum dipotong dan disajikan."
+    ],
+    "tips": [
+      "Buat lapisan tetap rata dan béchamel cukup cair agar lasagna lembap tetapi tetap kokoh."
+    ],
+    "sources": [
+      "https://www.bolognawelcome.com/it/altro/altro/lasagne-verdi-alla-bolognese"
+    ]
+  },
+  "r-it-trofie-pesto": {
+    "dishName": "Trofie dengan pesto Genovese",
+    "summary": "Pasta pendek Liguria dengan pesto basil, kacang pinus, keju matang, dan minyak zaitun.",
+    "history": "Pesto Genovese adalah olahan khas Liguria. Konsorsium Pesto Genovese mengakui formula tradisional dengan 7 bahan, dan trofie adalah salah satu pasta klasik yang biasa disajikan dengannya.",
+    "ingredients": [
+      "400 g trofie",
+      "50 g daun basil segar",
+      "30 g kacang pinus",
+      "1 siung bawang putih",
+      "60 g Parmigiano Reggiano parut",
+      "20 g pecorino parut",
+      "100 ml minyak zaitun extra virgin",
+      "1 sejumput garam kasar",
+      "150 g buncis dipotong 3 cm",
+      "250 g kentang dipotong dadu 2 cm"
+    ],
+    "steps": [
+      "Tumbuk 1 siung bawang putih, 30 g kacang pinus, dan 1 sejumput garam. Tambahkan 50 g basil, lalu 60 g Parmigiano, 20 g pecorino, dan 100 ml minyak.",
+      "Rebus kentang selama 5 menit dalam air asin; tambahkan buncis dan masak 5 menit lagi.",
+      "Masukkan 400 g trofie ke panci yang sama dan masak sampai al dente.",
+      "Sisihkan 100 ml air rebusan, tiriskan pasta dan sayuran, lalu aduk dengan pesto setelah panci diangkat dari api.",
+      "Tambahkan air rebusan sedikit demi sedikit hingga saus menjadi lembut dan melapisi pasta, lalu sajikan segera."
+    ],
+    "tips": [
+      "Jangan panaskan pesto secara langsung; aduk setelah diangkat dari api agar aroma segar basil tetap terjaga."
+    ],
+    "sources": [
+      "https://www.mangiareinliguria.it/pesto-genovese/ricetta-pesto-genovese",
+      "https://www.mangiareinliguria.it/ricette-tipiche-liguri/primi/trofiette-pesto-genovese"
+    ]
+  },
+  "r-it-arancini-ragu": {
+    "dishName": "Arancini Sisilia isi ragù",
+    "summary": "Bola nasi keemasan dan renyah berisi ragù, kacang polong, dan keju.",
+    "history": "Arancini, yang di beberapa daerah juga disebut arancine, adalah hidangan khas yang tersebar di seluruh Sisilia. Daftar produk tradisional daerah menjelaskan versi klasik berbahan nasi dengan isian saus daging, kacang polong, dan keju.",
+    "ingredients": [
+      "500 g beras",
+      "1 l air",
+      "2 butir telur",
+      "30 g mentega",
+      "80 g caciocavallo parut",
+      "250 g ragù daging",
+      "100 g kacang polong matang",
+      "100 g tuma atau mozzarella potong dadu",
+      "100 g tepung terigu",
+      "2 telur untuk pelapis",
+      "200 g tepung roti",
+      "1 l minyak untuk menggoreng"
+    ],
+    "steps": [
+      "Masak 500 g beras dalam 1 l air asin hingga cairannya terserap. Setelah diangkat dari api, campur 2 telur, 30 g mentega, dan 80 g caciocavallo; dinginkan selama 30 menit.",
+      "Campur 250 g ragù dengan 100 g kacang polong dan siapkan 100 g keju potong dadu untuk isian.",
+      "Bagi nasi menjadi 12 bagian, pipihkan masing-masing di telapak tangan, taruh isian di tengah, lalu tutup menjadi bola padat.",
+      "Balur setiap bola dengan 100 g tepung, lalu 2 telur kocok, dan terakhir 200 g tepung roti.",
+      "Panaskan 1 l minyak hingga 175 °C dan goreng arancini bertahap sampai keemasan; tiriskan dan sajikan panas."
+    ],
+    "tips": [
+      "Dinginkan nasi sepenuhnya sebelum dibentuk agar bola lebih kokoh saat digoreng."
+    ],
+    "sources": [
+      "https://www.regione.sicilia.it/sites/default/files/2023-06/Schede%20PAT%20Sicilia%202023.pdf",
+      "https://www.italia.it/it/sicilia/cosa-fare/prodotti-piatti-tipici-siciliani"
+    ]
+  },
+  "r-it-orecchiette-cime": {
+    "dishName": "Orecchiette dengan pucuk turnip",
+    "summary": "Pasta segar Apulia dengan pucuk turnip, teri, bawang putih, cabai, dan minyak zaitun.",
+    "history": "Orecchiette dengan cime di rapa adalah salah satu hidangan khas Apulia. Italia.it mengaitkan pasta segar ini dengan daerah Bari dan menonjolkan perpaduan pucuk turnip, teri, dan cabai.",
+    "ingredients": [
+      "300 g semolina gandum durum giling ulang",
+      "150 g air hangat",
+      "1 kg cime di rapa atau pucuk turnip",
+      "1 siung bawang putih",
+      "1 cabai",
+      "4 fillet teri dalam minyak",
+      "4 sendok makan minyak zaitun extra virgin",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Campur 300 g semolina dengan 150 g air hangat dan uleni hingga adonan padat dan halus.",
+      "Gulung adonan menjadi tali tipis, potong kecil-kecil, lalu tarik dengan pisau untuk membentuk cekungan khas orecchiette.",
+      "Bersihkan 1 kg cime di rapa dan rebus dalam air asin selama 3 menit; masukkan pasta dan masak 7 menit lagi.",
+      "Sementara itu panaskan 4 sendok makan minyak dengan 1 siung bawang putih dan 1 cabai; tambahkan 4 fillet teri dan biarkan larut perlahan.",
+      "Tiriskan pasta dan sayuran, aduk dengan minyak aromatik, lalu sajikan segera."
+    ],
+    "tips": [
+      "Simpan sedikit air rebusan untuk membantu menyatukan minyak dengan pasta jika hidangan terasa kering."
+    ],
+    "sources": [
+      "https://www.italia.it/it/puglia/cosa-fare/videoricetta-viaggio-italiano-puglia",
+      "https://www.italia.it/it/puglia/cosa-fare/prodotti-piatti-tipici-pugliesi"
+    ]
   }
 }

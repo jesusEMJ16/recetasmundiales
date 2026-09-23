@@ -21,19 +21,25 @@ describe("reviewed recipe photography", () => {
     expect(photographed.length).toBe(audit.photoCount);
     expect(pending.length).toBe(audit.pendingCount);
     expect(RECIPES.length).toBe(audit.totalRecipes);
-    expect(audit.photoCount).toBe(203);
+    expect(audit.photoCount).toBe(207);
     expect(audit.pendingCount).toBe(0);
     expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(24);
   });
-  it("ships actual local WebP bytes for both sizes without external image requests", () => {
+  it("ships local WebP bytes or explicitly reviewed HTTPS Wikimedia photographs", () => {
     for (const photo of Object.values(RECIPE_IMAGES)) {
       for (const url of [photo.url, photo.thumbnailUrl]) {
-        expect(url).toMatch(/^\/images\/recipes-v2\/[a-z0-9-]+\.webp$/);
-        const bytes = file(url);
-        expect(bytes.subarray(0, 4).toString()).toBe("RIFF");
-        expect(bytes.subarray(8, 12).toString()).toBe("WEBP");
-        expect(bytes.length).toBeGreaterThan(100);
-        expect(bytes.length).toBeLessThan(600000);
+        if (url.startsWith("/")) {
+          expect(url).toMatch(/^\/images\/recipes-v2\/[a-z0-9-]+\.webp$/);
+          const bytes = file(url);
+          expect(bytes.subarray(0, 4).toString()).toBe("RIFF");
+          expect(bytes.subarray(8, 12).toString()).toBe("WEBP");
+          expect(bytes.length).toBeGreaterThan(100);
+          expect(bytes.length).toBeLessThan(600000);
+        } else {
+          const parsed = new URL(url);
+          expect(parsed.protocol).toBe("https:");
+          expect(parsed.hostname).toBe("upload.wikimedia.org");
+        }
       }
     }
   });
@@ -78,9 +84,9 @@ describe("reviewed recipe photography", () => {
         ? `${photo.thumbnailUrl} ${photo.thumbnailWidth}w, ${photo.url} ${photo.width}w` : undefined);
     }
   });
-  it("resolves public metadata to the same local photo and leaves unknown slugs empty", () => {
+  it("resolves public metadata to the same reviewed photo and leaves unknown slugs empty", () => {
     for (const photo of Object.values(RECIPE_IMAGES)) {
-      expect(absolutePhotoUrl(photo)).toBe(`https://worldbitesapp.com${photo.url}`);
+      expect(absolutePhotoUrl(photo)).toBe(new URL(photo.url, "https://worldbitesapp.com").href);
     }
     expect(getRecipeImage("not-a-recipe")).toBeUndefined();
   });
@@ -88,7 +94,12 @@ describe("reviewed recipe photography", () => {
     expect(audit.photos.map(p => p.slug).sort()).toEqual(Object.keys(RECIPE_IMAGES).sort());
     for (const entry of audit.photos) {
       const photo = RECIPE_IMAGES[entry.slug];
-      expect(createHash("sha256").update(file(photo.url)).digest("hex")).toBe(entry.webpSha256);
+      if (photo.url.startsWith("/")) {
+        expect(createHash("sha256").update(file(photo.url)).digest("hex")).toBe(entry.webpSha256);
+      } else {
+        expect(entry.webpSha256).toBeNull();
+        expect(entry.status).toBe("sourced-remote");
+      }
       expect(photo.source).toBe(entry.source);
       expect(photo.author).toBe(entry.author);
       expect(photo.license).toBe(entry.license);
