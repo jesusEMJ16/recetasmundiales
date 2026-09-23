@@ -14197,5 +14197,273 @@
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sopaipillas_chilenas.jpg/960px-Sopaipillas_chilenas.jpg"
+  },
+  {
+    "id": "r-co-bandeja-paisa",
+    "dishName": "Bandeja paisa colombiana",
+    "slug": "bandeja-paisa-colombiana",
+    "placeId": "co-ant",
+    "summary": "Plato abundante de Antioquia con frijoles, arroz, carne molida, chicharrón, chorizo, huevo, plátano maduro, arepa y aguacate.",
+    "history": "La bandeja paisa está estrechamente asociada con Antioquia y el Eje Cafetero. Su formato reúne en una sola bandeja alimentos energéticos de la tradición campesina paisa y hoy es uno de los platos colombianos más reconocidos.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 25,
+    "cookTimeMin": 90,
+    "totalTimeMin": 115,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "300 g de frijoles rojos secos"
+      },
+      {
+        "text": "200 g de arroz blanco"
+      },
+      {
+        "text": "300 g de carne de res molida"
+      },
+      {
+        "text": "200 g de chicharrón de cerdo"
+      },
+      {
+        "text": "4 chorizos pequeños"
+      },
+      {
+        "text": "4 huevos"
+      },
+      {
+        "text": "2 plátanos maduros"
+      },
+      {
+        "text": "4 arepas pequeñas"
+      },
+      {
+        "text": "1 aguacate grande"
+      },
+      {
+        "text": "200 g de hogao"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "1.5 l de agua"
+      }
+    ],
+    "steps": [
+      "Remoja 300 g de frijoles durante 8 horas; escúrrelos y cuécelos en 1.5 l de agua durante 60-75 minutos, hasta que estén tiernos.",
+      "Cocina 200 g de arroz según su método habitual y mantenlo caliente.",
+      "Dora 300 g de carne molida, 200 g de chicharrón y 4 chorizos por separado hasta que estén bien cocidos.",
+      "Fríe 2 plátanos maduros en tajadas y cocina 4 huevos al gusto; calienta 4 arepas.",
+      "Sirve en cada bandeja frijoles, arroz, carne, chicharrón, chorizo, plátano, huevo, arepa, 200 g de hogao y 1 aguacate en porciones."
+    ],
+    "tips": [
+      "Sirve todos los componentes recién hechos para conservar el contraste entre frijoles cremosos, carnes doradas y plátano crujiente."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/mas-alla-de-la-iconica-bandeja-paisa"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bandeja_paisa_30062011.jpg/960px-Bandeja_paisa_30062011.jpg"
+  },
+  {
+    "id": "r-co-ajiaco",
+    "dishName": "Ajiaco santafereño",
+    "slug": "ajiaco-santafereno-colombiano",
+    "placeId": "co-cun",
+    "summary": "Sopa espesa de Bogotá con pollo, tres tipos de papa, mazorca y guascas, servida con crema, alcaparras y aguacate.",
+    "history": "El ajiaco santafereño es una de las preparaciones más identificadas con Bogotá y el altiplano cundiboyacense. Su carácter distintivo proviene de la combinación de distintas papas andinas y guascas, acompañadas de pollo y maíz.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 60,
+    "totalTimeMin": 80,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "700 g de pechuga de pollo"
+      },
+      {
+        "text": "300 g de papa criolla"
+      },
+      {
+        "text": "300 g de papa pastusa"
+      },
+      {
+        "text": "300 g de papa sabanera"
+      },
+      {
+        "text": "2 mazorcas de maíz cortadas en trozos"
+      },
+      {
+        "text": "2.5 l de agua"
+      },
+      {
+        "text": "30 g de guascas frescas o secas"
+      },
+      {
+        "text": "120 ml de crema de leche"
+      },
+      {
+        "text": "40 g de alcaparras"
+      },
+      {
+        "text": "1 aguacate grande"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      }
+    ],
+    "steps": [
+      "Cocina 700 g de pollo en 2.5 l de agua con 1 cucharadita de sal durante 20 minutos; retíralo, deshébralo y reserva el caldo.",
+      "Añade al caldo 300 g de papa pastusa, 300 g de papa sabanera y 2 mazorcas; cocina 20 minutos.",
+      "Agrega 300 g de papa criolla y 30 g de guascas; cocina 15-20 minutos más, hasta que parte de la papa espese la sopa.",
+      "Devuelve el pollo deshebrado a la olla y cocina 5 minutos.",
+      "Sirve con 120 ml de crema, 40 g de alcaparras y 1 aguacate repartidos entre las porciones."
+    ],
+    "tips": [
+      "No licúes la sopa: la papa pastusa debe deshacerse de forma natural para dar al ajiaco su textura característica."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/blog/platos-tipicos-de-colombia"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ajiaco-santafere%C3%B1o.JPG/960px-Ajiaco-santafere%C3%B1o.JPG"
+  },
+  {
+    "id": "r-co-lechona",
+    "dishName": "Lechona tolimense",
+    "slug": "lechona-tolimense-colombiana",
+    "placeId": "co-tol",
+    "summary": "Cerdo asado lentamente con arveja amarilla y especias, de piel dorada y crujiente, típico del Tolima.",
+    "history": "La lechona es una preparación emblemática del Tolima y Huila. La versión tolimense tradicional se centra en carne de cerdo, arveja y condimentos cocinados lentamente, y suele servirse en celebraciones y reuniones numerosas.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 35,
+    "cookTimeMin": 180,
+    "restTimeMin": 20,
+    "totalTimeMin": 235,
+    "difficulty": "dificil",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1.5 kg de paleta de cerdo en cubos"
+      },
+      {
+        "text": "500 g de panceta de cerdo con piel"
+      },
+      {
+        "text": "300 g de arveja amarilla seca, remojada"
+      },
+      {
+        "text": "2 cebollas picadas"
+      },
+      {
+        "text": "4 dientes de ajo picados"
+      },
+      {
+        "text": "2 cucharaditas de comino"
+      },
+      {
+        "text": "1 cucharadita de achiote"
+      },
+      {
+        "text": "2 cucharaditas de sal"
+      },
+      {
+        "text": "1 cucharadita de pimienta negra"
+      },
+      {
+        "text": "250 ml de caldo de cerdo o agua"
+      }
+    ],
+    "steps": [
+      "Escurre 300 g de arveja remojada y cuécela 30 minutos hasta que esté casi tierna; escurre.",
+      "Mezcla 1.5 kg de paleta con 2 cebollas, 4 dientes de ajo, 2 cucharaditas de comino, 1 cucharadita de achiote, 2 cucharaditas de sal y 1 cucharadita de pimienta.",
+      "Coloca 500 g de panceta con la piel hacia abajo en una fuente profunda; añade la carne, la arveja y 250 ml de caldo.",
+      "Cubre y hornea a 170 °C durante 150 minutos; destapa, sube a 220 °C y hornea 20-30 minutos más para dorar la piel.",
+      "Deja reposar 20 minutos antes de cortar y servir."
+    ],
+    "tips": [
+      "Seca muy bien la piel de la panceta antes del horneado final para conseguir una superficie más crujiente."
+    ],
+    "sources": [
+      "https://colombia.travel/es/blog/destinos-que-destacan-por-sus-deliciosos-platos-de-comida-colombiana",
+      "https://colombia.travel/es/andes-colombianos"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lechona.JPG/960px-Lechona.JPG"
+  },
+  {
+    "id": "r-co-arepa-huevo",
+    "dishName": "Arepa de huevo colombiana",
+    "slug": "arepa-de-huevo-colombiana",
+    "placeId": "co-atl",
+    "summary": "Arepa caribeña de maíz frita dos veces, rellena con un huevo entero para lograr una corteza crujiente y un centro suave.",
+    "history": "La arepa de huevo es una especialidad del Caribe colombiano y tiene una fuerte tradición en lugares como Luruaco, Atlántico. Se prepara friendo una arepa de maíz, abriéndola para introducir el huevo y volviéndola a freír.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 20,
+    "cookTimeMin": 25,
+    "restTimeMin": 10,
+    "totalTimeMin": 55,
+    "difficulty": "media",
+    "moment": "snack",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "400 g de harina de maíz precocida blanca"
+      },
+      {
+        "text": "500 ml de agua tibia"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "8 huevos"
+      },
+      {
+        "text": "1 l de aceite vegetal para freír"
+      }
+    ],
+    "steps": [
+      "Mezcla 400 g de harina con 500 ml de agua tibia y 1 cucharadita de sal; amasa 3 minutos y deja reposar 10 minutos.",
+      "Divide la masa en 8 porciones y forma discos de aproximadamente 10 cm de diámetro.",
+      "Fríe los discos en 1 l de aceite a 175 °C durante 2 minutos por lado y retíralos.",
+      "Haz una abertura pequeña en cada arepa, introduce 1 huevo y sella suavemente con un poco de masa.",
+      "Fríe de nuevo cada arepa 3-4 minutos, hasta que esté dorada y el huevo cuajado."
+    ],
+    "tips": [
+      "Trabaja una arepa a la vez al añadir el huevo para poder sellarla y devolverla al aceite sin que se escape el relleno."
+    ],
+    "sources": [
+      "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
+      "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Arepas_de_huevo.jpg/960px-Arepas_de_huevo.jpg"
   }
 ]
