@@ -79,8 +79,9 @@ async function loaded(locator) {
     await loaded(newHero);
     assert.match(await newHero.getAttribute('alt'), /Boeuf bourguignon: Estofado/);
     assert.equal(await page.locator('meta[property="og:image"]').first().getAttribute('content'), 'https://worldbitesapp.com' + photos['boeuf-bourguignon'].url);
-    const newSchema = JSON.parse(await page.locator('script[type="application/ld+json"]').first().textContent());
-    const newRecipe = newSchema['@graph'].find(entry => entry['@type'] === 'Recipe');
+    const newSchemas = await page.locator('script[type="application/ld+json"]').allTextContents();
+    const newRecipe = newSchemas.map(JSON.parse).flatMap(schema => schema['@graph'] ?? [schema]).find(entry => entry['@type'] === 'Recipe');
+    assert.ok(newRecipe, 'New recipe structured data');
     assert.equal(newRecipe.aggregateRating, undefined);
     assert.equal(newRecipe.datePublished, '2026-09-23');
     assert.equal(await page.locator('link[rel="alternate"][hreflang]').count(), 12);
