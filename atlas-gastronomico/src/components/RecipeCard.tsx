@@ -34,7 +34,7 @@ export function RecipeCard({ recipe, locale, index = 0 }: { recipe: Recipe; loca
             width={photo.width}
             height={photo.height}
             fallbackLabel={photoUi[locale].pending}
-            alt={recipe.dishName}
+            alt={`${recipe.dishName}: ${recipe.summary}`}
             className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
         ) : (

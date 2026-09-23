@@ -21,6 +21,9 @@ describe("reviewed recipe photography", () => {
     expect(photographed.length).toBe(audit.photoCount);
     expect(pending.length).toBe(audit.pendingCount);
     expect(RECIPES.length).toBe(audit.totalRecipes);
+    expect(audit.photoCount).toBe(198);
+    expect(audit.pendingCount).toBe(0);
+    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.generated)).toHaveLength(16);
   });
   it("ships actual local WebP bytes for both sizes without external image requests", () => {
     for (const photo of Object.values(RECIPE_IMAGES)) {
@@ -37,6 +40,13 @@ describe("reviewed recipe photography", () => {
   it("preserves author, source, license and correct provider for every photograph", () => {
     for (const photo of Object.values(RECIPE_IMAGES)) {
       expect(photo.author.trim()).not.toBe("");
+      if (photo.generated) {
+        expect(photo.author).toBe("WorldBites");
+        expect(photo.license).toBe("Original AI-generated illustration");
+        expect(photo.source).toBe("AI-generated for WorldBites");
+        expect(photo.provider).toBe("WorldBites");
+        continue;
+      }
       expect(photo.license).toMatch(/^(CC BY(?:-SA)? [0-9]|CC0|Public domain)/);
       expect(new URL(photo.licenseUrl).protocol).toBe("https:");
       expect(new URL(photo.source).protocol).toBe("https:");
@@ -89,6 +99,7 @@ describe("reviewed recipe photography", () => {
     for (const locale of locales) {
       expect(photoUi[locale].pending.trim().length).toBeGreaterThan(3);
       expect(photoUi[locale].transformed.trim().length).toBeGreaterThan(3);
+      expect(photoUi[locale].generated.trim().length).toBeGreaterThan(3);
     }
   });
 });
