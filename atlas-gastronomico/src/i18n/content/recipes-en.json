@@ -6579,5 +6579,109 @@
       "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
       "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
     ]
+  },
+  "r-ma-tajin-pollo": {
+    "dishName": "Moroccan chicken tagine with preserved lemon and olives",
+    "summary": "Slow-cooked chicken with preserved lemon, green olives, onion, herbs and aromatic spices in a Moroccan tagine.",
+    "history": "Tagine refers both to the earthenware vessel and to a slow-cooking method strongly associated with Moroccan cuisine. Chicken with preserved lemon and olives is one of its best-known versions, balancing salty, citrus and spiced flavors.",
+    "ingredients": [
+      "1.2 kg chicken thighs and drumsticks",
+      "2 preserved lemons, quartered",
+      "150 g green olives",
+      "2 onions, thinly sliced",
+      "3 garlic cloves, minced",
+      "30 g fresh cilantro, chopped",
+      "20 g fresh parsley, chopped",
+      "2 tbsp olive oil",
+      "1 tsp ground ginger",
+      "1 tsp turmeric",
+      "½ tsp black pepper",
+      "250 ml water or chicken stock"
+    ],
+    "steps": [
+      "Mix the chicken with garlic, cilantro, parsley, ginger, turmeric, pepper and oil; rest for 15 minutes.",
+      "Place the onions in the base of a tagine or heavy pot, add the chicken and brown gently for 8-10 minutes.",
+      "Add 250 ml water or stock, cover and cook over low heat for 40 minutes, turning the pieces once.",
+      "Add the preserved lemons and 150 g olives; cook uncovered for another 10-15 minutes until the sauce is concentrated.",
+      "Taste before adding salt, rest for 5 minutes and serve with the sauce, olives and lemon."
+    ],
+    "tips": [
+      "Add salt only at the end: preserved lemon and olives are already quite salty."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ]
+  },
+  "r-ma-cuscus-siete-verduras": {
+    "dishName": "Moroccan couscous with seven vegetables",
+    "summary": "Fluffy couscous with chickpeas and seven vegetables cooked in a spiced broth, served as a generous dish for sharing.",
+    "history": "Couscous is central to Maghrebi culinary traditions and in Morocco is especially associated with family meals and Fridays. In 2020, the knowledge and practices related to its production and consumption, shared by Morocco, Algeria, Mauritania and Tunisia, were inscribed by UNESCO as intangible cultural heritage.",
+    "ingredients": [
+      "400 g couscous",
+      "240 g cooked chickpeas",
+      "2 carrots, cut into large pieces",
+      "2 zucchini, cut into large pieces",
+      "300 g pumpkin, cut into chunks",
+      "¼ cabbage, cut into wedges",
+      "2 turnips, peeled and cut",
+      "1 onion, chopped",
+      "2 ripe tomatoes, grated",
+      "1.2 l vegetable stock",
+      "2 tbsp olive oil",
+      "1 tsp turmeric",
+      "1 tsp ground ginger",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Heat the oil and sauté the onion for 5 minutes; add tomato, turmeric and ginger and cook for 3 minutes.",
+      "Add the stock, carrots, turnips and cabbage; simmer for 20 minutes.",
+      "Add pumpkin, zucchini and chickpeas and cook for another 15-20 minutes, until tender but still intact.",
+      "Prepare 400 g couscous according to the package directions, fluffing it with a fork to separate the grains.",
+      "Make a bed of couscous, arrange the seven vegetables and chickpeas on top and moisten with some of the spiced broth."
+    ],
+    "tips": [
+      "Add the firm vegetables first and leave zucchini and pumpkin until later so they keep their shape."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy",
+      "https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602"
+    ]
+  },
+  "r-ma-harira": {
+    "dishName": "Traditional Moroccan harira",
+    "summary": "Moroccan tomato soup with chickpeas, lentils, herbs, meat and fine noodles, thick and comforting.",
+    "history": "Harira is an emblematic Moroccan soup made with pulses, tomato, herbs and often meat and noodles. It is especially linked to Ramadan, when it is commonly served to break the fast with dates, lemon and traditional sweets.",
+    "ingredients": [
+      "250 g beef or lamb, cut into small cubes",
+      "200 g cooked chickpeas",
+      "120 g lentils",
+      "500 g crushed tomatoes",
+      "1 onion, chopped",
+      "2 celery stalks, chopped",
+      "20 g fresh cilantro, chopped",
+      "20 g fresh parsley, chopped",
+      "60 g fine vermicelli",
+      "30 g wheat flour",
+      "1.5 l water or stock",
+      "1 tsp ground ginger",
+      "½ tsp turmeric",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Brown the meat with the onion and celery for 6-8 minutes; add ginger, turmeric, cilantro and parsley.",
+      "Add tomatoes, lentils and 1.5 l water or stock; cover and simmer for 45 minutes.",
+      "Add chickpeas and vermicelli and cook for 10 more minutes.",
+      "Whisk 30 g flour with 120 ml cold water until smooth; add gradually while stirring.",
+      "Cook for 8-10 minutes until slightly thickened, season with salt and pepper and serve hot with lemon if desired."
+    ],
+    "tips": [
+      "Pour in the flour mixture in a thin stream while stirring constantly to thicken the soup without lumps."
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ]
   }
 }
