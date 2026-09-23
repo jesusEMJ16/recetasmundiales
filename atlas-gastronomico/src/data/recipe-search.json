@@ -3940,5 +3940,77 @@
       "ur": "پاپا آ لا ہوانکاینا",
       "zh": "万卡伊纳酱土豆"
     }
+  },
+  {
+    "id": "r-cl-pastel-choclo",
+    "slug": "pastel-de-choclo-chileno",
+    "names": {
+      "es": "Pastel de choclo chileno",
+      "en": "Chilean pastel de choclo",
+      "fr": "Pastel de choclo chilien",
+      "pt": "Pastel de choclo chileno",
+      "id": "Pastel de choclo Chili",
+      "ja": "チリ風パステル・デ・チョクロ",
+      "zh": "智利玉米肉馅焗烤",
+      "ru": "Чилийский пастель де чокло",
+      "ar": "باستيل دي تشوكلو تشيلي",
+      "bn": "চিলিয়ান পাস্তেল দে চকলো",
+      "hi": "चिली पेस्टेल दे चोक्लो",
+      "ur": "چلی کا پاستیل دے چوکلو"
+    }
+  },
+  {
+    "id": "r-cl-empanada-pino",
+    "slug": "empanadas-chilenas-de-pino",
+    "names": {
+      "es": "Empanadas chilenas de pino",
+      "en": "Chilean pino empanadas",
+      "fr": "Empanadas chiliennes au pino",
+      "pt": "Empanadas chilenas de pino",
+      "id": "Empanada pino Chili",
+      "ja": "チリ風ピノ・エンパナーダ",
+      "zh": "智利皮诺馅饼",
+      "ru": "Чилийские эмпанады с пино",
+      "ar": "إمبانادا تشيلية بحشوة بينو",
+      "bn": "চিলিয়ান পিনো এম্পানাদা",
+      "hi": "चिली पिनो एम्पानाडा",
+      "ur": "چلی کی پینو ایمپناڈاز"
+    }
+  },
+  {
+    "id": "r-cl-cazuela",
+    "slug": "cazuela-chilena-de-vacuno",
+    "names": {
+      "es": "Cazuela chilena de vacuno",
+      "en": "Chilean beef cazuela",
+      "fr": "Cazuela chilienne au bœuf",
+      "pt": "Cazuela chilena de carne bovina",
+      "id": "Cazuela sapi Chili",
+      "ja": "チリ風牛肉カスエラ",
+      "zh": "智利牛肉卡苏埃拉汤",
+      "ru": "Чилийская касуэла с говядиной",
+      "ar": "كازويلا تشيلية بلحم البقر",
+      "bn": "চিলিয়ান বিফ কাজুয়েলা",
+      "hi": "चिली बीफ़ काज़ुएला",
+      "ur": "چلی کی بیف کازویلا"
+    }
+  },
+  {
+    "id": "r-cl-sopaipillas",
+    "slug": "sopaipillas-chilenas",
+    "names": {
+      "es": "Sopaipillas chilenas",
+      "en": "Chilean sopaipillas",
+      "fr": "Sopaipillas chiliennes",
+      "pt": "Sopaipillas chilenas",
+      "id": "Sopaipilla Chili",
+      "ja": "チリ風ソパイピージャ",
+      "zh": "智利南瓜炸饼",
+      "ru": "Чилийские сопайпильяс",
+      "ar": "سوبايبياس تشيلية",
+      "bn": "চিলিয়ান সোপাইপিয়া",
+      "hi": "चिली सोपाइपियास",
+      "ur": "چلی کی سوپائیپیاس"
+    }
   }
 ]

@@ -6325,5 +6325,137 @@
       "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
       "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
     ]
+  },
+  "r-cl-pastel-choclo": {
+    "dishName": "Pastel de choclo Chili",
+    "summary": "Pai jagung segar panggang dengan basil di atas isian pino daging sapi dan bawang, lengkap dengan ayam, telur, zaitun, dan kismis.",
+    "history": "Pastel de choclo adalah salah satu hidangan paling mewakili masakan Kreol Chili bagian tengah. Hidangan ini memadukan lapisan jagung dengan pino daging sapi dan bawang yang juga digunakan pada empanada Chili, dan sering dipanggang serta disajikan dalam wadah tanah liat.",
+    "ingredients": [
+      "1.5 kg biji jagung segar",
+      "250 ml susu",
+      "20 g basil segar",
+      "500 g daging sapi cincang",
+      "2 bawang bombai besar, cincang",
+      "2 sendok makan minyak sayur",
+      "1 sendok teh jintan",
+      "1 sendok teh paprika atau ají de color",
+      "300 g ayam matang, potong-potong",
+      "3 telur rebus, potong empat",
+      "12 zaitun hitam",
+      "60 g kismis",
+      "1 sendok teh garam, dibagi",
+      "1 sendok makan gula, opsional"
+    ],
+    "steps": [
+      "Proses 1.5 kg jagung dengan 250 ml susu dan 20 g basil hingga kental.",
+      "Masak campuran jagung dengan api sedang selama 12-15 menit sambil diaduk hingga mengental; bumbui dengan sebagian garam.",
+      "Tumis 2 bawang dengan 2 sendok makan minyak selama 8 menit; tambahkan 500 g daging, 1 sendok teh jintan, 1 sendok teh paprika, dan sisa garam, lalu masak 10 menit.",
+      "Ratakan pino dalam loyang, tambahkan 300 g ayam, 3 telur, 12 zaitun, dan 60 g kismis, lalu tutup dengan campuran jagung.",
+      "Taburi 1 sendok makan gula jika digunakan dan panggang pada 200 °C selama 25-30 menit hingga keemasan."
+    ],
+    "tips": [
+      "Diamkan 10 menit setelah dipanggang agar lapisan jagung mengeras dan lebih mudah disajikan."
+    ],
+    "sources": [
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-empanada-pino": {
+    "dishName": "Empanada pino Chili",
+    "summary": "Empanada panggang berkulit tipis dengan isian pino daging sapi dan bawang, telur rebus, zaitun, dan kismis.",
+    "history": "Empanada pino adalah hidangan ikonik Chili, terutama terkait dengan Fiestas Patrias dan masakan pedesaan di wilayah tengah. Isian pino memadukan daging sapi dan bawang berbumbu, biasanya ditambah telur, zaitun, dan kismis.",
+    "ingredients": [
+      "750 g tepung terigu",
+      "300 ml air hangat",
+      "100 g lemak babi atau mentega",
+      "1 sendok teh garam",
+      "600 g daging sapi cincang",
+      "3 bawang bombai besar, cincang",
+      "2 sendok makan minyak sayur",
+      "1 sendok teh jintan",
+      "1 sendok teh paprika atau ají de color",
+      "4 telur rebus, potong empat",
+      "8 zaitun hitam",
+      "40 g kismis",
+      "1 telur kocok untuk olesan"
+    ],
+    "steps": [
+      "Campur 750 g tepung dengan 1 sendok teh garam, 100 g lemak, dan 300 ml air hangat; uleni 8 menit dan istirahatkan 30 menit.",
+      "Tumis 3 bawang dengan 2 sendok makan minyak selama 10 menit; tambahkan 600 g daging, 1 sendok teh jintan, dan 1 sendok teh paprika, lalu masak 8-10 menit. Dinginkan.",
+      "Bagi adonan menjadi 8 bagian dan gilas menjadi lingkaran sekitar 20 cm.",
+      "Letakkan pino pada tiap lingkaran, tambahkan ½ telur rebus, 1 zaitun, dan beberapa kismis; basahi tepi, tutup, dan lipat sudutnya.",
+      "Oles dengan 1 telur kocok dan panggang pada 200 °C selama 25-30 menit hingga keemasan."
+    ],
+    "tips": [
+      "Dinginkan pino sepenuhnya sebelum mengisi agar kulit tidak lembap dan pecah di oven."
+    ],
+    "sources": [
+      "https://chile.travel/blog/la-empanada-sabor-unico-de-la-tradicion-chilena/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-cazuela": {
+    "dishName": "Cazuela sapi Chili",
+    "summary": "Kaldu rumahan Chili dengan daging sapi, kentang, labu, jagung, nasi, dan sayuran, diselesaikan dengan ketumbar atau peterseli.",
+    "history": "Cazuela adalah hidangan sehari-hari tradisional di Chili, dengan versi daging sapi maupun ayam. Satu mangkuknya menggabungkan potongan daging, sayuran besar, biji-bijian, dan kaldu, dan sangat disukai saat cuaca dingin.",
+    "ingredients": [
+      "800 g daging sapi bertulang, potong 4",
+      "1.5 l air",
+      "4 kentang sedang, kupas",
+      "400 g labu, potong 4",
+      "2 tongkol jagung, belah dua",
+      "1 wortel, potong memanjang",
+      "100 g buncis",
+      "80 g beras",
+      "½ bawang bombai",
+      "2 siung bawang putih",
+      "1 batang seledri",
+      "1 sendok teh oregano",
+      "1 sendok teh garam",
+      "20 g ketumbar atau peterseli cincang"
+    ],
+    "steps": [
+      "Masukkan 800 g daging ke panci bersama 1.5 l air, ½ bawang, 2 siung bawang putih, seledri, dan 1 sendok teh garam; didihkan dan masak api sedang 25 menit.",
+      "Tambahkan 4 kentang, 1 wortel, dan 80 g beras; masak 10 menit.",
+      "Tambahkan 400 g labu dan 2 tongkol jagung; masak 10 menit lagi.",
+      "Tambahkan 100 g buncis dan 1 sendok teh oregano; masak 5-10 menit lagi sampai empuk.",
+      "Sajikan tiap mangkuk dengan daging, kentang, labu, jagung, sayuran, dan kaldu; taburi 20 g ketumbar atau peterseli."
+    ],
+    "tips": [
+      "Pertahankan didih perlahan agar kaldu tetap jernih dan sayuran tidak hancur."
+    ],
+    "sources": [
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/",
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/"
+    ]
+  },
+  "r-cl-sopaipillas": {
+    "dishName": "Sopaipilla Chili",
+    "summary": "Cakram adonan tepung dan labu yang digoreng, renyah keemasan di luar dan lembut di dalam.",
+    "history": "Sopaipilla merupakan bagian dari jajanan jalanan dan masakan rumahan Chili dan dimakan di seluruh negeri, terutama saat musim dingin. Versi Chili memakai labu dalam adonan dan bisa disajikan gurih dengan pebre atau manis dalam sirup chancaca.",
+    "ingredients": [
+      "500 g tepung terigu",
+      "250 g labu matang, haluskan",
+      "50 g mentega cair",
+      "120 ml susu hangat",
+      "1 sendok teh garam",
+      "1 sendok teh baking powder",
+      "750 ml minyak sayur untuk menggoreng"
+    ],
+    "steps": [
+      "Campur 500 g tepung dengan 1 sendok teh garam dan 1 sendok teh baking powder.",
+      "Tambahkan 250 g labu, 50 g mentega, dan 120 ml susu; uleni 6-8 menit hingga halus.",
+      "Istirahatkan adonan 20 menit lalu gilas setebal sekitar 5 mm.",
+      "Potong 12 cakram dan tusuk bagian tengah masing-masing dengan garpu.",
+      "Goreng dalam 750 ml minyak pada 175 °C selama 2-3 menit per sisi; tiriskan."
+    ],
+    "tips": [
+      "Jika labu sangat basah, tambahkan sedikit demi sedikit agar adonan tetap lembut tetapi tidak lengket."
+    ],
+    "sources": [
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
+    ]
   }
 }

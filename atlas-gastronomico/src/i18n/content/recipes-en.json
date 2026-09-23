@@ -6325,5 +6325,137 @@
       "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
       "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
     ]
+  },
+  "r-cl-pastel-choclo": {
+    "dishName": "Chilean pastel de choclo",
+    "summary": "A baked fresh-corn pie with basil over a beef-and-onion pino filling, with chicken, egg, olives and raisins.",
+    "history": "Pastel de choclo is one of the most representative dishes of central Chilean Creole cooking. It combines a fresh-corn topping with the beef-and-onion pino also used in Chilean empanadas and is often baked and served in clayware.",
+    "ingredients": [
+      "1.5 kg fresh corn kernels",
+      "250 ml milk",
+      "20 g fresh basil",
+      "500 g chopped or ground beef",
+      "2 large onions, chopped",
+      "2 tablespoons vegetable oil",
+      "1 teaspoon cumin",
+      "1 teaspoon paprika or ají de color",
+      "300 g cooked chicken, in pieces",
+      "3 boiled eggs, quartered",
+      "12 black olives",
+      "60 g raisins",
+      "1 teaspoon salt, divided",
+      "1 tablespoon sugar, optional"
+    ],
+    "steps": [
+      "Process 1.5 kg corn with 250 ml milk and 20 g basil until thick.",
+      "Cook the corn mixture over medium heat for 12-15 minutes, stirring until thickened; season with part of the salt.",
+      "Sauté 2 onions in 2 tablespoons oil for 8 minutes; add 500 g beef, 1 teaspoon cumin, 1 teaspoon paprika and the remaining salt, then cook for 10 minutes.",
+      "Spread the pino in a baking dish, add 300 g chicken, 3 eggs, 12 olives and 60 g raisins, then cover with the corn mixture.",
+      "Sprinkle with 1 tablespoon sugar if using and bake at 200 °C for 25-30 minutes until golden."
+    ],
+    "tips": [
+      "Let the pie rest for 10 minutes after baking so the corn topping sets and is easier to serve."
+    ],
+    "sources": [
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-empanada-pino": {
+    "dishName": "Chilean pino empanadas",
+    "summary": "Baked empanadas with a thin pastry filled with beef-and-onion pino, boiled egg, olive and raisins.",
+    "history": "The pino empanada is an emblematic Chilean preparation, especially associated with the Fiestas Patrias and the rural cooking of the central zone. The pino filling combines seasoned beef and onion and is commonly finished with egg, olive and raisins.",
+    "ingredients": [
+      "750 g wheat flour",
+      "300 ml warm water",
+      "100 g lard or butter",
+      "1 teaspoon salt",
+      "600 g chopped beef",
+      "3 large onions, chopped",
+      "2 tablespoons vegetable oil",
+      "1 teaspoon cumin",
+      "1 teaspoon paprika or ají de color",
+      "4 boiled eggs, quartered",
+      "8 black olives",
+      "40 g raisins",
+      "1 beaten egg for brushing"
+    ],
+    "steps": [
+      "Mix 750 g flour with 1 teaspoon salt, 100 g lard and 300 ml warm water; knead for 8 minutes and rest for 30 minutes.",
+      "Sauté 3 onions with 2 tablespoons oil for 10 minutes; add 600 g beef, 1 teaspoon cumin and 1 teaspoon paprika and cook for 8-10 minutes. Cool completely.",
+      "Divide the dough into 8 portions and roll into discs about 20 cm wide.",
+      "Place pino on each disc and add ½ boiled egg, 1 olive and a few raisins; moisten the edges, close and fold the corners.",
+      "Brush with 1 beaten egg and bake at 200 °C for 25-30 minutes until golden."
+    ],
+    "tips": [
+      "Cool the pino completely before filling so the pastry does not become wet and split in the oven."
+    ],
+    "sources": [
+      "https://chile.travel/blog/la-empanada-sabor-unico-de-la-tradicion-chilena/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-cazuela": {
+    "dishName": "Chilean beef cazuela",
+    "summary": "A Chilean home-style broth with beef, potato, squash, corn, rice and vegetables, finished with cilantro or parsley.",
+    "history": "Cazuela is a traditional everyday dish in Chile, with beef and chicken versions. It brings a piece of meat, large vegetables, grain and broth together in one bowl and is especially valued as comforting food during colder months.",
+    "ingredients": [
+      "800 g bone-in beef, cut into 4 pieces",
+      "1.5 l water",
+      "4 medium potatoes, peeled",
+      "400 g squash, cut into 4 pieces",
+      "2 ears of corn, halved",
+      "1 carrot, cut into strips",
+      "100 g green beans",
+      "80 g rice",
+      "½ onion",
+      "2 garlic cloves",
+      "1 celery stalk",
+      "1 teaspoon oregano",
+      "1 teaspoon salt",
+      "20 g chopped cilantro or parsley"
+    ],
+    "steps": [
+      "Place 800 g beef in a pot with 1.5 l water, ½ onion, 2 garlic cloves, celery and 1 teaspoon salt; bring to a boil and cook over medium heat for 25 minutes.",
+      "Add 4 potatoes, 1 carrot and 80 g rice; cook for 10 minutes.",
+      "Add 400 g squash and 2 ears of corn; cook for another 10 minutes.",
+      "Add 100 g green beans and 1 teaspoon oregano; cook for 5-10 minutes more until tender.",
+      "Serve each bowl with a piece of beef, potato, squash, corn, vegetables and broth; finish with 20 g cilantro or parsley."
+    ],
+    "tips": [
+      "Keep the broth at a gentle simmer so it stays clear and the vegetables do not fall apart."
+    ],
+    "sources": [
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/",
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/"
+    ]
+  },
+  "r-cl-sopaipillas": {
+    "dishName": "Chilean sopaipillas",
+    "summary": "Fried discs of flour-and-squash dough, golden outside and tender inside, especially popular on cold and rainy days.",
+    "history": "Sopaipillas are part of Chilean street and home cooking and are eaten throughout the country, especially in winter. The Chilean version incorporates squash into the dough and can be served savory with pebre or sweet as sopaipillas pasadas in chancaca syrup.",
+    "ingredients": [
+      "500 g wheat flour",
+      "250 g cooked mashed squash",
+      "50 g melted butter",
+      "120 ml warm milk",
+      "1 teaspoon salt",
+      "1 teaspoon baking powder",
+      "750 ml vegetable oil for frying"
+    ],
+    "steps": [
+      "Mix 500 g flour with 1 teaspoon salt and 1 teaspoon baking powder.",
+      "Add 250 g squash, 50 g butter and 120 ml milk; knead for 6-8 minutes until smooth.",
+      "Rest the dough for 20 minutes, then roll it to about 5 mm thick.",
+      "Cut 12 discs and prick the center of each with a fork.",
+      "Fry in 750 ml oil at 175 °C for 2-3 minutes per side; drain on paper towels."
+    ],
+    "tips": [
+      "If the squash is very moist, add it gradually so the dough stays soft but not sticky."
+    ],
+    "sources": [
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
+    ]
   }
 }

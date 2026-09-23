@@ -6325,5 +6325,137 @@
       "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
       "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
     ]
+  },
+  "r-cl-pastel-choclo": {
+    "dishName": "Pastel de choclo chilien",
+    "summary": "Gratin chilien de maïs frais au basilic, posé sur un pino de bœuf et d’oignon avec poulet, œuf, olives et raisins secs.",
+    "history": "Le pastel de choclo est l’un des plats les plus représentatifs de la cuisine créole du centre du Chili. Il associe une crème épaisse de maïs au pino de bœuf et d’oignon également utilisé dans les empanadas chiliennes, souvent cuit et servi dans un plat en terre cuite.",
+    "ingredients": [
+      "1.5 kg de grains de maïs frais",
+      "250 ml de lait",
+      "20 g de basilic frais",
+      "500 g de bœuf haché ou finement coupé",
+      "2 gros oignons hachés",
+      "2 cuillères à soupe d’huile végétale",
+      "1 cuillère à café de cumin",
+      "1 cuillère à café de paprika ou ají de color",
+      "300 g de poulet cuit en morceaux",
+      "3 œufs durs coupés en quartiers",
+      "12 olives noires",
+      "60 g de raisins secs",
+      "1 cuillère à café de sel, divisée",
+      "1 cuillère à soupe de sucre, facultatif"
+    ],
+    "steps": [
+      "Mixer 1.5 kg de maïs avec 250 ml de lait et 20 g de basilic jusqu’à obtenir une préparation épaisse.",
+      "Cuire la préparation de maïs à feu moyen pendant 12-15 minutes en remuant jusqu’à épaississement; assaisonner avec une partie du sel.",
+      "Faire revenir 2 oignons dans 2 cuillères à soupe d’huile pendant 8 minutes; ajouter 500 g de bœuf, 1 cuillère à café de cumin, 1 cuillère à café de paprika et le reste du sel, puis cuire 10 minutes.",
+      "Répartir le pino dans un plat, ajouter 300 g de poulet, 3 œufs, 12 olives et 60 g de raisins secs, puis couvrir de maïs.",
+      "Saupoudrer de 1 cuillère à soupe de sucre si désiré et cuire à 200 °C pendant 25-30 minutes jusqu’à dorure."
+    ],
+    "tips": [
+      "Laisser reposer 10 minutes après la cuisson afin que la couche de maïs se raffermisse."
+    ],
+    "sources": [
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-empanada-pino": {
+    "dishName": "Empanadas chiliennes au pino",
+    "summary": "Empanadas cuites au four, garnies de pino de bœuf et d’oignon, d’œuf dur, d’olive et de raisins secs.",
+    "history": "L’empanada de pino est une préparation emblématique du Chili, particulièrement liée aux Fiestas Patrias et à la cuisine rurale de la zone centrale. Le pino associe bœuf et oignon assaisonnés, généralement complétés par œuf, olive et raisins secs.",
+    "ingredients": [
+      "750 g de farine de blé",
+      "300 ml d’eau tiède",
+      "100 g de saindoux ou de beurre",
+      "1 cuillère à café de sel",
+      "600 g de bœuf haché",
+      "3 gros oignons hachés",
+      "2 cuillères à soupe d’huile végétale",
+      "1 cuillère à café de cumin",
+      "1 cuillère à café de paprika ou ají de color",
+      "4 œufs durs coupés en quartiers",
+      "8 olives noires",
+      "40 g de raisins secs",
+      "1 œuf battu pour dorer"
+    ],
+    "steps": [
+      "Mélanger 750 g de farine avec 1 cuillère à café de sel, 100 g de matière grasse et 300 ml d’eau tiède; pétrir 8 minutes et laisser reposer 30 minutes.",
+      "Faire revenir 3 oignons avec 2 cuillères à soupe d’huile pendant 10 minutes; ajouter 600 g de bœuf, 1 cuillère à café de cumin et 1 cuillère à café de paprika, puis cuire 8-10 minutes. Laisser refroidir.",
+      "Diviser la pâte en 8 portions et étaler des disques d’environ 20 cm.",
+      "Déposer le pino sur chaque disque puis ajouter ½ œuf dur, 1 olive et quelques raisins secs; humidifier les bords, fermer et replier les coins.",
+      "Badigeonner avec 1 œuf battu et cuire à 200 °C pendant 25-30 minutes jusqu’à dorure."
+    ],
+    "tips": [
+      "Laisser refroidir complètement le pino avant de garnir pour éviter de détremper la pâte."
+    ],
+    "sources": [
+      "https://chile.travel/blog/la-empanada-sabor-unico-de-la-tradicion-chilena/",
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/"
+    ]
+  },
+  "r-cl-cazuela": {
+    "dishName": "Cazuela chilienne au bœuf",
+    "summary": "Bouillon familial chilien au bœuf, pomme de terre, courge, maïs, riz et légumes, terminé avec coriandre ou persil.",
+    "history": "La cazuela est un plat quotidien traditionnel du Chili, décliné au bœuf ou au poulet. Elle réunit viande, gros morceaux de légumes, céréale et bouillon dans un même bol et est particulièrement appréciée pendant les mois froids.",
+    "ingredients": [
+      "800 g de bœuf avec os en 4 morceaux",
+      "1.5 l d’eau",
+      "4 pommes de terre moyennes pelées",
+      "400 g de courge en 4 morceaux",
+      "2 épis de maïs coupés en deux",
+      "1 carotte en bâtonnets",
+      "100 g de haricots verts",
+      "80 g de riz",
+      "½ oignon",
+      "2 gousses d’ail",
+      "1 branche de céleri",
+      "1 cuillère à café d’origan",
+      "1 cuillère à café de sel",
+      "20 g de coriandre ou persil haché"
+    ],
+    "steps": [
+      "Mettre 800 g de bœuf dans une casserole avec 1.5 l d’eau, ½ oignon, 2 gousses d’ail, le céleri et 1 cuillère à café de sel; porter à ébullition et cuire 25 minutes à feu moyen.",
+      "Ajouter 4 pommes de terre, 1 carotte et 80 g de riz; cuire 10 minutes.",
+      "Ajouter 400 g de courge et 2 épis de maïs; cuire encore 10 minutes.",
+      "Ajouter 100 g de haricots verts et 1 cuillère à café d’origan; poursuivre 5-10 minutes jusqu’à tendreté.",
+      "Servir avec un morceau de bœuf, pomme de terre, courge, maïs, légumes et bouillon; finir avec 20 g de coriandre ou persil."
+    ],
+    "tips": [
+      "Maintenir un léger frémissement pour garder un bouillon clair et des légumes entiers."
+    ],
+    "sources": [
+      "https://chile.travel/blog/turismo-gastronomico-seis-recetas-tipicas-de-chile-para-viajar-desde-tu-cocina-2/",
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/"
+    ]
+  },
+  "r-cl-sopaipillas": {
+    "dishName": "Sopaipillas chiliennes",
+    "summary": "Disques frits de pâte à la farine et à la courge, dorés à l’extérieur et tendres à l’intérieur.",
+    "history": "Les sopaipillas appartiennent à la cuisine de rue et familiale du Chili et se consomment dans tout le pays, surtout en hiver. La version chilienne incorpore de la courge à la pâte et se sert salée avec du pebre ou sucrée dans un sirop de chancaca.",
+    "ingredients": [
+      "500 g de farine de blé",
+      "250 g de courge cuite et écrasée",
+      "50 g de beurre fondu",
+      "120 ml de lait tiède",
+      "1 cuillère à café de sel",
+      "1 cuillère à café de levure chimique",
+      "750 ml d’huile végétale pour friture"
+    ],
+    "steps": [
+      "Mélanger 500 g de farine avec 1 cuillère à café de sel et 1 cuillère à café de levure chimique.",
+      "Ajouter 250 g de courge, 50 g de beurre et 120 ml de lait; pétrir 6-8 minutes jusqu’à obtenir une pâte lisse.",
+      "Laisser reposer 20 minutes puis étaler à environ 5 mm d’épaisseur.",
+      "Découper 12 disques et piquer le centre avec une fourchette.",
+      "Frire dans 750 ml d’huile à 175 °C pendant 2-3 minutes de chaque côté; égoutter."
+    ],
+    "tips": [
+      "Si la courge est très humide, l’ajouter progressivement pour garder une pâte souple mais non collante."
+    ],
+    "sources": [
+      "https://chile.travel/blog/cuatro-comidas-tipicas-de-chile-para-disfrutar-en-invierno/",
+      "https://chile.travel/blog/dia-de-la-cocina-chilena-a-que-sabe-chile/"
+    ]
   }
 }
