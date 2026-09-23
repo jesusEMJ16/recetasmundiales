@@ -13596,5 +13596,304 @@
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Alfajores_de_maicena.jpg/960px-Alfajores_de_maicena.jpg"
+  },
+  {
+    "id": "r-pe-ceviche",
+    "dishName": "Cebiche de pescado peruano",
+    "slug": "cebiche-de-pescado-peruano",
+    "placeId": "pe-lim",
+    "summary": "Pescado blanco muy fresco marinado brevemente con limón, ají limo, cebolla roja y culantro, servido con camote y choclo.",
+    "history": "El cebiche es uno de los platos más emblemáticos del Perú y fue declarado Patrimonio Cultural de la Nación en 2004. Sus antecedentes se relacionan con antiguas preparaciones de pescado de la costa peruana y su forma actual refleja siglos de intercambio, con limón y cebolla incorporados tras la llegada española y técnicas de maceración refinadas posteriormente.",
+    "originConfidence": "commonly_associated",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 0,
+    "restTimeMin": 10,
+    "totalTimeMin": 30,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [
+      "sin_gluten",
+      "sin_lacteos"
+    ],
+    "ingredients": [
+      {
+        "text": "800 g de filete de pescado blanco muy fresco"
+      },
+      {
+        "text": "Jugo de 12 limones o limas ácidas"
+      },
+      {
+        "text": "1 cebolla roja grande en pluma fina"
+      },
+      {
+        "text": "2 ajíes limo sin semillas, picados"
+      },
+      {
+        "text": "20 g de culantro picado"
+      },
+      {
+        "text": "2 camotes medianos cocidos"
+      },
+      {
+        "text": "2 mazorcas de choclo cocidas"
+      },
+      {
+        "text": "1 cucharadita de sal"
+      },
+      {
+        "text": "Pimienta negra al gusto"
+      }
+    ],
+    "steps": [
+      "Corta 800 g de pescado en cubos uniformes de unos 2 cm y mantenlos bien fríos.",
+      "Exprime 12 limones o limas sin presionar demasiado la cáscara para evitar sabores amargos.",
+      "Mezcla el pescado con 2 ajíes limo, 20 g de culantro, sal y pimienta.",
+      "Añade el jugo cítrico y 1 cebolla roja; mezcla suavemente y deja marinar 10 minutos.",
+      "Sirve de inmediato con 2 camotes cocidos y 2 mazorcas de choclo."
+    ],
+    "tips": [
+      "No prolongues el marinado más de 20 minutos: el pescado debe mantenerse firme y fresco."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/ceviche-de-pescado-peruano.html",
+      "https://www.peru.travel/es/inspirate/descubre-el-origen-del-cebiche-uno-de-los-potajes-mas-trendys-y-aclamados"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cebiche_de_corvina.JPG/960px-Cebiche_de_corvina.JPG"
+  },
+  {
+    "id": "r-pe-lomo-saltado",
+    "dishName": "Lomo saltado peruano",
+    "slug": "lomo-saltado-peruano",
+    "placeId": "pe-lim",
+    "summary": "Salteado peruano de carne de res, cebolla, tomate y ají amarillo al wok, terminado con sillao y vinagre y servido con papas fritas y arroz.",
+    "history": "El lomo saltado se consolidó en Lima hacia finales del siglo XIX como una expresión de la cocina chifa. La técnica cantonesa del salteado en wok se combinó con ingredientes y guarniciones peruanas, creando uno de los ejemplos más conocidos de la fusión culinaria entre Perú y China.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 20,
+    "totalTimeMin": 40,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [
+      "sin_lacteos"
+    ],
+    "ingredients": [
+      {
+        "text": "800 g de lomo de res cortado en tiras"
+      },
+      {
+        "text": "2 tomates cortados en gajos"
+      },
+      {
+        "text": "1 cebolla roja grande cortada en tiras gruesas"
+      },
+      {
+        "text": "1 ají amarillo cortado en tiras"
+      },
+      {
+        "text": "3 cucharadas de sillao o salsa de soya"
+      },
+      {
+        "text": "2 cucharadas de vinagre de vino tinto"
+      },
+      {
+        "text": "1 cucharadita de ajo picado"
+      },
+      {
+        "text": "500 g de papas cortadas para freír"
+      },
+      {
+        "text": "300 g de arroz blanco cocido"
+      },
+      {
+        "text": "2 cucharadas de culantro o perejil picado"
+      },
+      {
+        "text": "2 cucharadas de aceite vegetal"
+      },
+      {
+        "text": "Sal, pimienta y comino al gusto"
+      }
+    ],
+    "steps": [
+      "Fríe 500 g de papas hasta que estén doradas y crujientes, unos 8-10 minutos, y reserva.",
+      "Sazona 800 g de carne con sal, pimienta, comino y 1 cucharadita de ajo.",
+      "Calienta 2 cucharadas de aceite en un wok muy caliente y saltea la carne rápidamente.",
+      "Añade 1 cebolla, 2 tomates y 1 ají amarillo; saltea 2 minutos para mantener las verduras firmes.",
+      "Agrega 3 cucharadas de sillao y 2 cucharadas de vinagre; mezcla 1 minuto y sirve con 300 g de arroz y las 500 g de papas fritas."
+    ],
+    "tips": [
+      "Usa el wok muy caliente y cocina la carne en 2 tandas si es necesario para que se dore en vez de soltar agua."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/lomo-saltado.html",
+      "https://www.peru.travel/es/inspirate/del-peru-para-el-mundo-descubre-la-fascinante-historia-del-lomo-saltado"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg/960px-Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg"
+  },
+  {
+    "id": "r-pe-aji-gallina",
+    "dishName": "Ají de gallina peruano",
+    "slug": "aji-de-gallina-peruano",
+    "placeId": "pe-lim",
+    "summary": "Gallina o pollo deshilachado en una salsa cremosa de ají amarillo, pan, leche, pecanas y queso, servido sobre papa.",
+    "history": "El ají de gallina forma parte de la cocina criolla limeña. Su preparación combina una base de ave deshilachada y pan de tradición hispana con el ají amarillo peruano, dando como resultado una salsa cremosa que hoy se sirve habitualmente con papa, arroz, huevo y aceitunas.",
+    "originConfidence": "commonly_associated",
+    "servings": 4,
+    "prepTimeMin": 25,
+    "cookTimeMin": 35,
+    "totalTimeMin": 60,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "600 g de pechuga de gallina o pollo"
+      },
+      {
+        "text": "1 hoja de laurel"
+      },
+      {
+        "text": "1 cebolla picada"
+      },
+      {
+        "text": "3 dientes de ajo picados"
+      },
+      {
+        "text": "120 g de pasta de ají amarillo"
+      },
+      {
+        "text": "200 g de pan"
+      },
+      {
+        "text": "500 ml de leche"
+      },
+      {
+        "text": "40 g de pecanas tostadas y picadas"
+      },
+      {
+        "text": "50 g de queso parmesano rallado"
+      },
+      {
+        "text": "4 papas amarillas cocidas"
+      },
+      {
+        "text": "2 huevos cocidos"
+      },
+      {
+        "text": "8 aceitunas negras"
+      },
+      {
+        "text": "2 cucharadas de aceite"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      }
+    ],
+    "steps": [
+      "Cocina 600 g de gallina o pollo con 1 hoja de laurel durante 20 minutos; reserva el caldo y deshilacha la carne.",
+      "Remoja 200 g de pan en 250 ml de los 500 ml de leche durante 10 minutos y luego licúa.",
+      "Calienta 2 cucharadas de aceite, sofríe 1 cebolla y 3 dientes de ajo, añade 120 g de ají amarillo y cocina 5 minutos.",
+      "Incorpora el pan licuado, la carne y 40 g de pecanas; cocina a fuego bajo durante 10 minutos, ajustando la textura con caldo.",
+      "Añade 50 g de parmesano y sirve sobre 4 papas, con 2 huevos y 8 aceitunas."
+    ],
+    "tips": [
+      "Si la salsa queda demasiado espesa, añade caldo en porciones de 50 ml hasta obtener una textura cremosa."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/aji-de-gallina.html",
+      "https://www.peru.travel/es/inspirate/8-comidas-tipicas-que-debes-probar-cuando-estes-en-peru"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aj%C3%AD_de_gallina_-_Tradicional.jpg/960px-Aj%C3%AD_de_gallina_-_Tradicional.jpg"
+  },
+  {
+    "id": "r-pe-papa-huancaina",
+    "dishName": "Papa a la huancaína",
+    "slug": "papa-a-la-huancaina-peruana",
+    "placeId": "pe-jun",
+    "summary": "Papas cocidas cubiertas con una salsa cremosa de queso fresco y ají amarillo, acompañadas de huevo, aceitunas, choclo y lechuga.",
+    "history": "La papa a la huancaína es una de las entradas más reconocidas de la cocina peruana y está estrechamente asociada con los Andes centrales y Huancayo, en Junín. El plato reúne papa andina con una salsa de ají amarillo, queso y leche, una combinación representativa del mestizaje culinario peruano.",
+    "originConfidence": "commonly_associated",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 25,
+    "totalTimeMin": 45,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [
+      "vegetariano",
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "text": "1 kg de papas"
+      },
+      {
+        "text": "200 g de queso fresco"
+      },
+      {
+        "text": "3 ajíes amarillos sin venas ni semillas"
+      },
+      {
+        "text": "120 ml de leche"
+      },
+      {
+        "text": "60 ml de aceite vegetal"
+      },
+      {
+        "text": "½ cebolla"
+      },
+      {
+        "text": "Jugo de ½ limón"
+      },
+      {
+        "text": "2 huevos cocidos"
+      },
+      {
+        "text": "4 aceitunas negras"
+      },
+      {
+        "text": "100 g de granos de choclo cocidos"
+      },
+      {
+        "text": "Hojas de lechuga y sal al gusto"
+      }
+    ],
+    "steps": [
+      "Hierve 1 kg de papas durante 20-25 minutos, hasta que estén tiernas; pela y corta en rodajas gruesas.",
+      "Sofríe ½ cebolla y 3 ajíes amarillos durante 5 minutos y deja templar.",
+      "Licúa 200 g de queso fresco con 120 ml de leche y 60 ml de aceite durante 2 minutos, incorporando el sofrito hasta obtener una salsa lisa.",
+      "Sazona con el jugo de ½ limón y sal, ajustando la consistencia con un poco más de leche si hace falta.",
+      "Sirve la salsa sobre las papas y acompaña con 2 huevos, 4 aceitunas, 100 g de choclo y lechuga."
+    ],
+    "tips": [
+      "Si la salsa queda muy espesa, incorpora leche de 15 ml en 15 ml para no volverla líquida."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
+      "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Papa_a_la_huancaina.jpg/960px-Papa_a_la_huancaina.jpg"
   }
 ]

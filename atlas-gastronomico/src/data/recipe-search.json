@@ -3868,5 +3868,77 @@
       "id": "Alfajores maizena Argentina",
       "ja": "アルゼンチン風コーンスターチ・アルファホール"
     }
+  },
+  {
+    "id": "r-pe-ceviche",
+    "slug": "cebiche-de-pescado-peruano",
+    "names": {
+      "es": "Cebiche de pescado peruano",
+      "ar": "سيفيتشي السمك البيروفي",
+      "bn": "পেরুভিয়ান মাছের সেভিচে",
+      "en": "Peruvian fish ceviche",
+      "fr": "Ceviche péruvien de poisson",
+      "hi": "पेरूवियन फिश सेविचे",
+      "id": "Ceviche ikan Peru",
+      "ja": "ペルー風魚のセビーチェ",
+      "pt": "Ceviche peruano de peixe",
+      "ru": "Перуанское рыбное севиче",
+      "ur": "پیرووی مچھلی سیویچے",
+      "zh": "秘鲁鱼肉酸橘汁腌鱼"
+    }
+  },
+  {
+    "id": "r-pe-lomo-saltado",
+    "slug": "lomo-saltado-peruano",
+    "names": {
+      "es": "Lomo saltado peruano",
+      "ar": "لومو سالتادو بيروفي",
+      "bn": "পেরুভিয়ান লোমো সালতাদো",
+      "en": "Peruvian lomo saltado",
+      "fr": "Lomo saltado péruvien",
+      "hi": "पेरूवियन लोमो साल्टाडो",
+      "id": "Lomo saltado Peru",
+      "ja": "ペルー風ロモ・サルタード",
+      "pt": "Lomo saltado peruano",
+      "ru": "Перуанский ломо сальтадо",
+      "ur": "پیرووی لومو سالتاڈو",
+      "zh": "秘鲁炒牛柳"
+    }
+  },
+  {
+    "id": "r-pe-aji-gallina",
+    "slug": "aji-de-gallina-peruano",
+    "names": {
+      "es": "Ají de gallina peruano",
+      "ar": "أجي دي غايينا بيروفي",
+      "bn": "আজি দে গাইয়িনা",
+      "en": "Peruvian ají de gallina",
+      "fr": "Ají de gallina péruvien",
+      "hi": "अही दे गायीना",
+      "id": "Ají de gallina Peru",
+      "ja": "アヒ・デ・ガジーナ",
+      "pt": "Ají de gallina peruano",
+      "ru": "Ахи де гайина",
+      "ur": "آجی دے گایینا",
+      "zh": "秘鲁黄椒鸡"
+    }
+  },
+  {
+    "id": "r-pe-papa-huancaina",
+    "slug": "papa-a-la-huancaina-peruana",
+    "names": {
+      "es": "Papa a la huancaína",
+      "ar": "بابا آ لا هوانكاينا",
+      "bn": "পাপা আ লা হুয়ানকাইনা",
+      "en": "Papa a la huancaína",
+      "fr": "Papa à la huancaína",
+      "hi": "पापा आ ला हुआंकाइना",
+      "id": "Papa a la huancaína",
+      "ja": "パパ・ア・ラ・ワンカイーナ",
+      "pt": "Papa à la huancaína",
+      "ru": "Папа а ла уанкаина",
+      "ur": "پاپا آ لا ہوانکاینا",
+      "zh": "万卡伊纳酱土豆"
+    }
   }
 ]

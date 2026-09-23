@@ -6195,5 +6195,135 @@
       "https://www.argentina.gob.ar/node/493708",
       "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
     ]
+  },
+  "r-pe-ceviche": {
+    "dishName": "Peruvian fish ceviche",
+    "summary": "Very fresh white fish briefly marinated with lime, ají limo, red onion and cilantro, served with sweet potato and corn.",
+    "history": "Ceviche is one of Peru’s most emblematic dishes and was declared National Cultural Heritage in 2004. Its background is linked to ancient fish preparations on the Peruvian coast, while the modern form reflects centuries of exchange, with lime and onion added after the Spanish arrival and marinating techniques refined later.",
+    "ingredients": [
+      "800 g very fresh firm white fish fillet",
+      "Juice of 12 acidic limes",
+      "1 large red onion, thinly sliced",
+      "2 ají limo peppers, seeded and chopped",
+      "20 g chopped cilantro",
+      "2 medium sweet potatoes, cooked",
+      "2 ears of corn, cooked",
+      "1 teaspoon salt",
+      "Black pepper to taste"
+    ],
+    "steps": [
+      "Cut 800 g fish into even cubes of about 2 cm and keep them very cold.",
+      "Squeeze 12 limes without pressing the peel too hard to avoid bitter flavors.",
+      "Mix the fish with 2 ají limo peppers, 20 g cilantro, salt and pepper.",
+      "Add the citrus juice and 1 red onion; mix gently and marinate for 10 minutes.",
+      "Serve immediately with 2 cooked sweet potatoes and 2 ears of corn."
+    ],
+    "tips": [
+      "Do not extend the marinade beyond 20 minutes: the fish should remain firm and fresh."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/ceviche-de-pescado-peruano.html",
+      "https://www.peru.travel/es/inspirate/descubre-el-origen-del-cebiche-uno-de-los-potajes-mas-trendys-y-aclamados"
+    ]
+  },
+  "r-pe-lomo-saltado": {
+    "dishName": "Peruvian lomo saltado",
+    "summary": "Peruvian wok stir-fry of beef, onion, tomato and yellow ají, finished with soy sauce and vinegar and served with French fries and rice.",
+    "history": "Lomo saltado took shape in Lima in the late 19th century as an expression of chifa cuisine. Cantonese wok stir-frying was combined with Peruvian ingredients and side dishes, creating one of the best-known examples of culinary fusion between Peru and China.",
+    "ingredients": [
+      "800 g beef sirloin cut into strips",
+      "2 tomatoes cut into wedges",
+      "1 large red onion cut into thick strips",
+      "1 yellow ají pepper cut into strips",
+      "3 tablespoons soy sauce",
+      "2 tablespoons red wine vinegar",
+      "1 teaspoon minced garlic",
+      "500 g potatoes cut for frying",
+      "300 g cooked white rice",
+      "2 tablespoons chopped cilantro or parsley",
+      "2 tablespoons vegetable oil",
+      "Salt, pepper and cumin to taste"
+    ],
+    "steps": [
+      "Fry 500 g potatoes until golden and crisp, about 8-10 minutes, then set aside.",
+      "Season 800 g beef with salt, pepper, cumin and 1 teaspoon garlic.",
+      "Heat 2 tablespoons oil in a very hot wok and quickly stir-fry the beef.",
+      "Add 1 onion, 2 tomatoes and 1 yellow ají; stir-fry for 2 minutes so the vegetables stay firm.",
+      "Add 3 tablespoons soy sauce and 2 tablespoons vinegar; toss for 1 minute and serve with 300 g rice and the 500 g French fries."
+    ],
+    "tips": [
+      "Use a very hot wok and cook the beef in 2 batches if necessary so it browns instead of steaming."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/lomo-saltado.html",
+      "https://www.peru.travel/es/inspirate/del-peru-para-el-mundo-descubre-la-fascinante-historia-del-lomo-saltado"
+    ]
+  },
+  "r-pe-aji-gallina": {
+    "dishName": "Peruvian ají de gallina",
+    "summary": "Shredded chicken in a creamy yellow ají sauce with bread, milk, pecans and cheese, served over potato.",
+    "history": "Ají de gallina belongs to Lima’s criollo cooking tradition. It combines a shredded poultry and bread base of Hispanic influence with Peruvian yellow ají, producing a creamy sauce now commonly served with potato, rice, egg and olives.",
+    "ingredients": [
+      "600 g chicken breast",
+      "1 bay leaf",
+      "1 chopped onion",
+      "3 minced garlic cloves",
+      "120 g yellow ají paste",
+      "200 g bread",
+      "500 ml milk",
+      "40 g toasted chopped pecans",
+      "50 g grated Parmesan cheese",
+      "4 cooked yellow potatoes",
+      "2 boiled eggs",
+      "8 black olives",
+      "2 tablespoons oil",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Cook 600 g chicken with 1 bay leaf for 20 minutes; reserve the broth and shred the meat.",
+      "Soak 200 g bread in 250 ml of the 500 ml milk for 10 minutes, then blend.",
+      "Heat 2 tablespoons oil, sauté 1 onion and 3 garlic cloves, add 120 g yellow ají and cook for 5 minutes.",
+      "Stir in the blended bread, chicken and 40 g pecans; simmer for 10 minutes, adjusting the texture with broth.",
+      "Add 50 g Parmesan and serve over 4 potatoes, with 2 eggs and 8 olives."
+    ],
+    "tips": [
+      "If the sauce becomes too thick, add broth in 50 ml portions until it is creamy."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/aji-de-gallina.html",
+      "https://www.peru.travel/es/inspirate/8-comidas-tipicas-que-debes-probar-cuando-estes-en-peru"
+    ]
+  },
+  "r-pe-papa-huancaina": {
+    "dishName": "Papa a la huancaína",
+    "summary": "Boiled potatoes covered with a creamy fresh-cheese and yellow-ají sauce, served with egg, olives, corn and lettuce.",
+    "history": "Papa a la huancaína is one of Peru’s best-known starters and is closely associated with the central Andes and Huancayo in Junín. The dish brings together Andean potato with a sauce of yellow ají, cheese and milk, a combination that reflects Peru’s culinary mestizaje.",
+    "ingredients": [
+      "1 kg potatoes",
+      "200 g fresh cheese",
+      "3 yellow ají peppers, deveined and seeded",
+      "120 ml milk",
+      "60 ml vegetable oil",
+      "½ onion",
+      "Juice of ½ lemon",
+      "2 boiled eggs",
+      "4 black olives",
+      "100 g cooked corn kernels",
+      "Lettuce leaves and salt to taste"
+    ],
+    "steps": [
+      "Boil 1 kg potatoes for 20-25 minutes until tender; peel and cut into thick slices.",
+      "Sauté ½ onion and 3 yellow ají peppers for 5 minutes, then let cool slightly.",
+      "Blend 200 g fresh cheese with 120 ml milk and 60 ml oil for 2 minutes, adding the sautéed mixture until smooth.",
+      "Season with the juice of ½ lemon and salt, adjusting the consistency with a little more milk if needed.",
+      "Spoon the sauce over the potatoes and serve with 2 eggs, 4 olives, 100 g corn and lettuce."
+    ],
+    "tips": [
+      "If the sauce is too thick, add milk in 15 ml portions so it does not become runny."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
+      "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
+    ]
   }
 }

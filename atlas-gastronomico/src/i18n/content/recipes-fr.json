@@ -6195,5 +6195,135 @@
       "https://www.argentina.gob.ar/node/493708",
       "https://www.argentina.travel/novedades/que-es-el-alfajor-el-dulce-argentino-mas-popular"
     ]
+  },
+  "r-pe-ceviche": {
+    "dishName": "Ceviche péruvien de poisson",
+    "summary": "Poisson blanc très frais mariné brièvement avec du citron vert, de l’ají limo, de l’oignon rouge et de la coriandre, servi avec patate douce et maïs.",
+    "history": "Le ceviche est l’un des plats les plus emblématiques du Pérou et a été déclaré Patrimoine culturel de la Nation en 2004. Ses antécédents sont liés aux anciennes préparations de poisson de la côte péruvienne, tandis que sa forme actuelle reflète des siècles d’échanges, avec l’arrivée du citron et de l’oignon après les Espagnols puis l’évolution des techniques de marinade.",
+    "ingredients": [
+      "800 g de filet de poisson blanc très frais",
+      "Jus de 12 citrons verts acides",
+      "1 gros oignon rouge finement émincé",
+      "2 piments ají limo épépinés et hachés",
+      "20 g de coriandre hachée",
+      "2 patates douces moyennes cuites",
+      "2 épis de maïs cuits",
+      "1 cuillère à café de sel",
+      "Poivre noir au goût"
+    ],
+    "steps": [
+      "Coupez 800 g de poisson en cubes réguliers d’environ 2 cm et gardez-les bien froids.",
+      "Pressez 12 citrons verts sans trop écraser l’écorce afin d’éviter l’amertume.",
+      "Mélangez le poisson avec 2 ajíes limo, 20 g de coriandre, du sel et du poivre.",
+      "Ajoutez le jus d’agrumes et 1 oignon rouge ; mélangez délicatement et laissez mariner 10 minutes.",
+      "Servez immédiatement avec 2 patates douces cuites et 2 épis de maïs."
+    ],
+    "tips": [
+      "Ne prolongez pas la marinade au-delà de 20 minutes : le poisson doit rester ferme et frais."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/ceviche-de-pescado-peruano.html",
+      "https://www.peru.travel/es/inspirate/descubre-el-origen-del-cebiche-uno-de-los-potajes-mas-trendys-y-aclamados"
+    ]
+  },
+  "r-pe-lomo-saltado": {
+    "dishName": "Lomo saltado péruvien",
+    "summary": "Sauté péruvien au wok de bœuf, oignon, tomate et ají jaune, fini avec sauce soja et vinaigre, servi avec frites et riz.",
+    "history": "Le lomo saltado s’est affirmé à Lima à la fin du 19e siècle comme une expression de la cuisine chifa. La technique cantonaise du sauté au wok s’est unie aux ingrédients et garnitures péruviens, créant l’un des exemples les plus connus de fusion culinaire entre le Pérou et la Chine.",
+    "ingredients": [
+      "800 g de faux-filet de bœuf coupé en lanières",
+      "2 tomates coupées en quartiers",
+      "1 gros oignon rouge coupé en grosses lanières",
+      "1 ají jaune coupé en lanières",
+      "3 cuillères à soupe de sauce soja",
+      "2 cuillères à soupe de vinaigre de vin rouge",
+      "1 cuillère à café d’ail haché",
+      "500 g de pommes de terre coupées pour frire",
+      "300 g de riz blanc cuit",
+      "2 cuillères à soupe de coriandre ou de persil haché",
+      "2 cuillères à soupe d’huile végétale",
+      "Sel, poivre et cumin au goût"
+    ],
+    "steps": [
+      "Faites frire 500 g de pommes de terre jusqu’à ce qu’elles soient dorées et croustillantes, environ 8-10 minutes, puis réservez.",
+      "Assaisonnez 800 g de bœuf avec sel, poivre, cumin et 1 cuillère à café d’ail.",
+      "Faites chauffer 2 cuillères à soupe d’huile dans un wok très chaud et sautez rapidement le bœuf.",
+      "Ajoutez 1 oignon, 2 tomates et 1 ají jaune ; faites sauter 2 minutes pour garder les légumes fermes.",
+      "Ajoutez 3 cuillères à soupe de sauce soja et 2 cuillères à soupe de vinaigre ; mélangez 1 minute et servez avec 300 g de riz et les 500 g de frites."
+    ],
+    "tips": [
+      "Utilisez un wok très chaud et faites cuire le bœuf en 2 fois si nécessaire afin qu’il dore au lieu de rendre de l’eau."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/lomo-saltado.html",
+      "https://www.peru.travel/es/inspirate/del-peru-para-el-mundo-descubre-la-fascinante-historia-del-lomo-saltado"
+    ]
+  },
+  "r-pe-aji-gallina": {
+    "dishName": "Ají de gallina péruvien",
+    "summary": "Poulet effiloché dans une sauce crémeuse à l’ají jaune, au pain, au lait, aux noix de pécan et au fromage, servi sur des pommes de terre.",
+    "history": "L’ají de gallina appartient à la tradition de la cuisine criolla de Lima. Il associe une base de volaille effilochée et de pain d’influence hispanique à l’ají jaune péruvien, donnant une sauce crémeuse aujourd’hui généralement servie avec pomme de terre, riz, œuf et olives.",
+    "ingredients": [
+      "600 g de blanc de poulet",
+      "1 feuille de laurier",
+      "1 oignon haché",
+      "3 gousses d’ail hachées",
+      "120 g de pâte d’ají jaune",
+      "200 g de pain",
+      "500 ml de lait",
+      "40 g de noix de pécan grillées et hachées",
+      "50 g de parmesan râpé",
+      "4 pommes de terre jaunes cuites",
+      "2 œufs durs",
+      "8 olives noires",
+      "2 cuillères à soupe d’huile",
+      "Sel et poivre au goût"
+    ],
+    "steps": [
+      "Faites cuire 600 g de poulet avec 1 feuille de laurier pendant 20 minutes ; réservez le bouillon et effilochez la viande.",
+      "Faites tremper 200 g de pain dans 250 ml des 500 ml de lait pendant 10 minutes, puis mixez.",
+      "Faites chauffer 2 cuillères à soupe d’huile, faites revenir 1 oignon et 3 gousses d’ail, ajoutez 120 g d’ají jaune et cuisez 5 minutes.",
+      "Incorporez le pain mixé, le poulet et 40 g de noix de pécan ; laissez mijoter 10 minutes en ajustant la texture avec du bouillon.",
+      "Ajoutez 50 g de parmesan et servez sur 4 pommes de terre, avec 2 œufs et 8 olives."
+    ],
+    "tips": [
+      "Si la sauce devient trop épaisse, ajoutez du bouillon par portions de 50 ml jusqu’à obtenir une texture crémeuse."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/platos-de-fondo/aji-de-gallina.html",
+      "https://www.peru.travel/es/inspirate/8-comidas-tipicas-que-debes-probar-cuando-estes-en-peru"
+    ]
+  },
+  "r-pe-papa-huancaina": {
+    "dishName": "Papa à la huancaína",
+    "summary": "Pommes de terre bouillies nappées d’une sauce crémeuse au fromage frais et à l’ají jaune, servies avec œuf, olives, maïs et laitue.",
+    "history": "La papa a la huancaína est l’une des entrées les plus connues du Pérou et est étroitement associée aux Andes centrales et à Huancayo, dans la région de Junín. Le plat réunit la pomme de terre andine et une sauce d’ají jaune, de fromage et de lait, une combinaison représentative du métissage culinaire péruvien.",
+    "ingredients": [
+      "1 kg de pommes de terre",
+      "200 g de fromage frais",
+      "3 ajíes jaunes épépinés et déveinés",
+      "120 ml de lait",
+      "60 ml d’huile végétale",
+      "½ oignon",
+      "Jus de ½ citron",
+      "2 œufs durs",
+      "4 olives noires",
+      "100 g de grains de maïs cuits",
+      "Feuilles de laitue et sel au goût"
+    ],
+    "steps": [
+      "Faites bouillir 1 kg de pommes de terre pendant 20-25 minutes jusqu’à ce qu’elles soient tendres ; pelez-les et coupez-les en tranches épaisses.",
+      "Faites revenir ½ oignon et 3 ajíes jaunes pendant 5 minutes, puis laissez tiédir.",
+      "Mixez 200 g de fromage frais avec 120 ml de lait et 60 ml d’huile pendant 2 minutes, en ajoutant le mélange sauté jusqu’à obtenir une sauce lisse.",
+      "Assaisonnez avec le jus de ½ citron et du sel, en ajustant la consistance avec un peu plus de lait si nécessaire.",
+      "Nappez les pommes de terre de sauce et servez avec 2 œufs, 4 olives, 100 g de maïs et de la laitue."
+    ],
+    "tips": [
+      "Si la sauce est trop épaisse, ajoutez le lait par portions de 15 ml pour éviter qu’elle ne devienne liquide."
+    ],
+    "sources": [
+      "https://www.peru.travel/gastronomia/es/recetas/entradas/papa-a-la-huancaina.html",
+      "https://www.peru.travel/es/inspirate/deliciosos-y-nutritivos-6-platos-tipicos-de-los-andes-peruanos"
+    ]
   }
 }
