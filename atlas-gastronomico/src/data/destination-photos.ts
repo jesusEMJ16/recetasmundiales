@@ -12,7 +12,7 @@ const COVERS: Record<string, { slug: string; dish: string }> = {
   ES: { slug: "pulpo-a-la-gallega", dish: "Pulpo a la gallega" },
   JP: { slug: "ramen-shoyu", dish: "Ramen shoyu" },
   TH: { slug: "pad-thai", dish: "Pad Thai" },
-  FR: { slug: "bouillabaisse", dish: "Bouillabaisse" },
+  FR: { slug: "boeuf-bourguignon", dish: "Boeuf bourguignon" },
   DE: { slug: "kasespatzle", dish: "Käsespätzle" },
   GR: { slug: "souvlaki", dish: "Souvlaki" },
   PT: { slug: "pasteis-de-nata", dish: "Pastéis de nata" },

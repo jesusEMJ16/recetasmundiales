@@ -5710,5 +5710,140 @@
       "Portugal traditional cuisine",
       "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
     ]
+  },
+  "r-fr-boeuf-bourguignon": {
+    "dishName": "Boeuf bourguignon",
+    "summary": "Ensopado de carne da Borgonha com vinho tinto, cogumelos, cenouras e cebolinhas.",
+    "history": "Este prato está ligado à tradição da Borgonha de cozinhar carne em vinho. Nossa versão caseira usa carne em cubos para obter um molho saboroso.",
+    "ingredients": [
+      "800 g de acém bovino em cubos",
+      "500 ml de vinho tinto seco",
+      "250 ml de caldo de carne",
+      "150 g de bacon defumado em cubos",
+      "250 g de cogumelos",
+      "12 cebolinhas pérola descascadas",
+      "2 cenouras e 2 dentes de alho",
+      "2 colheres de sopa de farinha de trigo",
+      "1 colher de sopa de óleo, 1 folha de louro, sal e pimenta"
+    ],
+    "steps": [
+      "Seque a carne e doure-a em etapas com óleo numa panela pesada; reserve.",
+      "Doure o bacon, as cebolinhas e as cenouras. Acrescente o alho e a farinha e misture.",
+      "Junte o vinho e o caldo, raspando o fundo. Volte a carne à panela e adicione o louro; tampe e cozinhe em fogo baixo até amaciar.",
+      "Refogue os cogumelos à parte, acrescente-os ao ensopado e deixe o molho engrossar suavemente.",
+      "Retire o louro, tempere com sal e pimenta e sirva quente."
+    ],
+    "tips": [
+      "Mantenha o fogo baixo, sem fervura forte, para que a carne fique macia."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/recette-boeuf-bourguignon/"
+    ]
+  },
+  "r-fr-soupe-oignon": {
+    "dishName": "Sopa de cebola gratinada",
+    "summary": "Sopa francesa de cebola caramelizada com caldo, pão torrado e queijo derretido.",
+    "history": "A sopa de cebola gratinada está associada à cozinha parisiense. O sabor vem de dourar lentamente as cebolas antes de acrescentar pão e queijo.",
+    "ingredients": [
+      "800 g de cebolas fatiadas finamente",
+      "50 g de manteiga",
+      "1 litro de caldo de carne",
+      "100 ml de vinho branco seco",
+      "2 dentes de alho",
+      "8 fatias de baguete torradas",
+      "120 g de queijo gruyère ralado",
+      "1 folha de louro, sal e pimenta"
+    ],
+    "steps": [
+      "Derreta a manteiga e cozinhe as cebolas em fogo baixo, mexendo até ficarem bem douradas e doces.",
+      "Junte o alho e o vinho e raspe o fundo da panela para soltar os sabores.",
+      "Despeje o caldo e acrescente o louro. Cozinhe em fervura branda e tempere com sal e pimenta.",
+      "Distribua a sopa em tigelas próprias para forno, cubra com o pão torrado e o queijo.",
+      "Gratine até o queijo borbulhar e dourar; sirva com cuidado, pois as tigelas estarão muito quentes."
+    ],
+    "tips": [
+      "Não apresse o preparo da cebola: dourá-la lentamente dá sabor à sopa."
+    ],
+    "sources": [
+      "https://www.france.fr/en/article/try-a-french-classic-onion-soup/"
+    ]
+  },
+  "r-fr-quiche-lorraine": {
+    "dishName": "Quiche lorraine",
+    "summary": "Torta salgada da Lorena com massa quebradiça, bacon defumado e creme de ovos.",
+    "history": "A quiche lorraine é uma especialidade da Lorena. O recheio tradicional combina bacon defumado, ovos e creme de leite sobre massa quebradiça, sem precisar de queijo.",
+    "ingredients": [
+      "1 disco de massa quebradiça para forma de 24 cm",
+      "200 g de bacon defumado em cubos",
+      "2 ovos inteiros e 2 gemas",
+      "350 ml de creme de leite fresco",
+      "1 pitada de noz-moscada",
+      "1 pitada de pimenta-do-reino",
+      "1 colher de chá de manteiga para untar"
+    ],
+    "steps": [
+      "Aqueça o forno a 180 °C. Unte a forma com manteiga, acomode a massa e fure a base com um garfo.",
+      "Doure levemente o bacon numa frigideira e escorra a gordura.",
+      "Bata os ovos inteiros, as gemas e o creme com noz-moscada e pimenta.",
+      "Espalhe o bacon sobre a massa, despeje o creme e asse até o centro firmar e o topo dourar.",
+      "Deixe a quiche descansar antes de cortar e sirva morna."
+    ],
+    "tips": [
+      "Prove antes de adicionar sal; o bacon costuma ser suficientemente salgado."
+    ],
+    "sources": [
+      "https://www.france.fr/es/articulo/receta-de-la-quiche-lorraine-clasica-y-muy-facil/"
+    ]
+  },
+  "r-fr-tarte-tatin": {
+    "dishName": "Tarte Tatin",
+    "summary": "Torta francesa invertida de maçãs caramelizadas sobre massa folhada crocante.",
+    "history": "A Tarte Tatin está ligada a Lamotte-Beuvron, no vale do Loire. A história de sua criação acidental é popular, embora os detalhes históricos sejam incertos.",
+    "ingredients": [
+      "800 g de maçãs firmes, descascadas e em quartos",
+      "1 folha de massa folhada com manteiga, 250 g",
+      "120 g de açúcar",
+      "80 g de manteiga sem sal",
+      "1 colher de sopa de suco de limão",
+      "1 pitada de sal"
+    ],
+    "steps": [
+      "Aqueça o forno a 190 °C. Cozinhe o açúcar e a manteiga numa frigideira própria para forno até formar um caramelo âmbar.",
+      "Acrescente as maçãs e o limão, arrume-as bem juntas e cozinhe até começarem a amolecer.",
+      "Cubra as maçãs com a massa e dobre as bordas para dentro da frigideira.",
+      "Asse até a massa ficar dourada e cozida. Deixe a torta esfriar um pouco antes de desenformar.",
+      "Ponha um prato grande sobre a frigideira, vire com cuidado e sirva morna."
+    ],
+    "tips": [
+      "Use uma frigideira própria para forno e proteja as mãos ao virar o caramelo quente."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/tarte-tatin-recette/"
+    ]
+  },
+  "r-fr-creme-brulee": {
+    "dishName": "Crème brûlée de baunilha",
+    "summary": "Creme francês assado de baunilha coberto com uma fina camada crocante de açúcar caramelizado.",
+    "history": "A crème brûlée aparece em antigos livros de culinária francesa, mas sua origem exata é debatida e ela se assemelha à crema catalana. O contraste entre creme frio e crosta recém-caramelizada define a sobremesa.",
+    "ingredients": [
+      "500 ml de creme de leite fresco",
+      "5 gemas de ovo",
+      "80 g de açúcar para o creme",
+      "40 g de açúcar para caramelizar",
+      "1 fava de baunilha"
+    ],
+    "steps": [
+      "Aqueça o forno a 150 °C. Abra a fava de baunilha e aqueça o creme com suas sementes sem deixar ferver.",
+      "Bata as gemas com o açúcar do creme; incorpore aos poucos o creme morno sem criar espuma.",
+      "Coe em ramequins. Coloque-os numa assadeira com água quente até a metade da altura.",
+      "Asse até as bordas firmarem e o centro ainda tremer levemente. Esfrie e leve à geladeira até ficar bem frio.",
+      "Pouco antes de servir, espalhe o açúcar restante e caramelize-o com maçarico para criar uma crosta fina e crocante."
+    ],
+    "tips": [
+      "Caramelize na hora de servir para manter a crosta de açúcar crocante."
+    ],
+    "sources": [
+      "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
+    ]
   }
 }

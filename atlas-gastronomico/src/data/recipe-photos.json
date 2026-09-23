@@ -2572,5 +2572,70 @@
     "source": "https://worldbitesapp.com/images/recipes-v2/pampano-en-escabeche-palizada.webp",
     "licenseUrl": "https://worldbitesapp.com",
     "provider": "WorldBites"
+  },
+  "boeuf-bourguignon": {
+    "url": "/images/recipes-v2/boeuf-bourguignon.webp",
+    "thumbnailUrl": "/images/recipes-v2/boeuf-bourguignon-480.webp",
+    "width": 1200,
+    "height": 900,
+    "thumbnailWidth": 480,
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "WorldBites original illustration",
+    "source": "https://worldbitesapp.com/images/recipes-v2/boeuf-bourguignon.webp",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites"
+  },
+  "soupe-a-loignon-gratinee": {
+    "url": "/images/recipes-v2/soupe-a-loignon-gratinee.webp",
+    "thumbnailUrl": "/images/recipes-v2/soupe-a-loignon-gratinee-480.webp",
+    "width": 1200,
+    "height": 900,
+    "thumbnailWidth": 480,
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "WorldBites original illustration",
+    "source": "https://worldbitesapp.com/images/recipes-v2/soupe-a-loignon-gratinee.webp",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites"
+  },
+  "quiche-lorraine": {
+    "url": "/images/recipes-v2/quiche-lorraine.webp",
+    "thumbnailUrl": "/images/recipes-v2/quiche-lorraine-480.webp",
+    "width": 1200,
+    "height": 900,
+    "thumbnailWidth": 480,
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "WorldBites original illustration",
+    "source": "https://worldbitesapp.com/images/recipes-v2/quiche-lorraine.webp",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites"
+  },
+  "tarte-tatin": {
+    "url": "/images/recipes-v2/tarte-tatin.webp",
+    "thumbnailUrl": "/images/recipes-v2/tarte-tatin-480.webp",
+    "width": 1200,
+    "height": 900,
+    "thumbnailWidth": 480,
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "WorldBites original illustration",
+    "source": "https://worldbitesapp.com/images/recipes-v2/tarte-tatin.webp",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites"
+  },
+  "creme-brulee": {
+    "url": "/images/recipes-v2/creme-brulee.webp",
+    "thumbnailUrl": "/images/recipes-v2/creme-brulee-480.webp",
+    "width": 1200,
+    "height": 900,
+    "thumbnailWidth": 480,
+    "thumbnailHeight": 360,
+    "author": "WorldBites",
+    "license": "WorldBites original illustration",
+    "source": "https://worldbitesapp.com/images/recipes-v2/creme-brulee.webp",
+    "licenseUrl": "https://worldbitesapp.com",
+    "provider": "WorldBites"
   }
 }

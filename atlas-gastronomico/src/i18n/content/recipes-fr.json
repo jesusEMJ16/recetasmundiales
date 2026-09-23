@@ -5710,5 +5710,140 @@
       "Portugal traditional cuisine",
       "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
     ]
+  },
+  "r-fr-boeuf-bourguignon": {
+    "dishName": "Bœuf bourguignon",
+    "summary": "Ragoût bourguignon de bœuf au vin rouge, aux champignons, aux carottes et aux petits oignons.",
+    "history": "Cette spécialité est associée à la Bourgogne et à sa tradition de cuisson de la viande au vin. Notre version familiale emploie du bœuf en cubes pour une sauce savoureuse et une cuisson plus courte.",
+    "ingredients": [
+      "800 g de paleron de bœuf en cubes",
+      "500 ml de vin rouge sec",
+      "250 ml de bouillon de bœuf",
+      "150 g de lardons fumés",
+      "250 g de champignons",
+      "12 petits oignons épluchés",
+      "2 carottes et 2 gousses d'ail",
+      "2 cuillères à soupe de farine de blé",
+      "1 cuillère à soupe d'huile, 1 feuille de laurier, sel et poivre"
+    ],
+    "steps": [
+      "Séchez le bœuf et faites-le dorer par petites quantités dans une cocotte avec l'huile ; réservez.",
+      "Faites revenir les lardons, les petits oignons et les carottes. Ajoutez l'ail et la farine et mélangez pour enrober les légumes.",
+      "Versez le vin et le bouillon en grattant le fond. Remettez la viande et le laurier ; couvrez et laissez mijoter doucement jusqu'à ce que la viande soit tendre.",
+      "Poêlez les champignons séparément, ajoutez-les à la cocotte et laissez la sauce épaissir doucement.",
+      "Retirez le laurier, rectifiez le sel et le poivre et servez chaud."
+    ],
+    "tips": [
+      "Évitez une forte ébullition : une cuisson douce garde la viande tendre."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/recette-boeuf-bourguignon/"
+    ]
+  },
+  "r-fr-soupe-oignon": {
+    "dishName": "Soupe à l'oignon gratinée",
+    "summary": "Soupe française aux oignons caramélisés, au bouillon, au pain grillé et au fromage gratiné.",
+    "history": "La soupe à l'oignon gratinée est associée à la cuisine parisienne. Sa profondeur vient de la lente coloration des oignons avant l'ajout du pain et du fromage.",
+    "ingredients": [
+      "800 g d'oignons finement émincés",
+      "50 g de beurre",
+      "1 litre de bouillon de bœuf",
+      "100 ml de vin blanc sec",
+      "2 gousses d'ail",
+      "8 tranches de baguette grillées",
+      "120 g de gruyère râpé",
+      "1 feuille de laurier, sel et poivre"
+    ],
+    "steps": [
+      "Faites fondre le beurre et laissez cuire les oignons à feu doux en remuant jusqu'à ce qu'ils soient bien dorés et sucrés.",
+      "Ajoutez l'ail et le vin ; grattez le fond de la casserole pour récupérer les sucs.",
+      "Versez le bouillon et ajoutez le laurier. Laissez frémir et assaisonnez de sel et de poivre.",
+      "Répartissez la soupe dans des bols allant au four, posez le pain grillé dessus et couvrez de fromage.",
+      "Passez sous le gril jusqu'à ce que le fromage dore et bouillonne ; servez prudemment, les bols sont brûlants."
+    ],
+    "tips": [
+      "Prenez le temps de bien colorer les oignons : c'est la clé du goût."
+    ],
+    "sources": [
+      "https://www.france.fr/en/article/try-a-french-classic-onion-soup/"
+    ]
+  },
+  "r-fr-quiche-lorraine": {
+    "dishName": "Quiche lorraine",
+    "summary": "Tarte salée lorraine à la pâte brisée, aux lardons fumés et à la crème aux œufs.",
+    "history": "La quiche lorraine est une spécialité de Lorraine. Sa garniture traditionnelle associe lardons fumés, œufs et crème dans une pâte brisée, sans ajout nécessaire de fromage.",
+    "ingredients": [
+      "1 pâte brisée pour un moule de 24 cm",
+      "200 g de lardons fumés",
+      "2 œufs entiers et 2 jaunes",
+      "350 ml de crème entière",
+      "1 pincée de noix de muscade",
+      "1 pincée de poivre noir",
+      "1 cuillère à café de beurre pour le moule"
+    ],
+    "steps": [
+      "Préchauffez le four à 180 °C. Beurrez le moule, foncez-le de pâte et piquez le fond à la fourchette.",
+      "Faites légèrement dorer les lardons dans une poêle puis égouttez-les.",
+      "Fouettez les œufs entiers, les jaunes et la crème avec la muscade et le poivre.",
+      "Répartissez les lardons sur la pâte et versez l'appareil. Faites cuire jusqu'à ce que le centre soit pris et le dessus doré.",
+      "Laissez reposer avant de découper et servez tiède."
+    ],
+    "tips": [
+      "Goûtez avant de saler : les lardons apportent souvent assez de sel."
+    ],
+    "sources": [
+      "https://www.france.fr/es/articulo/receta-de-la-quiche-lorraine-clasica-y-muy-facil/"
+    ]
+  },
+  "r-fr-tarte-tatin": {
+    "dishName": "Tarte Tatin",
+    "summary": "Tarte française renversée aux pommes caramélisées sur une pâte feuilletée croustillante.",
+    "history": "La tarte Tatin est liée à Lamotte-Beuvron, dans le Val de Loire. Le récit d'une invention accidentelle est célèbre, mais ses détails historiques restent incertains.",
+    "ingredients": [
+      "800 g de pommes fermes, épluchées et coupées en quartiers",
+      "1 pâte feuilletée pur beurre de 250 g",
+      "120 g de sucre",
+      "80 g de beurre doux",
+      "1 cuillère à soupe de jus de citron",
+      "1 pincée de sel"
+    ],
+    "steps": [
+      "Préchauffez le four à 190 °C. Faites cuire le sucre et le beurre dans une poêle allant au four jusqu'à obtenir un caramel ambré.",
+      "Ajoutez les pommes et le citron, serrez bien les quartiers et laissez-les commencer à s'attendrir.",
+      "Couvrez les pommes avec la pâte et rentrez les bords à l'intérieur de la poêle.",
+      "Enfournez jusqu'à ce que la pâte soit dorée et cuite. Laissez tiédir légèrement avant de démouler.",
+      "Posez une grande assiette sur la poêle, retournez avec précaution et servez tiède."
+    ],
+    "tips": [
+      "Utilisez une poêle qui passe au four et protégez vos mains du caramel chaud au démoulage."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/tarte-tatin-recette/"
+    ]
+  },
+  "r-fr-creme-brulee": {
+    "dishName": "Crème brûlée à la vanille",
+    "summary": "Crème vanillée cuite au four sous une fine croûte de sucre caramélisé et craquant.",
+    "history": "La crème brûlée figure dans d'anciens livres de cuisine français, mais son origine exacte est débattue et elle rappelle la crème catalane. Son attrait vient du contraste entre crème froide et caramel tout juste brûlé.",
+    "ingredients": [
+      "500 ml de crème liquide entière",
+      "5 jaunes d'œufs",
+      "80 g de sucre pour la crème",
+      "40 g de sucre pour caraméliser",
+      "1 gousse de vanille"
+    ],
+    "steps": [
+      "Préchauffez le four à 150 °C. Fendez la vanille et chauffez doucement la crème avec ses graines sans la faire bouillir.",
+      "Fouettez les jaunes avec le sucre de la crème, puis incorporez peu à peu la crème tiède sans faire mousser.",
+      "Filtrez dans des ramequins. Placez-les dans un plat rempli d'eau chaude jusqu'à mi-hauteur.",
+      "Faites cuire jusqu'à ce que les bords soient pris et que le centre tremble encore un peu. Laissez refroidir puis réfrigérez complètement.",
+      "Juste avant de servir, répartissez le sucre restant et caramélisez-le au chalumeau pour former une fine croûte craquante."
+    ],
+    "tips": [
+      "Caramélisez au dernier moment pour garder la croûte bien croustillante."
+    ],
+    "sources": [
+      "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
+    ]
   }
 }

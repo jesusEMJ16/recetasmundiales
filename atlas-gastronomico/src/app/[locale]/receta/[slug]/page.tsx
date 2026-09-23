@@ -150,11 +150,12 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
     cookTime: iso(recipe.cookTimeMin),
     totalTime: iso(recipe.totalTimeMin),
     inLanguage: contentLocale,
+    datePublished: recipe.publishedAt,
     dateModified: recipe.updatedAt,
     recipeYield: t.recipe.servings(recipe.servings),
     recipeIngredient: recipe.ingredients.map((i) => i.text),
     recipeInstructions: recipe.steps.map((s) => ({ "@type": "HowToStep", text: typeof s === 'string' ? s : s.text })),
-    aggregateRating: { "@type": "AggregateRating", ratingValue: recipe.ratingAvg, reviewCount: recipe.ratingCount },
+    ...(recipe.ratingCount > 0 ? { aggregateRating: { "@type": "AggregateRating", ratingValue: recipe.ratingAvg, reviewCount: recipe.ratingCount } } : {}),
   };
 
   // Combined schema with Recipe and BreadcrumbList
@@ -184,7 +185,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
         {place && <p className="eyebrow text-terracota">📍 {translatePlaceName(place, locale)}</p>}
         <h1 lang={contentLocale} dir={localeDirection(contentLocale)} className="font-display text-4xl leading-tight text-ink sm:text-5xl">{recipe.dishName}</h1>
         <div className="flex flex-wrap items-center gap-4">
-          <StarRating value={recipe.ratingAvg} count={recipe.ratingCount} />
+          {recipe.ratingCount > 0 && <StarRating value={recipe.ratingAvg} count={recipe.ratingCount} />}
           <span className="text-sm capitalize text-ink-soft">· {t.moments[recipe.moment]}</span>
         </div>
         <p lang={contentLocale} dir={localeDirection(contentLocale)} className="text-lg leading-relaxed text-ink-soft">{recipe.summary}</p>

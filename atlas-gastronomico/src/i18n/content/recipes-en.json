@@ -5710,5 +5710,140 @@
       "Portugal traditional cuisine",
       "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
     ]
+  },
+  "r-fr-boeuf-bourguignon": {
+    "dishName": "Beef bourguignon",
+    "summary": "Burgundian beef stew with red wine, mushrooms, carrots and pearl onions.",
+    "history": "This dish is closely associated with Burgundy and the region's tradition of cooking meat in wine. Our home version uses cubed beef for a deeply flavored sauce with a shorter simmer.",
+    "ingredients": [
+      "800 g cubed beef chuck",
+      "500 ml dry red wine",
+      "250 ml beef stock",
+      "150 g diced smoked bacon",
+      "250 g mushrooms",
+      "12 peeled pearl onions",
+      "2 carrots and 2 garlic cloves",
+      "2 tablespoons wheat flour",
+      "1 tablespoon oil, 1 bay leaf, salt and pepper"
+    ],
+    "steps": [
+      "Pat the beef dry and brown it in batches with oil in a casserole; set aside.",
+      "Brown the bacon, pearl onions and carrots. Add garlic and flour and stir to coat the vegetables.",
+      "Pour in wine and stock, scraping the pan. Return the beef and add the bay leaf; cover and simmer gently until tender.",
+      "Sauté the mushrooms separately, add them to the stew and let the sauce thicken gently.",
+      "Discard the bay leaf, season with salt and pepper and serve hot."
+    ],
+    "tips": [
+      "Keep the simmer gentle rather than boiling hard to help the beef stay tender."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/recette-boeuf-bourguignon/"
+    ]
+  },
+  "r-fr-soupe-oignon": {
+    "dishName": "French onion soup gratinée",
+    "summary": "French soup of caramelized onions with stock, toasted bread and melted cheese.",
+    "history": "Gratinated onion soup is associated with Parisian cooking. Its depth comes from slowly browning the onions before finishing the broth with bread and cheese.",
+    "ingredients": [
+      "800 g thinly sliced onions",
+      "50 g butter",
+      "1 litre beef stock",
+      "100 ml dry white wine",
+      "2 garlic cloves",
+      "8 toasted baguette slices",
+      "120 g grated Gruyère",
+      "1 bay leaf, salt and pepper"
+    ],
+    "steps": [
+      "Melt the butter and cook the onions over low heat, stirring until deep golden and sweet.",
+      "Add the garlic and wine; scrape the bottom of the pan to release the browned bits.",
+      "Pour in stock and add the bay leaf. Simmer gently and season with salt and pepper.",
+      "Ladle the soup into ovenproof bowls, lay toasted bread on top and cover with cheese.",
+      "Broil until the cheese bubbles and browns; serve carefully as the bowls will be very hot."
+    ],
+    "tips": [
+      "Do not rush the onions: slow browning builds the soup's flavor."
+    ],
+    "sources": [
+      "https://www.france.fr/en/article/try-a-french-classic-onion-soup/"
+    ]
+  },
+  "r-fr-quiche-lorraine": {
+    "dishName": "Quiche Lorraine",
+    "summary": "Savory Lorraine tart with shortcrust pastry, smoked bacon and egg custard.",
+    "history": "Quiche Lorraine is a specialty of Lorraine. Its traditional filling brings together smoked bacon, eggs and cream in a shortcrust pastry shell, without needing cheese.",
+    "ingredients": [
+      "1 sheet shortcrust pastry for a 24 cm tin",
+      "200 g diced smoked bacon",
+      "2 whole eggs and 2 yolks",
+      "350 ml heavy cream",
+      "1 pinch nutmeg",
+      "1 pinch black pepper",
+      "1 teaspoon butter for the tin"
+    ],
+    "steps": [
+      "Heat the oven to 180 °C. Butter the tin, fit the pastry and prick the base with a fork.",
+      "Brown the bacon lightly in a frying pan and drain it.",
+      "Whisk the whole eggs, yolks and cream with nutmeg and pepper.",
+      "Scatter bacon over the pastry and pour in the custard. Bake until the center is set and the top is golden.",
+      "Rest the quiche before slicing and serve warm."
+    ],
+    "tips": [
+      "Taste before adding salt; the bacon is often salty enough."
+    ],
+    "sources": [
+      "https://www.france.fr/es/articulo/receta-de-la-quiche-lorraine-clasica-y-muy-facil/"
+    ]
+  },
+  "r-fr-tarte-tatin": {
+    "dishName": "Tarte Tatin",
+    "summary": "Upside-down French tart of caramelized apples on a crisp puff pastry base.",
+    "history": "Tarte Tatin is linked to Lamotte-Beuvron in the Loire Valley. Its accidental invention is a popular story, although the historical details remain uncertain.",
+    "ingredients": [
+      "800 g firm apples, peeled and quartered",
+      "1 sheet all-butter puff pastry, 250 g",
+      "120 g sugar",
+      "80 g unsalted butter",
+      "1 tablespoon lemon juice",
+      "1 pinch salt"
+    ],
+    "steps": [
+      "Heat the oven to 190 °C. Cook the sugar and butter in an ovenproof pan until amber caramel forms.",
+      "Add the apples and lemon, pack them closely together and cook until they begin to soften.",
+      "Cover the apples with pastry and tuck its edges inside the pan.",
+      "Bake until the pastry is golden and cooked through. Let the tart cool slightly before turning it out.",
+      "Place a large plate over the pan, invert carefully and serve warm."
+    ],
+    "tips": [
+      "Use an ovenproof pan and protect your hands when turning out the hot caramel."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/tarte-tatin-recette/"
+    ]
+  },
+  "r-fr-creme-brulee": {
+    "dishName": "Vanilla crème brûlée",
+    "summary": "French baked vanilla custard topped with a thin, crisp layer of caramelized sugar.",
+    "history": "Crème brûlée appears in early French cookbooks, although its precise origin is debated and it resembles crema catalana. Cool custard beneath a freshly caramelized crust defines the dessert.",
+    "ingredients": [
+      "500 ml heavy cream",
+      "5 egg yolks",
+      "80 g sugar for the custard",
+      "40 g sugar for caramelizing",
+      "1 vanilla pod"
+    ],
+    "steps": [
+      "Heat the oven to 150 °C. Split the vanilla pod and gently heat the cream with its seeds without boiling.",
+      "Whisk the yolks with the custard sugar; gradually stir in the warm cream without creating foam.",
+      "Strain into ramekins. Place them in a roasting pan with hot water reaching halfway up their sides.",
+      "Bake until the edges are set and the centers still wobble slightly. Cool and chill thoroughly.",
+      "Just before serving, spread the remaining sugar on top and caramelize it with a torch to make a thin crisp crust."
+    ],
+    "tips": [
+      "Caramelize just before serving so the sugar crust stays crisp."
+    ],
+    "sources": [
+      "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
+    ]
   }
 }

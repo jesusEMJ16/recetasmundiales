@@ -56,7 +56,7 @@ export function RecipeCard({ recipe, locale, index = 0 }: { recipe: Recipe; loca
         </h3>
         <p className="mt-1.5 line-clamp-2 text-sm text-ink-soft">{recipe.summary}</p>
         <div className="mt-auto flex items-center justify-between pt-3">
-          <StarRating value={recipe.ratingAvg} count={recipe.ratingCount} />
+          {recipe.ratingCount > 0 && <StarRating value={recipe.ratingAvg} count={recipe.ratingCount} />}
           {recipe.diet.length > 0 && (
             <span className="text-xs font-medium uppercase tracking-wide text-agave-deep">{t.diets[recipe.diet[0]]}</span>
           )}

@@ -12524,5 +12524,303 @@
       "No llenes los moldes hasta el borde porque la crema sube durante el horneado."
     ],
     "updatedAt": "2026-09-11"
+  },
+  {
+    "id": "r-fr-boeuf-bourguignon",
+    "dishName": "Boeuf bourguignon",
+    "slug": "boeuf-bourguignon",
+    "placeId": "fr-dij",
+    "summary": "Estofado borgoñón de res al vino tinto con champiñones, zanahoria y cebollitas.",
+    "history": "Especialidad asociada con Borgoña y su tradición de cocinar carnes en vino. Esta versión casera usa carne en cubos para obtener una salsa profunda sin una cocción de jornada completa.",
+    "originConfidence": "modern_variant",
+    "servings": 6,
+    "prepTimeMin": 25,
+    "cookTimeMin": 150,
+    "totalTimeMin": 175,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "800 g de aguja de res en cubos"
+      },
+      {
+        "text": "500 ml de vino tinto seco"
+      },
+      {
+        "text": "250 ml de caldo de res"
+      },
+      {
+        "text": "150 g de panceta ahumada en dados"
+      },
+      {
+        "text": "250 g de champiñones"
+      },
+      {
+        "text": "12 cebollitas pequeñas peladas"
+      },
+      {
+        "text": "2 zanahorias y 2 dientes de ajo"
+      },
+      {
+        "text": "2 cucharadas de harina de trigo"
+      },
+      {
+        "text": "1 cucharada de aceite, 1 hoja de laurel, sal y pimienta"
+      }
+    ],
+    "steps": [
+      "Seca la carne y dórala por tandas en una cazuela con el aceite; retírala.",
+      "Dora la panceta, las cebollitas y la zanahoria. Añade el ajo y la harina y remueve hasta cubrir las verduras.",
+      "Vierte el vino y el caldo, raspando el fondo. Devuelve la carne y añade el laurel; tapa y cocina a fuego bajo hasta que la carne esté tierna.",
+      "Saltea los champiñones por separado, incorpóralos al guiso y deja que la salsa espese suavemente.",
+      "Retira el laurel, ajusta sal y pimienta y sirve caliente."
+    ],
+    "tips": [
+      "No hiervas el guiso con fuerza: una cocción suave mantiene la carne tierna."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/recette-boeuf-bourguignon/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "/images/recipes-v2/boeuf-bourguignon.webp"
+  },
+  {
+    "id": "r-fr-soupe-oignon",
+    "dishName": "Sopa de cebolla gratinada",
+    "slug": "soupe-a-loignon-gratinee",
+    "placeId": "fr-par",
+    "summary": "Sopa francesa de cebolla caramelizada con caldo, pan tostado y queso gratinado.",
+    "history": "La sopa de cebolla gratinada se asocia con la cocina parisina. Su sabor se construye al dorar lentamente las cebollas antes de cubrir el caldo con pan y queso.",
+    "originConfidence": "commonly_associated",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 50,
+    "totalTimeMin": 70,
+    "difficulty": "media",
+    "moment": "cena",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "800 g de cebollas en láminas finas"
+      },
+      {
+        "text": "50 g de mantequilla"
+      },
+      {
+        "text": "1 litro de caldo de res"
+      },
+      {
+        "text": "100 ml de vino blanco seco"
+      },
+      {
+        "text": "2 dientes de ajo"
+      },
+      {
+        "text": "8 rebanadas de baguette tostada"
+      },
+      {
+        "text": "120 g de queso Gruyère rallado"
+      },
+      {
+        "text": "1 hoja de laurel, sal y pimienta"
+      }
+    ],
+    "steps": [
+      "Derrite la mantequilla y cocina las cebollas a fuego bajo, removiendo hasta que estén bien doradas y dulces.",
+      "Añade el ajo y el vino; raspa el fondo de la olla para incorporar el sabor.",
+      "Agrega el caldo y el laurel. Cocina a hervor suave y ajusta sal y pimienta.",
+      "Reparte la sopa en recipientes aptos para horno, coloca encima el pan tostado y cúbrelo con el queso.",
+      "Gratina hasta que el queso burbujee y se dore; sirve con cuidado porque los recipientes estarán muy calientes."
+    ],
+    "tips": [
+      "No apresures las cebollas: el dorado lento da profundidad a la sopa."
+    ],
+    "sources": [
+      "https://www.france.fr/en/article/try-a-french-classic-onion-soup/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "/images/recipes-v2/soupe-a-loignon-gratinee.webp"
+  },
+  {
+    "id": "r-fr-quiche-lorraine",
+    "dishName": "Quiche lorraine",
+    "slug": "quiche-lorraine",
+    "placeId": "fr:grand est",
+    "summary": "Tarta salada de Lorena con masa quebrada, panceta ahumada y crema de huevo.",
+    "history": "La quiche lorraine es una especialidad de Lorena. Su relleno tradicional combina panceta ahumada con huevos y nata sobre una base de masa quebrada, sin necesidad de queso.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 40,
+    "restTimeMin": 15,
+    "totalTimeMin": 75,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "1 lámina de masa quebrada para molde de 24 cm"
+      },
+      {
+        "text": "200 g de panceta ahumada en dados"
+      },
+      {
+        "text": "2 huevos enteros y 2 yemas"
+      },
+      {
+        "text": "350 ml de nata para cocinar"
+      },
+      {
+        "text": "1 pizca de nuez moscada"
+      },
+      {
+        "text": "1 pizca de pimienta negra"
+      },
+      {
+        "text": "1 cucharadita de mantequilla para el molde"
+      }
+    ],
+    "steps": [
+      "Calienta el horno a 180 °C. Engrasa el molde, coloca la masa y pincha el fondo con un tenedor.",
+      "Dora ligeramente la panceta en una sartén y escúrrela.",
+      "Bate los huevos, las yemas y la nata con nuez moscada y pimienta.",
+      "Reparte la panceta sobre la masa y vierte la mezcla de huevo. Hornea hasta que el centro esté cuajado y la superficie dorada.",
+      "Deja reposar la quiche antes de cortarla y sírvela tibia."
+    ],
+    "tips": [
+      "Prueba el relleno antes de añadir sal: la panceta suele aportar suficiente."
+    ],
+    "sources": [
+      "https://www.france.fr/es/articulo/receta-de-la-quiche-lorraine-clasica-y-muy-facil/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "/images/recipes-v2/quiche-lorraine.webp"
+  },
+  {
+    "id": "r-fr-tarte-tatin",
+    "dishName": "Tarte Tatin",
+    "slug": "tarte-tatin",
+    "placeId": "fr:centre-val de loire",
+    "summary": "Tarta francesa invertida de manzanas caramelizadas sobre una base crujiente de hojaldre.",
+    "history": "La tarte Tatin está ligada a Lamotte-Beuvron y al valle del Loira. El relato de su creación accidental es popular, aunque los detalles históricos no están del todo documentados.",
+    "originConfidence": "commonly_associated",
+    "servings": 8,
+    "prepTimeMin": 25,
+    "cookTimeMin": 45,
+    "restTimeMin": 30,
+    "totalTimeMin": 100,
+    "difficulty": "media",
+    "moment": "postre",
+    "diet": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "800 g de manzanas firmes peladas y en cuartos"
+      },
+      {
+        "text": "1 lámina de hojaldre de mantequilla de 250 g"
+      },
+      {
+        "text": "120 g de azúcar"
+      },
+      {
+        "text": "80 g de mantequilla sin sal"
+      },
+      {
+        "text": "1 cucharada de jugo de limón"
+      },
+      {
+        "text": "1 pizca de sal"
+      }
+    ],
+    "steps": [
+      "Calienta el horno a 190 °C. Cocina el azúcar con la mantequilla en una sartén apta para horno hasta lograr un caramelo ámbar.",
+      "Añade las manzanas y el limón y acomódalas bien juntas; cocina hasta que empiecen a ablandarse.",
+      "Cubre las manzanas con el hojaldre y mete los bordes hacia el interior de la sartén.",
+      "Hornea hasta que el hojaldre esté dorado y cocido. Deja templar la tarta antes de voltearla.",
+      "Coloca un plato grande sobre la sartén, invierte con cuidado y sirve tibia."
+    ],
+    "tips": [
+      "Usa una sartén resistente al horno y protege las manos al invertir el caramelo caliente."
+    ],
+    "sources": [
+      "https://www.france.fr/fr/article/tarte-tatin-recette/"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "/images/recipes-v2/tarte-tatin.webp"
+  },
+  {
+    "id": "r-fr-creme-brulee",
+    "dishName": "Crème brûlée de vainilla",
+    "slug": "creme-brulee",
+    "placeId": "fr",
+    "summary": "Crema francesa de vainilla horneada con una capa fina y crujiente de azúcar caramelizado.",
+    "history": "La crème brûlée aparece en recetarios franceses antiguos, aunque su origen exacto se debate y guarda semejanzas con la crema catalana. El contraste entre crema fría y caramelo recién tostado define el postre.",
+    "originConfidence": "disputed",
+    "servings": 6,
+    "prepTimeMin": 15,
+    "cookTimeMin": 35,
+    "restTimeMin": 180,
+    "totalTimeMin": 230,
+    "difficulty": "media",
+    "moment": "postre",
+    "diet": [
+      "vegetariano",
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "text": "500 ml de nata para montar"
+      },
+      {
+        "text": "5 yemas de huevo"
+      },
+      {
+        "text": "80 g de azúcar para la crema"
+      },
+      {
+        "text": "40 g de azúcar para caramelizar"
+      },
+      {
+        "text": "1 vaina de vainilla"
+      }
+    ],
+    "steps": [
+      "Calienta el horno a 150 °C. Abre la vainilla y calienta la nata con sus semillas sin dejar que hierva.",
+      "Bate las yemas con el azúcar de la crema y vierte la nata templada poco a poco, removiendo sin hacer espuma.",
+      "Cuela la mezcla y repártela en ramequines. Colócalos en una bandeja con agua caliente hasta la mitad de su altura.",
+      "Hornea hasta que los bordes estén firmes y el centro aún tiemble ligeramente. Enfría y refrigera por completo.",
+      "Justo antes de servir, reparte el azúcar restante y caramelízalo con soplete hasta formar una capa fina y crujiente."
+    ],
+    "tips": [
+      "Carameliza solo al servir para que la costra conserve el crujido."
+    ],
+    "sources": [
+      "https://www.valrhona.com/fr/l-ecole-valrhona/decouvrir-l-ecole-valrhona/lexique-du-chocolat/creme-brulee"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "image": "/images/recipes-v2/creme-brulee.webp"
   }
 ]
