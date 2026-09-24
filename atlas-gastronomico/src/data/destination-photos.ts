@@ -22,10 +22,27 @@ const COVERS: Record<string, { slug: string; dish: string }> = {
   PE: { slug: "cebiche-de-pescado-peruano", dish: "Cebiche de pescado peruano" },
   CL: { slug: "pastel-de-choclo-chileno", dish: "Pastel de choclo chileno" },
   CO: { slug: "bandeja-paisa-colombiana", dish: "Bandeja paisa colombiana" },
+  MA: { slug: "tajin-marroqui-pollo-limon-aceitunas", dish: "Tajín marroquí de pollo con limón y aceitunas" },
+};
+
+const COUNTRY_COVER_OVERRIDES: Partial<Record<string, RecipeImage>> = {
+  MA: {
+    url: "/images/country-covers/marruecos-tajin.webp",
+    thumbnailUrl: "/images/country-covers/marruecos-tajin-480.webp",
+    width: 1280,
+    height: 720,
+    thumbnailWidth: 480,
+    thumbnailHeight: 270,
+    author: "WorldBites",
+    license: "WorldBites original image",
+    source: "https://worldbitesapp.com/images/country-covers/marruecos-tajin.webp",
+    licenseUrl: "https://worldbitesapp.com",
+    provider: "WorldBites",
+  },
 };
 export const DESTINATION_PHOTOS: Record<string, DestinationPhoto> = Object.fromEntries(
   Object.entries(COVERS).map(([code, cover]) => {
-    const photo = getRecipeImage(cover.slug);
+    const photo = COUNTRY_COVER_OVERRIDES[code] ?? getRecipeImage(cover.slug);
     if (!photo) throw new Error(`Missing destination photo: ${code}/${cover.slug}`);
     return [code, { ...photo, dish: cover.dish, recipeSlug: cover.slug }];
   })

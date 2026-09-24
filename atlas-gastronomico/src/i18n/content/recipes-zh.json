@@ -6579,5 +6579,109 @@
       "https://colombia.travel/es/informacion-practica/acerca-de-colombia",
       "https://colombia.travel/es/macondo-colombia/destinos-colombianos/gastronomia-colombiana-cien-anos-de-soledad"
     ]
+  },
+  "r-ma-tajin-pollo": {
+    "dishName": "摩洛哥腌柠檬橄榄鸡肉塔吉锅",
+    "summary": "鸡肉与腌柠檬、绿橄榄、洋葱、香草和香料在摩洛哥塔吉锅中慢炖而成。",
+    "history": "“塔吉”既指传统陶锅，也指与摩洛哥饮食紧密相关的慢炖方式。鸡肉配腌柠檬和橄榄是最经典的做法之一，咸香、柑橘香和香料味平衡鲜明。",
+    "ingredients": [
+      "1.2 kg 鸡腿和鸡小腿",
+      "2 个腌柠檬，切四瓣",
+      "150 g 绿橄榄",
+      "2 个洋葱，切细丝",
+      "3 瓣大蒜，切碎",
+      "30 g 新鲜香菜，切碎",
+      "20 g 新鲜欧芹，切碎",
+      "2 汤匙橄榄油",
+      "1 茶匙姜粉",
+      "1 茶匙姜黄粉",
+      "½ 茶匙黑胡椒",
+      "250 ml 水或鸡汤"
+    ],
+    "steps": [
+      "将鸡肉与大蒜、香菜、欧芹、姜粉、姜黄、黑胡椒和橄榄油拌匀，静置15分钟。",
+      "把洋葱铺在塔吉锅或厚底锅底部，加入鸡肉，小火煎8-10分钟至微微上色。",
+      "加入250 ml水或鸡汤，盖上盖子，小火炖40分钟，中途翻面一次。",
+      "加入腌柠檬和150 g绿橄榄，不加盖再煮10-15分钟，让酱汁收浓。",
+      "加盐前先尝味，静置5分钟后连同酱汁、橄榄和柠檬一起上桌。"
+    ],
+    "tips": [
+      "最后再决定是否加盐，因为腌柠檬和橄榄本身已经很咸。"
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ]
+  },
+  "r-ma-cuscus-siete-verduras": {
+    "dishName": "摩洛哥七蔬库斯库斯",
+    "summary": "松散的库斯库斯配鹰嘴豆和七种蔬菜，在香料蔬菜汤中煮制，适合多人分享。",
+    "history": "库斯库斯是马格里布饮食传统的重要组成部分，在摩洛哥尤其与家庭聚餐和星期五有关。2020年，摩洛哥、阿尔及利亚、毛里塔尼亚和突尼斯共同传承的库斯库斯制作与食用知识和实践被联合国教科文组织列入非物质文化遗产。",
+    "ingredients": [
+      "400 g 库斯库斯",
+      "240 g 熟鹰嘴豆",
+      "2 根胡萝卜，切大块",
+      "2 根西葫芦，切大块",
+      "300 g 南瓜，切块",
+      "¼ 个卷心菜，切楔形",
+      "2 个芜菁，去皮切块",
+      "1 个洋葱，切碎",
+      "2 个熟番茄，擦碎",
+      "1.2 l 蔬菜汤",
+      "2 汤匙橄榄油",
+      "1 茶匙姜黄粉",
+      "1 茶匙姜粉",
+      "盐和黑胡椒适量"
+    ],
+    "steps": [
+      "加热橄榄油，炒洋葱5分钟；加入番茄、姜黄和姜粉再煮3分钟。",
+      "加入蔬菜汤、胡萝卜、芜菁和卷心菜，中火煮20分钟。",
+      "加入南瓜、西葫芦和鹰嘴豆，再煮15-20分钟，直到蔬菜柔软但保持完整。",
+      "按包装说明准备400 g库斯库斯，用叉子拨松使颗粒分开。",
+      "先铺库斯库斯，再摆上七种蔬菜和鹰嘴豆，最后淋上适量香料汤汁。"
+    ],
+    "tips": [
+      "先放较硬的蔬菜，西葫芦和南瓜后放，这样更能保持形状。"
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy",
+      "https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602"
+    ]
+  },
+  "r-ma-harira": {
+    "dishName": "传统摩洛哥哈里拉汤",
+    "summary": "以番茄、鹰嘴豆、扁豆、香草、肉和细面条制成的浓郁摩洛哥汤，温暖而有饱足感。",
+    "history": "哈里拉是摩洛哥标志性的汤品，以豆类、番茄、香草为基础，常加入肉和细面条。它与斋月关系尤为密切，开斋时常与椰枣、柠檬和传统甜点一起食用。",
+    "ingredients": [
+      "250 g 牛肉或羊肉，切小块",
+      "200 g 熟鹰嘴豆",
+      "120 g 扁豆",
+      "500 g 碎番茄",
+      "1 个洋葱，切碎",
+      "2 根芹菜，切碎",
+      "20 g 新鲜香菜，切碎",
+      "20 g 新鲜欧芹，切碎",
+      "60 g 细面条",
+      "30 g 小麦面粉",
+      "1.5 l 水或高汤",
+      "1 茶匙姜粉",
+      "½ 茶匙姜黄粉",
+      "盐和黑胡椒适量"
+    ],
+    "steps": [
+      "将肉与洋葱和芹菜煎炒6-8分钟；加入姜粉、姜黄、香菜和欧芹。",
+      "加入番茄、扁豆和1.5 l水或高汤，盖上锅盖，中小火煮45分钟。",
+      "加入鹰嘴豆和细面条，再煮10分钟。",
+      "将30 g面粉与120 ml冷水调匀至无结块，边搅拌边缓慢倒入。",
+      "继续煮8-10分钟至汤略微浓稠，调整盐和胡椒，喜欢的话配柠檬热食。"
+    ],
+    "tips": [
+      "面粉水要细细倒入并持续搅拌，这样哈里拉会顺滑浓稠而不会结块。"
+    ],
+    "sources": [
+      "https://www.visitmorocco.com/en/travel-info/food-drinks",
+      "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
+    ]
   }
 }
