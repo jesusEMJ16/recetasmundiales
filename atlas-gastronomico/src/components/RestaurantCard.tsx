@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { Restaurant } from "@/domain/types";
 import { Locale } from "@/i18n/config";
 
@@ -7,12 +6,12 @@ interface RestaurantCardProps {
   locale: Locale;
 }
 
-export default function RestaurantCard({ restaurant, locale }: RestaurantCardProps) {
+// No hay página de detalle por restaurante todavía: la tarjeta no enlaza a ninguna ruta interna.
+export default function RestaurantCard({ restaurant }: RestaurantCardProps) {
   const priceDisplay = "$".repeat(restaurant.priceRange.length);
   
   return (
-    <Link 
-      href={`/${locale}/restaurantes/${restaurant.slug}`}
+    <article
       className="group bg-white dark:bg-gray-800 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 dark:border-gray-700 hover:border-orange-200 dark:hover:border-orange-800"
     >
       {/* Imagen */}
@@ -97,6 +96,6 @@ export default function RestaurantCard({ restaurant, locale }: RestaurantCardPro
           </div>
         )}
       </div>
-    </Link>
+    </article>
   );
 }

@@ -1,7 +1,15 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { usePathname } from "next/navigation";
+import { ADSENSE_CLIENT } from "../site";
+
+// adsbygoogle.js se carga una sola vez en app/layout.tsx.
+declare global {
+  interface Window {
+    adsbygoogle?: object[];
+  }
+}
 
 interface AdSenseProps {
   slot: string;
@@ -16,51 +24,27 @@ export default function AdSenseBanner({
   layout,
   className = "my-4" 
 }: AdSenseProps) {
-  const [isLoaded, setIsLoaded] = useState(false);
   const pathname = usePathname();
 
   useEffect(() => {
-    // Verificar si (adsbygoogle) está disponible
-    if (typeof window !== "undefined" && (window as any).adsbygoogle) {
-      try {
-        ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push({});
-        setIsLoaded(true);
-      } catch (e) {
-        console.warn("AdSense error:", e);
-      }
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    } catch (e) {
+      console.warn("AdSense error:", e);
     }
   }, [pathname, slot]);
-
-  // Script de inicialización de AdSense (solo una vez)
-  useEffect(() => {
-    if (typeof window === "undefined") return;
-    
-    const existingScript = document.querySelector('script[src*="pagead2.googlesyndication.com"]');
-    if (!existingScript) {
-      const script = document.createElement("script");
-      script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX";
-      script.async = true;
-      script.crossOrigin = "anonymous";
-      document.head.appendChild(script);
-    }
-  }, []);
 
   return (
     <div className={`${className} w-full flex justify-center`}>
       <ins
         className="adsbygoogle"
         style={{ display: "block" }}
-        data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+        data-ad-client={ADSENSE_CLIENT}
         data-ad-slot={slot}
         data-ad-format={format}
         data-full-width-responsive="true"
         {...(layout && { "data-layout": layout })}
       />
-      {!isLoaded && (
-        <div className="w-full h-[100px] bg-gray-100 dark:bg-gray-800 rounded-lg flex items-center justify-center text-gray-400 text-sm">
-          Cargando anuncio...
-        </div>
-      )}
     </div>
   );
 }

@@ -1,6 +1,8 @@
+import { Fragment } from "react";
 import type { Metadata } from "next";
 import { getDictionary } from "@/i18n/dictionaries";
 import { Locale, locales, localeMeta, isLocale } from "@/i18n/config";
+import { absoluteUrl } from "@/site";
 import { restaurants, getFeaturedRestaurants } from "@/data/restaurants";
 import RestaurantCard from "@/components/RestaurantCard";
 import AdSenseBanner, { NativeAd, InFeedAd } from "@/components/AdSenseBanner";
@@ -14,7 +16,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!isLocale(locale)) return {};
   
   const dict = getDictionary(locale);
-  const canonicalUrl = `https://worldbitesapp.com/${locale}/restaurantes`;
+  const canonicalUrl = absoluteUrl(`/${locale}/restaurantes`);
   const localeInfo = localeMeta[locale];
   
   return {
@@ -23,7 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     alternates: {
       canonical: canonicalUrl,
       languages: Object.fromEntries(
-        locales.map((l) => [l, `https://worldbitesapp.com/${l}/restaurantes`])
+        locales.map((l) => [l, absoluteUrl(`/${l}/restaurantes`)])
       ),
     },
     openGraph: {
@@ -32,7 +34,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       type: "website",
       locale: localeInfo.htmlLang,
       url: canonicalUrl,
-      siteName: "Atlas Gastronómico Mundial",
+      siteName: dict.header.brand,
     },
     twitter: {
       card: "summary_large_image",
@@ -86,13 +88,13 @@ export default async function RestaurantsPage({ params }: PageProps) {
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {featuredRestaurants.map((restaurant, index) => (
-              <>
-                <RestaurantCard key={restaurant.id} restaurant={restaurant} locale={locale} />
+              <Fragment key={restaurant.id}>
+                <RestaurantCard restaurant={restaurant} locale={locale} />
                 {/* Insertar anuncio in-feed después del segundo restaurante */}
                 {index === 1 && (
                   <InFeedAd slot="2345678901" className="md:col-span-2 lg:col-span-1" />
                 )}
-              </>
+              </Fragment>
             ))}
           </div>
         </div>
@@ -105,7 +107,6 @@ export default async function RestaurantsPage({ params }: PageProps) {
             title="¿Tienes un restaurante?"
             description="Únete a World Bites y muestra tu cocina al mundo. Miles de foodies están buscando experiencias como la tuya."
             cta="Registra tu restaurante"
-            imageUrl="/images/ads/restaurant-partner.jpg"
           />
         </div>
       </section>
@@ -120,13 +121,13 @@ export default async function RestaurantsPage({ params }: PageProps) {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {restaurants.map((restaurant, index) => (
               !restaurant.isFeatured && (
-                <>
-                  <RestaurantCard key={restaurant.id} restaurant={restaurant} locale={locale} />
+                <Fragment key={restaurant.id}>
+                  <RestaurantCard restaurant={restaurant} locale={locale} />
                   {/* Insertar anuncio in-feed cada 3 restaurantes */}
                   {index % 3 === 2 && index < restaurants.length - 1 && (
                     <InFeedAd slot="3456789012" className="md:col-span-2 lg:col-span-1" />
                   )}
-                </>
+                </Fragment>
               )
             ))}
           </div>
