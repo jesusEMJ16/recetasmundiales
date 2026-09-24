@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
 <title id="title">Gnocchi a la sorrentina</title><desc id="desc">Ilustración original de WorldBites de ñoquis a la sorrentina con tomate, mozzarella, Parmigiano y hojas de albahaca.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2d1b12"/><stop offset="1" stop-color="#7a3c22"/></linearGradient><filter id="sh"><feGaussianBlur stdDeviation="20"/></filter></defs>
 <rect width="1280" height="720" fill="url(#bg)"/><ellipse cx="640" cy="595" rx="420" ry="58" fill="#000" opacity=".3" filter="url(#sh)"/>
