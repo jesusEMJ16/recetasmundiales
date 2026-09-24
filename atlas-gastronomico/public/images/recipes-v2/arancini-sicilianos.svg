@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
 <title id="title">Arancini sicilianos</title><desc id="desc">Ilustración original de WorldBites de arancini sicilianos dorados, uno abierto con ragú y mozzarella fundida.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#382313"/><stop offset="1" stop-color="#895127"/></linearGradient><radialGradient id="ball"><stop stop-color="#f1b84c"/><stop offset=".72" stop-color="#d38722"/><stop offset="1" stop-color="#a95d18"/></radialGradient><filter id="sh"><feGaussianBlur stdDeviation="18"/></filter></defs>
 <rect width="1280" height="720" fill="url(#bg)"/><ellipse cx="640" cy="590" rx="420" ry="55" fill="#000" opacity=".3" filter="url(#sh)"/>
