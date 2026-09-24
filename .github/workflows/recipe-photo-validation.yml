@@ -53,9 +53,11 @@ jobs:
           from urllib.parse import urlparse
           from pathlib import Path
           from PIL import Image
+          import xml.etree.ElementTree as ET
           root=Path('atlas-gastronomico')
           photos=json.loads((root/'src/data/recipe-photos.json').read_text())
-          local_count=0
+          local_webp_count=0
+          local_svg_count=0
           remote_count=0
           for slug,p in photos.items():
               for key,w,h in [('url','width','height'),('thumbnailUrl','thumbnailWidth','thumbnailHeight')]:
@@ -67,12 +69,19 @@ jobs:
                       remote_count+=1
                   else:
                       file=root/'public'/value.lstrip('/')
-                      with Image.open(file) as image:
-                          image.load()
-                          assert image.format=='WEBP',slug
-                          assert image.size==(p[w],p[h]),slug
-                      local_count+=1
-          report={'decodedLocalWebPFiles':local_count,'decodedRemoteImages':remote_count,'dimensionMismatches':0}
+                      if file.suffix.lower()=='.svg':
+                          svg=ET.parse(file).getroot()
+                          width=int(float(str(svg.attrib.get('width','0')).replace('px','')))
+                          height=int(float(str(svg.attrib.get('height','0')).replace('px','')))
+                          assert (width,height)==(p[w],p[h]),slug
+                          local_svg_count+=1
+                      else:
+                          with Image.open(file) as image:
+                              image.load()
+                              assert image.format=='WEBP',slug
+                              assert image.size==(p[w],p[h]),slug
+                          local_webp_count+=1
+          report={'decodedLocalWebPFiles':local_webp_count,'decodedLocalSvgFiles':local_svg_count,'decodedRemoteImages':remote_count,'dimensionMismatches':0}
           Path('image-validation/image-decode.json').write_text(json.dumps(report,indent=2))
           print(report)
           PY
