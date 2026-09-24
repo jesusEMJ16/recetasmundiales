@@ -14,6 +14,7 @@ import { useLocale } from "../i18n/useLocale";
 import { getDictionary } from "../i18n/dictionaries";
 import { placeHref } from "../i18n/routing";
 import { translatePlaceName } from "../i18n/content";
+import { siteUi } from "../i18n/site-ui";
 import type { Place } from "../domain/types";
 
 const BY_ID = new Map(PLACES.map(p => [p.id, p]));
@@ -43,7 +44,7 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
   const locale = useLocale();
   const router = useRouter();
   const t = getDictionary(locale);
-  const es = locale === "es";
+  const ui = siteUi[locale].map;
   const selected = selectedId ? BY_ID.get(selectedId)! : null;
     const selectCountry = useCallback((id: string | null) => {
     activeId.current = id;
@@ -70,7 +71,7 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
         map = L.map(container.current, { zoomControl: false, attributionControl: false, minZoom: 0, maxZoom: 14, zoomSnap: .25, scrollWheelZoom: false, maxBounds: [[-80,-200],[86,200]], maxBoundsViscosity: 1 });
         mapRef.current = map;
         map.fitBounds(initialCountry ? INDEX.get(initialCountry)!.bounds as [[number,number],[number,number]] : WORLD_BOUNDS, { padding: [20,20], maxZoom: initialCountry ? 10 : undefined });
-        L.control.zoom({ position: "topright", zoomInTitle: es ? "Acercar" : "Zoom in", zoomOutTitle: es ? "Alejar" : "Zoom out" }).addTo(map);
+        L.control.zoom({ position: "topright", zoomInTitle: ui.zoomIn, zoomOutTitle: ui.zoomOut }).addTo(map);
         L.geoJSON(data, {
           style: feature => ({ className: `map-land${feature?.properties.selectable === false ? "" : " map-land-available"}`, weight: 1, fillOpacity: 1 }),
           onEachFeature: (feature, layer) => {
@@ -155,7 +156,7 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
     }
     void initialize();
     return () => { disposed=true; controller.abort(); resize?.disconnect(); map?.remove(); mapRef.current=null; worldMarkers.current=null; };
-  }, [locale, es, t, selectCountry, attempt, initialCountry]);
+  }, [locale, ui, t, selectCountry, attempt, initialCountry]);
 
   useEffect(() => {
     const currentMap=mapRef.current;
@@ -247,24 +248,24 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
   return (
     <section className={`atlas atlas-drilldown${selected ? " atlas-has-selection" : ""}${expanded ? " atlas-expanded" : ""}`} aria-label={t.home.mapTitle}>
       <div className="atlas-toolbar">
-        <div className="atlas-title"><Compass size={20} aria-hidden="true" />{selected ? translatePlaceName(selected,locale) : t.home.mapTitle}<span className="atlas-total">{selected ? t.place.recipes(COUNTS.get(selected.id) ?? 0) : `195 ${es?"países":"countries"}`}</span></div>
+        <div className="atlas-title"><Compass size={20} aria-hidden="true" />{selected ? translatePlaceName(selected,locale) : t.home.mapTitle}<span className="atlas-total">{selected ? t.place.recipes(COUNTS.get(selected.id) ?? 0) : ui.countries(195)}</span></div>
         <div className="atlas-actions">
-          {selected && <Link className="atlas-recipes-link" href={placeHref(locale,selected)}>{es?"Todas las recetas":"All recipes"}<ArrowUpRight size={15} aria-hidden="true"/></Link>}
+          {selected && <Link className="atlas-recipes-link" href={placeHref(locale,selected)}>{ui.allRecipes}<ArrowUpRight size={15} aria-hidden="true"/></Link>}
           <button className="atlas-reset" type="button" onClick={()=>selectCountry(null)} disabled={status!=="ready"}><Globe2 size={16} aria-hidden="true" />{t.map.reset.replace(/^\S+\s/,"")}</button>
-          <button className="icon-button" type="button" onClick={()=>setExpanded(v=>!v)} aria-pressed={expanded} aria-label={es?(expanded?"Reducir mapa":"Ampliar mapa"):(expanded?"Reduce map":"Expand map")}>{expanded?<Minimize2 size={17}/>:<Maximize2 size={17}/>}</button>
+          <button className="icon-button" type="button" onClick={()=>setExpanded(v=>!v)} aria-pressed={expanded} aria-label={expanded?ui.reduce:ui.expand}>{expanded?<Minimize2 size={17}/>:<Maximize2 size={17}/>}</button>
         </div>
       </div>
       <div className="atlas-content">
         <div className="atlas-viewport">
-          <div ref={container} className="atlas-map" aria-label={es?"Mapa mundial. Selecciona un país para ver sus regiones y recetas.":"World map. Select a country to see its regions and recipes."}/>
-          {status!=="ready" && <div className="map-status" role="status"><Globe2 size={32}/><p>{status==="error"?(es?"No pudimos cargar el mapa. Los destinos siguen disponibles en la lista.":"The map could not load. Destinations remain available in the list."):(es?"Preparando tu próxima parada…":"Preparing your next destination…")}</p>{status==="error"&&<button onClick={()=>{setStatus("loading");setAttempt(v=>v+1);}}>{es?"Reintentar":"Try again"}</button>}</div>}
-          {selected && status==="ready" && regionStatus!=="ready" && <div className="atlas-region-status" role="status">{regionStatus==="loading"?(es?"Cargando regiones…":"Loading regions…"):<>{es?"No se cargaron los límites regionales. Reintenta.":"Regional boundaries could not load. Try again."}<button onClick={()=>setRegionAttempt(v=>v+1)}>{es?"Reintentar":"Try again"}</button></>}</div>}
+          <div ref={container} className="atlas-map" aria-label={ui.label}/>
+          {status!=="ready" && <div className="map-status" role="status"><Globe2 size={32}/><p>{status==="error"?ui.loadError:ui.loading}</p>{status==="error"&&<button onClick={()=>{setStatus("loading");setAttempt(v=>v+1);}}>{ui.retry}</button>}</div>}
+          {selected && status==="ready" && regionStatus!=="ready" && <div className="atlas-region-status" role="status">{regionStatus==="loading"?ui.regionsLoading:<>{ui.regionsError}<button onClick={()=>setRegionAttempt(v=>v+1)}>{ui.retry}</button></>}</div>}
         </div>
         {!selected && <aside className="atlas-sidebar" aria-label={t.home.countriesTitle}>
           <div className="atlas-sidebar-heading">
             <h3>{t.home.countriesEyebrow}</h3>
-            <p>{es?"195 países · con o sin recetas":"195 countries · with or without recipes"}</p>
-            <label className="atlas-list-search"><Search size={16} aria-hidden="true"/><input value={query} onChange={e=>setQuery(e.target.value)} aria-label={es?"Buscar país":"Search country"} placeholder={es?"Buscar país…":"Search country…"}/></label>
+            <p>{ui.countriesWithOrWithout(195)}</p>
+            <label className="atlas-list-search"><Search size={16} aria-hidden="true"/><input value={query} onChange={e=>setQuery(e.target.value)} aria-label={ui.searchCountry} placeholder={ui.searchCountryPlaceholder}/></label>
           </div>
           <div className="atlas-country-list">
             {items.map(place=><button type="button" key={place.id} className="atlas-country" onClick={()=>selectCountry(place.id)}>
@@ -274,10 +275,10 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
             </button>)}
             {items.length===0&&<p className="atlas-list-empty">{t.place.empty}</p>}
           </div>
-          <div className="atlas-selection"><strong>{es?"Del mapa a tu mesa.":"From the map to your table."}</strong><p>{es?"Elige un país. Después, una región.":"Choose a country. Then a region."}</p></div>
+          <div className="atlas-selection"><strong>{ui.selectionTitle}</strong><p>{ui.selectionText}</p></div>
         </aside>}
       </div>
-      <div className="atlas-caption"><span>{selected?(es?"Pulsa una región del mapa para abrir sus recetas; acerca el mapa para ver más abreviaturas":"Select a region on the map to open its recipes; zoom in for more abbreviations"):(es?"Selecciona cualquier país para acercarte y ver sus regiones":"Select any country to zoom in and see its regions")}</span><span><a href="https://www.naturalearthdata.com/" target="_blank" rel="noreferrer">Natural Earth</a>{selected && ["KI","TV"].includes(selected.countryCode) && <> · <a href="https://www.geoboundaries.org/" target="_blank" rel="noreferrer">geoBoundaries</a> / © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a></>} · <a href="/geo/world-countries.LICENSE.txt" target="_blank" rel="noreferrer">{es?"Fuentes":"Sources"}</a></span></div>
+      <div className="atlas-caption"><span>{selected?ui.captionSelected:ui.captionWorld}</span><span><a href="https://www.naturalearthdata.com/" target="_blank" rel="noreferrer">Natural Earth</a>{selected && ["KI","TV"].includes(selected.countryCode) && <> · <a href="https://www.geoboundaries.org/" target="_blank" rel="noreferrer">geoBoundaries</a> / © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a></>} · <a href="/geo/world-countries.LICENSE.txt" target="_blank" rel="noreferrer">{ui.sources}</a></span></div>
     </section>
   );
 }

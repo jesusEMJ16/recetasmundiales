@@ -3,6 +3,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
 import { locales, localeMeta, defaultLocale, isLocale } from "../i18n/config";
+import { siteUi } from "../i18n/site-ui";
 
 // Cambia de idioma conservando la misma página (los slugs son iguales en todos los idiomas).
 export function LocaleSwitcher() {
@@ -35,7 +36,7 @@ export function LocaleSwitcher() {
           setIsOpen(!isOpen);
         }}
         className="flex min-h-11 items-center gap-1.5 rounded-xl border border-line bg-card px-3 py-2 text-sm font-semibold text-ink transition-colors hover:border-terracota hover:text-terracota"
-        aria-label="Cambiar idioma / Change language"
+        aria-label={siteUi[current].changeLanguage}
         onKeyDown={(e) => { if (e.key === "Escape") setIsOpen(false); }}
         aria-expanded={isOpen}
       >

@@ -1,5 +1,7 @@
 import { Restaurant } from "@/domain/types";
 import { Locale } from "@/i18n/config";
+import { siteUi } from "@/i18n/site-ui";
+import { translateRestaurant } from "@/i18n/content/restaurants";
 
 interface RestaurantCardProps {
   restaurant: Restaurant;
@@ -7,7 +9,8 @@ interface RestaurantCardProps {
 }
 
 // No hay página de detalle por restaurante todavía: la tarjeta no enlaza a ninguna ruta interna.
-export default function RestaurantCard({ restaurant }: RestaurantCardProps) {
+export default function RestaurantCard({ restaurant: source, locale }: RestaurantCardProps) {
+  const restaurant = translateRestaurant(source, locale);
   const priceDisplay = "$".repeat(restaurant.priceRange.length);
   
   return (
@@ -31,7 +34,7 @@ export default function RestaurantCard({ restaurant }: RestaurantCardProps) {
         {/* Badge de destacado */}
         {restaurant.isFeatured && (
           <div className="absolute top-3 right-3 bg-yellow-400 text-yellow-900 px-3 py-1 rounded-full text-xs font-bold shadow-lg">
-            ⭐ Destacado
+            ⭐ {siteUi[locale].restaurants.featuredBadge}
           </div>
         )}
         

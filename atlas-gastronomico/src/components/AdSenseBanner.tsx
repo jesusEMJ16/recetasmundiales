@@ -50,8 +50,9 @@ export default function AdSenseBanner({
 }
 
 // Componente para anuncios nativos (estilo contenido)
-export function NativeAd({ title, description, cta, imageUrl, className = "" }: {
+export function NativeAd({ title, description, cta, badge, imageUrl, className = "" }: {
   title: string;
+  badge: string;
   description: string;
   cta: string;
   imageUrl?: string;
@@ -70,7 +71,7 @@ export function NativeAd({ title, description, cta, imageUrl, className = "" }: 
         <div className="flex-1">
           <div className="flex items-center gap-2 mb-1">
             <span className="text-xs font-semibold text-orange-600 dark:text-orange-400 bg-orange-100 dark:bg-orange-900/30 px-2 py-0.5 rounded-full">
-              Anuncio
+              {badge}
             </span>
           </div>
           <h3 className="font-semibold text-gray-900 dark:text-white mb-1">{title}</h3>

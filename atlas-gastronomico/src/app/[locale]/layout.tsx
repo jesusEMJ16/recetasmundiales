@@ -6,6 +6,7 @@ import { defaultLocale, isLocale, locales, localeMeta } from "../../i18n/config"
 import type { Locale } from "../../i18n/config";
 import { getDictionary } from "../../i18n/dictionaries";
 import { SITE_URL, absoluteUrl } from "../../site";
+import { siteUi } from "../../i18n/site-ui";
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -80,7 +81,7 @@ export default async function LocaleLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema(locale)) }}
         />
-        <a className="skip-link" href="#main-content">{locale === "es" ? "Saltar al contenido" : "Skip to content"}</a>
+        <a className="skip-link" href="#main-content">{siteUi[locale].skipToContent}</a>
         <SiteHeader locale={locale} />
         <main id="main-content" className="site-shell">{children}</main>
         <footer className="site-footer">

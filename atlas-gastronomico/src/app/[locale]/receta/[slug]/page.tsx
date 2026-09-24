@@ -153,7 +153,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
         {place && <p className="eyebrow text-terracota">📍 {translatePlaceName(place, locale)}</p>}
         <h1 lang={contentLocale} dir={localeDirection(contentLocale)} className="font-display text-4xl leading-tight text-ink sm:text-5xl">{recipe.dishName}</h1>
         <div className="flex flex-wrap items-center gap-4">
-          {recipe.ratingCount > 0 && <StarRating value={recipe.ratingAvg} count={recipe.ratingCount} />}
+          {recipe.ratingCount > 0 && <StarRating value={recipe.ratingAvg} count={recipe.ratingCount} locale={locale} />}
           <span className="text-sm capitalize text-ink-soft">· {t.moments[recipe.moment]}</span>
         </div>
         <p lang={contentLocale} dir={localeDirection(contentLocale)} className="text-lg leading-relaxed text-ink-soft">{recipe.summary}</p>
@@ -206,8 +206,8 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
 
       {recipe.nutrition && (
         <section className="rounded-[var(--radius-xl2)] border border-line bg-gradient-to-br from-agave/5 to-transparent p-5">
-          <h2 className="font-display text-xl text-ink mb-3">📊 {t.recipe.nutrition || 'Información Nutricional'}</h2>
-          <p className="text-sm text-ink-soft mb-4">{t.recipe.nutritionPerServing || 'Por porción'}</p>
+          <h2 className="font-display text-xl text-ink mb-3">📊 {t.recipe.nutrition}</h2>
+          <p className="text-sm text-ink-soft mb-4">{t.recipe.nutritionPerServing}</p>
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
             <div className="rounded-lg bg-paper p-3 text-center">
               <div className="text-2xl font-bold text-terracota">{recipe.nutrition.calories}</div>

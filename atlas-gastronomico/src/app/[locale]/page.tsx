@@ -15,6 +15,7 @@ import { isLocale, locales } from "../../i18n/config";
 import { getDictionary } from "../../i18n/dictionaries";
 import { placeHref } from "../../i18n/routing";
 import { translatePlaceName } from "../../i18n/content";
+import { siteUi } from "../../i18n/site-ui";
 
 const ALL_COUNTRIES = PLACES.filter(p => p.type === "pais" && DESTINATION_PHOTOS[p.countryCode]);
 export function generateStaticParams() { return locales.map(locale => ({ locale })); }
@@ -35,7 +36,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           <h1>{t.home.titleLead}<br /><em>{t.home.titleAccent}.</em></h1>
         </div>
         <div className="intro-search">
-          <p>{locale === "es" ? "Un lugar, una historia, un sabor. Encuentra tu próxima receta en cualquier rincón del mundo." : locale === "en" ? "A place, a story, a flavor. Find your next recipe in any corner of the world." : t.home.subtitle}</p>
+          <p>{siteUi[locale].homeIntro}</p>
           <UniversalSearch />
         </div>
       </section>
