@@ -6683,5 +6683,128 @@
       "https://www.visitmorocco.com/en/travel-info/food-drinks",
       "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
     ]
+  },
+  "r-it-lasana-bolonesa": {
+    "dishName": "Lasagna Bolognese",
+    "summary": "Lapisan pasta telur dengan ragù sapi dan babi, béchamel lembut, serta Parmigiano Reggiano yang dipanggang hingga keemasan.",
+    "history": "Lasagna Bolognese berkaitan erat dengan Emilia-Romagna dan tradisi makan siang keluarga pada hari Minggu. Versi klasik menyusun pasta telur, ragù daging, béchamel, dan keju parut lalu memanggangnya hingga kecokelatan.",
+    "ingredients": [
+      "12 lembar lasagna telur",
+      "500 g daging sapi cincang",
+      "250 g daging babi cincang",
+      "700 g passata atau tomat hancur",
+      "1 bawang bombai, 1 wortel, dan 1 batang seledri, cincang halus",
+      "150 ml anggur putih kering",
+      "500 ml susu murni",
+      "40 g mentega",
+      "40 g tepung terigu",
+      "120 g Parmigiano Reggiano parut",
+      "2 sendok makan minyak zaitun",
+      "Garam, lada hitam, dan pala secukupnya"
+    ],
+    "steps": [
+      "Tumis bawang bombai, wortel, dan seledri dengan 2 sendok makan minyak selama 8 menit.",
+      "Masukkan daging sapi dan babi lalu masak 10 menit. Tuang 150 ml anggur dan biarkan menguap 2 menit; tambahkan 700 g passata lalu masak perlahan selama 75 menit.",
+      "Lelehkan 40 g mentega, tambahkan 40 g tepung dan masak 2 menit. Tuang 500 ml susu sedikit demi sedikit dan masak 8 menit sambil diaduk hingga béchamel halus; bumbui dengan pala.",
+      "Susun lapisan pasta, ragù, béchamel, dan 120 g Parmigiano Reggiano secara bergantian, sisakan sedikit keju untuk bagian atas.",
+      "Panggang pada 190 °C selama 35 menit, diamkan 15 menit, lalu sajikan."
+    ],
+    "tips": [
+      "Diamkan lasagna sebelum dipotong agar lapisannya set dan setiap porsi tetap rapi."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
+  },
+  "r-it-trofie-pesto-genoves": {
+    "dishName": "Trofie dengan pesto Genovese",
+    "summary": "Pasta trofie dengan pesto basil, kacang pinus, bawang putih, Parmigiano, pecorino, dan minyak zaitun, disajikan dengan kentang serta buncis.",
+    "history": "Trofie dengan pesto adalah hidangan khas Liguria. Pesto Genovese secara tradisional ditumbuk dari basil, bawang putih, kacang pinus, keju, dan minyak zaitun, lalu pasta berbentuk pilin ini sering disajikan bersama kentang dan buncis.",
+    "ingredients": [
+      "360 g pasta trofie",
+      "50 g daun basil segar",
+      "30 g kacang pinus",
+      "1 siung bawang putih",
+      "60 g Parmigiano Reggiano parut",
+      "20 g keju pecorino parut",
+      "100 ml minyak zaitun extra virgin",
+      "200 g kentang, potong dadu kecil",
+      "150 g buncis, potong-potong",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Rebus kentang dalam air asin selama 5 menit; tambahkan buncis dan masak 5 menit lagi.",
+      "Tumbuk bawang putih dan kacang pinus, masukkan basil sedikit demi sedikit, lalu tambahkan 60 g Parmigiano, 20 g pecorino, dan 100 ml minyak hingga menjadi pesto yang lembut.",
+      "Masukkan 360 g trofie ke panci yang sama dan masak 10-12 menit hingga al dente.",
+      "Sisihkan 120 ml air rebusan, tiriskan pasta dan sayuran, lalu aduk di luar api dengan pesto; tambahkan sedikit air rebusan bila perlu.",
+      "Sajikan segera, dengan sedikit keju parut jika diinginkan."
+    ],
+    "tips": [
+      "Jangan memanaskan pesto secara langsung; aduk di luar api agar aroma basil tetap segar."
+    ],
+    "sources": [
+      "https://www.italia.it/en/liguria/things-to-do/typical-food-and-dishes-in-liguria-italy",
+      "https://www.italia.it/en/liguria/things-to-do/pesto-genovese"
+    ]
+  },
+  "r-it-arancini-sicilianos": {
+    "dishName": "Arancini Sisilia",
+    "summary": "Bola nasi berisi ragù, kacang polong, dan mozzarella, dilapisi tepung roti lalu digoreng hingga renyah dan keemasan.",
+    "history": "Arancini, yang di beberapa bagian Sisilia juga disebut arancine, adalah hidangan nasi yang sangat terkait dengan budaya jajanan jalanan pulau tersebut. Ada banyak isian regional; versi ragù, kacang polong, dan keju termasuk yang paling dikenal.",
+    "ingredients": [
+      "300 g beras Arborio",
+      "800 ml kaldu sayuran",
+      "200 g daging sapi cincang",
+      "250 g tomat hancur",
+      "100 g kacang polong",
+      "1/2 bawang bombai, cincang halus",
+      "100 g mozzarella, potong menjadi 8 kubus",
+      "1 telur kocok",
+      "100 g tepung terigu",
+      "150 g tepung roti",
+      "1 l minyak untuk menggoreng",
+      "Garam dan lada secukupnya"
+    ],
+    "steps": [
+      "Masak 300 g beras dengan 800 ml kaldu selama 18 menit hingga empuk dan cairan terserap. Ratakan di loyang dan dinginkan 30 menit.",
+      "Tumis 1/2 bawang bombai bersama daging selama 8 menit; tambahkan 250 g tomat dan 100 g kacang polong lalu masak 12 menit lagi hingga kental.",
+      "Bagi nasi menjadi 8 bagian. Letakkan sedikit ragù dan 1 kubus mozzarella di tengah tiap bagian lalu bentuk menjadi bola padat.",
+      "Baluri setiap bola dengan 100 g tepung, telur kocok, lalu 150 g tepung roti; dinginkan di lemari es selama 10 menit.",
+      "Panaskan 1 l minyak hingga 175 °C dan goreng arancini selama 4-5 menit sampai keemasan. Tiriskan di atas kertas penyerap."
+    ],
+    "tips": [
+      "Pastikan isian kental dan nasi benar-benar dingin agar arancini tidak pecah saat digoreng."
+    ],
+    "sources": [
+      "https://www.italia.it/en/sicily/things-to-do/typical-sicilian-products-dishes"
+    ]
+  },
+  "r-it-gnocchi-sorrentina": {
+    "dishName": "Gnocchi alla Sorrentina",
+    "summary": "Gnocchi kentang dengan saus tomat, mozzarella, Parmigiano Reggiano, dan basil, dipanggang hingga berbuih dan keemasan.",
+    "history": "Gnocchi alla Sorrentina adalah hidangan tradisional Campania yang mencampurkan gnocchi dengan tomat, basil, dan keju sebelum dipanggang. Hidangan hangat ini sangat lekat dengan makan bersama keluarga di wilayah tersebut.",
+    "ingredients": [
+      "800 g gnocchi kentang",
+      "500 g passata atau tomat hancur",
+      "250 g mozzarella fior di latte, ditiriskan dan dipotong dadu",
+      "60 g Parmigiano Reggiano parut",
+      "2 siung bawang putih",
+      "2 sendok makan minyak zaitun extra virgin",
+      "12 daun basil segar",
+      "Garam dan lada secukupnya"
+    ],
+    "steps": [
+      "Tumis 2 siung bawang putih dengan 2 sendok makan minyak selama 1 menit; tambahkan 500 g passata dan masak 15 menit. Angkat bawang putih lalu bumbui.",
+      "Rebus 800 g gnocchi dalam air asin selama 2-3 menit hingga mengapung, lalu tiriskan.",
+      "Aduk gnocchi dengan saus, 150 g mozzarella, dan 40 g Parmigiano. Pindahkan ke loyang lalu taburi sisa 100 g mozzarella dan 20 g Parmigiano.",
+      "Panggang pada 220 °C selama 10-12 menit hingga keju berbuih dan sedikit keemasan.",
+      "Diamkan 5 menit, tambahkan 12 daun basil, lalu sajikan."
+    ],
+    "tips": [
+      "Tiriskan mozzarella dengan baik sebelum digunakan agar hasil panggangan tidak berair."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
   }
 }
