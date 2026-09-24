@@ -6683,5 +6683,128 @@
       "https://www.visitmorocco.com/en/travel-info/food-drinks",
       "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
     ]
+  },
+  "r-it-lasana-bolonesa": {
+    "dishName": "博洛尼亚千层面",
+    "summary": "鸡蛋面片层层夹入牛肉猪肉肉酱、顺滑白酱和Parmigiano Reggiano，烤至金黄。",
+    "history": "博洛尼亚千层面与艾米利亚-罗马涅以及星期日家庭午餐传统密切相关。经典做法将鸡蛋面片、肉酱、白酱和磨碎奶酪分层组合，再烤至表面上色。",
+    "ingredients": [
+      "12 张鸡蛋千层面片",
+      "500 g 牛肉末",
+      "250 g 猪肉末",
+      "700 g 番茄泥或碎番茄",
+      "1 个洋葱、1 根胡萝卜和1 根芹菜，切细",
+      "150 ml 干白葡萄酒",
+      "500 ml 全脂牛奶",
+      "40 g 黄油",
+      "40 g 小麦面粉",
+      "120 g 磨碎的Parmigiano Reggiano",
+      "2 汤匙橄榄油",
+      "盐、黑胡椒和肉豆蔻适量"
+    ],
+    "steps": [
+      "用2 汤匙橄榄油炒洋葱、胡萝卜和芹菜8 分钟。",
+      "加入牛肉和猪肉炒10 分钟。倒入150 ml葡萄酒并蒸发2 分钟；加入700 g番茄泥，小火炖75 分钟。",
+      "融化40 g黄油，加入40 g面粉炒2 分钟。逐渐加入500 ml牛奶，搅拌煮8 分钟至白酱顺滑；用肉豆蔻调味。",
+      "依次铺上面片、肉酱、白酱和120 g Parmigiano Reggiano，留少量奶酪撒在表面。",
+      "以190 °C烤35 分钟，静置15 分钟后食用。"
+    ],
+    "tips": [
+      "切之前让千层面静置一会儿，能让层次定型，每份更完整。"
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
+  },
+  "r-it-trofie-pesto-genoves": {
+    "dishName": "热那亚青酱特罗菲面",
+    "summary": "特罗菲面拌罗勒、松子、大蒜、Parmigiano、佩科里诺和橄榄油青酱，并配土豆和四季豆。",
+    "history": "青酱特罗菲面是利古里亚的代表菜。热那亚青酱传统上用罗勒、大蒜、松子、奶酪和橄榄油捣制，这种扭曲形意面在当地常与土豆和四季豆一起食用。",
+    "ingredients": [
+      "360 g 特罗菲面",
+      "50 g 新鲜罗勒叶",
+      "30 g 松子",
+      "1 瓣大蒜",
+      "60 g 磨碎的Parmigiano Reggiano",
+      "20 g 磨碎的佩科里诺奶酪",
+      "100 ml 特级初榨橄榄油",
+      "200 g 土豆，切小丁",
+      "150 g 四季豆，切段",
+      "盐适量"
+    ],
+    "steps": [
+      "土豆放入盐水中煮5 分钟；加入四季豆再煮5 分钟。",
+      "捣碎大蒜和松子，逐渐加入罗勒，再加入60 g Parmigiano、20 g佩科里诺和100 ml橄榄油，调成顺滑青酱。",
+      "把360 g特罗菲面加入同一锅中，煮10-12 分钟，直到al dente。",
+      "留出120 ml煮面水，将意面和蔬菜沥干，离火后与青酱拌匀；需要时加入少量留出的水。",
+      "立即食用，喜欢的话可再撒少量磨碎奶酪。"
+    ],
+    "tips": [
+      "不要直接加热青酱；离火拌匀可以保留罗勒的新鲜香气。"
+    ],
+    "sources": [
+      "https://www.italia.it/en/liguria/things-to-do/typical-food-and-dishes-in-liguria-italy",
+      "https://www.italia.it/en/liguria/things-to-do/pesto-genovese"
+    ]
+  },
+  "r-it-arancini-sicilianos": {
+    "dishName": "西西里炸饭团",
+    "summary": "米饭包入肉酱、豌豆和马苏里拉，裹粉后炸至金黄酥脆。",
+    "history": "西西里炸饭团在岛上不同地区也有不同称呼，是与当地街头美食文化紧密相连的米食。各地馅料很多，其中肉酱、豌豆和奶酪版本最为知名。",
+    "ingredients": [
+      "300 g Arborio米",
+      "800 ml 蔬菜高汤",
+      "200 g 牛肉末",
+      "250 g 碎番茄",
+      "100 g 豌豆",
+      "1/2 个洋葱，切细",
+      "100 g 马苏里拉，切成8 个小方块",
+      "1 个打散的鸡蛋",
+      "100 g 小麦面粉",
+      "150 g 面包糠",
+      "1 l 炸油",
+      "盐和黑胡椒适量"
+    ],
+    "steps": [
+      "将300 g米和800 ml高汤煮18 分钟，直到米变软并吸收液体。摊在托盘上冷却30 分钟。",
+      "把1/2 个洋葱和牛肉炒8 分钟；加入250 g番茄和100 g豌豆，再煮12 分钟至浓稠。",
+      "把米分成8 份。每份中央放少量肉酱和1 个马苏里拉方块，捏成紧实饭团。",
+      "每个饭团依次裹100 g面粉、蛋液和150 g面包糠；冷藏10 分钟。",
+      "将1 l油加热到175 °C，把饭团炸4-5 分钟至金黄。放在吸油纸上沥油。"
+    ],
+    "tips": [
+      "馅料要够浓、米饭要充分冷却，这样炸制时饭团不容易裂开。"
+    ],
+    "sources": [
+      "https://www.italia.it/en/sicily/things-to-do/typical-sicilian-products-dishes"
+    ]
+  },
+  "r-it-gnocchi-sorrentina": {
+    "dishName": "索伦托风味意式面疙瘩",
+    "summary": "土豆面疙瘩配番茄酱、马苏里拉、Parmigiano Reggiano和罗勒，烤至冒泡并呈金黄色。",
+    "history": "索伦托风味意式面疙瘩是坎帕尼亚的传统做法，把面疙瘩与番茄、罗勒和奶酪拌匀后焗烤。它是一道与当地家庭聚餐密切相关的温暖家常菜。",
+    "ingredients": [
+      "800 g 土豆面疙瘩",
+      "500 g 番茄泥或碎番茄",
+      "250 g fior di latte马苏里拉，沥干切丁",
+      "60 g 磨碎的Parmigiano Reggiano",
+      "2 瓣大蒜",
+      "2 汤匙特级初榨橄榄油",
+      "12 片新鲜罗勒叶",
+      "盐和黑胡椒适量"
+    ],
+    "steps": [
+      "用2 汤匙橄榄油炒2 瓣大蒜1 分钟；加入500 g番茄泥煮15 分钟。取出大蒜并调味。",
+      "把800 g面疙瘩放入盐水中煮2-3 分钟，浮到水面后沥干。",
+      "将面疙瘩与酱汁、150 g马苏里拉和40 g Parmigiano拌匀。放入烤盘，表面铺剩余的100 g马苏里拉和20 g Parmigiano。",
+      "以220 °C烤10-12 分钟，直到奶酪冒泡并略微上色。",
+      "静置5 分钟，加入12 片罗勒叶后食用。"
+    ],
+    "tips": [
+      "使用前把马苏里拉充分沥干，避免焗烤成品水分过多。"
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
   }
 }
