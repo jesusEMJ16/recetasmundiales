@@ -6683,5 +6683,128 @@
       "https://www.visitmorocco.com/en/travel-info/food-drinks",
       "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
     ]
+  },
+  "r-it-lasana-bolonesa": {
+    "dishName": "Lasagne alla Bolognese",
+    "summary": "Layers of egg pasta with beef-and-pork ragù, silky béchamel and Parmigiano Reggiano, baked until golden.",
+    "history": "Lasagne alla Bolognese are associated with Emilia-Romagna and the tradition of Sunday family lunches. The classic version layers egg pasta with meat ragù, béchamel and grated cheese before baking until browned.",
+    "ingredients": [
+      "12 sheets egg lasagne",
+      "500 g ground beef",
+      "250 g ground pork",
+      "700 g passata or crushed tomatoes",
+      "1 onion, 1 carrot and 1 celery stalk, finely chopped",
+      "150 ml dry white wine",
+      "500 ml whole milk",
+      "40 g butter",
+      "40 g wheat flour",
+      "120 g grated Parmigiano Reggiano",
+      "2 tablespoons olive oil",
+      "Salt, black pepper and nutmeg to taste"
+    ],
+    "steps": [
+      "Sauté the onion, carrot and celery with 2 tablespoons of oil for 8 minutes.",
+      "Add the beef and pork and cook for 10 minutes. Pour in 150 ml wine and let it evaporate for 2 minutes; add 700 g passata and simmer gently for 75 minutes.",
+      "Melt 40 g butter, add 40 g flour and cook for 2 minutes. Gradually whisk in 500 ml milk and cook for 8 minutes until smooth; season with nutmeg.",
+      "Build alternating layers of pasta, ragù, béchamel and 120 g Parmigiano Reggiano, reserving a little cheese for the top.",
+      "Bake at 190 °C for 35 minutes, rest for 15 minutes and serve."
+    ],
+    "tips": [
+      "Let the lasagne rest before slicing so the layers settle and each serving keeps its shape."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
+  },
+  "r-it-trofie-pesto-genoves": {
+    "dishName": "Trofie with Genovese pesto",
+    "summary": "Trofie pasta with basil pesto, pine nuts, garlic, Parmigiano, pecorino and olive oil, served with potato and green beans.",
+    "history": "Trofie with pesto are a signature dish of Liguria. Genovese pesto is traditionally made by crushing basil, garlic, pine nuts, cheese and olive oil, and in the region this twisted pasta is often served with potato and green beans.",
+    "ingredients": [
+      "360 g trofie pasta",
+      "50 g fresh basil leaves",
+      "30 g pine nuts",
+      "1 garlic clove",
+      "60 g grated Parmigiano Reggiano",
+      "20 g grated pecorino cheese",
+      "100 ml extra virgin olive oil",
+      "200 g potato, cut into small cubes",
+      "150 g green beans, cut into pieces",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Boil the potato in salted water for 5 minutes; add the green beans and cook for 5 minutes more.",
+      "Crush the garlic and pine nuts, gradually work in the basil, then add 60 g Parmigiano, 20 g pecorino and 100 ml oil until creamy.",
+      "Add 360 g trofie to the same pot and cook for 10-12 minutes, or until al dente.",
+      "Reserve 120 ml cooking water, drain the pasta and vegetables, and toss off the heat with the pesto; add a little reserved water if needed.",
+      "Serve immediately, with a little grated cheese if desired."
+    ],
+    "tips": [
+      "Do not heat the pesto directly; toss it off the heat to preserve the fresh basil aroma."
+    ],
+    "sources": [
+      "https://www.italia.it/en/liguria/things-to-do/typical-food-and-dishes-in-liguria-italy",
+      "https://www.italia.it/en/liguria/things-to-do/pesto-genovese"
+    ]
+  },
+  "r-it-arancini-sicilianos": {
+    "dishName": "Sicilian arancini",
+    "summary": "Rice balls filled with ragù, peas and mozzarella, breaded and fried until crisp and golden.",
+    "history": "Arancini, also called arancine in parts of Sicily, are a rice specialty closely linked to the island's street-food culture. Many regional fillings exist; the version with ragù, peas and cheese is one of the best known.",
+    "ingredients": [
+      "300 g Arborio rice",
+      "800 ml vegetable stock",
+      "200 g ground beef",
+      "250 g crushed tomatoes",
+      "100 g peas",
+      "1/2 onion, finely chopped",
+      "100 g mozzarella, cut into 8 cubes",
+      "1 beaten egg",
+      "100 g wheat flour",
+      "150 g breadcrumbs",
+      "1 l oil for frying",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Cook 300 g rice with 800 ml stock for 18 minutes, until tender and the liquid is absorbed. Spread on a tray and cool for 30 minutes.",
+      "Sauté 1/2 onion with the beef for 8 minutes; add 250 g tomatoes and 100 g peas and cook for 12 minutes more, until thick.",
+      "Divide the rice into 8 portions. Put some ragù and 1 cube of mozzarella in the center of each and shape into compact balls.",
+      "Coat each ball with 100 g flour, beaten egg and 150 g breadcrumbs; refrigerate for 10 minutes.",
+      "Heat 1 l oil to 175 °C and fry the arancini for 4-5 minutes until golden. Drain on absorbent paper."
+    ],
+    "tips": [
+      "Keep the filling thick and the rice well chilled so the arancini do not split during frying."
+    ],
+    "sources": [
+      "https://www.italia.it/en/sicily/things-to-do/typical-sicilian-products-dishes"
+    ]
+  },
+  "r-it-gnocchi-sorrentina": {
+    "dishName": "Gnocchi alla Sorrentina",
+    "summary": "Potato gnocchi with tomato sauce, mozzarella, Parmigiano Reggiano and basil, baked until bubbling and golden.",
+    "history": "Gnocchi alla Sorrentina are a traditional Campanian preparation in which gnocchi are combined with tomato, basil and cheeses before being baked. It is a comforting dish closely associated with family meals in the region.",
+    "ingredients": [
+      "800 g potato gnocchi",
+      "500 g passata or crushed tomatoes",
+      "250 g fior di latte mozzarella, drained and cubed",
+      "60 g grated Parmigiano Reggiano",
+      "2 garlic cloves",
+      "2 tablespoons extra virgin olive oil",
+      "12 fresh basil leaves",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Sauté 2 garlic cloves in 2 tablespoons of oil for 1 minute; add 500 g passata and cook for 15 minutes. Remove the garlic and season.",
+      "Boil 800 g gnocchi in salted water for 2-3 minutes, until they rise to the surface, then drain.",
+      "Toss the gnocchi with the sauce, 150 g mozzarella and 40 g Parmigiano. Transfer to a baking dish and top with the remaining 100 g mozzarella and 20 g Parmigiano.",
+      "Bake at 220 °C for 10-12 minutes, until the cheese bubbles and browns lightly.",
+      "Rest for 5 minutes, finish with the 12 basil leaves and serve."
+    ],
+    "tips": [
+      "Drain the mozzarella well before using it so the baked dish does not become watery."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
   }
 }
