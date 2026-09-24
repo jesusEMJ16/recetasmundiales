@@ -6683,5 +6683,128 @@
       "https://www.visitmorocco.com/en/travel-info/food-drinks",
       "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
     ]
+  },
+  "r-it-lasana-bolonesa": {
+    "dishName": "Lasanha à bolonhesa",
+    "summary": "Camadas de massa de ovo com ragù de vaca e porco, béchamel sedoso e Parmigiano Reggiano, assadas até dourar.",
+    "history": "A lasanha à bolonhesa está associada à Emília-Romanha e à tradição dos almoços familiares de domingo. A versão clássica alterna massa de ovo, ragù de carne, béchamel e queijo ralado antes de ir ao forno.",
+    "ingredients": [
+      "12 folhas de lasanha de ovo",
+      "500 g de carne de vaca picada",
+      "250 g de carne de porco picada",
+      "700 g de passata ou tomate triturado",
+      "1 cebola, 1 cenoura e 1 talo de aipo, finamente picados",
+      "150 ml de vinho branco seco",
+      "500 ml de leite gordo",
+      "40 g de manteiga",
+      "40 g de farinha de trigo",
+      "120 g de Parmigiano Reggiano ralado",
+      "2 colheres de sopa de azeite",
+      "Sal, pimenta-preta e noz-moscada a gosto"
+    ],
+    "steps": [
+      "Refogue a cebola, a cenoura e o aipo com 2 colheres de sopa de azeite durante 8 minutos.",
+      "Junte a carne de vaca e de porco e cozinhe 10 minutos. Adicione 150 ml de vinho e deixe evaporar 2 minutos; junte 700 g de passata e cozinhe em lume brando durante 75 minutos.",
+      "Derreta 40 g de manteiga, junte 40 g de farinha e cozinhe 2 minutos. Acrescente gradualmente 500 ml de leite e cozinhe 8 minutos, mexendo, até obter um béchamel liso; tempere com noz-moscada.",
+      "Monte camadas alternadas de massa, ragù, béchamel e 120 g de Parmigiano Reggiano, reservando um pouco de queijo para o topo.",
+      "Leve ao forno a 190 °C durante 35 minutos, deixe repousar 15 minutos e sirva."
+    ],
+    "tips": [
+      "Deixe a lasanha repousar antes de cortar para que as camadas assentem e cada porção mantenha a forma."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
+  },
+  "r-it-trofie-pesto-genoves": {
+    "dishName": "Trofie com pesto genovês",
+    "summary": "Massa trofie com pesto de manjericão, pinhões, alho, Parmigiano, pecorino e azeite, acompanhada de batata e feijão-verde.",
+    "history": "As trofie com pesto são um prato emblemático da Ligúria. O pesto genovês é tradicionalmente esmagado com manjericão, alho, pinhões, queijo e azeite, e esta massa torcida é frequentemente servida com batata e feijão-verde.",
+    "ingredients": [
+      "360 g de massa trofie",
+      "50 g de folhas de manjericão fresco",
+      "30 g de pinhões",
+      "1 dente de alho",
+      "60 g de Parmigiano Reggiano ralado",
+      "20 g de queijo pecorino ralado",
+      "100 ml de azeite virgem extra",
+      "200 g de batata em cubos pequenos",
+      "150 g de feijão-verde em pedaços",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Coza a batata em água com sal durante 5 minutos; junte o feijão-verde e cozinhe mais 5 minutos.",
+      "Esmague o alho e os pinhões, incorpore gradualmente o manjericão e depois junte 60 g de Parmigiano, 20 g de pecorino e 100 ml de azeite até obter um pesto cremoso.",
+      "Junte 360 g de trofie à mesma panela e coza 10-12 minutos, até ficar al dente.",
+      "Reserve 120 ml da água da cozedura, escorra a massa e os legumes e misture fora do lume com o pesto; junte um pouco da água reservada se necessário.",
+      "Sirva de imediato, com um pouco de queijo ralado se desejar."
+    ],
+    "tips": [
+      "Não aqueça o pesto diretamente; misture-o fora do lume para preservar o aroma fresco do manjericão."
+    ],
+    "sources": [
+      "https://www.italia.it/en/liguria/things-to-do/typical-food-and-dishes-in-liguria-italy",
+      "https://www.italia.it/en/liguria/things-to-do/pesto-genovese"
+    ]
+  },
+  "r-it-arancini-sicilianos": {
+    "dishName": "Arancini sicilianos",
+    "summary": "Bolas de arroz recheadas com ragù, ervilhas e mozzarella, panadas e fritas até ficarem douradas e estaladiças.",
+    "history": "Os arancini, também chamados arancine em algumas zonas da Sicília, são uma especialidade de arroz muito ligada à comida de rua da ilha. Existem muitos recheios regionais; a versão com ragù, ervilhas e queijo é uma das mais conhecidas.",
+    "ingredients": [
+      "300 g de arroz Arborio",
+      "800 ml de caldo de legumes",
+      "200 g de carne de vaca picada",
+      "250 g de tomate triturado",
+      "100 g de ervilhas",
+      "1/2 cebola finamente picada",
+      "100 g de mozzarella cortada em 8 cubos",
+      "1 ovo batido",
+      "100 g de farinha de trigo",
+      "150 g de pão ralado",
+      "1 l de óleo para fritar",
+      "Sal e pimenta a gosto"
+    ],
+    "steps": [
+      "Coza 300 g de arroz com 800 ml de caldo durante 18 minutos, até ficar macio e absorver o líquido. Espalhe num tabuleiro e deixe arrefecer 30 minutos.",
+      "Refogue 1/2 cebola com a carne durante 8 minutos; junte 250 g de tomate e 100 g de ervilhas e cozinhe mais 12 minutos, até engrossar.",
+      "Divida o arroz em 8 porções. Coloque um pouco de ragù e 1 cubo de mozzarella no centro de cada uma e forme bolas compactas.",
+      "Passe cada bola por 100 g de farinha, ovo batido e 150 g de pão ralado; leve ao frigorífico durante 10 minutos.",
+      "Aqueça 1 l de óleo a 175 °C e frite os arancini durante 4-5 minutos, até dourarem. Escorra sobre papel absorvente."
+    ],
+    "tips": [
+      "Mantenha o recheio espesso e o arroz bem frio para que os arancini não se abram durante a fritura."
+    ],
+    "sources": [
+      "https://www.italia.it/en/sicily/things-to-do/typical-sicilian-products-dishes"
+    ]
+  },
+  "r-it-gnocchi-sorrentina": {
+    "dishName": "Gnocchi alla Sorrentina",
+    "summary": "Gnocchi de batata com molho de tomate, mozzarella, Parmigiano Reggiano e manjericão, gratinados até borbulhar e dourar.",
+    "history": "Os gnocchi alla Sorrentina são uma preparação tradicional da Campânia em que os gnocchi são misturados com tomate, manjericão e queijos antes de gratinar. É um prato reconfortante muito ligado às refeições familiares da região.",
+    "ingredients": [
+      "800 g de gnocchi de batata",
+      "500 g de passata ou tomate triturado",
+      "250 g de mozzarella fior di latte, escorrida e em cubos",
+      "60 g de Parmigiano Reggiano ralado",
+      "2 dentes de alho",
+      "2 colheres de sopa de azeite virgem extra",
+      "12 folhas de manjericão fresco",
+      "Sal e pimenta a gosto"
+    ],
+    "steps": [
+      "Refogue 2 dentes de alho em 2 colheres de sopa de azeite durante 1 minuto; junte 500 g de passata e cozinhe 15 minutos. Retire o alho e tempere.",
+      "Coza 800 g de gnocchi em água com sal durante 2-3 minutos, até subirem à superfície, e escorra.",
+      "Misture os gnocchi com o molho, 150 g de mozzarella e 40 g de Parmigiano. Passe para um tabuleiro e cubra com os restantes 100 g de mozzarella e 20 g de Parmigiano.",
+      "Gratine a 220 °C durante 10-12 minutos, até o queijo borbulhar e dourar ligeiramente.",
+      "Deixe repousar 5 minutos, finalize com as 12 folhas de manjericão e sirva."
+    ],
+    "tips": [
+      "Escorra bem a mozzarella antes de usar para evitar que o gratinado fique aguado."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
   }
 }
