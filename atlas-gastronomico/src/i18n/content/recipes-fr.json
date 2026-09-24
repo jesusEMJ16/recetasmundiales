@@ -6683,5 +6683,127 @@
       "https://www.visitmorocco.com/en/travel-info/food-drinks",
       "https://www.visitmorocco.com/en/discover-morocco/gastronomy"
     ]
+  },
+  "r-it-lasana-bolonesa": {
+    "dishName": "Lasagnes à la bolognaise",
+    "summary": "Des couches de pâtes aux œufs, de ragù de bœuf et de porc, de béchamel soyeuse et de Parmigiano Reggiano, gratinées au four.",
+    "history": "Les lasagnes à la bolognaise sont associées à l'Émilie-Romagne et à la tradition des déjeuners familiaux du dimanche. La version classique alterne pâtes aux œufs, ragù de viande, béchamel et fromage râpé avant d'être gratinée.",
+    "ingredients": [
+      "12 feuilles de lasagnes aux œufs",
+      "500 g de bœuf haché",
+      "250 g de porc haché",
+      "700 g de passata ou de tomates concassées",
+      "1 oignon, 1 carotte et 1 branche de céleri, finement hachés",
+      "150 ml de vin blanc sec",
+      "500 ml de lait entier",
+      "40 g de beurre",
+      "40 g de farine de blé",
+      "120 g de Parmigiano Reggiano râpé",
+      "2 cuillères à soupe d'huile d'olive",
+      "Sel, poivre noir et noix de muscade selon le goût"
+    ],
+    "steps": [
+      "Faites revenir l'oignon, la carotte et le céleri avec 2 cuillères à soupe d'huile pendant 8 minutes.",
+      "Ajoutez le bœuf et le porc et faites cuire 10 minutes. Versez 150 ml de vin et laissez évaporer 2 minutes ; ajoutez 700 g de passata et laissez mijoter 75 minutes.",
+      "Faites fondre 40 g de beurre, ajoutez 40 g de farine et cuisez 2 minutes. Incorporez progressivement 500 ml de lait et cuisez 8 minutes jusqu'à obtenir une béchamel lisse ; parfumez de muscade.",
+      "Montez des couches de pâtes, ragù, béchamel et 120 g de Parmigiano Reggiano, en réservant un peu de fromage pour le dessus.",
+      "Enfournez à 190 °C pendant 35 minutes, laissez reposer 15 minutes puis servez."
+    ],
+    "tips": [
+      "Laissez reposer les lasagnes avant de les couper afin que les couches se stabilisent et gardent leur forme."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
+  },
+  "r-it-trofie-pesto-genoves": {
+    "dishName": "Trofie au pesto génois",
+    "summary": "Des trofie au pesto de basilic, pignons, ail, Parmigiano, pecorino et huile d'olive, avec pomme de terre et haricots verts.",
+    "history": "Les trofie au pesto sont un plat emblématique de la Ligurie. Le pesto génois est traditionnellement pilé avec basilic, ail, pignons, fromage et huile d'olive, et cette pâte torsadée est souvent servie avec pomme de terre et haricots verts.",
+    "ingredients": [
+      "360 g de trofie",
+      "50 g de feuilles de basilic frais",
+      "30 g de pignons",
+      "1 gousse d'ail",
+      "60 g de Parmigiano Reggiano râpé",
+      "20 g de pecorino râpé",
+      "100 ml d'huile d'olive extra vierge",
+      "200 g de pomme de terre en petits dés",
+      "150 g de haricots verts en morceaux",
+      "Sel selon le goût"
+    ],
+    "steps": [
+      "Faites cuire la pomme de terre dans l'eau salée pendant 5 minutes ; ajoutez les haricots verts et cuisez encore 5 minutes.",
+      "Pilez l'ail et les pignons, incorporez peu à peu le basilic, puis ajoutez 60 g de Parmigiano, 20 g de pecorino et 100 ml d'huile jusqu'à obtenir un pesto crémeux.",
+      "Ajoutez 360 g de trofie dans la même casserole et cuisez 10-12 minutes, jusqu'à ce qu'elles soient al dente.",
+      "Réservez 120 ml d'eau de cuisson, égouttez pâtes et légumes puis mélangez hors du feu avec le pesto ; ajoutez un peu d'eau réservée si nécessaire.",
+      "Servez immédiatement, avec un peu de fromage râpé si vous le souhaitez."
+    ],
+    "tips": [
+      "Ne chauffez pas directement le pesto ; mélangez-le hors du feu pour préserver l'arôme frais du basilic."
+    ],
+    "sources": [
+      "https://www.italia.it/en/liguria/things-to-do/typical-food-and-dishes-in-liguria-italy"
+    ]
+  },
+  "r-it-arancini-sicilianos": {
+    "dishName": "Arancini siciliens",
+    "summary": "Des boules de riz farcies de ragù, petits pois et mozzarella, panées puis frites jusqu'à être croustillantes et dorées.",
+    "history": "Les arancini, aussi appelés arancine dans certaines zones de Sicile, sont une spécialité de riz étroitement liée à la cuisine de rue de l'île. Il existe de nombreuses farces régionales ; celle au ragù, petits pois et fromage est parmi les plus connues.",
+    "ingredients": [
+      "300 g de riz Arborio",
+      "800 ml de bouillon de légumes",
+      "200 g de bœuf haché",
+      "250 g de tomates concassées",
+      "100 g de petits pois",
+      "1/2 oignon finement haché",
+      "100 g de mozzarella coupée en 8 cubes",
+      "1 œuf battu",
+      "100 g de farine de blé",
+      "150 g de chapelure",
+      "1 l d'huile pour friture",
+      "Sel et poivre selon le goût"
+    ],
+    "steps": [
+      "Faites cuire 300 g de riz avec 800 ml de bouillon pendant 18 minutes, jusqu'à tendreté et absorption du liquide. Étalez sur une plaque et laissez refroidir 30 minutes.",
+      "Faites revenir 1/2 oignon avec le bœuf pendant 8 minutes ; ajoutez 250 g de tomates et 100 g de petits pois puis cuisez encore 12 minutes, jusqu'à épaississement.",
+      "Divisez le riz en 8 portions. Placez un peu de ragù et 1 cube de mozzarella au centre de chacune puis formez des boules compactes.",
+      "Passez chaque boule dans 100 g de farine, l'œuf battu puis 150 g de chapelure ; réfrigérez 10 minutes.",
+      "Chauffez 1 l d'huile à 175 °C et faites frire les arancini 4-5 minutes jusqu'à ce qu'ils soient dorés. Égouttez sur du papier absorbant."
+    ],
+    "tips": [
+      "Gardez la farce épaisse et le riz bien froid afin que les arancini ne s'ouvrent pas pendant la friture."
+    ],
+    "sources": [
+      "https://www.italia.it/en/sicily/things-to-do/typical-sicilian-products-dishes"
+    ]
+  },
+  "r-it-gnocchi-sorrentina": {
+    "dishName": "Gnocchi alla Sorrentina",
+    "summary": "Des gnocchi de pomme de terre avec sauce tomate, mozzarella, Parmigiano Reggiano et basilic, gratinés jusqu'à bouillonner et dorer.",
+    "history": "Les gnocchi alla Sorrentina sont une préparation traditionnelle de Campanie où les gnocchi sont mélangés à la tomate, au basilic et aux fromages avant de gratiner. C'est un plat réconfortant très lié aux repas familiaux de la région.",
+    "ingredients": [
+      "800 g de gnocchi de pomme de terre",
+      "500 g de passata ou de tomates concassées",
+      "250 g de mozzarella fior di latte, égouttée et en dés",
+      "60 g de Parmigiano Reggiano râpé",
+      "2 gousses d'ail",
+      "2 cuillères à soupe d'huile d'olive extra vierge",
+      "12 feuilles de basilic frais",
+      "Sel et poivre selon le goût"
+    ],
+    "steps": [
+      "Faites revenir 2 gousses d'ail dans 2 cuillères à soupe d'huile pendant 1 minute ; ajoutez 500 g de passata et cuisez 15 minutes. Retirez l'ail et assaisonnez.",
+      "Faites cuire 800 g de gnocchi dans l'eau salée pendant 2-3 minutes, jusqu'à ce qu'ils remontent à la surface, puis égouttez.",
+      "Mélangez les gnocchi avec la sauce, 150 g de mozzarella et 40 g de Parmigiano. Versez dans un plat et couvrez avec les 100 g de mozzarella et 20 g de Parmigiano restants.",
+      "Gratinez à 220 °C pendant 10-12 minutes, jusqu'à ce que le fromage bouillonne et dore légèrement.",
+      "Laissez reposer 5 minutes, terminez avec les 12 feuilles de basilic et servez."
+    ],
+    "tips": [
+      "Égouttez bien la mozzarella avant de l'utiliser pour éviter que le gratin ne rende trop d'eau."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ]
   }
 }

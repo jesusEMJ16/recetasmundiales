@@ -21,18 +21,22 @@ describe("reviewed recipe photography", () => {
     expect(photographed.length).toBe(audit.photoCount);
     expect(pending.length).toBe(audit.pendingCount);
     expect(RECIPES.length).toBe(audit.totalRecipes);
-    expect(audit.photoCount).toBe(227);
+    expect(audit.photoCount).toBe(234);
     expect(audit.pendingCount).toBe(0);
-    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(25);
+    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(32);
   });
-  it("ships local WebP bytes or explicitly reviewed HTTPS Wikimedia photographs", () => {
+  it("ships reviewed local recipe assets or explicitly reviewed HTTPS Wikimedia photographs", () => {
     for (const photo of Object.values(RECIPE_IMAGES)) {
       for (const url of [photo.url, photo.thumbnailUrl]) {
         if (url.startsWith("/")) {
-          expect(url).toMatch(/^\/images\/recipes-v2\/[a-z0-9-]+\.webp$/);
+          expect(url).toMatch(/^\/images\/recipes-v2\/[a-z0-9-]+\.(?:webp|svg)$/);
           const bytes = file(url);
-          expect(bytes.subarray(0, 4).toString()).toBe("RIFF");
-          expect(bytes.subarray(8, 12).toString()).toBe("WEBP");
+          if (url.endsWith(".webp")) {
+            expect(bytes.subarray(0, 4).toString()).toBe("RIFF");
+            expect(bytes.subarray(8, 12).toString()).toBe("WEBP");
+          } else {
+            expect(bytes.toString("utf8")).toMatch(/<svg[\s>]/);
+          }
           expect(bytes.length).toBeGreaterThan(100);
           expect(bytes.length).toBeLessThan(600000);
         } else {
@@ -68,8 +72,15 @@ describe("reviewed recipe photography", () => {
       const recipe = RECIPES.find(r => r.slug === cover.recipeSlug);
       expect(recipe).toBeDefined();
       expect(PLACES.find(p => p.id === recipe!.placeId)?.countryCode).toBe(code);
-      expect(cover.url).toBe(getRecipeImage(cover.recipeSlug)?.url);
-      expect(cover.source).toBe(getRecipeImage(cover.recipeSlug)?.source);
+      const recipePhoto = getRecipeImage(cover.recipeSlug);
+      expect(recipePhoto).toBeDefined();
+      if (cover.url === recipePhoto?.url) {
+        expect(cover.source).toBe(recipePhoto.source);
+      } else {
+        expect(cover.provider).toBe("WorldBites");
+        expect(cover.url).toMatch(/^\/images\/country-covers\/[a-z0-9-]+\.(?:webp|svg)$/);
+        expect(cover.source).toBe(new URL(cover.url, "https://worldbitesapp.com").href);
+      }
     }
   });
   it("uses truthful responsive width descriptors and never upscales thumbnails", () => {

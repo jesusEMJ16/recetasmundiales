@@ -29,7 +29,7 @@ async function loaded(locator) {
     await Promise.all(urls.slice(i, i + 12).map(async url => {
       const response = await api.get(url);
       assert.equal(response.status(), 200, url);
-      assert.match(response.headers()['content-type'], /^image\/(webp|jpeg)/, url);
+      assert.match(response.headers()['content-type'], /^image\/(webp|jpeg|svg\+xml)/, url);
       assert.ok((await response.body()).length > 100, url);
       result.assetRequests++;
       await response.dispose();
