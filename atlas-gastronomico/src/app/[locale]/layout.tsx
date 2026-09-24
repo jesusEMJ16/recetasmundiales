@@ -2,8 +2,10 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { SiteHeader } from "../../components/SiteHeader";
 import { Analytics } from "../../components/Analytics";
-import { isLocale, locales, localeMeta } from "../../i18n/config";
+import { defaultLocale, isLocale, locales, localeMeta } from "../../i18n/config";
+import type { Locale } from "../../i18n/config";
 import { getDictionary } from "../../i18n/dictionaries";
+import { SITE_URL, absoluteUrl } from "../../site";
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -14,14 +16,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!isLocale(locale)) return {};
   
   const t = getDictionary(locale);
-  const canonicalUrl = `https://worldbitesapp.com/${locale}`;
+  const canonicalUrl = absoluteUrl(`/${locale}`);
   const localeInfo = localeMeta[locale];
   
   // Build hreflang links with x-default
   const hreflangLinks: Record<string, string> = Object.fromEntries(
-    locales.map((l) => [l, `https://worldbitesapp.com/${l}`])
+    locales.map((l) => [l, absoluteUrl(`/${l}`)])
   );
-  hreflangLinks['x-default'] = 'https://worldbitesapp.com/es';
+  hreflangLinks['x-default'] = absoluteUrl(`/${defaultLocale}`);
   
   return {
     title: {
@@ -49,23 +51,17 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   };
 }
 
-// WebSite Schema for enhanced structured data
-export const websiteSchema = {
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: "Atlas Gastronómico Mundial",
-  alternateName: "World Bites App",
-  url: "https://worldbitesapp.com",
-  inLanguage: "es",
-  potentialAction: {
-    "@type": "SearchAction",
-    target: {
-      "@type": "EntryPoint",
-      urlTemplate: "https://worldbitesapp.com/{locale}/?q={search_term_string}",
-    },
-    "query-input": "required name=search_term_string",
-  },
-};
+// WebSite structured data, in the language of the current page.
+function websiteSchema(locale: Locale) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Atlas Gastronómico Mundial",
+    alternateName: "World Bites App",
+    url: SITE_URL,
+    inLanguage: localeMeta[locale].htmlLang,
+  };
+}
 
 export default async function LocaleLayout({
   children,
@@ -82,7 +78,7 @@ export default async function LocaleLayout({
         <Analytics />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema(locale)) }}
         />
         <a className="skip-link" href="#main-content">{locale === "es" ? "Saltar al contenido" : "Skip to content"}</a>
         <SiteHeader locale={locale} />

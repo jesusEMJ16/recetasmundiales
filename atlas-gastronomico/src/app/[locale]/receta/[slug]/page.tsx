@@ -11,12 +11,12 @@ import { RecipeCard } from "../../../../components/RecipeCard";
 import { FoodPhoto } from "../../../../components/FoodPhoto";
 import { photoUi } from "../../../../i18n/photo-ui";
 import { isLocale, locales, localeMeta, localeDirection } from "../../../../i18n/config";
-import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
 import { placeHrefFromSlugs } from "../../../../i18n/routing";
 import { translatePlaceName } from "../../../../i18n/content";
 import { translateRecipe, recipeContentLocale, getRecipeLocales } from "../../../../i18n/recipe-content";
 import { recipeEditorialUi, nutritionLabels, translationPending } from "../../../../i18n/recipe-editorial-ui";
+import { absoluteUrl } from "../../../../site";
 
 export function generateStaticParams() {
   return locales.flatMap((locale) => RECIPES.map((r) => ({ locale, slug: r.slug })));
@@ -26,42 +26,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale, slug } = await params;
   const base = RECIPES.find((x) => x.slug === slug);
   if (!base || !isLocale(locale)) return {};
-  const r = isLocale(locale) ? translateRecipe(base, locale) : base;
+  const r = translateRecipe(base, locale);
   
-  const canonicalUrl = `https://worldbitesapp.com/${locale}/receta/${slug}`;
+  const canonicalUrl = absoluteUrl(`/${locale}/receta/${slug}`);
   const photo = getRecipeImage(slug);
   const images = photo ? [{ url: absolutePhotoUrl(photo), width: photo.width, height: photo.height, alt: `${r.dishName}: ${r.summary}` }] : [];
   
-  // Get place for breadcrumb
-  const place = PLACES.find((p) => p.id === r.placeId);
-  const placeName = place ? translatePlaceName(place, locale as Locale) : "Receta";
-
-  // Build breadcrumb schema
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: `https://worldbitesapp.com/${locale}`,
-      },
-      ...(place ? [{
-        "@type": "ListItem" as const,
-        position: 2,
-        name: placeName,
-        item: canonicalUrl,
-      }] : []),
-      {
-        "@type": "ListItem" as const,
-        position: place ? 3 : 2,
-        name: r.dishName,
-        item: canonicalUrl,
-      },
-    ],
-  };
-
   return {
     robots: { index: getRecipeLocales(base.id).includes(locale), follow: true },
     title: r.dishName,
@@ -69,7 +39,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     alternates: {
       canonical: canonicalUrl,
       languages: Object.fromEntries(
-        getRecipeLocales(base.id).map((l) => [l, `https://worldbitesapp.com/${l}/receta/${slug}`])
+        getRecipeLocales(base.id).map((l) => [l, absoluteUrl(`/${l}/receta/${slug}`)])
       ),
     },
     openGraph: {
@@ -78,7 +48,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       type: "article",
       locale: localeMeta[recipeContentLocale(locale, base.id)].htmlLang,
       url: canonicalUrl,
-      siteName: "Atlas Gastronómico Mundial",
+      siteName: getDictionary(locale).header.brand,
       images,
     },
     twitter: {
@@ -113,7 +83,6 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
   const photo = credit?.url;
 
   // Build breadcrumb schema
-  const placeName = place ? translatePlaceName(place, locale as Locale) : "Receta";
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -121,20 +90,20 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
       {
         "@type": "ListItem" as const,
         position: 1,
-        name: "Home",
-        item: `https://worldbitesapp.com/${locale}`,
+        name: t.header.navHome,
+        item: absoluteUrl(`/${locale}`),
       },
       ...(place ? [{
         "@type": "ListItem" as const,
         position: 2,
-        name: placeName,
-        item: `https://worldbitesapp.com/${locale}/recetas/${placePathSlugs(place, PLACES).join('/')}`,
+        name: translatePlaceName(place, locale),
+        item: absoluteUrl(placeHrefFromSlugs(locale, placePathSlugs(place, PLACES))),
       }] : []),
       {
         "@type": "ListItem" as const,
         position: place ? 3 : 2,
         name: recipe.dishName,
-        item: `https://worldbitesapp.com/${locale}/receta/${slug}`,
+        item: absoluteUrl(`/${locale}/receta/${slug}`),
       },
     ],
   };
@@ -145,7 +114,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
     name: recipe.dishName,
     description: recipe.summary,
     image: credit ? [absolutePhotoUrl(credit)] : undefined,
-    author: { "@type": "Organization", name: "Atlas Gastronómico Mundial" },
+    author: { "@type": "Organization", name: t.header.brand },
     prepTime: iso(recipe.prepTimeMin),
     cookTime: iso(recipe.cookTimeMin),
     totalTime: iso(recipe.totalTimeMin),
@@ -155,7 +124,6 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
     recipeYield: t.recipe.servings(recipe.servings),
     recipeIngredient: recipe.ingredients.map((i) => i.text),
     recipeInstructions: recipe.steps.map((s) => ({ "@type": "HowToStep", text: typeof s === 'string' ? s : s.text })),
-    ...(recipe.ratingCount > 0 ? { aggregateRating: { "@type": "AggregateRating", ratingValue: recipe.ratingAvg, reviewCount: recipe.ratingCount } } : {}),
   };
 
   // Combined schema with Recipe and BreadcrumbList

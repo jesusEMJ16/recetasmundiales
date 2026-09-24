@@ -1,4 +1,5 @@
 import photos from "./recipe-photos.json";
+import { absoluteUrl } from "../site";
 
 /** Reviewed recipe photography and dimensions, with per-file provenance in docs/recipe-photo-audit.json. */
 export interface RecipeImage {
@@ -31,5 +32,5 @@ export function photoSrcSet(photo: RecipeImage): string | undefined {
     : undefined;
 }
 export function absolutePhotoUrl(photo: RecipeImage): string {
-  return new URL(photo.url, "https://worldbitesapp.com").href;
+  return absoluteUrl(photo.url);
 }
