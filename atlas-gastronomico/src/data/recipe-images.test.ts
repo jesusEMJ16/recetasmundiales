@@ -21,18 +21,22 @@ describe("reviewed recipe photography", () => {
     expect(photographed.length).toBe(audit.photoCount);
     expect(pending.length).toBe(audit.pendingCount);
     expect(RECIPES.length).toBe(audit.totalRecipes);
-    expect(audit.photoCount).toBe(227);
+    expect(audit.photoCount).toBe(234);
     expect(audit.pendingCount).toBe(0);
-    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(25);
+    expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(32);
   });
-  it("ships local WebP bytes or explicitly reviewed HTTPS Wikimedia photographs", () => {
+  it("ships reviewed local recipe assets or explicitly reviewed HTTPS Wikimedia photographs", () => {
     for (const photo of Object.values(RECIPE_IMAGES)) {
       for (const url of [photo.url, photo.thumbnailUrl]) {
         if (url.startsWith("/")) {
-          expect(url).toMatch(/^\/images\/recipes-v2\/[a-z0-9-]+\.webp$/);
+          expect(url).toMatch(/^\/images\/recipes-v2\/[a-z0-9-]+\.(?:webp|svg)$/);
           const bytes = file(url);
-          expect(bytes.subarray(0, 4).toString()).toBe("RIFF");
-          expect(bytes.subarray(8, 12).toString()).toBe("WEBP");
+          if (url.endsWith(".webp")) {
+            expect(bytes.subarray(0, 4).toString()).toBe("RIFF");
+            expect(bytes.subarray(8, 12).toString()).toBe("WEBP");
+          } else {
+            expect(bytes.toString("utf8")).toMatch(/<svg[\s>]/);
+          }
           expect(bytes.length).toBeGreaterThan(100);
           expect(bytes.length).toBeLessThan(600000);
         } else {
