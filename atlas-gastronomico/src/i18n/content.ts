@@ -29,6 +29,24 @@ const placeOverlays: Partial<Record<Locale, PlaceTranslations>> = {
   },
 };
 
+// Regiones de la India con recetas: el nombre base está en español.
+const indiaRegions: Record<Exclude<Locale, "es">, PlaceTranslations> = {
+  en: { "in-dl": "Delhi", "in-pb": "Punjab", "in-ka": "Karnataka", "in-tg": "Telangana" },
+  zh: { "in-dl": "德里", "in-pb": "旁遮普", "in-ka": "卡纳塔克", "in-tg": "特伦甘纳" },
+  hi: { "in-dl": "दिल्ली", "in-pb": "पंजाब", "in-ka": "कर्नाटक", "in-tg": "तेलंगाना" },
+  fr: { "in-dl": "Delhi", "in-pb": "Pendjab", "in-ka": "Karnataka", "in-tg": "Telangana" },
+  ar: { "in-dl": "دلهي", "in-pb": "البنجاب", "in-ka": "كارناتاكا", "in-tg": "تيلانغانا" },
+  bn: { "in-dl": "দিল্লি", "in-pb": "পাঞ্জাব", "in-ka": "কর্ণাটক", "in-tg": "তেলেঙ্গানা" },
+  pt: { "in-dl": "Délhi", "in-pb": "Punjab", "in-ka": "Karnataka", "in-tg": "Telangana" },
+  ru: { "in-dl": "Дели", "in-pb": "Пенджаб", "in-ka": "Карнатака", "in-tg": "Телангана" },
+  ur: { "in-dl": "دہلی", "in-pb": "پنجاب", "in-ka": "کرناٹک", "in-tg": "تلنگانہ" },
+  id: { "in-dl": "Delhi", "in-pb": "Punjab", "in-ka": "Karnataka", "in-tg": "Telangana" },
+  ja: { "in-dl": "デリー", "in-pb": "パンジャーブ", "in-ka": "カルナータカ", "in-tg": "テランガーナ" },
+};
+for (const [locale, names] of Object.entries(indiaRegions) as [Exclude<Locale, "es">, PlaceTranslations][]) {
+  placeOverlays[locale] = { ...placeOverlays[locale], ...names };
+}
+
 export function translatePlaceName(place: Place, locale: Locale): string {
   if (place.type === "pais") {
     return new Intl.DisplayNames([locale], { type: "region" }).of(place.countryCode) ?? place.name;
