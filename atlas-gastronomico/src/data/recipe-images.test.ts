@@ -72,8 +72,15 @@ describe("reviewed recipe photography", () => {
       const recipe = RECIPES.find(r => r.slug === cover.recipeSlug);
       expect(recipe).toBeDefined();
       expect(PLACES.find(p => p.id === recipe!.placeId)?.countryCode).toBe(code);
-      expect(cover.url).toBe(getRecipeImage(cover.recipeSlug)?.url);
-      expect(cover.source).toBe(getRecipeImage(cover.recipeSlug)?.source);
+      const recipePhoto = getRecipeImage(cover.recipeSlug);
+      expect(recipePhoto).toBeDefined();
+      if (cover.url === recipePhoto?.url) {
+        expect(cover.source).toBe(recipePhoto.source);
+      } else {
+        expect(cover.provider).toBe("WorldBites");
+        expect(cover.url).toMatch(/^\\/images\\/country-covers\\/[a-z0-9-]+\\.(?:webp|svg)$/);
+        expect(cover.source).toBe(new URL(cover.url, "https://worldbitesapp.com").href);
+      }
     }
   });
   it("uses truthful responsive width descriptors and never upscales thumbnails", () => {
