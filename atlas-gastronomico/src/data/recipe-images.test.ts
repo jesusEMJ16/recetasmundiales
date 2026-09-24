@@ -22,7 +22,9 @@ describe("reviewed recipe photography", () => {
     expect(pending.length).toBe(audit.pendingCount);
     expect(RECIPES.length).toBe(audit.totalRecipes);
     expect(audit.photoCount).toBe(234);
-    expect(audit.pendingCount).toBe(0);
+    // India's five recipes await photographs from the site owner.
+    expect(audit.pendingCount).toBe(5);
+    expect(pending.every(slug => RECIPES.find(r => r.slug === slug)?.placeId.startsWith("in"))).toBe(true);
     expect(Object.values(RECIPE_IMAGES).filter(photo => photo.provider === "WorldBites")).toHaveLength(32);
   });
   it("ships reviewed local recipe assets or explicitly reviewed HTTPS Wikimedia photographs", () => {
@@ -66,7 +68,8 @@ describe("reviewed recipe photography", () => {
     }
   });
   it("uses a recipe from the correct country for all destination covers", () => {
-    const recipeCountries = new Set(RECIPES.map(r => PLACES.find(p => p.id === r.placeId)?.countryCode));
+    // A country gets a cover once at least one of its recipes has a reviewed photograph.
+    const recipeCountries = new Set(RECIPES.filter(r => getRecipeImage(r.slug)).map(r => PLACES.find(p => p.id === r.placeId)?.countryCode));
     expect(Object.keys(DESTINATION_PHOTOS).sort()).toEqual([...recipeCountries].sort());
     for (const [code, cover] of Object.entries(DESTINATION_PHOTOS)) {
       const recipe = RECIPES.find(r => r.slug === cover.recipeSlug);

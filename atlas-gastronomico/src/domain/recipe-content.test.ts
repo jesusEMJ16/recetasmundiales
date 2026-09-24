@@ -23,10 +23,10 @@ describe("reviewed recipe catalog", () => {
     }
   });
 
-  it("retains 234 distinct recipes with consistent timing and usable content", () => {
-    expect(RECIPES).toHaveLength(234);
-    expect(new Set(RECIPES.map(r => r.id)).size).toBe(234);
-    expect(new Set(RECIPES.map(r => r.slug)).size).toBe(234);
+  it("retains 239 distinct recipes with consistent timing and usable content", () => {
+    expect(RECIPES).toHaveLength(239);
+    expect(new Set(RECIPES.map(r => r.id)).size).toBe(239);
+    expect(new Set(RECIPES.map(r => r.slug)).size).toBe(239);
     for (const recipe of RECIPES) {
       expect(recipe.totalTimeMin, recipe.id).toBe(recipe.prepTimeMin + recipe.cookTimeMin + (recipe.restTimeMin ?? 0));
       expect(recipe.ingredients.length, recipe.id).toBeGreaterThan(1);
@@ -65,7 +65,7 @@ describe("reviewed recipe catalog", () => {
     };
     for (const locale of locales.filter(l => l !== "es")) {
       const translatedIds = Object.keys(recipeTranslations[locale]);
-      expect(translatedIds, locale).toHaveLength(234);
+      expect(translatedIds, locale).toHaveLength(239);
       expect(translatedIds.every(id => RECIPES.some(recipe => recipe.id === id))).toBe(true);
       for (const recipe of RECIPES.filter(recipe => recipeTranslations[locale][recipe.id])) {
         const translated = translateRecipe(recipe, locale);
@@ -108,11 +108,11 @@ describe("reviewed recipe catalog", () => {
     }
   });
 
-  it("uses twelve search labels and indexes all 2808 recipe translations", () => {
-    expect(recipeSearch).toHaveLength(234);
+  it("uses twelve search labels and indexes all 2868 recipe translations", () => {
+    expect(recipeSearch).toHaveLength(239);
     const recipeEntries = sitemap().filter(entry => /\/receta\//.test(entry.url));
-    expect(recipeEntries).toHaveLength(2808);
-    expect(new Set(recipeEntries.map(entry => entry.url)).size).toBe(2808);
+    expect(recipeEntries).toHaveLength(2868);
+    expect(new Set(recipeEntries.map(entry => entry.url)).size).toBe(2868);
     for (const locale of locales) {
       for (const recipe of RECIPES) {
         expect(getRecipeLocales(recipe.id), recipe.id).toEqual(locales);

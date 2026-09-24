@@ -152,6 +152,14 @@ async function loaded(locator) {
     }
     for (let i = 0; i < await moroccoCards.locator('img').count(); i++) await loaded(moroccoCards.locator('img').nth(i));
     result.desktop.moroccoRecipeCards = await moroccoCards.count();
+    // India has no cover yet (photographs pending), so open its listing directly.
+    await page.goto(base + '/es/recetas/india', { waitUntil: 'networkidle' });
+    const indiaCards = page.locator('.recipe-card');
+    assert.equal(await indiaCards.count(), recipes.filter(r => /^in(?:$|[-:])/.test(r.placeId)).length);
+    for (const slug of ['pollo-a-la-mantequilla-murgh-makhani', 'chana-masala-panyabi', 'masala-dosa', 'biryani-de-pollo-hyderabadi', 'masala-chai']) {
+      assert.equal(await page.locator(`a.recipe-card[href="/es/receta/${slug}"]`).count(), 1);
+    }
+    result.desktop.indiaRecipeCards = await indiaCards.count();
     await page.goto(base + '/es/receta/coq-au-vin', { waitUntil: 'networkidle' });
     const hero = page.locator('figure').first().locator('img');
     await loaded(hero);
