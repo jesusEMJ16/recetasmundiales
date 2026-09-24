@@ -78,7 +78,7 @@ describe("reviewed recipe photography", () => {
         expect(cover.source).toBe(recipePhoto.source);
       } else {
         expect(cover.provider).toBe("WorldBites");
-        expect(cover.url).toMatch(/^\\/images\\/country-covers\\/[a-z0-9-]+\\.(?:webp|svg)$/);
+        expect(cover.url).toMatch(/^\/images\/country-covers\/[a-z0-9-]+\.(?:webp|svg)$/);
         expect(cover.source).toBe(new URL(cover.url, "https://worldbitesapp.com").href);
       }
     }
