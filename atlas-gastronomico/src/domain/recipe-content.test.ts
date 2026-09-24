@@ -23,10 +23,10 @@ describe("reviewed recipe catalog", () => {
     }
   });
 
-  it("retains 227 distinct recipes with consistent timing and usable content", () => {
+  it("retains 234 distinct recipes with consistent timing and usable content", () => {
     expect(RECIPES).toHaveLength(234);
-    expect(new Set(RECIPES.map(r => r.id)).size).toBe(227);
-    expect(new Set(RECIPES.map(r => r.slug)).size).toBe(227);
+    expect(new Set(RECIPES.map(r => r.id)).size).toBe(234);
+    expect(new Set(RECIPES.map(r => r.slug)).size).toBe(234);
     for (const recipe of RECIPES) {
       expect(recipe.totalTimeMin, recipe.id).toBe(recipe.prepTimeMin + recipe.cookTimeMin + (recipe.restTimeMin ?? 0));
       expect(recipe.ingredients.length, recipe.id).toBeGreaterThan(1);
