@@ -74,6 +74,11 @@ const CURATED_PLACES: Place[] = [
   { id: "it-tre", type: "ciudad", name: "Treviso", slug: "treviso", parentId: "it-ven", countryCode: "IT", lat: 45.67, lng: 12.24 },
   { id: "it-lom", type: "estado", name: "Lombardía", slug: "lombardia", parentId: "it", countryCode: "IT", lat: 45.47, lng: 9.85 },
   { id: "it-ven", type: "estado", name: "Véneto", slug: "veneto", parentId: "it", countryCode: "IT", lat: 45.44, lng: 12.33 },
+  { id: "it-emr", type: "estado", name: "Emilia-Romaña", slug: "emilia-romana", parentId: "it", countryCode: "IT", lat: 44.49, lng: 11.34 },
+  { id: "it-emr-bol", type: "ciudad", name: "Bolonia", slug: "bolonia", parentId: "it-emr", countryCode: "IT", lat: 44.49, lng: 11.34 },
+  { id: "it-lig", type: "estado", name: "Liguria", slug: "liguria", parentId: "it", countryCode: "IT", lat: 44.41, lng: 8.93 },
+  { id: "it-lig-gen", type: "ciudad", name: "Génova", slug: "genova", parentId: "it-lig", countryCode: "IT", lat: 44.41, lng: 8.95 },
+  { id: "it-sic", type: "estado", name: "Sicilia", slug: "sicilia", parentId: "it", countryCode: "IT", lat: 37.60, lng: 14.02 },
   
   // Francia
   { id: "fr", type: "pais", name: "Francia", slug: "francia", parentId: null, countryCode: "FR", lat: 46.23, lng: 2.21 },
