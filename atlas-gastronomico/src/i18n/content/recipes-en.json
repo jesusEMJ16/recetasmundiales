@@ -6805,5 +6805,166 @@
     "sources": [
       "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
     ]
+  },
+  "r-in-butter-chicken": {
+    "dishName": "Butter chicken (murgh makhani)",
+    "summary": "Chicken marinated in yogurt and spices, seared and finished in a creamy sauce of tomato, butter and fenugreek.",
+    "history": "Murgh makhani is credited to the kitchen of Delhi's Moti Mahal restaurant in the mid-20th century, where leftover tandoori chicken was simmered in a sauce of tomato, butter and cream, although its authorship is disputed. Today it is one of the best-known North Indian dishes in the world.",
+    "ingredients": [
+      "700 g boneless chicken thighs, cut into pieces",
+      "150 g thick plain yogurt",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp garam masala",
+      "1 tsp Kashmiri chili powder",
+      "1 tbsp lemon juice",
+      "60 g butter",
+      "400 g crushed tomatoes",
+      "120 ml cooking cream",
+      "1 tsp dried fenugreek leaves (kasuri methi)",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Mix the chicken with the yogurt, ginger-garlic paste, 1 tsp garam masala, chili, lemon juice and salt; marinate for 60 minutes in the refrigerator.",
+      "Sear the chicken in a very hot pan for 8-10 minutes until charred in spots; set aside.",
+      "Melt 40 g butter in the same pan, add the tomatoes and cook over medium heat for 15 minutes until thickened.",
+      "Blend the sauce, return it to the heat, add the chicken and cook for 8 minutes until it reaches 74 °C in the center.",
+      "Stir in the cream, the remaining butter and garam masala and the crumbled fenugreek; adjust the salt and serve with basmati rice."
+    ],
+    "tips": [
+      "Crush the fenugreek between your palms before adding it to release its aroma; it is the touch that defines this dish."
+    ],
+    "sources": [
+      "Cocina de Delhi (restaurante Moti Mahal)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-in-chana-masala": {
+    "dishName": "Punjabi chana masala",
+    "summary": "Chickpeas simmered in a spiced sauce of onion, tomato, ginger and garam masala, typical of Punjab.",
+    "history": "Chana masala, also called chole, is a chickpea curry hugely popular in Punjab and across North India. It is served at home, in roadside dhabas and at street stalls, often with fried breads such as bhatura or with rice.",
+    "ingredients": [
+      "500 g cooked chickpeas, drained",
+      "3 tbsp vegetable oil",
+      "1 tsp cumin seeds",
+      "2 onions, finely chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 green chili, chopped",
+      "300 g crushed tomatoes",
+      "1 tsp turmeric",
+      "2 tsp ground coriander",
+      "1 tsp red chili powder",
+      "2 tsp garam masala",
+      "1 tsp amchur (dried mango powder) or lemon juice",
+      "250 ml water",
+      "Chopped fresh cilantro and salt to taste"
+    ],
+    "steps": [
+      "Heat the oil, add the cumin and, once it sizzles, the onions; fry for 10 minutes until golden.",
+      "Add the ginger-garlic paste and green chili and cook for 1 minute.",
+      "Stir in the tomatoes, turmeric, ground coriander and chili powder; cook for 8 minutes until the oil separates from the sauce.",
+      "Add the chickpeas and 250 ml water, mash a few with a spoon to thicken and simmer for 15 minutes.",
+      "Finish with the garam masala, the amchur or lemon, salt and fresh cilantro."
+    ],
+    "tips": [
+      "Mashing some of the chickpeas thickens the sauce naturally, with no need for flour or cream."
+    ],
+    "sources": [
+      "Cocina del Panyab (India)"
+    ]
+  },
+  "r-in-masala-dosa": {
+    "dishName": "Masala dosa",
+    "summary": "Thin, crisp crepe of fermented rice and lentils, filled with potatoes spiced with mustard seeds and curry leaves.",
+    "history": "Dosa is a fermented crepe from South India; the version filled with spiced potatoes is associated with the Udupi cooking of Karnataka and with the restaurants of Mysuru and Bengaluru. It is usually eaten for breakfast with coconut chutney and sambar.",
+    "ingredients": [
+      "300 g dosa rice or short-grain rice",
+      "100 g urad dal (split, skinned black lentils)",
+      "½ tsp fenugreek seeds",
+      "500 g potatoes",
+      "2 tbsp vegetable oil, plus oil for the griddle",
+      "1 tsp mustard seeds",
+      "10 curry leaves",
+      "1 onion, thinly sliced",
+      "2 green chilies, chopped",
+      "½ tsp turmeric",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Soak the rice and the urad dal with the fenugreek separately for 4 hours; drain.",
+      "Grind each with cold water into a smooth, pourable batter, mix them with salt and leave to ferment for 8 hours in a warm place.",
+      "Boil the potatoes for 20 minutes, peel them and break them into rough pieces.",
+      "Heat 2 tbsp oil, add the mustard seeds and, when they pop, the curry leaves, onion and chilies; fry for 5 minutes, add the turmeric, potatoes and salt and mix well.",
+      "Lightly grease a very hot griddle, spread a ladle of batter in a spiral, drizzle with oil and cook for 2-3 minutes until golden and crisp.",
+      "Place a portion of filling in the center, fold the dosa and serve at once with coconut chutney and sambar."
+    ],
+    "tips": [
+      "If the batter does not ferment because of the cold, leave it in the switched-off oven with the light on; it should rise and smell slightly sour."
+    ],
+    "sources": [
+      "Cocina udupi de Karnataka (India)"
+    ]
+  },
+  "r-in-hyderabadi-biryani": {
+    "dishName": "Hyderabadi chicken biryani",
+    "summary": "Fragrant basmati rice layered over chicken marinated in yogurt and spices, with fried onions, mint and saffron.",
+    "history": "Hyderabadi biryani developed in the kitchens of the Nizams, rulers of the Deccan, where Persian techniques met local traditions. It is finished using the dum method: rice and meat cook together over very low heat in a sealed pot so they absorb each other's aromas.",
+    "ingredients": [
+      "1 kg bone-in chicken pieces",
+      "250 g plain yogurt",
+      "1 tbsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "2 tsp garam masala",
+      "400 g basmati rice",
+      "3 onions, thinly sliced",
+      "4 tbsp ghee or oil",
+      "20 g mint leaves",
+      "20 g fresh cilantro",
+      "1 pinch saffron soaked in 60 ml warm milk",
+      "4 green cardamom pods, 4 cloves and 1 cinnamon stick",
+      "1 tbsp lemon juice",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Marinate the chicken with the yogurt, ginger-garlic paste, chili, garam masala, lemon juice, half the mint and cilantro and salt for 2 hours in the refrigerator.",
+      "Fry the onions in the ghee for 15 minutes until deep golden; remove them and keep the fat.",
+      "Cook the marinated chicken in the same fat, covered, for 20 minutes over medium heat.",
+      "Meanwhile, rinse the rice and boil it in salted water with the cardamom, cloves and cinnamon for 5 minutes until 70 % cooked; drain.",
+      "Cover the chicken with the rice and top with the fried onions, the remaining mint and cilantro and the saffron milk.",
+      "Seal the pot with the lid and foil and cook over very low heat for 20 minutes; check that the chicken reaches 74 °C and rest for 5 minutes before gently mixing and serving."
+    ],
+    "tips": [
+      "The rice should come out of the first boil still firm in the center: it will finish cooking in the chicken's steam inside the sealed pot."
+    ],
+    "sources": [
+      "Cocina de Hyderabad (Telangana, India)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-in-masala-chai": {
+    "dishName": "Masala chai",
+    "summary": "Black tea boiled with milk, sugar and spices such as cardamom, ginger, cinnamon and cloves.",
+    "history": "Chai is India's everyday drink: it is served at street stalls, railway stations and homes across the country. The habit of boiling black tea with milk, sugar and spices spread during the 20th century, and today every family and every chaiwala has its own blend.",
+    "ingredients": [
+      "500 ml water",
+      "500 ml whole milk",
+      "4 tsp loose-leaf black tea (Assam type)",
+      "4 green cardamom pods, crushed",
+      "15 g fresh ginger, grated",
+      "1 cinnamon stick",
+      "3 cloves",
+      "4 tsp sugar, or to taste"
+    ],
+    "steps": [
+      "Boil the water with the cardamom, ginger, cinnamon and cloves for 4 minutes.",
+      "Add the tea and cook for 2 minutes over medium heat.",
+      "Add the milk and sugar and bring to a boil; when the foam rises, lower the heat and let it rise once more.",
+      "Strain the chai and serve piping hot."
+    ],
+    "tips": [
+      "Crush the cardamom and grate the ginger just before using them so the chai is more aromatic."
+    ],
+    "sources": [
+      "Tradición del chai en la India"
+    ]
   }
 }
