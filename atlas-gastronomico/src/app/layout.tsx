@@ -1,11 +1,8 @@
 import type { Metadata } from "next";
-import Script from "next/script";
 import { Fraunces, DM_Sans } from "next/font/google";
 import { defaultLocale, localeMeta } from "../i18n/config";
+import { ADSENSE_CLIENT, SITE_URL } from "../site";
 import "./globals.css";
-
-// ID de editor de Google AdSense
-const ADSENSE_CLIENT = "ca-pub-7181603320952752";
 
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -20,23 +17,17 @@ const dmSans = DM_Sans({
   display: "swap",
 });
 
-// Dominio del sitio: en Vercel se detecta solo; en local usa localhost.
-// Para tu dominio propio, define NEXT_PUBLIC_SITE_URL en Vercel (p. ej. https://worldbitesapp.com).
-const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL ??
-  (process.env.VERCEL_PROJECT_PRODUCTION_URL
-    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-    : "https://worldbitesapp.com");
-
 export const metadata: Metadata = {
-  metadataBase: new URL(siteUrl),
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: "Atlas Gastronómico Mundial — Explora México cocinando",
+    default: "Atlas Gastronómico Mundial — El mundo, plato por plato",
     template: "%s · Atlas Gastronómico",
   },
   description:
-    "Un atlas interactivo de la cocina de México: explora por estado, descubre recetas con procedencia y ordénalas por estrellas, novedad o tiempo.",
-  keywords: ["recetas mexicanas", "cocina de méxico", "gastronomía", "atlas culinario"],
+    "Un atlas interactivo de la cocina del mundo: explora por país y región, descubre recetas con procedencia y ordénalas por estrellas, novedad o tiempo.",
+  keywords: ["recetas del mundo", "cocina internacional", "recetas mexicanas", "gastronomía", "atlas culinario"],
+  // Verificación de la cuenta de Google AdSense.
+  other: { "google-adsense-account": ADSENSE_CLIENT },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -44,30 +35,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html suppressHydrationWarning lang={localeMeta[defaultLocale].htmlLang} className={`${fraunces.variable} ${dmSans.variable}`}>
       <head>
         <script id="theme-init" dangerouslySetInnerHTML={{ __html: `(function(){try{var t=localStorage.getItem('theme');document.documentElement.classList.toggle('dark',t==='dark'||(t!=='light'&&matchMedia('(prefers-color-scheme: dark)').matches));}catch(e){document.documentElement.classList.toggle('dark',matchMedia('(prefers-color-scheme: dark)').matches);}})();` }} />
-        {/* Google tag (gtag.js) - Google Analytics 4 */}
-        <Script
-          strategy="afterInteractive"
-          src={`https://www.googletagmanager.com/gtag/js?id=G-DMYV52GPVK`}
-        />
-        <Script
-          id="gtag-init"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-DMYV52GPVK');
-            `,
-          }}
-        />
-        {/* Google AdSense */}
-        <Script
-          id="adsbygoogle-init"
+        {/* Google AdSense: se sirve en el HTML, tal como indica el código de AdSense. */}
+        <script
           async
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
           crossOrigin="anonymous"
-          strategy="afterInteractive"
         />
       </head>
       <body>{children}</body>

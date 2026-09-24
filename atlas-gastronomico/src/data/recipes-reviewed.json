@@ -14990,5 +14990,387 @@
     "publishedAt": "2026-09-24",
     "updatedAt": "2026-09-24",
     "image": "/images/recipes-v2/gnocchi-a-la-sorrentina.svg"
+  },
+  {
+    "id": "r-in-butter-chicken",
+    "dishName": "Pollo a la mantequilla (murgh makhani)",
+    "slug": "pollo-a-la-mantequilla-murgh-makhani",
+    "placeId": "in-dl",
+    "summary": "Pollo marinado en yogur y especias, dorado y terminado en una salsa cremosa de tomate, mantequilla y fenogreco.",
+    "history": "El murgh makhani se atribuye a la cocina del restaurante Moti Mahal de Delhi, a mediados del siglo XX, donde los restos de pollo tandoori se cocinaban en una salsa de tomate, mantequilla y nata, aunque su autoría está en disputa. Hoy es uno de los platos del norte de la India más conocidos del mundo.",
+    "originConfidence": "disputed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 35,
+    "restTimeMin": 60,
+    "totalTimeMin": 115,
+    "difficulty": "media",
+    "moment": "cena",
+    "diet": [
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "text": "700 g de muslos de pollo deshuesados, en trozos"
+      },
+      {
+        "text": "150 g de yogur natural espeso"
+      },
+      {
+        "text": "1 cucharada de pasta de jengibre y ajo"
+      },
+      {
+        "text": "2 cucharaditas de garam masala"
+      },
+      {
+        "text": "1 cucharadita de chile de Cachemira en polvo"
+      },
+      {
+        "text": "1 cucharada de jugo de limón"
+      },
+      {
+        "text": "60 g de mantequilla"
+      },
+      {
+        "text": "400 g de tomate triturado"
+      },
+      {
+        "text": "120 ml de nata para cocinar"
+      },
+      {
+        "text": "1 cucharadita de hojas secas de fenogreco (kasuri methi)"
+      },
+      {
+        "text": "Sal al gusto"
+      }
+    ],
+    "steps": [
+      "Mezcla el pollo con el yogur, la pasta de jengibre y ajo, 1 cucharadita de garam masala, el chile, el jugo de limón y sal; deja marinar 60 minutos en el refrigerador.",
+      "Dora el pollo en una sartén muy caliente durante 8-10 minutos, hasta que tenga zonas tostadas; resérvalo.",
+      "Derrite 40 g de mantequilla en la misma sartén, añade el tomate y cocina a fuego medio 15 minutos, hasta que espese.",
+      "Tritura la salsa, devuélvela al fuego, agrega el pollo y cocina 8 minutos, hasta que alcance 74 °C en el centro.",
+      "Incorpora la nata, el resto de la mantequilla y del garam masala y el fenogreco desmenuzado; ajusta la sal y sirve con arroz basmati."
+    ],
+    "tips": [
+      "Desmenuza el fenogreco entre las palmas antes de añadirlo para liberar su aroma; es el toque que distingue este plato."
+    ],
+    "sources": [
+      "Cocina de Delhi (restaurante Moti Mahal)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-24",
+    "updatedAt": "2026-09-24",
+    "image": "/images/recipes-v2/pollo-a-la-mantequilla-murgh-makhani.webp"
+  },
+  {
+    "id": "r-in-chana-masala",
+    "dishName": "Chana masala panyabí",
+    "slug": "chana-masala-panyabi",
+    "placeId": "in-pb",
+    "summary": "Garbanzos guisados en una salsa especiada de cebolla, tomate, jengibre y garam masala, típica del Panyab.",
+    "history": "El chana masala, también llamado chole, es un guiso de garbanzos muy popular en el Panyab y en todo el norte de la India. Se sirve en casas, en los dhabas de carretera y en puestos callejeros, a menudo con panes fritos como el bhatura o con arroz.",
+    "originConfidence": "commonly_associated",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 35,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [
+      "sin_gluten",
+      "sin_lacteos",
+      "vegano",
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "500 g de garbanzos cocidos, escurridos"
+      },
+      {
+        "text": "3 cucharadas de aceite vegetal"
+      },
+      {
+        "text": "1 cucharadita de semillas de comino"
+      },
+      {
+        "text": "2 cebollas picadas finamente"
+      },
+      {
+        "text": "1 cucharada de pasta de jengibre y ajo"
+      },
+      {
+        "text": "1 chile verde picado"
+      },
+      {
+        "text": "300 g de tomate triturado"
+      },
+      {
+        "text": "1 cucharadita de cúrcuma"
+      },
+      {
+        "text": "2 cucharaditas de cilantro molido"
+      },
+      {
+        "text": "1 cucharadita de chile rojo en polvo"
+      },
+      {
+        "text": "2 cucharaditas de garam masala"
+      },
+      {
+        "text": "1 cucharadita de amchur (mango seco en polvo) o jugo de limón"
+      },
+      {
+        "text": "250 ml de agua"
+      },
+      {
+        "text": "Cilantro fresco picado y sal al gusto"
+      }
+    ],
+    "steps": [
+      "Calienta el aceite, añade el comino y, cuando chisporrotee, la cebolla; sofríe 10 minutos hasta que esté dorada.",
+      "Agrega la pasta de jengibre y ajo y el chile verde y cocina 1 minuto.",
+      "Incorpora el tomate, la cúrcuma, el cilantro molido y el chile en polvo; cocina 8 minutos, hasta que el aceite se separe de la salsa.",
+      "Añade los garbanzos y 250 ml de agua, aplasta algunos con una cuchara para espesar y cuece a fuego lento 15 minutos.",
+      "Termina con el garam masala, el amchur o el limón, sal y cilantro fresco."
+    ],
+    "tips": [
+      "Aplastar una parte de los garbanzos espesa la salsa de forma natural, sin necesidad de harina ni nata."
+    ],
+    "sources": [
+      "Cocina del Panyab (India)"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-24",
+    "updatedAt": "2026-09-24",
+    "image": "/images/recipes-v2/chana-masala-panyabi.webp"
+  },
+  {
+    "id": "r-in-masala-dosa",
+    "dishName": "Masala dosa",
+    "slug": "masala-dosa",
+    "placeId": "in-ka",
+    "summary": "Crepe fina y crujiente de arroz y lenteja fermentados, rellena de papa especiada con mostaza y hojas de curry.",
+    "history": "La dosa es una crepe fermentada del sur de la India; la versión rellena de papa especiada se asocia con la cocina udupi de Karnataka y con los restaurantes de Mysuru y Bengaluru. Se suele desayunar con chutney de coco y sambar.",
+    "originConfidence": "commonly_associated",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 40,
+    "restTimeMin": 720,
+    "totalTimeMin": 790,
+    "difficulty": "dificil",
+    "moment": "desayuno",
+    "diet": [
+      "sin_gluten",
+      "sin_lacteos",
+      "vegano",
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "300 g de arroz para dosa o arroz de grano corto"
+      },
+      {
+        "text": "100 g de urad dal (lenteja negra partida y pelada)"
+      },
+      {
+        "text": "½ cucharadita de semillas de fenogreco"
+      },
+      {
+        "text": "500 g de papas"
+      },
+      {
+        "text": "2 cucharadas de aceite vegetal, más aceite para la plancha"
+      },
+      {
+        "text": "1 cucharadita de semillas de mostaza"
+      },
+      {
+        "text": "10 hojas de curry"
+      },
+      {
+        "text": "1 cebolla en tiras finas"
+      },
+      {
+        "text": "2 chiles verdes picados"
+      },
+      {
+        "text": "½ cucharadita de cúrcuma"
+      },
+      {
+        "text": "Sal al gusto"
+      }
+    ],
+    "steps": [
+      "Remoja por separado el arroz y el urad dal con el fenogreco durante 4 horas; escúrrelos.",
+      "Muele cada uno con agua fría hasta obtener una masa lisa y fluida, mézclalos con sal y deja fermentar 8 horas en un lugar tibio.",
+      "Cuece las papas 20 minutos, pélalas y desmenúzalas en trozos irregulares.",
+      "Calienta 2 cucharadas de aceite, añade la mostaza y, cuando estalle, las hojas de curry, la cebolla y los chiles; sofríe 5 minutos, agrega la cúrcuma, las papas y sal y mezcla bien.",
+      "Engrasa ligeramente una plancha muy caliente, extiende un cucharón de masa en espiral, rocía aceite y cocina 2-3 minutos hasta que esté dorada y crujiente.",
+      "Coloca una porción de relleno en el centro, dobla la dosa y sirve de inmediato con chutney de coco y sambar."
+    ],
+    "tips": [
+      "Si la masa no fermenta por el frío, déjala dentro del horno apagado con la luz encendida; debe crecer y oler ligeramente ácida."
+    ],
+    "sources": [
+      "Cocina udupi de Karnataka (India)"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-24",
+    "updatedAt": "2026-09-24",
+    "image": "/images/recipes-v2/masala-dosa.webp"
+  },
+  {
+    "id": "r-in-hyderabadi-biryani",
+    "dishName": "Biryani de pollo hyderabadi",
+    "slug": "biryani-de-pollo-hyderabadi",
+    "placeId": "in-tg",
+    "summary": "Arroz basmati aromático cocido en capas sobre pollo marinado con yogur y especias, con cebolla frita, menta y azafrán.",
+    "history": "El biryani de Hyderabad se desarrolló en las cocinas de los nizams, gobernantes del Decán, donde se unieron técnicas persas y tradiciones locales. Se termina con el método dum: el arroz y la carne se cocinan juntos a fuego muy lento en una olla sellada para que se impregnen de aromas.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 60,
+    "restTimeMin": 120,
+    "totalTimeMin": 210,
+    "difficulty": "dificil",
+    "moment": "comida",
+    "diet": [
+      "sin_gluten"
+    ],
+    "ingredients": [
+      {
+        "text": "1 kg de pollo en piezas con hueso"
+      },
+      {
+        "text": "250 g de yogur natural"
+      },
+      {
+        "text": "1 cucharada de pasta de jengibre y ajo"
+      },
+      {
+        "text": "2 cucharaditas de chile rojo en polvo"
+      },
+      {
+        "text": "2 cucharaditas de garam masala"
+      },
+      {
+        "text": "400 g de arroz basmati"
+      },
+      {
+        "text": "3 cebollas en tiras finas"
+      },
+      {
+        "text": "4 cucharadas de ghee o aceite"
+      },
+      {
+        "text": "20 g de hojas de menta"
+      },
+      {
+        "text": "20 g de cilantro fresco"
+      },
+      {
+        "text": "1 pizca de azafrán remojado en 60 ml de leche tibia"
+      },
+      {
+        "text": "4 vainas de cardamomo verde, 4 clavos y 1 rama de canela"
+      },
+      {
+        "text": "1 cucharada de jugo de limón"
+      },
+      {
+        "text": "Sal al gusto"
+      }
+    ],
+    "steps": [
+      "Marina el pollo con el yogur, la pasta de jengibre y ajo, el chile, el garam masala, el jugo de limón, la mitad de la menta y del cilantro y sal durante 2 horas en el refrigerador.",
+      "Fríe la cebolla en el ghee 15 minutos, hasta que esté bien dorada; retírala y reserva la grasa.",
+      "Cocina el pollo marinado en esa misma grasa, tapado, durante 20 minutos a fuego medio.",
+      "Mientras tanto, lava el arroz y hiérvelo en agua con sal, el cardamomo, los clavos y la canela durante 5 minutos, hasta que esté cocido al 70 %; escúrrelo.",
+      "Cubre el pollo con el arroz y reparte encima la cebolla frita, el resto de la menta y del cilantro y la leche con azafrán.",
+      "Sella la olla con la tapa y papel de aluminio y cocina a fuego muy bajo 20 minutos; comprueba que el pollo alcance 74 °C y deja reposar 5 minutos antes de mezclar con cuidado y servir."
+    ],
+    "tips": [
+      "El arroz debe salir del primer hervor todavía firme en el centro: terminará de cocerse con el vapor del pollo dentro de la olla sellada."
+    ],
+    "sources": [
+      "Cocina de Hyderabad (Telangana, India)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-24",
+    "updatedAt": "2026-09-24",
+    "image": "/images/recipes-v2/biryani-de-pollo-hyderabadi.webp"
+  },
+  {
+    "id": "r-in-masala-chai",
+    "dishName": "Masala chai",
+    "slug": "masala-chai",
+    "placeId": "in",
+    "summary": "Té negro hervido con leche, azúcar y especias como cardamomo, jengibre, canela y clavo.",
+    "history": "El chai es la bebida cotidiana de la India: se sirve en puestos callejeros, estaciones de tren y hogares de todo el país. La costumbre de hervir té negro con leche, azúcar y especias se extendió durante el siglo XX, y hoy cada familia y cada chaiwala tiene su propia mezcla.",
+    "originConfidence": "commonly_associated",
+    "servings": 4,
+    "prepTimeMin": 5,
+    "cookTimeMin": 10,
+    "totalTimeMin": 15,
+    "difficulty": "facil",
+    "moment": "bebida",
+    "diet": [
+      "sin_gluten",
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "500 ml de agua"
+      },
+      {
+        "text": "500 ml de leche entera"
+      },
+      {
+        "text": "4 cucharaditas de té negro en hebras (tipo Assam)"
+      },
+      {
+        "text": "4 vainas de cardamomo verde machacadas"
+      },
+      {
+        "text": "15 g de jengibre fresco rallado"
+      },
+      {
+        "text": "1 rama de canela"
+      },
+      {
+        "text": "3 clavos de olor"
+      },
+      {
+        "text": "4 cucharaditas de azúcar, o al gusto"
+      }
+    ],
+    "steps": [
+      "Hierve el agua con el cardamomo, el jengibre, la canela y los clavos durante 4 minutos.",
+      "Añade el té y cocina 2 minutos a fuego medio.",
+      "Incorpora la leche y el azúcar y lleva a ebullición; cuando la espuma suba, baja el fuego y deja que suba una vez más.",
+      "Cuela el chai y sírvelo muy caliente."
+    ],
+    "tips": [
+      "Machaca el cardamomo y ralla el jengibre justo antes de usarlos para que el chai quede más aromático."
+    ],
+    "sources": [
+      "Tradición del chai en la India"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-24",
+    "updatedAt": "2026-09-24",
+    "image": "/images/recipes-v2/masala-chai.webp"
   }
 ]

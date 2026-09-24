@@ -4210,5 +4210,95 @@
       "ja": "ニョッキ・アッラ・ソレンティーナ",
       "zh": "索伦托风味意式面疙瘩"
     }
+  },
+  {
+    "id": "r-in-butter-chicken",
+    "slug": "pollo-a-la-mantequilla-murgh-makhani",
+    "names": {
+      "es": "Pollo a la mantequilla (murgh makhani)",
+      "en": "Butter chicken (murgh makhani)",
+      "zh": "黄油鸡（murgh makhani）",
+      "hi": "बटर चिकन (मुर्ग़ मखनी)",
+      "fr": "Poulet au beurre (murgh makhani)",
+      "ar": "دجاج بالزبدة (مُرغ مَخني)",
+      "bn": "বাটার চিকেন (মুর্গ মাখানি)",
+      "pt": "Frango na manteiga (murgh makhani)",
+      "ru": "Курица в масляном соусе (мург макхани)",
+      "ur": "بٹر چکن (مرغ مکھنی)",
+      "id": "Ayam mentega (murgh makhani)",
+      "ja": "バターチキン（ムルグ・マッカーニ）"
+    }
+  },
+  {
+    "id": "r-in-chana-masala",
+    "slug": "chana-masala-panyabi",
+    "names": {
+      "es": "Chana masala panyabí",
+      "en": "Punjabi chana masala",
+      "zh": "旁遮普鹰嘴豆咖喱（chana masala）",
+      "hi": "पंजाबी छोले (चना मसाला)",
+      "fr": "Chana masala du Pendjab",
+      "ar": "تشانا ماسالا على الطريقة البنجابية",
+      "bn": "পাঞ্জাবি ছোলে (চানা মশলা)",
+      "pt": "Chana masala punjabi",
+      "ru": "Чана масала по-пенджабски",
+      "ur": "پنجابی چنا مصالحہ (چھولے)",
+      "id": "Chana masala Punjab",
+      "ja": "パンジャーブ風チャナ・マサラ"
+    }
+  },
+  {
+    "id": "r-in-masala-dosa",
+    "slug": "masala-dosa",
+    "names": {
+      "es": "Masala dosa",
+      "en": "Masala dosa",
+      "zh": "马萨拉多萨（masala dosa）",
+      "hi": "मसाला डोसा",
+      "fr": "Masala dosa",
+      "ar": "ماسالا دوسا",
+      "bn": "মশলা দোসা",
+      "pt": "Masala dosa",
+      "ru": "Масала доса",
+      "ur": "مسالا ڈوسا",
+      "id": "Masala dosa",
+      "ja": "マサラドーサ"
+    }
+  },
+  {
+    "id": "r-in-hyderabadi-biryani",
+    "slug": "biryani-de-pollo-hyderabadi",
+    "names": {
+      "es": "Biryani de pollo hyderabadi",
+      "en": "Hyderabadi chicken biryani",
+      "zh": "海得拉巴鸡肉香饭（biryani）",
+      "hi": "हैदराबादी चिकन बिरयानी",
+      "fr": "Biryani de poulet d’Hyderabad",
+      "ar": "برياني الدجاج على طريقة حيدر آباد",
+      "bn": "হায়দরাবাদি চিকেন বিরিয়ানি",
+      "pt": "Biryani de frango de Hyderabad",
+      "ru": "Хайдарабадский бирьяни с курицей",
+      "ur": "حیدرآبادی چکن بریانی",
+      "id": "Biryani ayam Hyderabad",
+      "ja": "ハイデラバード風チキンビリヤニ"
+    }
+  },
+  {
+    "id": "r-in-masala-chai",
+    "slug": "masala-chai",
+    "names": {
+      "es": "Masala chai",
+      "en": "Masala chai",
+      "zh": "印度香料奶茶（masala chai）",
+      "hi": "मसाला चाय",
+      "fr": "Masala chai",
+      "ar": "شاي ماسالا",
+      "bn": "মশলা চা",
+      "pt": "Masala chai",
+      "ru": "Масала чай",
+      "ur": "مسالا چائے",
+      "id": "Masala chai",
+      "ja": "マサラチャイ"
+    }
   }
 ]

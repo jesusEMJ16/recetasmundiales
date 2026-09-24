@@ -7,6 +7,7 @@ import { localeMeta, type Locale } from "../i18n/config";
 import { getDictionary } from "../i18n/dictionaries";
 import { homeHref } from "../i18n/routing";
 import { LocaleSwitcher } from "./LocaleSwitcher";
+import { siteUi } from "../i18n/site-ui";
 
 export function SiteHeader({ locale }: { locale: Locale }) {
   const t = getDictionary(locale);
@@ -42,7 +43,7 @@ export function SiteHeader({ locale }: { locale: Locale }) {
         </Link>
         <nav className="header-nav" aria-label={t.header.navHome}>
           {links.map(link => <Link key={link.href} href={link.href} className="nav-link" aria-current={pathname === link.href ? "page" : undefined}>{link.label}</Link>)}
-          <button type="button" onClick={toggleTheme} className="icon-button" aria-label={locale === "es" ? "Cambiar tema claro / oscuro" : "Switch light / dark theme"} title={locale === "es" ? "Cambiar tema" : "Switch theme"}>
+          <button type="button" onClick={toggleTheme} className="icon-button" aria-label={siteUi[locale].themeToggle} title={siteUi[locale].themeTitle}>
             <Moon className="theme-moon" size={19} aria-hidden="true" /><Sun className="theme-sun" size={19} aria-hidden="true" />
           </button>
           <LocaleSwitcher />

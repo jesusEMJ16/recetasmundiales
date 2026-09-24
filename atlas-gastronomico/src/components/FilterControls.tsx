@@ -41,26 +41,25 @@ export function FilterControls() {
 
   return (
     <div className="overflow-hidden rounded-[var(--radius-xl2)] border border-line bg-card shadow-[var(--shadow-card)]">
-      <button onClick={() => setOpen((o) => !o)} aria-expanded={open} className="flex w-full items-center justify-between gap-3 px-4 py-3 text-left">
-        <span className="flex items-center gap-2.5">
-          <span className="text-lg">⚗️</span>
-          <span className="font-display text-base text-ink">{t.filters.title}</span>
-          {activeCount > 0 && <span className="rounded-full bg-agave px-2 py-0.5 text-xs font-bold text-white">{activeCount}</span>}
-        </span>
-        <span className="flex items-center gap-3">
-          {activeCount > 0 && (
-            <span
-              role="button" tabIndex={0}
-              onClick={(e) => { e.stopPropagation(); clearAll(); }}
-              onKeyDown={(e) => { if (e.key === "Enter") { e.stopPropagation(); clearAll(); } }}
-              className="text-xs font-medium text-ink-faint underline-offset-2 hover:text-terracota hover:underline"
-            >
-              {t.filters.clear}
-            </span>
-          )}
+      <div className="flex items-center gap-3 pr-4">
+        <button onClick={() => setOpen((o) => !o)} aria-expanded={open} className="flex flex-1 items-center justify-between gap-3 py-3 pl-4 text-left">
+          <span className="flex items-center gap-2.5">
+            <span className="text-lg" aria-hidden="true">⚗️</span>
+            <span className="font-display text-base text-ink">{t.filters.title}</span>
+            {activeCount > 0 && <span className="rounded-full bg-agave px-2 py-0.5 text-xs font-bold text-white">{activeCount}</span>}
+          </span>
           <span className={`text-ink-soft transition-transform duration-300 ${open ? "rotate-180" : ""}`} aria-hidden>▾</span>
-        </span>
-      </button>
+        </button>
+        {activeCount > 0 && (
+          <button
+            type="button"
+            onClick={clearAll}
+            className="text-xs font-medium text-ink-faint underline-offset-2 hover:text-terracota hover:underline"
+          >
+            {t.filters.clear}
+          </button>
+        )}
+      </div>
 
       <div className="grid transition-all duration-300 ease-out" style={{ gridTemplateRows: open ? "1fr" : "0fr" }}>
         <div className="overflow-hidden">

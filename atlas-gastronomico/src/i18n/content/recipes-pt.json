@@ -6805,5 +6805,166 @@
     "sources": [
       "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
     ]
+  },
+  "r-in-butter-chicken": {
+    "dishName": "Frango na manteiga (murgh makhani)",
+    "summary": "Frango marinado em iogurte e especiarias, dourado e finalizado em um molho cremoso de tomate, manteiga e feno-grego.",
+    "history": "O murgh makhani é atribuído à cozinha do restaurante Moti Mahal, em Délhi, em meados do século XX, onde as sobras de frango tandoori eram cozidas em um molho de tomate, manteiga e creme, embora a autoria seja disputada. Hoje é um dos pratos do norte da Índia mais conhecidos do mundo.",
+    "ingredients": [
+      "700 g de sobrecoxas de frango desossadas, em pedaços",
+      "150 g de iogurte natural espesso",
+      "1 colher (sopa) de pasta de gengibre e alho",
+      "2 colheres (chá) de garam masala",
+      "1 colher (chá) de pimenta da Caxemira em pó",
+      "1 colher (sopa) de suco de limão",
+      "60 g de manteiga",
+      "400 g de tomate triturado",
+      "120 ml de creme de leite",
+      "1 colher (chá) de folhas secas de feno-grego (kasuri methi)",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Misture o frango com o iogurte, a pasta de gengibre e alho, 1 colher (chá) de garam masala, a pimenta, o suco de limão e sal; deixe marinar por 60 minutos na geladeira.",
+      "Doure o frango em uma frigideira bem quente por 8-10 minutos, até ficar tostado em alguns pontos; reserve.",
+      "Derreta 40 g de manteiga na mesma frigideira, junte o tomate e cozinhe em fogo médio por 15 minutos, até engrossar.",
+      "Bata o molho, volte-o ao fogo, junte o frango e cozinhe por 8 minutos, até atingir 74 °C no centro.",
+      "Acrescente o creme de leite, o restante da manteiga e do garam masala e o feno-grego esfarelado; acerte o sal e sirva com arroz basmati."
+    ],
+    "tips": [
+      "Esfarele o feno-grego entre as palmas das mãos antes de adicioná-lo para liberar o aroma; é o toque que define este prato."
+    ],
+    "sources": [
+      "Cocina de Delhi (restaurante Moti Mahal)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-in-chana-masala": {
+    "dishName": "Chana masala punjabi",
+    "summary": "Grão-de-bico cozido em um molho temperado de cebola, tomate, gengibre e garam masala, típico do Punjab.",
+    "history": "O chana masala, também chamado de chole, é um curry de grão-de-bico muito popular no Punjab e em todo o norte da Índia. É servido em casa, nos dhabas de beira de estrada e em barracas de rua, muitas vezes com pães fritos como o bhatura ou com arroz.",
+    "ingredients": [
+      "500 g de grão-de-bico cozido e escorrido",
+      "3 colheres (sopa) de óleo vegetal",
+      "1 colher (chá) de sementes de cominho",
+      "2 cebolas bem picadas",
+      "1 colher (sopa) de pasta de gengibre e alho",
+      "1 pimenta verde picada",
+      "300 g de tomate triturado",
+      "1 colher (chá) de cúrcuma",
+      "2 colheres (chá) de coentro em pó",
+      "1 colher (chá) de pimenta vermelha em pó",
+      "2 colheres (chá) de garam masala",
+      "1 colher (chá) de amchur (manga seca em pó) ou suco de limão",
+      "250 ml de água",
+      "Coentro fresco picado e sal a gosto"
+    ],
+    "steps": [
+      "Aqueça o óleo, junte o cominho e, quando chiar, a cebola; refogue por 10 minutos até dourar.",
+      "Adicione a pasta de gengibre e alho e a pimenta verde e cozinhe por 1 minuto.",
+      "Acrescente o tomate, a cúrcuma, o coentro em pó e a pimenta em pó; cozinhe por 8 minutos, até o óleo se separar do molho.",
+      "Junte o grão-de-bico e 250 ml de água, amasse alguns com uma colher para engrossar e cozinhe em fogo baixo por 15 minutos.",
+      "Finalize com o garam masala, o amchur ou o limão, sal e coentro fresco."
+    ],
+    "tips": [
+      "Amassar parte do grão-de-bico engrossa o molho naturalmente, sem farinha nem creme."
+    ],
+    "sources": [
+      "Cocina del Panyab (India)"
+    ]
+  },
+  "r-in-masala-dosa": {
+    "dishName": "Masala dosa",
+    "summary": "Crepe fino e crocante de arroz e lentilha fermentados, recheado com batata temperada com mostarda e folhas de curry.",
+    "history": "A dosa é um crepe fermentado do sul da Índia; a versão recheada com batata temperada está associada à cozinha udupi de Karnataka e aos restaurantes de Mysuru e Bengaluru. Costuma ser servida no café da manhã com chutney de coco e sambar.",
+    "ingredients": [
+      "300 g de arroz para dosa ou arroz de grão curto",
+      "100 g de urad dal (lentilha preta partida e sem casca)",
+      "½ colher (chá) de sementes de feno-grego",
+      "500 g de batatas",
+      "2 colheres (sopa) de óleo vegetal, mais óleo para a chapa",
+      "1 colher (chá) de sementes de mostarda",
+      "10 folhas de curry",
+      "1 cebola em tiras finas",
+      "2 pimentas verdes picadas",
+      "½ colher (chá) de cúrcuma",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Deixe o arroz e o urad dal com o feno-grego de molho separadamente por 4 horas; escorra.",
+      "Bata cada um com água fria até obter uma massa lisa e fluida, misture com sal e deixe fermentar por 8 horas em local morno.",
+      "Cozinhe as batatas por 20 minutos, descasque e desfaça em pedaços irregulares.",
+      "Aqueça 2 colheres (sopa) de óleo, junte a mostarda e, quando estourar, as folhas de curry, a cebola e as pimentas; refogue por 5 minutos, acrescente a cúrcuma, as batatas e sal e misture bem.",
+      "Unte levemente uma chapa bem quente, espalhe uma concha de massa em espiral, regue com óleo e cozinhe por 2-3 minutos até dourar e ficar crocante.",
+      "Coloque uma porção de recheio no centro, dobre a dosa e sirva imediatamente com chutney de coco e sambar."
+    ],
+    "tips": [
+      "Se a massa não fermentar por causa do frio, deixe-a no forno desligado com a luz acesa; ela deve crescer e ter um cheiro levemente ácido."
+    ],
+    "sources": [
+      "Cocina udupi de Karnataka (India)"
+    ]
+  },
+  "r-in-hyderabadi-biryani": {
+    "dishName": "Biryani de frango de Hyderabad",
+    "summary": "Arroz basmati aromático em camadas sobre frango marinado em iogurte e especiarias, com cebola frita, hortelã e açafrão.",
+    "history": "O biryani de Hyderabad surgiu nas cozinhas dos nizams, governantes do Decão, onde técnicas persas se uniram às tradições locais. É finalizado pelo método dum: o arroz e a carne cozinham juntos em fogo muito baixo, em uma panela vedada, para absorver os aromas.",
+    "ingredients": [
+      "1 kg de frango em pedaços com osso",
+      "250 g de iogurte natural",
+      "1 colher (sopa) de pasta de gengibre e alho",
+      "2 colheres (chá) de pimenta vermelha em pó",
+      "2 colheres (chá) de garam masala",
+      "400 g de arroz basmati",
+      "3 cebolas em tiras finas",
+      "4 colheres (sopa) de ghee ou óleo",
+      "20 g de folhas de hortelã",
+      "20 g de coentro fresco",
+      "1 pitada de açafrão de molho em 60 ml de leite morno",
+      "4 bagas de cardamomo verde, 4 cravos e 1 pau de canela",
+      "1 colher (sopa) de suco de limão",
+      "Sal a gosto"
+    ],
+    "steps": [
+      "Deixe o frango marinar com o iogurte, a pasta de gengibre e alho, a pimenta, o garam masala, o suco de limão, metade da hortelã e do coentro e sal por 2 horas na geladeira.",
+      "Frite a cebola no ghee por 15 minutos, até dourar bem; retire-a e reserve a gordura.",
+      "Cozinhe o frango marinado na mesma gordura, tampado, por 20 minutos em fogo médio.",
+      "Enquanto isso, lave o arroz e ferva-o em água com sal, o cardamomo, os cravos e a canela por 5 minutos, até ficar 70 % cozido; escorra.",
+      "Cubra o frango com o arroz e distribua por cima a cebola frita, o restante da hortelã e do coentro e o leite com açafrão.",
+      "Vede a panela com tampa e papel-alumínio e cozinhe em fogo muito baixo por 20 minutos; confira se o frango atinge 74 °C e deixe descansar por 5 minutos antes de misturar com cuidado e servir."
+    ],
+    "tips": [
+      "O arroz deve sair da primeira fervura ainda firme no centro: ele termina de cozinhar no vapor do frango dentro da panela vedada."
+    ],
+    "sources": [
+      "Cocina de Hyderabad (Telangana, India)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-in-masala-chai": {
+    "dishName": "Masala chai",
+    "summary": "Chá preto fervido com leite, açúcar e especiarias como cardamomo, gengibre, canela e cravo.",
+    "history": "O chai é a bebida do dia a dia na Índia: é servido em barracas de rua, estações de trem e casas de todo o país. O costume de ferver chá preto com leite, açúcar e especiarias se espalhou ao longo do século XX, e hoje cada família e cada chaiwala tem sua própria mistura.",
+    "ingredients": [
+      "500 ml de água",
+      "500 ml de leite integral",
+      "4 colheres (chá) de chá preto em folhas (tipo Assam)",
+      "4 bagas de cardamomo verde amassadas",
+      "15 g de gengibre fresco ralado",
+      "1 pau de canela",
+      "3 cravos-da-índia",
+      "4 colheres (chá) de açúcar, ou a gosto"
+    ],
+    "steps": [
+      "Ferva a água com o cardamomo, o gengibre, a canela e os cravos por 4 minutos.",
+      "Junte o chá e cozinhe por 2 minutos em fogo médio.",
+      "Acrescente o leite e o açúcar e leve à fervura; quando a espuma subir, abaixe o fogo e deixe subir mais uma vez.",
+      "Coe o chai e sirva bem quente."
+    ],
+    "tips": [
+      "Amasse o cardamomo e rale o gengibre logo antes de usar para que o chai fique mais aromático."
+    ],
+    "sources": [
+      "Tradición del chai en la India"
+    ]
   }
 }

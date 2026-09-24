@@ -1,18 +1,20 @@
-import Link from "next/link";
 import { Restaurant } from "@/domain/types";
 import { Locale } from "@/i18n/config";
+import { siteUi } from "@/i18n/site-ui";
+import { translateRestaurant } from "@/i18n/content/restaurants";
 
 interface RestaurantCardProps {
   restaurant: Restaurant;
   locale: Locale;
 }
 
-export default function RestaurantCard({ restaurant, locale }: RestaurantCardProps) {
+// No hay página de detalle por restaurante todavía: la tarjeta no enlaza a ninguna ruta interna.
+export default function RestaurantCard({ restaurant: source, locale }: RestaurantCardProps) {
+  const restaurant = translateRestaurant(source, locale);
   const priceDisplay = "$".repeat(restaurant.priceRange.length);
   
   return (
-    <Link 
-      href={`/${locale}/restaurantes/${restaurant.slug}`}
+    <article
       className="group bg-white dark:bg-gray-800 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 dark:border-gray-700 hover:border-orange-200 dark:hover:border-orange-800"
     >
       {/* Imagen */}
@@ -32,7 +34,7 @@ export default function RestaurantCard({ restaurant, locale }: RestaurantCardPro
         {/* Badge de destacado */}
         {restaurant.isFeatured && (
           <div className="absolute top-3 right-3 bg-yellow-400 text-yellow-900 px-3 py-1 rounded-full text-xs font-bold shadow-lg">
-            ⭐ Destacado
+            ⭐ {siteUi[locale].restaurants.featuredBadge}
           </div>
         )}
         
@@ -97,6 +99,6 @@ export default function RestaurantCard({ restaurant, locale }: RestaurantCardPro
           </div>
         )}
       </div>
-    </Link>
+    </article>
   );
 }

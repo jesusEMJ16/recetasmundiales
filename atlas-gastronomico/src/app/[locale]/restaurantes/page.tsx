@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import { getDictionary } from "@/i18n/dictionaries";
 import { Locale, locales, localeMeta, isLocale } from "@/i18n/config";
+import { absoluteUrl } from "@/site";
 import { restaurants, getFeaturedRestaurants } from "@/data/restaurants";
 import RestaurantCard from "@/components/RestaurantCard";
-import AdSenseBanner, { NativeAd, InFeedAd } from "@/components/AdSenseBanner";
+import { NativeAd } from "@/components/AdSenseBanner";
+import { siteUi } from "@/i18n/site-ui";
 
 interface PageProps {
   params: Promise<{ locale: Locale }>;
@@ -14,7 +16,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!isLocale(locale)) return {};
   
   const dict = getDictionary(locale);
-  const canonicalUrl = `https://worldbitesapp.com/${locale}/restaurantes`;
+  const canonicalUrl = absoluteUrl(`/${locale}/restaurantes`);
   const localeInfo = localeMeta[locale];
   
   return {
@@ -23,7 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     alternates: {
       canonical: canonicalUrl,
       languages: Object.fromEntries(
-        locales.map((l) => [l, `https://worldbitesapp.com/${l}/restaurantes`])
+        locales.map((l) => [l, absoluteUrl(`/${l}/restaurantes`)])
       ),
     },
     openGraph: {
@@ -32,7 +34,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       type: "website",
       locale: localeInfo.htmlLang,
       url: canonicalUrl,
-      siteName: "Atlas Gastronómico Mundial",
+      siteName: dict.header.brand,
     },
     twitter: {
       card: "summary_large_image",
@@ -45,6 +47,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function RestaurantsPage({ params }: PageProps) {
   const { locale } = await params;
   const dict = getDictionary(locale);
+  const ui = siteUi[locale].restaurants;
   const featuredRestaurants = getFeaturedRestaurants();
   
   return (
@@ -65,11 +68,6 @@ export default async function RestaurantsPage({ params }: PageProps) {
         </div>
       </section>
 
-      {/* Anuncio Horizontal Superior */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-8">
-        <AdSenseBanner slot="1234567890" format="horizontal" className="my-4" />
-      </div>
-
       {/* Restaurantes Destacados */}
       <section className="py-12 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
@@ -79,20 +77,14 @@ export default async function RestaurantsPage({ params }: PageProps) {
                 ⭐ {dict.restaurants.featured}
               </h2>
               <p className="text-gray-600 dark:text-gray-400 mt-2">
-                Los mejores restaurantes seleccionados para ti
+                {ui.featuredSubtitle}
               </p>
             </div>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {featuredRestaurants.map((restaurant, index) => (
-              <>
-                <RestaurantCard key={restaurant.id} restaurant={restaurant} locale={locale} />
-                {/* Insertar anuncio in-feed después del segundo restaurante */}
-                {index === 1 && (
-                  <InFeedAd slot="2345678901" className="md:col-span-2 lg:col-span-1" />
-                )}
-              </>
+            {featuredRestaurants.map((restaurant) => (
+              <RestaurantCard key={restaurant.id} restaurant={restaurant} locale={locale} />
             ))}
           </div>
         </div>
@@ -102,10 +94,10 @@ export default async function RestaurantsPage({ params }: PageProps) {
       <section className="py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
           <NativeAd
-            title="¿Tienes un restaurante?"
-            description="Únete a World Bites y muestra tu cocina al mundo. Miles de foodies están buscando experiencias como la tuya."
-            cta="Registra tu restaurante"
-            imageUrl="/images/ads/restaurant-partner.jpg"
+            title={ui.partnerTitle}
+            description={ui.partnerText}
+            cta={ui.partnerCta}
+            badge={ui.sponsored}
           />
         </div>
       </section>
@@ -118,16 +110,8 @@ export default async function RestaurantsPage({ params }: PageProps) {
           </h2>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {restaurants.map((restaurant, index) => (
-              !restaurant.isFeatured && (
-                <>
-                  <RestaurantCard key={restaurant.id} restaurant={restaurant} locale={locale} />
-                  {/* Insertar anuncio in-feed cada 3 restaurantes */}
-                  {index % 3 === 2 && index < restaurants.length - 1 && (
-                    <InFeedAd slot="3456789012" className="md:col-span-2 lg:col-span-1" />
-                  )}
-                </>
-              )
+            {restaurants.filter((restaurant) => !restaurant.isFeatured).map((restaurant) => (
+              <RestaurantCard key={restaurant.id} restaurant={restaurant} locale={locale} />
             ))}
           </div>
         </div>
@@ -138,10 +122,10 @@ export default async function RestaurantsPage({ params }: PageProps) {
         <div className="max-w-3xl mx-auto text-center">
           <div className="bg-gradient-to-r from-orange-500 to-amber-500 rounded-2xl p-8 sm:p-12 text-white shadow-xl">
             <h2 className="text-2xl sm:text-3xl font-bold mb-4">
-              ¿Tienes un restaurante o puesto de comida?
+              {ui.ctaTitle}
             </h2>
             <p className="text-orange-100 mb-6 text-lg">
-              Únete a nuestra comunidad y llega a miles de amantes de la comida de todo el mundo.
+              {ui.ctaText}
             </p>
             <button className="bg-white text-orange-600 font-semibold px-8 py-3 rounded-full hover:bg-orange-50 transition-colors shadow-lg">
               {dict.restaurants.add} →
@@ -150,10 +134,6 @@ export default async function RestaurantsPage({ params }: PageProps) {
         </div>
       </section>
 
-      {/* Anuncio Rectangular Inferior */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-8">
-        <AdSenseBanner slot="4567890123" format="rectangle" className="my-4" />
-      </div>
     </div>
   );
 }

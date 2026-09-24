@@ -6805,5 +6805,166 @@
     "sources": [
       "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
     ]
+  },
+  "r-in-butter-chicken": {
+    "dishName": "Poulet au beurre (murgh makhani)",
+    "summary": "Poulet mariné au yaourt et aux épices, saisi puis nappé d’une sauce crémeuse à la tomate, au beurre et au fenugrec.",
+    "history": "On attribue le murgh makhani à la cuisine du restaurant Moti Mahal de Delhi, au milieu du XXe siècle, où les restes de poulet tandoori mijotaient dans une sauce à la tomate, au beurre et à la crème, même si sa paternité est contestée. C’est aujourd’hui l’un des plats du nord de l’Inde les plus connus au monde.",
+    "ingredients": [
+      "700 g de hauts de cuisse de poulet désossés, en morceaux",
+      "150 g de yaourt nature épais",
+      "1 c. à soupe de pâte gingembre-ail",
+      "2 c. à café de garam masala",
+      "1 c. à café de piment du Cachemire en poudre",
+      "1 c. à soupe de jus de citron",
+      "60 g de beurre",
+      "400 g de tomates concassées",
+      "120 ml de crème liquide",
+      "1 c. à café de feuilles de fenugrec séchées (kasuri methi)",
+      "Sel selon le goût"
+    ],
+    "steps": [
+      "Mélangez le poulet avec le yaourt, la pâte gingembre-ail, 1 c. à café de garam masala, le piment, le jus de citron et le sel ; laissez mariner 60 minutes au réfrigérateur.",
+      "Saisissez le poulet dans une poêle très chaude pendant 8-10 minutes, jusqu’à ce qu’il soit grillé par endroits ; réservez.",
+      "Faites fondre 40 g de beurre dans la même poêle, ajoutez les tomates et laissez cuire 15 minutes à feu moyen, jusqu’à ce que la sauce épaississe.",
+      "Mixez la sauce, remettez-la sur le feu, ajoutez le poulet et laissez cuire 8 minutes, jusqu’à 74 °C à cœur.",
+      "Incorporez la crème, le reste du beurre et du garam masala et le fenugrec émietté ; rectifiez le sel et servez avec du riz basmati."
+    ],
+    "tips": [
+      "Froissez le fenugrec entre vos paumes avant de l’ajouter pour libérer son arôme : c’est la touche qui distingue ce plat."
+    ],
+    "sources": [
+      "Cocina de Delhi (restaurante Moti Mahal)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-in-chana-masala": {
+    "dishName": "Chana masala du Pendjab",
+    "summary": "Pois chiches mijotés dans une sauce épicée à l’oignon, à la tomate, au gingembre et au garam masala, typique du Pendjab.",
+    "history": "Le chana masala, aussi appelé chole, est un curry de pois chiches très populaire au Pendjab et dans tout le nord de l’Inde. On le sert à la maison, dans les dhabas de bord de route et sur les étals de rue, souvent avec des pains frits comme le bhatura ou avec du riz.",
+    "ingredients": [
+      "500 g de pois chiches cuits, égouttés",
+      "3 c. à soupe d’huile végétale",
+      "1 c. à café de graines de cumin",
+      "2 oignons finement hachés",
+      "1 c. à soupe de pâte gingembre-ail",
+      "1 piment vert haché",
+      "300 g de tomates concassées",
+      "1 c. à café de curcuma",
+      "2 c. à café de coriandre moulue",
+      "1 c. à café de piment rouge en poudre",
+      "2 c. à café de garam masala",
+      "1 c. à café d’amchur (poudre de mangue séchée) ou de jus de citron",
+      "250 ml d’eau",
+      "Coriandre fraîche hachée et sel selon le goût"
+    ],
+    "steps": [
+      "Faites chauffer l’huile, ajoutez le cumin puis, dès qu’il grésille, les oignons ; faites-les dorer 10 minutes.",
+      "Ajoutez la pâte gingembre-ail et le piment vert et faites cuire 1 minute.",
+      "Incorporez les tomates, le curcuma, la coriandre moulue et le piment en poudre ; laissez cuire 8 minutes, jusqu’à ce que l’huile se sépare de la sauce.",
+      "Ajoutez les pois chiches et 250 ml d’eau, écrasez-en quelques-uns à la cuillère pour épaissir et laissez mijoter 15 minutes.",
+      "Terminez avec le garam masala, l’amchur ou le citron, le sel et la coriandre fraîche."
+    ],
+    "tips": [
+      "Écraser une partie des pois chiches épaissit naturellement la sauce, sans farine ni crème."
+    ],
+    "sources": [
+      "Cocina del Panyab (India)"
+    ]
+  },
+  "r-in-masala-dosa": {
+    "dishName": "Masala dosa",
+    "summary": "Crêpe fine et croustillante de riz et de lentilles fermentés, garnie de pommes de terre épicées à la moutarde et aux feuilles de curry.",
+    "history": "La dosa est une crêpe fermentée du sud de l’Inde ; la version garnie de pommes de terre épicées est associée à la cuisine udupi du Karnataka et aux restaurants de Mysuru et de Bengaluru. On la mange généralement au petit-déjeuner avec un chutney de coco et du sambar.",
+    "ingredients": [
+      "300 g de riz à dosa ou de riz à grain rond",
+      "100 g d’urad dal (lentilles noires décortiquées et cassées)",
+      "½ c. à café de graines de fenugrec",
+      "500 g de pommes de terre",
+      "2 c. à soupe d’huile végétale, plus de l’huile pour la plaque",
+      "1 c. à café de graines de moutarde",
+      "10 feuilles de curry",
+      "1 oignon émincé finement",
+      "2 piments verts hachés",
+      "½ c. à café de curcuma",
+      "Sel selon le goût"
+    ],
+    "steps": [
+      "Faites tremper séparément le riz et l’urad dal avec le fenugrec pendant 4 heures ; égouttez.",
+      "Mixez-les chacun avec de l’eau froide jusqu’à obtenir une pâte lisse et fluide, mélangez-les avec le sel et laissez fermenter 8 heures dans un endroit tiède.",
+      "Faites cuire les pommes de terre 20 minutes, épluchez-les et émiettez-les grossièrement.",
+      "Chauffez 2 c. à soupe d’huile, ajoutez la moutarde puis, quand elle éclate, les feuilles de curry, l’oignon et les piments ; faites revenir 5 minutes, ajoutez le curcuma, les pommes de terre et le sel et mélangez bien.",
+      "Huilez légèrement une plaque très chaude, étalez une louche de pâte en spirale, arrosez d’un filet d’huile et laissez cuire 2-3 minutes jusqu’à ce qu’elle soit dorée et croustillante.",
+      "Déposez une portion de garniture au centre, pliez la dosa et servez aussitôt avec le chutney de coco et le sambar."
+    ],
+    "tips": [
+      "Si la pâte ne fermente pas à cause du froid, placez-la dans le four éteint avec la lumière allumée ; elle doit gonfler et sentir légèrement aigre."
+    ],
+    "sources": [
+      "Cocina udupi de Karnataka (India)"
+    ]
+  },
+  "r-in-hyderabadi-biryani": {
+    "dishName": "Biryani de poulet d’Hyderabad",
+    "summary": "Riz basmati parfumé disposé en couches sur du poulet mariné au yaourt et aux épices, avec oignons frits, menthe et safran.",
+    "history": "Le biryani d’Hyderabad est né dans les cuisines des nizams, souverains du Deccan, où les techniques persanes ont rencontré les traditions locales. Il s’achève selon la méthode dum : le riz et la viande cuisent ensemble à feu très doux dans une marmite scellée pour s’imprégner de leurs arômes.",
+    "ingredients": [
+      "1 kg de morceaux de poulet avec os",
+      "250 g de yaourt nature",
+      "1 c. à soupe de pâte gingembre-ail",
+      "2 c. à café de piment rouge en poudre",
+      "2 c. à café de garam masala",
+      "400 g de riz basmati",
+      "3 oignons émincés finement",
+      "4 c. à soupe de ghee ou d’huile",
+      "20 g de feuilles de menthe",
+      "20 g de coriandre fraîche",
+      "1 pincée de safran infusé dans 60 ml de lait tiède",
+      "4 gousses de cardamome verte, 4 clous de girofle et 1 bâton de cannelle",
+      "1 c. à soupe de jus de citron",
+      "Sel selon le goût"
+    ],
+    "steps": [
+      "Faites mariner le poulet avec le yaourt, la pâte gingembre-ail, le piment, le garam masala, le jus de citron, la moitié de la menthe et de la coriandre et le sel pendant 2 heures au réfrigérateur.",
+      "Faites frire les oignons dans le ghee 15 minutes, jusqu’à ce qu’ils soient bien dorés ; retirez-les et gardez la matière grasse.",
+      "Faites cuire le poulet mariné dans cette même matière grasse, à couvert, pendant 20 minutes à feu moyen.",
+      "Pendant ce temps, rincez le riz et faites-le bouillir dans de l’eau salée avec la cardamome, les clous de girofle et la cannelle pendant 5 minutes, jusqu’à ce qu’il soit cuit à 70 % ; égouttez.",
+      "Recouvrez le poulet de riz, puis répartissez dessus les oignons frits, le reste de la menthe et de la coriandre et le lait au safran.",
+      "Scellez la marmite avec le couvercle et du papier aluminium et laissez cuire 20 minutes à feu très doux ; vérifiez que le poulet atteint 74 °C et laissez reposer 5 minutes avant de mélanger délicatement et de servir."
+    ],
+    "tips": [
+      "Le riz doit sortir de la première ébullition encore ferme au centre : il finira de cuire dans la vapeur du poulet, à l’intérieur de la marmite scellée."
+    ],
+    "sources": [
+      "Cocina de Hyderabad (Telangana, India)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-in-masala-chai": {
+    "dishName": "Masala chai",
+    "summary": "Thé noir bouilli avec du lait, du sucre et des épices comme la cardamome, le gingembre, la cannelle et le clou de girofle.",
+    "history": "Le chai est la boisson quotidienne de l’Inde : on le sert dans les échoppes de rue, les gares et les foyers de tout le pays. L’habitude de faire bouillir le thé noir avec du lait, du sucre et des épices s’est répandue au cours du XXe siècle, et chaque famille comme chaque chaiwala a aujourd’hui son propre mélange.",
+    "ingredients": [
+      "500 ml d’eau",
+      "500 ml de lait entier",
+      "4 c. à café de thé noir en vrac (type Assam)",
+      "4 gousses de cardamome verte écrasées",
+      "15 g de gingembre frais râpé",
+      "1 bâton de cannelle",
+      "3 clous de girofle",
+      "4 c. à café de sucre, ou selon le goût"
+    ],
+    "steps": [
+      "Faites bouillir l’eau avec la cardamome, le gingembre, la cannelle et les clous de girofle pendant 4 minutes.",
+      "Ajoutez le thé et laissez cuire 2 minutes à feu moyen.",
+      "Ajoutez le lait et le sucre et portez à ébullition ; quand la mousse monte, baissez le feu et laissez-la monter une fois de plus.",
+      "Filtrez le chai et servez-le bien chaud."
+    ],
+    "tips": [
+      "Écrasez la cardamome et râpez le gingembre juste avant de les utiliser pour un chai plus parfumé."
+    ],
+    "sources": [
+      "Tradición del chai en la India"
+    ]
   }
 }

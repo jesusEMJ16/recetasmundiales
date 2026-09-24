@@ -18,12 +18,12 @@ import { FilterControls } from "../../../../components/FilterControls";
 import { StatesGrid } from "../../../../components/StatesGrid";
 import { WorldMap } from "../../../../components/WorldMap";
 import { isLocale, locales, localeMeta, localeDirection } from "../../../../i18n/config";
-import type { Locale } from "../../../../i18n/config";
 import { getDictionary } from "../../../../i18n/dictionaries";
 import { placeHref, placeHrefFromSlugs } from "../../../../i18n/routing";
 import { translatePlaceName } from "../../../../i18n/content";
 import { translateRecipe } from "../../../../i18n/recipe-content";
 import { placePathSlugs } from "../../../../domain/places";
+import { absoluteUrl } from "../../../../site";
 
 const VALID_SORTS: SortKey[] = ["estrellas", "recientes", "populares", "rapidas", "alfabetico"];
 
@@ -42,31 +42,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!place) return {};
   
   const t = getDictionary(locale);
-  const canonicalUrl = `https://worldbitesapp.com/${locale}/recetas/${slug.join('/')}`;
-  const localeInfo = localeMeta[locale as Locale];
-  const placeName = translatePlaceName(place, locale as Locale);
+  const canonicalUrl = absoluteUrl(placeHrefFromSlugs(locale, slug));
+  const localeInfo = localeMeta[locale];
+  const placeName = translatePlaceName(place, locale);
   const recipes = getRecipesForPlace(place.id, PLACES, RECIPES);
-  
-  // Build breadcrumb schema for place pages
-  const breadcrumb = getBreadcrumb(place, PLACES);
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem" as const,
-        position: 1,
-        name: "Home",
-        item: `https://worldbitesapp.com/${locale}`,
-      },
-      ...breadcrumb.map((p, index) => ({
-        "@type": "ListItem" as const,
-        position: index + 2,
-        name: translatePlaceName(p, locale as Locale),
-        item: `https://worldbitesapp.com/${locale}/recetas/${placePathSlugs(p, PLACES).join('/')}`,
-      })),
-    ],
-  };
   
   return {
     title: t.place.title(placeName),
@@ -74,16 +53,16 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     alternates: {
       canonical: canonicalUrl,
       languages: Object.fromEntries(
-        locales.map((l) => [l, `https://worldbitesapp.com/${l}/recetas/${slug.join('/')}`])
+        locales.map((l) => [l, absoluteUrl(placeHrefFromSlugs(l, slug))])
       ),
     },
     openGraph: {
       title: t.place.title(placeName),
       description: `${t.place.kind[place.type]} · ${t.place.recipes(recipes.length)}`,
       type: "website",
-      locale: localeInfo?.htmlLang || "es",
+      locale: localeInfo.htmlLang,
       url: canonicalUrl,
-      siteName: "Atlas Gastronómico Mundial",
+      siteName: t.header.brand,
     },
     twitter: {
       card: "summary_large_image",
@@ -136,14 +115,14 @@ export default async function PlacePage({
       {
         "@type": "ListItem" as const,
         position: 1,
-        name: "Home",
-        item: `https://worldbitesapp.com/${locale}`,
+        name: t.header.navHome,
+        item: absoluteUrl(`/${locale}`),
       },
       ...breadcrumb.map((p, index) => ({
         "@type": "ListItem" as const,
         position: index + 2,
-        name: translatePlaceName(p, locale as Locale),
-        item: `https://worldbitesapp.com/${locale}/recetas/${placePathSlugs(p, PLACES).join('/')}`,
+        name: translatePlaceName(p, locale),
+        item: absoluteUrl(placeHrefFromSlugs(locale, placePathSlugs(p, PLACES))),
       })),
     ],
   };
@@ -153,7 +132,7 @@ export default async function PlacePage({
     "@type": "ItemList",
     name: t.place.title(translatePlaceName(place, locale)),
     itemListElement: recipes.map((r, i) => ({
-      "@type": "ListItem", position: i + 1, name: translateRecipe(r, locale).dishName, url: `/${locale}/receta/${r.slug}`,
+      "@type": "ListItem", position: i + 1, name: translateRecipe(r, locale).dishName, url: absoluteUrl(`/${locale}/receta/${r.slug}`),
     })),
   };
 

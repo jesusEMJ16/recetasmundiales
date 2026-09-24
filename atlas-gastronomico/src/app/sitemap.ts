@@ -5,19 +5,20 @@ import { locales } from '../i18n/config';
 import { getRecipeLocales } from '../i18n/recipe-content';
 import { buildRecipeCounts } from '../domain/atlas';
 import { placePathSlugs } from '../domain/places';
-
-const BASE_URL = 'https://worldbitesapp.com';
+import { SITE_URL as BASE_URL } from '../site';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const sitemapEntries: MetadataRoute.Sitemap = [];
   const counts = buildRecipeCounts(PLACES, RECIPES);
+  // Listing pages change when their recipes change, not on every build.
+  const catalogUpdatedAt = new Date(RECIPES.map(recipe => recipe.updatedAt ?? recipe.publishedAt).sort().at(-1)!);
 
   // Páginas de recetas individuales para todos los idiomas
   locales.forEach((locale) => {
     // Homepage por idioma
     sitemapEntries.push({
       url: `${BASE_URL}/${locale}`,
-      lastModified: new Date(),
+      lastModified: catalogUpdatedAt,
       changeFrequency: 'weekly',
       priority: 1.0,
     });
@@ -25,7 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Página de restaurantes por idioma
     sitemapEntries.push({
       url: `${BASE_URL}/${locale}/restaurantes`,
-      lastModified: new Date(),
+      lastModified: catalogUpdatedAt,
       changeFrequency: 'weekly',
       priority: 0.8,
     });
@@ -37,7 +38,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       if (slugs.length > 0) {
         sitemapEntries.push({
           url: `${BASE_URL}/${locale}/recetas/${slugs.join('/')}`,
-          lastModified: new Date(),
+          lastModified: catalogUpdatedAt,
           changeFrequency: 'weekly',
           priority: place.type === 'pais' ? 0.9 : 0.7,
         });

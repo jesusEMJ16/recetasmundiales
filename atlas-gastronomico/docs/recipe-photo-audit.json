@@ -1,9 +1,9 @@
 {
   "date": "2026-09-24",
   "baseCommit": "d7a1eb1ed39081a24b4234dcd71971fa348f0142",
-  "totalRecipes": 234,
+  "totalRecipes": 239,
   "photoCount": 234,
-  "pendingCount": 0,
+  "pendingCount": 5,
   "counts": {
     "added": 44,
     "replaced": 31,
@@ -11,7 +11,7 @@
     "original": 32
   },
   "runtimeExternalImages": 23,
-  "notes": "All 234 recipes have reviewed imagery. 211 recipes ship local assets; 23 recent recipes use attributed Wikimedia Commons photographs with responsive source URLs. Italy adds four new WorldBites original illustrations and fully localized recipe pages.",
+  "notes": "All 234 recipes have reviewed imagery. 211 recipes ship local assets; 23 recent recipes use attributed Wikimedia Commons photographs with responsive source URLs. Italy adds four new WorldBites original illustrations and fully localized recipe pages. India adds five fully localized recipes whose photographs are pending and render the explicit pending-photo notice.",
   "photos": [
     {
       "slug": "tlayudas-oaxaquenas",
@@ -3827,5 +3827,36 @@
       "crop": null
     }
   ],
-  "pending": []
+  "pending": [
+    {
+      "slug": "pollo-a-la-mantequilla-murgh-makhani",
+      "dishName": "Pollo a la mantequilla (murgh makhani)",
+      "status": "pending",
+      "reason": "Recipe published before its photograph; the site owner will supply the image."
+    },
+    {
+      "slug": "chana-masala-panyabi",
+      "dishName": "Chana masala panyabí",
+      "status": "pending",
+      "reason": "Recipe published before its photograph; the site owner will supply the image."
+    },
+    {
+      "slug": "masala-dosa",
+      "dishName": "Masala dosa",
+      "status": "pending",
+      "reason": "Recipe published before its photograph; the site owner will supply the image."
+    },
+    {
+      "slug": "biryani-de-pollo-hyderabadi",
+      "dishName": "Biryani de pollo hyderabadi",
+      "status": "pending",
+      "reason": "Recipe published before its photograph; the site owner will supply the image."
+    },
+    {
+      "slug": "masala-chai",
+      "dishName": "Masala chai",
+      "status": "pending",
+      "reason": "Recipe published before its photograph; the site owner will supply the image."
+    }
+  ]
 }

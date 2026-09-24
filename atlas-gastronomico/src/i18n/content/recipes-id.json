@@ -6805,5 +6805,166 @@
     "sources": [
       "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
     ]
+  },
+  "r-in-butter-chicken": {
+    "dishName": "Ayam mentega (murgh makhani)",
+    "summary": "Ayam yang dimarinasi dengan yoghurt dan rempah, dipanggang lalu dimasak dalam saus krim tomat, mentega, dan kelabet.",
+    "history": "Murgh makhani dikaitkan dengan dapur restoran Moti Mahal di Delhi pada pertengahan abad ke-20, tempat sisa ayam tandoori dimasak dalam saus tomat, mentega, dan krim, meski siapa penciptanya masih diperdebatkan. Kini hidangan ini menjadi salah satu masakan India utara paling terkenal di dunia.",
+    "ingredients": [
+      "700 g paha ayam tanpa tulang, potong-potong",
+      "150 g yoghurt tawar kental",
+      "1 sdm pasta jahe-bawang putih",
+      "2 sdt garam masala",
+      "1 sdt bubuk cabai Kashmir",
+      "1 sdm air jeruk lemon",
+      "60 g mentega",
+      "400 g tomat hancur",
+      "120 ml krim masak",
+      "1 sdt daun kelabet kering (kasuri methi)",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Campur ayam dengan yoghurt, pasta jahe-bawang putih, 1 sdt garam masala, cabai, air lemon, dan garam; marinasi selama 60 menit di kulkas.",
+      "Panggang ayam di wajan yang sangat panas selama 8-10 menit hingga ada bagian yang kecokelatan; sisihkan.",
+      "Lelehkan 40 g mentega di wajan yang sama, masukkan tomat, dan masak dengan api sedang selama 15 menit hingga mengental.",
+      "Haluskan saus, kembalikan ke api, masukkan ayam, dan masak selama 8 menit hingga bagian tengahnya mencapai 74 °C.",
+      "Tambahkan krim, sisa mentega dan garam masala, serta kelabet yang diremas; sesuaikan garam dan sajikan dengan nasi basmati."
+    ],
+    "tips": [
+      "Remas daun kelabet di antara telapak tangan sebelum dimasukkan agar aromanya keluar; inilah sentuhan khas hidangan ini."
+    ],
+    "sources": [
+      "Cocina de Delhi (restaurante Moti Mahal)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-in-chana-masala": {
+    "dishName": "Chana masala Punjab",
+    "summary": "Kacang arab dimasak dalam saus berbumbu dari bawang, tomat, jahe, dan garam masala, khas Punjab.",
+    "history": "Chana masala, yang juga disebut chole, adalah kari kacang arab yang sangat populer di Punjab dan seluruh India utara. Hidangan ini disajikan di rumah, di dhaba pinggir jalan, dan di kedai kaki lima, sering kali dengan roti goreng seperti bhatura atau dengan nasi.",
+    "ingredients": [
+      "500 g kacang arab matang, tiriskan",
+      "3 sdm minyak sayur",
+      "1 sdt biji jintan",
+      "2 buah bawang bombay, cincang halus",
+      "1 sdm pasta jahe-bawang putih",
+      "1 cabai hijau, cincang",
+      "300 g tomat hancur",
+      "1 sdt kunyit bubuk",
+      "2 sdt ketumbar bubuk",
+      "1 sdt bubuk cabai merah",
+      "2 sdt garam masala",
+      "1 sdt amchur (bubuk mangga kering) atau air jeruk lemon",
+      "250 ml air",
+      "Daun ketumbar segar cincang dan garam secukupnya"
+    ],
+    "steps": [
+      "Panaskan minyak, masukkan jintan dan, setelah berdesis, bawang bombay; tumis selama 10 menit hingga keemasan.",
+      "Tambahkan pasta jahe-bawang putih dan cabai hijau, lalu masak selama 1 menit.",
+      "Masukkan tomat, kunyit, ketumbar bubuk, dan bubuk cabai; masak selama 8 menit hingga minyak terpisah dari saus.",
+      "Tambahkan kacang arab dan 250 ml air, lumatkan sebagian dengan sendok agar kental, lalu masak dengan api kecil selama 15 menit.",
+      "Selesaikan dengan garam masala, amchur atau lemon, garam, dan daun ketumbar segar."
+    ],
+    "tips": [
+      "Melumatkan sebagian kacang arab membuat saus mengental secara alami tanpa tepung atau krim."
+    ],
+    "sources": [
+      "Cocina del Panyab (India)"
+    ]
+  },
+  "r-in-masala-dosa": {
+    "dishName": "Masala dosa",
+    "summary": "Krep tipis dan renyah dari beras dan kacang urad yang difermentasi, berisi kentang berbumbu biji sawi dan daun kari.",
+    "history": "Dosa adalah krep fermentasi dari India selatan; versi berisi kentang berbumbu dikaitkan dengan masakan Udupi dari Karnataka serta restoran-restoran di Mysuru dan Bengaluru. Biasanya disantap untuk sarapan dengan chutney kelapa dan sambar.",
+    "ingredients": [
+      "300 g beras dosa atau beras berbutir pendek",
+      "100 g urad dal (kacang hitam belah tanpa kulit)",
+      "½ sdt biji kelabet",
+      "500 g kentang",
+      "2 sdm minyak sayur, ditambah minyak untuk wajan datar",
+      "1 sdt biji sawi",
+      "10 lembar daun kari",
+      "1 bawang bombay, iris tipis",
+      "2 cabai hijau, cincang",
+      "½ sdt kunyit bubuk",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Rendam beras dan urad dal bersama kelabet secara terpisah selama 4 jam; tiriskan.",
+      "Giling masing-masing dengan air dingin hingga menjadi adonan halus dan encer, campurkan dengan garam, lalu diamkan untuk fermentasi selama 8 jam di tempat hangat.",
+      "Rebus kentang selama 20 menit, kupas, lalu hancurkan kasar.",
+      "Panaskan 2 sdm minyak, masukkan biji sawi dan, saat meletup, daun kari, bawang, dan cabai; tumis selama 5 menit, tambahkan kunyit, kentang, dan garam, lalu aduk rata.",
+      "Olesi tipis wajan datar yang sangat panas, tuang satu sendok sayur adonan dan ratakan melingkar, beri sedikit minyak, lalu masak selama 2-3 menit hingga keemasan dan renyah.",
+      "Letakkan sebagian isian di tengah, lipat dosa, dan segera sajikan dengan chutney kelapa dan sambar."
+    ],
+    "tips": [
+      "Jika adonan tidak berfermentasi karena udara dingin, simpan di dalam oven mati dengan lampu menyala; adonan harus mengembang dan beraroma sedikit asam."
+    ],
+    "sources": [
+      "Cocina udupi de Karnataka (India)"
+    ]
+  },
+  "r-in-hyderabadi-biryani": {
+    "dishName": "Biryani ayam Hyderabad",
+    "summary": "Nasi basmati harum yang disusun berlapis di atas ayam berbumbu yoghurt dan rempah, dengan bawang goreng, daun mint, dan kuma-kuma.",
+    "history": "Biryani Hyderabad berkembang di dapur para nizam, penguasa Dekan, tempat teknik Persia berpadu dengan tradisi setempat. Hidangan ini diselesaikan dengan metode dum: nasi dan daging dimasak bersama dengan api sangat kecil dalam panci tertutup rapat agar aromanya saling meresap.",
+    "ingredients": [
+      "1 kg potongan ayam bertulang",
+      "250 g yoghurt tawar",
+      "1 sdm pasta jahe-bawang putih",
+      "2 sdt bubuk cabai merah",
+      "2 sdt garam masala",
+      "400 g beras basmati",
+      "3 bawang bombay, iris tipis",
+      "4 sdm ghee atau minyak",
+      "20 g daun mint",
+      "20 g daun ketumbar segar",
+      "1 jumput kuma-kuma yang direndam dalam 60 ml susu hangat",
+      "4 butir kapulaga hijau, 4 cengkih, dan 1 batang kayu manis",
+      "1 sdm air jeruk lemon",
+      "Garam secukupnya"
+    ],
+    "steps": [
+      "Marinasi ayam dengan yoghurt, pasta jahe-bawang putih, cabai, garam masala, air lemon, setengah bagian mint dan daun ketumbar, serta garam selama 2 jam di kulkas.",
+      "Goreng bawang dalam ghee selama 15 menit hingga cokelat keemasan; angkat dan sisakan minyaknya.",
+      "Masak ayam berbumbu dalam minyak yang sama, tertutup, selama 20 menit dengan api sedang.",
+      "Sementara itu, cuci beras dan rebus dalam air bergaram bersama kapulaga, cengkih, dan kayu manis selama 5 menit hingga matang 70 %; tiriskan.",
+      "Tutup ayam dengan nasi, lalu taburi bawang goreng, sisa mint dan daun ketumbar, serta susu kuma-kuma.",
+      "Tutup rapat panci dengan tutupnya dan aluminium foil, masak dengan api sangat kecil selama 20 menit; pastikan ayam mencapai 74 °C dan diamkan 5 menit sebelum diaduk perlahan dan disajikan."
+    ],
+    "tips": [
+      "Nasi harus diangkat dari rebusan pertama saat bagian tengahnya masih keras: nasi akan matang sempurna oleh uap ayam di dalam panci yang tertutup rapat."
+    ],
+    "sources": [
+      "Cocina de Hyderabad (Telangana, India)",
+      "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures"
+    ]
+  },
+  "r-in-masala-chai": {
+    "dishName": "Masala chai",
+    "summary": "Teh hitam yang direbus dengan susu, gula, dan rempah seperti kapulaga, jahe, kayu manis, dan cengkih.",
+    "history": "Chai adalah minuman sehari-hari di India: disajikan di kedai pinggir jalan, stasiun kereta, dan rumah-rumah di seluruh negeri. Kebiasaan merebus teh hitam dengan susu, gula, dan rempah menyebar sepanjang abad ke-20, dan kini setiap keluarga serta setiap chaiwala punya racikannya sendiri.",
+    "ingredients": [
+      "500 ml air",
+      "500 ml susu full cream",
+      "4 sdt teh hitam daun (jenis Assam)",
+      "4 butir kapulaga hijau, memarkan",
+      "15 g jahe segar, parut",
+      "1 batang kayu manis",
+      "3 butir cengkih",
+      "4 sdt gula, atau sesuai selera"
+    ],
+    "steps": [
+      "Rebus air bersama kapulaga, jahe, kayu manis, dan cengkih selama 4 menit.",
+      "Masukkan teh dan masak selama 2 menit dengan api sedang.",
+      "Tambahkan susu dan gula lalu didihkan; saat busanya naik, kecilkan api dan biarkan naik sekali lagi.",
+      "Saring chai dan sajikan selagi sangat panas."
+    ],
+    "tips": [
+      "Memarkan kapulaga dan parut jahe sesaat sebelum digunakan agar chai lebih harum."
+    ],
+    "sources": [
+      "Tradición del chai en la India"
+    ]
   }
 }
