@@ -4084,5 +4084,96 @@
       "hi": "कोलंबियाई अंडा अरेपा",
       "ur": "کولمبیائی انڈے والی اریپا"
     }
+  },
+  {
+    "id": "r-ma-tajin-pollo",
+    "slug": "tajin-marroqui-pollo-limon-aceitunas",
+    "names": {
+      "es": "Tajín marroquí de pollo con limón y aceitunas",
+      "en": "Moroccan chicken tagine with preserved lemon and olives",
+      "fr": "Tajine marocain de poulet au citron confit et aux olives",
+      "pt": "Tajine marroquino de frango com limão em conserva e azeitonas",
+      "id": "Tagine ayam Maroko dengan lemon awetan dan zaitun",
+      "ru": "Марокканский тажин с курицей, солёным лимоном и оливками",
+      "ar": "طاجين دجاج مغربي بالليمون المصير والزيتون"
+    }
+  },
+  {
+    "id": "r-ma-cuscus-siete-verduras",
+    "slug": "cuscus-marroqui-siete-verduras",
+    "names": {
+      "es": "Cuscús marroquí con siete verduras",
+      "en": "Moroccan couscous with seven vegetables",
+      "fr": "Couscous marocain aux sept légumes",
+      "pt": "Cuscuz marroquino com sete legumes",
+      "id": "Kuskus Maroko dengan tujuh sayuran",
+      "ru": "Марокканский кускус с семью овощами",
+      "ar": "كسكس مغربي بسبع خضروات"
+    }
+  },
+  {
+    "id": "r-ma-harira",
+    "slug": "harira-marroqui-tradicional",
+    "names": {
+      "es": "Harira marroquí tradicional",
+      "en": "Traditional Moroccan harira",
+      "fr": "Harira marocaine traditionnelle",
+      "pt": "Harira marroquina tradicional",
+      "id": "Harira tradisional Maroko",
+      "ru": "Традиционная марокканская харира",
+      "ar": "الحريرة المغربية التقليدية"
+    }
+  },
+  {
+    "id": "r-it-lasana-bolonesa",
+    "slug": "lasana-a-la-bolonesa",
+    "names": {
+      "es": "Lasaña a la boloñesa",
+      "en": "Lasagne alla Bolognese",
+      "fr": "Lasagnes à la bolognaise",
+      "pt": "Lasanha à bolonhesa",
+      "id": "Lasagna Bolognese",
+      "ru": "Лазанья по-болонски",
+      "ar": "لازانيا بولونيز"
+    }
+  },
+  {
+    "id": "r-it-trofie-pesto-genoves",
+    "slug": "trofie-al-pesto-genoves",
+    "names": {
+      "es": "Trofie al pesto genovés",
+      "en": "Trofie with Genovese pesto",
+      "fr": "Trofie au pesto génois",
+      "pt": "Trofie com pesto genovês",
+      "id": "Trofie dengan pesto Genovese",
+      "ru": "Трофье с генуэзским песто",
+      "ar": "تروفي مع بيستو جنوي"
+    }
+  },
+  {
+    "id": "r-it-arancini-sicilianos",
+    "slug": "arancini-sicilianos",
+    "names": {
+      "es": "Arancini sicilianos",
+      "en": "Sicilian arancini",
+      "fr": "Arancini siciliens",
+      "pt": "Arancini sicilianos",
+      "id": "Arancini Sisilia",
+      "ru": "Сицилийские аранчини",
+      "ar": "أرانشيني صقلية"
+    }
+  },
+  {
+    "id": "r-it-gnocchi-sorrentina",
+    "slug": "gnocchi-a-la-sorrentina",
+    "names": {
+      "es": "Gnocchi a la sorrentina",
+      "en": "Gnocchi alla Sorrentina",
+      "fr": "Gnocchi alla Sorrentina",
+      "pt": "Gnocchi alla Sorrentina",
+      "id": "Gnocchi alla Sorrentina",
+      "ru": "Ньокки алла соррентина",
+      "ar": "نيوكي ألا سورينتينا"
+    }
   }
 ]
