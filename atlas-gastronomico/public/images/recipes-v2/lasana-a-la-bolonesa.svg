@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
 <title id="title">Lasaña a la boloñesa</title><desc id="desc">Ilustración original de WorldBites de una lasaña dorada con ragú, bechamel, queso y albahaca sobre una mesa cálida.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2b1a10"/><stop offset="1" stop-color="#7a3b1e"/></linearGradient><linearGradient id="cheese" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffe5a3"/><stop offset="1" stop-color="#d7892e"/></linearGradient><filter id="sh"><feGaussianBlur stdDeviation="18"/></filter></defs>
 <rect width="1280" height="720" fill="url(#bg)"/><ellipse cx="640" cy="590" rx="430" ry="55" fill="#000" opacity=".32" filter="url(#sh)"/>
