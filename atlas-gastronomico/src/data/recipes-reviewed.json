@@ -14709,5 +14709,286 @@
     "publishedAt": "2026-09-23",
     "updatedAt": "2026-09-23",
     "image": "/images/recipes-v2/harira-marroqui-tradicional.webp"
+  },
+  {
+    "id": "r-it-lasana-bolonesa",
+    "dishName": "Lasaña a la boloñesa",
+    "slug": "lasana-a-la-bolonesa",
+    "placeId": "it-emr-bol",
+    "summary": "Capas de pasta al huevo con ragú de res y cerdo, bechamel sedosa y Parmigiano Reggiano, horneadas hasta quedar doradas.",
+    "history": "La lasaña a la boloñesa está asociada con Emilia-Romaña y con la tradición de los almuerzos dominicales. La versión clásica combina pasta al huevo, ragú de carne, bechamel y queso rallado en capas que se hornean hasta gratinar.",
+    "originConfidence": "confirmed",
+    "servings": 6,
+    "prepTimeMin": 35,
+    "cookTimeMin": 125,
+    "restTimeMin": 15,
+    "totalTimeMin": 175,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "12 láminas de lasaña al huevo"
+      },
+      {
+        "text": "500 g de carne molida de res"
+      },
+      {
+        "text": "250 g de carne molida de cerdo"
+      },
+      {
+        "text": "700 g de passata o tomate triturado"
+      },
+      {
+        "text": "1 cebolla, 1 zanahoria y 1 tallo de apio, finamente picados"
+      },
+      {
+        "text": "150 ml de vino blanco seco"
+      },
+      {
+        "text": "500 ml de leche entera"
+      },
+      {
+        "text": "40 g de mantequilla"
+      },
+      {
+        "text": "40 g de harina de trigo"
+      },
+      {
+        "text": "120 g de Parmigiano Reggiano rallado"
+      },
+      {
+        "text": "2 cucharadas de aceite de oliva"
+      },
+      {
+        "text": "Sal, pimienta negra y nuez moscada al gusto"
+      }
+    ],
+    "steps": [
+      "Sofríe la cebolla, la zanahoria y el apio con 2 cucharadas de aceite durante 8 minutos.",
+      "Añade la carne de res y cerdo y cocina 10 minutos. Vierte 150 ml de vino y deja evaporar 2 minutos; incorpora 700 g de passata y cocina a fuego bajo durante 75 minutos.",
+      "Derrite 40 g de mantequilla, agrega 40 g de harina y cocina 2 minutos. Incorpora poco a poco 500 ml de leche y cocina 8 minutos, removiendo, hasta obtener una bechamel lisa; sazona con nuez moscada.",
+      "Monta capas alternas de pasta, ragú, bechamel y 120 g de Parmigiano Reggiano, reservando un poco de queso para la superficie.",
+      "Hornea a 190 °C durante 35 minutos, deja reposar 15 minutos y sirve."
+    ],
+    "tips": [
+      "Deja reposar la lasaña antes de cortarla para que las capas se asienten y cada porción mantenga su forma."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-24",
+    "updatedAt": "2026-09-24",
+    "image": "/images/recipes-v2/lasana-a-la-bolonesa.svg"
+  },
+  {
+    "id": "r-it-trofie-pesto-genoves",
+    "dishName": "Trofie al pesto genovés",
+    "slug": "trofie-al-pesto-genoves",
+    "placeId": "it-lig-gen",
+    "summary": "Pasta trofie con pesto de albahaca, piñones, ajo, Parmigiano, pecorino y aceite de oliva, acompañada de papa y judías verdes.",
+    "history": "Las trofie con pesto son uno de los platos emblemáticos de Liguria. El pesto genovés se prepara tradicionalmente machacando albahaca, ajo, piñones, queso y aceite de oliva, y en la región suele acompañar esta pasta retorcida con papa y judías verdes.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 25,
+    "totalTimeMin": 45,
+    "difficulty": "media",
+    "moment": "comida",
+    "diet": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "360 g de pasta trofie"
+      },
+      {
+        "text": "50 g de hojas de albahaca fresca"
+      },
+      {
+        "text": "30 g de piñones"
+      },
+      {
+        "text": "1 diente de ajo"
+      },
+      {
+        "text": "60 g de Parmigiano Reggiano rallado"
+      },
+      {
+        "text": "20 g de queso pecorino rallado"
+      },
+      {
+        "text": "100 ml de aceite de oliva extra virgen"
+      },
+      {
+        "text": "200 g de papa en cubos pequeños"
+      },
+      {
+        "text": "150 g de judías verdes en trozos"
+      },
+      {
+        "text": "Sal al gusto"
+      }
+    ],
+    "steps": [
+      "Hierve la papa en agua con sal durante 5 minutos; añade las judías verdes y cocina 5 minutos más.",
+      "Machaca el ajo y los piñones, incorpora la albahaca poco a poco y después añade 60 g de Parmigiano, 20 g de pecorino y 100 ml de aceite hasta obtener un pesto cremoso.",
+      "Añade 360 g de trofie a la misma olla y cocina 10-12 minutos, o hasta que la pasta esté al dente.",
+      "Reserva 120 ml del agua de cocción, escurre la pasta y las verduras y mézclalas fuera del fuego con el pesto; añade un poco del agua reservada si hace falta.",
+      "Sirve de inmediato, con un poco de queso rallado si deseas."
+    ],
+    "tips": [
+      "No calientes el pesto directamente: mézclalo fuera del fuego para conservar el aroma fresco de la albahaca."
+    ],
+    "sources": [
+      "https://www.italia.it/en/liguria/things-to-do/typical-food-and-dishes-in-liguria-italy"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-24",
+    "updatedAt": "2026-09-24",
+    "image": "/images/recipes-v2/trofie-al-pesto-genoves.svg"
+  },
+  {
+    "id": "r-it-arancini-sicilianos",
+    "dishName": "Arancini sicilianos",
+    "slug": "arancini-sicilianos",
+    "placeId": "it-sic",
+    "summary": "Bolas de arroz rellenas de ragú, guisantes y mozzarella, empanizadas y fritas hasta quedar doradas y crujientes.",
+    "history": "Los arancini, llamados también arancine en algunas zonas de Sicilia, son una especialidad de arroz muy vinculada a la comida callejera de la isla. Existen numerosos rellenos regionales; la versión con ragú, guisantes y queso es una de las más conocidas.",
+    "originConfidence": "confirmed",
+    "servings": 8,
+    "prepTimeMin": 35,
+    "cookTimeMin": 45,
+    "restTimeMin": 40,
+    "totalTimeMin": 120,
+    "difficulty": "media",
+    "moment": "street_food",
+    "diet": [],
+    "ingredients": [
+      {
+        "text": "300 g de arroz Arborio"
+      },
+      {
+        "text": "800 ml de caldo de verduras"
+      },
+      {
+        "text": "200 g de carne molida de res"
+      },
+      {
+        "text": "250 g de tomate triturado"
+      },
+      {
+        "text": "100 g de guisantes"
+      },
+      {
+        "text": "1/2 cebolla finamente picada"
+      },
+      {
+        "text": "100 g de mozzarella cortada en 8 cubos"
+      },
+      {
+        "text": "1 huevo batido"
+      },
+      {
+        "text": "100 g de harina de trigo"
+      },
+      {
+        "text": "150 g de pan rallado"
+      },
+      {
+        "text": "1 l de aceite para freír"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      }
+    ],
+    "steps": [
+      "Cocina 300 g de arroz con 800 ml de caldo durante 18 minutos, hasta que esté tierno y haya absorbido el líquido. Extiéndelo en una bandeja y deja enfriar 30 minutos.",
+      "Sofríe 1/2 cebolla con la carne durante 8 minutos; añade 250 g de tomate y 100 g de guisantes y cocina 12 minutos más, hasta obtener un ragú espeso.",
+      "Divide el arroz en 8 porciones. Coloca en el centro de cada una un poco de ragú y 1 cubo de mozzarella, y forma bolas compactas.",
+      "Pasa cada bola por 100 g de harina, el huevo batido y 150 g de pan rallado; refrigera 10 minutos.",
+      "Calienta 1 l de aceite a 175 °C y fríe los arancini durante 4-5 minutos, hasta que estén dorados. Escurre sobre papel absorbente."
+    ],
+    "tips": [
+      "Mantén el relleno espeso y el arroz bien frío para que los arancini no se abran durante la fritura."
+    ],
+    "sources": [
+      "https://www.italia.it/en/sicily/things-to-do/typical-sicilian-products-dishes"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-24",
+    "updatedAt": "2026-09-24",
+    "image": "/images/recipes-v2/arancini-sicilianos.svg"
+  },
+  {
+    "id": "r-it-gnocchi-sorrentina",
+    "dishName": "Gnocchi a la sorrentina",
+    "slug": "gnocchi-a-la-sorrentina",
+    "placeId": "it-cam",
+    "summary": "Ñoquis de papa con salsa de tomate, mozzarella, Parmigiano Reggiano y albahaca, gratinados hasta quedar burbujeantes y dorados.",
+    "history": "Los gnocchi a la sorrentina son una preparación tradicional de Campania en la que los ñoquis se mezclan con tomate, albahaca y quesos antes de gratinarse. Es un plato reconfortante muy ligado a las comidas familiares de la región.",
+    "originConfidence": "confirmed",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "restTimeMin": 5,
+    "totalTimeMin": 50,
+    "difficulty": "facil",
+    "moment": "comida",
+    "diet": [
+      "vegetariano"
+    ],
+    "ingredients": [
+      {
+        "text": "800 g de ñoquis de papa"
+      },
+      {
+        "text": "500 g de passata o tomate triturado"
+      },
+      {
+        "text": "250 g de mozzarella fior di latte, escurrida y en cubos"
+      },
+      {
+        "text": "60 g de Parmigiano Reggiano rallado"
+      },
+      {
+        "text": "2 dientes de ajo"
+      },
+      {
+        "text": "2 cucharadas de aceite de oliva extra virgen"
+      },
+      {
+        "text": "12 hojas de albahaca fresca"
+      },
+      {
+        "text": "Sal y pimienta al gusto"
+      }
+    ],
+    "steps": [
+      "Sofríe 2 dientes de ajo en 2 cucharadas de aceite durante 1 minuto; añade 500 g de passata y cocina 15 minutos. Retira el ajo y sazona.",
+      "Hierve 800 g de ñoquis en agua con sal durante 2-3 minutos, hasta que suban a la superficie, y escúrrelos.",
+      "Mezcla los ñoquis con la salsa, 150 g de mozzarella y 40 g de Parmigiano. Pasa todo a una fuente para horno y cubre con los 100 g de mozzarella y 20 g de Parmigiano restantes.",
+      "Gratina a 220 °C durante 10-12 minutos, hasta que el queso burbujee y se dore ligeramente.",
+      "Deja reposar 5 minutos, termina con las 12 hojas de albahaca y sirve."
+    ],
+    "tips": [
+      "Escurre bien la mozzarella antes de usarla para evitar que el gratinado quede aguado."
+    ],
+    "sources": [
+      "https://www.italia.it/en/italy/things-to-do/pasta-types-italian-formats-and-recipes"
+    ],
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "popularityScore": 0,
+    "publishedAt": "2026-09-24",
+    "updatedAt": "2026-09-24",
+    "image": "/images/recipes-v2/gnocchi-a-la-sorrentina.svg"
   }
 ]

@@ -533,15 +533,5 @@
     "sourceText": "Strain and fill molds three-quarters full. Bake 15-20 minutes until pastry is cooked and custard has browned spots.",
     "translatedText": "こして型の3/4まで注ぐ。15-20分、生地に火が通りカスタードに焼き斑点がつくまで焼く。",
     "reason": "Reviewed: a written or implied quantity is rendered numerically; the quantity and instruction are equivalent."
-  },
-  "ja/r-ma-tajin-pollo/ingredients/1": {
-    "sourceText": "2 preserved lemons, quartered",
-    "translatedText": "塩レモン 2個、4等分",
-    "reason": "Reviewed: \"quartered\" is expressed as 4等分 (cut into four equal parts); the quantity and instruction are equivalent."
-  },
-  "ja/r-ma-cuscus-siete-verduras/steps/4": {
-    "sourceText": "Make a bed of couscous, arrange the seven vegetables and chickpeas on top and moisten with some of the spiced broth.",
-    "translatedText": "クスクスを土台にし、7種の野菜とひよこ豆を盛り、香り高い煮汁を少量かけます。",
-    "reason": "Reviewed: an English written or implied count is expressed numerically in the translation; the quantity and instruction are equivalent."
   }
 }

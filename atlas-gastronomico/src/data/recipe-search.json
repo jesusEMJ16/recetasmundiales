@@ -3569,9 +3569,9 @@
     "names": {
       "es": "Boeuf bourguignon",
       "en": "Beef bourguignon",
+      "fr": "Bœuf bourguignon",
       "zh": "红酒炖牛肉",
       "hi": "बोफ़ बुरगुइन्यों",
-      "fr": "Bœuf bourguignon",
       "ar": "بوف بورغينيون",
       "bn": "বুফ বুরগিনিয়ঁ",
       "pt": "Boeuf bourguignon",
@@ -3587,9 +3587,9 @@
     "names": {
       "es": "Sopa de cebolla gratinada",
       "en": "French onion soup gratinée",
+      "fr": "Soupe à l'oignon gratinée",
       "zh": "法式焗洋葱汤",
       "hi": "फ़्रांसीसी ग्रैटिनेटेड प्याज़ सूप",
-      "fr": "Soupe à l'oignon gratinée",
       "ar": "حساء البصل الفرنسي بالجبن",
       "bn": "ফরাসি পেঁয়াজের গ্রাটিন স্যুপ",
       "pt": "Sopa de cebola gratinada",
@@ -3605,9 +3605,9 @@
     "names": {
       "es": "Quiche lorraine",
       "en": "Quiche Lorraine",
+      "fr": "Quiche lorraine",
       "zh": "洛林咸派",
       "hi": "कीश लोरेन",
-      "fr": "Quiche lorraine",
       "ar": "كيش لورين",
       "bn": "কিশ লোরেন",
       "pt": "Quiche lorraine",
@@ -3623,9 +3623,9 @@
     "names": {
       "es": "Tarte Tatin",
       "en": "Tarte Tatin",
+      "fr": "Tarte Tatin",
       "zh": "法式焦糖苹果翻转挞",
       "hi": "टार्ट टाटिन",
-      "fr": "Tarte Tatin",
       "ar": "تارت تاتان",
       "bn": "তার্ত তাতাঁ",
       "pt": "Tarte Tatin",
@@ -3641,9 +3641,9 @@
     "names": {
       "es": "Crème brûlée de vainilla",
       "en": "Vanilla crème brûlée",
+      "fr": "Crème brûlée à la vanille",
       "zh": "香草焦糖布蕾",
       "hi": "वनीला क्रेम ब्रुले",
-      "fr": "Crème brûlée à la vanille",
       "ar": "كريم بروليه بالفانيليا",
       "bn": "ভ্যানিলা ক্রেম ব্রুলে",
       "pt": "Crème brûlée de baunilha",
@@ -3731,9 +3731,9 @@
     "names": {
       "es": "Feijoada brasileña",
       "en": "Brazilian feijoada",
+      "fr": "Feijoada brésilienne",
       "zh": "巴西黑豆炖肉",
       "hi": "ब्राज़ीली फ़ेज़ोआदा",
-      "fr": "Feijoada brésilienne",
       "ar": "فيجوادا برازيلية",
       "bn": "ব্রাজিলিয়ান ফেইজোয়াদা",
       "pt": "Feijoada brasileira",
@@ -3749,9 +3749,9 @@
     "names": {
       "es": "Pão de queijo mineiro",
       "en": "Minas Gerais pão de queijo",
+      "fr": "Pão de queijo du Minas Gerais",
       "zh": "米纳斯吉拉斯奶酪面包",
       "hi": "मिनास जेराइस पाँव दे केजो",
-      "fr": "Pão de queijo du Minas Gerais",
       "ar": "باو دي كيجو من ميناس جيرايس",
       "bn": "মিনাস জেরাইস পাঁও দে কেইজো",
       "pt": "Pão de queijo mineiro",
@@ -3767,9 +3767,9 @@
     "names": {
       "es": "Moqueca baiana de pescado",
       "en": "Bahian fish moqueca",
+      "fr": "Moqueca bahianaise de poisson",
       "zh": "巴伊亚鱼肉穆凯卡",
       "hi": "बहियाई मछली मोकेका",
-      "fr": "Moqueca bahianaise de poisson",
       "ar": "موكيكا باهية بالسمك",
       "bn": "বাহিয়ান মাছের মোকেকা",
       "pt": "Moqueca baiana de peixe",
@@ -3785,9 +3785,9 @@
     "names": {
       "es": "Brigadeiro tradicional",
       "en": "Traditional brigadeiro",
+      "fr": "Brigadeiro traditionnel",
       "zh": "传统巴西巧克力球",
       "hi": "पारंपरिक ब्रिगादेइरो",
-      "fr": "Brigadeiro traditionnel",
       "ar": "بريغاديرو تقليدي",
       "bn": "ঐতিহ্যবাহী ব্রিগাদেইরো",
       "pt": "Brigadeiro tradicional",
@@ -3803,9 +3803,9 @@
     "names": {
       "es": "Asado argentino a la parrilla",
       "en": "Argentine parrilla asado",
+      "fr": "Asado argentin à la parrilla",
       "zh": "阿根廷炭烤拼盘",
       "hi": "अर्जेंटीनी पर्रिला असादो",
-      "fr": "Asado argentin à la parrilla",
       "ar": "أسادو أرجنتيني على الشواية",
       "bn": "আর্জেন্টাইন পারিলা আসাদো",
       "pt": "Asado argentino na parrilla",
@@ -3821,9 +3821,9 @@
     "names": {
       "es": "Empanadas salteñas",
       "en": "Salta-style empanadas",
+      "fr": "Empanadas de Salta",
       "zh": "萨尔塔牛肉馅饼",
       "hi": "साल्टा शैली की एम्पानादास",
-      "fr": "Empanadas de Salta",
       "ar": "إمباناداس سالتا",
       "bn": "সালতা এমপানাদা",
       "pt": "Empanadas saltenhas",
@@ -3839,9 +3839,9 @@
     "names": {
       "es": "Locro criollo argentino",
       "en": "Argentine criollo locro",
+      "fr": "Locro criollo argentin",
       "zh": "阿根廷克里奥尔 locro 炖锅",
       "hi": "अर्जेंटीनी क्रियोयो लोक्रो",
-      "fr": "Locro criollo argentin",
       "ar": "لوكرو كريولو أرجنتيني",
       "bn": "আর্জেন্টাইন ক্রিওলো লোকরো",
       "pt": "Locro criollo argentino",
@@ -3857,9 +3857,9 @@
     "names": {
       "es": "Alfajores de maicena",
       "en": "Argentine cornstarch alfajores",
+      "fr": "Alfajores argentins à la fécule de maïs",
       "zh": "阿根廷玉米淀粉夹心饼",
       "hi": "अर्जेंटीनी कॉर्नस्टार्च अल्फाहोरेस",
-      "fr": "Alfajores argentins à la fécule de maïs",
       "ar": "ألفاخور أرجنتيني بنشا الذرة",
       "bn": "আর্জেন্টাইন কর্নস্টার্চ আলফাখোর",
       "pt": "Alfajores argentinos de maicena",
@@ -3874,17 +3874,17 @@
     "slug": "cebiche-de-pescado-peruano",
     "names": {
       "es": "Cebiche de pescado peruano",
-      "en": "Peruvian fish ceviche",
-      "zh": "秘鲁鱼肉酸橘汁腌鱼",
-      "hi": "पेरूवियन फिश सेविचे",
-      "fr": "Ceviche péruvien de poisson",
       "ar": "سيفيتشي السمك البيروفي",
       "bn": "পেরুভিয়ান মাছের সেভিচে",
+      "en": "Peruvian fish ceviche",
+      "fr": "Ceviche péruvien de poisson",
+      "hi": "पेरूवियन फिश सेविचे",
+      "id": "Ceviche ikan Peru",
+      "ja": "ペルー風魚のセビーチェ",
       "pt": "Ceviche peruano de peixe",
       "ru": "Перуанское рыбное севиче",
       "ur": "پیرووی مچھلی سیویچے",
-      "id": "Ceviche ikan Peru",
-      "ja": "ペルー風魚のセビーチェ"
+      "zh": "秘鲁鱼肉酸橘汁腌鱼"
     }
   },
   {
@@ -3892,17 +3892,17 @@
     "slug": "lomo-saltado-peruano",
     "names": {
       "es": "Lomo saltado peruano",
-      "en": "Peruvian lomo saltado",
-      "zh": "秘鲁炒牛柳",
-      "hi": "पेरूवियन लोमो साल्टाडो",
-      "fr": "Lomo saltado péruvien",
       "ar": "لومو سالتادو بيروفي",
       "bn": "পেরুভিয়ান লোমো সালতাদো",
+      "en": "Peruvian lomo saltado",
+      "fr": "Lomo saltado péruvien",
+      "hi": "पेरूवियन लोमो साल्टाडो",
+      "id": "Lomo saltado Peru",
+      "ja": "ペルー風ロモ・サルタード",
       "pt": "Lomo saltado peruano",
       "ru": "Перуанский ломо сальтадо",
       "ur": "پیرووی لومو سالتاڈو",
-      "id": "Lomo saltado Peru",
-      "ja": "ペルー風ロモ・サルタード"
+      "zh": "秘鲁炒牛柳"
     }
   },
   {
@@ -3910,17 +3910,17 @@
     "slug": "aji-de-gallina-peruano",
     "names": {
       "es": "Ají de gallina peruano",
-      "en": "Peruvian ají de gallina",
-      "zh": "秘鲁黄椒鸡",
-      "hi": "अही दे गायीना",
-      "fr": "Ají de gallina péruvien",
       "ar": "أجي دي غايينا بيروفي",
       "bn": "আজি দে গাইয়িনা",
+      "en": "Peruvian ají de gallina",
+      "fr": "Ají de gallina péruvien",
+      "hi": "अही दे गायीना",
+      "id": "Ají de gallina Peru",
+      "ja": "アヒ・デ・ガジーナ",
       "pt": "Ají de gallina peruano",
       "ru": "Ахи де гайина",
       "ur": "آجی دے گایینا",
-      "id": "Ají de gallina Peru",
-      "ja": "アヒ・デ・ガジーナ"
+      "zh": "秘鲁黄椒鸡"
     }
   },
   {
@@ -3928,17 +3928,17 @@
     "slug": "papa-a-la-huancaina-peruana",
     "names": {
       "es": "Papa a la huancaína",
-      "en": "Papa a la huancaína",
-      "zh": "万卡伊纳酱土豆",
-      "hi": "पापा आ ला हुआंकाइना",
-      "fr": "Papa à la huancaína",
       "ar": "بابا آ لا هوانكاينا",
       "bn": "পাপা আ লা হুয়ানকাইনা",
+      "en": "Papa a la huancaína",
+      "fr": "Papa à la huancaína",
+      "hi": "पापा आ ला हुआंकाइना",
+      "id": "Papa a la huancaína",
+      "ja": "パパ・ア・ラ・ワンカイーナ",
       "pt": "Papa à la huancaína",
       "ru": "Папа а ла уанкаина",
       "ur": "پاپا آ لا ہوانکاینا",
-      "id": "Papa a la huancaína",
-      "ja": "パパ・ア・ラ・ワンカイーナ"
+      "zh": "万卡伊纳酱土豆"
     }
   },
   {
@@ -3947,16 +3947,16 @@
     "names": {
       "es": "Pastel de choclo chileno",
       "en": "Chilean pastel de choclo",
-      "zh": "智利玉米肉馅焗烤",
-      "hi": "चिली पेस्टेल दे चोक्लो",
       "fr": "Pastel de choclo chilien",
+      "pt": "Pastel de choclo chileno",
+      "id": "Pastel de choclo Chili",
+      "ja": "チリ風パステル・デ・チョクロ",
+      "zh": "智利玉米肉馅焗烤",
+      "ru": "Чилийский пастель де чокло",
       "ar": "باستيل دي تشوكلو تشيلي",
       "bn": "চিলিয়ান পাস্তেল দে চকলো",
-      "pt": "Pastel de choclo chileno",
-      "ru": "Чилийский пастель де чокло",
-      "ur": "چلی کا پاستیل دے چوکلو",
-      "id": "Pastel de choclo Chili",
-      "ja": "チリ風パステル・デ・チョクロ"
+      "hi": "चिली पेस्टेल दे चोक्लो",
+      "ur": "چلی کا پاستیل دے چوکلو"
     }
   },
   {
@@ -3965,16 +3965,16 @@
     "names": {
       "es": "Empanadas chilenas de pino",
       "en": "Chilean pino empanadas",
-      "zh": "智利皮诺馅饼",
-      "hi": "चिली पिनो एम्पानाडा",
       "fr": "Empanadas chiliennes au pino",
+      "pt": "Empanadas chilenas de pino",
+      "id": "Empanada pino Chili",
+      "ja": "チリ風ピノ・エンパナーダ",
+      "zh": "智利皮诺馅饼",
+      "ru": "Чилийские эмпанады с пино",
       "ar": "إمبانادا تشيلية بحشوة بينو",
       "bn": "চিলিয়ান পিনো এম্পানাদা",
-      "pt": "Empanadas chilenas de pino",
-      "ru": "Чилийские эмпанады с пино",
-      "ur": "چلی کی پینو ایمپناڈاز",
-      "id": "Empanada pino Chili",
-      "ja": "チリ風ピノ・エンパナーダ"
+      "hi": "चिली पिनो एम्पानाडा",
+      "ur": "چلی کی پینو ایمپناڈاز"
     }
   },
   {
@@ -3983,16 +3983,16 @@
     "names": {
       "es": "Cazuela chilena de vacuno",
       "en": "Chilean beef cazuela",
-      "zh": "智利牛肉卡苏埃拉汤",
-      "hi": "चिली बीफ़ काज़ुएला",
       "fr": "Cazuela chilienne au bœuf",
+      "pt": "Cazuela chilena de carne bovina",
+      "id": "Cazuela sapi Chili",
+      "ja": "チリ風牛肉カスエラ",
+      "zh": "智利牛肉卡苏埃拉汤",
+      "ru": "Чилийская касуэла с говядиной",
       "ar": "كازويلا تشيلية بلحم البقر",
       "bn": "চিলিয়ান বিফ কাজুয়েলা",
-      "pt": "Cazuela chilena de carne bovina",
-      "ru": "Чилийская касуэла с говядиной",
-      "ur": "چلی کی بیف کازویلا",
-      "id": "Cazuela sapi Chili",
-      "ja": "チリ風牛肉カスエラ"
+      "hi": "चिली बीफ़ काज़ुएला",
+      "ur": "چلی کی بیف کازویلا"
     }
   },
   {
@@ -4001,16 +4001,16 @@
     "names": {
       "es": "Sopaipillas chilenas",
       "en": "Chilean sopaipillas",
-      "zh": "智利南瓜炸饼",
-      "hi": "चिली सोपाइपियास",
       "fr": "Sopaipillas chiliennes",
+      "pt": "Sopaipillas chilenas",
+      "id": "Sopaipilla Chili",
+      "ja": "チリ風ソパイピージャ",
+      "zh": "智利南瓜炸饼",
+      "ru": "Чилийские сопайпильяс",
       "ar": "سوبايبياس تشيلية",
       "bn": "চিলিয়ান সোপাইপিয়া",
-      "pt": "Sopaipillas chilenas",
-      "ru": "Чилийские сопайпильяс",
-      "ur": "چلی کی سوپائیپیاس",
-      "id": "Sopaipilla Chili",
-      "ja": "チリ風ソパイピージャ"
+      "hi": "चिली सोपाइपियास",
+      "ur": "چلی کی سوپائیپیاس"
     }
   },
   {
@@ -4019,16 +4019,16 @@
     "names": {
       "es": "Bandeja paisa colombiana",
       "en": "Colombian bandeja paisa",
-      "zh": "哥伦比亚班德哈派萨",
-      "hi": "कोलंबियाई बांदेहा पैसा",
       "fr": "Bandeja paisa colombienne",
+      "pt": "Bandeja paisa colombiana",
+      "id": "Bandeja paisa Kolombia",
+      "ja": "コロンビア風バンデハ・パイサ",
+      "zh": "哥伦比亚班德哈派萨",
+      "ru": "Колумбийская бандеха пайса",
       "ar": "بانديخا بايسا كولومبية",
       "bn": "কলম্বিয়ান বান্দেখা পাইসা",
-      "pt": "Bandeja paisa colombiana",
-      "ru": "Колумбийская бандеха пайса",
-      "ur": "کولمبیائی باندیخا پائسا",
-      "id": "Bandeja paisa Kolombia",
-      "ja": "コロンビア風バンデハ・パイサ"
+      "hi": "कोलंबियाई बांदेहा पैसा",
+      "ur": "کولمبیائی باندیخا پائسا"
     }
   },
   {
@@ -4037,16 +4037,16 @@
     "names": {
       "es": "Ajiaco santafereño",
       "en": "Bogotá-style ajiaco",
-      "zh": "波哥大阿希亚科汤",
-      "hi": "बोगोटा अजियाको",
       "fr": "Ajiaco santafereño",
+      "pt": "Ajiaco santafereño",
+      "id": "Ajiaco khas Bogotá",
+      "ja": "サンタフェ風アヒアコ",
+      "zh": "波哥大阿希亚科汤",
+      "ru": "Ахиако по-боготски",
       "ar": "أخياكو بوغوتا",
       "bn": "বোগোতা আজিাকো",
-      "pt": "Ajiaco santafereño",
-      "ru": "Ахиако по-боготски",
-      "ur": "بوگوٹا آہیاکو",
-      "id": "Ajiaco khas Bogotá",
-      "ja": "サンタフェ風アヒアコ"
+      "hi": "बोगोटा अजियाको",
+      "ur": "بوگوٹا آہیاکو"
     }
   },
   {
@@ -4055,16 +4055,16 @@
     "names": {
       "es": "Lechona tolimense",
       "en": "Tolima-style lechona",
-      "zh": "托利马烤猪肉",
-      "hi": "तोलिमा लेचोना",
       "fr": "Lechona du Tolima",
+      "pt": "Lechona tolimense",
+      "id": "Lechona Tolima",
+      "ja": "トリマ風レチョナ",
+      "zh": "托利马烤猪肉",
+      "ru": "Лечона по-толимски",
       "ar": "ليتشونا توليما",
       "bn": "তোলিমা লেচোনা",
-      "pt": "Lechona tolimense",
-      "ru": "Лечона по-толимски",
-      "ur": "تولیما لیچونا",
-      "id": "Lechona Tolima",
-      "ja": "トリマ風レチョナ"
+      "hi": "तोलिमा लेचोना",
+      "ur": "تولیما لیچونا"
     }
   },
   {
@@ -4073,16 +4073,16 @@
     "names": {
       "es": "Arepa de huevo colombiana",
       "en": "Colombian egg arepa",
-      "zh": "哥伦比亚鸡蛋玉米饼",
-      "hi": "कोलंबियाई अंडा अरेपा",
       "fr": "Arepa colombienne à l'œuf",
+      "pt": "Arepa colombiana de ovo",
+      "id": "Arepa telur Kolombia",
+      "ja": "コロンビア風卵入りアレパ",
+      "zh": "哥伦比亚鸡蛋玉米饼",
+      "ru": "Колумбийская арепа с яйцом",
       "ar": "أريبا كولومبية بالبيض",
       "bn": "কলম্বিয়ান ডিমের আরেপা",
-      "pt": "Arepa colombiana de ovo",
-      "ru": "Колумбийская арепа с яйцом",
-      "ur": "کولمبیائی انڈے والی اریپا",
-      "id": "Arepa telur Kolombia",
-      "ja": "コロンビア風卵入りアレパ"
+      "hi": "कोलंबियाई अंडा अरेपा",
+      "ur": "کولمبیائی انڈے والی اریپا"
     }
   },
   {
@@ -4091,16 +4091,16 @@
     "names": {
       "es": "Tajín marroquí de pollo con limón y aceitunas",
       "en": "Moroccan chicken tagine with preserved lemon and olives",
-      "zh": "摩洛哥腌柠檬橄榄鸡肉塔吉锅",
-      "hi": "संरक्षित नींबू और जैतून वाला मोरक्कन चिकन ताजीन",
       "fr": "Tajine marocain de poulet au citron confit et aux olives",
-      "ar": "طاجين دجاج مغربي بالليمون المصير والزيتون",
-      "bn": "সংরক্ষিত লেবু ও জলপাইসহ মরোক্কান চিকেন তাজিন",
       "pt": "Tajine marroquino de frango com limão em conserva e azeitonas",
-      "ru": "Марокканский тажин с курицей, солёным лимоном и оливками",
-      "ur": "محفوظ لیموں اور زیتون کے ساتھ مراکشی چکن تاجین",
       "id": "Tagine ayam Maroko dengan lemon awetan dan zaitun",
-      "ja": "塩レモンとオリーブのモロッコ風チキンタジン"
+      "ru": "Марокканский тажин с курицей, солёным лимоном и оливками",
+      "ar": "طاجين دجاج مغربي بالليمون المصير والزيتون",
+      "ur": "محفوظ لیموں اور زیتون کے ساتھ مراکشی چکن تاجین",
+      "hi": "संरक्षित नींबू और जैतून वाला मोरक्कन चिकन ताजीन",
+      "bn": "সংরক্ষিত লেবু ও জলপাইসহ মরোক্কান চিকেন তাজিন",
+      "ja": "塩レモンとオリーブのモロッコ風チキンタジン",
+      "zh": "摩洛哥腌柠檬橄榄鸡肉塔吉锅"
     }
   },
   {
@@ -4109,16 +4109,16 @@
     "names": {
       "es": "Cuscús marroquí con siete verduras",
       "en": "Moroccan couscous with seven vegetables",
-      "zh": "摩洛哥七蔬库斯库斯",
-      "hi": "सात सब्ज़ियों वाला मोरक्कन कुसकुस",
       "fr": "Couscous marocain aux sept légumes",
-      "ar": "كسكس مغربي بسبع خضروات",
-      "bn": "সাত সবজির মরোক্কান কুসকুস",
       "pt": "Cuscuz marroquino com sete legumes",
-      "ru": "Марокканский кускус с семью овощами",
-      "ur": "سات سبزیوں والا مراکشی کُسکُس",
       "id": "Kuskus Maroko dengan tujuh sayuran",
-      "ja": "モロッコ風7種野菜のクスクス"
+      "ru": "Марокканский кускус с семью овощами",
+      "ar": "كسكس مغربي بسبع خضروات",
+      "ur": "سات سبزیوں والا مراکشی کُسکُس",
+      "hi": "सात सब्ज़ियों वाला मोरक्कन कुसकुस",
+      "bn": "সাত সবজির মরোক্কান কুসকুস",
+      "ja": "モロッコ風7種野菜のクスクス",
+      "zh": "摩洛哥七蔬库斯库斯"
     }
   },
   {
@@ -4127,16 +4127,88 @@
     "names": {
       "es": "Harira marroquí tradicional",
       "en": "Traditional Moroccan harira",
-      "zh": "传统摩洛哥哈里拉汤",
-      "hi": "पारंपरिक मोरक्कन हरीरा",
       "fr": "Harira marocaine traditionnelle",
-      "ar": "الحريرة المغربية التقليدية",
-      "bn": "ঐতিহ্যবাহী মরোক্কান হারিরা",
       "pt": "Harira marroquina tradicional",
-      "ru": "Традиционная марокканская харира",
-      "ur": "روایتی مراکشی حریرہ",
       "id": "Harira tradisional Maroko",
-      "ja": "伝統的なモロッコのハリラ"
+      "ru": "Традиционная марокканская харира",
+      "ar": "الحريرة المغربية التقليدية",
+      "ur": "روایتی مراکشی حریرہ",
+      "hi": "पारंपरिक मोरक्कन हरीरा",
+      "bn": "ঐতিহ্যবাহী মরোক্কান হারিরা",
+      "ja": "伝統的なモロッコのハリラ",
+      "zh": "传统摩洛哥哈里拉汤"
+    }
+  },
+  {
+    "id": "r-it-lasana-bolonesa",
+    "slug": "lasana-a-la-bolonesa",
+    "names": {
+      "es": "Lasaña a la boloñesa",
+      "en": "Lasagne alla Bolognese",
+      "fr": "Lasagnes à la bolognaise",
+      "pt": "Lasanha à bolonhesa",
+      "id": "Lasagna Bolognese",
+      "ru": "Лазанья по-болонски",
+      "ar": "لازانيا بولونيز",
+      "ur": "بولونیز لازانیا",
+      "hi": "बोलोन्येज़ लज़ान्या",
+      "bn": "বোলোনিয়েজ লাসানিয়া",
+      "ja": "ラザニア・アッラ・ボロネーゼ",
+      "zh": "博洛尼亚千层面"
+    }
+  },
+  {
+    "id": "r-it-trofie-pesto-genoves",
+    "slug": "trofie-al-pesto-genoves",
+    "names": {
+      "es": "Trofie al pesto genovés",
+      "en": "Trofie with Genovese pesto",
+      "fr": "Trofie au pesto génois",
+      "pt": "Trofie com pesto genovês",
+      "id": "Trofie dengan pesto Genovese",
+      "ru": "Трофье с генуэзским песто",
+      "ar": "تروفي مع بيستو جنوي",
+      "ur": "جینویس پیسٹو کے ساتھ تروفیے",
+      "hi": "जेनोवीज़ पेस्टो के साथ ट्रोफी",
+      "bn": "জেনোইজ পেস্টোর সঙ্গে ট্রোফিয়ে",
+      "ja": "トロフィエのジェノヴェーゼ・ペスト",
+      "zh": "热那亚青酱特罗菲面"
+    }
+  },
+  {
+    "id": "r-it-arancini-sicilianos",
+    "slug": "arancini-sicilianos",
+    "names": {
+      "es": "Arancini sicilianos",
+      "en": "Sicilian arancini",
+      "fr": "Arancini siciliens",
+      "pt": "Arancini sicilianos",
+      "id": "Arancini Sisilia",
+      "ru": "Сицилийские аранчини",
+      "ar": "أرانشيني صقلية",
+      "ur": "سسلی کے آرانچینی",
+      "hi": "सिसिलियन अरान्चिनी",
+      "bn": "সিসিলিয়ান আরানচিনি",
+      "ja": "シチリア風アランチーニ",
+      "zh": "西西里炸饭团"
+    }
+  },
+  {
+    "id": "r-it-gnocchi-sorrentina",
+    "slug": "gnocchi-a-la-sorrentina",
+    "names": {
+      "es": "Gnocchi a la sorrentina",
+      "en": "Gnocchi alla Sorrentina",
+      "fr": "Gnocchi alla Sorrentina",
+      "pt": "Gnocchi alla Sorrentina",
+      "id": "Gnocchi alla Sorrentina",
+      "ru": "Ньокки алла соррентина",
+      "ar": "نيوكي ألا سورينتينا",
+      "ur": "گنوکی آلا سورینتینا",
+      "hi": "न्योकी अल्ला सोरेंटिना",
+      "bn": "নিয়োক্কি আল্লা সোরেন্তিনা",
+      "ja": "ニョッキ・アッラ・ソレンティーナ",
+      "zh": "索伦托风味意式面疙瘩"
     }
   }
 ]

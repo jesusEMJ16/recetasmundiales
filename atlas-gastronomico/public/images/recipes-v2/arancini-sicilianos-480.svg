@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+<title id="title">Arancini sicilianos</title><desc id="desc">Ilustración original de WorldBites de arancini sicilianos dorados, uno abierto con ragú y mozzarella fundida.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#382313"/><stop offset="1" stop-color="#895127"/></linearGradient><radialGradient id="ball"><stop stop-color="#f1b84c"/><stop offset=".72" stop-color="#d38722"/><stop offset="1" stop-color="#a95d18"/></radialGradient><filter id="sh"><feGaussianBlur stdDeviation="18"/></filter></defs>
+<rect width="1280" height="720" fill="url(#bg)"/><ellipse cx="640" cy="590" rx="420" ry="55" fill="#000" opacity=".3" filter="url(#sh)"/>
+<ellipse cx="640" cy="420" rx="430" ry="215" fill="#eee7d9" stroke="#c9bdab" stroke-width="8"/><ellipse cx="640" cy="470" rx="275" ry="70" fill="#b43f2d" opacity=".88"/>
+<g fill="url(#ball)" stroke="#9b5619" stroke-width="6"><circle cx="500" cy="370" r="112"/><circle cx="690" cy="330" r="120"/><circle cx="835" cy="405" r="108"/></g>
+<g fill="#ffd574" opacity=".8"><circle cx="470" cy="335" r="5"/><circle cx="530" cy="400" r="4"/><circle cx="670" cy="300" r="5"/><circle cx="735" cy="355" r="4"/><circle cx="805" cy="390" r="5"/><circle cx="865" cy="430" r="4"/></g>
+<g transform="translate(650 505)"><circle r="98" fill="url(#ball)" stroke="#9b5619" stroke-width="6"/><path d="M-65 -28 Q0 -70 68 -20 Q35 42 -5 55 Q-45 35 -65 -28Z" fill="#f4e4af"/><ellipse cx="5" cy="5" rx="28" ry="20" fill="#d65435"/><path d="M18 0 L106 -52 L112 -37 L30 18Z" fill="#fff1c1"/></g>
+<g fill="#2f7d32"><ellipse cx="382" cy="512" rx="36" ry="13" transform="rotate(-18 382 512)"/><ellipse cx="930" cy="512" rx="36" ry="13" transform="rotate(18 930 512)"/></g>
+</svg>
