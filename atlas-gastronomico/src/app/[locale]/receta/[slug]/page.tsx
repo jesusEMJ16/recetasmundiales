@@ -20,7 +20,7 @@ import { absoluteUrl } from "../../../../site";
 import { trustUi, informationHref } from "../../../../i18n/trust-ui";
 import { RecipeIngredients } from "../../../../components/RecipeIngredients";
 import { AdSenseLoader } from "../../../../components/AdSenseLoader";
-import { cookingGuides } from "../../../../data/cooking-guides";
+import { cookingGuides, cookingGuideLocale } from "../../../../data/cooking-guides";
 import { editorialGuidesUi } from "../../../../i18n/editorial-guides-ui";
 import { getRecipeReferences } from "../../../../domain/references";
 
@@ -80,7 +80,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
   const recipe = translateRecipe(base, locale);
   const contentLocale = recipeContentLocale(locale, base.id);
   const editorial = recipeEditorialUi[locale];
-  const guideLanguage = locale === "es" ? "es" : "en";
+  const guideLanguage = cookingGuideLocale(slug, locale);
   const guide = cookingGuides[slug]?.[guideLanguage];
   const guideUi = editorialGuidesUi[locale];
   const references = getRecipeReferences(recipe);
@@ -278,12 +278,12 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
         <ul lang={contentLocale} dir={localeDirection(contentLocale)} className="mt-3 space-y-2 leading-relaxed text-ink-soft">{recipe.tips.map((tip, index) => <li key={index}>{tip}</li>)}</ul>
       </section>}
 
-      {guide && <section className="space-y-5 rounded-[var(--radius-xl2)] border border-line bg-card p-5">
-        {locale !== "es" && locale !== "en" && <p className="text-sm text-ink-faint">{guideUi.fallback}</p>}
-        <h2 lang={guideLanguage} dir="ltr" className="font-display text-2xl text-ink">{guide.title}</h2>
+      {guide && <section className="cooking-guide space-y-5 rounded-[var(--radius-xl2)] border border-line bg-card p-5">
+        {guideLanguage !== locale && <p data-guide-fallback className="text-sm text-ink-faint">{guideUi.fallback}</p>}
+        <h2 lang={localeMeta[guideLanguage].htmlLang} dir={localeDirection(guideLanguage)} className="font-display text-2xl text-ink">{guide.title}</h2>
         {guide.sections.map(section => <div key={section.title} className="space-y-2">
-          <h3 lang={guideLanguage} dir="ltr" className="font-display text-xl text-ink">{section.title}</h3>
-          <p lang={guideLanguage} dir="ltr" className="leading-relaxed text-ink-soft">{section.text}</p>
+          <h3 lang={localeMeta[guideLanguage].htmlLang} dir={localeDirection(guideLanguage)} className="font-display text-xl text-ink">{section.title}</h3>
+          <p lang={localeMeta[guideLanguage].htmlLang} dir={localeDirection(guideLanguage)} className="leading-relaxed text-ink-soft">{section.text}</p>
         </div>)}
       </section>}
 

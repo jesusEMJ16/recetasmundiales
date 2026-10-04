@@ -1,5 +1,20 @@
 import type { Locale } from "./config";
 
+export const preparationChecks: Record<Locale, string> = {
+  es: "Puntos que conviene comprobar",
+  en: "What to check during preparation",
+  zh: "准备过程中需要检查的要点",
+  hi: "तैयारी के दौरान किन बातों की जाँच करें",
+  fr: "Points à vérifier pendant la préparation",
+  ar: "نقاط ينبغي التحقق منها أثناء التحضير",
+  bn: "প্রস্তুতির সময় যা যাচাই করবেন",
+  pt: "Pontos a verificar durante a preparação",
+  ru: "Что проверить во время приготовления",
+  ur: "تیاری کے دوران کن باتوں کی جانچ کریں",
+  id: "Hal yang perlu diperiksa saat menyiapkan",
+  ja: "調理中に確認するポイント",
+};
+
 type Copy = { technique: string; country: string; planning: string; start: string; references: string; referenceNote: string; dish: string; context: string; techniqueSource: string; fallback: string };
 const rows: Record<Locale, string[]> = {
   es: ["Técnica y preparación", "Cómo cocinar esta selección", "Organizar la preparación", "Recetas para empezar", "Referencias consultables", "Las referencias aportan información sobre el platillo, su contexto o una técnica. Las cantidades de esta versión pueden diferir de las de la fuente.", "Platillo", "Contexto", "Técnica", "Esta guía complementaria se muestra en inglés."],

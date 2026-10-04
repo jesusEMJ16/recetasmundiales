@@ -3,7 +3,8 @@ import { RECIPES } from "../data/recipes";
 import { PLACES } from "../data/places";
 import guidance from "../data/editorial-guidance.json";
 import countryGuides from "../data/country-guides.json";
-import { cookingGuides } from "../data/cooking-guides";
+import { cookingGuides, cookingGuideLocale } from "../data/cooking-guides";
+import guideTranslations from "../data/cooking-guide-translations.json";
 import { editorialReferences, getRecipeReferences } from "./references";
 import { locales } from "../i18n/config";
 import { translateRecipe } from "../i18n/recipe-content";
@@ -49,6 +50,33 @@ describe("editorial review integrity", () => {
       expect(RECIPES.some(recipe => recipe.slug === slug), slug).toBe(true);
       expect(getRecipeReferences(RECIPES.find(recipe => recipe.slug === slug)!).length).toBeGreaterThan(0);
     }
+  });
+
+  it("serves the first five translated guides in all twelve languages", () => {
+    expect(Object.keys(guideTranslations).sort()).toEqual([
+      "cemita-poblana", "frijoles-charros", "discada-nortena", "caldillo-duranguense", "tacos-de-carne-asada-nortenos",
+    ].sort());
+    for (const slug of Object.keys(guideTranslations)) {
+      expect(Object.keys(cookingGuides[slug]).sort(), slug).toEqual([...locales].sort());
+      for (const locale of locales) {
+        expect(cookingGuideLocale(slug, locale), `${slug}/${locale}`).toBe(locale);
+        const guide = cookingGuides[slug][locale]!;
+        expect(guide.title.trim()).not.toBe("");
+        expect(guide.sections).toHaveLength(1);
+        expect(guide.sections[0].title.trim()).not.toBe("");
+        expect(guide.sections[0].text.length).toBeGreaterThan(100);
+        if (locale !== "es" && locale !== "en") {
+          expect(guide.sections[0].text).not.toBe(cookingGuides[slug].en!.sections[0].text);
+          expect(guide.sections[0].text).not.toBe(cookingGuides[slug].es!.sections[0].text);
+        }
+      }
+    }
+  });
+
+  it("retains an honest English fallback for guides outside the translated batch", () => {
+    expect(cookingGuideLocale("picadas-veracruzanas", "fr")).toBe("en");
+    expect(cookingGuideLocale("picadas-veracruzanas", "ar")).toBe("en");
+    expect(cookingGuideLocale("picadas-veracruzanas", "es")).toBe("es");
   });
 
   it("links country reading suggestions to recipes in that same country", () => {

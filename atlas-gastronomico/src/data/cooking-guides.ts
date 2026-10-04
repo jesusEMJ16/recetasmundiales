@@ -1,4 +1,7 @@
 import additions from "./editorial-guidance.json";
+import translations from "./cooking-guide-translations.json";
+import type { Locale } from "../i18n/config";
+import { editorialGuidesUi, preparationChecks } from "../i18n/editorial-guides-ui";
 
 type Guide = { title: string; sections: { title: string; text: string }[] };
 
@@ -34,10 +37,20 @@ const existingGuides: Record<string, Partial<Record<"es" | "en", Guide>>> = {
   },
 };
 
-export const cookingGuides: Record<string, Partial<Record<"es" | "en", Guide>>> = {
+const additionalGuidance: Record<string, Partial<Record<Locale, string>>> = Object.fromEntries(
+  Object.entries(additions).map(([slug, text]) => [slug, { ...text, ...translations[slug as keyof typeof translations] }]),
+);
+
+export const cookingGuides: Record<string, Partial<Record<Locale, Guide>>> = {
   ...existingGuides,
-  ...Object.fromEntries(Object.entries(additions).map(([slug, text]) => [slug, {
-    es: { title: "Técnica y preparación", sections: [{ title: "Puntos que conviene comprobar", text: text.es }] },
-    en: { title: "Technique and preparation", sections: [{ title: "What to check during preparation", text: text.en }] },
-  }])),
+  ...Object.fromEntries(Object.entries(additionalGuidance).map(([slug, text]) => [slug,
+    Object.fromEntries(Object.entries(text).map(([language, paragraph]) => {
+      const locale = language as Locale;
+      return [locale, { title: editorialGuidesUi[locale].technique, sections: [{ title: preparationChecks[locale], text: paragraph }] }];
+    })),
+  ])),
 };
+
+export function cookingGuideLocale(slug: string, locale: Locale): Locale {
+  return cookingGuides[slug]?.[locale] ? locale : "en";
+}
