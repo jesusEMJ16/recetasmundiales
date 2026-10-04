@@ -94,8 +94,26 @@ const reports = path.resolve('../image-validation');
       await page.goto(base + `/${locale}/receta/almejas-tatemadas`);
       assert.equal(await page.locator('input[type="checkbox"]').count(), 4, locale);
       assert.equal(await page.locator('.recipe-references a[href="https://laroussecocina.mx/palabra/almejada/"]').count(), 1, locale);
+      for (const slug of ['cemita-poblana', 'frijoles-charros', 'discada-nortena', 'caldillo-duranguense', 'tacos-de-carne-asada-nortenos']) {
+        await page.goto(base + `/${locale}/receta/${slug}`);
+        const language = locale === 'zh' ? 'zh-CN' : locale;
+        const direction = ['ar', 'ur'].includes(locale) ? 'rtl' : 'ltr';
+        assert.equal(await page.locator('.cooking-guide [data-guide-fallback]').count(), 0, `${locale}/${slug}: fallback`);
+        assert.equal(await page.locator(`.cooking-guide p[lang="${language}"][dir="${direction}"]`).count(), 1, `${locale}/${slug}: language`);
+        assert.equal(await page.locator(`.cooking-guide h2[lang="${language}"][dir="${direction}"]`).count(), 1, `${locale}/${slug}: heading`);
+        assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true, `${locale}/${slug}: overflow`);
+      }
     }
+    await page.goto(base + '/fr/receta/picadas-veracruzanas');
+    assert.equal(await page.locator('.cooking-guide [data-guide-fallback]').count(), 1, 'Untranslated guide notice');
+    assert.equal(await page.locator('.cooking-guide p[lang="en"][dir="ltr"]').count(), 1, 'Untranslated guide language');
+    await page.goto(base + '/ar/receta/cemita-poblana');
+    await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
+    await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ar-mobile.png'), animations: 'disabled' });
+    await page.goto(base + '/ja/receta/tacos-de-carne-asada-nortenos');
+    await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
+    await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ja-mobile.png'), animations: 'disabled' });
     assert.deepEqual(errors, [], 'Browser runtime errors');
-    console.log(JSON.stringify({ passed: true, locales: 12, desktop: true, mobile: true, noRuntimeErrors: true, metadata: true, privacy: true, portions: true, recommendations: true }, null, 2));
+    console.log(JSON.stringify({ passed: true, locales: 12, translatedGuides: 5, translatedGuideRoutes: 60, desktop: true, mobile: true, noRuntimeErrors: true, metadata: true, privacy: true, portions: true, recommendations: true }, null, 2));
   } finally { await browser.close(); }
 })().catch(error => { console.error(error); process.exit(1); });
