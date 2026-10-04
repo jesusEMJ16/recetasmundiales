@@ -9,7 +9,7 @@ const reports = path.resolve('../image-validation');
 (async () => {
   fs.mkdirSync(reports, { recursive: true });
   const browser = await chromium.launch({ headless: true });
-  const context = await browser.newContext({ viewport: { width: 1440, height: 1000 } });
+  const context = await browser.newContext({ viewport: { width: 1440, height: 1000 }, reducedMotion: 'reduce' });
   const page = await context.newPage();
   const errors = [];
   const tracking = [];
@@ -40,7 +40,7 @@ const reports = path.resolve('../image-validation');
     assert(relatedUrls.length > 0);
     assert(!relatedUrls.some(url => /souvlaki|nueva-york|chicago/.test(url)));
     assert.equal(tracking.length, 0, 'Tracking must remain off before the statistics choice');
-    await page.screenshot({ path: path.join(reports, 'publishing-desktop.png'), fullPage: true });
+    await page.screenshot({ path: path.join(reports, 'publishing-desktop.png'), fullPage: true, animations: 'disabled' });
 
     await page.getByRole('button', { name: 'Aceptar estadísticas', exact: true }).click();
     await page.waitForFunction(() => !!document.querySelector('script[src*="googletagmanager"]'));
@@ -59,7 +59,26 @@ const reports = path.resolve('../image-validation');
     await page.getByRole('spinbutton', { name: 'Porciones' }).fill('12');
     assert.equal(await page.getByRole('checkbox', { name: '500 g de mascarpone', exact: true }).count(), 1);
     assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true, 'Mobile overflow');
-    await page.screenshot({ path: path.join(reports, 'publishing-mobile.png'), fullPage: true });
+    await page.screenshot({ path: path.join(reports, 'publishing-mobile.png'), fullPage: true, animations: 'disabled' });
+
+    await page.goto(base + '/es/receta/picadas-veracruzanas');
+    await page.getByRole('heading', { name: 'Técnica y preparación', exact: true }).waitFor();
+    assert.equal(await page.locator('.recipe-references a[href="https://laroussecocina.mx/palabra/picada/"]').count(), 1);
+    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true, 'Editorial mobile overflow');
+    await page.screenshot({ path: path.join(reports, 'editorial-recipe-mobile.png'), fullPage: true, animations: 'disabled' });
+
+    await page.goto(base + '/es/recetas/mexico');
+    await page.getByRole('heading', { name: 'Cómo cocinar esta selección', exact: true }).waitFor();
+    assert.equal(await page.locator('.country-guide a').count(), 3);
+    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true, 'Country guide mobile overflow');
+    await page.screenshot({ path: path.join(reports, 'editorial-country-mobile.png'), fullPage: true, animations: 'disabled' });
+    await page.setViewportSize({ width: 1440, height: 1000 });
+    await page.screenshot({ path: path.join(reports, 'editorial-country-desktop.png'), fullPage: true, animations: 'disabled' });
+    await page.setViewportSize({ width: 390, height: 844 });
+
+    await page.goto(base + '/ar/recetas/mexico');
+    assert.equal(await page.locator('.country-guide p[lang="en"][dir="ltr"]').count(), 2);
+    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true, 'RTL country overflow');
 
     await page.goto(base + '/es');
     assert.equal(await page.locator('.atlas-country-name').filter({ hasText: 'Afganistán' }).count(), 0);
@@ -72,6 +91,9 @@ const reports = path.resolve('../image-validation');
       assert.equal(await page.getByRole('spinbutton').count(), 1, locale);
       assert.equal(await page.locator('footer a[href*="/informacion/"]').count(), 4, locale);
       assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true, locale);
+      await page.goto(base + `/${locale}/receta/almejas-tatemadas`);
+      assert.equal(await page.locator('input[type="checkbox"]').count(), 4, locale);
+      assert.equal(await page.locator('.recipe-references a[href="https://laroussecocina.mx/palabra/almejada/"]').count(), 1, locale);
     }
     assert.deepEqual(errors, [], 'Browser runtime errors');
     console.log(JSON.stringify({ passed: true, locales: 12, desktop: true, mobile: true, noRuntimeErrors: true, metadata: true, privacy: true, portions: true, recommendations: true }, null, 2));

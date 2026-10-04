@@ -1,7 +1,9 @@
+import additions from "./editorial-guidance.json";
+
 type Guide = { title: string; sections: { title: string; text: string }[] };
 
 // Additional editorial guidance, without claiming a personal cooking test.
-export const cookingGuides: Record<string, Partial<Record<"es" | "en", Guide>>> = {
+const existingGuides: Record<string, Partial<Record<"es" | "en", Guide>>> = {
   guacamole: {
     es: { title: "Cómo conseguir un guacamole equilibrado", sections: [
       { title: "Elegir y preparar el aguacate", text: "Busca un aguacate que ceda suavemente a la presión, sin estar hundido ni excesivamente blando. Si la pulpa está dura, no se machacará bien y el resultado tendrá trozos correosos. Prepara la cebolla, el chile y el cilantro antes de abrir los aguacates: así puedes mezclar y servir sin dejar la pulpa expuesta durante toda la preparación." },
@@ -30,4 +32,12 @@ export const cookingGuides: Record<string, Partial<Record<"es" | "en", Guide>>> 
       { title: "Eggs and refrigeration", text: "This version does not cook the eggs: use eggs or egg products labeled pasteurized, following the manufacturer's directions. Pasteurized whites may whip differently, so check that the product is suitable. Keep the dessert refrigerated until serving and return the remainder to the refrigerator. FDA recommends pasteurized products for dishes served with raw or undercooked eggs; coffee and resting do not replace that treatment." },
     ] },
   },
+};
+
+export const cookingGuides: Record<string, Partial<Record<"es" | "en", Guide>>> = {
+  ...existingGuides,
+  ...Object.fromEntries(Object.entries(additions).map(([slug, text]) => [slug, {
+    es: { title: "Técnica y preparación", sections: [{ title: "Puntos que conviene comprobar", text: text.es }] },
+    en: { title: "Technique and preparation", sections: [{ title: "What to check during preparation", text: text.en }] },
+  }])),
 };

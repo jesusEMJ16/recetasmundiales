@@ -24,6 +24,7 @@ import { translatePlaceName } from "../../../../i18n/content";
 import { translateRecipe } from "../../../../i18n/recipe-content";
 import { placePathSlugs } from "../../../../domain/places";
 import { absoluteUrl } from "../../../../site";
+import { CountryGuide } from "../../../../components/CountryGuide";
 
 const VALID_SORTS: SortKey[] = ["recientes", "rapidas", "alfabetico"];
 
@@ -170,6 +171,8 @@ export default async function PlacePage({
           {t.place.title("")}<span className="deco-underline">{translatePlaceName(place, locale)}</span>
         </h1>
       </header>
+
+      {place.type === "pais" && allHere.length > 0 && <CountryGuide countryCode={place.countryCode} locale={locale} />}
 
       {childItems.length > 0 && (
         <section className="reveal space-y-3" style={{ animationDelay: "120ms" }}>

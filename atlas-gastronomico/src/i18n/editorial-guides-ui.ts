@@ -1,0 +1,21 @@
+import type { Locale } from "./config";
+
+type Copy = { technique: string; country: string; planning: string; start: string; references: string; referenceNote: string; dish: string; context: string; techniqueSource: string; fallback: string };
+const rows: Record<Locale, string[]> = {
+  es: ["Técnica y preparación", "Cómo cocinar esta selección", "Organizar la preparación", "Recetas para empezar", "Referencias consultables", "Las referencias aportan información sobre el platillo, su contexto o una técnica. Las cantidades de esta versión pueden diferir de las de la fuente.", "Platillo", "Contexto", "Técnica", "Esta guía complementaria se muestra en inglés."],
+  en: ["Technique and preparation", "Cooking this selection", "Planning the preparation", "Recipes to start with", "References to consult", "References provide information about the dish, its context or a technique. Quantities in this version may differ from those in the source.", "Dish", "Context", "Technique", "This additional guide is shown in English."],
+  zh: ["烹饪技巧与准备", "如何烹饪本精选菜谱", "安排准备工作", "入门菜谱", "可查阅的参考资料", "参考资料介绍菜肴、背景或烹饪技巧。本版本用量可能与来源不同。", "菜肴", "背景", "技巧", "本补充指南以英语显示。"],
+  hi: ["तकनीक और तैयारी", "इस चयन को पकाना", "तैयारी की योजना", "शुरुआती व्यंजन", "संदर्भ सामग्री", "संदर्भ व्यंजन, उसके संदर्भ या तकनीक की जानकारी देते हैं। इस संस्करण की मात्रा स्रोत से अलग हो सकती है।", "व्यंजन", "संदर्भ", "तकनीक", "यह अतिरिक्त मार्गदर्शिका अंग्रेज़ी में दिखाई गई है।"],
+  fr: ["Technique et préparation", "Cuisiner cette sélection", "Organiser la préparation", "Recettes pour commencer", "Références à consulter", "Les références renseignent sur le plat, son contexte ou une technique. Les quantités de cette version peuvent différer de celles de la source.", "Plat", "Contexte", "Technique", "Ce guide complémentaire est présenté en anglais."],
+  ar: ["التقنية والتحضير", "طهي هذه المجموعة", "تنظيم التحضير", "وصفات للبدء", "مراجع للاطلاع", "تقدم المراجع معلومات عن الطبق أو سياقه أو تقنية تحضيره. قد تختلف كميات هذه النسخة عن المصدر.", "الطبق", "السياق", "التقنية", "يُعرض هذا الدليل الإضافي باللغة الإنجليزية."],
+  bn: ["কৌশল ও প্রস্তুতি", "এই বাছাই করা পদ রান্না", "প্রস্তুতির পরিকল্পনা", "শুরু করার রেসিপি", "পড়ার মতো তথ্যসূত্র", "তথ্যসূত্র পদ, তার প্রেক্ষাপট বা কৌশল সম্পর্কে জানায়। এই সংস্করণের পরিমাণ উৎস থেকে ভিন্ন হতে পারে।", "পদ", "প্রেক্ষাপট", "কৌশল", "এই অতিরিক্ত নির্দেশিকা ইংরেজিতে দেখানো হয়েছে।"],
+  pt: ["Técnica e preparação", "Cozinhar esta seleção", "Organizar a preparação", "Receitas para começar", "Referências para consultar", "As referências informam sobre o prato, o contexto ou uma técnica. As quantidades desta versão podem diferir das da fonte.", "Prato", "Contexto", "Técnica", "Este guia complementar é apresentado em inglês."],
+  ru: ["Техника и подготовка", "Как готовить блюда этой подборки", "Планирование приготовления", "Рецепты для начала", "Справочные материалы", "Источники описывают блюдо, его контекст или технику. Количества в этой версии могут отличаться от источника.", "Блюдо", "Контекст", "Техника", "Это дополнительное руководство показано на английском языке."],
+  ur: ["تکنیک اور تیاری", "اس انتخاب کو پکانا", "تیاری کی منصوبہ بندی", "شروع کرنے کی ترکیبیں", "حوالہ جاتی مواد", "حوالے پکوان، اس کے پس منظر یا تکنیک کی معلومات دیتے ہیں۔ اس نسخے کی مقداریں ماخذ سے مختلف ہو سکتی ہیں۔", "پکوان", "پس منظر", "تکنیک", "یہ اضافی رہنما انگریزی میں دکھایا گیا ہے۔"],
+  id: ["Teknik dan persiapan", "Memasak pilihan ini", "Merencanakan persiapan", "Resep untuk memulai", "Referensi untuk dibaca", "Referensi menjelaskan hidangan, konteks atau teknik. Jumlah dalam versi ini dapat berbeda dari sumbernya.", "Hidangan", "Konteks", "Teknik", "Panduan tambahan ini ditampilkan dalam bahasa Inggris."],
+  ja: ["調理の技術と準備", "このセレクションを作る", "準備の計画", "最初に作るレシピ", "参照資料", "参考資料は料理、背景、または技術を説明します。この版の分量は出典と異なる場合があります。", "料理", "背景", "技術", "この補足ガイドは英語で表示されています。"],
+};
+export const editorialGuidesUi = Object.fromEntries(Object.entries(rows).map(([locale, row]) => {
+  const [technique, country, planning, start, references, referenceNote, dish, context, techniqueSource, fallback] = row;
+  return [locale, { technique, country, planning, start, references, referenceNote, dish, context, techniqueSource, fallback }];
+})) as Record<Locale, Copy>;

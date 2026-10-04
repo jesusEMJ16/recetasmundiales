@@ -21,6 +21,8 @@ import { trustUi, informationHref } from "../../../../i18n/trust-ui";
 import { RecipeIngredients } from "../../../../components/RecipeIngredients";
 import { AdSenseLoader } from "../../../../components/AdSenseLoader";
 import { cookingGuides } from "../../../../data/cooking-guides";
+import { editorialGuidesUi } from "../../../../i18n/editorial-guides-ui";
+import { getRecipeReferences } from "../../../../domain/references";
 
 export function generateStaticParams() {
   return locales.flatMap((locale) => RECIPES.map((r) => ({ locale, slug: r.slug })));
@@ -78,7 +80,10 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
   const recipe = translateRecipe(base, locale);
   const contentLocale = recipeContentLocale(locale, base.id);
   const editorial = recipeEditorialUi[locale];
-  const guide = locale === "es" || locale === "en" ? cookingGuides[slug]?.[locale] : undefined;
+  const guideLanguage = locale === "es" ? "es" : "en";
+  const guide = cookingGuides[slug]?.[guideLanguage];
+  const guideUi = editorialGuidesUi[locale];
+  const references = getRecipeReferences(recipe);
 
   const place = PLACES.find((p) => p.id === recipe.placeId);
   const breadcrumb = place ? getBreadcrumb(place, PLACES) : [];
@@ -274,19 +279,24 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
       </section>}
 
       {guide && <section className="space-y-5 rounded-[var(--radius-xl2)] border border-line bg-card p-5">
-        <h2 className="font-display text-2xl text-ink">{guide.title}</h2>
+        {locale !== "es" && locale !== "en" && <p className="text-sm text-ink-faint">{guideUi.fallback}</p>}
+        <h2 lang={guideLanguage} dir="ltr" className="font-display text-2xl text-ink">{guide.title}</h2>
         {guide.sections.map(section => <div key={section.title} className="space-y-2">
-          <h3 className="font-display text-xl text-ink">{section.title}</h3>
-          <p className="leading-relaxed text-ink-soft">{section.text}</p>
+          <h3 lang={guideLanguage} dir="ltr" className="font-display text-xl text-ink">{section.title}</h3>
+          <p lang={guideLanguage} dir="ltr" className="leading-relaxed text-ink-soft">{section.text}</p>
         </div>)}
       </section>}
 
-      <section className="rounded-[var(--radius-xl2)] border border-line-soft bg-paper-2/50 p-5">
-        <h2 className="eyebrow text-ink-faint">{t.recipe.sources}</h2>
-        <ul className="mt-2 space-y-1 text-sm text-ink-soft">
-          {recipe.sources.map((source, idx) => <li key={idx}>· {/^https?:\/\//.test(source) ? <a href={source} target="_blank" rel="noreferrer" className="break-all underline">{source}</a> : <span lang="es" dir="ltr">{source}</span>}</li>)}
+      {references.length > 0 && <section className="recipe-references rounded-[var(--radius-xl2)] border border-line-soft bg-paper-2/50 p-5">
+        <h2 className="eyebrow text-ink-faint">{guideUi.references}</h2>
+        <p className="mt-2 text-sm leading-relaxed text-ink-soft">{guideUi.referenceNote}</p>
+        <ul className="mt-3 space-y-3 text-sm text-ink-soft">
+          {references.map(reference => <li key={reference.url}>
+            <a href={reference.url} target="_blank" rel="noreferrer" className="break-words underline underline-offset-4"><span lang={reference.language} dir="ltr">{reference.title}</span></a>
+            {reference.scope && <span className="ml-2 text-xs text-ink-faint">({reference.scope === "dish" ? guideUi.dish : reference.scope === "context" ? guideUi.context : guideUi.techniqueSource})</span>}
+          </li>)}
         </ul>
-      </section>
+      </section>}
 
       {related.length > 0 && (
         <section className="space-y-4 border-t border-line-soft pt-8">

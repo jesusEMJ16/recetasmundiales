@@ -927,20 +927,19 @@
   },
   "r-mxn-almejas-tatemadas": {
     "dishName": "Almejas tatemadas (amêijoas assadas no fogo)",
-    "summary": "Amêijoas chocolata assadas sobre brasas e galhos aromáticos, uma especialidade de Loreto.",
-    "history": "As almejas tatemadas são um prato ancestral de Loreto, na Baja California Sur, onde o consumo de moluscos remonta à época pré-hispânica, como atestam os depósitos de conchas da região. As amêijoas chocolata são colocadas sobre cascalho e cobertas com galhos de chamizo ou romerillo que, ao queimar, dão seu sabor defumado característico.",
+    "summary": "Amêijoas chocolate grelhadas: uma adaptação doméstica do prato associado a Loreto.",
+    "history": "As amêijoas tatemadas estão associadas a Loreto, na Baixa Califórnia Sul. Esta versão usa uma grelha adequada para alimentos, sem o método com gravilha e ramos. Verifique a cozedura pela abertura das conchas e pela carne cozinhada.",
     "ingredients": [
       "12 amêijoas chocolata frescas",
-      "Galhos de chamizo ou romerillo (ou lenha aromática)",
       "Limões",
       "Molho de pimenta a gosto",
       "Sal"
     ],
     "steps": [
-      "Limpe bem as amêijoas e coloque-as com a dobradiça para baixo sobre uma camada de cascalho ou uma grelha.",
-      "Cubra com os galhos de chamizo ou romerillo.",
-      "Acenda os galhos e deixe o calor e a fumaça cozinharem as amêijoas por cerca de 40 minutos.",
-      "Retire quando as conchas abrirem e o interior estiver cozido.",
+      "Lave e inspecione as amêijoas; descarte conchas partidas e as que permaneçam abertas após um toque leve.",
+      "Pré-aqueça uma grelha adequada para alimentos. Esta adaptação doméstica não usa terra, gravilha ou ramos não identificados.",
+      "Cozinhe as amêijoas até as conchas abrirem. Descarte as que continuarem fechadas após cozinhar.",
+      "Retire com uma pinça e verifique se a carne está cozinhada; não force conchas fechadas.",
       "Sirva com limão, sal e molho de pimenta."
     ],
     "tips": [
@@ -1448,7 +1447,7 @@
       "Tortillas de milho"
     ],
     "steps": [
-      "Grelhe a cecina no carvão por alguns segundos de cada lado, cuidando para não ressecar.",
+      "Cozinhe a cecina numa chapa ou grelha pré-aquecida e verifique a temperatura interna e o repouso segundo a referência para carne de bovino.",
       "Grelhe os nopales e a cebola ao lado da carne, se desejar.",
       "Faça um guacamole simples com abacate, coentro, limão e sal.",
       "Sirva a cecina com crema, queijo e guacamole.",
@@ -2063,8 +2062,8 @@
       "Tortilhas artesanais e creme mexicano"
     ],
     "steps": [
-      "Deixe a cecina perder o frio da geladeira por alguns minutos.",
-      "Grelhe a cecina no carvão ou na chapa por apenas alguns segundos de cada lado.",
+      "Mantenha a cecina refrigerada até cozinhar e pré-aqueça a chapa ou grelha.",
+      "Cozinhe a cecina numa chapa ou grelha pré-aquecida e verifique a temperatura interna e o repouso segundo a referência para carne de bovino.",
       "Grelhe os nopales previamente salgados.",
       "Sirva a cecina com nopales, queijo e abacate.",
       "Acompanhe com pimentas em conserva e pico de gallo.",

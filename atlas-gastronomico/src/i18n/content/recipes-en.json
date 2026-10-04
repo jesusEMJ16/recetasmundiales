@@ -927,20 +927,19 @@
   },
   "r-mxn-almejas-tatemadas": {
     "dishName": "Almejas tatemadas (fire-roasted clams)",
-    "summary": "Chocolata clams roasted over coals and aromatic branches, a specialty of Loreto.",
-    "history": "Almejas tatemadas are an ancestral dish of Loreto, Baja California Sur, where shellfish consumption dates back to pre-Hispanic times, as the region's shell middens attest. The chocolata clams are set in gravel and covered with chamizo or romerillo branches that, as they burn, give the clams their characteristic smoky flavor.",
+    "summary": "Grilled chocolate clams: a home adaptation of the dish associated with Loreto.",
+    "history": "Tatemada clams are associated with Loreto, Baja California Sur. This home version uses a food-safe grill rather than the method involving gravel and branches. Check doneness by shell opening and cooked flesh.",
     "ingredients": [
       "12 fresh chocolata clams",
-      "Chamizo or romerillo branches (or aromatic firewood)",
       "Limes",
       "Hot sauce to taste",
       "Salt"
     ],
     "steps": [
-      "Clean the clams well and set them hinge-side down on a bed of gravel or a grill.",
-      "Cover them with the chamizo or romerillo branches.",
-      "Light the branches and let the heat and smoke cook the clams for about 40 minutes.",
-      "Remove them once the shells open and the insides are cooked.",
+      "Wash and inspect clams; discard broken shells and those that remain open after a light tap.",
+      "Preheat a food-safe grill. Do not use soil, gravel or unidentified branches in this home adaptation.",
+      "Cook clams until their shells open. Discard any that remain closed after cooking.",
+      "Remove with tongs and check that the flesh is cooked; do not force closed shells open.",
       "Serve with lime, salt, and hot sauce."
     ],
     "tips": [
@@ -1448,7 +1447,7 @@
       "Corn tortillas"
     ],
     "steps": [
-      "Grill the cecina over charcoal for a few seconds per side, taking care it doesn't dry out.",
+      "Cook cecina on a preheated griddle or grill and check internal temperature and resting using the beef cooking reference.",
       "Grill the nopales and onion alongside the meat if you like.",
       "Make a simple guacamole with avocado, cilantro, lime, and salt.",
       "Serve the cecina with crema, cheese, and the guacamole.",
@@ -2063,8 +2062,8 @@
       "Handmade tortillas and crema"
     ],
     "steps": [
-      "Let the cecina come to room temperature for a few minutes.",
-      "Grill the cecina over charcoal or on the griddle for just a few seconds per side.",
+      "Keep cecina refrigerated until cooking and preheat the griddle or grill.",
+      "Cook cecina on a preheated griddle or grill and check internal temperature and resting using the beef cooking reference.",
       "Grill the previously salted nopales.",
       "Serve the cecina with nopales, cheese, and avocado.",
       "Accompany with pickled chiles and pico de gallo.",
