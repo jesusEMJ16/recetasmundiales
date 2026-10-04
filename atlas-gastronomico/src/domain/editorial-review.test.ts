@@ -52,9 +52,10 @@ describe("editorial review integrity", () => {
     }
   });
 
-  it("serves the first five translated guides in all twelve languages", () => {
+  it("serves both five-recipe translation batches in all twelve languages", () => {
     expect(Object.keys(guideTranslations).sort()).toEqual([
       "cemita-poblana", "frijoles-charros", "discada-nortena", "caldillo-duranguense", "tacos-de-carne-asada-nortenos",
+      "tacos-de-pescado-estilo-baja", "almejas-tatemadas", "carne-asada-a-la-tampiquena", "guacamayas-leon", "gorditas-maiz-quebrado-queretanas",
     ].sort());
     for (const slug of Object.keys(guideTranslations)) {
       expect(Object.keys(cookingGuides[slug]).sort(), slug).toEqual([...locales].sort());
