@@ -32,7 +32,7 @@ describe("reviewed recipe catalog", () => {
       expect(recipe.ingredients.length, recipe.id).toBeGreaterThan(1);
       expect(recipe.steps.length, recipe.id).toBeGreaterThan(2);
       expect(recipe.tips?.length, recipe.id).toBeGreaterThan(0);
-      expect(recipe.updatedAt, recipe.id).toMatch(/^2026-09-(11|23|24)$/);
+      expect(recipe.updatedAt, recipe.id).toMatch(/^2026-(09-(11|23|24)|10-04)$/);
     }
   });
 

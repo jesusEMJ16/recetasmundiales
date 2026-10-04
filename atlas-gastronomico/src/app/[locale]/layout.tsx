@@ -7,6 +7,7 @@ import type { Locale } from "../../i18n/config";
 import { getDictionary } from "../../i18n/dictionaries";
 import { SITE_URL, absoluteUrl } from "../../site";
 import { siteUi } from "../../i18n/site-ui";
+import { SiteFooter } from "../../components/SiteFooter";
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -84,9 +85,7 @@ export default async function LocaleLayout({
         <a className="skip-link" href="#main-content">{siteUi[locale].skipToContent}</a>
         <SiteHeader locale={locale} />
         <main id="main-content" className="site-shell">{children}</main>
-        <footer className="site-footer">
-          <strong>WorldBites.</strong><span>{getDictionary(locale).header.tagline} · Wikimedia Commons</span>
-        </footer>
+        <SiteFooter locale={locale} />
       </div>
   );
 }

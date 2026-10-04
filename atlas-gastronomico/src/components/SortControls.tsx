@@ -7,7 +7,7 @@ import { getDictionary } from "../i18n/dictionaries";
 const ICONS: Record<SortKey, string> = {
   estrellas: "★", recientes: "✦", populares: "🔥", rapidas: "⏱", alfabetico: "🔤",
 };
-const ORDER: SortKey[] = ["estrellas", "recientes", "populares", "rapidas", "alfabetico"];
+const ORDER: SortKey[] = ["alfabetico", "recientes", "rapidas"];
 
 export function SortControls({ current }: { current: SortKey }) {
   const router = useRouter();

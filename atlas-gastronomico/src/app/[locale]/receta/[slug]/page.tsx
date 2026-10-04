@@ -17,6 +17,10 @@ import { translatePlaceName } from "../../../../i18n/content";
 import { translateRecipe, recipeContentLocale, getRecipeLocales } from "../../../../i18n/recipe-content";
 import { recipeEditorialUi, nutritionLabels, translationPending } from "../../../../i18n/recipe-editorial-ui";
 import { absoluteUrl } from "../../../../site";
+import { trustUi, informationHref } from "../../../../i18n/trust-ui";
+import { RecipeIngredients } from "../../../../components/RecipeIngredients";
+import { AdSenseLoader } from "../../../../components/AdSenseLoader";
+import { cookingGuides } from "../../../../data/cooking-guides";
 
 export function generateStaticParams() {
   return locales.flatMap((locale) => RECIPES.map((r) => ({ locale, slug: r.slug })));
@@ -74,6 +78,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
   const recipe = translateRecipe(base, locale);
   const contentLocale = recipeContentLocale(locale, base.id);
   const editorial = recipeEditorialUi[locale];
+  const guide = locale === "es" || locale === "en" ? cookingGuides[slug]?.[locale] : undefined;
 
   const place = PLACES.find((p) => p.id === recipe.placeId);
   const breadcrumb = place ? getBreadcrumb(place, PLACES) : [];
@@ -114,7 +119,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
     name: recipe.dishName,
     description: recipe.summary,
     image: credit ? [absolutePhotoUrl(credit)] : undefined,
-    author: { "@type": "Organization", name: t.header.brand },
+    author: { "@type": "Organization", name: "WorldBites", url: absoluteUrl(informationHref(locale, "acerca-de")) },
     prepTime: iso(recipe.prepTimeMin),
     cookTime: iso(recipe.cookTimeMin),
     totalTime: iso(recipe.totalTimeMin),
@@ -134,6 +139,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
 
   return (
     <article dir={localeDirection(locale)} className="mx-auto max-w-3xl space-y-8">
+      {contentLocale === locale && <AdSenseLoader />}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(combinedSchema) }} />
 
       <nav className="reveal flex flex-wrap items-center gap-1 text-sm text-ink-soft">
@@ -157,6 +163,11 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
           <span className="text-sm capitalize text-ink-soft">· {t.moments[recipe.moment]}</span>
         </div>
         <p lang={contentLocale} dir={localeDirection(contentLocale)} className="text-lg leading-relaxed text-ink-soft">{recipe.summary}</p>
+        <p className="text-sm text-ink-soft">
+          <Link href={informationHref(locale, "politica-editorial")} className="underline">{trustUi[locale].editor}</Link>
+          {recipe.updatedAt && <> · <time dateTime={recipe.updatedAt}>{recipe.updatedAt}</time></>}
+          {" · "}<Link href={informationHref(locale, "contacto")} className="underline">{trustUi[locale].contact}</Link>
+        </p>
         {contentLocale !== locale && <p className="text-sm text-ink-soft">{translationPending[locale]}</p>}
       </header>
 
@@ -238,17 +249,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
       )}
 
       <section className="grid gap-8 md:grid-cols-[0.9fr_1.1fr]">
-        <div className="rounded-[var(--radius-xl2)] border border-line bg-card p-5 shadow-[var(--shadow-card)] md:sticky md:top-28 md:self-start">
-          <h2 className="font-display text-xl text-ink">{t.recipe.ingredients}</h2>
-          <ul className="mt-3 space-y-2">
-            {recipe.ingredients.map((i, idx) => (
-              <li key={idx} className="flex gap-2.5 text-base text-ink-soft">
-                <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-terracota" />
-                <span lang={contentLocale} dir={localeDirection(contentLocale)}>{i.text}{i.optional ? <em className="text-ink-faint"> ({t.recipe.optional})</em> : ""}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
+        <RecipeIngredients key={recipe.id} ingredients={recipe.ingredients} servings={recipe.servings} locale={locale} contentLocale={contentLocale} />
         <div>
           <h2 className="font-display text-xl text-ink">{t.recipe.preparation}</h2>
           <ol className="mt-3 space-y-4">
@@ -272,6 +273,14 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
         <ul lang={contentLocale} dir={localeDirection(contentLocale)} className="mt-3 space-y-2 leading-relaxed text-ink-soft">{recipe.tips.map((tip, index) => <li key={index}>{tip}</li>)}</ul>
       </section>}
 
+      {guide && <section className="space-y-5 rounded-[var(--radius-xl2)] border border-line bg-card p-5">
+        <h2 className="font-display text-2xl text-ink">{guide.title}</h2>
+        {guide.sections.map(section => <div key={section.title} className="space-y-2">
+          <h3 className="font-display text-xl text-ink">{section.title}</h3>
+          <p className="leading-relaxed text-ink-soft">{section.text}</p>
+        </div>)}
+      </section>}
+
       <section className="rounded-[var(--radius-xl2)] border border-line-soft bg-paper-2/50 p-5">
         <h2 className="eyebrow text-ink-faint">{t.recipe.sources}</h2>
         <ul className="mt-2 space-y-1 text-sm text-ink-soft">
@@ -284,7 +293,7 @@ export default async function RecipePage({ params }: { params: Promise<{ locale:
           <div>
             <p className="eyebrow text-terracota">{t.recipe.relatedEyebrow}</p>
             <h2 className="font-display text-2xl text-ink">
-              {place ? t.recipe.relatedTitle(translatePlaceName(place, locale)) : t.recipe.relatedTitleGeneric}
+              {place ? t.recipe.relatedTitle(translatePlaceName(breadcrumb[0] ?? place, locale)) : t.recipe.relatedTitleGeneric}
             </h2>
           </div>
           <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">

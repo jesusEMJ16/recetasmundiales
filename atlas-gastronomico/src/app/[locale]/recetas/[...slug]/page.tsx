@@ -25,16 +25,16 @@ import { translateRecipe } from "../../../../i18n/recipe-content";
 import { placePathSlugs } from "../../../../domain/places";
 import { absoluteUrl } from "../../../../site";
 
-const VALID_SORTS: SortKey[] = ["estrellas", "recientes", "populares", "rapidas", "alfabetico"];
+const VALID_SORTS: SortKey[] = ["recientes", "rapidas", "alfabetico"];
 
 export function generateStaticParams() {
   const counts = buildRecipeCounts(PLACES, RECIPES);
   return locales.flatMap((locale) =>
-    PLACES.filter(p => p.type === "pais" || (counts.get(p.id) ?? 0) > 0).map((p) => ({ locale, slug: placePathSlugs(p, PLACES) })),
+    PLACES.filter(p => (counts.get(p.id) ?? 0) > 0).map((p) => ({ locale, slug: placePathSlugs(p, PLACES) })),
   );
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string[] }> }): Promise<Metadata> {
+export async function generateMetadata({ params, searchParams }: { params: Promise<{ locale: string; slug: string[] }>; searchParams?: Promise<Record<string, string | string[] | undefined>> }): Promise<Metadata> {
   const { locale, slug } = await params;
   if (!isLocale(locale)) return {};
   
@@ -46,8 +46,11 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const localeInfo = localeMeta[locale];
   const placeName = translatePlaceName(place, locale);
   const recipes = getRecipesForPlace(place.id, PLACES, RECIPES);
+  const query = searchParams ? await searchParams : {};
+  const hasFilters = ["sort", "momento", "tiempo", "dieta"].some(key => query[key] !== undefined);
   
   return {
+    robots: { index: recipes.length > 0 && !hasFilters, follow: true },
     title: t.place.title(placeName),
     description: `${t.place.kind[place.type]} · ${t.place.recipes(recipes.length)}. ${t.home.subtitle}`,
     alternates: {
@@ -86,7 +89,7 @@ export default async function PlacePage({
   const place = resolvePlacePath(slug, PLACES);
   if (!place) notFound();
 
-  const sort: SortKey = VALID_SORTS.includes(sp.sort as SortKey) ? (sp.sort as SortKey) : "estrellas";
+  const sort: SortKey = VALID_SORTS.includes(sp.sort as SortKey) ? (sp.sort as SortKey) : "alfabetico";
 
   const allHere = getRecipesForPlace(place.id, PLACES, RECIPES);
   const filtered = filterRecipes(allHere, {
@@ -105,7 +108,7 @@ export default async function PlacePage({
     name: translatePlaceName(c, locale),
     href: placeHref(locale, c),
     count: getRecipesForPlace(c.id, PLACES, RECIPES).length,
-  }));
+  })).filter(item => item.count > 0);
 
   // Build breadcrumb schema for place pages (must be inside component to access variables)
   const breadcrumbSchema = {
@@ -178,14 +181,14 @@ export default async function PlacePage({
       )}
 
       <section className="space-y-4">
-        <Suspense fallback={null}>
+        {allHere.length > 0 && <Suspense fallback={null}>
           <FilterControls />
-        </Suspense>
+        </Suspense>}
         <div className="flex flex-wrap items-center justify-between gap-3">
           <p className="text-sm font-semibold text-ink">{t.place.recipes(recipes.length)}</p>
-          <Suspense fallback={null}>
+          {allHere.length > 0 && <Suspense fallback={null}>
             <SortControls current={sort} />
-          </Suspense>
+          </Suspense>}
         </div>
 
         {allHere.length === 0 ? (

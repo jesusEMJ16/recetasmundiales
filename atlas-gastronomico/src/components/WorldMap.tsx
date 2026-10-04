@@ -15,6 +15,7 @@ import { getDictionary } from "../i18n/dictionaries";
 import { placeHref } from "../i18n/routing";
 import { translatePlaceName } from "../i18n/content";
 import { siteUi } from "../i18n/site-ui";
+import { trustUi } from "../i18n/trust-ui";
 import type { Place } from "../domain/types";
 
 const BY_ID = new Map(PLACES.map(p => [p.id, p]));
@@ -41,6 +42,7 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
   const [regionAttempt, setRegionAttempt] = useState(0);
   const [expanded, setExpanded] = useState(false);
   const [query, setQuery] = useState("");
+  const [showEmpty, setShowEmpty] = useState(false);
   const locale = useLocale();
   const router = useRouter();
   const t = getDictionary(locale);
@@ -52,10 +54,10 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
     setQuery("");
   }, []);
   const items = useMemo(() => {
-    const places = COUNTRIES;
+    const places = showEmpty || query.trim() ? COUNTRIES : COUNTRIES.filter(p => (COUNTS.get(p.id) ?? 0) > 0);
     return places.filter(p => normalize(translatePlaceName(p, locale)).includes(normalize(query)) || p.countryCode.toLowerCase() === query.toLowerCase())
       .sort((a,b) => (COUNTS.get(b.id)! - COUNTS.get(a.id)!) || translatePlaceName(a,locale).localeCompare(translatePlaceName(b,locale),locale));
-  }, [query, locale]);
+  }, [query, locale, showEmpty]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -250,7 +252,7 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
       <div className="atlas-toolbar">
         <div className="atlas-title"><Compass size={20} aria-hidden="true" />{selected ? translatePlaceName(selected,locale) : t.home.mapTitle}<span className="atlas-total">{selected ? t.place.recipes(COUNTS.get(selected.id) ?? 0) : ui.countries(195)}</span></div>
         <div className="atlas-actions">
-          {selected && <Link className="atlas-recipes-link" href={placeHref(locale,selected)}>{ui.allRecipes}<ArrowUpRight size={15} aria-hidden="true"/></Link>}
+          {selected && (COUNTS.get(selected.id) ?? 0) > 0 && <Link className="atlas-recipes-link" href={placeHref(locale,selected)}>{ui.allRecipes}<ArrowUpRight size={15} aria-hidden="true"/></Link>}
           <button className="atlas-reset" type="button" onClick={()=>selectCountry(null)} disabled={status!=="ready"}><Globe2 size={16} aria-hidden="true" />{t.map.reset.replace(/^\S+\s/,"")}</button>
           <button className="icon-button" type="button" onClick={()=>setExpanded(v=>!v)} aria-pressed={expanded} aria-label={expanded?ui.reduce:ui.expand}>{expanded?<Minimize2 size={17}/>:<Maximize2 size={17}/>}</button>
         </div>
@@ -264,7 +266,8 @@ export function WorldMap({ initialCountryCode }: { initialCountryCode?: string }
         {!selected && <aside className="atlas-sidebar" aria-label={t.home.countriesTitle}>
           <div className="atlas-sidebar-heading">
             <h3>{t.home.countriesEyebrow}</h3>
-            <p>{ui.countriesWithOrWithout(195)}</p>
+            <p>{showEmpty ? ui.countriesWithOrWithout(195) : trustUi[locale].publishedCountries}</p>
+            <label className="mt-2 flex gap-2 text-xs"><input type="checkbox" checked={showEmpty} onChange={event => setShowEmpty(event.target.checked)} />{trustUi[locale].showEmpty}</label>
             <label className="atlas-list-search"><Search size={16} aria-hidden="true"/><input value={query} onChange={e=>setQuery(e.target.value)} aria-label={ui.searchCountry} placeholder={ui.searchCountryPlaceholder}/></label>
           </div>
           <div className="atlas-country-list">

@@ -26,9 +26,9 @@ describe("getRelatedRecipes", () => {
   it("excludes the current recipe", () => {
     expect(getRelatedRecipes(current, all).some((r) => r.id === "cur")).toBe(false);
   });
-  it("prioritizes same-state recipes (by popularity) first", () => {
+  it("prioritizes same-state recipes first", () => {
     const out = getRelatedRecipes(current, all, 6);
-    expect(out[0].id).toBe("oax1"); // same state, highest pop among state
+    expect(out[0].id).toBe("oax1");
     expect(out.slice(0, 2).map((r) => r.id).sort()).toEqual(["oax1", "oax2"]);
   });
   it("does not duplicate a recipe that matches multiple buckets", () => {
@@ -37,5 +37,8 @@ describe("getRelatedRecipes", () => {
   });
   it("respects the limit", () => {
     expect(getRelatedRecipes(current, all, 2).length).toBe(2);
+  });
+  it("does not add matching moments from other countries", () => {
+    expect(getRelatedRecipes(current, all).map(recipe => recipe.id)).toEqual(["oax1", "oax2", "jal1"]);
   });
 });

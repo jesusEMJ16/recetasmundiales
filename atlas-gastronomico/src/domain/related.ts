@@ -4,24 +4,26 @@ function countryOf(placeId: string): string {
   return placeId.split("-")[0];
 }
 
-function byPopularity(a: Recipe, b: Recipe): number {
-  return b.popularityScore - a.popularityScore;
+function byName(a: Recipe, b: Recipe): number {
+  return a.dishName.localeCompare(b.dishName, "es");
 }
 
 /**
  * Related recipes to keep the reader exploring. Priority:
- *  1) same place (state), 2) same moment elsewhere, 3) same country.
+ *  1) same place, 2) same moment within the country, 3) same country.
+ * Never fill a geographic recommendation with dishes from another country.
  * De-duplicated, excludes the current recipe, capped at `limit`.
  */
 export function getRelatedRecipes(current: Recipe, all: Recipe[], limit = 6): Recipe[] {
-  const others = all.filter((r) => r.id !== current.id);
-  const sameState = others.filter((r) => r.placeId === current.placeId).sort(byPopularity);
+  if (limit <= 0) return [];
+  const others = all.filter((r) => r.id !== current.id && countryOf(r.placeId) === countryOf(current.placeId));
+  const sameState = others.filter((r) => r.placeId === current.placeId).sort(byName);
   const sameMoment = others
     .filter((r) => r.placeId !== current.placeId && r.moment === current.moment)
-    .sort(byPopularity);
+    .sort(byName);
   const sameCountry = others
     .filter((r) => countryOf(r.placeId) === countryOf(current.placeId))
-    .sort(byPopularity);
+    .sort(byName);
 
   const seen = new Set<string>();
   const out: Recipe[] = [];

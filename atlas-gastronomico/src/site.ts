@@ -9,3 +9,6 @@ export function absoluteUrl(path: string): string {
 // Identificadores de Google compartidos por el layout y los anuncios.
 export const GA_MEASUREMENT_ID = "G-DMYV52GPVK";
 export const ADSENSE_CLIENT = "ca-pub-7181603320952752";
+// Keep ads off until both approval and the separate advertising consent setup are complete.
+export const ADSENSE_ENABLED = process.env.NEXT_PUBLIC_ADSENSE_ENABLED === "true"
+  && process.env.NEXT_PUBLIC_ADSENSE_CONSENT_CONFIGURED === "true";
