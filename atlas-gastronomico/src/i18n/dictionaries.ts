@@ -51,7 +51,7 @@ const es: Dictionary = {
     titleLead: "Explora el mundo",
     titleAccent: "cocinando",
     subtitle:
-      "Del mapa a la cocina de cualquier país, estado, pueblo o ciudad. Recetas con procedencia, ordenadas por estrellas, novedad o tiempo.",
+      "Del mapa a la cocina de cualquier país, estado, pueblo o ciudad. Recetas con procedencia, ordenadas por nombre, fecha o tiempo.",
     searchPlaceholder: "Busca un platillo, estado o ciudad…",
     mapEyebrow: "El mapa",
     mapTitle: "Explora el mundo",
@@ -127,7 +127,7 @@ const en: Dictionary = {
     titleLead: "Explore the world",
     titleAccent: "by cooking",
     subtitle:
-      "From the map to the kitchen of any country, state, town or city. Recipes with provenance, sorted by stars, newest or time.",
+      "From the map to the kitchen of any country, state, town or city. Recipes with provenance, sorted by name, date or time.",
     searchPlaceholder: "Search a dish, state or city…",
     mapEyebrow: "The map",
     mapTitle: "Explore the world",
@@ -204,7 +204,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "世界美食地图",
       titleLead: "探索世界",
       titleAccent: "通过烹饪",
-      subtitle: "从地图到任何国家、省份、城镇或城市的厨房。按星级、最新或时间排序的食谱。",
+      subtitle: "从地图到任何国家、省份、城镇或城市的厨房。按名称、日期或时间排序的食谱。",
       searchPlaceholder: "搜索菜肴、省份或城市…",
       mapEyebrow: "地图",
       mapTitle: "探索世界",
@@ -277,7 +277,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "विश्व पाकपत्रिका",
       titleLead: "दुनिया का अन्वेषण करें",
       titleAccent: "खाना बनाकर",
-      subtitle: "किसी भी देश, राज्य, शहर या कस्बे के नक्शे से रसोई तक। तारों, नवीनता या समय के अनुसार छांटे गए व्यंजन।",
+      subtitle: "किसी भी देश, राज्य, शहर या कस्बे के नक्शे से रसोई तक। नाम, तारीख या समय के अनुसार छांटे गए व्यंजन।",
       searchPlaceholder: "किसी व्यंजन, राज्य या शहर को खोजें…",
       
       mapEyebrow: "नक्शा",
@@ -351,7 +351,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "Atlas Gastronomique Mondial",
       titleLead: "Explorez le monde",
       titleAccent: "en cuisinant",
-      subtitle: "De la carte à la cuisine de n'importe quel pays, état, ville ou village. Recettes avec provenance, triées par étoiles, nouveauté ou temps.",
+      subtitle: "De la carte à la cuisine de n'importe quel pays, état, ville ou village. Recettes avec provenance, triées par nom, date ou temps.",
       searchPlaceholder: "Recherchez un plat, un état ou une ville…",
       
       mapEyebrow: "La carte",
@@ -425,7 +425,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "أطلس الطهي العالمي",
       titleLead: "استكشف العالم",
       titleAccent: "من خلال الطهي",
-      subtitle: "من الخريطة إلى مطبخ أي بلد أو ولاية أو مدينة أو بلدة. وصفات مع المصدر، مرتبة حسب النجوم أو الأحدث أو الوقت.",
+      subtitle: "من الخريطة إلى مطبخ أي بلد أو ولاية أو مدينة أو بلدة. وصفات مع المصدر، مرتبة حسب الاسم أو التاريخ أو الوقت.",
       searchPlaceholder: "ابحث عن طبق أو ولاية أو مدينة…",
       
       mapEyebrow: "الخريطة",
@@ -499,7 +499,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "বিশ্ব রান্নার মানচিত্র",
       titleLead: "বিশ্ব অনুসন্ধান করুন",
       titleAccent: "রান্না করে",
-      subtitle: "যেকোনো দেশ, রাজ্য, শহর বা গ্রামের মানচিত্র থেকে রান্নাঘরে। তারকা, নতুনত্ব বা সময় অনুযায়ী সাজানো রেসিপি।",
+      subtitle: "যেকোনো দেশ, রাজ্য, শহর বা গ্রামের মানচিত্র থেকে রান্নাঘরে। নাম, তারিখ বা সময় অনুযায়ী সাজানো রেসিপি।",
       searchPlaceholder: "কোনো পদ, রাজ্য বা শহর খুঁজুন…",
       
       mapEyebrow: "মানচিত্র",
@@ -573,7 +573,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "Atlas Gastronômico Mundial",
       titleLead: "Explore o mundo",
       titleAccent: "cozinhando",
-      subtitle: "Do mapa para a cozinha de qualquer país, estado, cidade ou vila. Receitas com procedência, ordenadas por estrelas, novidade ou tempo.",
+      subtitle: "Do mapa para a cozinha de qualquer país, estado, cidade ou vila. Receitas com procedência, ordenadas por nome, data ou tempo.",
       searchPlaceholder: "Busque um prato, estado ou cidade…",
       
       mapEyebrow: "O mapa",
@@ -647,7 +647,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "Всемирный Гастрономический Атлас",
       titleLead: "Исследуйте мир",
       titleAccent: "готовя",
-      subtitle: "От карты до кухни любой страны, штата, города или поселка. Рецепты с происхождением, отсортированные по звездам, новизне или времени.",
+      subtitle: "От карты до кухни любой страны, штата, города или поселка. Рецепты с происхождением, отсортированные по названию, дате или времени.",
       searchPlaceholder: "Найдите блюдо, штат или город…",
       
       mapEyebrow: "Карта",
@@ -721,7 +721,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "عالمی غذائی اطلس",
       titleLead: "دنیا کی تلاش کریں",
       titleAccent: "کھانا بنا کر",
-      subtitle: "کسی بھی ملک، ریاست، شہر یا قصبے کے نقشے سے کچن تک۔ ستاروں، نیاپن یا وقت کے لحاظ سے ترتیب دی گئی ترکیبیں۔",
+      subtitle: "کسی بھی ملک، ریاست، شہر یا قصبے کے نقشے سے کچن تک۔ نام، تاریخ یا وقت کے لحاظ سے ترتیب دی گئی ترکیبیں۔",
       searchPlaceholder: "کسی پکوان، ریاست یا شہر کو تلاش کریں…",
       
       mapEyebrow: "نقشہ",
@@ -795,7 +795,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "Atlas Gastronomi Dunia",
       titleLead: "Jelajahi dunia",
       titleAccent: "dengan memasak",
-      subtitle: "Dari peta ke dapur negara, negara bagian, kota atau desa mana pun. Resep dengan asal-usul, diurutkan berdasarkan bintang, terbaru atau waktu.",
+      subtitle: "Dari peta ke dapur negara, negara bagian, kota atau desa mana pun. Resep dengan asal-usul, diurutkan berdasarkan nama, tanggal atau waktu.",
       searchPlaceholder: "Cari hidangan, negara bagian atau kota…",
       
       mapEyebrow: "Peta",
@@ -869,7 +869,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "世界美食地図",
       titleLead: "世界を探検しよう",
       titleAccent: "料理を通して",
-      subtitle: "あらゆる国、州、都市、町の地図からキッチンへ。星評価、新着、時間で並べ替えられたレシピ。",
+      subtitle: "あらゆる国、州、都市、町の地図からキッチンへ。名前、日付、時間で並べ替えられたレシピ。",
       searchPlaceholder: "料理、州、都市を検索…",
       
       mapEyebrow: "マップ",

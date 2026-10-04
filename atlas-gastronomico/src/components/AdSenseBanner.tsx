@@ -2,9 +2,9 @@
 
 import { useEffect } from "react";
 import { usePathname } from "next/navigation";
-import { ADSENSE_CLIENT } from "../site";
+import { ADSENSE_CLIENT, ADSENSE_ENABLED } from "../site";
 
-// adsbygoogle.js se carga una sola vez en app/layout.tsx.
+// The script is loaded only on recipe pages by AdSenseLoader after explicit configuration.
 declare global {
   interface Window {
     adsbygoogle?: object[];
@@ -25,14 +25,18 @@ export default function AdSenseBanner({
   className = "my-4" 
 }: AdSenseProps) {
   const pathname = usePathname();
+  const enabled = ADSENSE_ENABLED && /^\/[a-z]{2}\/receta\/[^/]+$/.test(pathname);
 
   useEffect(() => {
+    if (!enabled) return;
     try {
       (window.adsbygoogle = window.adsbygoogle || []).push({});
     } catch (e) {
       console.warn("AdSense error:", e);
     }
-  }, [pathname, slot]);
+  }, [pathname, slot, enabled]);
+
+  if (!enabled) return null;
 
   return (
     <div className={`${className} w-full flex justify-center`}>

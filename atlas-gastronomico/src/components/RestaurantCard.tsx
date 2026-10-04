@@ -1,6 +1,5 @@
 import { Restaurant } from "@/domain/types";
 import { Locale } from "@/i18n/config";
-import { siteUi } from "@/i18n/site-ui";
 import { translateRestaurant } from "@/i18n/content/restaurants";
 
 interface RestaurantCardProps {
@@ -31,13 +30,6 @@ export default function RestaurantCard({ restaurant: source, locale }: Restauran
           </div>
         )}
         
-        {/* Badge de destacado */}
-        {restaurant.isFeatured && (
-          <div className="absolute top-3 right-3 bg-yellow-400 text-yellow-900 px-3 py-1 rounded-full text-xs font-bold shadow-lg">
-            ⭐ {siteUi[locale].restaurants.featuredBadge}
-          </div>
-        )}
-        
         {/* Precio */}
         <div className="absolute bottom-3 left-3 bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm px-3 py-1.5 rounded-full text-sm font-semibold text-gray-900 dark:text-white shadow-md">
           {priceDisplay}
@@ -50,14 +42,7 @@ export default function RestaurantCard({ restaurant: source, locale }: Restauran
           <h3 className="text-lg font-bold text-gray-900 dark:text-white group-hover:text-orange-600 dark:group-hover:text-orange-400 transition-colors line-clamp-1">
             {restaurant.name}
           </h3>
-          {restaurant.rating && (
-            <div className="flex items-center gap-1 ml-2 flex-shrink-0">
-              <span className="text-yellow-500">⭐</span>
-              <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">
-                {restaurant.rating.toFixed(1)}
-              </span>
-            </div>
-          )}
+
         </div>
         
         <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 line-clamp-2">

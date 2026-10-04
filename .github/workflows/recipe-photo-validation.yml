@@ -103,6 +103,7 @@ jobs:
             sleep 1
           done
           node scripts/verify-recipe-images.cjs 2>&1 | tee ../image-validation/browser.txt
+          node scripts/verify-publishing.cjs 2>&1 | tee ../image-validation/publishing.txt
       - uses: actions/upload-artifact@v4
         if: always()
         with:

@@ -6,6 +6,7 @@ import { getRecipeLocales } from '../i18n/recipe-content';
 import { buildRecipeCounts } from '../domain/atlas';
 import { placePathSlugs } from '../domain/places';
 import { SITE_URL as BASE_URL } from '../site';
+import { informationSlugs, informationUpdatedAt } from '../data/site-information';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const sitemapEntries: MetadataRoute.Sitemap = [];
@@ -23,13 +24,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1.0,
     });
 
-    // Página de restaurantes por idioma
-    sitemapEntries.push({
-      url: `${BASE_URL}/${locale}/restaurantes`,
-      lastModified: catalogUpdatedAt,
-      changeFrequency: 'weekly',
-      priority: 0.8,
-    });
+    if (locale === 'es' || locale === 'en') {
+      informationSlugs.forEach(slug => sitemapEntries.push({
+        url: `${BASE_URL}/${locale}/informacion/${slug}`,
+        lastModified: new Date(informationUpdatedAt), changeFrequency: 'monthly', priority: 0.3,
+      }));
+    }
 
     // Páginas de lugares (países y estados)
     // Keep the sitemap below protocol limits and avoid indexing empty catalogs.
