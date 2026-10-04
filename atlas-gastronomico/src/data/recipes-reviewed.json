@@ -6,7 +6,7 @@
     "placeId": "mx-oax",
     "summary": "Tortilla grande y crujiente con asiento, frijol, quesillo y tasajo.",
     "history": "Platillo emblemático de los valles centrales de Oaxaca, vendido en mercados y esquinas al anochecer.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 15,
@@ -60,7 +60,7 @@
       "Usa una capa fina de frijoles para mantener la tortilla crujiente."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mole-negro",
@@ -134,7 +134,7 @@
       "Añade el chocolate en pequeñas porciones y prueba: algunas tablillas contienen mucha azúcar."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-chiles-nogada",
@@ -218,7 +218,7 @@
     "placeId": "mx-jal",
     "summary": "Guiso de carne en adobo de chiles, servido con consomé y tortillas.",
     "history": "Originaria de Jalisco; hoy popular en tacos dorados en caldo.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 180,
@@ -279,7 +279,7 @@
     "tips": [
       "La carne está lista cuando se separa con un tenedor; si aún está firme, continúa a hervor suave."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-gumbo",
@@ -288,7 +288,7 @@
     "placeId": "us-la",
     "summary": "Guiso de Luisiana con pollo, andouille y verduras, espesado con un roux oscuro de harina y aceite.",
     "history": "Plato insignia de Luisiana con influencias africanas, francesas y criollas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 90,
@@ -351,7 +351,7 @@
       "Remueve el roux sin alejarte de la olla: pasa de tostado a quemado en poco tiempo."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-brisket",
@@ -360,7 +360,7 @@
     "placeId": "us-tx",
     "summary": "Pecho de res ahumado lento con corteza de pimienta y sal.",
     "history": "Pilar del BBQ texano, cocido durante horas a baja temperatura.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 20,
     "cookTimeMin": 600,
@@ -398,7 +398,7 @@
     "tips": [
       "La temperatura es una guía; la resistencia de la sonda y el reposo determinan la textura al rebanar."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pizza",
@@ -468,7 +468,7 @@
     "placeId": "it-laz",
     "summary": "Pasta romana con pecorino y pimienta negra emulsionados.",
     "history": "Clásico de la cocina romana por su sencillez y tres ingredientes.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 5,
     "cookTimeMin": 12,
@@ -508,7 +508,7 @@
       "Incorpora el queso fuera del fuego y usa agua tibia para evitar que se formen grumos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-okonomiyaki",
@@ -517,7 +517,7 @@
     "placeId": "jp-osk",
     "summary": "Tortilla salada de col con salsa, mayonesa y katsuobushi.",
     "history": "Comida callejera de Osaka; su nombre significa 'a la plancha como quieras'.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 15,
     "cookTimeMin": 15,
@@ -572,7 +572,7 @@
       "No aplastes la tortita con la espátula: el vapor ayuda a cocinar la col del interior."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-ramen",
@@ -633,7 +633,7 @@
       "Cuece los fideos al final y sirve enseguida para que no absorban demasiado caldo."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-padthai",
@@ -705,7 +705,7 @@
       "Ten todos los ingredientes medidos antes de calentar el wok: la cocción es rápida."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-khaosoi",
@@ -714,7 +714,7 @@
     "placeId": "th-cnx",
     "summary": "Curry cremoso del norte con fideos, pollo y fideos fritos encima.",
     "history": "Especialidad de Chiang Mai con influencia birmana y del comercio.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 20,
     "cookTimeMin": 30,
@@ -773,7 +773,7 @@
       "Prueba la pasta de curry antes de salar porque su concentración varía según la marca."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-tacos-pastor",
@@ -962,7 +962,7 @@
       "No elimines todos los grumos de la masa; mezclar demasiado endurece los pancakes."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mochi",
@@ -971,7 +971,7 @@
     "placeId": "jp-tky",
     "summary": "Masa de arroz glutinoso rellena de anko y fresa.",
     "history": "Dulce japonés (wagashi) popular en primavera.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -1020,7 +1020,7 @@
       "La masa caliente puede quemar y es muy pegajosa: deja que se temple antes de manipularla."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-guacamole",
@@ -1146,7 +1146,7 @@
       "Golpea suavemente la papaya para que absorba el aliño sin perder su textura crujiente."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-jambalaya",
@@ -1155,7 +1155,7 @@
     "placeId": "us-la",
     "summary": "Arroz criollo cocido con pollo, salchicha y camarón.",
     "history": "Plato criollo de Luisiana emparentado con la paella y el jollof.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 45,
@@ -1214,7 +1214,7 @@
     "tips": [
       "No remuevas constantemente el arroz durante la cocción para evitar que se vuelva pastoso."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-cemita",
@@ -1223,7 +1223,7 @@
     "placeId": "mx-pue",
     "summary": "Torta poblana con pan de ajonjolí, milanesa, quesillo y pápalo.",
     "history": "Antojito clásico de Puebla vendido en mercados.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 20,
     "cookTimeMin": 15,
@@ -1273,7 +1273,7 @@
       "Usa pápalo con moderación al principio: su aroma es intenso."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-machaca-huevo",
@@ -1282,7 +1282,7 @@
     "placeId": "mx-son",
     "summary": "Carne de res seca y deshebrada guisada con huevo, tomate, cebolla y chile, base del desayuno sonorense.",
     "history": "Nació de la necesidad de conservar la carne en el desierto: se salaba, se secaba al sol y se machacaba en molcajete. Ese producto seco, la machaca, se convirtió en pilar del desayuno ranchero del noroeste, especialmente en Sonora, donde se sirve con tortillas de harina recién hechas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 15,
@@ -1333,7 +1333,7 @@
       "Prueba la machaca antes de añadir sal: la carne seca puede salar por sí sola toda la mezcla."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-caldo-queso",
@@ -1342,7 +1342,7 @@
     "placeId": "mx-son",
     "summary": "Caldo ligero de papa y chile verde con leche y cubos de queso fresco regional que se funden al servir.",
     "history": "Platillo humilde y reconfortante de la sierra y los valles de Sonora, cocinado con lo que había a la mano: papa, chile verde asado y el queso fresco de las rancherías. Es comida de todos los días que aprovecha el queso regional y se acompaña con tortilla de harina.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 25,
@@ -1398,7 +1398,7 @@
       "Añade el queso al plato y vierte encima el caldo caliente para que conserve trozos suaves."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-coyotas",
@@ -1407,7 +1407,7 @@
     "placeId": "mx-son",
     "summary": "Empanadas planas de harina rellenas de piloncillo, doradas al horno, típicas de Hermosillo.",
     "history": "Estas galletas-empanada son originarias de Villa de Seris, hoy parte de Hermosillo, donde familias de panaderas las popularizaron. Su nombre se asocia al mestizaje de la región y su relleno clásico de piloncillo refleja la repostería norteña hecha con harina de trigo.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 40,
     "cookTimeMin": 20,
@@ -1457,7 +1457,7 @@
       "Deja reposar la masa 20 minutos antes de estirarla y sella bien para evitar que se escape el piloncillo."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-chilorio",
@@ -1466,7 +1466,7 @@
     "placeId": "mx-sin",
     "summary": "Carne de cerdo deshebrada y frita en un adobo de chiles secos, ajo y especias, típica de Sinaloa.",
     "history": "El chilorio surgió como método de conservación en Sinaloa: la carne de cerdo cocida se deshebraba y se guisaba en adobo con abundante manteca, lo que permitía guardarla por semanas. Hoy es un guiso emblemático que se come en tacos y burritos de tortilla de harina.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 25,
     "cookTimeMin": 90,
@@ -1520,7 +1520,7 @@
       "Reserva caldo de cocción y añade unas cucharadas si el adobo se seca antes de integrarse."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-aguachile",
@@ -1582,7 +1582,7 @@
       "Añade el limón poco antes de servir para conservar la textura del pepino y la cebolla."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-cabrito-pastor",
@@ -1591,7 +1591,7 @@
     "placeId": "mx-nle",
     "summary": "Cabrito lechal ensartado en varilla y asado lentamente al calor del carbón, ícono de Monterrey.",
     "history": "El cabrito llegó al noreste con la ganadería caprina introducida por colonos sefardíes y españoles. En Nuevo León se consolidó como platillo de celebración: el cabrito lechal se abre, se ensarta en una varilla y se asa vertical frente a las brasas hasta que la piel queda dorada y crujiente.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 150,
@@ -1640,7 +1640,7 @@
       "Utiliza calor indirecto y un termómetro: las piezas gruesas deben alcanzar al menos 63 °C y reposar 3 minutos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-frijoles-charros",
@@ -1700,7 +1700,7 @@
       "El tiempo de cocción del frijol seco varía con su edad; añade agua caliente si el nivel baja antes de que ablande."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-discada",
@@ -1760,7 +1760,7 @@
       "Dora las carnes por tandas: amontonarlas enfría el disco y hace que hiervan en sus jugos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-asado-puerco",
@@ -1769,7 +1769,7 @@
     "placeId": "mx-chh",
     "summary": "Cerdo guisado en salsa de chile colorado con especias, servido en fiestas y comidas familiares.",
     "history": "También llamado asado rojo, es un guiso festivo de Chihuahua en que la carne de cerdo se cuece en un adobo de chiles secos de la región. Se prepara para bodas, bautizos y reuniones y se acompaña con arroz y tortillas de harina.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 25,
     "cookTimeMin": 75,
@@ -1824,7 +1824,7 @@
       "Disuelve 1 cucharada de harina en 2 de agua fría antes de añadirla para evitar grumos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-caldillo-durango",
@@ -1833,7 +1833,7 @@
     "placeId": "mx-dur",
     "summary": "Guiso caldoso de carne de res con chile verde y jitomate, platillo insignia de Durango.",
     "history": "El caldillo es el platillo más representativo de Durango, herencia de la vida ranchera del semidesierto. En su versión clásica se prepara con carne seca o fresca de res, chile verde asado y jitomate, formando un caldo ligero que se come con tortilla de harina.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 40,
@@ -1887,7 +1887,7 @@
       "Empieza con 1 litro de caldo y añade más si necesitas una textura más caldosa; el corte de res determina el tiempo final."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-asado-boda",
@@ -1896,7 +1896,7 @@
     "placeId": "mx-zac",
     "summary": "Cerdo en salsa agridulce de chiles secos con chocolate y especias, guiso ceremonial de Zacatecas.",
     "history": "El asado de boda es el gran platillo de fiesta de Zacatecas, servido tradicionalmente en bodas y compromisos como ofrenda de la familia del novio. Su salsa espesa combina chiles colorado y guajillo con chocolate, cáscara de naranja y especias, resultado de la mezcla de sabores dulces y ahumados del centro-norte.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 90,
@@ -1949,7 +1949,7 @@
       "Añade una tira fina de cáscara de naranja sin la parte blanca para evitar un amargor excesivo."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-carne-asada",
@@ -2010,7 +2010,7 @@
       "Mide 63 °C en la parte más gruesa de la carne y deja reposar 3 minutos antes de cortarla contra la fibra."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-tacos-pescado",
@@ -2019,7 +2019,7 @@
     "placeId": "mx-bcn",
     "summary": "Pescado capeado y frito en tortilla de maíz con col, crema, salsa y limón, sello de Ensenada.",
     "history": "Los tacos de pescado capeado son emblema de la costa de Baja California, especialmente de Ensenada. Combinan el pescado blanco rebozado y frito con aderezos frescos como col rallada, crema y salsas cítricas, reflejo de la abundancia pesquera del Pacífico y el ingenio de los puestos callejeros.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 15,
@@ -2071,20 +2071,20 @@
       "Mantén la cerveza fría y fríe por tandas a 175-180 °C; comprueba que el pescado llegue a 63 °C."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-almejas-tatemadas",
     "dishName": "Almejas tatemadas",
     "slug": "almejas-tatemadas",
     "placeId": "mx-bcs",
-    "summary": "Almejas chocolatas asadas al calor de brasas y ramas aromáticas, especialidad de Loreto.",
-    "history": "Las almejas tatemadas son un platillo ancestral de Loreto, Baja California Sur, cuyo consumo de moluscos se remonta a época prehispánica, como atestiguan los concheros de la región. Las almejas chocolatas se entierran en gravilla y se cubren con ramas de chamizo o romerillo que, al arder, les dan un característico sabor ahumado.",
-    "originConfidence": "confirmed",
+    "summary": "Almejas chocolatas a la parrilla: una adaptación doméstica del platillo asociado con Loreto.",
+    "history": "Las almejas tatemadas se asocian con Loreto, Baja California Sur. Esta versión doméstica utiliza una parrilla apta para alimentos y no reproduce el método con gravilla y ramas. El punto de cocción se comprueba por la apertura de las conchas y la carne cocinada.",
+    "originConfidence": "modern_variant",
     "servings": 4,
     "prepTimeMin": 15,
-    "cookTimeMin": 40,
-    "totalTimeMin": 55,
+    "cookTimeMin": 15,
+    "totalTimeMin": 30,
     "difficulty": "media",
     "moment": "comida",
     "diet": [
@@ -2094,9 +2094,6 @@
     "ingredients": [
       {
         "text": "12 almejas chocolatas frescas"
-      },
-      {
-        "text": "Ramas de chamizo o romerillo (o leña aromática)"
       },
       {
         "text": "Limones"
@@ -2109,10 +2106,10 @@
       }
     ],
     "steps": [
-      "Limpia bien las almejas y colócalas boca arriba sobre una cama de gravilla o parrilla.",
-      "Cúbrelas con las ramas de chamizo o romerillo.",
-      "Enciende las ramas y deja que el calor y el humo cuezan las almejas unos 40 minutos.",
-      "Retíralas cuando las conchas se abran y el interior esté cocido.",
+      "Lava y revisa las almejas; desecha las conchas rotas y las que permanezcan abiertas después de un golpecito.",
+      "Precalienta una parrilla apta para alimentos. No uses tierra, gravilla ni ramas desconocidas en esta adaptación doméstica.",
+      "Cocina las almejas hasta que sus conchas se abran. Descarta las que permanezcan cerradas después de cocinar.",
+      "Retira con pinzas y comprueba que la carne esté cocinada; no abras a la fuerza las conchas cerradas.",
       "Sirve con limón, sal y salsa picante."
     ],
     "ratingAvg": 4.6,
@@ -2128,7 +2125,7 @@
       "Usa almejas vivas de proveedor alimentario y descarta las rotas o las que permanezcan cerradas después de cocinar."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxn-carne-tampiquena",
@@ -2137,7 +2134,7 @@
     "placeId": "mx-tam",
     "summary": "Filete de res asado en tira acompañado de enchilada, rajas, frijoles y guacamole, creación de Tampico.",
     "history": "El platillo fue concebido en el siglo XX por el restaurantero tampiqueño Jose Inés Loredo, quien reunió en un solo plato un filete de res cortado a lo largo y asado con guarniciones representativas: una enchilada, rajas de chile, frijoles y guacamole. Se difundió por todo el país como platillo de restaurante.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 25,
     "cookTimeMin": 20,
@@ -2185,7 +2182,7 @@
       "Esta ficha parte de enchiladas, frijoles y guacamole preparados: caliéntalos antes de asar la carne."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-pollo-san-marcos",
@@ -2204,14 +2201,6 @@
     "diet": [
       "sin_gluten"
     ],
-    "nutrition": {
-      "calories": 385,
-      "protein": 32,
-      "carbohydrates": 18,
-      "fat": 22,
-      "fiber": 3,
-      "sodium": 520
-    },
     "ingredients": [
       {
         "text": "1 pollo entero en piezas"
@@ -2269,15 +2258,7 @@
     "placeId": "mx-gua",
     "summary": "Tortillas pasadas por salsa de guajillo, rellenas de queso y coronadas con papa y zanahoria doradas.",
     "history": "Antojo obrero de las minas de Guanajuato capital; se servía caliente y contundente a los trabajadores y hoy es emblema de la ciudad.",
-    "nutrition": {
-      "calories": 350,
-      "protein": 15,
-      "carbohydrates": 35,
-      "fat": 18,
-      "fiber": 4,
-      "sodium": 480
-    },
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 25,
@@ -2331,7 +2312,7 @@
       "Cuece las papas y zanahorias hasta que estén tiernas pero firmes antes de dorarlas."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-guacamayas",
@@ -2340,15 +2321,7 @@
     "placeId": "mx-gua",
     "summary": "Bolillo crujiente relleno de chicharrón de cerdo, pico de gallo y una salsa de chile de árbol muy picante.",
     "history": "Antojito callejero nacido en el barrio de San Juan de Dios en León hacia los años cincuenta; hoy tiene guacamayerías con décadas de tradición.",
-    "nutrition": {
-      "calories": 350,
-      "protein": 15,
-      "carbohydrates": 35,
-      "fat": 18,
-      "fiber": 4,
-      "sodium": 480
-    },
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 10,
@@ -2396,7 +2369,7 @@
       "Rellena los bolillos justo antes de servir para que el chicharrón conserve algo de textura."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-gorditas-queretanas",
@@ -2405,15 +2378,7 @@
     "placeId": "mx-que",
     "summary": "Gorditas gruesas de maíz martajado, rellenas de guisos y bañadas en salsa roja.",
     "history": "Herencia del semidesierto queretano, sobre todo de Tolimán y Bernal; en 2012 fueron declaradas Patrimonio Cultural Inmaterial del estado.",
-    "nutrition": {
-      "calories": 350,
-      "protein": 15,
-      "carbohydrates": 35,
-      "fat": 18,
-      "fiber": 4,
-      "sodium": 480
-    },
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -2461,7 +2426,7 @@
       "Haz las gorditas de grosor parejo y cocina a fuego medio para que el interior no quede crudo."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-enchiladas-potosinas",
@@ -2470,15 +2435,7 @@
     "placeId": "mx-slp",
     "summary": "Tortillas de masa amasada con chile ancho, rellenas de queso y cebolla, doradas en comal.",
     "history": "Antojito clásico de San Luis Potosí en el que el chile va dentro de la masa y no en una salsa aparte; se venden en cenadurías y ferias.",
-    "nutrition": {
-      "calories": 350,
-      "protein": 15,
-      "carbohydrates": 35,
-      "fat": 18,
-      "fiber": 4,
-      "sodium": 480
-    },
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 35,
     "cookTimeMin": 15,
@@ -2530,7 +2487,7 @@
       "Escurre bien los chiles antes de molerlos y añade el puré a la masa gradualmente para no humedecerla demasiado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-zacahuil",
@@ -2539,15 +2496,7 @@
     "placeId": "mx-slp",
     "summary": "Tamal gigante de masa martajada y carne de cerdo en adobo, envuelto en hoja de plátano y horneado en leña.",
     "history": "Del náhuatl zacahuilli, 'tamal grande'; platillo ceremonial de la Huasteca Potosina hecho para compartir en bodas, bautizos y fiestas de pueblo.",
-    "nutrition": {
-      "calories": 350,
-      "protein": 15,
-      "carbohydrates": 35,
-      "fat": 18,
-      "fiber": 4,
-      "sodium": 480
-    },
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 90,
     "cookTimeMin": 300,
@@ -2599,7 +2548,7 @@
       "Hornea el paquete tapado a unos 160 °C durante unas 5 horas; comprueba 74 °C en el centro del relleno y que la masa esté firme."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-tortas-ahogadas",
@@ -2608,7 +2557,7 @@
     "placeId": "mx-jal",
     "summary": "Birote salado relleno de carnitas y ahogado en salsa de jitomate con chile de árbol muy picante.",
     "history": "Icono callejero de Guadalajara; el birote crujiente resiste la salsa sin deshacerse y se acompaña de cebolla curtida en limón.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 20,
@@ -2660,7 +2609,7 @@
       "Sirve la salsa picante aparte para que cada persona ajuste el picor sin alterar la salsa base de tomate."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-carne-en-su-jugo",
@@ -2669,7 +2618,7 @@
     "placeId": "mx-jal",
     "summary": "Bistec finamente picado cocido en su caldo con frijoles bayos, tocino y salsa verde.",
     "history": "Especialidad tapatía servida en cazuela; combina la carne en un caldillo ligero de tomate verde con frijoles y guarniciones frescas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 30,
@@ -2720,7 +2669,7 @@
       "Añade 250 ml de agua si la salsa no deja suficiente líquido para cocinar suavemente la carne."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-pescado-zarandeado",
@@ -2729,7 +2678,7 @@
     "placeId": "mx-nay",
     "summary": "Pescado abierto en mariposa, untado con adobo y asado sobre brasas en una zaranda de varas.",
     "history": "Preparación costera de Nayarit, ligada a la isla de Mexcaltitán; el pescado se marina y se asa lentamente al carbón para un sabor ahumado.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 30,
@@ -2782,7 +2731,7 @@
       "Escurre el exceso de adobo antes de asar y verifica 63 °C junto a la parte más gruesa del pescado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-sopitos-colima",
@@ -2791,7 +2740,7 @@
     "placeId": "mx-col",
     "summary": "Pequeñas tostaditas de masa fritas, cubiertas de carne molida y bañadas en salsa ligera de jitomate y orégano.",
     "history": "Antojito clásico de las cenadurías de Colima y Villa de Álvarez; se distingue por su salsa de jitomate y orégano con la que se bañan generosamente.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -2841,7 +2790,7 @@
       "Cocina la carne molida hasta 71 °C y termina los sopitos al servir para que la base no se ablande."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-carnitas",
@@ -2850,7 +2799,7 @@
     "placeId": "mx-mic",
     "summary": "Cerdo confitado lentamente en su propia manteca en cazo de cobre hasta quedar suave por dentro y dorado por fuera.",
     "history": "Orgullo de Michoacán, en especial de Quiroga y Uruapan; el cazo de cobre y la cocción larga en manteca dan su textura característica.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 20,
     "cookTimeMin": 150,
@@ -2902,7 +2851,7 @@
       "Añade cualquier líquido con la grasa aún templada y con cuidado; el agua en grasa muy caliente puede salpicar violentamente."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-corundas",
@@ -2911,7 +2860,7 @@
     "placeId": "mx-mic",
     "summary": "Tamal triangular de masa envuelto en hoja de milpa, servido con crema, salsa y queso.",
     "history": "Tamal purépecha de Michoacán con su característica forma triangular; se envuelve en la hoja larga de la planta de maíz y no en el totomoxtle.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 40,
     "cookTimeMin": 60,
@@ -2960,7 +2909,7 @@
       "Mantén agua hirviendo debajo de la rejilla sin que toque los paquetes; repón con agua caliente cuando haga falta."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-barbacoa",
@@ -3078,7 +3027,7 @@
       "Los rellenos deben estar completamente cocidos y calientes al armar los tacos; prepara solo lo que se vaya a servir pronto."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-quesadillas-cdmx",
@@ -3138,7 +3087,7 @@
       "Los hongos o la flor deben estar previamente guisados y escurridos para que no humedezcan la masa."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-pastes",
@@ -3147,7 +3096,7 @@
     "placeId": "mx-hid",
     "summary": "Empanadas de masa hojaldrada rellenas de papa con carne, herencia de los mineros ingleses de Cornualles.",
     "history": "Adaptación mexicana del pasty de Cornualles, llevado a las minas de Real del Monte, Hidalgo, en el siglo XIX; hoy los rellenos van de lo salado a lo dulce.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 40,
     "cookTimeMin": 30,
@@ -3203,7 +3152,7 @@
       "Corta la papa en dados de unos 5 mm para que se cocine al mismo tiempo que la carne dentro del pastel."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-cecina-yecapixtla",
@@ -3212,7 +3161,7 @@
     "placeId": "mx-mor",
     "summary": "Lámina delgada de res salada y oreada, asada al carbón y servida con crema, queso y guacamole.",
     "history": "Especialidad del pueblo de Yecapixtla, Morelos, famoso por su cecina de res delgada; se acompaña de cecina enchilada de cerdo y guarniciones frescas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 10,
@@ -3244,7 +3193,7 @@
       }
     ],
     "steps": [
-      "Asa la cecina al carbón unos segundos por lado, cuidando que no se reseque.",
+      "Asa la cecina en un comal o parrilla precalentados y comprueba la temperatura interior y el reposo según la referencia para carne de res.",
       "Asa los nopales y la cebolla junto a la carne si se desea.",
       "Prepara un guacamole sencillo con aguacate, cilantro, limón y sal.",
       "Sirve la cecina con crema, queso y el guacamole.",
@@ -3263,7 +3212,7 @@
       "La cecina ya contiene sal: prueba los acompañamientos antes de salar y comprueba la cocción con termómetro."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxc-mixiotes",
@@ -3335,7 +3284,7 @@
     "placeId": "mx-yuc",
     "summary": "Cerdo marinado en achiote y jugo de naranja agria, envuelto en hoja de plátano y cocido hasta deshebrarse.",
     "history": "Herencia maya cocinada tradicionalmente en pib, un horno bajo tierra. El achiote y la naranja agria son la firma de la península de Yucatán y hoy se sirve en tortas, tacos y panuchos.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 40,
     "cookTimeMin": 210,
@@ -3391,7 +3340,7 @@
     "tips": [
       "Hornea tapado a 160 °C unas 3.5 horas; si el recipiente se seca, añade agua caliente antes de que el adobo se queme."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-sopa-lima",
@@ -3400,7 +3349,7 @@
     "placeId": "mx-yuc",
     "summary": "Caldo aromático de pollo o pavo perfumado con lima yucateca y tiras de tortilla frita.",
     "history": "Plato representativo de la cocina yucateca, elaborado con la lima agria de la península, cítrico distinto al limón común que le da su aroma inconfundible.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 40,
@@ -3451,7 +3400,7 @@
       "Usa alrededor de 1.5 litros de agua para el caldo y añade el jugo de lima al final para mantener su aroma."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-panuchos",
@@ -3460,7 +3409,7 @@
     "placeId": "mx-yuc",
     "summary": "Tortilla rellena de frijol refrito y frita, coronada con cochinita o pavo, cebolla curtida y aguacate.",
     "history": "Antojito clásico de Yucatán vendido en mercados y loncherías. La tortilla se infla al comal, se abre y se rellena de frijol colado antes de freírse.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -3511,7 +3460,7 @@
       "Utiliza frijoles espesos y carne ya cocida; demasiado líquido rompe la tortilla al freír."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-papadzules",
@@ -3520,7 +3469,7 @@
     "placeId": "mx-yuc",
     "summary": "Tacos de huevo cocido bañados en salsa de pepita de calabaza y aceite de semilla, con salsa de jitomate.",
     "history": "Platillo de raíz maya cuyo nombre suele traducirse como 'comida para los señores'. La salsa verde de pepita es su elemento distintivo dentro de la cocina yucateca.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -3572,7 +3521,7 @@
       "Muele la pepita muy fina y añade el caldo poco a poco: la salsa debe cubrir la tortilla sin convertirse en una pasta seca."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-pan-cazon",
@@ -3581,7 +3530,7 @@
     "placeId": "mx-cam",
     "summary": "Capas de tortilla, frijol refrito y cazón guisado, bañadas en salsa de jitomate con chile habanero.",
     "history": "Emblema de la cocina campechana, se arma como una torre de tortillas rellenas de tiburón cazón deshebrado. Es el platillo más representativo del estado.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 30,
     "cookTimeMin": 30,
@@ -3632,7 +3581,7 @@
       "Escurre el pescado guisado y monta las capas justo antes de bañar con salsa para que mantengan su forma."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-pozole-verde",
@@ -3641,7 +3590,7 @@
     "placeId": "mx-gro",
     "summary": "Caldo de maíz cacahuazintle con carne de cerdo o pollo y una salsa verde de pepita, tomate y chile.",
     "history": "El pozole verde es la versión característica de Guerrero, distinguida por la pepita de calabaza molida que da color y espesor. Se sirve tradicionalmente los jueves.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 40,
     "cookTimeMin": 120,
@@ -3692,7 +3641,7 @@
       "Muele también el cilantro y parte de la lechuga de la lista para dar color a la salsa; reserva el resto para servir."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-pescado-talla",
@@ -3754,7 +3703,7 @@
       "Esta lista permite una costra de adobo rojo y mostaza; no necesitas preparar una salsa verde adicional."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-mole-amarillo",
@@ -3763,7 +3712,7 @@
     "placeId": "mx-oax",
     "summary": "Guiso ligero de chile chilcostle y guajillo espesado con masa, servido con carne y verduras.",
     "history": "Uno de los siete moles de Oaxaca, conocido como amarillito. Se distingue por la hoja santa y por espesarse con masa de maíz en lugar de semillas y frutos secos.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 40,
     "cookTimeMin": 60,
@@ -3814,7 +3763,7 @@
       "Disuelve primero la masa en caldo frío para que espese la salsa sin formar grumos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-memelas",
@@ -3823,7 +3772,7 @@
     "placeId": "mx-oax",
     "summary": "Tortillas gruesas ovaladas con borde pellizcado, untadas de asiento, frijol y quesillo.",
     "history": "Antojito de desayuno muy popular en los mercados de Oaxaca. La masa se pellizca en las orillas para retener el asiento de cerdo y la salsa.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 15,
@@ -3872,7 +3821,7 @@
       "Pellizca los bordes mientras la masa esté caliente y flexible, antes de poner los frijoles."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-tejate",
@@ -3881,7 +3830,7 @@
     "placeId": "mx-oax",
     "summary": "Bebida fría prehispánica de maíz y cacao coronada por una espuma que aporta la flor de cacao.",
     "history": "Llamada la bebida de los dioses, es de origen zapoteca y se preparaba en ceremonias de siembra y cosecha. San Andrés Huayapan es su principal centro de producción.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 45,
     "cookTimeMin": 0,
@@ -3931,7 +3880,7 @@
       "Usa maíz cocido y hueso de mamey preparado para tejate de un proveedor alimentario; no sustituyas por semillas crudas."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-cochito",
@@ -3940,7 +3889,7 @@
     "placeId": "mx-chp",
     "summary": "Cerdo marinado en adobo de chile ancho, vinagre y especias, horneado hasta quedar muy suave.",
     "history": "Tesoro gastronómico de Tuxtla Gutiérrez y de Chiapas en general. Se prepara en hornos de leña para fiestas y se sirve en tacos o en plato acompañado de lechuga.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 120,
@@ -3993,7 +3942,7 @@
     "tips": [
       "La marinada se hace en refrigeración; gira la carne una vez para repartir el adobo."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-tamales-chipilin",
@@ -4002,7 +3951,7 @@
     "placeId": "mx-chp",
     "summary": "Tamales suaves de masa con hojas de chipilín, típicos de Chiapas y Tabasco.",
     "history": "El chipilín es una hierba aromática del sureste que perfuma la masa. Estos tamales pequeños se envuelven en hoja de plátano y a veces llevan quesillo o pepita.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 40,
     "cookTimeMin": 60,
@@ -4052,7 +4001,7 @@
       "Los tamales están listos cuando la masa se separa de la hoja; deja reposar 10 minutos después del vapor."
     ],
     "restTimeMin": 10,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-pejelagarto",
@@ -4061,7 +4010,7 @@
     "placeId": "mx-tab",
     "summary": "Pescado endémico de Tabasco asado al carbón y servido deshebrado con chile amashito.",
     "history": "El pejelagarto es un pez prehistórico de los ríos y lagunas de Tabasco. Se asa entero sobre brasas y su carne se aprovecha en tacos con salsa de chile amashito.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 30,
@@ -4114,7 +4063,7 @@
       "Pide el pescado limpio y revisa que la carne alcance 63 °C antes de retirar la piel y separar las espinas."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-huachinango-ver",
@@ -4123,7 +4072,7 @@
     "placeId": "mx-ver",
     "summary": "Filete o pescado entero en salsa de jitomate con aceitunas, alcaparras y chiles güeros.",
     "history": "Plato insignia del puerto de Veracruz, resultado del mestizaje entre la cocina indígena y la española. La salsa combina jitomate con aceitunas, alcaparras y hierbas mediterráneas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 30,
@@ -4175,7 +4124,7 @@
       "Prueba la salsa después de añadir alcaparras y aceitunas, ya que aportan bastante sal."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-picadas",
@@ -4184,7 +4133,7 @@
     "placeId": "mx-ver",
     "summary": "Tortillas gruesas con borde pellizcado, salsa roja o verde, cebolla y queso fresco.",
     "history": "Desayuno típico de Veracruz servido en fondas y mercados. El borde pellizcado retiene la salsa que las cubre, roja o verde según la casa.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 20,
@@ -4234,7 +4183,7 @@
       "Pellizca la tortilla apenas puedas tocarla y termina con salsa caliente para no enfriar la picada."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-tikin-xic",
@@ -4296,7 +4245,7 @@
       "Usa hojas limpias y flexibles; comprueba 63 °C en el pescado al abrir el paquete con cuidado del vapor."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-mole-poblano",
@@ -4354,7 +4303,7 @@
       "Empieza con 8 chiles mulatos, 4 anchos y 2 pasillas; añade caldo gradualmente y evita quemar las semillas al tostarlas."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-mxs-tinga-poblana",
@@ -4414,7 +4363,7 @@
       "Añade el chipotle poco a poco y prueba; la intensidad cambia mucho entre marcas."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-gallina-pinta",
@@ -4479,7 +4428,7 @@
     "tips": [
       "El maíz crudo y el precocido no requieren el mismo tiempo: esta versión funciona mejor con maíz pozolero ya cocido."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-coricos-de-mocorito",
@@ -4488,7 +4437,7 @@
     "placeId": "mx-sin-mocorito",
     "summary": "Rosquillas crujientes de masa de maíz y piloncillo o azúcar, galleta tradicional del norte de Sinaloa.",
     "history": "Mocorito, apodado la 'Atenas de Sinaloa' y Pueblo Mágico desde 2015, guarda una repostería casera muy viva. Entre sus dulces de trigo y maíz destacan los coricos: rosquillas horneadas de masa que las familias preparan para acompañar el café y que se venden en las panaderías del pueblo junto a bizcotelas y empanadas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -4542,7 +4491,7 @@
       "Deja enfriar las rosquillas en rejilla: adquieren su textura crujiente al perder calor."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-pescado-zarandeado-mazatlan",
@@ -4609,7 +4558,7 @@
       "La soya y la salsa inglesa ya aportan sal; prueba la mezcla antes de añadir más."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-trucha-de-la-sierra-tarahumara",
@@ -4679,7 +4628,7 @@
     "placeId": "mx-coa-saltillo",
     "summary": "Pan esponjoso de harina de trigo fermentado con pulque, con un ligero toque ácido y aroma de canela.",
     "history": "El pan de pulque es una de las tradiciones panaderas más antiguas de Saltillo. Nació en el barrio tlaxcalteca de San Esteban de la Nueva Tlaxcala, cuando los panaderos coloniales descubrieron que el pulque, bebida fermentada del maguey, podía servir de levadura para el trigo. También se le conoce como pan de fiesta o pan mestizo y varias familias lo elaboran desde hace generaciones.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 10,
     "prepTimeMin": 40,
     "cookTimeMin": 25,
@@ -4734,7 +4683,7 @@
     "tips": [
       "La fermentación del pulque es variable: guíate por el aumento de volumen y reserva al menos 3 horas de espera."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-cortadillo-de-cuatro-cienegas",
@@ -4796,7 +4745,7 @@
       "La falda puede necesitar más de una hora para ablandar; añade caldo caliente y sigue hasta que se deshebre."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-glorias-de-linares",
@@ -4805,7 +4754,7 @@
     "placeId": "mx-nle-linares",
     "summary": "Dulce de leche quemada de cabra con nuez, envuelto en su clásico celofán rojo, orgullo de Linares.",
     "history": "Las glorias nacieron en Linares, Nuevo León, hacia los años treinta, cuando doña Natalia Medina vendía marquetas de dulce de leche con nuez. La leyenda dice que sus clientes decían que su sabor era 'una gloria', y de ahí el nombre. Originalmente se hacían con leche de cabra, tan típica del noreste, y se envuelven en el reconocible papel celofán rojo.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 12,
     "prepTimeMin": 15,
     "cookTimeMin": 60,
@@ -4856,7 +4805,7 @@
       "Remueve raspando el fondo y prueba una gota fría: debe formar una porción blanda que se pueda moldear."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-enchiladas-tultecas",
@@ -4865,7 +4814,7 @@
     "placeId": "mx-tam-tula",
     "summary": "Enchiladas de tortilla roja rellenas de queso y chorizo, coronadas con lechuga, jitomate y chile piquín.",
     "history": "Tula, primer Pueblo Mágico de Tamaulipas y cuna de la cuera tamaulipeca, tiene en las enchiladas tultecas su platillo más representativo. La tortilla se tiñe de rojo con chile y se rellena de queso y chorizo, acompañada de verduras frescas; se comen en casi todas las fondas del pueblo.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -4923,7 +4872,7 @@
       "Escurre el chorizo después de cocinarlo para que las enchiladas no queden excesivamente grasosas."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-gorditas-de-horno-duranguenses",
@@ -4996,7 +4945,7 @@
     "placeId": "mx-zac-zacatecas",
     "summary": "Tortillas pasadas por salsa de chile, rellenas de queso y cebolla, plato callejero clásico de Zacatecas.",
     "history": "En la capital zacatecana simplemente se les dice 'enchiladas'; fuera del estado se les añade el gentilicio para señalar su origen. Son famosas durante los festivales de Semana Santa, cuando se instalan largas mesas junto a la catedral y los puestos las preparan al momento en manteca de cerdo.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 15,
@@ -5051,7 +5000,7 @@
       "Fríe brevemente las tortillas: deben quedar flexibles para doblarlas sin romperlas."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-langosta-estilo-puerto-nuevo",
@@ -5060,7 +5009,7 @@
     "placeId": "mx-bcn-puerto-nuevo",
     "summary": "Langosta partida y frita en manteca, servida con tortillas de harina, frijoles, arroz y mantequilla con limón.",
     "history": "Puerto Nuevo, el 'pueblo de la langosta' en el municipio de Playas de Rosarito, popularizó este platillo en los años cincuenta. Las esposas de los pescadores abrían las puertas de sus casas para cocinar la langosta recién pescada en manteca y servirla con tortillas de harina hechas a mano; hoy más de veinte restaurantes mantienen la tradición.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 15,
     "cookTimeMin": 15,
@@ -5112,7 +5061,7 @@
       "La langosta debe quedar firme y opaca en toda la carne; el cambio de color del caparazón no basta para comprobarla."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-n-ceviche-de-marlin-ahumado",
@@ -5179,7 +5128,7 @@
       "Usa pescado ahumado comercial listo para comer y mantenlo refrigerado hasta mezclarlo."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-charales-fritos",
@@ -5188,7 +5137,7 @@
     "placeId": "mx-mic-patzcuaro",
     "summary": "Pequeños pescaditos del lago dorados hasta quedar crujientes, servidos en cucurucho con limón y salsa.",
     "history": "Manjar de la región lacustre purépecha, los charales se pescan en el lago de Pátzcuaro desde tiempos prehispánicos. Se venden calientes en los muelles y en los puestos de la ribera, envueltos en papel, como botana emblemática del pueblo.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 10,
@@ -5239,7 +5188,7 @@
       "Seca muy bien el pescado después del limón para reducir las salpicaduras al freír."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-churipo",
@@ -5248,7 +5197,7 @@
     "placeId": "mx-mic-tzintzuntzan",
     "summary": "Caldo rojo purépecha de res con chile guajillo y verduras, tradicionalmente acompañado de corundas.",
     "history": "El churipo (del purépecha churhípu, 'caldo') es un guiso ceremonial de la meseta y la ribera del lago de Pátzcuaro, con fuerte arraigo en Tzintzuntzan. Forma parte de la cocina tradicional michoacana reconocida como Patrimonio Cultural Inmaterial de la Humanidad.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 120,
@@ -5306,7 +5255,7 @@
       "Añade primero el elote, luego el chayote y por último la col para evitar que esta se deshaga."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-cantaritos",
@@ -5370,7 +5319,7 @@
       "Utiliza un jarro de barro vidriado certificado para alimentos y hielo hecho con agua potable."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-el-bote",
@@ -5559,7 +5508,7 @@
       "El hielo con sal debe quedar fuera del recipiente que contiene la nieve; evita que la salmuera entre en la mezcla."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-fiambre-san-miguel",
@@ -5568,7 +5517,7 @@
     "placeId": "mx-gua-san-miguel-de-allende",
     "summary": "Ensalada fría de carnes, frutas y verduras maceradas en vinagreta, típica del Día de Todos los Santos.",
     "history": "El fiambre sanmiguelense se prepara sobre todo para el 1 de noviembre. Combina pollo, lengua y patitas de puerco con frutas y verduras bañadas en aceite y vinagre; es una de las preparaciones más emblemáticas de la cocina guanajuatense de temporada.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 60,
     "cookTimeMin": 60,
@@ -5623,7 +5572,7 @@
     "tips": [
       "Enfría las carnes cocidas en refrigeración y monta la ensalada fría; no las dejes enfriar durante horas sobre la mesa."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-gorditas-migajas",
@@ -5632,7 +5581,7 @@
     "placeId": "mx-que-bernal",
     "summary": "Gorditas de maíz martajado a mano rellenas de migajas de chicharrón y bañadas en salsa roja.",
     "history": "Antojito insignia del Pueblo Mágico de Bernal. Se hacen con maíz molido a mano —blanco o azul— que las vuelve ligeras y crujientes, y se rellenan con las migajas o 'achicalado' que quedan al hacer carnitas. Tienen más de medio siglo de tradición.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 5,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -5683,7 +5632,7 @@
       "Sella la masa alrededor del relleno y cocina a fuego medio para que no se queme antes de cocerse."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-lengua-mechada",
@@ -5746,7 +5695,7 @@
       "Retira la piel mientras la lengua esté tibia; se desprende con más facilidad que cuando está fría."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-gorditas-horno",
@@ -5807,7 +5756,7 @@
       "Hornea a unos 220 °C durante 20-25 minutos y usa rellenos ya cocidos y bien escurridos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-bocoles",
@@ -5816,7 +5765,7 @@
     "placeId": "mx-slp-xilitla",
     "summary": "Gorditas gruesas de masa de maíz con frijol, doradas en comal y rellenas de queso o chicharrón.",
     "history": "Los bocoles son antojito diario en la Huasteca Potosina y muy presentes en Xilitla. Se preparan con masa de maíz nixtamalizado mezclada con frijol o manteca, se cuecen en comal y se abren para rellenar con queso, chicharrón o guisos de la región.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 5,
     "prepTimeMin": 25,
     "cookTimeMin": 20,
@@ -5864,7 +5813,7 @@
       "Escurre el frijol antes de molerlo para que la masa mantenga su forma en el comal."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-itacates",
@@ -5873,7 +5822,7 @@
     "placeId": "mx-mor-tepoztlan",
     "summary": "Antojito triangular de masa de maíz con queso, dorado en comal y relleno de guisos al gusto.",
     "history": "El itacate (del náhuatl ihtacatl, 'provisión para el camino') es el antojito insignia de Tepoztlán. Su forma triangular nació para que los jornaleros llevaran la comida caliente; hoy es parada obligada en el mercado y las calles del Pueblo Mágico.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 15,
@@ -5921,7 +5870,7 @@
       "Haz triángulos de grosor uniforme y abre con cuidado cuando la masa esté cocida y todavía caliente."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-trucha-valle-bravo",
@@ -5981,7 +5930,7 @@
       "Retira el ajo en cuanto dore para que no se vuelva amargo mientras termina de cocinarse el pescado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-naranjete",
@@ -6040,7 +5989,7 @@
     "tips": [
       "Utiliza únicamente bebidas alcohólicas comerciales aptas para consumo; no uses alcohol industrial ni antiséptico."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-c-tatemado-comala",
@@ -6104,7 +6053,7 @@
     "tips": [
       "Revisa el fondo cada 20 minutos y añade agua caliente si el adobo se pega antes de que la carne ablande."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-sopa-de-pan-coleta",
@@ -6113,7 +6062,7 @@
     "placeId": "mx-chp-sancristobal",
     "summary": "Guiso festivo de rebanadas de pan coleto tostado, verduras, huevo y plátano frito, bañado en un caldo especiado con azafrán.",
     "history": "Receta de origen colonial de San Cristóbal de las Casas nacida como comida de vigilia en el siglo XVII. Combina el pan coleto local con ingredientes traídos por los españoles, como el vino y el azafrán, y hoy se sirve en fiestas civiles y religiosas de los Altos de Chiapas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 40,
@@ -6165,7 +6114,7 @@
       "Tuesta bien el pan para que absorba el caldo sin deshacerse de inmediato."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-pepita-con-tasajo",
@@ -6174,7 +6123,7 @@
     "placeId": "mx-chp-chiapadecorzo",
     "summary": "Guiso ceremonial de tasajo de res seco bañado en una salsa espesa de semilla de calabaza, arroz molido y achiote.",
     "history": "Es la 'Comida Grande' de la Fiesta Grande de Chiapa de Corzo, celebrada del 4 al 23 de enero e inscrita en el Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO. Su preparación comienza a medianoche siguiendo rituales heredados por generaciones de cocineras.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 40,
     "cookTimeMin": 60,
@@ -6226,7 +6175,7 @@
       "Prueba el tasajo después de remojarlo antes de salar la salsa; añade agua si espesa demasiado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-comiteco",
@@ -6235,7 +6184,7 @@
     "placeId": "mx-chp-comitan",
     "summary": "Destilado ancestral de aguamiel del maguey comiteco, elemento de identidad cultural de Comitán de Domínguez.",
     "history": "A diferencia de otros destilados de agave, el comiteco se elabora con la savia extraída del corazón del maguey vivo, fermentada y luego destilada. En el siglo XVIII fue considerado el destilado más fino de la Nueva España y hoy vive un proceso de revaloración en Comitán, Chiapas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 15,
     "cookTimeMin": 0,
@@ -6285,7 +6234,7 @@
       "Esta ficha utiliza comiteco comercial preparado; no incluye fermentación ni destilación casera."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-tlayoyos",
@@ -6345,7 +6294,7 @@
       "El relleno debe estar espeso y frío o templado para poder cerrar la masa sin romperla."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-sidra-zacatlan",
@@ -6394,7 +6343,7 @@
       "Usa equipo alimentario limpio y fermentador con válvula de aire; nunca cierres herméticamente una fermentación activa."
     ],
     "restTimeMin": 20160,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-cecina-atlixco",
@@ -6403,7 +6352,7 @@
     "placeId": "mx-pue-atlixco",
     "summary": "Fina lámina de res salada y oreada al sol, asada al carbón y servida con nopales, queso, aguacate y tortillas hechas a mano.",
     "history": "La elaboración de cecina en Atlixco data de hace unos 200 años, cuando se aprovechaban cortes finos de res salándolos y secándolos al sol. Hoy es el estandarte gastronómico del Pueblo Mágico y tiene su propia Feria de la Cecina.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 10,
@@ -6434,8 +6383,8 @@
       }
     ],
     "steps": [
-      "Deja la cecina a temperatura ambiente unos minutos.",
-      "Asa la cecina al carbón o comal apenas unos segundos por lado.",
+      "Mantén la cecina refrigerada hasta el momento de cocinar y precalienta el comal o la parrilla.",
+      "Asa la cecina en un comal o parrilla precalentados y comprueba la temperatura interior y el reposo según la referencia para carne de res.",
       "Asa los nopales previamente salados.",
       "Sirve la cecina con nopales, queso y aguacate.",
       "Acompaña con chiles en vinagre y pico de gallo.",
@@ -6455,7 +6404,7 @@
       "Cocina la cecina hasta al menos 63 °C y deja reposar 3 minutos; no dependas solo de unos segundos por lado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-cafe-coatepec",
@@ -6464,7 +6413,7 @@
     "placeId": "mx-ver-coatepec",
     "summary": "Taza de café de altura cultivado en Coatepec, la capital cafetalera de México, de aroma intenso y acidez equilibrada.",
     "history": "Coatepec produce café desde 1808, cuando llegó una semilla de café arábigo desde Cuba a la Hacienda de Zimpizahua. Su altitud y clima al pie del Cofre de Perote le dieron fama como la capital del café en México.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 5,
     "cookTimeMin": 5,
@@ -6509,7 +6458,7 @@
       "Para prensa francesa, usa molienda gruesa e infusiona 4 minutos; en filtro, deja que el agua atraviese el café sin agitarlo en exceso."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-mole-xiqueno",
@@ -6518,7 +6467,7 @@
     "placeId": "mx-ver-xico",
     "summary": "Mole dulce y aterciopelado del Pueblo Mágico de Xico, elaborado con más de veinte ingredientes entre chiles, frutas secas, cacao y especias.",
     "history": "El mole de Xico o mole xiqueño es uno de los platillos más representativos de la gastronomía veracruzana. Su preparación puede tomar más de dos días y destaca por ser más dulce que otros moles oscuros gracias al uso de frutas como ciruela pasa y plátano.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 60,
     "cookTimeMin": 120,
@@ -6567,7 +6516,7 @@
       "Tuesta los chiles por segundos y fríe las frutas por separado para controlar mejor el dorado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-zacahuil",
@@ -6702,7 +6651,7 @@
     "placeId": "mx-yuc-valladolid",
     "summary": "Trozos de lomo de cerdo guisados en una salsa espesa de jitomate con chile habanero, servidos con huevo cocido e ibes.",
     "history": "Platillo ancestral originario de la ciudad de Valladolid, Yucatán. Su característica es la cocción lenta hasta que el jitomate reduce a una salsa espesa; se sirve con huevo duro, frijol ibes y chile habanero entero.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 45,
@@ -6754,7 +6703,7 @@
       "Mantén el habanero entero si quieres aroma con menos picor; no lo rompas al remover."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-relleno-negro",
@@ -6763,7 +6712,7 @@
     "placeId": "mx-yuc-izamal",
     "summary": "Guiso de pavo o cerdo en un caldo oscuro de recado negro, con albóndigas de carne molida llamadas 'but' y huevo cocido.",
     "history": "Guiso ancestral de la península de Yucatán que combina la cocina maya con influencias españolas. Su color característico proviene del recado negro, hecho de chiles y tortillas quemadas. En Izamal, el Pueblo Amarillo, se mantiene vivo en cocinas tradicionales.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 40,
     "cookTimeMin": 90,
@@ -6816,7 +6765,7 @@
       "Las albóndigas deben alcanzar 71 °C y el pavo 74 °C; no uses solo el color oscuro del caldo como referencia."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-salsa-de-jumiles",
@@ -6825,7 +6774,7 @@
     "placeId": "mx-gro-taxco",
     "summary": "Salsa molcajeteada de jitomate y chile con jumiles bien cocidos, insectos de sabor acanelado típicos de Taxco.",
     "history": "Los jumiles son un platillo emblemático de Taxco, Guerrero, y se celebran cada año en la Feria del Jumil, en octubre. Su sabor recuerda a la canela porque el insecto se alimenta de hojas de encino; se comen vivos, molcajeteados con sal o en salsa para tacos.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 10,
@@ -6877,7 +6826,7 @@
       "No recolectes insectos de zonas tratadas con pesticidas; usa únicamente producto destinado a alimentación."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-trucha-capulalpam",
@@ -6935,7 +6884,7 @@
       "Utiliza hierbas culinarias identificadas y comprueba 63 °C en el centro del pescado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-rice-and-beans-bacalar",
@@ -7000,7 +6949,7 @@
       "Deja reposar tapado 10 minutos al apagar y esponja con un tenedor sin aplastar los frijoles."
     ],
     "restTimeMin": 10,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-pm-s-pampano-escabeche",
@@ -7071,7 +7020,7 @@
     "placeId": "us-sc",
     "summary": "Camarones salteados con tocino y especias sobre una crema de sémola de maíz (grits), plato insignia del Lowcountry.",
     "history": "Nació en la costa baja de Carolina del Sur, entre las comunidades gullah geechee descendientes de africanos esclavizados que cultivaban arroz. Al principio se comía como desayuno de temporada camaronera y se llamaba 'shrimp and hominy', servido con maíz molido en lugar de arroz. Con el tiempo la sémola de maíz reemplazó al arroz y el plato se volvió emblema de Charleston.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 30,
@@ -7136,7 +7085,7 @@
       "Revisa el envase de los grits: los de cocción rápida y los molidos a piedra necesitan tiempos distintos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-nashville-hot-chicken",
@@ -7145,7 +7094,7 @@
     "placeId": "us-tn",
     "summary": "Pollo frito bañado en una pasta ardiente de cayena y manteca caliente, servido sobre pan blanco con pepinillos.",
     "history": "Según la leyenda surgió en Nashville en los años 30 cuando la pareja de Thornton Prince le sirvió pollo cargado de pimienta como venganza; a él le encantó y la familia perfeccionó la receta. El Prince's Hot Chicken Shack, considerado la cuna del plato y negocio pionero afroamericano, lo popularizó, y el festival de la ciudad lo llevó a la fama en los 2000.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -7208,7 +7157,7 @@
     "tips": [
       "Mide 74 °C cerca del hueso sin tocarlo; si el exterior dora muy rápido, termina el pollo en horno a 180 °C."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-kentucky-hot-brown",
@@ -7217,7 +7166,7 @@
     "placeId": "us-ky",
     "summary": "Emparedado abierto y gratinado de pavo con salsa Mornay, tocino y tomate, horneado hasta burbujear.",
     "history": "Lo creó el chef Fred K. Schmidt en 1926 en el Brown Hotel de Louisville, Kentucky. El hotel recibía cada noche cientos de comensales tras el baile y estos se cansaban de los tradicionales platos de jamón y huevo; Schmidt ideó este emparedado abierto de pavo con salsa Mornay que pronto se volvió el favorito de la casa. Es una variación del Welsh rarebit.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 15,
     "cookTimeMin": 20,
@@ -7276,7 +7225,7 @@
       "Mantén la salsa suficientemente fluida para cubrir el pavo; añade leche caliente si espesa antes de gratinar."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-cuban-sandwich",
@@ -7285,7 +7234,7 @@
     "placeId": "us-fl",
     "summary": "Sándwich prensado de pan cubano con cerdo asado, jamón, salami, queso suizo, mostaza y pepinillos.",
     "history": "Se gestó en Ybor City, al sur de Tampa (Florida), a inicios del siglo XX entre inmigrantes cubanos, españoles e italianos que trabajaban en las fábricas de puros. La prensa de Tampa ya lo mencionaba en 1906; se dice que en el Columbia Restaurant se añadió el salami genovés hacia 1905 para agradar a los italianos, rasgo que distingue al cubano de Tampa del de Miami.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 15,
     "cookTimeMin": 10,
@@ -7341,7 +7290,7 @@
       "Usa carnes ya cocidas y una plancha a fuego medio para que el queso funda antes de que se queme el pan."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-key-lime-pie",
@@ -7418,7 +7367,7 @@
     "placeId": "us-nc",
     "summary": "Cerdo cocido lento y deshebrado, aliñado con salsa avinagrada picante, sello del barbecue de Carolina del Norte.",
     "history": "El barbecue de cerdo entero es una de las tradiciones culinarias más antiguas de Carolina del Norte, con raíces coloniales y afroamericanas. El estilo del este del estado usa el cerdo completo aliñado solo con vinagre y hojuelas de chile, sin tomate, a diferencia del estilo del oeste, que emplea la paleta y una salsa con un toque de tomate.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 20,
     "cookTimeMin": 360,
@@ -7478,7 +7427,7 @@
       "La paleta está lista cuando se deshebra fácilmente, normalmente cerca de 93 °C internos; el tamaño puede alargar la cocción."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-chili-con-carne",
@@ -7548,7 +7497,7 @@
       "Tuesta los chiles sin quemarlos y ajusta la densidad con caldo antes de servir."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-breakfast-tacos",
@@ -7613,7 +7562,7 @@
       "Parte de papa y frijoles ya cocidos y cuaja completamente los huevos a fuego suave."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-shrimp-poboy",
@@ -7622,7 +7571,7 @@
     "placeId": "us-la",
     "summary": "Baguette crujiente de Nueva Orleans rellena de camarones empanizados y fritos, con lechuga, tomate y mayonesa.",
     "history": "Nació en Nueva Orleans (Luisiana) en 1929, cuando los hermanos Martin, exconductores de tranvía, ofrecieron sándwiches gratis a los trabajadores en huelga y los llamaban 'poor boys'. Se sirve en pan francés local de corteza fina y miga esponjosa; las versiones 'dressed' llevan lechuga, tomate, pepinillos y mayonesa.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 20,
     "cookTimeMin": 10,
@@ -7681,7 +7630,7 @@
       "Fríe los camarones a 175-180 °C hasta que la carne esté opaca y el rebozado crujiente."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-southern-fried-chicken",
@@ -7755,7 +7704,7 @@
     "placeId": "us-va",
     "summary": "Jamón de cerdo curado con sal y ahumado, en lonchas doradas en la sartén y servidas con salsa red-eye.",
     "history": "El curado de jamón con sal es una tradición colonial de Virginia; la localidad de Smithfield le dio fama internacional con su jamón añejado. Este 'country ham', muy salado y de sabor intenso, se come en finas lonchas, a menudo con la salsa red-eye elaborada con la grasa de la sartén y café, típica del desayuno rural sureño.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 5,
     "cookTimeMin": 10,
@@ -7798,7 +7747,7 @@
       "La ficha parte de jamón ya cocido; si compras jamón crudo curado, sigue sus instrucciones de cocción antes de preparar la salsa."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-collard-greens",
@@ -7866,7 +7815,7 @@
       "Lava las hojas en varias aguas para retirar arena y sirve con parte del caldo de cocción."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-cornbread",
@@ -7991,7 +7940,7 @@
     "tips": [
       "Tapa la natilla en contacto durante el enfriado para evitar que forme una película en la superficie."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-chicken-fried-steak",
@@ -8058,7 +8007,7 @@
       "Reserva 3 cucharadas de harina limpia para la salsa y cocina el roux antes de añadir las 2 tazas de leche."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-s-fried-pickles",
@@ -8067,7 +8016,7 @@
     "placeId": "us-ar",
     "summary": "Rodajas de pepinillo rebozadas y fritas hasta quedar crujientes, servidas con salsa cremosa.",
     "history": "Los pepinillos fritos se inventaron en 1963 en el Duchess Drive-In, cerca de Atkins, Arkansas, cuando Bernell 'Fatman' Austin, inspirado por la fábrica de encurtidos vecina, empanizó y frió rodajas de pepinillo. El aperitivo se popularizó por todo el sur y hoy es un clásico de bares y ferias.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 10,
@@ -8121,7 +8070,7 @@
       "Seca las rodajas de pepinillo antes de empanizarlas para que la cubierta se adhiera."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-new-england-clam-chowder",
@@ -8130,7 +8079,7 @@
     "placeId": "us-ma",
     "summary": "Sopa cremosa de almejas con papa, cebolla y panceta, espesa y de color pálido, emblema de la costa de Nueva Inglaterra.",
     "history": "La versión cremosa (con leche o crema) es la más asociada a Boston y a toda Nueva Inglaterra, en contraste con la de Manhattan hecha con tomate. Nació entre pescadores y comunidades costeras que aprovechaban las almejas quahog abundantes en la zona; se popularizó en el siglo XIX y hoy se sirve en tazón o en pan hueco. En Boston es una tradición tan arraigada que la ciudad llegó a prohibir por ley añadirle tomate.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 35,
@@ -8197,7 +8146,7 @@
       "Descarta las almejas que no abran y cuela el líquido por un filtro fino para quitar la arena."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-lobster-roll",
@@ -8261,7 +8210,7 @@
       "La langosta debe estar ya cocida y fría; rellena los bollos recién tostados justo antes de comer."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-maryland-crab-cakes",
@@ -8270,7 +8219,7 @@
     "placeId": "us-md",
     "summary": "Tortitas de carne de cangrejo azul con muy poco relleno, sazonadas con Old Bay y doradas hasta quedar crujientes por fuera.",
     "history": "El cangrejo azul de la bahía de Chesapeake es un símbolo de la cocina de Maryland. Las crab cakes tradicionales presumen de llevar la mayor cantidad posible de carne de cangrejo y apenas lo justo de aglutinante, realzadas con el condimento Old Bay, mezcla de especias nacida en Baltimore. Se sirven fritas o al horno, solas o en sándwich.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 12,
@@ -8331,7 +8280,7 @@
     "tips": [
       "No deshagas demasiado el cangrejo y refrigera las tortitas antes de dorarlas para que mantengan su forma."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-philly-cheesesteak",
@@ -8340,7 +8289,7 @@
     "placeId": "us-pa",
     "summary": "Bocadillo de tiras finas de res a la plancha con queso fundido en un pan largo, el sándwich insignia de Filadelfia.",
     "history": "Fue creado hacia 1930 por los hermanos Pat y Harry Olivieri, dueños de un puesto de hot dogs en el sur de Filadelfia, cuando asaron carne de res con cebolla en lugar de salchichas. El añadido del queso llegó después; con la aparición del Cheez Whiz en los años cincuenta se volvió una de las opciones clásicas, junto al provolone y el American. Pat's King of Steaks sigue en la esquina de la 9ª y Wharton.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 15,
     "cookTimeMin": 15,
@@ -8392,7 +8341,7 @@
       "Enfría bien la carne antes de cortarla en láminas finas y cocínala en una superficie amplia y caliente."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-ny-pizza-slice",
@@ -8401,7 +8350,7 @@
     "placeId": "us-ny",
     "summary": "Rebanada grande, fina y flexible de masa crujiente, salsa de tomate y mozzarella, que se dobla para comer de pie.",
     "history": "La pizza napolitana llegó con la inmigración italiana; la primera pizzería con licencia en Estados Unidos, Lombardi's, abrió en Manhattan en 1905. Con el tiempo surgió el estilo neoyorquino: masa fina y elástica horneada en horno de gas, vendida por rebanada en las 'slice shops'. Doblar la rebanada por la mitad para comerla caminando es parte del rito.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 90,
     "cookTimeMin": 12,
@@ -8461,7 +8410,7 @@
       "La primera fermentación mínima está incluida en la preparación; una fermentación nocturna añade tiempo al total."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-bagel-lox",
@@ -8522,7 +8471,7 @@
       "Mantén el salmón y el queso crema refrigerados hasta el momento de montar el bagel."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-pastrami-on-rye",
@@ -8573,7 +8522,7 @@
       "Calienta el pastrami con vapor suave para que no se reseque antes de apilarlo en el pan."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-buffalo-wings",
@@ -8582,7 +8531,7 @@
     "placeId": "us-ny",
     "summary": "Alitas de pollo fritas bañadas en salsa picante con mantequilla, servidas con apio y aderezo de queso azul.",
     "history": "Se crearon en 1964 en el Anchor Bar de Búfalo, Nueva York, donde Teressa Bellissimo frió alitas y las bañó en salsa picante, sirviéndolas con apio y queso azul porque era lo que tenía a mano. De aquel improvisado tentempié nació uno de los aperitivos más difundidos de Estados Unidos.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 20,
@@ -8634,7 +8583,7 @@
       "Fríe por tandas y mide 74 °C en el centro de las alitas antes de cubrirlas con salsa."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-boston-baked-beans",
@@ -8643,7 +8592,7 @@
     "placeId": "us-ma",
     "summary": "Alubias horneadas lentamente con melaza y panceta salada, dulces y espesas, hasta el punto de dar a Boston el apodo de 'Beantown'.",
     "history": "Este plato de alubias cocidas a fuego muy lento con melaza y cerdo salado tiene raíces coloniales en Nueva Inglaterra, ligadas al comercio de melaza y ron y a la costumbre puritana de cocinarlas el sábado para no trabajar en domingo. Se hicieron tan populares que Boston recibió el mote de 'Beantown'.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 360,
@@ -8700,7 +8649,7 @@
     "tips": [
       "Mantén las alubias cubiertas de líquido durante la cocción tapada y destapa solo cuando estén tiernas."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-whoopie-pie",
@@ -8781,7 +8730,7 @@
     "placeId": "us-ri",
     "summary": "Bolitas fritas de masa con almeja picada, crujientes por fuera y esponjosas por dentro, clásicas de los shacks costeros.",
     "history": "Las clam cakes o clam fritters son un fijo de los puestos de marisco de Rhode Island, sobre todo junto a la bahía de Narragansett. Se sirven por docenas y suelen acompañarse de un caldo claro de almeja al estilo Rhode Island. Son comida de playa y de verano por excelencia en el estado más pequeño del país.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 15,
@@ -8837,7 +8786,7 @@
       "Forma porciones pequeñas para que el interior se cueza antes de que se dore el exterior."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-coffee-milk",
@@ -8846,7 +8795,7 @@
     "placeId": "us-ri",
     "summary": "Bebida de leche fría endulzada con jarabe de café, parecida a la leche con chocolate pero con sabor a café, bebida oficial de Rhode Island.",
     "history": "El coffee milk se popularizó en Rhode Island a partir de los años veinte, posiblemente entre la comunidad italiana de Providence. Se prepara con jarabe de café (marcas locales como Autocrat) y se convirtió en un símbolo estatal tan querido que en 1993 fue declarada bebida oficial de Rhode Island, por encima de la limonada helada rival.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 1,
     "prepTimeMin": 3,
     "cookTimeMin": 0,
@@ -8888,7 +8837,7 @@
       "Mezcla primero el jarabe con una pequeña parte de leche y añade el resto para integrarlo sin grumos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-new-haven-clam-apizza",
@@ -8897,7 +8846,7 @@
     "placeId": "us-ct",
     "summary": "Pizza sin salsa de tomate, de corteza fina y carbonizada, cubierta de almejas frescas, ajo, orégano, aceite y queso rallado.",
     "history": "La 'apizza' de New Haven, Connecticut, es una tradición de los inmigrantes italianos horneada en horno de carbón. La versión de almejas blancas se popularizó en Frank Pepe Pizzeria Napoletana hacia los años sesenta, cuando se colocaron almejas frescas recién abiertas sobre una base blanca con ajo y aceite. Es una de las pizzas más celebradas del país.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 3,
     "prepTimeMin": 90,
     "cookTimeMin": 12,
@@ -8950,7 +8899,7 @@
       "Precalienta bien la piedra o bandeja y cocina hasta que las almejas estén opacas; no basta con dorar el borde."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-pork-roll-egg-cheese",
@@ -8959,7 +8908,7 @@
     "placeId": "us-nj",
     "summary": "Sándwich de desayuno con embutido de cerdo frito, huevo y queso American en un bollo, el clásico matutino de Nueva Jersey.",
     "history": "El pork roll, conocido como 'Taylor ham' en el norte de Nueva Jersey, es un embutido de cerdo curado creado en el siglo XIX por John Taylor en Trenton. El sándwich de pork roll con huevo y queso es el desayuno callejero por excelencia del estado, motivo de un cariñoso debate regional sobre cómo llamarlo.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 1,
     "prepTimeMin": 5,
     "cookTimeMin": 10,
@@ -9005,7 +8954,7 @@
       "Haz cortes radiales poco profundos en el pork roll para que permanezca plano en la sartén."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-ne-soft-pretzel",
@@ -9082,7 +9031,7 @@
     "placeId": "us-vt",
     "summary": "Golosina de jarabe de arce caliente vertido sobre nieve, donde cuaja en hilos pegajosos que se comen como caramelo.",
     "history": "Vermont es el mayor productor de jarabe de arce de Estados Unidos. Durante la temporada de recolección (sugaring season, a finales del invierno), es tradición hervir el jarabe y verterlo sobre nieve limpia para que se solidifique en una golosina masticable. Se acompaña típicamente de encurtidos y rosquillas para cortar el dulzor.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 5,
     "cookTimeMin": 10,
@@ -9126,7 +9075,7 @@
       "Vierte el jarabe en hilos finos sobre hielo de agua potable; el caramelo caliente puede causar quemaduras."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-chicago-deep-dish",
@@ -9135,7 +9084,7 @@
     "placeId": "us-il",
     "summary": "Pizza de molde alto y bordes gruesos con el queso abajo, relleno generoso y salsa de tomate encima, marca registrada de Chicago.",
     "history": "Se atribuye a la pizzería Pizzeria Uno de Chicago, donde a finales de los años cuarenta se popularizó esta versión honda horneada en molde de acero. A diferencia de la pizza napolitana, la masa forma una especie de tarta profunda: primero el queso, luego los ingredientes y por último la salsa, para que el queso no se queme durante la larga cocción. Se convirtió en símbolo culinario de la ciudad.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 40,
     "cookTimeMin": 35,
@@ -9195,7 +9144,7 @@
     "tips": [
       "Usa salchicha previamente cocida y escurrida para controlar la humedad del relleno."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-chicago-hot-dog",
@@ -9204,7 +9153,7 @@
     "placeId": "us-il",
     "summary": "Salchicha de res en pan con semillas de amapola y siete complementos clásicos, servida siempre sin cátsup.",
     "history": "Surgió en Chicago durante la Gran Depresión como comida callejera abundante y económica, muy ligada a las comunidades inmigrantes de Europa del Este. La regla local es tajante: nunca lleva cátsup. Su combinación de mostaza, relish verde, cebolla, tomate, pepinillo, chiles deportivos y sal de apio se conoce como el perrito 'arrastrado por el jardín'.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 10,
@@ -9261,7 +9210,7 @@
       "Calienta las salchichas sin hervor fuerte para evitar que se abra la piel."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-italian-beef",
@@ -9270,7 +9219,7 @@
     "placeId": "us-il",
     "summary": "Sándwich de res rostizada en rebanadas finas, empapada en su jugo especiado y coronada con giardiniera o pimientos dulces.",
     "history": "Nació en las comunidades italoamericanas de Chicago, donde para rendir cortes de res económicos se rostizaban, se rebanaban muy delgados y se servían en pan bañado en el propio caldo. Se popularizó en banquetes y luego en pequeños locales de la ciudad. Se pide 'mojado' o 'sumergido' según cuánto jugo lleve, con giardiniera picante o pimientos verdes dulces.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 120,
@@ -9329,7 +9278,7 @@
       "Deja que la carne se enfríe en refrigeración antes de cortarla fina y vuelve a calentar las lonchas en el jugo."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-detroit-pizza",
@@ -9338,7 +9287,7 @@
     "placeId": "us-mi",
     "summary": "Pizza rectangular de masa esponjosa con orilla de queso caramelizado y franjas de salsa de tomate por encima.",
     "history": "Se originó en Detroit a mediados del siglo XX, cuando se comenzó a hornear en charolas industriales de acero azul usadas en las fábricas de automóviles. El queso brick se extiende hasta las orillas y se dora contra el molde formando una costra crujiente característica. La salsa se coloca en franjas sobre el queso, al estilo 'red top'.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 30,
     "cookTimeMin": 20,
@@ -9390,7 +9339,7 @@
     "tips": [
       "Lleva el queso hasta las paredes del molde para formar el borde dorado característico."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-coney-dog",
@@ -9466,7 +9415,7 @@
     "placeId": "us-oh",
     "summary": "Salsa de carne fina y especiada con toques de canela y chocolate, servida sobre espagueti y coronada con montaña de queso.",
     "history": "Fue creado en 1922 por los hermanos Kiradjieff, inmigrantes macedonios que abrieron el restaurante Empress junto a un teatro de Cincinnati. Adaptaron especias mediterráneas de Oriente Medio a una salsa de carne que sirvieron sobre espagueti. Se pide por 'vías': tres vías lleva queso, cuatro añade cebolla y cinco suma frijoles.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 90,
@@ -9529,7 +9478,7 @@
       "Usa espagueti ya cocido y mantenlo caliente mientras terminas la salsa de carne."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-kc-burnt-ends",
@@ -9538,7 +9487,7 @@
     "placeId": "us-mo",
     "summary": "Puntas de pecho de res ahumadas y caramelizadas dos veces, bañadas en salsa barbacoa dulce y espesa.",
     "history": "Son las puntas ricas en grasa del pecho de res (brisket) ahumado, que en Kansas City se convirtieron en manjar. Se atribuye su popularización a Arthur Bryant's, donde antaño se regalaban esos recortes a la clientela en fila. Un artículo de Calvin Trillin en 1972 los lanzó a la fama nacional. Hoy se ahúman aparte, se glasean y se caramelizan de nuevo.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 480,
@@ -9595,7 +9544,7 @@
       "La carne debe estar tierna antes de cortarla en cubos; la última hora sirve para fijar el glaseado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-toasted-ravioli",
@@ -9659,7 +9608,7 @@
       "Usa ravioles ya cocidos, fríos y secos; el relleno de carne no corresponde al filtro vegetariano."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-gooey-butter-cake",
@@ -9740,7 +9689,7 @@
     "placeId": "us-wi",
     "summary": "Grumos de queso cheddar fresco rebozados y fritos, crujientes por fuera y elásticos y chirriantes por dentro.",
     "history": "Wisconsin, corazón lechero de Estados Unidos, hizo de los cheese curds (los grumos frescos que se separan del suero al hacer cheddar) un emblema. Muy frescos rechinan al morderse. Rebozados y fritos se volvieron estrella de ferias estatales y cervecerías de la región.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 10,
@@ -9794,7 +9743,7 @@
       "Fríe por tandas pequeñas y sirve enseguida para conservar el contraste entre costra y queso suave."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-sheboygan-brat",
@@ -9803,7 +9752,7 @@
     "placeId": "us-wi",
     "summary": "Salchicha de cerdo asada al carbón y servida en pan semmel con mostaza, cebolla y pepinillos, típica de las 'fry-outs' de Wisconsin.",
     "history": "Los inmigrantes alemanes llevaron la bratwurst a Wisconsin, y Sheboygan se autoproclamó capital mundial de esta salchicha. La costumbre local es asarla lentamente al carbón y a veces remojarla en cerveza y cebolla. Se sirve en un panecillo firme tipo semmel, con frecuencia doble, en reuniones al aire libre llamadas 'brat fry'.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 25,
@@ -9855,7 +9804,7 @@
       "La precocción debe ser suave y la salchicha fresca de cerdo debe alcanzar 71 °C antes de servirse."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-juicy-lucy",
@@ -9926,7 +9875,7 @@
     "placeId": "us-mn",
     "summary": "Guiso al horno de carne molida, verduras y crema, cubierto con una capa dorada de croquetas de papa (tater tots).",
     "history": "El 'hotdish' es el guiso comunitario por excelencia de Minnesota y las llanuras del norte, popular en cenas de iglesia y reuniones familiares desde mediados del siglo XX. Combina proteína, verdura, una sopa cremosa enlatada como base y una cubierta crujiente; la versión con tater tots es la más querida y económica de preparar para muchos comensales.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 50,
@@ -9981,7 +9930,7 @@
       "Coloca las papas congeladas en una sola capa y comprueba 74 °C en el centro del gratinado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-runza",
@@ -9990,7 +9939,7 @@
     "placeId": "us-ne",
     "summary": "Pan de levadura relleno de carne de res molida, col y cebolla, horneado hasta dorar, herencia de los alemanes del Volga.",
     "history": "Los alemanes del Volga, que emigraron desde Rusia a las llanuras de Nebraska, llevaron el bierock, un pan relleno de carne y col. Sally Everett adaptó la receta familiar, la bautizó 'runza' y en 1949 fundó en Lincoln una cadena de restaurantes que hizo del panecillo un emblema estatal de Nebraska.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 40,
     "cookTimeMin": 25,
@@ -10051,7 +10000,7 @@
     "tips": [
       "Enfría el relleno antes de envolverlo para no humedecer ni romper la masa."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-pork-tenderloin-sandwich",
@@ -10118,7 +10067,7 @@
       "Aplana a grosor uniforme y cocina hasta 63 °C; deja reposar 3 minutos antes de montar el sándwich."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-mw-chislic",
@@ -10194,7 +10143,7 @@
     "placeId": "us-ca",
     "summary": "Guiso de mariscos en caldo de tomate y vino de los pescadores italianos de San Francisco, con cangrejo Dungeness, almejas, mejillones y pescado.",
     "history": "Nació a finales del siglo XIX entre los pescadores genoveses de North Beach, en San Francisco, que cocinaban lo que sobraba de la pesca del día en una gran olla comunal. Su nombre deriva del 'ciuppin', una sopa marinera de Liguria, aunque la leyenda local lo atribuye al grito 'chip in' con que los pescadores pedían aportar algo a la olla. La primera receta impresa apareció en un periódico de San Francisco a comienzos del siglo XX.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 45,
@@ -10268,7 +10217,7 @@
       "Añade los mariscos por orden de cocción y desecha las conchas que permanezcan cerradas."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-mission-burrito",
@@ -10277,7 +10226,7 @@
     "placeId": "us-ca",
     "summary": "Burrito gigante estilo San Francisco con arroz, frijoles, carne, queso, guacamole y salsa, envuelto muy apretado en una tortilla de harina grande.",
     "history": "Surgió en las taquerías del barrio Mission de San Francisco hacia los años sesenta y setenta, dentro de la comunidad mexicoamericana. A diferencia del burrito del norte de México, el estilo Mission es enorme, lleva arroz y se envuelve con papel aluminio para comerlo de pie. Se convirtió en un ícono de la comida rápida californiana.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 25,
     "cookTimeMin": 15,
@@ -10332,7 +10281,7 @@
       "El arroz, los frijoles y la carne deben estar ya cocidos y calientes antes de montar el burrito."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-french-dip",
@@ -10394,7 +10343,7 @@
       "La aguja puede necesitar más tiempo que el lomo: cocina hasta que el corte elegido esté tierno."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-green-chile-stew",
@@ -10403,7 +10352,7 @@
     "placeId": "us-nm",
     "summary": "Guiso reconfortante de cerdo o res con papa y abundante chile verde de Nuevo México asado, símbolo de la cocina neomexicana.",
     "history": "El chile verde, en especial el cultivado en el valle de Hatch, es el corazón de la identidad culinaria de Nuevo México. Este guiso combina la tradición indígena pueblo y la hispana del suroeste, aprovechando el chile de la cosecha de otoño que se asa y se congela para todo el año. Se sirve solo o con tortilla, y la pregunta estatal '¿rojo o verde?' resume su importancia.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 70,
@@ -10463,7 +10412,7 @@
       "La harina de trigo de esta versión impide clasificarla como libre de gluten."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-nm-enchiladas",
@@ -10472,7 +10421,7 @@
     "placeId": "us-nm",
     "summary": "Enchiladas al estilo de Nuevo México servidas apiladas en capas planas, bañadas en salsa de chile rojo y coronadas con un huevo frito.",
     "history": "A diferencia de las enchiladas enrolladas del centro de México, la tradición neomexicana las prepara apiladas: tortillas de maíz en capas con queso y cebolla, cubiertas de salsa de chile rojo seco molido. Es un plato distintivo del estado, herencia de la cocina hispana del suroeste, que suele rematarse con un huevo frito encima.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 25,
@@ -10532,7 +10481,7 @@
       "Usa caldo de verduras para mantener la preparación vegetariana y sirve el huevo bien cuajado."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-sonoran-hot-dog",
@@ -10600,7 +10549,7 @@
       "Gira las salchichas para dorar el tocino por todos lados y usa frijoles calientes ya cocidos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-navajo-taco",
@@ -10609,7 +10558,7 @@
     "placeId": "us-az",
     "summary": "Pan frito esponjoso (fry bread) cubierto con frijoles, carne molida sazonada, lechuga, tomate y queso, servido como taco abierto.",
     "history": "El fry bread surgió en el siglo XIX entre los pueblos nativos americanos, en especial los navajo, tras el desplazamiento forzado conocido como la Larga Caminata, cuando el gobierno repartió harina, manteca y azúcar. Con esos ingredientes nació este pan frito, y más tarde el Navajo taco al añadirle guarniciones. Hoy es un plato símbolo, a la vez orgullo cultural y recordatorio de una historia difícil.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 20,
@@ -10668,7 +10617,7 @@
       "Fríe la masa a unos 175 °C y cocina la carne molida hasta 71 °C antes de montar el taco."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-rocky-mountain-trout",
@@ -10799,7 +10748,7 @@
     "placeId": "us-wa",
     "summary": "Filete de salmón del Pacífico asado sobre una tabla de cedro que le aporta un característico aroma ahumado, tradición del noroeste.",
     "history": "Los pueblos originarios de la costa noroeste del Pacífico, en Washington y Oregón, cocinaban el salmón sujeto a tablones de cedro junto al fuego. Esa técnica ancestral perdura en la cocina regional: la madera humedecida infunde al pescado un aroma amaderado inconfundible. El salmón es aquí un alimento central, cultural y económico.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 20,
@@ -10855,7 +10804,7 @@
     "tips": [
       "Utiliza solo una tabla apta para cocinar, mantenla lejos de llamas directas y comprueba 63 °C en el salmón."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-marionberry-pie",
@@ -10864,7 +10813,7 @@
     "placeId": "us-or",
     "summary": "Pay de doble corteza relleno de marionberry, una mora híbrida creada en Oregón de sabor intenso y ligeramente ácido.",
     "history": "La marionberry es una zarzamora híbrida desarrollada en la Universidad Estatal de Oregón y liberada en 1956, bautizada por el condado de Marion, donde se probó. Oregón es su principal productor mundial y la baya se volvió emblema del estado. El pay que la lleva es un postre de temporada muy querido en la región.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 40,
     "cookTimeMin": 50,
@@ -10919,7 +10868,7 @@
     "tips": [
       "Espera al menos 2 horas después de hornear para que el relleno se asiente antes de rebanar."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-poke",
@@ -10928,7 +10877,7 @@
     "placeId": "us-hi",
     "summary": "Cubos de atún fresco marinados en salsa de soya, aceite de ajonjolí, cebolla y algas, plato icónico de Hawái.",
     "history": "El poke ('cortar en trozos' en hawaiano) es un plato ancestral de los pescadores nativos de Hawái, que sazonaban el pescado crudo con sal marina, algas limu y nuez kukui. Con la llegada de inmigrantes japoneses y de otras islas del Pacífico se incorporaron la salsa de soya y el aceite de ajonjolí, dando lugar a la versión moderna que hoy es símbolo de la cocina isleña.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 0,
@@ -10987,7 +10936,7 @@
       "El pescado crudo no es adecuado para personas embarazadas, niños pequeños, adultos mayores o personas inmunodeprimidas; utiliza la alternativa cocida."
     ],
     "restTimeMin": 10,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-loco-moco",
@@ -10996,7 +10945,7 @@
     "placeId": "us-hi",
     "summary": "Plato de arroz blanco con hamburguesa, huevo frito y salsa gravy, comida reconfortante creada en Hilo, Hawái.",
     "history": "Nació en 1949 en el Lincoln Grill de Hilo, en la Isla Grande de Hawái, cuando un grupo de adolescentes del Lincoln Wreckers pidió algo barato y llenador: arroz con una hamburguesa y gravy. Le pusieron 'loco moco' por el apodo de un amigo. Más tarde se le añadió el huevo frito característico y el plato se extendió por todas las islas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 2,
     "prepTimeMin": 15,
     "cookTimeMin": 20,
@@ -11051,7 +11000,7 @@
       "Mantén el arroz y la salsa calientes mientras terminas las hamburguesas y los huevos."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-spam-musubi",
@@ -11060,7 +11009,7 @@
     "placeId": "us-hi",
     "summary": "Bocado de arroz prensado con una rebanada de Spam glaseado, envuelto en una tira de alga nori, muy popular como snack en Hawái.",
     "history": "Es un ejemplo del mestizaje culinario de Hawái: combina el arroz y el onigiri de la inmigración japonesa con el Spam, la carne enlatada que se volvió omnipresente en las islas durante y después de la Segunda Guerra Mundial. Se vende en tiendas de conveniencia y puestos por todas las islas como comida rápida y económica.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 10,
@@ -11114,7 +11063,7 @@
       "Humedece ligeramente el molde y presiona el arroz con suavidad; sirve pronto o refrigera."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-us-w-funeral-potatoes",
@@ -11187,7 +11136,7 @@
     "placeId": "us-ak",
     "summary": "Patas de cangrejo real de Alaska cocidas al vapor y servidas con mantequilla derretida y limón, un manjar del mar de Bering.",
     "history": "El cangrejo real (king crab) del mar de Bering es uno de los productos más preciados de la pesca de Alaska, famoso por sus enormes patas de carne dulce. La flota que lo captura trabaja en aguas gélidas y peligrosas durante temporadas muy cortas. Se prepara de forma sencilla para no opacar su sabor: al vapor con mantequilla.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 10,
     "cookTimeMin": 10,
@@ -11238,7 +11187,7 @@
       "Las patas ya están cocidas: calienta según el envase sin prolongar innecesariamente el vapor."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-it-pasta-carbonara",
@@ -11294,7 +11243,7 @@
       "Mantén el queso finamente rallado y apaga el fuego antes de añadir el huevo."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-it-pizza-napoletana",
@@ -11420,7 +11369,7 @@
       "El caldo debe estar caliente y el arroz debe quedar fluido al servir, no compacto."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-fr-coq-au-vin",
@@ -11697,7 +11646,7 @@
     "tips": [
       "Prueba la sal y el vinagre después de enfriar, cuando el sabor de la sopa cambia ligeramente."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-de-sauerbraten",
@@ -11762,7 +11711,7 @@
     "tips": [
       "Marina siempre en refrigeración y utiliza un recipiente de vidrio o acero inoxidable."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-gr-moussaka",
@@ -11962,7 +11911,7 @@
     "tips": [
       "Los huevos pasteurizados son necesarios en esta preparación sin cocción."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-it-osso-buco",
@@ -12030,7 +11979,7 @@
       "No hiervas con fuerza: una cocción suave conserva mejor la pieza y su tuétano."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-fr-ratatouille",
@@ -12097,7 +12046,7 @@
       "Dora las verduras por tandas para concentrar el sabor sin convertirlas en puré."
     ],
     "restTimeMin": 0,
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-fr-crêpes",
@@ -12165,7 +12114,7 @@
     "tips": [
       "Mantén la sartén fuera del fuego al añadir el licor y no intentes encenderlo."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-es-tortilla",
@@ -12278,7 +12227,7 @@
     "tips": [
       "El tiempo depende del tamaño: comprueba la ternura con una brocheta antes de retirarlo."
     ],
-    "updatedAt": "2026-09-11"
+    "updatedAt": "2026-10-04"
   },
   {
     "id": "r-de-schnitzel",
@@ -12658,7 +12607,7 @@
     "placeId": "fr:grand est",
     "summary": "Tarta salada de Lorena con masa quebrada, panceta ahumada y crema de huevo.",
     "history": "La quiche lorraine es una especialidad de Lorena. Su relleno tradicional combina panceta ahumada con huevos y nata sobre una base de masa quebrada, sin necesidad de queso.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 40,
@@ -12707,7 +12656,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/quiche-lorraine.webp"
   },
   {
@@ -12831,7 +12780,7 @@
     "placeId": "it:emilia-romagna",
     "summary": "Capas de pasta verde con espinaca, ragú boloñés, bechamel y Parmigiano Reggiano.",
     "history": "Las lasagne verdi son una especialidad de Bolonia y Emilia-Romaña. La receta de referencia de la Accademia Italiana della Cucina fue depositada en 2003 ante la Cámara de Comercio de Bolonia.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 60,
     "cookTimeMin": 30,
@@ -12886,7 +12835,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lasagna_bolognese1.jpg/960px-Lasagna_bolognese1.jpg"
   },
   {
@@ -12896,7 +12845,7 @@
     "placeId": "it:liguria",
     "summary": "Pasta corta ligur con pesto de albahaca, piñones, quesos curados y aceite de oliva.",
     "history": "El pesto genovese es una preparación emblemática de Liguria. El Consorzio del Pesto Genovese reconoce una fórmula tradicional de 7 ingredientes, y las trofie son una de las pastas clásicas con las que se sirve.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 30,
     "cookTimeMin": 15,
@@ -12956,7 +12905,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Trofie_al_pesto.jpg/960px-Trofie_al_pesto.jpg"
   },
   {
@@ -12966,7 +12915,7 @@
     "placeId": "it:sicily",
     "summary": "Bolas de arroz doradas y crujientes rellenas de ragú, chícharos y queso.",
     "history": "Los arancini, llamados también arancine según la zona, son una especialidad extendida por Sicilia. El registro regional de productos tradicionales describe la versión clásica de arroz rellena de carne al sugo, chícharos y queso.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 12,
     "prepTimeMin": 45,
     "cookTimeMin": 45,
@@ -13031,7 +12980,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Arancino_Siciliano_.jpg/960px-Arancino_Siciliano_.jpg"
   },
   {
@@ -13041,7 +12990,7 @@
     "placeId": "it:apulia",
     "summary": "Pasta fresca de Apulia con grelos, anchoas, ajo, chile y aceite de oliva.",
     "history": "Las orecchiette con cime di rapa son uno de los platos emblemáticos de Apulia. Italia.it vincula esta pasta fresca con la zona de Bari y destaca el contraste entre los grelos, las anchoas y el chile.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 90,
     "cookTimeMin": 10,
@@ -13093,7 +13042,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Orecchiette_con_cima_di_rapa.jpg/960px-Orecchiette_con_cima_di_rapa.jpg"
   },
   {
@@ -13226,7 +13175,7 @@
     "placeId": "br-ba",
     "summary": "Guiso bahiano de pescado con leche de coco, aceite de dendê, tomate, pimiento y cilantro.",
     "history": "La moqueca baiana es una preparación emblemática de Bahía. Combina pescado o marisco con aceite de dendê y leche de coco, y refleja la mezcla de influencias indígenas, africanas y europeas presente en la cocina bahiana.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 30,
@@ -13282,7 +13231,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Moqueca-_Ilha_de_Mar%C3%A9._Foto_Tatiana_Azeviche_Setur_%2831969364150%29.jpg/960px-Moqueca-_Ilha_de_Mar%C3%A9._Foto_Tatiana_Azeviche_Setur_%2831969364150%29.jpg"
   },
   {
@@ -13343,7 +13292,7 @@
     "placeId": "ar-b",
     "summary": "Parrillada argentina de tira de asado, vacío y chorizos cocinados lentamente sobre brasas.",
     "history": "El asado es una de las expresiones más representativas de la gastronomía argentina y está ligado a la cultura gauchesca de la llanura pampeana. Más que una receta única, es un ritual social de cocción lenta sobre brasas y reunión alrededor de la parrilla.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 90,
@@ -13392,7 +13341,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/asado-argentino-a-la-parrilla.webp"
   },
   {
@@ -13402,7 +13351,7 @@
     "placeId": "ar-a",
     "summary": "Empanadas horneadas de Salta con carne cortada a cuchillo, papa, huevo, cebolla de verdeo y especias.",
     "history": "Las empanadas salteñas son uno de los grandes íconos del norte argentino. Se distinguen por ser pequeñas, especiadas y jugosas, con carne cortada a cuchillo, papa, huevo duro y una masa firme que suele hornearse a alta temperatura.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 12,
     "prepTimeMin": 45,
     "cookTimeMin": 15,
@@ -13458,7 +13407,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Empanadas_salte%C3%B1as_1.jpg/960px-Empanadas_salte%C3%B1as_1.jpg"
   },
   {
@@ -13468,7 +13417,7 @@
     "placeId": "ar-t",
     "summary": "Guiso espeso de maíz blanco, porotos, zapallo, carnes y chorizo colorado, tradicional en fechas patrias.",
     "history": "El locro tiene raíces prehispánicas andinas y se extendió por el noroeste, Cuyo y luego todo el país. En Argentina se convirtió en un símbolo de las celebraciones patrias, preparado lentamente con maíz, zapallo, porotos y distintas carnes.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 30,
     "cookTimeMin": 180,
@@ -13524,7 +13473,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Argentine_locro.jpg/960px-Argentine_locro.jpg"
   },
   {
@@ -13674,7 +13623,7 @@
     "placeId": "pe-lim",
     "summary": "Salteado peruano de carne de res, cebolla, tomate y ají amarillo al wok, terminado con sillao y vinagre y servido con papas fritas y arroz.",
     "history": "El lomo saltado se consolidó en Lima hacia finales del siglo XIX como una expresión de la cocina chifa. La técnica cantonesa del salteado en wok se combinó con ingredientes y guarniciones peruanas, creando uno de los ejemplos más conocidos de la fusión culinaria entre Perú y China.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 20,
@@ -13740,7 +13689,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg/960px-Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg"
   },
   {
@@ -14206,7 +14155,7 @@
     "placeId": "co-ant",
     "summary": "Plato abundante de Antioquia con frijoles, arroz, carne molida, chicharrón, chorizo, huevo, plátano maduro, arepa y aguacate.",
     "history": "La bandeja paisa está estrechamente asociada con Antioquia y el Eje Cafetero. Su formato reúne en una sola bandeja alimentos energéticos de la tradición campesina paisa y hoy es uno de los platos colombianos más reconocidos.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 25,
     "cookTimeMin": 90,
@@ -14270,7 +14219,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bandeja_paisa_30062011.jpg/960px-Bandeja_paisa_30062011.jpg"
   },
   {
@@ -14280,7 +14229,7 @@
     "placeId": "co-cun",
     "summary": "Sopa espesa de Bogotá con pollo, tres tipos de papa, mazorca y guascas, servida con crema, alcaparras y aguacate.",
     "history": "El ajiaco santafereño es una de las preparaciones más identificadas con Bogotá y el altiplano cundiboyacense. Su carácter distintivo proviene de la combinación de distintas papas andinas y guascas, acompañadas de pollo y maíz.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 60,
@@ -14341,7 +14290,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ajiaco-santafere%C3%B1o.JPG/960px-Ajiaco-santafere%C3%B1o.JPG"
   },
   {
@@ -14351,7 +14300,7 @@
     "placeId": "co-tol",
     "summary": "Cerdo asado lentamente con arveja amarilla y especias, de piel dorada y crujiente, típico del Tolima.",
     "history": "La lechona es una preparación emblemática del Tolima y Huila. La versión tolimense tradicional se centra en carne de cerdo, arveja y condimentos cocinados lentamente, y suele servirse en celebraciones y reuniones numerosas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 35,
     "cookTimeMin": 180,
@@ -14410,7 +14359,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lechona.JPG/960px-Lechona.JPG"
   },
   {
@@ -14420,7 +14369,7 @@
     "placeId": "co-atl",
     "summary": "Arepa caribeña de maíz frita dos veces, rellena con un huevo entero para lograr una corteza crujiente y un centro suave.",
     "history": "La arepa de huevo es una especialidad del Caribe colombiano y tiene una fuerte tradición en lugares como Luruaco, Atlántico. Se prepara friendo una arepa de maíz, abriéndola para introducir el huevo y volviéndola a freír.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 20,
     "cookTimeMin": 25,
@@ -14464,7 +14413,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Arepas_de_huevo.jpg/960px-Arepas_de_huevo.jpg"
   },
   {
@@ -14551,7 +14500,7 @@
     "placeId": "ma",
     "summary": "Cuscús esponjoso con garbanzos y siete verduras cocidas en un caldo especiado, servido como un plato abundante para compartir.",
     "history": "El cuscús forma parte central de las tradiciones culinarias del Magreb y en Marruecos se asocia especialmente con las comidas familiares y el viernes. En 2020, los conocimientos y prácticas relacionados con su producción y consumo, compartidos por Marruecos, Argelia, Mauritania y Túnez, fueron inscritos por la UNESCO como patrimonio cultural inmaterial.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 25,
     "cookTimeMin": 50,
@@ -14626,7 +14575,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/cuscus-marroqui-siete-verduras.webp"
   },
   {
@@ -14636,7 +14585,7 @@
     "placeId": "ma",
     "summary": "Sopa marroquí de tomate, garbanzos, lentejas, hierbas, carne y fideos finos, espesa y reconfortante.",
     "history": "La harira es una sopa emblemática de Marruecos preparada con legumbres, tomate, hierbas y, con frecuencia, carne y fideos. Está especialmente vinculada al mes de Ramadán, cuando suele servirse para romper el ayuno acompañada de dátiles, limón y dulces tradicionales.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 20,
     "cookTimeMin": 70,
@@ -14708,7 +14657,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-23",
-    "updatedAt": "2026-09-23",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/harira-marroqui-tradicional.webp"
   },
   {
@@ -14718,7 +14667,7 @@
     "placeId": "it-emr-bol",
     "summary": "Capas de pasta al huevo con ragú de res y cerdo, bechamel sedosa y Parmigiano Reggiano, horneadas hasta quedar doradas.",
     "history": "La lasaña a la boloñesa está asociada con Emilia-Romaña y con la tradición de los almuerzos dominicales. La versión clásica combina pasta al huevo, ragú de carne, bechamel y queso rallado en capas que se hornean hasta gratinar.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 35,
     "cookTimeMin": 125,
@@ -14782,7 +14731,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-24",
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/lasana-a-la-bolonesa.svg"
   },
   {
@@ -14792,7 +14741,7 @@
     "placeId": "it-lig-gen",
     "summary": "Pasta trofie con pesto de albahaca, piñones, ajo, Parmigiano, pecorino y aceite de oliva, acompañada de papa y judías verdes.",
     "history": "Las trofie con pesto son uno de los platos emblemáticos de Liguria. El pesto genovés se prepara tradicionalmente machacando albahaca, ajo, piñones, queso y aceite de oliva, y en la región suele acompañar esta pasta retorcida con papa y judías verdes.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 20,
     "cookTimeMin": 25,
@@ -14851,7 +14800,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-24",
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/trofie-al-pesto-genoves.svg"
   },
   {
@@ -14861,7 +14810,7 @@
     "placeId": "it-sic",
     "summary": "Bolas de arroz rellenas de ragú, guisantes y mozzarella, empanizadas y fritas hasta quedar doradas y crujientes.",
     "history": "Los arancini, llamados también arancine en algunas zonas de Sicilia, son una especialidad de arroz muy vinculada a la comida callejera de la isla. Existen numerosos rellenos regionales; la versión con ragú, guisantes y queso es una de las más conocidas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 8,
     "prepTimeMin": 35,
     "cookTimeMin": 45,
@@ -14925,7 +14874,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-24",
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/arancini-sicilianos.svg"
   },
   {
@@ -14935,7 +14884,7 @@
     "placeId": "it-cam",
     "summary": "Ñoquis de papa con salsa de tomate, mozzarella, Parmigiano Reggiano y albahaca, gratinados hasta quedar burbujeantes y dorados.",
     "history": "Los gnocchi a la sorrentina son una preparación tradicional de Campania en la que los ñoquis se mezclan con tomate, albahaca y quesos antes de gratinarse. Es un plato reconfortante muy ligado a las comidas familiares de la región.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 4,
     "prepTimeMin": 15,
     "cookTimeMin": 30,
@@ -14989,7 +14938,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-24",
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/gnocchi-a-la-sorrentina.svg"
   },
   {
@@ -15147,7 +15096,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-24",
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/chana-masala-panyabi.webp"
   },
   {
@@ -15224,7 +15173,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-24",
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/masala-dosa.webp"
   },
   {
@@ -15234,7 +15183,7 @@
     "placeId": "in-tg",
     "summary": "Arroz basmati aromático cocido en capas sobre pollo marinado con yogur y especias, con cebolla frita, menta y azafrán.",
     "history": "El biryani de Hyderabad se desarrolló en las cocinas de los nizams, gobernantes del Decán, donde se unieron técnicas persas y tradiciones locales. Se termina con el método dum: el arroz y la carne se cocinan juntos a fuego muy lento en una olla sellada para que se impregnen de aromas.",
-    "originConfidence": "confirmed",
+    "originConfidence": "commonly_associated",
     "servings": 6,
     "prepTimeMin": 30,
     "cookTimeMin": 60,
@@ -15308,7 +15257,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-24",
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/biryani-de-pollo-hyderabadi.webp"
   },
   {
@@ -15371,7 +15320,7 @@
     "ratingCount": 0,
     "popularityScore": 0,
     "publishedAt": "2026-09-24",
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-04",
     "image": "/images/recipes-v2/masala-chai.webp"
   }
 ]

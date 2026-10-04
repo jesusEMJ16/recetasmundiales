@@ -927,20 +927,19 @@
   },
   "r-mxn-almejas-tatemadas": {
     "dishName": "Almejas tatemadas (palourdes rôties au feu)",
-    "summary": "Des palourdes chocolata rôties sur les braises et des branches aromatiques, une spécialité de Loreto.",
-    "history": "Les almejas tatemadas sont un plat ancestral de Loreto, en Basse-Californie du Sud, où la consommation de coquillages remonte à l’époque préhispanique, comme en témoignent les amas de coquilles de la région. Les palourdes chocolata sont installées dans du gravier puis recouvertes de branches de chamizo ou de romerillo dont la combustion leur donne leur saveur fumée caractéristique.",
+    "summary": "Palourdes chocolat au gril : une adaptation domestique du plat associé à Loreto.",
+    "history": "Les palourdes tatemadas sont associées à Loreto, en Basse-Californie du Sud. Cette version utilise un gril adapté aux aliments, sans la méthode avec gravier et branches. Vérifiez la cuisson par l’ouverture des coquilles et la chair cuite.",
     "ingredients": [
       "12 palourdes chocolata fraîches",
-      "Branches de chamizo ou de romerillo (ou bois aromatique)",
       "Citrons verts",
       "Sauce piquante selon le goût",
       "Sel"
     ],
     "steps": [
-      "Nettoyez soigneusement les palourdes et posez-les, charnière vers le bas, sur un lit de gravier ou une grille.",
-      "Recouvrez-les de branches de chamizo ou de romerillo.",
-      "Allumez les branches et laissez la chaleur et la fumée cuire les palourdes pendant environ 40 minutes.",
-      "Retirez-les une fois les coquilles ouvertes et la chair cuite.",
+      "Lavez et inspectez les palourdes ; jetez les coquilles cassées et celles qui restent ouvertes après un léger tapotement.",
+      "Préchauffez un gril adapté aux aliments. Cette adaptation domestique n’utilise ni terre, ni gravier, ni branches non identifiées.",
+      "Cuisez les palourdes jusqu’à l’ouverture des coquilles. Jetez celles qui restent fermées après cuisson.",
+      "Retirez avec une pince et vérifiez que la chair est cuite ; ne forcez pas les coquilles fermées.",
       "Servez avec du citron vert, du sel et de la sauce piquante."
     ],
     "tips": [
@@ -1448,7 +1447,7 @@
       "Tortillas de maïs"
     ],
     "steps": [
-      "Grillez la cecina au charbon de bois quelques secondes de chaque côté, en veillant à ne pas la dessécher.",
+      "Cuisez la cecina sur une plaque ou un gril préchauffés et vérifiez la température interne et le repos selon la référence pour le bœuf.",
       "Grillez les nopales et l’oignon à côté de la viande si vous le souhaitez.",
       "Préparez un guacamole simple avec l’avocat, la coriandre, le citron vert et le sel.",
       "Servez la cecina avec la crème mexicaine, le fromage et le guacamole.",
@@ -2063,8 +2062,8 @@
       "Tortillas faites à la main et crème mexicaine"
     ],
     "steps": [
-      "Laissez la cecina se tempérer quelques minutes.",
-      "Grillez-la au charbon de bois ou sur une plaque quelques secondes de chaque côté.",
+      "Gardez la cecina au réfrigérateur jusqu’à la cuisson et préchauffez la plaque ou le gril.",
+      "Cuisez la cecina sur une plaque ou un gril préchauffés et vérifiez la température interne et le repos selon la référence pour le bœuf.",
       "Grillez les nopales préalablement salés.",
       "Servez la cecina avec les nopales, le fromage et l’avocat.",
       "Accompagnez de piments au vinaigre et de pico de gallo.",
