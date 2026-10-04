@@ -5,6 +5,7 @@ const path = require('node:path');
 const { chromium } = require(process.env.PLAYWRIGHT_PATH || 'playwright');
 const base = process.env.SITE_BASE_URL || 'http://127.0.0.1:3000';
 const reports = path.resolve('../image-validation');
+const translatedGuideSlugs = Object.keys(require('../src/data/cooking-guide-translations.json'));
 
 (async () => {
   fs.mkdirSync(reports, { recursive: true });
@@ -94,7 +95,7 @@ const reports = path.resolve('../image-validation');
       await page.goto(base + `/${locale}/receta/almejas-tatemadas`);
       assert.equal(await page.locator('input[type="checkbox"]').count(), 4, locale);
       assert.equal(await page.locator('.recipe-references a[href="https://laroussecocina.mx/palabra/almejada/"]').count(), 1, locale);
-      for (const slug of ['cemita-poblana', 'frijoles-charros', 'discada-nortena', 'caldillo-duranguense', 'tacos-de-carne-asada-nortenos']) {
+      for (const slug of translatedGuideSlugs) {
         await page.goto(base + `/${locale}/receta/${slug}`);
         const language = locale === 'zh' ? 'zh-CN' : locale;
         const direction = ['ar', 'ur'].includes(locale) ? 'rtl' : 'ltr';
@@ -107,13 +108,13 @@ const reports = path.resolve('../image-validation');
     await page.goto(base + '/fr/receta/picadas-veracruzanas');
     assert.equal(await page.locator('.cooking-guide [data-guide-fallback]').count(), 1, 'Untranslated guide notice');
     assert.equal(await page.locator('.cooking-guide p[lang="en"][dir="ltr"]').count(), 1, 'Untranslated guide language');
-    await page.goto(base + '/ar/receta/cemita-poblana');
+    await page.goto(base + '/ar/receta/almejas-tatemadas');
     await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
     await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ar-mobile.png'), animations: 'disabled' });
-    await page.goto(base + '/ja/receta/tacos-de-carne-asada-nortenos');
+    await page.goto(base + '/ja/receta/gorditas-maiz-quebrado-queretanas');
     await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
     await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ja-mobile.png'), animations: 'disabled' });
     assert.deepEqual(errors, [], 'Browser runtime errors');
-    console.log(JSON.stringify({ passed: true, locales: 12, translatedGuides: 5, translatedGuideRoutes: 60, desktop: true, mobile: true, noRuntimeErrors: true, metadata: true, privacy: true, portions: true, recommendations: true }, null, 2));
+    console.log(JSON.stringify({ passed: true, locales: 12, translatedGuides: translatedGuideSlugs.length, translatedGuideRoutes: translatedGuideSlugs.length * 12, desktop: true, mobile: true, noRuntimeErrors: true, metadata: true, privacy: true, portions: true, recommendations: true }, null, 2));
   } finally { await browser.close(); }
 })().catch(error => { console.error(error); process.exit(1); });
