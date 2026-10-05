@@ -52,13 +52,8 @@ describe("editorial review integrity", () => {
     }
   });
 
-  it("serves the first four five-recipe translation batches in all twelve languages", () => {
-    expect(Object.keys(guideTranslations).sort()).toEqual([
-      "cemita-poblana", "frijoles-charros", "discada-nortena", "caldillo-duranguense", "tacos-de-carne-asada-nortenos",
-      "tacos-de-pescado-estilo-baja", "almejas-tatemadas", "carne-asada-a-la-tampiquena", "guacamayas-leon", "gorditas-maiz-quebrado-queretanas",
-      "enchiladas-potosinas", "carne-en-su-jugo", "corundas-michoacanas", "tacos-de-canasta", "quesadillas-de-comal-cdmx",
-      "cecina-de-yecapixtla", "sopa-de-lima", "panuchos-yucatecos", "pan-de-cazon", "pozole-verde-guerrerense",
-    ].sort());
+  it("serves the completed guide translation batches in all twelve languages", () => {
+    expect(Object.keys(guideTranslations).sort()).toEqual(Object.keys(guidance).slice(0, 30).sort());
     for (const slug of Object.keys(guideTranslations)) {
       expect(Object.keys(cookingGuides[slug]).sort(), slug).toEqual([...locales].sort());
       for (const locale of locales) {
@@ -77,9 +72,9 @@ describe("editorial review integrity", () => {
   });
 
   it("retains an honest English fallback for guides outside the translated batch", () => {
-    expect(cookingGuideLocale("picadas-veracruzanas", "fr")).toBe("en");
-    expect(cookingGuideLocale("picadas-veracruzanas", "ar")).toBe("en");
-    expect(cookingGuideLocale("picadas-veracruzanas", "es")).toBe("es");
+    expect(cookingGuideLocale("ceviche-de-marlin-ahumado", "fr")).toBe("en");
+    expect(cookingGuideLocale("ceviche-de-marlin-ahumado", "ar")).toBe("en");
+    expect(cookingGuideLocale("ceviche-de-marlin-ahumado", "es")).toBe("es");
   });
 
   it("links country reading suggestions to recipes in that same country", () => {
