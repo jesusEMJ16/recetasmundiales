@@ -5,6 +5,7 @@ import guidance from "../data/editorial-guidance.json";
 import countryGuides from "../data/country-guides.json";
 import { cookingGuides, cookingGuideLocale } from "../data/cooking-guides";
 import guideTranslations from "../data/cooking-guide-translations.json";
+import longGuideTranslations from "../data/long-cooking-guide-translations.json";
 import { editorialReferences, getRecipeReferences } from "./references";
 import { locales } from "../i18n/config";
 import { translateRecipe } from "../i18n/recipe-content";
@@ -53,7 +54,7 @@ describe("editorial review integrity", () => {
   });
 
   it("serves the completed guide translation batches in all twelve languages", () => {
-    expect(Object.keys(guideTranslations).sort()).toEqual(Object.keys(guidance).slice(0, 50).sort());
+    expect(Object.keys(guideTranslations).sort()).toEqual(Object.keys(guidance).sort());
     for (const slug of Object.keys(guideTranslations)) {
       expect(Object.keys(cookingGuides[slug]).sort(), slug).toEqual([...locales].sort());
       for (const locale of locales) {
@@ -71,10 +72,34 @@ describe("editorial review integrity", () => {
     }
   });
 
-  it("retains an honest English fallback for guides outside the translated batch", () => {
-    expect(cookingGuideLocale("hot-dog-estilo-chicago", "fr")).toBe("en");
-    expect(cookingGuideLocale("hot-dog-estilo-chicago", "ar")).toBe("en");
-    expect(cookingGuideLocale("hot-dog-estilo-chicago", "es")).toBe("es");
+  it("completes both four-section guides and serves every guide in the requested language", () => {
+    expect(Object.keys(longGuideTranslations).sort()).toEqual(["guacamole", "tiramisu"]);
+    expect(Object.keys(cookingGuides)).toHaveLength(58);
+    const pendingLanguages = locales.filter(locale => locale !== "es" && locale !== "en");
+    for (const slug of Object.keys(longGuideTranslations)) {
+      expect(Object.keys(longGuideTranslations[slug as keyof typeof longGuideTranslations]).sort()).toEqual([...pendingLanguages].sort());
+      for (const locale of locales) {
+        const guide = cookingGuides[slug][locale]!;
+        expect(guide.title.trim(), `${slug}/${locale}`).not.toBe("");
+        expect(guide.sections).toHaveLength(4);
+        for (const section of guide.sections) {
+          expect(section.title.trim()).not.toBe("");
+          // Chinese conveys the same preparation detail in fewer characters.
+          expect(section.text.length).toBeGreaterThan(locale === "zh" ? 70 : 100);
+        }
+        if (locale !== "es" && locale !== "en") {
+          expect(guide.title).not.toBe(cookingGuides[slug].en!.title);
+          for (let index = 0; index < 4; index++) {
+            expect(guide.sections[index].text).not.toBe(cookingGuides[slug].en!.sections[index].text);
+            expect(guide.sections[index].text).not.toBe(cookingGuides[slug].es!.sections[index].text);
+          }
+        }
+      }
+    }
+    for (const slug of Object.keys(cookingGuides)) {
+      expect(Object.keys(cookingGuides[slug]).sort()).toEqual([...locales].sort());
+      for (const locale of locales) expect(cookingGuideLocale(slug, locale), `${slug}/${locale}`).toBe(locale);
+    }
   });
 
   it("links country reading suggestions to recipes in that same country", () => {
