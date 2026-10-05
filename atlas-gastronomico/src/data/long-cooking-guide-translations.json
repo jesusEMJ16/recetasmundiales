@@ -1,0 +1,426 @@
+{
+  "guacamole": {
+    "zh": {
+      "title": "如何做出风味平衡的牛油果酱",
+      "sections": [
+        {
+          "title": "挑选和准备牛油果",
+          "text": "选择轻压时稍有弹性、没有凹陷或过软的牛油果。果肉太硬就难以压碎，会留下韧硬的块。先备好洋葱、辣椒和香菜，再切开牛油果，这样可以迅速拌好上桌，不必让果肉在整个准备过程中暴露在空气中。"
+        },
+        {
+          "title": "质地与水分",
+          "text": "用叉子压碎，保留一些柔软的小块。搅拌机会做出更像沙司的质地。配料要切细，让它们分布均匀而不主导每口味道。如果番茄汁很多，加入前去掉部分种子，并让番茄丁沥水；多加青柠汁不能解决水分过多的问题。"
+        },
+        {
+          "title": "调整辣度和酸度",
+          "text": "塞拉诺辣椒逐渐加入，在放完前尝味。可以改用墨西哥辣椒，但每个辣椒的辣度都可能不同。温和版本可省去辣椒。青柠的出汁量取决于大小，应逐渐加入，让牛油果保持主要风味，最后调整盐量。"
+        },
+        {
+          "title": "准备上桌",
+          "text": "玉米片分开放，避免吸湿。短时间等待时，把酱放入容器，抹平表面，贴面盖好并冷藏。空气会促进表面变褐；青柠不能代替冷藏，也不能保证颜色不变。接近食用时间制作，更容易控制质地和新鲜度。"
+        }
+      ]
+    },
+    "hi": {
+      "title": "संतुलित स्वाद वाला ग्वाकामोले कैसे बनाएँ",
+      "sections": [
+        {
+          "title": "एवोकाडो चुनना और तैयार करना",
+          "text": "ऐसा एवोकाडो चुनें जो हल्के दबाव से थोड़ा दबे, धँसा या बहुत नरम न हो। सख्त गूदा आसानी से नहीं मसलता और कड़े टुकड़े छोड़ता है। एवोकाडो खोलने से पहले प्याज़, मिर्च और हरा धनिया तैयार करें, ताकि गूदा पूरी तैयारी के दौरान खुला रहने के बजाय जल्दी मिलाकर परोसा जा सके।"
+        },
+        {
+          "title": "बनावट और नमी",
+          "text": "कांटे से मसलें और छोटे, नरम टुकड़े बचते हुए रुकें। ब्लेंडर से सॉस जैसी अलग बनावट मिलती है। साथ की सामग्री बारीक काटें ताकि हर कौर पर हावी होने के बजाय फैले। टमाटर बहुत रसदार हो तो कुछ बीज हटाएँ और टुकड़ों का पानी निकालें; अधिक लाइम रस अतिरिक्त पानी की समस्या नहीं सुधारता।"
+        },
+        {
+          "title": "तीखापन और खट्टापन समायोजित करना",
+          "text": "सेरानो मिर्च थोड़ा-थोड़ा डालें और बाकी से पहले चखें। जलापेन्यो से बदल सकते हैं, पर हर मिर्च की तीव्रता अलग होती है। हल्के रूप में मिर्च छोड़ें। लाइम के आकार से रस की मात्रा बदलती है; धीरे डालें ताकि एवोकाडो मुख्य स्वाद रहे, और नमक अंत में ठीक करें।"
+        },
+        {
+          "title": "परोसने की तैयारी",
+          "text": "टॉर्टिया चिप्स अलग रखें ताकि नमी न सोखें। थोड़ी देर प्रतीक्षा हो तो ग्वाकामोले पात्र में डालें, सतह समतल करें, सीधे सतह को ढकें और फ्रिज में रखें। हवा से रंग भूरा होता है; लाइम फ्रिज का विकल्प नहीं और रंग बचने की गारंटी भी नहीं। परोसने के पास बनाना बनावट और ताज़गी पर बेहतर नियंत्रण देता है।"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Comment équilibrer votre guacamole",
+      "sections": [
+        {
+          "title": "Choisir et préparer les avocats",
+          "text": "Choisissez un avocat qui cède légèrement sous la pression, sans être affaissé ni trop mou. Une chair dure se réduit mal en purée et laisse des morceaux coriaces. Préparez oignon, piment et coriandre avant d’ouvrir les avocats : vous pourrez mélanger et servir sans exposer la chair pendant toute la préparation."
+        },
+        {
+          "title": "Texture et humidité",
+          "text": "Écrasez à la fourchette en gardant de petits morceaux tendres. Le mixeur donne une texture différente, plus proche d’une sauce. Hachez finement les ajouts pour les répartir sans dominer chaque bouchée. Si la tomate est très juteuse, retirez quelques graines et égouttez les dés avant de les ajouter ; plus de citron vert ne corrige pas l’excès d’eau."
+        },
+        {
+          "title": "Ajuster le piquant et l’acidité",
+          "text": "Ajoutez le serrano progressivement et goûtez avant de mettre le reste. Le jalapeño peut le remplacer, mais le piquant varie entre les piments. Omettez-le pour une version douce. Le jus d’un citron vert dépend de sa taille : versez progressivement pour garder l’avocat comme saveur principale, puis ajustez le sel à la fin."
+        },
+        {
+          "title": "Préparer le service",
+          "text": "Gardez les chips de tortilla séparées pour qu’elles n’absorbent pas l’humidité. Pour une courte attente, transférez dans un récipient, lissez, couvrez au contact et réfrigérez. L’air favorise le brunissement ; le citron vert ne remplace pas le froid et ne garantit pas la couleur. Préparer près du service aide à maîtriser texture et fraîcheur."
+        }
+      ]
+    },
+    "ar": {
+      "title": "كيفية إعداد غواكامولي متوازن",
+      "sections": [
+        {
+          "title": "اختيار الأفوكادو وتجهيزه",
+          "text": "اختر أفوكادو يلين قليلاً عند الضغط دون أن يكون غائراً أو شديد الطراوة. اللب القاسي لا يهرس بسهولة ويترك قطعاً صلبة. جهز البصل والفلفل والكزبرة قبل فتح الأفوكادو لتتمكن من الخلط والتقديم دون تعريض اللب للهواء طوال التحضير."
+        },
+        {
+          "title": "القوام والرطوبة",
+          "text": "اهرس بالشوكة وتوقف مع بقاء قطع صغيرة طرية. يعطي الخلاط قواماً مختلفاً أقرب إلى الصلصة. افرم الإضافات ناعماً لتتوزع دون أن تطغى على كل لقمة. إذا كانت الطماطم كثيرة العصارة، أزل بعض البذور وصف المكعبات قبل إضافتها؛ زيادة الليمون الأخضر لا تعالج الماء الزائد."
+        },
+        {
+          "title": "ضبط الحدة والحموضة",
+          "text": "أضف فلفل سيرانو تدريجياً وتذوق قبل إضافة الباقي. يمكن استبداله بهالابينو، لكن الحدة تختلف بين الحبات. احذف الفلفل لنسخة خفيفة. تختلف كمية عصير الليمون الأخضر حسب الحجم؛ أضفه تدريجياً لتبقى نكهة الأفوكادو رئيسية واضبط الملح في النهاية."
+        },
+        {
+          "title": "التحضير للتقديم",
+          "text": "احتفظ برقائق التورتيلا منفصلة كي لا تمتص الرطوبة. لانتظار قصير، انقل الغواكامولي إلى وعاء وسو السطح وغطه بغطاء ملامس ثم برده. الهواء يشجع اسمرار السطح؛ الليمون لا يغني عن التبريد ولا يضمن ثبات اللون. تحضيره قريباً من التقديم يساعد على ضبط القوام والطزاجة."
+        }
+      ]
+    },
+    "bn": {
+      "title": "ভারসাম্যপূর্ণ স্বাদের গুয়াকামোলে তৈরি",
+      "sections": [
+        {
+          "title": "অ্যাভোকাডো বেছে নেওয়া ও প্রস্তুতি",
+          "text": "এমন অ্যাভোকাডো নিন যা হালকা চাপে একটু নরম হয়, কিন্তু বসে যাওয়া বা অতিরিক্ত নরম নয়। শক্ত শাঁস ভালো মাখা যায় না ও শক্ত টুকরো থেকে যায়। অ্যাভোকাডো কাটার আগে পেঁয়াজ, মরিচ ও ধনেপাতা প্রস্তুত করুন, যাতে পুরো প্রস্তুতিতে শাঁস খোলা না রেখে দ্রুত মিশিয়ে পরিবেশন করা যায়।"
+        },
+        {
+          "title": "গঠন ও আর্দ্রতা",
+          "text": "কাঁটাচামচে মাখুন এবং ছোট নরম টুকরো থাকতে থামুন। ব্লেন্ডারে সসের মতো ভিন্ন গঠন হয়। বাড়তি উপকরণ মিহি কাটুন যাতে ছড়িয়ে থাকে, প্রতি কামড়ে প্রাধান্য না পায়। টমেটো বেশি রসালো হলে কিছু বীজ সরিয়ে টুকরোর পানি ঝরিয়ে দিন; বেশি লাইমের রস বাড়তি পানি ঠিক করে না।"
+        },
+        {
+          "title": "ঝাল ও টকভাব ঠিক করা",
+          "text": "সেরানো অল্প করে দিন ও বাকিটা দেওয়ার আগে চেখে নিন। হালাপেনিয়ো দিয়ে বদলানো যায়, তবে একেক মরিচের ঝাল আলাদা। কম ঝালের জন্য মরিচ বাদ দিন। লাইমের আকারে রসের পরিমাণ বদলায়; ধীরে দিন যাতে অ্যাভোকাডোর স্বাদ প্রধান থাকে, এবং শেষে লবণ ঠিক করুন।"
+        },
+        {
+          "title": "পরিবেশনের প্রস্তুতি",
+          "text": "টর্টিয়া চিপস আলাদা রাখুন যাতে আর্দ্রতা না শোষে। অল্প অপেক্ষার জন্য পাত্রে নিন, উপর সমান করুন, সরাসরি গায়ে লাগিয়ে ঢাকুন ও ফ্রিজে রাখুন। বাতাসে উপর বাদামি হয়; লাইম ফ্রিজের বিকল্প নয়, রং রাখার নিশ্চয়তাও দেয় না। পরিবেশনের কাছাকাছি বানালে গঠন ও সতেজতা ভালো নিয়ন্ত্রণ করা যায়।"
+        }
+      ]
+    },
+    "pt": {
+      "title": "Como equilibrar o guacamole",
+      "sections": [
+        {
+          "title": "Escolher e preparar o abacate",
+          "text": "Escolha um abacate que ceda suavemente à pressão, sem estar afundado nem demasiado mole. A polpa dura não se esmaga bem e deixa pedaços rijos. Prepare a cebola, o pimento e os coentros antes de abrir os abacates, para misturar e servir sem expor a polpa durante toda a preparação."
+        },
+        {
+          "title": "Textura e humidade",
+          "text": "Esmague com um garfo, parando enquanto restarem pequenos pedaços macios. Uma liquidificadora dá uma textura diferente, mais semelhante a um molho. Pique os complementos finamente para se distribuírem sem dominar cada garfada. Se o tomate for muito suculento, retire algumas sementes e escorra os cubos antes de juntar; mais lima não corrige o excesso de água."
+        },
+        {
+          "title": "Ajustar o picante e a acidez",
+          "text": "Junte serrano aos poucos e prove antes de acrescentar o restante. Pode substituir por jalapeño, embora o picante varie entre pimentos. Omita o pimento para uma versão suave. O sumo de uma lima depende do tamanho; junte gradualmente para o abacate continuar a ser o sabor principal e ajuste o sal no final."
+        },
+        {
+          "title": "Preparar para servir",
+          "text": "Mantenha os chips de tortilha separados para não absorverem humidade. Para uma espera curta, transfira para um recipiente, alise, cubra em contacto e refrigere. O ar favorece o escurecimento; a lima não substitui a refrigeração nem garante a cor. Preparar perto de servir permite controlar melhor a textura e a frescura."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Как сбалансировать вкус гуакамоле",
+      "sections": [
+        {
+          "title": "Выбор и подготовка авокадо",
+          "text": "Выберите авокадо, который слегка поддаётся нажатию, без впадин и чрезмерной мягкости. Твёрдая мякоть плохо разминается, оставляя жёсткие кусочки. Подготовьте лук, чили и кинзу до разрезания авокадо, чтобы смешать и подать, не оставляя мякоть открытой на протяжении всей подготовки."
+        },
+        {
+          "title": "Текстура и влажность",
+          "text": "Разминайте вилкой, оставляя небольшие мягкие кусочки. Блендер даёт другую, более соусную текстуру. Мелко нарежьте дополнения для распределения без преобладания в каждом укусе. У очень сочного томата удалите часть семян и отцедите кубики перед добавлением; лишний сок лайма не исправляет избыток воды."
+        },
+        {
+          "title": "Регулировка остроты и кислотности",
+          "text": "Добавляйте серрано постепенно, пробуя перед оставшейся частью. Его можно заменить халапеньо, но острота различается между перцами. Для мягкой версии уберите чили. Количество сока лайма зависит от размера: добавляйте постепенно, сохраняя авокадо главным вкусом, и регулируйте соль в конце."
+        },
+        {
+          "title": "Подготовка к подаче",
+          "text": "Держите кукурузные чипсы отдельно, чтобы они не впитывали влагу. Для короткого ожидания переложите гуакамоле в ёмкость, разровняйте, накройте в контакт и охладите. Воздух способствует потемнению; лайм не заменяет холодильник и не гарантирует сохранение цвета. Приготовление ближе к подаче помогает контролировать текстуру и свежесть."
+        }
+      ]
+    },
+    "ur": {
+      "title": "متوازن ذائقے والا گواکامولے بنانا",
+      "sections": [
+        {
+          "title": "ایوکاڈو چننا اور تیار کرنا",
+          "text": "ایسا ایوکاڈو چنیں جو ہلکے دباؤ سے کچھ نرم ہو، مگر دھنسا یا بہت نرم نہ ہو۔ سخت گودا اچھی طرح نہیں مسلتا اور سخت ٹکڑے چھوڑتا ہے۔ ایوکاڈو کھولنے سے پہلے پیاز، مرچ اور ہرا دھنیا تیار کریں تاکہ پوری تیاری میں گودا کھلا رکھنے کے بجائے جلد ملا کر پیش کر سکیں۔"
+        },
+        {
+          "title": "ساخت اور نمی",
+          "text": "کانٹے سے مسلیں اور چھوٹے نرم ٹکڑے رہتے رک جائیں۔ بلینڈر سے چٹنی جیسی مختلف ساخت بنتی ہے۔ ساتھ کے اجزا باریک کاٹیں تاکہ ہر نوالے پر غالب ہونے کے بجائے پھیلیں۔ ٹماٹر بہت رس دار ہو تو کچھ بیج نکالیں اور ٹکڑوں کا پانی نکال کر ڈالیں؛ زیادہ لائم کا رس اضافی پانی کا مسئلہ حل نہیں کرتا۔"
+        },
+        {
+          "title": "تیزی اور کھٹاس درست کرنا",
+          "text": "سیرانو مرچ تھوڑی تھوڑی ڈالیں اور باقی سے پہلے چکھیں۔ ہالاپینو سے بدل سکتے ہیں، مگر ہر مرچ کی تیزی مختلف ہے۔ ہلکے نسخے میں مرچ چھوڑ دیں۔ لائم کے سائز سے رس کی مقدار بدلتی ہے؛ آہستہ ڈالیں تاکہ ایوکاڈو بنیادی ذائقہ رہے، اور نمک آخر میں درست کریں۔"
+        },
+        {
+          "title": "پیش کرنے کی تیاری",
+          "text": "ٹورٹیلا چپس الگ رکھیں تاکہ نمی نہ جذب کریں۔ مختصر انتظار ہو تو گواکامولے برتن میں ڈالیں، سطح برابر کریں، براہِ راست سطح کو ڈھکیں اور فریج میں رکھیں۔ ہوا رنگ بھورا کرتی ہے؛ لائم ٹھنڈا رکھنے کا بدل نہیں اور رنگ قائم رہنے کی ضمانت بھی نہیں۔ پیش کرنے کے قریب بنانا ساخت اور تازگی پر بہتر قابو دیتا ہے۔"
+        }
+      ]
+    },
+    "id": {
+      "title": "Cara menyeimbangkan rasa guacamole",
+      "sections": [
+        {
+          "title": "Memilih dan menyiapkan alpukat",
+          "text": "Pilih alpukat yang sedikit melunak saat ditekan, tanpa cekungan atau terlalu lembek. Daging keras sulit dilumatkan dan meninggalkan potongan liat. Siapkan bawang, cabai, dan daun ketumbar sebelum membuka alpukat agar dapat segera dicampur dan disajikan tanpa membiarkan daging terpapar sepanjang persiapan."
+        },
+        {
+          "title": "Tekstur dan kelembapan",
+          "text": "Lumatkan dengan garpu, berhenti saat masih ada potongan kecil yang lembut. Blender menghasilkan tekstur berbeda, lebih menyerupai saus. Cincang pelengkap halus agar tersebar tanpa mendominasi setiap suapan. Jika tomat sangat berair, buang sebagian biji dan tiriskan potongan sebelum ditambahkan; perasan jeruk nipis tambahan tidak memperbaiki kelebihan air."
+        },
+        {
+          "title": "Menyesuaikan pedas dan asam",
+          "text": "Tambahkan serrano sedikit demi sedikit, cicipi sebelum memakai sisanya. Jalapeño dapat menggantikannya, tetapi kepedasan berbeda pada tiap cabai. Hilangkan cabai untuk versi ringan. Jumlah perasan jeruk nipis bergantung pada ukuran; tambahkan bertahap agar alpukat tetap menjadi rasa utama dan sesuaikan garam terakhir."
+        },
+        {
+          "title": "Menyiapkan penyajian",
+          "text": "Pisahkan keripik tortilla agar tidak menyerap kelembapan. Untuk menunggu sebentar, pindahkan guacamole ke wadah, ratakan, tutup langsung menyentuh permukaan, dan dinginkan. Udara mendorong pencokelatan; jeruk nipis tidak menggantikan pendinginan atau menjamin warna tetap. Membuatnya mendekati penyajian membantu mengendalikan tekstur dan kesegaran."
+        }
+      ]
+    },
+    "ja": {
+      "title": "味のバランスがよいワカモレの作り方",
+      "sections": [
+        {
+          "title": "アボカドの選び方と準備",
+          "text": "軽く押すと少しへこむ、陥没や過度の柔らかさがないアボカドを選びます。硬い果肉はうまくつぶれず、硬い塊が残ります。切り開く前に玉ねぎ、唐辛子、コリアンダーを用意すれば、果肉を準備中ずっと空気にさらさず、混ぜて出せます。"
+        },
+        {
+          "title": "食感と水分",
+          "text": "フォークでつぶし、柔らかい小さな塊が残るところで止めます。ミキサーではソースに近い別の食感になります。追加の材料は、一口ごとの味を支配せず均等に広がるよう細かく切ります。トマトの汁が多い場合は種の一部を除き、角切りの水気を切ります。ライムを増やしても余分な水分は解消しません。"
+        },
+        {
+          "title": "辛さと酸味の調整",
+          "text": "セラーノを少しずつ加え、残りを入れる前に味見します。ハラペーニョでも代用できますが、辛さは一本ごとに違います。辛さを抑える場合は唐辛子を省きます。ライムの果汁量は大きさで変わるので、アボカドを主な風味に保つよう徐々に加え、塩は最後に調整します。"
+        },
+        {
+          "title": "出すための準備",
+          "text": "トルティーヤチップスは水分を吸わないよう別にします。少し待つ場合は容器に移して表面をならし、表面に密着させて覆い、冷蔵します。空気は変色を促し、ライムは冷蔵の代わりにも色の保証にもなりません。食べる直前に近い時間に作ると、食感と鮮度を調整しやすくなります。"
+        }
+      ]
+    }
+  },
+  "tiramisu": {
+    "zh": {
+      "title": "制作层次清晰的提拉米苏",
+      "sections": [
+        {
+          "title": "准备奶油混合物",
+          "text": "加入蛋白前，基底应均匀。如果马斯卡彭结块，将它分次轻柔拌入蛋黄；长时间用力搅打会让混合物过软。用干净、无油的容器打发蛋白，然后从底部以大幅度翻拌，保留空气，不要继续搅打。"
+        },
+        {
+          "title": "控制手指饼干的咖啡浸泡",
+          "text": "组装前先让咖啡冷却。每块手指饼干短暂蘸入，确认湿润但不会散碎。时间取决于品牌和干燥程度，不必泡到吸满咖啡。如果容器底部出现液体，后面的饼干就少蘸一些。饼干和奶油层均匀交替，让咖啡分布均衡并保持每份的形状。"
+        },
+        {
+          "title": "冷藏静置和呈现",
+          "text": "标注的四小时是冷藏时间，不是主动制作时间。静置让饼干吸湿、奶油变得更有支撑。混合物仍很软时，切块前应再等一段时间，也可用单人杯组装，避免依赖整齐切面。可可粉临上桌时才筛入，避免整个静置过程中受潮。"
+        },
+        {
+          "title": "鸡蛋和冷藏",
+          "text": "此版本不加热鸡蛋，应使用标明巴氏杀菌的鸡蛋或蛋制品，并遵循制造商说明。巴氏杀菌蛋白的打发表现可能不同，要确认产品适合打发。甜点食用前保持冷藏，剩余部分放回冰箱。美国FDA建议生蛋或未充分加热鸡蛋的料理使用巴氏杀菌产品；咖啡和静置不能替代这一处理。"
+        }
+      ]
+    },
+    "hi": {
+      "title": "स्पष्ट परतों वाला तिरामिसू बनाना",
+      "sections": [
+        {
+          "title": "क्रीम तैयार करना",
+          "text": "अंडे की सफेदी से पहले आधार एकसमान दिखना चाहिए। मास्कारपोन में गाँठें हों तो थोड़ी-थोड़ी मात्रा जर्दी में हल्के मिलाएँ; देर तक तेज फेंटने से मिश्रण बहुत नरम हो सकता है। सफेदी के लिए साफ़, चिकनाई रहित पात्र लें, फिर नीचे से बड़े मोड़ों में मिलाएँ ताकि हवा बचे; लगातार फेंटते न रहें।"
+        },
+        {
+          "title": "बिस्कुट में कॉफ़ी की मात्रा नियंत्रित करना",
+          "text": "परतें लगाने से पहले कॉफ़ी ठंडी करें। हर लेडीफिंगर थोड़ी देर डुबोकर देखें कि नम हो, टूटे नहीं। समय ब्रांड और सूखेपन पर निर्भर है; कॉफ़ी से पूरी तरह भरना जरूरी नहीं। पात्र के नीचे तरल जमा हो तो अगले बिस्कुट कम भिगोएँ। बिस्कुट और क्रीम की समान परतें रखें ताकि कॉफ़ी फैले और हर हिस्सा आकार रखे।"
+        },
+        {
+          "title": "ठंडा रखकर जमाना और परोसना",
+          "text": "बताए चार घंटे फ्रिज में रखने के हैं, सक्रिय काम के नहीं। इस विश्राम से बिस्कुट नम और क्रीम मजबूत होती है। मिश्रण बहुत नरम हो तो काटने से पहले और इंतज़ार करें। अलग गिलासों में भी बना सकते हैं, जिनमें साफ़ कट की जरूरत नहीं। कोको अंत में छानें ताकि पूरे विश्राम में गीला न हो।"
+        },
+        {
+          "title": "अंडे और फ्रिज में रखना",
+          "text": "यह रूप अंडे नहीं पकाता: पाश्चुरीकृत लिखे अंडे या अंडे के उत्पाद लें और निर्माता के निर्देश मानें। पाश्चुरीकृत सफेदी अलग तरह फेंट सकती है; उत्पाद की उपयुक्तता देखें। मिठाई परोसने तक फ्रिज में रखें और बचा हिस्सा वापस ठंडा रखें। FDA कच्चे या कम पके अंडे वाले व्यंजनों में पाश्चुरीकृत उत्पाद सुझाता है; कॉफ़ी और विश्राम इस प्रक्रिया का विकल्प नहीं।"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Réussir un tiramisù aux couches nettes",
+      "sections": [
+        {
+          "title": "Préparer la crème",
+          "text": "La base doit être homogène avant d’ajouter les blancs. Si le mascarpone a des grumeaux, incorporez-le doucement aux jaunes en petites quantités ; un fouettage prolongé et vigoureux peut trop ramollir le mélange. Montez les blancs dans un récipient propre et sans graisse, puis incorporez-les par de larges mouvements depuis le fond pour garder l’air, sans continuer à fouetter."
+        },
+        {
+          "title": "Contrôler l’imbibage au café",
+          "text": "Laissez refroidir le café avant le montage. Trempez chaque biscuit brièvement et vérifiez qu’il s’humidifie sans se défaire. Le temps dépend de la marque et du séchage : inutile de le saturer. Si du liquide apparaît au fond, imbibez moins les suivants. Alternez des couches régulières de biscuits et de crème pour répartir le café et conserver la structure des portions."
+        },
+        {
+          "title": "Repos et présentation",
+          "text": "Les quatre heures indiquées sont du temps de réfrigération, pas de travail actif. Le repos hydrate les biscuits et raffermit la crème. Si le mélange reste très mou, attendez davantage avant de couper. Des verres individuels évitent de dépendre d’une découpe nette. Tamisez le cacao au dernier moment pour qu’il ne s’humidifie pas pendant tout le repos."
+        },
+        {
+          "title": "Œufs et réfrigération",
+          "text": "Cette version ne cuit pas les œufs : utilisez des œufs ou produits étiquetés pasteurisés, selon les consignes du fabricant. Les blancs pasteurisés peuvent monter différemment ; vérifiez leur aptitude. Gardez le dessert réfrigéré jusqu’au service et remettez les restes au froid. La FDA recommande des produits pasteurisés pour les préparations aux œufs crus ou peu cuits ; café et repos ne remplacent pas ce traitement."
+        }
+      ]
+    },
+    "ar": {
+      "title": "إعداد تيراميسو بطبقات واضحة",
+      "sections": [
+        {
+          "title": "تحضير الكريمة",
+          "text": "يجب أن تكون القاعدة متجانسة قبل إضافة بياض البيض. إذا تكتل الماسكاربوني، ادمجه برفق مع الصفار على دفعات صغيرة؛ الخفق القوي الطويل قد يجعل الخليط شديد الليونة. استخدم وعاء نظيفاً خالياً من الدهون لخفق البياض، ثم اطوه بحركات واسعة من القاع للحفاظ على الهواء بدلاً من مواصلة الخفق."
+        },
+        {
+          "title": "ضبط تشريب البسكويت بالقهوة",
+          "text": "اترك القهوة تبرد قبل التركيب. اغمس كل إصبع بسكويت قليلاً وتحقق من ترطيبه دون تفككه. تعتمد المدة على العلامة وجفاف البسكويت؛ لا يحتاج إلى التشبع. إذا ظهر سائل في قاع الوعاء، بلل القطع التالية أقل. تناوب طبقات متساوية من البسكويت والكريمة لتوزيع القهوة والحفاظ على شكل كل حصة."
+        },
+        {
+          "title": "الراحة والتقديم",
+          "text": "الساعات الأربع المذكورة وقت تبريد وليست عملاً نشطاً. تسمح الراحة بترطيب البسكويت وتماسك الكريمة. إذا بقي الخليط شديد الليونة، انتظر أكثر قبل التقطيع. يمكن تركيبه في كؤوس فردية دون الاعتماد على قطع نظيف. انخل الكاكاو في النهاية حتى لا يبتل طوال الراحة."
+        },
+        {
+          "title": "البيض والتبريد",
+          "text": "هذه النسخة لا تطهو البيض؛ استخدم بيضاً أو منتجات بيض تحمل وصف مبستر واتبع تعليمات المصنع. قد يخفق البياض المبستر بشكل مختلف، فتحقق من ملاءمته. أبق الحلوى مبردة حتى التقديم وأعد الباقي إلى الثلاجة. توصي إدارة الغذاء والدواء الأمريكية بمنتجات مبسترة للأطباق ذات البيض النيئ أو قليل النضج؛ القهوة والراحة لا تستبدلان هذه المعالجة."
+        }
+      ]
+    },
+    "bn": {
+      "title": "স্পষ্ট স্তরযুক্ত তিরামিসু তৈরি",
+      "sections": [
+        {
+          "title": "ক্রিম প্রস্তুত করা",
+          "text": "ডিমের সাদা অংশ দেওয়ার আগে ভিত্তি একরকম হবে। মাস্কারপোনেতে দলা থাকলে অল্প করে কুসুমে আলতো মেশান; দীর্ঘক্ষণ জোরে ফেটালে মিশ্রণ বেশি নরম হতে পারে। সাদা অংশের জন্য পরিষ্কার, চর্বিমুক্ত পাত্র নিন। পরে নিচ থেকে বড় ভাঁজে মেশান যাতে বাতাস থাকে, ফেটাতে থাকবেন না।"
+        },
+        {
+          "title": "বিস্কুটের কফি ভেজানো নিয়ন্ত্রণ",
+          "text": "সাজানোর আগে কফি ঠান্ডা করুন। প্রতিটি লেডিফিঙ্গার অল্প ডুবিয়ে দেখুন ভিজছে কিন্তু ভাঙছে না। সময় ব্র্যান্ড ও শুকনোভাবের ওপর নির্ভর করে; কফিতে পুরো ভরানো দরকার নেই। পাত্রের তলায় তরল হলে পরের বিস্কুট কম ভেজান। সমান বিস্কুট ও ক্রিমের স্তর পালা করে দিন যাতে কফি ছড়ায় ও প্রতিটি অংশের গঠন থাকে।"
+        },
+        {
+          "title": "বিশ্রাম ও পরিবেশন",
+          "text": "উল্লিখিত চার ঘণ্টা ফ্রিজে রাখার সময়, সক্রিয় কাজ নয়। বিশ্রামে বিস্কুট আর্দ্র ও ক্রিম শক্ত হয়। মিশ্রণ বেশি নরম থাকলে কাটার আগে আরও অপেক্ষা করুন। আলাদা গ্লাসে সাজালে নিখুঁত কাটার প্রয়োজন নেই। শেষে কোকো ছেঁকে দিন যাতে পুরো বিশ্রামে ভিজে না যায়।"
+        },
+        {
+          "title": "ডিম ও ফ্রিজে রাখা",
+          "text": "এই সংস্করণে ডিম রান্না হয় না; পাস্তুরিত লেখা ডিম বা ডিমের পণ্য নিন ও প্রস্তুতকারকের নির্দেশ মানুন। পাস্তুরিত সাদা অংশ অন্যভাবে ফেটতে পারে; উপযুক্ততা দেখুন। পরিবেশন পর্যন্ত ফ্রিজে রাখুন ও বাকি অংশ ঠান্ডায় ফেরত দিন। FDA কাঁচা বা কম রান্না ডিমের খাবারে পাস্তুরিত পণ্য সুপারিশ করে; কফি ও বিশ্রাম এই প্রক্রিয়ার বিকল্প নয়।"
+        }
+      ]
+    },
+    "pt": {
+      "title": "Preparar um tiramisù com camadas definidas",
+      "sections": [
+        {
+          "title": "Preparar o creme",
+          "text": "A base deve estar uniforme antes de juntar as claras. Se o mascarpone tiver grumos, incorpore-o suavemente nas gemas em pequenas adições; bater vigorosamente durante muito tempo pode amolecer demais a mistura. Bata as claras num recipiente limpo e sem gordura. Depois envolva com movimentos largos desde o fundo para conservar o ar, sem continuar a bater."
+        },
+        {
+          "title": "Controlar o café nos biscoitos",
+          "text": "Deixe o café arrefecer antes de montar. Mergulhe cada biscoito brevemente, verificando que humedece sem se desfazer. O tempo depende da marca e da secura; não precisa de os saturar. Se aparecer líquido no fundo, molhe menos os seguintes. Alterne camadas regulares de biscoitos e creme para distribuir o café e manter a estrutura de cada porção."
+        },
+        {
+          "title": "Repouso e apresentação",
+          "text": "As quatro horas indicadas são de refrigeração, não de trabalho ativo. O repouso hidrata os biscoitos e dá consistência ao creme. Se continuar muito mole, espere mais antes de cortar. Pode montar em copos individuais sem depender de um corte limpo. Peneire o cacau no final para não ficar húmido durante todo o repouso."
+        },
+        {
+          "title": "Ovos e refrigeração",
+          "text": "Esta versão não cozinha os ovos: use ovos ou produtos de ovo rotulados como pasteurizados, seguindo o fabricante. As claras pasteurizadas podem bater de forma diferente; confirme que são adequadas. Mantenha refrigerado até servir e devolva o restante ao frio. A FDA recomenda produtos pasteurizados para pratos com ovo cru ou pouco cozinhado; café e repouso não substituem esse tratamento."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Тирамису с чёткими слоями",
+      "sections": [
+        {
+          "title": "Подготовка крема",
+          "text": "Основа должна быть однородной до добавления белков. Если в маскарпоне комки, аккуратно вмешивайте его в желтки небольшими порциями; долгое сильное взбивание может чрезмерно размягчить смесь. Взбивайте белки в чистой обезжиренной посуде, затем вмешивайте широкими движениями от дна, сохраняя воздух вместо дальнейшего взбивания."
+        },
+        {
+          "title": "Контроль кофейной пропитки",
+          "text": "Остудите кофе перед сборкой. Кратко погружайте каждое печенье савоярди, проверяя, что оно влажное, но не распадается. Время зависит от марки и сухости: полное насыщение не требуется. Если на дне появляется жидкость, меньше смачивайте следующие. Чередуйте ровные слои печенья и крема для распределения кофе и сохранения структуры порций."
+        },
+        {
+          "title": "Выдержка и оформление",
+          "text": "Указанные четыре часа — время в холодильнике, а не активная работа. Выдержка увлажняет печенье и укрепляет крем. Если смесь ещё очень мягкая, подождите перед нарезкой. Можно собрать в отдельных стаканах, не полагаясь на ровный срез. Просеивайте какао перед подачей, чтобы оно не намокало всё время выдержки."
+        },
+        {
+          "title": "Яйца и охлаждение",
+          "text": "В этой версии яйца не готовятся: используйте яйца или яичные продукты с маркировкой «пастеризованные» по инструкции производителя. Пастеризованные белки могут взбиваться иначе; проверьте пригодность. Держите десерт охлаждённым до подачи и возвращайте остатки в холодильник. FDA рекомендует пастеризованные продукты для блюд с сырыми или недостаточно приготовленными яйцами; кофе и выдержка не заменяют эту обработку."
+        }
+      ]
+    },
+    "ur": {
+      "title": "واضح تہوں والا تیرامیسو بنانا",
+      "sections": [
+        {
+          "title": "کریم تیار کرنا",
+          "text": "انڈے کی سفیدی ڈالنے سے پہلے بنیاد یکساں ہو۔ ماسکارپونے میں گٹھلیاں ہوں تو تھوڑی تھوڑی مقدار زردی میں نرمی سے ملائیں؛ دیر تک تیز پھینٹنے سے آمیزہ بہت نرم ہو سکتا ہے۔ سفیدی کے لیے صاف، چکنائی سے پاک برتن لیں، پھر تہہ سے بڑے موڑ دے کر ملائیں تاکہ ہوا بچے، مسلسل نہ پھینٹیں۔"
+        },
+        {
+          "title": "بسکٹ میں کافی کی مقدار قابو میں رکھنا",
+          "text": "تہیں لگانے سے پہلے کافی ٹھنڈی کریں۔ ہر لیڈی فنگر تھوڑی دیر ڈبوئیں اور دیکھیں کہ نم ہو مگر ٹوٹے نہیں۔ وقت برانڈ اور خشک ہونے پر منحصر ہے؛ کافی سے مکمل بھرنا ضروری نہیں۔ تہہ میں مائع آئے تو اگلے بسکٹ کم بھگوئیں۔ بسکٹ اور کریم کی برابر تہیں باری باری رکھیں تاکہ کافی پھیلے اور ہر حصہ شکل برقرار رکھے۔"
+        },
+        {
+          "title": "آرام اور پیش کرنا",
+          "text": "بتائے چار گھنٹے فریج میں رکھنے کے ہیں، عملی کام کے نہیں۔ آرام سے بسکٹ نم اور کریم مضبوط ہوتی ہے۔ آمیزہ بہت نرم ہو تو کاٹنے سے پہلے مزید انتظار کریں۔ الگ گلاسوں میں بنا سکتے ہیں، جہاں صاف کٹ کی ضرورت نہیں۔ کوکو آخر میں چھانیں تاکہ پورے آرام میں نم نہ ہو۔"
+        },
+        {
+          "title": "انڈے اور فریج میں رکھنا",
+          "text": "اس نسخے میں انڈے نہیں پکتے؛ پاسچرائزڈ لکھے انڈے یا انڈے کی مصنوعات لیں اور سازندے کی ہدایات مانیں۔ پاسچرائزڈ سفیدی مختلف طرح پھینٹی جا سکتی ہے؛ مناسب ہونے کی تصدیق کریں۔ میٹھا پیش کرنے تک فریج میں رکھیں اور باقی واپس ٹھنڈا کریں۔ FDA کچے یا کم پکے انڈے کے کھانوں میں پاسچرائزڈ مصنوعات تجویز کرتا ہے؛ کافی اور آرام اس عمل کا بدل نہیں۔"
+        }
+      ]
+    },
+    "id": {
+      "title": "Membuat tiramisu dengan lapisan jelas",
+      "sections": [
+        {
+          "title": "Menyiapkan krim",
+          "text": "Dasar harus merata sebelum putih telur ditambahkan. Jika mascarpone menggumpal, campurkan perlahan ke kuning telur sedikit-sedikit; mengocok kuat terlalu lama dapat membuatnya terlalu lunak. Kocok putih telur dalam wadah bersih tanpa lemak, lalu lipat dengan gerakan lebar dari dasar untuk menjaga udara, bukan terus mengocok."
+        },
+        {
+          "title": "Mengendalikan rendaman kopi",
+          "text": "Dinginkan kopi sebelum menyusun. Celupkan setiap ladyfinger sebentar dan pastikan lembap tanpa hancur. Waktunya bergantung pada merek dan kekeringan; tidak perlu jenuh kopi. Jika cairan terkumpul di dasar, celupkan biskuit berikutnya lebih singkat. Susun lapisan biskuit dan krim merata secara bergantian agar kopi tersebar dan tiap porsi tetap berbentuk."
+        },
+        {
+          "title": "Istirahat dan penyajian",
+          "text": "Empat jam yang tercantum adalah waktu pendinginan, bukan kerja aktif. Istirahat membantu biskuit menyerap kelembapan dan krim menguat. Jika masih terlalu lunak, tunggu lebih lama sebelum dipotong. Gelas individual juga dapat dipakai tanpa bergantung pada potongan rapi. Ayak kakao terakhir agar tidak lembap sepanjang waktu istirahat."
+        },
+        {
+          "title": "Telur dan pendinginan",
+          "text": "Versi ini tidak memasak telur: gunakan telur atau produk telur berlabel dipasteurisasi sesuai petunjuk produsen. Putih telur pasteurisasi mungkin mengembang berbeda; periksa kesesuaiannya. Simpan dessert di lemari es hingga disajikan dan kembalikan sisanya ke dingin. FDA menyarankan produk pasteurisasi untuk hidangan telur mentah atau kurang matang; kopi dan waktu istirahat tidak menggantikan perlakuan tersebut."
+        }
+      ]
+    },
+    "ja": {
+      "title": "層がきれいなティラミスを作るコツ",
+      "sections": [
+        {
+          "title": "クリームの準備",
+          "text": "卵白を加える前にベースを均一にします。マスカルポーネにだまがある場合は、少量ずつ卵黄に優しく混ぜます。長時間強く泡立てると柔らかくなりすぎます。卵白は清潔で油分のない容器で泡立て、さらに泡立て続けず、底から大きく折り込むように混ぜて空気を残します。"
+        },
+        {
+          "title": "ビスケットのコーヒー量を調整",
+          "text": "組み立てる前にコーヒーを冷まします。フィンガービスケットを短時間浸し、崩れずに湿ることを確認します。時間は銘柄と乾燥具合で変わり、飽和させる必要はありません。底に液体が出たら、次は浸す量を減らします。ビスケットとクリームを均等に交互に重ね、コーヒーを分散させ、各部分の形を保ちます。"
+        },
+        {
+          "title": "休ませ方と盛り付け",
+          "text": "記載の四時間は冷蔵時間で、作業時間ではありません。休ませることでビスケットが湿り、クリームがしっかりします。まだ柔らかすぎる場合は切る前にさらに待ちます。個別のグラスなら、きれいな切り口に頼らずに盛れます。ココアは休ませる間に湿らないよう、最後にふるいかけます。"
+        },
+        {
+          "title": "卵と冷蔵",
+          "text": "この版では卵を加熱しません。殺菌済みと表示された卵や卵製品を使い、製造元の指示に従います。殺菌済み卵白は泡立ち方が違うことがあるため、用途への適合を確認します。出すまで冷蔵し、残りも冷蔵庫に戻します。FDAは生卵や加熱不十分の卵を使う料理に殺菌済み製品を推奨しています。コーヒーや休ませる時間はこの処理の代わりにはなりません。"
+        }
+      ]
+    }
+  }
+}

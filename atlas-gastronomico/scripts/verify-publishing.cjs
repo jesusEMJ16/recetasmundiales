@@ -5,7 +5,10 @@ const path = require('node:path');
 const { chromium } = require(process.env.PLAYWRIGHT_PATH || 'playwright');
 const base = process.env.SITE_BASE_URL || 'http://127.0.0.1:3000';
 const reports = path.resolve('../image-validation');
-const translatedGuideSlugs = Object.keys(require('../src/data/cooking-guide-translations.json'));
+const guideTranslations = require('../src/data/cooking-guide-translations.json');
+const originalGuidance = require('../src/data/editorial-guidance.json');
+const longGuideTranslations = require('../src/data/long-cooking-guide-translations.json');
+const translatedGuideSlugs = [...Object.keys(guideTranslations), ...Object.keys(longGuideTranslations)];
 
 (async () => {
   fs.mkdirSync(reports, { recursive: true });
@@ -99,19 +102,26 @@ const translatedGuideSlugs = Object.keys(require('../src/data/cooking-guide-tran
         await page.goto(base + `/${locale}/receta/${slug}`);
         const language = locale === 'zh' ? 'zh-CN' : locale;
         const direction = ['ar', 'ur'].includes(locale) ? 'rtl' : 'ltr';
+        const longGuide = longGuideTranslations[slug]?.[locale];
+        const expectedSections = longGuideTranslations[slug] ? 4 : 1;
         assert.equal(await page.locator('.cooking-guide [data-guide-fallback]').count(), 0, `${locale}/${slug}: fallback`);
-        assert.equal(await page.locator(`.cooking-guide p[lang="${language}"][dir="${direction}"]`).count(), 1, `${locale}/${slug}: language`);
+        assert.equal(await page.locator(`.cooking-guide p[lang="${language}"][dir="${direction}"]`).count(), expectedSections, `${locale}/${slug}: language`);
         assert.equal(await page.locator(`.cooking-guide h2[lang="${language}"][dir="${direction}"]`).count(), 1, `${locale}/${slug}: heading`);
+        assert.equal(await page.locator(`.cooking-guide h3[lang="${language}"][dir="${direction}"]`).count(), expectedSections, `${locale}/${slug}: section headings`);
+        const expectedParagraphs = longGuide?.sections.map(section => section.text)
+          || (guideTranslations[slug] ? [guideTranslations[slug][locale] || originalGuidance[slug][locale]] : null);
+        if (expectedParagraphs) assert.deepEqual(await page.locator('.cooking-guide p').allTextContents(), expectedParagraphs, `${locale}/${slug}: translated text`);
+        if (longGuide) {
+          assert.equal(await page.locator('.cooking-guide h2').textContent(), longGuide.title, `${locale}/${slug}: title text`);
+          assert.deepEqual(await page.locator('.cooking-guide h3').allTextContents(), longGuide.sections.map(section => section.title), `${locale}/${slug}: section text`);
+        }
         assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true, `${locale}/${slug}: overflow`);
       }
     }
-    await page.goto(base + '/fr/receta/picadas-veracruzanas');
-    assert.equal(await page.locator('.cooking-guide [data-guide-fallback]').count(), 1, 'Untranslated guide notice');
-    assert.equal(await page.locator('.cooking-guide p[lang="en"][dir="ltr"]').count(), 1, 'Untranslated guide language');
-    await page.goto(base + '/ar/receta/cecina-de-yecapixtla');
+    await page.goto(base + '/ar/receta/tiramisu');
     await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
     await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ar-mobile.png'), animations: 'disabled' });
-    await page.goto(base + '/ja/receta/sopa-de-lima');
+    await page.goto(base + '/ja/receta/guacamole');
     await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
     await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ja-mobile.png'), animations: 'disabled' });
     assert.deepEqual(errors, [], 'Browser runtime errors');

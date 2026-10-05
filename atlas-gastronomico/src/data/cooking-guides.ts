@@ -1,5 +1,6 @@
 import additions from "./editorial-guidance.json";
 import translations from "./cooking-guide-translations.json";
+import longTranslations from "./long-cooking-guide-translations.json";
 import type { Locale } from "../i18n/config";
 import { editorialGuidesUi, preparationChecks } from "../i18n/editorial-guides-ui";
 
@@ -41,8 +42,12 @@ const additionalGuidance: Record<string, Partial<Record<Locale, string>>> = Obje
   Object.entries(additions).map(([slug, text]) => [slug, { ...text, ...translations[slug as keyof typeof translations] }]),
 );
 
+const translatedLongGuides: Record<string, Partial<Record<Locale, Guide>>> = longTranslations;
+
 export const cookingGuides: Record<string, Partial<Record<Locale, Guide>>> = {
-  ...existingGuides,
+  ...Object.fromEntries(Object.entries(existingGuides).map(([slug, guide]) => [slug,
+    { ...guide, ...translatedLongGuides[slug] },
+  ])),
   ...Object.fromEntries(Object.entries(additionalGuidance).map(([slug, text]) => [slug,
     Object.fromEntries(Object.entries(text).map(([language, paragraph]) => {
       const locale = language as Locale;
