@@ -108,10 +108,10 @@ const translatedGuideSlugs = Object.keys(require('../src/data/cooking-guide-tran
     await page.goto(base + '/fr/receta/picadas-veracruzanas');
     assert.equal(await page.locator('.cooking-guide [data-guide-fallback]').count(), 1, 'Untranslated guide notice');
     assert.equal(await page.locator('.cooking-guide p[lang="en"][dir="ltr"]').count(), 1, 'Untranslated guide language');
-    await page.goto(base + '/ar/receta/tacos-de-canasta');
+    await page.goto(base + '/ar/receta/cecina-de-yecapixtla');
     await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
     await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ar-mobile.png'), animations: 'disabled' });
-    await page.goto(base + '/ja/receta/corundas-michoacanas');
+    await page.goto(base + '/ja/receta/sopa-de-lima');
     await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
     await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ja-mobile.png'), animations: 'disabled' });
     assert.deepEqual(errors, [], 'Browser runtime errors');
