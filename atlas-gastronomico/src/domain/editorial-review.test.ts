@@ -53,7 +53,7 @@ describe("editorial review integrity", () => {
   });
 
   it("serves the completed guide translation batches in all twelve languages", () => {
-    expect(Object.keys(guideTranslations).sort()).toEqual(Object.keys(guidance).slice(0, 30).sort());
+    expect(Object.keys(guideTranslations).sort()).toEqual(Object.keys(guidance).slice(0, 40).sort());
     for (const slug of Object.keys(guideTranslations)) {
       expect(Object.keys(cookingGuides[slug]).sort(), slug).toEqual([...locales].sort());
       for (const locale of locales) {
@@ -72,9 +72,9 @@ describe("editorial review integrity", () => {
   });
 
   it("retains an honest English fallback for guides outside the translated batch", () => {
-    expect(cookingGuideLocale("ceviche-de-marlin-ahumado", "fr")).toBe("en");
-    expect(cookingGuideLocale("ceviche-de-marlin-ahumado", "ar")).toBe("en");
-    expect(cookingGuideLocale("ceviche-de-marlin-ahumado", "es")).toBe("es");
+    expect(cookingGuideLocale("lomitos-de-valladolid", "fr")).toBe("en");
+    expect(cookingGuideLocale("lomitos-de-valladolid", "ar")).toBe("en");
+    expect(cookingGuideLocale("lomitos-de-valladolid", "es")).toBe("es");
   });
 
   it("links country reading suggestions to recipes in that same country", () => {

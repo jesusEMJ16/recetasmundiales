@@ -105,13 +105,13 @@ const translatedGuideSlugs = Object.keys(require('../src/data/cooking-guide-tran
         assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true, `${locale}/${slug}: overflow`);
       }
     }
-    await page.goto(base + '/fr/receta/ceviche-de-marlin-ahumado');
+    await page.goto(base + '/fr/receta/lomitos-de-valladolid');
     assert.equal(await page.locator('.cooking-guide [data-guide-fallback]').count(), 1, 'Untranslated guide notice');
     assert.equal(await page.locator('.cooking-guide p[lang="en"][dir="ltr"]').count(), 1, 'Untranslated guide language');
-    await page.goto(base + '/ar/receta/tamales-de-chipilin');
+    await page.goto(base + '/ar/receta/ceviche-de-marlin-ahumado');
     await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
     await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ar-mobile.png'), animations: 'disabled' });
-    await page.goto(base + '/ja/receta/tikin-xic');
+    await page.goto(base + '/ja/receta/cafe-de-coatepec');
     await page.locator('.cooking-guide').scrollIntoViewIfNeeded();
     await page.locator('.cooking-guide').screenshot({ path: path.join(reports, 'translated-guide-ja-mobile.png'), animations: 'disabled' });
     assert.deepEqual(errors, [], 'Browser runtime errors');
